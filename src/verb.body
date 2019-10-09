@@ -1,0 +1,4368 @@
+verb.body
+
+w: abort drf noun.act:abortion
+d: terminate a pregnancy by undergoing an abortion
+fs: 2
+entail: conceive
+hyper: miscarry
+hypo: discharge
+
+w: abort 1
+d: cease development, die, and be aborted
+e: an aborting fetus
+fs: 1
+hypo: verb.change:buy_the_farm
+
+w: acquire
+w: develop drf noun.process:development 1
+w: get 1 drf noun.act:getting
+w: grow
+w: produce
+d: come to have or undergo a change of (physical features and attributes)
+e: He grew a beard
+e: The patient developed abdominal pains
+e: I got funny spots all over my body
+e: Well-developed breasts
+fs: 8 11
+hyper: cut 4
+hyper: feather
+hyper: get_up 3
+hyper: leaf
+hyper: pod
+hyper: pupate
+hyper: regrow
+hyper: spring
+hyper: sprout 1
+hyper: stool 1
+hyper: teethe
+hypo: verb.change:change
+vg: verb.change:acquire 5
+
+w: act see verb.perception:act_up
+w: behave
+w: do 9
+d: behave in a certain manner; show a certain behavior; conduct or comport oneself
+e: You should act like an adult
+e: Don't behave like a fool
+e: What makes her do this way?
+e: The dog acts ferocious, but he is really afraid of people
+fs: 2 7
+hyper: act 1
+hyper: act_involuntarily
+hyper: bend_over_backwards
+hyper: bluster
+hyper: bungle
+hyper: freeze 2
+hyper: jest
+hyper: make 6
+hyper: make 8
+hyper: make_as_if
+hyper: menace
+hyper: optimise
+hyper: piffle
+hyper: play
+hyper: presume
+hyper: quack
+hyper: romanticize
+hyper: sentimentalise
+hyper: stooge
+hyper: vulgarise
+hyper: wanton
+hyper: verb.emotion:break_down
+hyper: verb.motion:dally
+hyper: verb.social:backslap
+hyper: verb.social:follow 10
+hyper: verb.social:footle
+hyper: verb.social:frivol
+hyper: verb.social:hugger_mugger
+hyper: verb.social:loosen_up 2
+hyper: verb.social:puff_up
+hyper: verb.social:sauce
+hyper: verb.stative:rage 1
+vg: act 1
+vg: verb.creation:act 4
+
+w: act 1 drf noun.communication:act 3
+w: act_as
+w: play 1
+d: pretend to have certain qualities or state of mind
+e: He acted the idiot
+e: She plays deaf when the news are bad
+fs: 9
+hypo: act
+vg: act
+vg: verb.creation:act
+
+w: act_involuntarily
+w: act_reflexively
+d: act in an uncontrolled manner
+fs: 2
+hyper: blink
+hyper: break_wind
+hyper: salivate
+hyper: sneeze
+hypo: act
+
+w: administer drf noun.act:administration 1
+w: dispense drf noun.act:dispensation drf noun.artifact:dispensary drf noun.possession:dispensation
+d: give or apply (medications)
+fs: 15 8
+entail: verb.possession:apply
+hyper: digitalize
+hyper: inject
+hyper: transfuse 1
+hyper: verb.possession:give 13
+hypo: care_for
+mt: noun.act:medicine
+
+w: aestivate ant hibernate drf noun.state:aestivation
+w: estivate ant hibernate drf noun.state:estivation
+d: sleep during summer
+e: certain animals estivate
+fs: 1
+hypo: catch_some_Z's
+
+w: affect
+d: act physically on; have an effect upon
+e: the medicine affects my heart rate
+fs: 10 9 11 8
+hyper: arouse
+hyper: attack
+hyper: calm
+hyper: cramp 1
+hyper: jaundice
+hyper: loosen_up 1
+hyper: strain
+hyper: ulcerate
+hyper: verb.cognition:register
+hyper: verb.consumption:inebriate 1
+hypo: verb.change:alter 1
+
+w: aid drf noun.act:aid 1
+w: help drf noun.act:help drf noun.attribute:help
+d: improve the condition of
+e: These pills will help the patient
+fs: 9 10
+hyper: bring_around 1
+hyper: verb.possession:benefit 1
+hypo: verb.change:ameliorate 1
+
+w: ail drf noun.state:ailment
+d: be ill or unwell
+fs: 2
+hypo: hurt 2
+
+w: ail 1 drf noun.state:ailment
+w: pain drf noun.cognition:pain drf noun.state:pain
+w: trouble drf noun.event:trouble
+d: cause bodily suffering to and make sick or indisposed
+fs: 10
+hyper: verb.change:break_out
+hypo: hurt 1
+
+w: alleviate drf adjs.all:alleviative drf adjs.all:alleviatory drf noun.act:alleviation drf noun.artifact:alleviant drf noun.artifact:alleviator drf noun.feeling:alleviation drf noun.person:alleviator
+w: assuage drf noun.feeling:assuagement
+w: palliate drf adjs.all:palliative drf noun.act:palliation
+w: relieve
+d: provide physical relief, as from pain
+e: This pill will relieve your headaches
+fs: 11
+hyper: comfort
+hyper: soothe
+hypo: verb.change:ameliorate 1
+
+w: alter
+w: castrate 2 drf noun.act:castration 1 drf noun.act:neutering drf noun.communication:neuter
+w: neuter
+w: spay drf noun.act:spaying
+d: remove the ovaries of
+e: Is your cat spayed?
+fs: 9
+hyper: defeminise
+hypo: desex
+
+w: anaesthetise drf noun.artifact:anaesthetic
+w: anaesthetize drf adj.pert:anaesthetic drf noun.artifact:anaesthetic
+w: anesthetise drf noun.artifact:anesthetic
+w: anesthetize ant bring_to drf noun.artifact:anesthetic
+w: put_out
+w: put_under
+d: administer an anesthetic drug to
+e: The patient must be anesthetized before the operation
+e: anesthetize the gum before extracting the teeth
+fs: 8 9 10
+hyper: chloroform
+hyper: cocainise
+hyper: etherise
+hyper: freeze 1
+hyper: verb.perception:block 5
+hypo: dose
+
+w: ancylose
+w: ankylose
+d: undergo ankylosis
+e: joints ankylose
+fs: 1
+hypo: verb.change:grow 2
+mt: noun.act:medicine
+
+w: ancylose 1
+w: ankylose 1
+d: produce ankylosis by surgery
+fs: 8
+hypo: verb.contact:bring_together 1
+mt: noun.act:medicine
+
+w: anele
+w: anoint drf noun.act:anointment drf noun.person:anointer
+w: embrocate drf noun.artifact:embrocation
+w: inunct drf noun.act:inunction
+w: oil drf noun.substance:oil
+d: administer an oil or ointment to ; often in a religious ceremony of blessing
+fs: 9 17 8
+hypo: verb.communication:bless
+
+w: animate
+w: quicken drf noun.object:quickener
+w: reanimate
+w: recreate 2 drf noun.act:recreation 1
+w: renovate
+w: repair 3
+w: revive
+w: revivify drf noun.act:revivification
+w: vivify drf noun.act:vivification
+d: give new life or energy to
+e: A hot soup will revive me
+e: This will renovate my spirits
+e: This treatment repaired my health
+fs: 9 10
+hypo: arouse
+vg: come_to
+
+w: antic drf noun.act:antic
+w: clown drf noun.act:clowning drf noun.communication:clowning drf noun.person:clown
+w: clown_around
+d: act as or like a clown
+fs: 2
+hypo: jest
+
+w: antisepticize
+d: disinfect with an antiseptic
+e: The animals were antisepticized by the veterinarian before the operation
+fs: 10 8 9 11
+hypo: disinfect
+
+w: apparel drf noun.artifact:apparel
+w: clothe drf noun.artifact:clothing
+w: dress 1 ant undress drf noun.act:dressing drf noun.artifact:dress 2 drf noun.person:dresser
+w: enclothe
+w: fit_out
+w: garb drf noun.artifact:garb
+w: garment drf noun.artifact:garment
+w: habilitate
+w: raiment drf noun.artifact:raiment
+w: tog
+d: provide with clothes or put clothes on
+e: Parents must feed and dress their child
+fs: 9 8
+hyper: coat
+hyper: corset
+hyper: costume
+hyper: cover 15
+hyper: frock
+hyper: gown
+hyper: habit
+hyper: jacket
+hyper: overclothe
+hyper: prim
+hyper: robe
+hyper: shirt
+hyper: shoe
+hyper: underdress 1
+hyper: vesture
+hypo: verb.change:change_state
+vg: dress
+
+w: arise
+w: get_up ant go_to_bed
+w: rise 8 drf noun.act:rise drf noun.person:riser
+w: turn_out ant turn_in
+w: uprise
+d: get up and out of bed
+e: I get up at 7 A.M. every day
+e: They rose early
+e: He uprose at night
+fs: 2
+
+w: arouse
+w: brace drf noun.artifact:bracer
+w: energise ant de-energise drf noun.person:energiser
+w: energize ant de-energize drf noun.act:energizing drf noun.attribute:energy drf noun.attribute:energy 2 drf noun.person:energizer drf noun.phenomenon:energy drf noun.state:energy
+w: perk_up 1
+w: stimulate ant sedate drf adj.all:stimulative drf noun.artifact:stimulant
+d: cause to be alert and energetic
+e: Coffee and tea stimulate me
+e: This herbal infusion doesn't stimulate
+fs: 8 10 2 9 11
+hyper: animate
+hyper: cathect
+hyper: invigorate
+hyper: verb.change:animate
+hypo: affect
+
+w: arouse 1 drf noun.cognition:arousal drf noun.person:arouser
+w: awaken ant cause_to_sleep drf noun.act:awakening
+w: rouse 2 drf noun.person:rouser
+w: wake 2
+w: wake_up 1
+w: waken 1
+d: cause to become awake or conscious
+e: He was roused by the drunken men in the street
+e: Please wake me at 6 AM.
+fs: 9 10
+hyper: bring_around
+hyper: call 5
+hyper: reawaken
+hypo: verb.change:alter 1
+
+w: arouse 5 drf noun.cognition:arousal
+w: awake
+w: awaken 1 drf noun.act:awakening
+w: come_alive
+w: wake 1 drf noun.person:waker
+w: wake_up ant fall_asleep
+w: waken drf noun.act:wakening
+d: stop sleeping
+e: She woke up to the sound of the alarm clock
+fs: 2
+entail: catch_some_Z's
+hypo: verb.change:change_state
+
+w: arrange drf noun.group:arrangement
+w: coif drf noun.body:coiffure
+w: coiffe
+w: coiffure drf noun.body:coiffure
+w: do 4
+w: dress 4
+w: set 5
+d: arrange attractively
+e: dress my hair for the wedding
+fs: 8
+hyper: bob
+hyper: wave
+hypo: groom
+vg: curry
+
+w: aspirate drf noun.act:aspiration drf noun.artifact:aspirator
+d: suck in (air)
+fs: 8
+hypo: breathe_in
+
+w: assume
+w: don
+w: get_into
+w: put_on
+w: wear 1 drf adj.all:wearable drf noun.artifact:wear
+d: put clothing on one's body
+e: What should I wear today?
+e: He put on his best suit for the wedding
+e: The princess donned a long blue dress
+e: The queen assumed the stately robes
+e: He got into his jeans
+fs: 8
+hyper: hat
+hyper: scarf
+hyper: slip_on
+hyper: try
+hypo: dress
+
+w: atrophy drf noun.event:atrophy drf noun.state:atrophy
+d: undergo atrophy
+e: Muscles that are not used will atrophy
+fs: 2 1 23
+hypo: verb.change:shrink 2
+
+w: attack drf noun.person:attacker drf noun.process:attack
+d: begin to injure
+e: The cancer cells are attacking his liver
+e: Rust is attacking the metal
+fs: 11
+hypo: affect
+
+w: attire drf noun.artifact:attire
+w: deck_out
+w: deck_up
+w: dress_up fs 2 ant dress_down see dress
+w: fancy_up
+w: fig_out
+w: fig_up
+w: get_up 2 drf noun.artifact:getup
+w: gussy_up
+w: overdress fs 2 ant underdress
+w: prink
+w: rig_out drf noun.artifact:rigout
+w: tog_out
+w: tog_up
+w: trick_out
+w: trick_up
+d: put on special clothes to appear particularly appealing and attractive
+e: She never dresses up, even when she goes to the opera
+e: The young girls were all fancied up for the party
+fs: 9
+hyper: bedizen
+hyper: dress 5
+hyper: enrobe
+hyper: prank
+hyper: tart_up
+hypo: dress
+vg: costume
+vg: dress 7
+
+w: autoclave drf noun.artifact:autoclave
+d: subject to the action of an autoclave
+fs: 8
+hypo: sterilise 1
+
+w: bandage drf noun.artifact:bandage
+d: dress by covering or binding
+e: The nurse bandaged a sprained ankle
+e: bandage an incision
+fs: 8
+hyper: ligate
+hypo: dress 2
+mt: noun.act:medicine
+
+w: bang_up
+w: impregnate drf noun.event:impregnation
+w: knock_up
+w: prang_up
+d: make pregnant
+e: He impregnated his wife again
+fs: 9
+hypo: fecundate
+vg: impregnate 1
+
+w: barber drf noun.person:barber
+d: perform the services of a barber: cut the hair and/or beard of
+fs: 1
+hypo: groom
+
+w: barf
+w: be_sick 1
+w: cast
+w: cat
+w: chuck
+w: disgorge drf noun.act:disgorgement
+w: honk
+w: puke drf noun.act:puking drf noun.substance:puke
+w: purge 4
+w: regorge
+w: regurgitate fs 8 drf noun.act:regurgitation
+w: retch fs 8 drf noun.act:retch
+w: sick drf noun.group:sick
+w: spew drf noun.person:spewer
+w: spue
+w: throw_up fs 8
+w: upchuck
+w: vomit ant keep_down drf noun.act:vomit drf noun.act:vomiting drf noun.artifact:vomit drf noun.person:vomiter drf noun.substance:vomit
+w: vomit_up fs 8
+d: eject the contents of the stomach through the mouth
+e: After drinking too much, the students vomited
+e: He purged continuously
+e: The patient regurgitated the food we gave him last night
+fs: 2
+hypo: egest
+
+w: bat
+w: flutter
+d: wink briefly
+e: bat one's eyelids
+fs: 8
+hypo: blink
+
+w: bath drf noun.act:bath drf noun.artifact:bath drf noun.artifact:bath 1
+w: bathe 1 drf noun.act:bathe drf noun.act:bathing drf noun.person:bather 1
+d: clean one's body by immersion into water
+e: The child should bathe every day
+fs: 9 2
+hyper: foment
+hypo: clean
+
+w: bathe drf noun.act:bathing 1 drf noun.person:bather 1
+d: cleanse the entire body
+e: bathe daily
+fs: 2
+hyper: shower
+hypo: clean
+
+w: bawl drf noun.person:bawler 1
+d: cry loudly
+e: Don't bawl in public!
+fs: 2
+hypo: cry
+
+w: be_active ant rest
+w: move 6 drf noun.act:move drf noun.person:mover 1 drf noun.state:motion
+d: be in a state of action
+e: she is always moving
+fs: 2
+hyper: verb.motion:bestir
+
+w: be_well ant suffer
+d: be healthy; feel good
+e: She has not been well lately
+fs: 1 2
+hypo: verb.stative:be 3
+
+w: beam
+d: smile radiantly; express joy through one's facial expression
+fs: 2
+hypo: smile
+
+w: bear
+w: carry
+w: expect drf adjs.all:expectant 1 drf noun.feeling:expectation
+w: gestate drf noun.state:gestation drf noun.time:gestation
+w: have_a_bun_in_the_oven
+d: be pregnant with
+e: She is bearing his child
+e: The are expecting another child in January
+e: I am carrying his child
+fs: 9
+entail: conceive
+hypo: bear 1
+vg: bear 1
+vg: expect 2
+
+w: bear 1
+w: birth drf noun.event:birth drf noun.process:birth drf noun.time:birth
+w: deliver 1 drf noun.act:delivery 2
+w: give_birth fs 2
+w: have
+d: cause to be born
+e: My wife had twins yesterday!
+fs: 9
+entail: conceive
+hyper: bear
+hyper: calve
+hyper: cub
+hyper: drop
+hyper: farrow
+hyper: fawn
+hyper: foal
+hyper: kitten
+hyper: lamb
+hyper: litter
+hyper: pup
+hyper: twin
+hypo: verb.creation:bring_forth
+vg: bear
+
+w: bear 2
+w: wear 4 drf adj.all:wearable drf noun.act:wear drf noun.act:wearing drf noun.artifact:wear
+d: have on one's person
+e: He wore a red ribbon
+e: bear a scar
+fs: 8
+hypo: verb.stative:feature
+
+w: beat
+w: exhaust drf noun.act:exhaustion
+w: tucker
+w: tucker_out
+w: wash_up 1
+d: wear out completely
+e: This kind of work exhausts me
+e: I'm beat
+e: He was all washed up after the exam
+fs: 9 10
+hyper: frazzle
+hyper: play 4
+hyper: verb.change:kill 4
+hypo: fag
+
+w: bed
+w: crawl_in
+w: go_to_bed ant get_up
+w: go_to_sleep 1
+w: hit_the_hay
+w: hit_the_sack
+w: kip_down
+w: retire
+w: sack_out
+w: turn_in ant turn_out
+d: prepare for sleep
+e: I usually turn in at midnight
+e: He goes to bed at the crack of dawn
+fs: 2
+hyper: bed_down
+
+w: bed_down
+w: bunk_down
+d: go to bed
+e: We bedded down at midnight
+fs: 22 2
+hyper: crash
+hypo: bed
+
+w: bedizen
+w: dizen
+d: dress up garishly and tastelessly
+fs: 9
+hypo: attire
+
+w: beget drf noun.person:begetter
+w: bring_forth
+w: engender
+w: father drf noun.person:father
+w: generate drf adjs.all:generative drf noun.act:generation drf noun.event:generation drf noun.group:generation
+w: get 8
+w: mother drf noun.person:mother
+w: sire drf noun.animal:sire drf noun.person:sire
+d: make children
+e: Abraham begot Isaac
+e: Men often father children but don't recognize them
+fs: 9
+hypo: verb.creation:create
+
+w: belch drf noun.act:belch
+w: bubble drf noun.object:bubble
+w: burp drf noun.act:burp
+w: eruct drf noun.act:eructation
+d: expel gas from the stomach
+e: In China it is polite to burp at the table
+fs: 2
+hypo: breathe 1
+
+w: bellylaugh
+d: laugh a deep, hearty laugh
+fs: 2
+hypo: express_joy
+
+w: bend_over_backwards
+w: fall_over_backwards
+d: try very hard to please someone
+e: She falls over backwards when she sees her mother-in-law
+fs: 2
+hypo: act
+
+w: bind
+w: constipate drf noun.state:constipation
+d: cause to be constipated
+e: These foods tend to constipate you
+fs: 10
+hyper: obstipate
+hypo: indispose
+
+w: black_out drf noun.cognition:blackout
+w: pass_out 1
+w: zonk_out 1
+d: lose consciousness due to a sudden trauma, for example
+fs: 2
+hyper: conk
+hypo: verb.change:change_state
+
+w: blanch
+w: blench
+w: pale drf noun.attribute:pallor
+d: turn pale, as if in fear
+fs: 2
+hypo: verb.change:color 1
+
+w: bleed drf noun.person:bleeder drf noun.state:bleeding
+w: hemorrhage drf noun.state:hemorrhage
+w: shed_blood
+d: lose blood from one's body
+fs: 2
+hyper: flow
+hypo: discharge
+
+w: bleed 1
+w: leech drf noun.animal:leech
+w: phlebotomise
+w: phlebotomize drf noun.act:phlebotomy
+d: draw blood
+e: In the old days, doctors routinely bled patients as part of the treatment
+fs: 9
+hypo: care_for
+mt: noun.act:medicine
+
+w: blink drf noun.act:blink drf noun.act:blinking
+w: nictate drf noun.act:nictation
+w: nictitate drf noun.act:nictitation
+w: wink drf noun.act:wink drf noun.act:winking drf noun.person:winker
+d: briefly shut the eyes
+e: The TV announcer never seems to blink
+fs: 2
+hyper: bat
+hyper: palpebrate
+hypo: act_involuntarily
+
+w: blink 1 drf noun.act:blink
+w: blink_away
+w: wink 1 drf noun.communication:wink
+d: force to go away by blinking
+e: blink away tears
+fs: 8
+hypo: verb.change:conquer
+
+w: blow drf noun.act:blow 2
+d: exhale hard
+e: blow on the soup to cool it down
+fs: 2
+hyper: chuff
+hyper: gasp
+hyper: insufflate
+hypo: breathe_out
+
+w: blow 1 drf noun.act:blow 2
+d: free of obstruction by blowing air through
+e: blow one's nose
+fs: 2
+hypo: discharge
+
+w: blub
+w: blubber drf noun.person:blubberer
+w: sniffle 1
+w: snivel 1 drf noun.act:snivel drf noun.act:sniveling drf noun.person:sniveller
+w: snuffle 1 drf noun.act:snuffle
+d: cry or whine with snuffling
+e: Stop snivelling--you got yourself into this mess!
+fs: 2
+hypo: cry
+
+w: blush drf noun.act:blush drf noun.artifact:blusher drf noun.plant:blusher
+w: crimson drf noun.attribute:crimson
+w: flush drf noun.act:flush drf noun.state:flush
+w: redden
+d: turn red, as if in embarrassment or shame
+e: The girl blushed when a young man whistled as she walked by
+fs: 2
+hypo: verb.change:color 1
+
+w: bluster drf noun.person:blusterer
+w: swagger drf noun.person:swaggerer
+w: swash
+d: act in an arrogant, overly self-assured, or conceited manner
+fs: 2
+hypo: act
+
+w: bob drf noun.body:bob
+d: cut hair in the style of a bob
+e: Bernice bobs her hair these days!
+fs: 8
+hypo: arrange
+
+w: bonnet drf noun.artifact:bonnet
+d: dress in a bonnet
+fs: 9
+hypo: hat
+
+w: boot
+w: bring_up
+w: reboot
+d: cause to load (an operating system) and start the initial processes
+e: boot your computer
+fs: 8
+hypo: resuscitate
+
+w: bray drf noun.event:bray
+d: laugh loudly and harshly
+fs: 2 22
+hypo: express_joy
+
+w: break 4 drf noun.state:break
+w: fracture drf noun.act:fracture drf noun.state:fracture
+d: fracture a bone of
+e: I broke my foot while playing hockey
+fs: 8
+hypo: injure
+vg: fracture 1
+
+w: break 10
+d: weaken or destroy in spirit or body
+e: His resistance was broken
+e: a man broken by the terrible experience of near-death
+fs: 10
+hypo: verb.change:weaken 1
+
+w: break 11
+d: diminish or discontinue abruptly
+e: The patient's fever broke last night
+fs: 1
+hypo: verb.change:decrease
+
+w: break_down drf noun.state:breakdown 1
+w: collapse drf noun.state:collapse 1
+d: collapse due to fatigue, an illness, or a sudden attack
+fs: 2
+hyper: drop_like_flies
+hyper: fall_over
+hypo: get 11
+
+w: break_up
+w: crack_up
+d: laugh unrestrainedly
+fs: 2
+hypo: express_joy
+
+w: break_wind
+w: fart drf noun.act:fart drf noun.act:farting
+d: expel intestinal gases through the anus
+fs: 2
+hypo: act_involuntarily
+
+w: breathe drf noun.act:breathing drf noun.artifact:breather see breathe_in see breathe_out
+w: respire drf adj.pert:respiratory drf noun.act:respiration 1 drf noun.artifact:respirator
+w: suspire 3
+w: take_a_breath
+d: draw air into, and expel out of, the lungs
+e: I can breathe better when the air is clean
+e: The patient is respiring
+fs: 2 8
+entail: breathe_in
+entail: breathe_out
+hyper: breathe_in
+hyper: breathe_out
+hyper: choke
+hyper: hiccough
+hyper: hyperventilate
+hyper: respire 2
+hyper: saw_logs
+hyper: sigh
+hyper: wheeze
+hyper: yawn
+vg: respire 1
+vg: respire 2
+
+w: breathe 1
+w: emit drf noun.act:emission
+w: pass_off
+d: expel (gases or odors)
+fs: 8 11
+hyper: belch
+hyper: emanate
+hyper: force_out
+hyper: verb.change:bubble
+hyper: verb.change:radiate
+hypo: discharge
+
+w: breathe_in
+w: inhale ant exhale drf adj.pert:inhalant drf noun.act:inhalation drf noun.artifact:inhalator 1 drf noun.substance:inhalant
+w: inspire drf adj.pert:inspiratory drf noun.act:inspiration
+d: draw in (air)
+e: Inhale deeply
+e: inhale the fresh mountain air
+e: The patient has trouble inspiring
+e: The lung cancer patient cannot inspire air very well
+fs: 8 2
+hyper: aspirate
+hyper: sniff
+hyper: snivel
+hyper: snuff 2
+hyper: verb.consumption:drag
+hyper: verb.consumption:huff
+hypo: breathe
+
+w: breathe_out
+w: exhale ant inhale drf noun.act:exhalation drf noun.substance:exhalation
+w: expire drf adj.pert:expiratory drf noun.act:expiration
+d: expel air
+e: Exhale when you lift the weight
+fs: 8 2
+hyper: blow
+hyper: snort
+hypo: breathe
+
+w: breed drf noun.act:breeding drf noun.group:breed
+w: multiply drf noun.act:multiplication 1
+d: have young (animals) or reproduce (organisms)
+e: pandas rarely breed in captivity
+e: These bacteria reproduce
+fs: 1
+hyper: pullulate
+hypo: multiply 1
+
+w: bring_around
+w: bring_back
+w: bring_round
+w: bring_to ant anesthetize
+d: return to consciousness
+e: These pictures bring back sad memories
+fs: 10 9
+hyper: resuscitate
+hypo: arouse 1
+
+w: bring_around 1
+w: cure drf adj.all:curable drf adjs.all:curative drf noun.artifact:cure
+w: heal 1 drf noun.person:healer
+d: provide a cure for, make healthy again
+e: The treatment cured the boy's acne
+e: The quack pretended to heal patients but never managed to
+fs: 9 8
+entail: care_for
+hyper: recuperate 1
+hypo: aid
+mt: noun.act:medicine
+
+w: bronze
+w: tan drf noun.process:tanning drf noun.state:tan
+d: get a tan, from wind or sun
+fs: 2
+hyper: suntan
+hypo: verb.change:color 1
+
+w: brood drf noun.artifact:brooder drf noun.group:brood
+w: cover 2
+w: hatch drf noun.process:hatch
+w: incubate drf noun.artifact:incubator drf noun.process:incubation
+d: sit on (eggs)
+e: Birds brood
+e: The female covers the eggs
+fs: 2
+entail: verb.motion:sit
+hypo: multiply 1
+vg: hatch 1
+vg: verb.contact:breed
+
+w: bundle
+w: practice_bundling
+d: sleep fully clothed in the same bed with one's betrothed
+fs: 2
+hypo: catch_some_Z's
+
+w: bundle_up
+d: dress warmly
+e: Mother bundled up the children for the long way to school
+fs: 9
+hypo: dress
+
+w: bungle drf noun.act:bungle drf noun.person:bungler
+d: spoil by behaving clumsily or foolishly
+e: I bungled it!
+fs: 2
+hypo: act
+
+w: burn drf noun.state:burn 2
+w: sunburn drf noun.state:sunburn drf noun.state:sunburn 1
+d: get a sunburn by overexposure to the sun
+fs: 2
+hypo: verb.change:color 1
+
+w: ca-ca
+w: crap drf noun.artifact:crapper drf noun.substance:crap
+w: defecate drf noun.person:defecator drf noun.process:defecation
+w: make
+w: shit drf noun.person:shitter drf noun.process:shit drf noun.process:shitting drf noun.substance:shit
+w: stool drf noun.artifact:stool 1 drf noun.substance:stool
+w: take_a_crap
+w: take_a_shit
+d: have a bowel movement
+e: The dog had made in the flower beds
+fs: 1 2
+hyper: dung
+hypo: egest
+vg: make 1
+
+w: cachinnate drf noun.communication:cachinnation
+d: laugh loudly and in an unrestrained way
+fs: 2
+hypo: express_joy
+
+w: cackle drf noun.communication:cackle
+d: emit a loud, unpleasant kind of laughing
+fs: 2
+hypo: express_joy
+
+w: calk
+d: injure with a calk
+fs: 8
+hypo: injure
+
+w: call 5
+d: rouse somebody from sleep with a call
+e: I was called at 5 A.M. this morning
+fs: 9
+hypo: arouse 1
+
+w: calm drf noun.attribute:calm
+w: sedate ant stimulate drf adjs.all:sedative drf noun.act:sedation
+w: tranquilize drf noun.artifact:tranquilizer
+w: tranquillise drf noun.artifact:tranquilliser
+w: tranquillize drf noun.artifact:tranquillizer
+d: cause to be calm or quiet as by administering a sedative to
+e: The patient must be sedated before the operation
+fs: 9
+hyper: hypnotise
+hypo: affect
+
+w: calve
+w: have_young
+d: birth
+e: the whales calve at this time of year
+fs: 1
+hypo: bear 1
+
+w: canker drf noun.state:canker
+d: infect with a canker
+fs: 11
+hypo: infect 1
+
+w: canker 1 drf noun.state:canker
+d: become infected with a canker
+fs: 1
+hypo: come_down
+
+w: caponise drf noun.animal:capon
+w: caponize drf noun.animal:capon
+d: convert a cock into a capon
+fs: 8
+hypo: castrate
+
+w: care_for
+w: treat drf noun.act:treatment
+d: provide treatment for
+e: The doctor treated my broken leg
+e: The nurses cared for the bomb victims
+e: The patient must be treated right away or she will die
+e: Treat the infection with antibiotics
+fs: 9 8
+hyper: administer
+hyper: bleed 1
+hyper: correct 4
+hyper: cup
+hyper: detox
+hyper: doctor
+hyper: dress 2
+hyper: hyperventilate 1
+hyper: insufflate 1
+hyper: iodise
+hyper: irrigate
+hyper: manipulate
+hyper: massage
+hyper: medicate
+hyper: nurse
+hyper: operate
+hyper: pack
+hyper: purge
+hyper: relieve 2
+hyper: shock 1
+hyper: splint
+hyper: vet 1
+hyper: verb.change:burn 8
+hyper: verb.cognition:analyse 2
+
+w: carry_to_term ant miscarry
+d: carry out a pregnancy
+e: She decided to carry the child to term, even though the foetus was shown to be defective
+fs: 2 9
+entail: bear
+
+w: castrate drf noun.act:castration drf noun.person:castrate
+w: demasculinise
+w: demasculinize
+w: emasculate drf noun.act:emasculation
+d: remove the testicles of a male animal
+fs: 8 9
+hyper: caponise
+hyper: cut
+hypo: desex
+
+w: catch 10
+d: contract
+e: did you catch a cold?
+fs: 8
+hyper: catch_cold
+hypo: contract
+vg: contract
+
+w: catch_a_wink
+w: catnap drf noun.act:catnap
+w: nap drf noun.act:nap drf noun.time:nap
+d: take a siesta
+e: She naps everyday after lunch for an hour
+fs: 2
+hyper: doze
+hypo: catch_some_Z's
+
+w: catch_cold
+d: come down with a cold
+fs: 2
+hypo: catch 10
+
+w: catch_some_Z's
+w: kip drf noun.time:kip
+w: log_Z's
+w: sleep ant wake drf noun.cognition:sleeping drf noun.person:sleeper drf noun.state:sleep drf noun.time:sleep see sleep_in see sleep_late see verb.consumption:sleep_in see verb.consumption:sleep_out
+w: slumber drf noun.person:slumberer drf noun.state:slumber 1
+d: be asleep
+fs: 2
+hyper: aestivate
+hyper: bundle
+hyper: catch_a_wink
+hyper: hibernate
+hyper: sleep_in
+hypo: rest
+
+w: cathect
+d: inject with libidinal energy
+fs: 10
+hypo: arouse
+
+w: cause_to_sleep ant awaken
+d: make fall asleep
+e: The soft music caused us to fall asleep
+fs: 10 9
+cause: catch_some_Z's
+hypo: verb.change:alter 1
+
+w: chlorinate drf noun.act:chlorination drf noun.substance:chlorine
+d: disinfect with chlorine
+e: chlorinate a pool
+fs: 8
+hypo: disinfect
+
+w: chloroform drf noun.artifact:chloroform
+d: anesthetize with chloroform
+e: Doctors used to put people under by chloroforming them
+fs: 9
+hypo: anaesthetise
+
+w: choke drf noun.state:choking
+d: breathe with great difficulty, as when experiencing a strong emotion
+e: She choked with emotion when she spoke about her deceased husband
+fs: 2
+hypo: breathe
+
+w: choke 1
+w: gag 2
+d: cause to retch or choke
+fs: 10
+hypo: sicken 1
+
+w: choke 3 drf noun.state:choking
+w: gag
+w: strangle 3
+w: suffocate 1 drf adjs.all:suffocative drf noun.state:suffocation
+d: struggle for breath; have insufficient oxygen intake
+e: he swallowed a fishbone and gagged
+fs: 13 2 22
+hypo: hurt 2
+
+w: choke 4 drf noun.act:choking
+w: strangle 2 drf noun.state:strangulation
+d: constrict (someone's) throat and keep from breathing
+fs: 10 9
+cause: choke
+hypo: verb.contact:compact
+
+w: chortle drf noun.communication:chortle
+w: chuckle drf noun.communication:chuckle
+w: laugh_softly
+d: laugh quietly or with restraint
+fs: 2
+hypo: express_joy
+
+w: chuff
+w: huff drf noun.act:huffing
+w: puff 1 drf noun.act:puff 1 drf noun.act:puffing 1
+d: blow hard and loudly
+e: he huffed and puffed as he made his way up the mountain
+fs: 2
+hypo: blow
+
+w: clap drf noun.communication:clapping drf noun.person:clapper
+w: spat
+d: clap one's hands together
+e: The children were clapping to the music
+fs: 2
+hypo: verb.communication:gesticulate
+
+w: clean drf noun.act:cleaning
+w: cleanse drf noun.act:cleansing drf noun.artifact:cleanser
+d: clean one's body or parts thereof, as by washing
+e: clean up before you see your grandparents
+e: clean your fingernails before dinner
+fs: 8 9 2
+hyper: bath
+hyper: bathe
+hyper: douche
+hyper: floss
+hyper: lather
+hyper: lave
+hyper: wash 2
+hyper: verb.change:decontaminate
+hypo: groom
+
+w: clean_up drf noun.act:cleanup
+d: make oneself clean, presentable or neat
+e: Clean up before you go to the party
+fs: 2
+hypo: groom
+
+w: clear_the_throat
+w: hawk 1
+d: clear mucus or food from one's throat
+e: he cleared his throat before he started to speak
+fs: 2
+hypo: cough
+
+w: coat drf noun.artifact:coat drf noun.artifact:coating 1
+d: cover or provide with a coat
+fs: 9
+hypo: apparel
+
+w: cocainise drf noun.artifact:cocain
+w: cocainize drf noun.artifact:cocain
+d: anesthetize with cocaine
+fs: 10 9
+hypo: anaesthetise
+
+w: comb drf noun.act:comb drf noun.act:combing drf noun.artifact:comb drf noun.artifact:comb 1
+w: comb_out drf noun.act:comb-out
+w: disentangle drf noun.act:disentanglement 1
+d: smoothen and neaten with or as with a comb
+e: comb your hair before dinner
+e: comb the wool
+fs: 8
+hyper: fluff
+hyper: sleek_down
+hypo: groom
+
+w: come_down
+w: sicken
+d: get sick
+e: She fell sick last Friday, and now she is in the hospital
+fs: 2
+hyper: canker 1
+hyper: contract
+hyper: wan
+hypo: verb.change:decline 1
+
+w: come_to
+w: resuscitate 1
+w: revive 2
+d: return to consciousness
+e: The patient came to quickly
+e: She revived after the doctor gave her an injection
+fs: 2
+hypo: verb.change:change_state
+vg: animate
+vg: resuscitate
+
+w: comfort drf noun.artifact:comfort drf noun.artifact:comforter drf noun.artifact:comforter 1 drf noun.state:comfort
+w: ease drf noun.act:easement drf noun.act:easing
+d: lessen pain or discomfort; alleviate
+e: ease the pain in your legs
+fs: 9 8
+hypo: alleviate
+
+w: conceive drf adjs.all:conceptive drf noun.act:conception 1
+d: become pregnant; undergo conception
+e: She cannot conceive
+e: My daughter was conceived in Christmas Day
+fs: 8 2
+entail: verb.contact:copulate
+hyper: superfetate
+hypo: verb.change:change_state
+
+w: concuss
+d: injure the brain; sustain a concussion
+fs: 8
+hypo: injure
+
+w: condition drf noun.artifact:conditioner
+d: apply conditioner to in order to make smooth and shiny
+e: I condition my hair after washing it
+fs: 8
+hypo: shampoo
+
+w: conk
+w: faint drf noun.event:faint
+w: pass_out
+w: swoon drf noun.event:swoon
+d: pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain
+fs: 2
+hypo: black_out
+
+w: conk_out
+w: peter_out
+w: poop_out
+w: run_down
+w: run_out
+d: use up all one's strength and energy and stop working
+e: At the end of the march, I pooped out
+fs: 2
+hypo: fatigue 1
+
+w: contract drf noun.act:contracting
+w: get
+w: take 8
+d: be stricken by an illness, fall victim to an illness
+e: He got AIDS
+e: She came down with pneumonia
+e: She took a chill
+fs: 8
+hyper: catch 10
+hypo: come_down
+vg: catch 10
+
+w: convalesce drf adjs.all:convalescent drf noun.person:convalescent drf noun.process:convalescence
+w: recover drf noun.process:recovery
+w: recuperate ant deteriorate drf adjs.all:recuperative drf noun.process:recuperation
+d: get over an illness or shock
+e: The patient is recuperating
+fs: 2
+hyper: gain_vigor
+hyper: snap_back
+hypo: verb.change:ameliorate
+vg: recuperate 1
+
+w: convulse drf adjs.all:convulsive 1
+d: be overcome with laughter
+fs: 2 22
+hypo: express_joy
+
+w: correct 4 drf adjs.all:corrective 1
+d: treat a defect
+e: The new contact lenses will correct for his myopia
+fs: 11 4
+hypo: care_for
+
+w: corset drf noun.artifact:corset
+d: dress with a corset
+fs: 9
+hypo: apparel
+
+w: costume drf noun.artifact:costume 1
+w: dress_up 4
+d: dress in a costume
+e: We dressed up for Halloween as pumpkins
+fs: 9 2
+hypo: apparel
+vg: attire
+
+w: cough drf noun.state:cough drf noun.state:coughing see cough_out see cough_up see verb.possession:cough_up
+d: exhale abruptly, as when one has a chest cold or congestion
+e: The smoker coughs all day
+fs: 8 2
+hyper: clear_the_throat
+hyper: hack
+hypo: cough_out
+
+w: cough_out
+w: cough_up
+w: expectorate drf noun.act:expectoration drf noun.person:expectorator drf noun.process:expectoration
+w: spit_out 1
+w: spit_up
+d: discharge (phlegm or sputum) from the lungs and out of the mouth
+fs: 2
+hyper: cough
+hyper: ptyalise
+hyper: spit_out
+hypo: discharge
+
+w: cover 15 drf noun.act:covering
+w: wrap_up
+d: clothe, as if for protection from the elements
+e: cover your head!
+fs: 8
+hypo: apparel
+
+w: cramp
+d: suffer from sudden painful contraction of a muscle
+fs: 2
+hypo: get 11
+
+w: cramp 1
+d: affect with or as if with a cramp
+fs: 10
+hypo: affect
+
+w: crane drf noun.animal:crane
+w: stretch_out
+d: stretch (the neck) so as to see better
+e: The women craned their necks to see the President drive by
+fs: 8
+hypo: extend
+
+w: crash
+w: doss drf noun.person:dosser
+w: doss_down
+d: sleep in a convenient place
+e: You can crash here, though it's not very comfortable
+fs: 2 22
+hypo: bed_down
+
+w: crick drf noun.state:crick
+d: twist (a body part) into a strained position
+e: crick your neck
+fs: 8
+hypo: verb.contact:twist
+
+w: cripple drf noun.person:cripple
+w: lame
+d: deprive of the use of a limb, especially a leg
+e: The accident has crippled her for life
+fs: 10 9
+hyper: hamstring
+hypo: maim
+
+w: cross-dress drf noun.person:cross-dresser
+d: dress in the clothes of the other sex
+fs: 2
+hypo: dress
+
+w: cross-fertilise drf noun.event:cross-fertilisation
+w: cross-fertilize drf noun.event:cross-fertilization
+d: cause to undergo cross-fertilization
+e: Mendel cross-fertilized different kinds of beans
+fs: 8
+cause: cross-fertilise 1
+hypo: fecundate
+
+w: cross-fertilise 1 drf noun.event:cross-fertilisation
+w: cross-fertilize 1 drf noun.event:cross-fertilization
+d: undergo cross-fertilization; become fertile
+fs: 1
+hypo: verb.change:change_state
+
+w: cross-pollinate drf noun.event:cross-pollination
+w: pollenate drf noun.event:pollenation
+w: pollinate drf noun.animal:pollinator drf noun.event:pollination drf noun.plant:pollen
+d: fertilize by transfering pollen
+fs: 8 11
+hypo: fecundate
+
+w: cry ant laugh drf noun.act:crying drf noun.communication:cry 2 drf noun.person:crier 1
+w: weep drf noun.act:weeping drf noun.person:weeper drf noun.person:weeper 1
+d: shed tears because of sadness, rage, or pain
+e: She cried bitterly when she heard the news of his death
+e: The girl in the wheelchair wept with frustration when she could not get up the stairs
+fs: 2
+hyper: bawl
+hyper: blub
+hyper: mewl
+hyper: sob
+hyper: tear
+hypo: verb.emotion:express_emotion
+vg: cry 2
+
+w: cry 2 drf noun.act:crying
+d: bring into a particular state by crying
+e: The little boy cried himself to sleep
+fs: 20
+hypo: verb.change:alter 1
+vg: cry
+
+w: cub drf noun.animal:cub
+d: give birth to cubs
+e: bears cub every year
+fs: 1
+hypo: bear 1
+
+w: cup drf noun.act:cupping
+w: transfuse
+d: treat by applying evacuated cups to the patient's skin
+fs: 9
+hypo: care_for
+mt: noun.act:medicine
+
+w: curry
+w: dress 6
+w: groom 3 drf noun.person:groom 1
+d: give a neat appearance to
+e: groom the dogs
+e: dress the horses
+fs: 8
+hypo: verb.change:beautify
+vg: arrange
+
+w: cut
+w: geld drf noun.animal:gelding
+d: cut off the testicles (of male animals such as horses)
+e: the vet gelded the young horse
+fs: 9 8
+hypo: castrate
+
+w: cut 4
+d: have grow through the gums
+e: The baby cut a tooth
+fs: 8
+hypo: acquire
+vg: cut 14
+
+w: cut 14
+d: grow through the gums
+e: The new tooth is cutting
+fs: 1
+hypo: verb.change:grow 2
+vg: cut 4
+
+w: dandify drf noun.person:dandy
+d: dress like a dandy
+fs: 2
+hypo: dress
+
+w: de-energise ant energise
+w: de-energize ant energize
+d: deprive of energy
+fs: 10
+hypo: verb.change:weaken 1
+
+w: decompress
+w: loosen_up
+w: relax ant tense 1 drf adjs.all:relaxant drf noun.act:relaxation drf noun.process:relaxation 1
+w: slow_down
+w: unbend 1
+w: unwind
+d: become less tense, rest, or take one's ease
+e: He relaxed in the hot tub
+e: Let's all relax after a hard day's work
+fs: 2 23
+hyper: sit_back
+hyper: vege_out
+hypo: verb.change:change_state
+
+w: defeminise
+w: defeminize
+d: remove the ovaries of (female mammals such as cats)
+fs: 8
+hypo: alter
+
+w: degenerate drf adjs.all:degenerative drf noun.process:degeneration drf noun.state:degeneration
+w: deteriorate ant recuperate drf noun.process:deterioration drf noun.state:deterioration
+w: devolve
+w: drop 1
+d: grow worse
+e: Her condition deteriorated
+e: Conditions in the slums degenerated
+e: The discussion devolved into a shouting match
+fs: 1 2
+hyper: fade
+hyper: fatigue 1
+hyper: rot
+hypo: verb.change:decline 1
+
+w: depilate drf adjs.all:depilatory drf noun.act:depilation drf noun.artifact:depilator
+w: epilate
+d: remove body hair
+e: epilate her legs
+fs: 8
+hypo: verb.change:remove
+
+w: desex
+w: desexualise
+w: desexualize
+w: fix drf noun.act:fixing 1
+w: sterilise drf noun.act:sterilisation
+w: sterilize drf noun.act:sterilization
+w: unsex
+d: make infertile
+e: in some countries, people with genetically transmissible disabilites are sterilized
+fs: 9
+hyper: alter
+hyper: castrate
+hyper: vasectomise
+hypo: operate
+
+w: desquamate drf noun.phenomenon:desquamation
+w: peel_off
+d: peel off in scales
+e: dry skin desquamates
+fs: 1
+hypo: exuviate
+
+w: detox
+w: detoxify drf noun.act:detoxification 1
+d: treat for alcohol or drug dependence
+e: He was detoxified in the clinic
+fs: 9
+hypo: care_for
+
+w: didder
+w: shake drf noun.act:shake drf noun.state:shaking
+d: move with or as if with a tremor
+e: his hands shook
+fs: 2 1
+hypo: move_involuntarily
+
+w: digitalize drf noun.act:digitalization drf noun.substance:digitalis
+d: administer digitalis such that the patient benefits maximally without getting adverse effects
+fs: 9
+hypo: administer
+mt: noun.act:medicine
+
+w: dimple drf noun.body:dimple
+d: produce dimples while smiling
+e: The child dimpled up to the adults
+fs: 2
+hypo: smile
+
+w: disable drf noun.state:disablement
+w: handicap drf noun.state:handicap
+w: incapacitate
+w: invalid drf noun.person:invalid
+d: injure permanently
+e: He was disabled in a car accident
+fs: 9 10
+hyper: hock
+hypo: injure
+
+w: disagree_with
+d: not be very easily digestible
+e: Spicy food disagrees with some people
+fs: 10
+hypo: hurt 1
+
+w: discase
+w: disrobe 1
+w: peel 2 drf noun.person:peeler
+w: strip 1 drf noun.act:strip drf noun.person:stripper
+w: strip_down
+w: uncase
+w: unclothe
+w: undress ant dress ant dress 1 drf noun.state:undress
+d: get undressed
+e: please don't undress in front of everybody!
+e: She strips in front of strangers every night for a living
+fs: 2 8 9
+hyper: take_off 3
+hypo: verb.change:take_off
+vg: verb.change:disinvest
+
+w: discharge drf noun.process:discharge
+w: eject drf noun.act:ejection 1
+w: exhaust 2
+w: expel drf noun.act:expulsion drf noun.process:expelling
+w: release 1 drf noun.process:release
+d: eliminate (a substance)
+e: combustion products are exhausted in the engine
+e: the plant releases a gas
+fs: 8 11
+hyper: abort
+hyper: bleed
+hyper: blow 1
+hyper: breathe 1
+hyper: cough_out
+hyper: egest
+hyper: ejaculate
+hyper: eruct 4
+hyper: fester
+hyper: ovulate
+
+w: disinfect ant infect drf adjs.all:disinfectant drf noun.act:disinfection drf noun.artifact:disinfectant
+d: destroy microorganisms or pathogens by cleansing
+e: disinfect a wound
+fs: 10 9 8
+hyper: antisepticize
+hyper: chlorinate
+hyper: sterilise 1
+hypo: verb.contact:clean
+
+w: distil
+w: distill
+d: give off (a liquid)
+e: The doctor distilled a few drops of disinfectant onto the wound
+fs: 11
+hypo: exudate
+
+w: do_up
+w: doll_up
+w: glam_up
+w: pretty_up
+d: use special care in dressing, making-up, etc.
+e: She dolled herself up for the night out with her friends
+fs: 9
+hypo: groom
+
+w: doctor drf noun.person:doctor
+d: give medical treatment to
+fs: 8 9
+hyper: vet
+hypo: care_for
+mt: noun.act:medicine
+
+w: dope drf noun.artifact:dope
+w: dope_up
+d: give a narcotic to
+e: The athletes were dope by the coach before the race
+fs: 9
+hyper: soup
+hypo: dose
+mt: noun.act:medicine
+
+w: dope_off
+w: doze_off
+w: drift_off
+w: drop_off
+w: drowse_off
+w: fall_asleep ant wake_up
+w: flake_out
+w: nod_off
+d: change from a waking to a sleeping state
+e: he always falls asleep during lectures
+fs: 2
+hyper: zonk_out
+
+w: dose drf noun.artifact:dose drf noun.quantity:dosage
+w: drug drf noun.act:drugging drf noun.artifact:drug
+d: administer a drug to
+e: They drugged the kidnapped tourist
+fs: 9
+hyper: anaesthetise
+hyper: dope
+hyper: narcotise
+hyper: o.d.
+hyper: poison
+hypo: medicate
+mt: noun.act:medicine
+
+w: douche drf noun.act:douche drf noun.artifact:douche
+d: direct a spray of water into a bodily cavity, for cleaning
+fs: 9 2
+hypo: clean
+
+w: doze drf noun.act:doze see doze_off
+w: drowse 1 drf noun.act:drowse
+w: snooze drf noun.act:snooze
+d: sleep lightly or for a short period of time
+fs: 2
+hypo: catch_a_wink
+
+w: draw
+d: cause to localize at one point
+e: Draw blood and pus
+fs: 1
+hyper: mature 4
+hypo: verb.social:localise
+vg: verb.motion:draw 7
+
+w: dress ant undress drf noun.act:dressing drf noun.artifact:dress 2 drf noun.person:dresser see dress_down see dress_up
+w: get_dressed
+d: put on clothes
+e: we had to dress quickly
+e: dress the patient
+e: Can the child dress by herself?
+fs: 2
+hyper: assume
+hyper: attire
+hyper: bundle_up
+hyper: cross-dress
+hyper: dandify
+hyper: dress 7
+hyper: dress_down
+hyper: prink 1
+hyper: verb.change:change 3
+hypo: verb.change:change
+vg: apparel
+vg: dress 5
+vg: dress 7
+
+w: dress 2 drf noun.act:dressing 1 drf noun.artifact:dressing
+d: apply a bandage or medication to
+e: dress the victim's wounds
+fs: 8
+hyper: bandage
+hyper: plaster
+hypo: care_for
+mt: noun.act:medicine
+
+w: dress 5 drf noun.artifact:dress 2
+w: plume
+w: preen
+w: primp drf noun.act:primping
+d: dress or groom with elaborate care
+e: She likes to dress when going to the opera
+fs: 9 2
+hypo: attire
+vg: dress
+
+w: dress 7 drf noun.artifact:dress 1 drf noun.person:dresser 1
+w: dress_up 6
+d: dress in a certain manner
+e: She dresses in the latest Paris fashion
+e: he dressed up in a suit and tie
+fs: 22
+hyper: vest 1
+hypo: dress
+vg: attire
+vg: dress
+
+w: dress_down ant dress_up
+w: underdress ant overdress
+d: dress informally and casually
+e: On Fridays, employees can underdress
+fs: 2
+hypo: dress
+
+w: dribble drf noun.body:dribble drf noun.person:dribbler
+w: drivel drf noun.body:drivel drf noun.person:driveller 1
+w: drool drf noun.body:drool drf noun.person:drooler see verb.emotion:drool_over
+w: slabber
+w: slaver
+w: slobber drf noun.body:slobber drf noun.person:slobberer see verb.emotion:slobber_over
+d: let saliva drivel from the mouth
+e: The baby drooled
+fs: 2
+hypo: salivate
+
+w: drop
+d: give birth; used for animals
+e: The cow dropped her calf this morning
+fs: 11
+hypo: bear 1
+
+w: drop_like_flies
+d: rapidly collapse, die, or drop out in large numbers
+e: the contestants dropped like flies when the thermometer hit one hundred degrees
+fs: 2 1
+hypo: break_down
+
+w: drowse drf noun.act:drowse see drowse_off
+d: be on the verge of sleeping
+e: The students were drowsing in the 8 AM class
+fs: 2
+hyper: nod 2
+hypo: rest
+
+w: dung drf noun.substance:dung
+d: defecate; used of animals
+fs: 1
+hypo: ca-ca
+
+w: egest
+w: eliminate drf noun.process:elimination
+w: excrete drf adj.pert:excretory drf noun.process:excreting drf noun.process:excretion
+w: pass drf noun.act:passing 5
+d: eliminate from the body
+e: Pass a kidney stone
+fs: 8
+hyper: barf
+hyper: ca-ca
+hyper: empty
+hyper: exudate
+hyper: make 1
+hyper: perspire
+hyper: urinate 1
+hypo: discharge
+
+w: ejaculate drf noun.body:ejaculate drf noun.person:ejaculator 1 drf noun.process:ejaculation
+d: eject semen
+fs: 2
+hypo: discharge
+
+w: emanate drf noun.act:emanation drf noun.substance:emanation
+w: exhale 1 drf noun.substance:exhalation
+w: give_forth
+d: give out (breath or an odor)
+e: The chimney exhales a thick smoke
+fs: 8 11
+hypo: breathe 1
+
+w: empty
+w: evacuate drf adjs.all:evacuant drf noun.act:evacuation drf noun.process:evacuation
+w: void drf noun.act:voidance drf noun.person:voider 1 drf noun.process:voiding
+d: excrete or discharge from the body
+fs: 8
+hyper: suction
+hypo: egest
+
+w: enrobe
+d: adorn with a robe
+fs: 8
+hypo: attire
+
+w: entrance drf noun.feeling:entrancement
+w: spellbind drf noun.person:spellbinder
+d: put into a trance
+fs: 9 10
+hypo: hypnotise
+
+w: eruct 4 drf noun.state:eructation
+w: spew 2
+w: spew_out
+d: eject or send out in large quantities, also metaphorical
+e: the volcano spews out molten rocks every day
+e: The editors of the paper spew out hostile articles about the Presidential candidate
+fs: 11 8
+hypo: discharge
+
+w: etherise
+w: etherize drf noun.artifact:ether
+d: anesthetize with ether
+fs: 9 10
+hypo: anaesthetise
+
+w: etiolate drf noun.attribute:etiolation
+d: make pale or sickly
+e: alcohol etiolates your skin
+fs: 11
+hypo: verb.change:alter 1
+
+w: excruciate drf noun.act:excruciation drf noun.state:excruciation
+w: torment drf noun.artifact:tormenter drf noun.person:tormenter drf noun.state:torment
+w: torture drf noun.act:torture drf noun.act:torturing drf noun.person:torturer drf noun.state:torture
+d: subject to torture
+e: The sinners will be tormented in Hell, according to the Bible
+fs: 9
+hyper: martyr
+hyper: rack
+hypo: injure
+
+w: exercise drf noun.act:exercise drf noun.act:exercising drf noun.artifact:exerciser
+w: work_out drf noun.act:workout
+d: do physical exercise
+e: She works out in the gym every day
+fs: 8 2
+entail: verb.motion:move
+hyper: limber_up
+hyper: strengthen
+hyper: train
+hyper: tumble
+hyper: verb.competition:press
+vg: exercise 1
+
+w: exercise 1 drf noun.act:exercise drf noun.artifact:exerciser
+w: work
+w: work_out 1 drf noun.act:workout
+d: give a workout to
+e: Some parents exercise their infants
+e: My personal trainer works me hard
+e: work one's muscles
+e: this puzzle will exercise your mind
+fs: 8 9
+cause: exercise
+hyper: warm_up 1
+hypo: verb.social:put_to_work
+vg: exercise
+
+w: expect 2 drf adjs.all:expectant 1 drf noun.state:expectation
+d: look forward to the birth of a child
+e: She is expecting in March
+fs: 2
+hypo: verb.cognition:await
+vg: bear
+
+w: express_joy
+w: express_mirth
+w: laugh ant cry drf adjs.all:laughable 1 drf noun.communication:laugh drf noun.communication:laugh 1 drf noun.communication:laugh 2 drf noun.person:laugher see verb.communication:laugh_at see verb.communication:laugh_away see verb.communication:laugh_off
+d: produce laughter
+fs: 2 22
+hyper: bellylaugh
+hyper: bray
+hyper: break_up
+hyper: cachinnate
+hyper: cackle
+hyper: chortle
+hyper: convulse
+hyper: giggle
+hyper: guffaw
+hyper: howl
+hyper: snicker
+hypo: verb.emotion:express_emotion
+
+w: exsert
+w: extend 1 drf adj.all:extensible drf adjs.all:extendible drf noun.body:extensor
+w: hold_out
+w: put_out 1
+w: stretch_forth
+w: stretch_out 1
+d: thrust or extend out
+e: He held out his hand
+e: point a finger
+e: extend a hand
+e: the bee exserted its sting
+fs: 8
+hyper: hyperextend
+hypo: verb.communication:gesticulate
+
+w: extend drf noun.act:extension 1 drf noun.body:extensor
+w: stretch 1 fs 2 drf noun.act:stretch drf noun.act:stretching
+d: extend one's limbs or muscles, or the entire body
+e: Stretch your legs!
+e: Extend your right arm above your head
+fs: 8
+hyper: crane
+hyper: spread-eagle
+hypo: strain
+
+w: extravasate drf noun.state:extravasation
+d: geology: cause molten material, such as lava, to pour forth
+fs: 1 11
+hypo: exudate
+
+w: exudate drf noun.substance:exudate
+w: exude drf noun.event:exudation drf noun.substance:exudate drf noun.substance:exudation
+w: ooze drf noun.event:ooze drf noun.event:oozing
+w: ooze_out
+w: transude drf noun.event:transudation
+d: release (a liquid) in drops or small quantities
+e: exude sweat through the pores
+fs: 1 11 8
+hyper: distil
+hyper: extravasate
+hyper: froth
+hyper: fume
+hyper: gum
+hyper: release
+hyper: stream
+hyper: transpire
+hypo: egest
+
+w: exuviate
+w: molt drf noun.animal:molter drf noun.process:molt drf noun.process:molting
+w: moult drf noun.animal:moulter drf noun.process:moult drf noun.process:moulting
+w: shed drf noun.process:shedding
+w: slough drf noun.object:slough drf noun.process:sloughing
+d: cast off hair, skin, horn, or feathers
+e: our dog sheds every Spring
+fs: 1
+hyper: desquamate
+hypo: verb.contact:cast 1
+
+w: face-lift drf noun.act:face_lifting
+w: lift
+d: perform cosmetic surgery on someone's face
+fs: 8
+hypo: operate
+
+w: fade drf noun.event:fading
+w: languish drf noun.person:languisher
+d: become feeble
+e: The prisoner has be languishing for years in the dungeon
+fs: 22
+hypo: degenerate
+
+w: fag
+w: fag_out
+w: fatigue drf noun.state:fatigue
+w: jade 1 drf noun.animal:jade
+w: outwear
+w: tire 1 ant refresh
+w: tire_out
+w: wear 3 drf noun.state:wear
+w: wear_down
+w: wear_out
+w: wear_upon
+w: weary
+d: exhaust or get tired through overuse or great strain or stress
+e: We wore ourselves out on this hike
+fs: 9 10
+cause: fatigue 1
+hyper: beat
+hyper: overfatigue
+hypo: indispose
+
+w: fall_back
+w: lapse drf noun.act:lapse 1
+w: recidivate drf noun.act:recidivism
+w: regress
+w: relapse drf noun.act:relapse drf noun.act:relapsing
+w: retrogress
+d: go back to bad behavior
+e: Those who recidivate are often minor criminals
+fs: 2
+hypo: verb.change:regress 1
+
+w: fall_over
+w: go_over
+d: fall forward and down
+e: The old woman went over without a sound
+fs: 2
+hypo: break_down
+
+w: farrow drf noun.process:farrow drf noun.process:farrowing
+w: pig drf noun.animal:pig
+d: give birth
+e: sows farrow
+fs: 1
+hypo: bear 1
+
+w: fatigue 1 drf noun.feeling:fatigue
+w: jade drf noun.animal:jade
+w: pall
+w: tire
+w: weary 1
+d: lose interest or become bored with something or somebody
+e: I'm so tired of your mother and her complaints about my food
+fs: 2
+hyper: conk_out
+hyper: verb.emotion:retire
+hypo: degenerate
+
+w: fawn drf noun.animal:fawn
+d: have fawns
+e: deer fawn
+fs: 1
+hypo: bear 1
+
+w: feather drf noun.animal:feather
+w: fledge
+d: grow feathers
+e: The young sparrows are fledging already
+fs: 1
+hypo: acquire
+
+w: fecundate drf noun.event:fecundation
+w: fertilise
+w: fertilize drf noun.event:fertilization
+w: inseminate drf noun.act:insemination drf noun.body:semen
+d: introduce semen into (a female)
+fs: 9
+hyper: bang_up
+hyper: cross-fertilise
+hyper: cross-pollinate
+hyper: impregnate 1
+hyper: stratify
+hypo: verb.change:alter 1
+
+w: feel
+d: be conscious of a physical, mental, or emotional state
+e: My cold is gone--I feel fine today
+e: She felt tired after the long hike
+e: She felt sad after her loss
+fs: 7
+hyper: feel_like_a_million
+hyper: suffocate 3
+hypo: verb.stative:be 3
+
+w: feel_like_a_million
+w: feel_like_a_million_dollars
+d: be in excellent health and spirits
+e: he feels like a million after he got the promotion
+fs: 2
+hypo: feel
+
+w: fester drf noun.process:festering drf noun.state:fester
+w: maturate drf noun.process:maturation 2
+w: suppurate drf adj.pert:suppurative drf noun.body:suppuration drf noun.process:suppuration
+d: ripen and generate pus
+e: her wounds are festering
+fs: 23
+hypo: discharge
+vg: mature 4
+
+w: fibrillate drf noun.state:fibrillation
+d: make fine, irregular, rapid twitching movements
+e: His heart fibrillated and he died
+fs: 1
+hypo: jerk
+
+w: fill_out
+w: flesh_out
+w: round
+d: become round, plump, or shapely
+e: The young woman is fleshing out
+fs: 2
+hypo: gain
+
+w: fleer drf noun.communication:fleer
+d: to smirk contemptuously
+fs: 22 2
+hypo: simper
+
+w: floss drf noun.artifact:floss 1
+d: use dental floss to clean
+e: floss your teeth after every meal
+fs: 8 2
+hypo: clean
+
+w: flow drf noun.process:flow 1
+w: menstruate drf noun.process:menstruation
+d: undergo menstruation
+e: She started menstruating at the age of 11
+fs: 2
+entail: ovulate
+hypo: bleed
+
+w: fluff
+w: tease drf noun.act:teasing 2
+d: ruffle (one's hair) by combing the ends towards the scalp, for a full effect
+fs: 8
+hypo: comb
+
+w: foal drf noun.animal:foal
+d: give birth to a foal
+e: the mare foaled
+fs: 1
+hypo: bear 1
+
+w: foment drf noun.act:fomentation 1
+d: bathe with warm water or medicated lotions
+e: His legs should be fomented
+fs: 8
+hypo: bath
+
+w: force_out
+d: emit or cause to move with force of effort
+e: force out the air
+e: force out the splinter
+fs: 8 11
+hypo: breathe 1
+
+w: fracture 1 drf noun.act:fracture drf noun.state:fracture
+d: break (a bone)
+e: She broke her clavicle
+fs: 8
+hyper: refracture
+vg: break 4
+vg: fracture 2
+
+w: fracture 2 drf noun.state:fracture
+d: become fractured
+e: The tibia fractured from the blow of the iron pipe
+fs: 1
+hypo: verb.change:break 2
+vg: fracture 1
+
+w: frazzle drf noun.state:frazzle
+d: exhaust physically or emotionally
+e: She was frazzled after the visit of her in-laws
+fs: 10
+hypo: beat
+
+w: freeze drf noun.phenomenon:freeze
+d: be cold
+e: I could freeze to death in this office when the air conditioning is turned on
+fs: 23 2
+hypo: suffer 3
+
+w: freeze 1
+d: anesthetize by cold
+fs: 9
+hypo: anaesthetise
+mt: noun.act:operation
+
+w: freeze 2
+d: suddenly behave coldly and formally
+e: She froze when she saw her ex-husband
+fs: 2
+hypo: act
+
+w: freshen drf noun.artifact:freshener see freshen_up 2
+w: refresh ant tire 1
+w: refreshen 1
+d: make fresh again
+fs: 9 10
+hypo: verb.change:alter 1
+
+w: freshen 2
+w: freshen_up 2
+w: refresh 2 drf noun.act:refreshment
+w: refreshen
+d: become or make oneself fresh again
+e: She freshened up after the tennis game
+fs: 1 2
+hyper: lave 2
+hypo: verb.change:change
+
+w: frock drf noun.artifact:frock
+d: put a frock on
+fs: 9
+hypo: apparel
+
+w: froth
+d: exude or expel foam
+e: the angry man was frothing at the mouth
+fs: 1 2
+hyper: lather 1
+hypo: exudate
+
+w: frown drf noun.communication:frown
+w: glower drf noun.act:glower
+w: lour
+w: lower
+d: look angry or sullen, wrinkle one's forehead, as if to signal disapproval
+fs: 22 2
+hyper: scowl
+hypo: grimace
+
+w: fructify drf noun.plant:fruit drf noun.process:fructification
+w: set 6
+d: bear fruit
+e: the apple trees fructify
+fs: 1
+hypo: multiply 1
+
+w: fume
+w: reek
+d: be wet with sweat or blood, as of one's face
+fs: 1
+hypo: exudate
+
+w: gag 1
+w: heave drf noun.act:heave 3
+w: retch 1 drf noun.act:retch
+d: make an unsuccessful effort to vomit; strain to vomit
+fs: 2
+
+w: gain fs 8 ant reduce drf noun.person:gainer 1
+w: put_on 3
+d: increase (one's body weight)
+e: She gained 20 pounds when she stopped exercising
+fs: 2
+hyper: fill_out
+hyper: pack_on
+hypo: verb.change:change_state
+
+w: gain_vigor
+w: percolate
+w: perk
+w: perk_up
+w: pick_up drf noun.artifact:pickup 3
+d: gain or regain energy
+e: I picked up after a nap
+fs: 2
+hypo: convalesce
+
+w: galvanise 2 drf noun.act:galvanism drf noun.process:galvanisation
+w: galvanize 2 drf noun.act:galvanism drf noun.process:galvanization
+d: stimulate (muscles) by administering a shock
+fs: 8
+hypo: shock 1
+
+w: gangrene drf noun.state:gangrene
+w: mortify drf noun.phenomenon:mortification
+w: necrose
+w: sphacelate drf noun.phenomenon:sphacelus drf noun.state:sphacelus
+d: undergo necrosis
+e: the tissue around the wound necrosed
+fs: 23
+hypo: rot
+
+w: gargle drf noun.substance:gargle
+w: rinse
+d: rinse one's mouth and throat with mouthwash
+e: gargle with this liquid
+fs: 2
+hypo: lave
+
+w: gasp drf noun.act:gasp
+w: heave 1 drf noun.act:heaving 2
+w: pant drf noun.act:pant drf noun.act:panting
+w: puff drf noun.act:puff 1 drf noun.act:puffing 1
+d: breathe noisily, as when one is exhausted
+e: The runners reached the finish line, panting heavily
+fs: 2
+hypo: blow
+
+w: gauffer
+w: goffer
+d: make wavy with a heated goffering iron
+e: goffer the trim of the dress
+fs: 8
+hypo: wave
+
+w: gel
+w: mousse drf noun.artifact:mousse
+d: apply a styling gel to
+e: she mousses her hair
+fs: 8
+hypo: groom
+
+w: generalise
+w: generalize
+d: become systemic and spread throughout the body
+e: this kind of infection generalizes throughout the immune system
+fs: 4 1
+hypo: verb.contact:distribute 1
+
+w: get 11
+w: have 5
+w: suffer 1 drf noun.person:sufferer
+w: sustain
+d: undergo (as of injuries and illnesses)
+e: She suffered a fracture in the accident
+e: He had an insulin shock after eating three candy bars
+e: She got a bruise on her leg
+e: He got his arm broken in the scuffle
+fs: 8
+hyper: break_down
+hyper: cramp
+hyper: verb.emotion:break_up 4
+hypo: verb.perception:experience
+vg: have 2
+
+w: get_up 1
+d: cause to rise
+e: The sergeant got us up at 2 A.M.
+fs: 9 10
+hypo: verb.motion:bring_up
+
+w: get_up 3
+w: work_up
+d: develop
+e: we worked up an as of an appetite
+fs: 8
+hypo: acquire
+
+w: giggle drf noun.communication:giggle drf noun.person:giggler
+w: titter drf noun.communication:titter drf noun.person:titterer
+d: laugh nervously
+e: The girls giggled when the rock star came into the classroom
+fs: 2
+hypo: express_joy
+
+w: give 10
+d: proffer (a body part)
+e: She gave her hand to her little sister
+fs: 15
+hypo: verb.possession:offer
+vg: give 11
+
+w: give 11
+d: consent to engage in sexual intercourse with a man
+e: She gave herself to many men
+fs: 15
+hypo: verb.communication:accept
+vg: give 10
+
+w: glare drf noun.act:glare
+w: glower 1 drf noun.act:glower
+d: look at with a fixed gaze
+e: The girl glared at the man who tried to make a pass at her
+fs: 22 2
+hypo: stare
+
+w: gnash
+d: grind together, of teeth
+fs: 8
+hypo: verb.contact:grate
+
+w: gown drf noun.artifact:gown drf noun.artifact:gown 1 drf noun.artifact:gown 2
+d: dress in a gown
+fs: 9
+hypo: apparel
+
+w: granulate drf noun.state:granulation
+d: form granulating tissue
+e: wounds and ulcers can granulate
+fs: 23
+hypo: heal
+
+w: grimace drf noun.communication:grimace
+w: make_a_face
+w: pull_a_face
+d: contort the face to indicate a certain mental or emotional state
+e: He grimaced when he saw the amount of homework he had to do
+fs: 2
+hyper: frown
+hyper: mop
+hyper: screw_up
+hyper: smile
+hyper: squinch
+hyper: wince
+hypo: verb.communication:communicate
+
+w: grin drf noun.communication:grin drf noun.communication:grinning drf noun.person:grinner
+d: to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
+fs: 2
+hypo: smile
+
+w: groom drf noun.act:grooming
+w: neaten
+d: care for one's external appearance
+e: He is always well-groomed
+fs: 9 2
+hyper: arrange
+hyper: barber
+hyper: clean
+hyper: clean_up
+hyper: comb
+hyper: do_up
+hyper: gel
+hyper: make_up
+hyper: manicure
+hyper: pedicure
+hyper: perfume
+hyper: pomade
+hyper: shave
+hyper: slick_up
+hypo: verb.change:beautify
+
+w: guffaw drf noun.communication:guffaw
+w: laugh_loudly 1
+d: laugh boisterously
+fs: 22 2
+hypo: express_joy
+
+w: gum drf noun.substance:gum
+d: exude or form gum
+e: these trees gum in the Spring
+fs: 1
+hypo: exudate
+
+w: habit drf noun.artifact:habit
+d: put a habit on
+fs: 9
+hypo: apparel
+
+w: hack
+w: whoop
+d: cough spasmodically
+e: The patient with emphysema is hacking all day
+fs: 2
+hypo: cough
+
+w: hamstring drf noun.body:hamstring
+d: cripple by cutting the hamstring
+fs: 9
+hypo: cripple
+
+w: harm drf noun.act:harm drf noun.event:harm 1
+d: cause or do harm to
+e: These pills won't harm your system
+fs: 2 10 9 1 12
+hyper: sicken 1
+hypo: injure
+
+w: hat drf noun.artifact:hat
+d: put on or wear a hat
+e: He was unsuitably hatted
+fs: 2
+hyper: bonnet
+hypo: assume
+
+w: hatch 1 drf noun.location:hatchery drf noun.process:hatch drf noun.process:hatching
+d: emerge from the eggs
+e: young birds, fish, and reptiles hatch
+fs: 2
+hypo: verb.change:be_born
+vg: brood
+
+w: have 2
+d: suffer from; be ill with
+e: She has arthritis
+fs: 8
+hypo: hurt 2
+vg: get 11
+
+w: have_on
+w: wear drf adj.all:wearable drf noun.artifact:wear drf noun.person:wearer
+d: be dressed in
+e: She was wearing yellow that day
+fs: 8
+entail: dress
+
+w: heal drf noun.process:healing
+d: get healthy again
+e: The wound is healing slowly
+fs: 23 1
+hyper: granulate
+hyper: scab
+hyper: skin_over
+hypo: verb.change:ameliorate
+
+w: hibernate ant aestivate ant estivate drf noun.state:hibernation drf noun.state:hibernation 1
+w: hole_up
+d: sleep during winter
+e: Bears must eat a lot of food before they hibernate in their caves
+fs: 1
+hypo: catch_some_Z's
+
+w: hiccough drf noun.state:hiccough
+w: hiccup drf noun.state:hiccup
+d: breathe spasmodically, and make a sound
+e: When you have to hiccup, drink a glass of cold water
+fs: 2
+hypo: breathe
+
+w: highlight drf noun.artifact:highlighter 1
+d: apply a highlighter to one's cheeks or eyebrows in order to make them more prominent
+e: highlight the area above your eyebrows
+fs: 8
+hypo: make_up
+
+w: hock
+d: disable by cutting the hock
+fs: 8
+hypo: disable
+
+w: hold 4
+d: keep from exhaling or expelling
+e: hold your breath
+fs: 8
+hypo: verb.social:hold_back
+
+w: howl drf noun.communication:howl drf noun.communication:howler drf noun.communication:howling
+w: roar drf noun.communication:roar
+d: laugh unrestrainedly and heartily
+fs: 2
+hypo: express_joy
+
+w: hurt 1 drf noun.feeling:hurt 1 drf noun.feeling:hurt 2
+d: give trouble or pain to
+e: This exercise will hurt your back
+fs: 11 10 9
+cause: verb.perception:ache
+hyper: ail 1
+hyper: disagree_with
+hyper: injure
+hypo: indispose
+
+w: hurt 2 drf noun.state:hurt drf noun.state:hurting
+w: suffer ant be_well drf noun.attribute:sufferance drf noun.feeling:suffering 1 drf noun.person:sufferer drf noun.state:suffering
+d: feel pain or be in pain
+fs: 1 2
+hyper: ail
+hyper: choke 3
+hyper: have 2
+hyper: verb.consumption:famish
+hypo: verb.stative:be 3
+
+w: hyperextend drf noun.act:hyperextension
+d: extend a joint beyond its normal range
+e: Don't hyperextend your elbow
+fs: 8
+hypo: exsert
+
+w: hypertrophy drf noun.state:hypertrophy
+d: undergo hypertrophy
+e: muscles can hypertrophy when people take steroids
+fs: 1
+hypo: verb.change:grow
+
+w: hyperventilate drf noun.act:hyperventilation
+d: breathe excessively hard and fast
+e: The mountain climber started to hyperventilate
+fs: 2
+hypo: breathe
+vg: hyperventilate 1
+
+w: hyperventilate 1 drf noun.act:hyperventilation
+d: produce hyperventilation in
+e: The nurses had to hyperventilate the patient
+fs: 9
+hypo: care_for
+vg: hyperventilate
+
+w: hypnotise drf noun.person:hypnotiser drf noun.state:hypnosis
+w: hypnotize drf noun.person:hypnotizer drf noun.state:hypnosis
+w: mesmerise drf noun.person:Mesmer
+w: mesmerize drf noun.person:Mesmer
+d: induce hypnosis in
+fs: 10 9
+hyper: entrance
+hypo: calm
+
+w: immunise
+w: immunize drf noun.act:immunization
+w: inoculate drf noun.act:inoculating drf noun.act:inoculation drf noun.person:inoculator drf noun.substance:inoculant
+w: vaccinate drf noun.act:vaccinating drf noun.act:vaccination drf noun.artifact:vaccine drf noun.person:vaccinator drf noun.state:vaccination
+d: perform vaccinations or produce immunity in by inoculation
+e: We vaccinate against scarlet fever
+e: The nurse vaccinated the children in the school
+fs: 2 9
+hypo: inject
+mt: noun.act:medicine
+
+w: impregnate 1 drf noun.event:impregnation
+d: fertilize and cause to grow
+e: the egg was impregnated
+fs: 8
+hyper: inoculate 4
+hypo: fecundate
+vg: bang_up
+
+w: indispose drf noun.state:indisposition
+d: cause to feel unwell
+e: She was indisposed
+fs: 10
+hyper: bind
+hyper: fag
+hyper: hurt 1
+hypo: verb.change:alter 1
+
+w: infect ant disinfect drf adjs.all:infective drf adjs.all:infective 1 drf noun.process:infection drf noun.state:infection
+w: taint drf noun.state:taint
+d: contaminate with a disease or microorganism
+fs: 9
+hyper: smut
+hyper: superinfect
+hypo: verb.change:contaminate
+
+w: infect 1 drf adjs.all:infective drf adjs.all:infective 1 drf noun.event:infection
+d: communicate a disease to
+e: Your children have infected you with this head cold
+fs: 9 17
+hyper: canker
+hypo: verb.possession:give 3
+
+w: inflame drf adjs.all:inflammatory 1 drf noun.state:inflammation
+d: become inflamed; get sore
+e: His throat inflamed
+fs: 1
+hypo: verb.change:decline 1
+vg: inflame 1
+
+w: inflame 1 drf adjs.all:inflammatory 1 drf noun.state:inflammation
+d: cause inflammation in
+e: The repetitive motion inflamed her joint
+fs: 11 10
+hypo: verb.change:aggravate
+vg: inflame
+
+w: infuse drf noun.act:infusion
+d: introduce into the body through a vein, for therapeutic purposes
+e: Some physiologists infuses sugar solutions into the veins of animals
+fs: 8
+hypo: inject
+mt: noun.act:medicine
+
+w: inject drf adj.all:injectable drf noun.act:injection 1 drf noun.substance:injectant
+w: shoot
+d: give an injection to
+e: We injected the glucose into the patient's vein
+fs: 17 9
+hyper: immunise
+hyper: infuse
+hypo: administer
+mt: noun.act:medicine
+vg: verb.contact:inject
+
+w: injure drf noun.act:injury 2 drf noun.event:injury drf noun.state:injury
+w: wound drf noun.act:wound drf noun.act:wounding drf noun.event:wound
+d: cause injuries or bodily harm to
+fs: 11 8 10 9
+hyper: break 4
+hyper: calk
+hyper: concuss
+hyper: disable
+hyper: excruciate
+hyper: harm
+hyper: maim
+hyper: overstretch
+hyper: rick
+hyper: run_down 1
+hyper: shock
+hyper: subluxate
+hyper: trample
+hyper: verb.competition:hit 1
+hyper: verb.contact:bruise
+hyper: verb.contact:graze 2
+hyper: verb.contact:knife
+hyper: verb.contact:scrape 1
+hypo: hurt 1
+
+w: inoculate 2
+d: insert a bud for propagation
+fs: 8
+hypo: propagate 1
+
+w: inoculate 4
+d: impregnate with the virus or germ of a disease in order to render immune
+fs: 8
+hypo: impregnate 1
+
+w: insufflate drf noun.act:insufflation
+d: blow or breathe hard on or into
+fs: 8
+hypo: blow
+vg: insufflate 1
+
+w: insufflate 1 drf noun.process:insufflation
+d: treat by blowing a powder or vapor into a bodily cavity
+fs: 8
+hypo: care_for
+vg: insufflate
+
+w: intoxicate drf adjs.all:intoxicant drf noun.artifact:intoxicant drf noun.state:intoxication drf noun.state:intoxication 1
+d: have an intoxicating effect on, of a drug
+fs: 10
+hypo: poison
+
+w: invigorate drf noun.act:invigoration drf noun.attribute:invigoration drf noun.object:invigorator
+w: reinvigorate
+d: impart vigor, strength, or vitality to
+e: Exercise is invigorating
+fs: 10
+hypo: arouse
+
+w: iodise
+w: iodize
+d: treat with iodine so as to prevent infection
+e: iodize a wound
+fs: 8
+hypo: care_for
+
+w: irrigate drf noun.act:irrigation 1
+d: supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting
+e: irrigate the wound
+fs: 8
+hypo: care_for
+
+w: irritate ant soothe drf adjs.all:irritative drf noun.feeling:irritation drf noun.state:irritation 2
+d: excite to an abnormal condition, or chafe or inflame
+e: Aspirin irritates my stomach
+fs: 10 11
+hyper: verb.perception:chafe
+hyper: verb.perception:itch 1
+hypo: verb.change:aggravate
+
+w: jacket drf noun.artifact:jacket
+d: put a jacket on
+e: The men were jacketed
+fs: 9
+hypo: apparel
+
+w: jaundice drf noun.state:jaundice
+d: affect with, or as if with, jaundice
+fs: 10
+hypo: affect
+
+w: jerk drf noun.act:jerk drf noun.act:jerking
+w: twitch drf noun.state:twitch drf noun.state:twitching
+d: make an uncontrolled, short, jerky motion
+e: his face is twitching
+fs: 23 2
+hyper: fibrillate
+hypo: move_involuntarily
+vg: verb.motion:jerk
+
+w: jest drf noun.act:jest drf noun.communication:jest drf noun.person:jester
+w: joke drf noun.act:joke 1 drf noun.communication:joke drf noun.person:joker
+d: act in a funny or teasing way
+fs: 2
+hyper: antic
+hypo: act
+
+w: keep_down ant vomit
+d: manage not to throw up
+fs: 8
+
+w: keep_up
+d: prevent from going to bed at night
+e: The anticipation of the trip kept the children up all night
+e: I kept myself up all night studying for the exam
+fs: 9 10
+cause: sit_up
+
+w: kitten drf noun.animal:kitten
+d: have kittens
+e: our cat kittened again this year
+fs: 1
+hypo: bear 1
+
+w: labor drf noun.state:labor
+w: labour drf noun.state:labour
+d: undergo the efforts of childbirth
+fs: 2
+entail: bear 1
+hypo: verb.perception:undergo 4
+
+w: lamb drf noun.animal:lamb drf noun.food:lamb
+d: give birth to a lamb
+e: the ewe lambed
+fs: 1
+hypo: bear 1
+
+w: lather drf noun.object:lather drf noun.object:lather 1
+w: soap drf noun.artifact:soap
+d: rub soap all over, usually with the purpose of cleaning
+fs: 8 9
+entail: lave
+hypo: clean
+
+w: lather 1
+d: exude sweat or lather
+e: this unfit horse lathers easily
+fs: 1
+hypo: froth
+
+w: lave drf noun.act:lavage drf noun.act:lavation
+w: wash drf noun.act:wash 1 drf noun.act:washing see wash_up
+d: cleanse (one's body) with soap and water
+fs: 9 2 8
+hyper: gargle
+hyper: scrub
+hyper: shampoo
+hyper: sponge_down
+hyper: verb.change:hush 3
+hypo: clean
+vg: wash 2
+
+w: lave 2 drf noun.act:lavation
+w: wash_up drf noun.act:washup
+d: wash one's face and hands
+e: She freshened up in the bathroom
+fs: 2
+hypo: freshen 2
+
+w: leaf drf noun.plant:leaf drf noun.plant:leafage
+d: produce leaves, of plants
+fs: 1
+hypo: acquire
+
+w: lie_in
+d: be in confinement for childbirth
+fs: 2
+entail: bear 1
+
+w: ligate drf noun.act:ligation drf noun.act:ligature drf noun.artifact:ligature 1
+d: bind with a bandage or ligature
+e: ligate the artery
+fs: 8
+hypo: bandage
+mt: noun.cognition:surgery
+
+w: limber
+d: cause to become limber
+e: The violist limbered her wrists before the concert
+fs: 8
+hypo: warm_up 1
+
+w: limber_up
+w: loosen_up 3
+w: warm_up drf noun.act:warm-up
+d: make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity
+fs: 2
+hypo: exercise
+
+w: lipstick drf noun.artifact:lipstick
+d: apply lipstick to
+e: She lipsticked her mouth
+fs: 2 8
+hypo: make_up
+
+w: litter drf noun.group:litter
+d: give birth to a litter of animals
+fs: 1
+hypo: bear 1
+
+w: look drf noun.attribute:look drf noun.attribute:look 1
+d: have a certain outward or facial expression
+e: How does she look?
+e: The child looks unhappy
+e: She looked pale after the surgery
+fs: 6 7
+hyper: squint 2
+hypo: verb.stative:be 3
+
+w: loosen_up 1
+w: make_relaxed
+w: relax 1 ant tense drf adjs.all:relaxant drf noun.artifact:relaxant drf noun.feeling:relaxation drf noun.object:relaxer
+w: unlax 1
+w: unstrain ant strain
+w: unwind 1
+d: cause to feel relaxed
+e: A hot bath always relaxes me
+fs: 10 8 9
+cause: decompress
+hyper: unbend
+hypo: affect
+
+w: lose_weight
+w: melt_off fs 8
+w: reduce ant gain drf noun.process:reducing 1
+w: slenderize
+w: slim
+w: slim_down
+w: thin
+d: take off weight
+fs: 2
+hyper: sweat_off
+hypo: verb.change:change_state
+
+w: maim drf noun.person:maimer
+d: injure or wound seriously and leave permanent disfiguration or mutilation
+e: people were maimed by the explosion
+fs: 9 10
+hyper: cripple
+hyper: mar
+hypo: injure
+
+w: make 1
+w: make_water
+w: micturate drf noun.process:micturition
+w: pass_water
+w: pee drf noun.process:pee drf noun.process:peeing drf noun.substance:pee
+w: pee-pee
+w: piddle drf noun.substance:piddle
+w: piss drf noun.person:pisser drf noun.process:piss drf noun.process:pissing drf noun.substance:piss
+w: puddle
+w: relieve_oneself
+w: spend_a_penny
+w: take_a_leak
+w: urinate drf noun.person:urinator drf noun.process:urination drf noun.substance:urine
+w: wee
+w: wee-wee
+d: eliminate urine
+e: Again, the cat had made on the expensive rug
+fs: 1 2
+hyper: stale
+hyper: wet
+hypo: egest
+vg: ca-ca
+vg: urinate 1
+
+w: make 6
+d: behave in a certain way
+e: make merry
+fs: 7
+hypo: act
+
+w: make 8
+d: act in a certain way so as to acquire
+e: make friends
+e: make enemies
+fs: 9
+hypo: act
+vg: verb.possession:bring_in 1
+vg: verb.possession:get 1
+
+w: make_as_if
+d: begin or appear to begin an action
+e: He made as if to shake my hand
+fs: 28
+hypo: act
+
+w: make_up drf noun.artifact:make-up drf noun.artifact:makeup
+d: apply make-up or cosmetics to one's face to appear prettier
+e: She makes herself up every morning
+fs: 9 2
+hyper: highlight
+hyper: lipstick
+hyper: powder
+hyper: rouge
+hypo: groom
+
+w: manicure drf noun.act:manicure drf noun.person:manicurist
+d: care for (one's hand) by cutting and shaping the nails, etc.
+fs: 8
+hypo: groom
+
+w: manicure 1 drf noun.act:manicure drf noun.person:manicurist
+d: trim carefully and neatly
+e: manicure fingernails
+fs: 8
+hypo: verb.contact:cut
+
+w: manipulate drf noun.act:manipulation 1
+d: treat manually, as with massage, for therapeutic purposed
+fs: 8
+hypo: care_for
+
+w: mar
+w: mutilate drf noun.event:mutilation drf noun.person:mutilator
+d: destroy or injure severely
+e: mutilated bodies
+fs: 9 10
+hyper: verb.contact:force_out
+hypo: maim
+
+w: marcel
+d: make a marcel in a woman's hair
+fs: 8 2
+hypo: wave
+
+w: martyr
+w: martyrise
+w: martyrize drf noun.person:martyr drf noun.person:martyr 1
+d: torture and torment like a martyr
+fs: 9
+hypo: excruciate
+
+w: massage drf noun.act:massage drf noun.person:massager
+d: give a massage to
+e: She massaged his sore back
+fs: 9 8
+hypo: care_for
+
+w: mature 4 drf noun.process:maturation 2
+w: suppurate 1 drf noun.body:suppuration drf noun.process:suppuration
+d: cause to ripen and discharge pus
+e: The oil suppurates the pustules
+fs: 8
+hypo: draw
+vg: fester
+
+w: medicate drf adjs.all:medicative drf noun.act:medication drf noun.act:medicine drf noun.artifact:medication drf noun.artifact:medicine drf noun.cognition:medicine
+w: medicine drf noun.act:medicine drf noun.artifact:medicine drf noun.cognition:medicine
+d: treat medicinally, treat with medicine
+fs: 9
+hyper: dose
+hyper: salve
+hypo: care_for
+mt: noun.act:medicine
+
+w: medicate 1 drf adjs.all:medicative drf noun.act:medication drf noun.artifact:medicine
+d: impregnate with a medicinal substance
+fs: 8
+hypo: verb.change:impregnate
+mt: noun.act:medicine
+
+w: menace drf noun.communication:menace
+d: act in a threatening manner
+e: A menacing person
+fs: 2
+hypo: act
+
+w: metastasise
+w: metastasize drf noun.process:metastasis 1
+d: spread throughout the body
+e: the cancer had metastasized and the patient could not be saved
+fs: 4 1
+hypo: verb.contact:distribute 1
+
+w: mewl
+w: pule
+w: wail drf noun.communication:wail
+w: whimper drf noun.communication:whimper
+d: cry weakly or softly
+e: she wailed with pain
+fs: 2
+hypo: cry
+
+w: miscarry ant carry_to_term drf noun.act:miscarriage
+d: suffer a miscarriage
+fs: 9 2
+hypo: abort
+
+w: mop
+w: mow
+w: pout drf noun.communication:pout drf noun.person:pouter
+d: make a sad face and thrust out one's lower lip
+e: mop and mow
+e: The girl pouted
+fs: 2
+hypo: grimace
+
+w: move_involuntarily
+w: move_reflexively
+d: move in an uncontrolled manner
+fs: 23 2
+hyper: didder
+hyper: jerk
+hyper: shiver
+hypo: verb.motion:move
+
+w: multiply 1 drf noun.act:multiplication 1
+w: procreate drf adjs.all:procreative drf noun.act:procreation
+w: reproduce drf adjs.all:reproductive drf noun.act:reproduction drf noun.process:reproduction
+d: have offspring or produce more individuals of a given animal or plant
+e: The Bible tells people to procreate
+fs: 2
+hyper: breed
+hyper: brood
+hyper: fructify
+hyper: propagate
+hypo: verb.creation:create
+mt: noun.cognition:biological_science
+
+w: narcotise
+w: narcotize drf noun.artifact:narcotic
+d: administer narcotics to
+fs: 9
+hypo: dose
+
+w: nick
+d: mate successfully; of livestock
+fs: 1
+hypo: verb.contact:copulate
+
+w: nod 2
+d: be almost asleep
+e: The old man sat nodding by the fireplace
+fs: 1 2
+hypo: drowse
+
+w: nod 3 drf noun.act:nod
+d: let the head fall forward through drowsiness
+e: The old man was nodding in his chair
+fs: 1 2
+
+w: nurse drf noun.act:nursing drf noun.person:nurse
+d: try to cure by special care of treatment, of an illness or injury
+e: He nursed his cold with Chinese herbs
+fs: 8
+hypo: care_for
+mt: noun.act:medicine
+
+w: o.d.
+w: overdose
+d: dose too heavily
+e: The rock star overdosed and was found dead in his hotel room
+fs: 2
+hypo: dose
+
+w: obstipate drf noun.state:obstipation
+d: constipate severely
+fs: 10
+hypo: bind
+
+w: operate drf adj.all:operative 4 drf noun.act:operation
+w: operate_on
+d: perform surgery on
+e: The doctors operated on the patient but failed to save his life
+fs: 8 9
+hyper: desex
+hyper: face-lift
+hyper: trephine
+hyper: venesect
+hypo: care_for
+mt: noun.act:medicine
+
+w: optimise
+w: optimize
+d: act as an optimist and take a sunny view of the world
+fs: 2
+hypo: act
+
+w: overclothe
+w: overdress 1 ant underdress 1
+d: dress too warmly
+e: You should not overclothe the child--she will be too hot
+fs: 9
+hypo: apparel
+
+w: overfatigue
+w: overtire
+w: overweary
+d: tire excessively
+fs: 9 10
+hypo: fag
+
+w: oversleep
+d: sleep longer than intended
+fs: 2
+entail: catch_some_Z's
+
+w: overstretch
+w: pull drf noun.state:pull
+d: strain abnormally
+e: I pulled a muscle in my leg when I jumped up
+e: The athlete pulled a tendon in the competition
+fs: 8
+hypo: injure
+
+w: ovulate drf noun.body:ovule 1 drf noun.body:ovum drf noun.process:ovulation
+d: produce and discharge eggs
+e: women ovulate about once every month
+fs: 2
+hypo: discharge
+
+w: pack drf noun.artifact:pack 3
+d: treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood
+e: The nurse packed gauze in the wound
+e: You had better pack your swollen ankle with ice
+fs: 11
+hypo: care_for
+
+w: pack_on
+d: gain (weight)
+e: He packed on two pounds over the summer
+fs: 8
+hypo: gain
+
+w: palpebrate drf noun.act:palpebration drf noun.body:palpebra
+d: wink or blink, especially repeatedly
+fs: 2
+hypo: blink
+
+w: pedicure drf noun.act:pedicure
+d: care for one's feet by cutting and shaping the nails, etc.
+fs: 8
+hypo: groom
+
+w: peel_off 1
+d: take off, as with some difficulty
+e: He peeled off his blood-soaked shirt
+fs: 8
+hypo: take_off 3
+
+w: perfume drf noun.artifact:perfume drf noun.artifact:perfumery 2 drf noun.cognition:perfume
+w: scent drf noun.cognition:scent 1
+d: apply perfume to
+e: She perfumes herself every day
+fs: 8 9
+hypo: groom
+
+w: perm drf noun.body:perm
+d: give a permanent wave to
+e: She perms her hair
+fs: 8
+hypo: wave
+
+w: perspire drf noun.body:perspiration drf noun.process:perspiration
+w: sudate drf noun.process:sudation
+w: sweat drf noun.body:sweat drf noun.person:sweater drf noun.process:sweating see sweat_off
+d: excrete perspiration through the pores in the skin
+e: Exercise makes one sweat
+fs: 2
+hyper: swelter
+hypo: egest
+
+w: piffle drf noun.communication:piffle
+d: act in a trivial or ineffective way
+fs: 2
+hypo: act
+
+w: plaster drf noun.act:plastering drf noun.artifact:plaster 2
+w: poultice drf noun.artifact:poultice
+d: dress by covering with a therapeutic substance
+fs: 8
+hypo: dress 2
+mt: noun.act:medicine
+
+w: play drf noun.act:playing
+w: toy drf noun.artifact:toy
+d: engage in an activity as if it were a game rather than take it seriously
+e: They played games on their opponents
+e: play the stock market
+e: play with her feelings
+e: toy with an idea
+fs: 8
+hypo: act
+
+w: play 4
+d: exhaust by allowing to pull on the line
+e: play a hooked fish
+fs: 8
+hypo: beat
+
+w: pod drf noun.plant:pod drf noun.plant:pod 1
+d: produce pods, of plants
+fs: 1
+hypo: acquire
+
+w: poison drf noun.act:poisoning
+d: administer poison to
+e: She poisoned her husband but he did not die
+fs: 9 10
+hyper: intoxicate
+hypo: dose
+vg: verb.contact:poison 1
+
+w: pomade drf noun.artifact:pomade
+d: apply pomade to (hair)
+fs: 8
+hypo: groom
+
+w: pompadour drf noun.body:pompadour
+d: style women's hair in a pompadour
+fs: 8
+hypo: verb.creation:style
+
+w: powder drf noun.artifact:powder 1 drf noun.person:powderer
+d: apply powder to
+e: She powdered her nose
+e: The King wears a powdered wig
+fs: 8
+hyper: talc
+hypo: make_up
+
+w: prank
+d: dress up showily
+e: He pranked himself out in his best clothes
+fs: 9
+hypo: attire
+
+w: presume drf noun.act:presumption drf noun.attribute:presumption
+d: take liberties or act with too much confidence
+fs: 2
+hypo: act
+
+w: prim
+w: prim_out
+w: prim_up
+d: dress primly
+fs: 2
+hypo: apparel
+
+w: prink 1
+d: dress very carefully and in a finicky manner
+fs: 2
+hypo: dress
+
+w: propagate drf adj.pert:propagative drf noun.act:propagation
+d: multiply sexually or asexually
+fs: 1
+hyper: vegetate 1
+hypo: multiply 1
+mt: noun.cognition:biological_science
+
+w: propagate 1 drf adj.pert:propagative drf noun.act:propagation drf noun.person:propagator 1
+d: cause to propagate, as by grafting or layering
+fs: 8
+cause: propagate
+hyper: inoculate 2
+hypo: verb.change:process
+mt: noun.Tops:flora
+
+w: ptyalise
+w: ptyalize drf noun.process:ptyalism
+w: spew 1
+w: spit drf noun.act:spit drf noun.act:spitting drf noun.body:spit drf noun.person:spitter see spit_up see verb.possession:spit_up
+w: spue 1
+d: expel or eject (saliva or phlegm or sputum) from the mouth
+e: The father of the victim spat at the alleged murderer
+fs: 2 8
+hypo: cough_out
+
+w: pullulate
+d: breed freely and abundantly
+fs: 1
+hypo: breed
+
+w: pup drf noun.animal:pup
+w: whelp drf noun.animal:whelp
+d: birth
+e: the dog whelped
+fs: 1
+hypo: bear 1
+
+w: pupate drf noun.animal:pupa
+d: develop into a pupa
+e: the insect larva pupate
+fs: 1
+hypo: acquire
+
+w: purge drf adjs.all:purgative drf noun.act:purgation
+d: excrete or evacuate (someone's bowels or body)
+e: The doctor decided that the patient must be purged
+fs: 9 2
+cause: empty
+hypo: care_for
+
+w: quack drf noun.act:quackery drf noun.person:quack
+d: act as a medical quack or a charlatan
+fs: 2
+hypo: act
+mt: noun.act:medicine
+
+w: quicken 2 drf noun.state:quickening
+d: show signs of life
+e: the fetus quickened
+fs: 2
+hypo: verb.motion:move
+
+w: rack drf noun.artifact:rack 2
+d: torture on the rack
+fs: 9
+hypo: excruciate
+
+w: raise
+w: resurrect drf noun.act:resurrection
+w: upraise
+d: cause to become alive again
+e: raise from the dead
+e: Slavery is already dead, and cannot be resurrected
+e: Upraising ghosts
+fs: 9 10
+hypo: resuscitate
+vg: resurrect 1
+
+w: razor drf noun.artifact:razor
+d: shave with a razor
+fs: 8
+hypo: shave
+
+w: reawaken
+d: awaken once again
+fs: 9 10
+hypo: arouse 1
+
+w: recuperate 1 drf adjs.all:recuperative drf noun.process:recuperation
+d: restore to good health or strength
+fs: 10 9
+hypo: bring_around 1
+vg: convalesce
+
+w: refracture
+d: break (a bone) that was previously broken but mended in an abnormal way
+e: The surgeon had to refracture her wrist
+fs: 8
+hypo: fracture 1
+
+w: regenerate
+w: revitalize
+d: restore strength
+e: This food revitalized the patient
+fs: 11 10
+hyper: verb.change:rejuvenate
+hypo: verb.change:ameliorate 1
+
+w: regenerate 1 drf noun.act:regeneration 1 drf noun.process:regeneration
+d: undergo regeneration
+fs: 1
+hyper: rejuvenate
+hypo: verb.change:change
+
+w: regrow
+d: grow anew or continue growth after an injury or interruption
+e: parts of the trunk of this tree can regrow
+e: some invertebrates can regrow limbs or their tail after they lost it due to an injury
+fs: 11
+hypo: acquire
+
+w: rejuvenate drf noun.phenomenon:rejuvenation
+d: become young again
+e: The old man rejuvenated when he became a grandfather
+fs: 2
+hypo: regenerate 1
+
+w: release drf noun.process:release
+w: secrete drf noun.body:secretor drf noun.process:secretion
+d: generate and separate from cells or bodily fluids
+e: secrete digestive juices
+e: release a hormone into the blood stream
+fs: 8 11
+hyper: water
+hypo: exudate
+
+w: relieve 2
+w: remedy drf noun.artifact:remedy
+d: provide relief for
+e: remedy his illness
+fs: 8
+hypo: care_for
+mt: noun.act:medicine
+
+w: respire 1 drf adj.pert:respiratory drf noun.act:respiration drf noun.act:respiration 1
+d: undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide
+fs: 2
+hypo: verb.perception:undergo 4
+vg: breathe
+
+w: respire 2 drf adj.pert:respiratory
+d: breathe easily again, as after exertion or anxiety
+fs: 2
+hypo: breathe
+vg: breathe
+
+w: rest ant be_active drf noun.person:rester
+d: be at rest
+fs: 2
+hyper: catch_some_Z's
+hyper: drowse
+hypo: verb.contact:recline
+
+w: resurrect 1
+w: rise drf noun.event:rise 3
+w: uprise 5
+d: return from the dead
+e: Christ is risen!
+e: The dead are to uprise
+fs: 1 2
+hypo: verb.motion:return
+vg: raise
+
+w: resuscitate drf noun.act:resuscitation drf noun.artifact:resuscitator
+w: revive 1
+d: cause to regain consciousness
+e: The doctors revived the comatose man
+fs: 10 9
+cause: come_to
+hyper: boot
+hyper: raise
+hypo: bring_around
+vg: come_to
+
+w: rick drf noun.state:rick
+w: sprain drf noun.state:sprain
+w: turn
+w: twist drf noun.state:twist
+w: wrench drf noun.state:wrench
+w: wrick drf noun.state:wrick
+d: twist suddenly so as to sprain
+e: wrench one's ankle
+e: The wrestler twisted his shoulder
+e: the hikers sprained their ankles when they fell
+e: I turned my ankle and couldn't walk for several days
+fs: 8
+hypo: injure
+
+w: robe drf noun.artifact:robe drf noun.artifact:robe 1
+w: vest drf noun.artifact:vestment drf noun.artifact:vesture
+d: clothe formally; especially in ecclesiastical robes
+fs: 9
+hypo: apparel
+vg: vest 1
+
+w: roll 6 drf noun.event:roll 2
+d: execute a roll, in tumbling
+e: The gymnasts rolled and jumped
+fs: 2
+hypo: tumble
+
+w: romanticize
+d: act in a romantic way
+fs: 2
+hypo: act
+
+w: rot
+w: waste drf noun.process:wastage
+d: become physically weaker
+e: Political prisoners are wasting away in many prisons all over the world
+fs: 1
+hyper: gangrene
+hypo: degenerate
+
+w: rouge drf noun.artifact:rouge
+d: redden by applying rouge to
+e: she rouged her cheeks
+fs: 8
+hypo: make_up
+
+w: run_down 1
+w: run_over
+d: injure or kill by running over, as with a vehicle
+fs: 8 9 11 10
+hypo: injure
+
+w: salivate drf noun.body:saliva drf noun.process:salivation
+d: produce saliva
+e: We salivated when he described the great meal
+fs: 2
+hyper: dribble
+hypo: act_involuntarily
+
+w: salve drf noun.act:salve drf noun.artifact:salve
+d: apply a salve to, usually for the purpose of healing
+fs: 8
+hypo: medicate
+mt: noun.act:medicine
+
+w: saw_logs
+w: saw_wood
+w: snore drf noun.act:snore drf noun.act:snoring drf noun.event:snore drf noun.person:snorer
+d: breathe noisily during one's sleep
+e: she complained that her husband snores
+fs: 2
+entail: catch_some_Z's
+hypo: breathe
+
+w: scab drf noun.body:scab
+d: form a scab
+e: the wounds will eventually scab
+fs: 23
+hypo: heal
+
+w: scarf drf noun.artifact:scarf
+d: wrap in or adorn with a scarf
+fs: 8
+hypo: assume
+
+w: scowl drf noun.communication:scowl
+d: frown with displeasure
+fs: 2
+hypo: frown
+
+w: screw_up
+d: twist into a strained configuration
+e: screw up one's face
+fs: 8
+hypo: grimace
+
+w: scrub drf noun.act:scrub
+w: scrub_up
+d: wash thoroughly
+e: surgeons must scrub prior to an operation
+fs: 2
+hypo: lave
+
+w: sentimentalise drf noun.act:sentimentalisation
+w: sentimentalize drf noun.act:sentimentalization
+w: sentimentise
+w: sentimentize
+d: act in a sentimental way or indulge in sentimental thoughts or expression
+fs: 2
+hypo: act
+
+w: shampoo drf noun.act:shampoo drf noun.artifact:shampoo
+d: use shampoo on (hair)
+fs: 9 8 2
+hyper: condition
+hypo: lave
+
+w: shave drf noun.act:shave drf noun.act:shaving drf noun.artifact:shaver drf noun.person:shaver 1
+d: remove body hair with a razor
+fs: 2 9 8
+hyper: razor
+hyper: tonsure
+hypo: groom
+
+w: shirt drf noun.artifact:shirt
+d: put a shirt on
+fs: 9
+hypo: apparel
+
+w: shiver drf noun.act:shiver drf noun.state:shivering
+w: shudder drf noun.act:shudder
+d: shake, as from cold
+e: The children are shivering--turn on the heat!
+fs: 2 1
+hypo: move_involuntarily
+
+w: shock drf noun.event:shock 1 drf noun.feeling:shock 1
+w: traumatise drf noun.state:trauma 2
+w: traumatize drf noun.state:trauma 1 drf noun.state:trauma 2
+d: inflict a trauma upon
+fs: 10
+hypo: injure
+
+w: shock 1 drf noun.act:shock
+d: subject to electrical shocks
+fs: 9
+hyper: galvanise 2
+hypo: care_for
+
+w: shoe drf noun.artifact:shoe
+d: furnish with shoes
+e: the children were well shoed
+fs: 9
+hypo: apparel
+
+w: shower drf noun.act:shower drf noun.artifact:shower
+d: take a shower; wash one's body in the shower
+e: You should shower after vigorous exercise
+fs: 2
+hypo: bathe
+
+w: shrug drf noun.communication:shrug see verb.communication:shrug_off
+d: raise one's shoulders to indicate indifference or resignation
+fs: 2
+hypo: verb.communication:gesticulate
+
+w: sicken 1
+d: make sick or ill
+e: This kind of food sickens me
+fs: 10
+hyper: choke 1
+hypo: harm
+
+w: sigh drf noun.communication:sigh drf noun.event:sigh
+w: suspire 4 drf noun.communication:suspiration
+d: heave or utter a sigh; breathe deeply and heavily
+e: She sighed sadly
+fs: 2
+hypo: breathe
+
+w: simper drf noun.person:simperer
+w: smirk drf noun.communication:smirk drf noun.person:smirker
+d: smile affectedly or derisively
+fs: 22 2
+hyper: fleer
+hypo: smile
+
+w: sit_back
+w: take_it_easy
+d: settle into a comfortable sitting position
+fs: 2
+hypo: decompress
+
+w: sit_up
+w: stay_up
+d: not go to bed
+e: Don't stay up so late--you have to go to work tomorrow
+e: We sat up all night to watch the election
+fs: 2
+hypo: wake
+
+w: skin_over
+d: grow new skin over an injury
+fs: 23
+hypo: heal
+
+w: sleek_down
+w: slick drf noun.attribute:slick
+w: slick_down
+d: give a smooth and glossy appearance
+e: slick one's hair
+fs: 8
+hypo: comb
+
+w: sleep_in
+w: sleep_late
+d: sleep later than usual or customary
+e: On Sundays, I sleep in
+fs: 2
+hypo: catch_some_Z's
+
+w: slick_up
+w: smarten_up
+w: spruce
+w: spruce_up
+d: dress and groom with particular care, as for a special occasion
+e: He spruced up for the party
+fs: 9 2
+hypo: groom
+
+w: slip_off ant slip_on
+d: take off with ease or speed
+e: She slipped off her jacket
+fs: 8
+hypo: take_off 3
+
+w: slip_on ant slip_off drf noun.artifact:slip-on
+d: put on with ease or speed
+e: slip into something more comfortable after work
+e: slip on one's shoes
+fs: 8
+hypo: assume
+
+w: smile drf noun.body:smiler drf noun.communication:smile drf noun.communication:smiling drf noun.person:smiler
+d: change one's facial expression by spreading the lips, often to signal pleasure
+fs: 22 2
+hyper: beam
+hyper: dimple
+hyper: grin
+hyper: simper
+hyper: sneer
+hypo: grimace
+
+w: smut drf noun.plant:smut drf noun.state:smut
+d: affect with smut or mildew, as of a crop such as corn
+fs: 11
+hypo: infect
+mt: noun.act:agriculture
+
+w: snap_back
+d: recover quickly
+e: After the surgery, the patient snapped back in a few days
+fs: 2
+hypo: convalesce
+
+w: sneer drf noun.communication:sneer drf noun.communication:sneer 1 drf noun.person:sneerer
+d: smile contemptuously
+e: she sneered at her little sister's efforts to play the song on the piano
+fs: 22 2
+hypo: smile
+vg: sneer 1
+
+w: sneer 1 drf noun.communication:sneer drf noun.communication:sneer 1 drf noun.person:sneerer
+d: express through a scornful smile
+e: she sneered her contempt
+fs: 22 2
+hypo: verb.communication:evince
+vg: sneer
+
+w: sneeze drf noun.person:sneezer drf noun.state:sneeze drf noun.state:sneezing
+d: exhale spasmodically, as when an irritant entered one's nose
+e: Pepper makes me sneeze
+fs: 2
+entail: breathe_out
+hypo: act_involuntarily
+
+w: snicker drf noun.communication:snicker
+w: snigger drf noun.communication:snigger
+d: laugh quietly
+fs: 2 22
+hypo: express_joy
+
+w: sniff drf noun.person:sniffer
+w: sniffle drf noun.act:sniffle
+d: inhale audibly through the nose
+e: the sick student was sniffling in the back row
+fs: 2
+hypo: breathe_in
+
+w: snivel drf noun.act:snivel 1 drf noun.person:sniveller
+w: snuffle drf noun.act:snuffle drf noun.person:snuffler
+d: snuff up mucus through the nose
+fs: 2
+hypo: breathe_in
+
+w: snort drf noun.act:snorting drf noun.person:snorter
+d: make a snorting sound by exhaling hard
+e: The critic snorted contemptuously
+fs: 2
+hypo: breathe_out
+
+w: snuff 2 drf noun.act:snuff
+d: inhale audibly through the nose
+e: snuff coke
+fs: 8
+hypo: breathe_in
+
+w: sob drf noun.act:sob drf noun.act:sobbing
+d: weep convulsively
+e: He was sobbing inconsolably
+fs: 2
+hypo: cry
+
+w: soothe ant irritate
+d: cause to feel better
+e: the medicine soothes the pain of the inflammation
+fs: 11 8 9 10
+hypo: alleviate
+
+w: soup
+d: dope (a racehorse)
+fs: 9 8
+hypo: dope
+mt: noun.act:medicine
+
+w: spat 1 drf noun.animal:spat
+d: spawn
+e: oysters spat
+fs: 1
+hypo: spawn
+
+w: spawn drf noun.animal:spawner
+d: lay spawn
+e: The salmon swims upstream to spawn
+fs: 1
+hyper: spat 1
+hypo: verb.contact:lay 2
+
+w: spit_out
+w: splutter
+w: sputter
+d: spit up in an explosive manner
+fs: 8
+hypo: cough_out
+
+w: splint drf noun.artifact:splint
+d: support with a splint
+e: splint a broken finger
+fs: 8
+hypo: care_for
+mt: noun.act:medicine
+
+w: sponge_down
+d: wash with a sponge
+fs: 2 9
+hypo: lave
+
+w: spread-eagle
+d: stretch out completely
+e: They spread-eagled him across the floor
+fs: 9
+hypo: extend
+
+w: spring
+d: develop suddenly
+e: The tire sprang a leak
+fs: 11
+hypo: acquire
+
+w: sprout 1 drf noun.food:sprout drf noun.plant:sprout drf noun.process:sprouting
+w: stock 3 drf noun.plant:stock 3
+d: put forth and grow sprouts or shoots
+e: the plant sprouted early this year
+fs: 1
+hypo: acquire
+
+w: squinch
+w: squint drf noun.act:squint drf noun.person:squinter
+d: cross one's eyes as if in strabismus
+e: The children squinted so as to scare each other
+fs: 2
+hypo: grimace
+
+w: squint 2
+d: partly close one's eyes, as when hit by direct blinding light
+e: The driver squinted as the sun hit his windshield
+fs: 2
+hypo: look
+
+w: stale
+d: urinate, of cattle and horses
+fs: 1
+hypo: make 1
+
+w: stare drf noun.act:stare drf noun.person:starer
+d: fixate one's eyes
+e: The ancestor in the painting is staring down menacingly
+fs: 2
+hyper: glare
+hypo: verb.perception:look
+
+w: sterilise 1 drf noun.act:sterilisation 1 drf noun.artifact:steriliser
+w: sterilize 1 drf noun.act:sterilization 1 drf noun.artifact:sterilizer
+d: make free from bacteria
+fs: 8
+hyper: autoclave
+hypo: disinfect
+
+w: stooge drf noun.person:stooge
+d: act as a stooge, in a compliant or subordinate manner
+e: He stooged for the flamboyant Senator
+fs: 2
+hypo: act
+
+w: stool 1 drf noun.plant:stool
+w: tiller drf noun.plant:tiller
+d: grow shoots in the form of stools or tillers
+fs: 1
+hypo: acquire
+
+w: strain ant unstrain drf noun.phenomenon:strain
+w: tense ant relax 1 drf noun.state:tension 1
+w: tense_up
+d: cause to be tense and uneasy or nervous or anxious
+e: he got a phone call from his lawyer that tensed him up
+fs: 8 10
+cause: tense 1
+hyper: extend
+hypo: affect
+
+w: strap drf noun.artifact:strap 1
+d: secure (a sprained joint) with a strap
+fs: 8
+hypo: verb.contact:fasten 1
+mt: noun.act:medicine
+
+w: stratify drf noun.act:stratification 1
+d: render fertile and preserve by placing between layers of earth or sand
+e: stratify seeds
+fs: 11
+hypo: fecundate
+vg: verb.contact:stratify
+
+w: stream
+d: exude profusely
+e: She was streaming with sweat
+e: His nose streamed blood
+fs: 22 8 11
+hypo: exudate
+
+w: strengthen
+w: tone drf noun.state:tone 2
+w: tone_up
+d: give a healthy elasticity to
+e: Let's tone our muscles
+fs: 8
+hypo: exercise
+
+w: stretch 2 drf noun.act:stretch 1
+w: stretch_out 2
+d: extend one's body or limbs
+e: Let's stretch for a minute--we've been sitting here for over 3 hours
+fs: 2
+hypo: verb.motion:move
+
+w: stub
+d: strike (one's toe) accidentally against an object
+e: She stubbed her toe in the dark and now it's broken
+fs: 8
+hypo: verb.contact:collide_with
+
+w: subluxate drf noun.event:subluxation
+d: sprain or dislocate slightly
+e: subluxate the hip
+fs: 8
+hypo: injure
+
+w: suction drf noun.act:suction drf noun.phenomenon:suction
+d: empty or clean (a body cavity) by the force of suction
+e: suction the uterus in an abortion
+fs: 8
+hypo: empty
+mt: noun.act:operation
+vg: verb.motion:suction
+
+w: suffer 3
+d: feel unwell or uncomfortable
+e: She is suffering from the hot weather
+fs: 22 2
+hyper: freeze
+hyper: swelter 1
+hypo: verb.stative:be 3
+
+w: suffocate 3 drf adjs.all:suffocative
+d: feel uncomfortable for lack of fresh air
+e: The room was hot and stuffy and we were suffocating
+fs: 8
+hypo: feel
+
+w: sun fs 9 drf noun.phenomenon:sun
+w: sunbathe drf noun.person:sunbather
+d: expose one's body to the sun
+fs: 2 22
+hypo: verb.contact:lie
+
+w: suntan drf noun.state:suntan
+d: get a tan from being exposed to the sun
+fs: 2
+hypo: bronze
+
+w: superfetate drf noun.event:superfetation
+d: conceive when a fetus is already present in the uterus
+fs: 1 2
+hypo: conceive
+
+w: superinfect drf noun.state:superinfection
+d: infect (an infected cell) further or infect a cell already containing similar organisms
+fs: 11 8
+hypo: infect
+
+w: sweat_off
+d: lose weight by sweating
+e: I sweated off 3 pounds in the sauna
+fs: 8
+hypo: lose_weight
+
+w: swelter
+d: suffer from intense heat
+e: we were sweltering at the beach
+fs: 22 2
+hypo: perspire
+
+w: swelter 1
+d: be uncomfortably hot
+fs: 2
+hypo: suffer 3
+
+w: take_off 3
+d: remove clothes
+e: take off your shirt--it's very hot in here
+fs: 8
+hyper: peel_off 1
+hyper: slip_off
+hyper: verb.change:uncloak
+hyper: verb.contact:doff
+hypo: discase
+
+w: talc drf noun.substance:talc
+d: apply talcum powder to (one's body)
+fs: 8
+hypo: powder
+
+w: tart_up
+d: dress up in a cheap and provocative way
+fs: 9 2
+hypo: attire
+
+w: tear drf noun.body:tear 1 drf noun.process:tearing
+d: fill with tears or shed tears
+e: Her eyes were tearing
+fs: 1
+hypo: cry
+
+w: teethe drf noun.process:teething
+d: grow teeth; cut the baby teeth
+e: The little one is teething now
+fs: 2
+hypo: acquire
+
+w: tense 1 ant relax drf noun.body:tensor drf noun.state:tension 1
+w: tense_up 1
+d: become tense, nervous, or uneasy
+e: He tensed up when he saw his opponent enter the room
+fs: 1 23 2
+hypo: verb.change:change_state
+
+w: tonsure drf noun.act:tonsure drf noun.body:tonsure
+d: shave the head of a newly inducted monk
+fs: 9
+hypo: shave
+
+w: train drf noun.act:training
+d: exercise in order to prepare for an event or competition
+e: She is training for the Olympics
+fs: 2
+hypo: exercise
+vg: verb.communication:coach
+
+w: trample drf noun.event:trample drf noun.person:trampler 1
+d: injure by trampling or as if by trampling
+e: The passerby was trampled by an elephant
+fs: 11 10
+hypo: injure
+
+w: transfuse 1 drf noun.act:transfusion
+d: give a transfusion (e.g., of blood) to
+fs: 9
+hypo: administer
+mt: noun.act:medicine
+
+w: transpire drf noun.process:transpiration 2
+d: give off (water) through the skin
+fs: 2
+hypo: exudate
+
+w: trephine drf noun.act:trephination drf noun.artifact:trephine
+d: operate on with a trephine
+fs: 8 9
+hypo: operate
+
+w: try
+w: try_on drf noun.act:try-on
+d: put on a garment in order to see whether it fits and looks nice
+e: Try on this sweater to see how it looks
+fs: 8
+hypo: assume
+
+w: tumble drf noun.act:tumble drf noun.act:tumbling drf noun.person:tumbler
+d: do gymnastics, roll and turn skillfully
+fs: 2
+hyper: roll 6
+hypo: exercise
+
+w: twin drf noun.person:twin
+d: give birth to twins
+fs: 2
+hypo: bear 1
+
+w: ulcerate drf adj.pert:ulcerative drf noun.state:ulcer
+d: affect with an ulcer
+e: Her stomach was ulcerated
+fs: 11
+hypo: affect
+
+w: unbend
+d: release from mental strain, tension, or formality
+e: unbend the mind from absorbing too much information
+fs: 8
+hypo: loosen_up 1
+
+w: underdress 1 ant overdress 1
+d: dress without sufficient warmth
+e: She was underdressed for the hiking trip and suffered hypothermia
+fs: 9
+hypo: apparel
+
+w: urinate 1
+d: pass after the manner of urine
+e: The sick men urinated blood
+fs: 8
+hypo: egest
+vg: make 1
+
+w: vasectomise
+w: vasectomize drf noun.act:vasectomy
+d: remove the vas deferens
+e: many men choose to be vasectomized as a form of safe birth control
+fs: 9
+hypo: desex
+
+w: vege_out
+w: vegetate drf adj.pert:vegetative 1 drf noun.act:vegetation
+d: engage in passive relaxation
+e: After a hard day's work, I vegetate in front of the television
+fs: 2
+hypo: decompress
+
+w: vegetate 1 drf adjs.all:vegetative
+d: propagate asexually
+e: The bacterial growth vegetated along
+fs: 1
+hypo: propagate
+mt: noun.cognition:biological_science
+
+w: venesect drf noun.act:venesection
+d: practice venesection
+fs: 2
+hypo: operate
+mt: noun.act:medicine
+
+w: vest 1
+d: clothe oneself in ecclesiastical garments
+fs: 2
+hypo: dress 7
+vg: robe
+
+w: vesture drf noun.artifact:vesture
+d: provide or cover with a cloak
+fs: 9
+hypo: apparel
+
+w: vet drf noun.person:vet
+d: provide veterinary care for
+fs: 8 9
+hypo: doctor
+mt: noun.act:medicine
+
+w: vet 1
+d: provide (a person) with medical care
+fs: 9
+hypo: care_for
+mt: noun.act:medicine
+
+w: vulgarise
+w: vulgarize drf adjs.all:vulgar
+d: act in a vulgar manner
+e: The drunkard tends to vulgarize
+fs: 2
+hypo: act
+
+w: wake ant sleep drf noun.cognition:waking
+d: be awake, be alert, be there
+fs: 2
+hyper: sit_up
+
+w: wan
+d: become pale and sickly
+fs: 2
+hypo: come_down
+
+w: wanton
+d: behave extremely cruelly and brutally
+fs: 2
+hypo: act
+
+w: warm_up 1 drf noun.act:warm-up
+d: cause to do preliminary exercises so as to stretch the muscles
+e: The coach warmed up the players before the game
+fs: 9
+hyper: limber
+hypo: exercise 1
+hypo: verb.social:put_to_work
+
+w: wash 2 drf noun.act:wash 1
+d: to cleanse (itself or another animal) by licking
+e: The cat washes several times a day
+fs: 1
+hypo: clean
+vg: lave
+
+w: water
+d: secrete or form water, as tears or saliva
+e: My mouth watered at the prospect of a good dinner
+e: His eyes watered
+fs: 1
+hypo: release
+
+w: wave drf noun.body:wave
+d: set waves in
+e: she asked the hairdresser to wave her hair
+fs: 8
+hyper: gauffer
+hyper: marcel
+hyper: perm
+hypo: arrange
+
+w: wear 2
+d: have or show an appearance of
+e: wear one's hair in a certain way
+fs: 8 5
+hypo: verb.stative:feature
+
+w: wet drf noun.person:wetter 1
+d: make one's bed or clothes wet by urinating
+e: This eight year old boy still wets his bed
+fs: 8
+hypo: make 1
+
+w: wheeze drf noun.act:wheeze
+d: breathe with difficulty
+fs: 2
+hypo: breathe
+
+w: wince drf noun.communication:wince
+d: make a face indicating disgust or dislike
+e: She winced when she heard his pompous speech
+fs: 2
+hypo: grimace
+
+w: wink 2 drf noun.communication:wink drf noun.person:winker
+d: signal by winking
+e: She winked at him
+fs: 22
+hypo: verb.communication:gesticulate
+
+w: yawn drf noun.act:yawn drf noun.act:yawning drf noun.person:yawner
+d: utter a yawn, as from lack of oxygen or when one is tired
+e: The child yawned during the long performance
+fs: 2
+hypo: breathe
+
+w: zonk_out
+d: fall asleep fast, as when one is extremely tired
+e: after the long drive, we zonked out and slept for 10 hours
+fs: 2
+hypo: dope_off
+

@@ -1,0 +1,6585 @@
+verb.possession
+
+w: FTP drf noun.communication:FTP
+d: use the file transfer protocol to transfer data from one computer to another
+e: You can FTP these data
+fs: 8
+hypo: transfer 1
+
+w: abandon drf noun.act:abandonment 2
+d: forsake, leave behind
+e: We abandoned the old car in the empty parking lot
+fs: 9 8
+hyper: chuck
+hyper: consign 1
+hyper: dispense_with
+hyper: forego
+hypo: cast_aside
+
+w: abandon 1 drf noun.act:abandonment 3
+w: give_up
+d: give up with the intent of never claiming again
+e: Abandon your life to God
+e: She gave up her children to her ex-husband when she moved to Tahiti
+e: We gave the drowning victim up for dead
+fs: 9 8
+hyper: foreswear
+
+w: abnegate drf noun.act:abnegation
+w: deny 4 drf noun.act:denial 1 drf noun.person:denier
+d: deny oneself (something); restrain, especially from indulging in some pleasure
+e: She denied herself wine and spirits
+fs: 14
+hypo: verb.social:check 8
+vg: deny
+
+w: absorb
+w: take_over
+d: take up, as of debts or payments
+e: absorb the costs for something
+fs: 11 8
+hypo: fund
+
+w: abstract
+w: cabbage drf noun.possession:cabbage
+w: filch
+w: hook
+w: lift drf noun.person:lifter 1
+w: nobble
+w: pilfer drf noun.act:pilferage drf noun.person:pilferer
+w: pinch
+w: purloin
+w: snarf
+w: sneak
+w: swipe
+d: make off with belongings of others
+fs: 8 16
+hypo: steal
+
+w: accept ant refuse drf noun.act:acceptance 3 drf noun.act:acceptation
+w: have 5
+w: take 5 drf noun.person:taker 2 see take_over see take_over 6 see take_up see verb.stative:take_in
+d: receive willingly something given or offered
+e: The only girl who would have him was the miller's daughter
+e: I won't have this dog in my house!
+e: Please accept my present
+fs: 9 8 16
+hyper: accept 3
+hyper: adopt
+hyper: honor
+hyper: welcome
+hypo: acquire
+vg: have 3
+
+w: accept 1
+w: assume 1 drf noun.act:assumption
+w: bear 2
+w: take_over 6
+d: take on as one's own the expenses or debts of another person
+e: I'll accept the charges
+e: She agreed to bear the responsibility
+fs: 8
+hyper: carry-the_can
+hypo: take
+
+w: accept 3
+w: admit
+w: take 7
+w: take_on
+d: admit into a group or community
+e: accept students for graduate study
+e: We'll have to vote on whether or not to admit a new member
+fs: 10 9
+hyper: verb.communication:profess 8
+hypo: accept
+vg: verb.social:admit
+
+w: accept 7 drf noun.state:acceptation
+d: receive (a report) officially, as from a committee
+fs: 8
+hypo: have 3
+
+w: accept 12 drf adjs.all:acceptable drf adjs.all:acceptable 1
+w: take 15
+d: make use of or accept for some purpose
+e: take a risk
+e: take an opportunity
+fs: 8
+hyper: co-opt
+
+w: access drf noun.artifact:access 1
+d: obtain or retrieve from a storage device; as of information on a computer
+fs: 8
+hyper: address
+hyper: log-in
+hypo: find 15
+mt: noun.cognition:computer_science
+
+w: accord drf noun.act:accordance
+w: allot
+w: grant drf noun.attribute:grant
+d: allow to have
+e: grant a privilege
+fs: 14 15
+hyper: verb.communication:give 11
+hyper: verb.social:enfranchise
+hypo: give
+
+w: account drf noun.act:accounting drf noun.cognition:accounting drf noun.communication:account 2 drf noun.person:accountant drf noun.possession:accounting drf noun.possession:accounting 1
+w: calculate drf noun.act:calculation drf noun.cognition:calculation
+d: keep an account of
+fs: 22
+hyper: balance
+hyper: bill
+hyper: compound
+hyper: credit
+hyper: debit
+hyper: overbalance
+
+w: accouter
+w: accoutre
+d: provide with military equipment
+fs: 9 8
+hypo: equip
+
+w: accrue 10 drf noun.act:accrual
+w: fall 9
+d: come into the possession of
+e: The house accrued to the oldest son
+fs: 10
+hypo: change_hands
+vg: devolve 13
+vg: fall 8
+
+w: accumulate drf adjs.all:accumulative drf adjs.all:accumulative 1 drf noun.act:accumulation drf noun.group:accumulation
+w: amass
+w: collect drf noun.act:collecting drf noun.act:collection
+w: compile drf noun.act:compilation drf noun.communication:compilation
+w: hoard
+w: pile_up
+w: roll_up 3
+d: get or gather together
+e: I am accumulating evidence for the man's unfaithfulness to his wife
+e: She is amassing a lot of data for her thesis
+e: She rolled up a small fortune
+fs: 8
+hyper: verb.change:run_up
+hyper: verb.contact:bale
+hyper: verb.contact:catch 12
+hyper: verb.contact:chunk
+hyper: verb.contact:collect 1
+hyper: verb.contact:come_up 2
+hyper: verb.contact:corral 2
+hyper: fund 1
+hyper: fund 3
+hypo: hive_away
+
+w: acquire drf adj.all:acquisitive drf adjs.all:acquirable drf noun.act:acquiring drf noun.act:acquisition drf noun.cognition:acquisition 1 drf noun.group:acquirer drf noun.group:acquirer 1 drf noun.group:acquirer 2 drf noun.person:acquirer
+w: get drf noun.act:getting
+d: come into the possession of something concrete or abstract
+e: She got a lot of paintings from her uncle
+e: They acquired a new pet
+e: Get your results the next day
+e: Get permission to take a few days off from work
+fs: 8 16 9
+hyper: verb.change:isolate 1
+hyper: verb.competition:get_back 1
+hyper: verb.contact:capture
+hyper: verb.contact:express 11
+hyper: accept
+hyper: acquire 6
+hyper: benefit
+hyper: borrow
+hyper: bring_in 1
+hyper: buy
+hyper: buy 3
+hyper: call_for
+hyper: catch
+hyper: charter
+hyper: come_by
+hyper: come_up
+hyper: come_upon 1
+hyper: earn 3
+hyper: find
+hyper: find 3
+hyper: find 15
+hyper: get 14
+hyper: glom 13
+hyper: have 3
+hyper: inherit
+hyper: obtain
+hyper: partake
+hyper: pick_up 2
+hyper: preempt
+hyper: preempt 2
+hyper: reclaim
+hyper: recoup
+hyper: turn 13
+hyper: verb.social:poll 2
+vg: verb.change:find
+
+w: acquire 6
+w: gain 1 drf noun.person:gainer
+w: win ant lose drf noun.act:winning drf noun.person:winner 1 drf noun.person:winner 2 drf noun.possession:win drf noun.possession:winnings
+d: win something through one's efforts
+e: I acquired a passing knowledge of Chinese
+e: Gain an understanding of international finance
+fs: 16 8
+hyper: cozen
+hypo: acquire
+
+w: add drf noun.artifact:addition
+w: bestow 1
+w: bring 2
+w: contribute 1
+w: impart 1
+w: lend 1
+d: bestow a quality on
+e: Her presence lends a certain cachet to the company
+e: The music added a lot to the play
+e: She brings a special atmosphere to our meetings
+e: This adds a light note to the program
+fs: 4 8 15 11
+hyper: factor
+hyper: instill
+hyper: throw_in
+hyper: tinsel
+hypo: verb.change:alter 1
+
+w: address drf noun.communication:address 4
+d: access or locate by address
+fs: 8
+hypo: access
+mt: noun.cognition:computer_science
+
+w: admeasure
+d: determine the quantity of someone's share
+fs: 8
+entail: apportion
+hypo: verb.communication:ascertain 1
+
+w: administer
+w: allot 2 drf noun.act:allotment
+w: deal 1 drf noun.act:deal 1
+w: deal_out
+w: dish_out
+w: dispense drf noun.act:dispensation drf noun.artifact:dispenser drf noun.person:dispenser drf noun.possession:dispensation
+w: distribute drf noun.act:distribution drf noun.artifact:distributer drf noun.person:distributor 1
+w: dole_out
+w: lot
+w: mete_out
+w: parcel_out
+w: shell_out
+d: administer or bestow, as in small portions
+e: administer critical remarks to everyone present
+e: dole out some money
+e: shell out pocket money for the children
+e: deal a blow to someone
+e: the machine dispenses soft drinks
+fs: 15 8
+hyper: allot 1
+hyper: apply
+hyper: deal 2
+hyper: reallot
+hypo: give
+
+w: administer 1
+d: perform (a church sacrament) ritually
+e: administer the last unction
+fs: 8 15
+entail: verb.social:execute
+hyper: insufflate
+hypo: apply
+
+w: adopt drf adj.all:adoptive 4 drf noun.act:adoption 1
+w: borrow 1
+w: take_over 5
+w: take_up
+d: take up and practice as one's own
+fs: 8 16
+hypo: accept
+
+w: adopt 2 drf noun.act:adoption
+w: espouse drf noun.act:espousal
+w: follow drf noun.group:following
+d: choose and follow; as of theories, ideas, policies, strategies or plans
+e: She followed the feminist movement
+e: The candidate espouses Republican ideals
+fs: 8
+hyper: verb.stative:adhere 2
+hypo: verb.cognition:choose
+vg: verb.social:abide_by
+
+w: advance drf noun.possession:advance
+d: pay in advance
+e: Can you advance me some money?
+fs: 8 14 15
+hypo: lend
+
+w: afford
+w: give 5
+w: yield 2
+d: be the cause or source of
+e: He gave me a lot of trouble
+e: Our meeting afforded much interesting information
+fs: 11
+hyper: verb.change:open
+hyper: verb.stative:allow
+hypo: furnish
+vg: give 3
+
+w: afford 1
+w: give 15
+w: open 4 drf noun.body:opening drf noun.cognition:open
+d: afford access to
+e: the door opens to the patio
+e: The French doors give onto a terrace
+fs: 4
+
+w: agree 2
+d: be agreeable or suitable
+e: White wine doesn't agree with me
+fs: 4
+hypo: verb.stative:suit 2
+
+w: air-condition drf noun.artifact:air_conditioner drf noun.artifact:air_conditioning
+w: air-cool
+d: equip with an apparatus for controlling the humidity and temperature
+e: Our house is not air-conditioned
+fs: 8 11
+hypo: furnish
+mt: noun.act:architecture
+
+w: air-condition 1 drf noun.artifact:air_conditioner drf noun.artifact:air_conditioning
+d: control the humidity and temperature of
+e: The room was cool because it had been air-conditioned
+fs: 8 11
+hypo: verb.change:process
+
+w: alien
+w: alienate drf adj.all:alienable
+d: transfer property or ownership
+e: The will aliened the property to the heirs
+fs: 8
+hypo: transfer
+
+w: allocate drf adjs.all:allocable drf adjs.all:allocatable drf noun.act:allocation drf noun.act:allocation 1 drf noun.person:allocator drf noun.possession:allocation
+w: apportion 1 drf adjs.all:apportionable drf noun.act:apportionment
+d: distribute according to a plan or set apart for a special purpose
+e: I am allocating a loaf of bread to everyone on a daily basis
+e: I'm allocating the rations for the camping trip
+fs: 15 8
+hyper: award
+hyper: ration
+hyper: reallocate
+hypo: allot 1
+
+w: allot 1
+w: assign 1 drf noun.act:assignation 1
+w: portion drf noun.act:portion
+d: give out
+e: We were assigned new uniforms
+fs: 15 14
+hyper: verb.cognition:allow 1
+hyper: allocate
+hypo: administer
+
+w: allow ant deny
+w: grant 1 drf noun.attribute:grant drf noun.person:granter
+d: let have
+e: grant permission
+e: Mandela was allowed few visitors in prison
+fs: 14
+hyper: allowance
+hyper: vouchsafe
+hypo: give
+vg: verb.communication:allow
+
+w: allow 1
+d: grant as a discount or in exchange
+e: The camera store owner allowed me $50 on my old camera
+fs: 14
+hypo: discount
+
+w: allowance drf noun.possession:allowance
+d: put on a fixed allowance, as of food
+fs: 14
+hypo: allow
+
+w: alphabetize drf noun.communication:alphabet
+d: provide with an alphabet
+e: Cyril and Method alphabetized the Slavic languages
+fs: 8 11 9 10
+hypo: furnish
+mt: noun.communication:language
+
+w: amortise drf noun.act:amortisation
+w: amortize drf noun.act:amortization
+d: liquidate gradually
+fs: 8
+hypo: liquidate
+
+w: annex
+d: take (territory) as if by conquest
+e: Hitler annexed Lithuania
+fs: 11 8
+hyper: verb.social:colonise
+hypo: arrogate
+
+w: ante_up
+w: pay 4 drf noun.act:payment drf noun.possession:pay 1 drf noun.possession:payment
+w: pay_up ant default
+d: cancel or discharge a debt
+e: pay up, please!
+fs: 8 2
+hyper: liquidate
+hypo: pay 14
+
+w: antique drf noun.artifact:antique
+d: shop for antiques
+e: We went antiquing on Saturday
+fs: 2 22
+hypo: browse
+mt: noun.act:commerce
+
+w: apply
+w: give 14
+d: give or convey physically
+e: She gave him First Aid
+e: I gave him a punch in the nose
+fs: 15
+hyper: administer 1
+hyper: tread
+hypo: administer
+vg: give 13
+
+w: appoint
+d: furnish
+e: a beautifully appointed house
+fs: 17 8 9
+hypo: equip
+
+w: apportion drf adjs.all:apportionable
+w: deal 7 drf noun.act:deal 1
+w: divvy_up
+w: portion_out
+w: share drf noun.act:share drf noun.act:sharing drf noun.person:sharer
+d: give out as one's portion or share
+fs: 21 8
+entail: verb.contact:divide
+hypo: distribute 1
+
+w: appreciate drf adjs.all:appreciative
+w: prize
+w: treasure drf noun.possession:treasure 1
+w: value drf adj.all:valuable drf adjs.all:valuable
+d: hold dear
+e: I prize these old photographs
+fs: 8
+hyper: verb.cognition:do_justice
+hyper: verb.social:recognise 1
+hypo: verb.cognition:consider
+
+w: appropriate drf adj.pert:appropriative drf noun.person:appropriator
+w: capture drf noun.act:capture
+w: conquer drf noun.act:conquering
+w: seize 1 drf noun.act:seizure 1
+d: take possession of by force, as after an invasion
+e: the invaders seized the land and property of the inhabitants
+e: The army seized the town
+e: The militia captured the castle
+fs: 8 16
+hyper: carry 4
+hypo: arrogate
+
+w: arbitrage drf noun.act:arbitrage drf noun.person:arbitrager
+d: practice arbitrage, as in the stock market
+fs: 2
+hypo: merchandise
+mt: noun.act:commerce
+
+w: arm drf noun.artifact:arm 1 drf noun.artifact:armament
+d: supply with arms
+e: The U.S. armed the freedom fighters in Afghanistan
+fs: 9 8
+hyper: munition
+hyper: rearm
+hypo: furnish
+
+w: armor drf noun.artifact:armor
+w: armour drf noun.artifact:armour
+d: equip with armor
+fs: 9 8
+hypo: equip
+
+w: arrogate drf noun.act:arrogation drf noun.person:arrogator
+w: assume drf noun.act:assumption
+w: seize 7
+w: take_over 7 drf noun.act:takeover 2
+w: usurp drf noun.act:usurpation drf noun.person:usurper
+d: seize and take control without authority and possibly with force; take as one's right or possession
+e: He assumed to himself the right to fill all positions in the town
+e: he usurped my rights
+e: She seized control of the throne after her husband died
+fs: 8
+hyper: annex
+hyper: appropriate
+hyper: hijack
+hyper: preoccupy
+hyper: raid 2
+hypo: take 1
+
+w: arrogate 1 drf noun.person:arrogator
+w: assign 2
+d: make undue claims to having
+fs: 15
+hypo: arrogate 2
+
+w: arrogate 2 drf noun.person:arrogator
+w: claim ant forfeit drf noun.communication:claim drf noun.person:claimant
+w: lay_claim fs 22
+d: demand as being one's due or property; assert one's right or title to
+e: He claimed his suitcases at the airline counter
+e: Mr. Smith claims special tax exemptions because he is a foreign resident
+fs: 8
+hyper: arrogate 1
+hyper: pretend 3
+hyper: requisition
+hypo: verb.communication:bespeak
+vg: verb.communication:claim 3
+
+w: articulate drf noun.act:articulation drf noun.body:articulation drf noun.shape:articulation
+w: joint drf noun.artifact:jointer drf noun.shape:joint
+d: provide with a joint
+e: the carpenter jointed two pieces of wood
+fs: 8
+hypo: furnish
+mt: noun.act:carpentry
+
+w: assess drf noun.possession:assessment
+w: tax 1
+d: set or determine the amount of (a payment such as a fine)
+fs: 8
+hypo: verb.cognition:determine 1
+vg: assess 1
+
+w: assess 1 drf noun.person:assessee drf noun.possession:assessment
+d: charge (a person or a property) with a payment, such as a tax or a fine
+fs: 9
+hypo: bill
+vg: assess
+
+w: assign drf adjs.all:assignable drf noun.communication:assignment 2 drf noun.person:assignee drf noun.possession:assignment 2
+d: transfer one's right to
+fs: 14 15
+hypo: transfer
+
+w: attach drf noun.communication:attachment
+w: confiscate 1 drf noun.act:confiscation
+w: impound drf noun.act:impounding drf noun.act:impoundment
+w: seize 2 drf noun.act:seizure
+w: sequester drf noun.act:sequestration 1
+d: take temporary possession of as a security, by legal authority
+e: The FBI seized the drugs
+e: The customs agents impounded the illegal shipment
+e: The police confiscated the stolen artwork
+fs: 8
+hyper: condemn
+hyper: distrain
+hyper: garnish
+hypo: take
+vg: sequester 1
+
+w: attain 13
+w: chance_on
+w: chance_upon
+w: come_across 2
+w: come_upon 9
+w: discover drf noun.act:discovery drf noun.communication:discovery
+w: fall_upon 13
+w: happen_upon
+w: light_upon
+w: strike
+d: find unexpectedly
+e: the archeologists chanced upon an old tomb
+e: she struck a goldmine
+e: The hikers finally struck the main path to the lake
+fs: 8
+hypo: find
+
+w: auction drf noun.act:auction drf noun.person:auctioneer
+w: auction_off
+w: auctioneer drf noun.person:auctioneer
+d: sell at an auction
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: award drf noun.communication:award drf noun.possession:award
+w: present 2 drf noun.act:presentation 1
+d: give, especially as an honor or reward
+e: bestow honors and prizes at graduation
+fs: 15 14
+hyper: bestow
+hyper: certificate
+hypo: allocate
+
+w: award 1
+w: grant 3 drf noun.person:grantee drf noun.possession:grant
+d: give as judged due or on the basis of merit
+e: the referee awarded a free kick to the team
+e: "the jury awarded a million dollars to the plaintiff";"Funds are granted to qualified researchers"
+fs: 15 14
+hyper: pension
+hypo: give 3
+
+w: back drf noun.act:backing drf noun.person:backer drf noun.possession:backing
+d: support financial backing for
+e: back this enterprise
+fs: 8
+hypo: finance
+
+w: bag 1
+w: pocket 1 drf noun.artifact:pocket
+d: take unlawfully
+fs: 8
+hypo: steal
+
+w: bail drf noun.act:bailment drf noun.person:bailee
+d: deliver something in trust to somebody for a special purpose and for a limited period
+fs: 8
+hypo: deliver 1
+
+w: balance drf noun.possession:balance
+d: compute credits and debits of an account
+fs: 8
+hypo: account
+
+w: bank drf adjs.all:bankable drf noun.act:banking drf noun.artifact:bank drf noun.group:bank
+w: deposit ant withdraw drf noun.person:depositor drf noun.possession:deposit 1
+d: put into a bank account
+e: She deposits her paycheck every month
+fs: 8
+hyper: redeposit
+hypo: give
+
+w: bank 1 drf adjs.all:bankable drf noun.act:banking 1 drf noun.artifact:bank drf noun.group:bank drf noun.person:banker
+d: be in the banking business
+fs: 2
+hypo: verb.social:do_work
+vg: bank 3
+
+w: bank 2 drf adjs.all:bankable drf noun.act:banking drf noun.artifact:bank drf noun.group:bank
+d: do business with a bank or keep an account at a bank
+e: Where do you bank in this town?
+fs: 22
+hypo: transact 14
+
+w: bank 3
+d: act as the banker in a game or in gambling
+fs: 2
+hypo: verb.competition:act
+vg: bank 1
+
+w: bankroll
+d: provide with sufficient funds; finance
+e: Who will bankroll the restoration of the former East German economy?
+fs: 8
+hypo: fund
+
+w: bankrupt drf noun.state:bankruptcy
+w: break 7
+w: ruin
+w: smash
+d: reduce to bankruptcy
+e: My daughter's fancy wedding is going to break me!
+e: The slump in the financial markets smashed him
+fs: 9 10
+hypo: impoverish
+
+w: bargain drf noun.communication:bargain drf noun.communication:bargaining drf noun.person:bargainer 1 drf noun.possession:bargain 1
+w: dicker
+d: negotiate the terms of an exchange
+e: We bargained for a beautiful rug in the bazaar
+fs: 22 2
+hyper: chaffer
+hypo: verb.communication:negociate
+
+w: bargain_down
+w: beat_down
+d: persuade the seller to accept a lower price
+e: She beat the merchant down $100
+fs: 9
+hypo: chaffer
+
+w: barter drf noun.act:barter drf noun.person:barterer
+d: exchange goods without involving money
+fs: 22 2
+hypo: change
+
+w: barter_away
+d: trade in in a bartering transaction
+fs: 8
+hypo: trade
+mt: noun.act:commerce
+
+w: be
+d: spend or use time
+e: I may be an hour
+fs: 11 8
+hypo: occupy 8
+
+w: bear drf noun.person:bearer 2
+w: hold 4 drf noun.person:holder
+d: have rightfully; of rights, titles, and offices
+e: She bears the title of Duchess
+e: He held the governorship for almost a decade
+fs: 8
+hypo: have
+
+w: bear 1
+w: pay 1 drf noun.possession:pay 1
+w: yield drf noun.act:yield drf noun.artifact:yield drf noun.quantity:yield
+d: bring in
+e: interest-bearing accounts
+e: How much does this savings certificate pay annually?
+fs: 11
+hyper: clear 3
+hyper: pay_off 2
+hypo: bring_in 1
+mt: noun.possession:investment
+
+w: bed drf noun.artifact:bed
+d: furnish with a bed
+e: The inn keeper could bed all the new arrivals
+fs: 8
+hyper: bunk
+hypo: furnish
+
+w: beg drf noun.communication:beggary
+d: ask to obtain free
+e: beg money and food
+fs: 2 20
+hyper: cadge 1
+hyper: panhandle
+hypo: verb.communication:bespeak
+
+w: beggar drf noun.person:beggar
+w: pauperise drf noun.act:pauperisation
+w: pauperize drf noun.act:pauperization drf noun.person:pauper drf noun.state:pauperization
+d: reduce to beggary
+fs: 10
+hypo: impoverish
+
+w: belong drf noun.possession:belongings
+d: be owned by; be in the possession of
+e: This book belongs to me
+fs: 10
+hypo: verb.stative:be 3
+
+w: benefice drf noun.person:beneficiary drf noun.possession:benefice
+d: endow with a benefice
+fs: 17
+hypo: dower
+
+w: benefit drf noun.attribute:benefit
+w: gain 2 drf noun.person:gainer
+w: profit 2 drf noun.attribute:profit
+d: derive a benefit from
+e: She profited from his vast experience
+fs: 22 2
+hyper: capitalise
+hyper: cash_in_on
+hyper: clear 4
+hyper: profiteer
+hyper: pyramid
+hypo: acquire
+
+w: benefit 1 drf adj.all:beneficent drf noun.attribute:benefit
+w: do_good drf noun.person:do-gooder
+d: be beneficial for
+e: This will do you good
+fs: 10 11
+hypo: verb.body:aid
+
+w: bequeath ant disinherit
+w: leave 1
+w: will drf noun.communication:will
+d: leave or give by will after one's death
+e: My aunt bequeathed me all her jewelry
+e: My grandfather left me his entire estate
+fs: 15 14
+hyper: devise
+hyper: entail
+hyper: pass_on
+hyper: remember
+hypo: gift
+vg: verb.change:leave 3
+vg: give 9
+
+w: bereave drf noun.state:bereavement
+d: deprive through death
+fs: 18
+hypo: deprive 1
+
+w: berth drf noun.artifact:berth drf noun.location:berth
+d: provide with a berth
+fs: 9
+hypo: furnish
+
+w: bestow drf noun.act:bestowal drf noun.act:bestowment
+w: confer drf noun.act:conferment drf noun.act:conferral drf noun.person:conferee 1
+d: present
+e: The university conferred a degree on its most famous former student, who never graduated
+e: bestow an honor on someone
+fs: 19
+hyper: bless
+hyper: graduate 1
+hyper: miter
+hypo: award
+
+w: bestow 2 drf noun.possession:bestowment
+d: give as a gift
+fs: 19
+hypo: give
+
+w: bewhisker
+w: whisker drf noun.animal:whisker
+d: furnish with whiskers
+e: a whiskered jersey
+fs: 8
+hypo: furnish
+
+w: bid drf noun.communication:bid drf noun.person:bidder
+w: offer 1 drf noun.communication:offer
+w: tender 2 drf noun.communication:tender
+d: propose a payment
+e: The Swiss dealer offered $2 million for the painting
+fs: 21 2 8
+entail: bargain
+hyper: by-bid
+hyper: outbid
+hyper: overbid
+hyper: subscribe 1
+hyper: underbid
+hyper: underbid 1
+mt: noun.act:auction
+
+w: bid 1 drf noun.communication:bid 1 drf noun.communication:bidding 1 drf noun.person:bidder 1
+w: call 5 drf noun.person:caller 5
+d: make a demand, as for a card or a suit or a show of hands
+e: He called his trump
+fs: 2
+hyper: verb.competition:raise 9
+hyper: double 3
+hyper: outbid 1
+hyper: outcall
+hyper: overbid 1
+hyper: preempt 1
+hyper: underbid 2
+hypo: verb.competition:play
+mt: noun.act:card_game
+
+w: bid 4 drf noun.act:bid drf noun.communication:bid
+d: make a serious effort to attain something
+e: His campaign bid for the attention of the poor population
+fs: 11 8
+hypo: seek
+
+w: bilk
+d: evade payment to
+e: He bilked his creditors
+fs: 9
+hypo: deprive
+
+w: bill drf noun.communication:bill 1
+w: charge 3 drf noun.communication:charge 3 drf noun.possession:charge 2
+d: demand payment
+e: Will I get charged for this service?
+e: We were billed for 4 nights in the hotel, although we stayed only 3 nights
+fs: 8 9 14
+hyper: assess 1
+hyper: impose
+hyper: invoice
+hyper: surcharge 1
+hyper: tithe 1
+hyper: undercharge
+hypo: account
+vg: charge 2
+
+w: black_market drf noun.act:black_market drf noun.group:black_market
+w: run 6 drf noun.act:run 4
+d: deal in illegally, such as arms or liquor
+fs: 8
+hypo: merchandise
+mt: noun.act:crime
+vg: verb.motion:ply
+
+w: black_marketeer drf noun.person:black_marketeer
+d: deal on the black market
+fs: 2
+hypo: deal
+mt: noun.act:crime
+
+w: blackmail drf noun.act:blackmail drf noun.person:blackmailer
+d: obtain through threats
+fs: 9
+hypo: extort 1
+mt: noun.act:crime
+
+w: bleed 9
+d: get or extort (money or other possessions) from someone
+e: They bled me dry--I have nothing left!
+fs: 16 9
+hypo: extort
+
+w: bless
+d: confer prosperity or happiness on
+fs: 10 9
+hypo: bestow
+
+w: blow
+d: spend lavishly or wastefully on
+e: He blew a lot of money on his new home theater
+fs: 19 8
+hypo: drop
+vg: blow 2
+
+w: blow 2
+w: squander 1 drf noun.person:squanderer
+w: waste ant conserve drf noun.act:waste drf noun.attribute:waste drf noun.person:waster
+d: spend thoughtlessly; throw away
+e: He wasted his inheritance on his insincere friends
+e: You squandered the opportunity to get and advanced degree
+fs: 8
+hyper: burn 1
+hypo: verb.consumption:expend
+vg: blow
+
+w: bond drf noun.possession:bond 2
+d: issue bonds on
+fs: 8
+hypo: mortgage
+
+w: bootleg drf noun.food:bootleg drf noun.person:bootlegger
+d: sell illicit products such as drugs or alcohol
+e: They were bootlegging whiskey
+fs: 2 8
+hypo: sell
+mt: noun.act:crime
+
+w: border
+w: edge drf noun.artifact:edge drf noun.artifact:edger drf noun.location:edge drf noun.person:edger
+d: provide with a border or edge
+e: edge the tablecloth with embroidery
+fs: 8
+hypo: furnish
+
+w: borrow ant lend drf noun.person:borrower
+d: get temporarily
+e: May I borrow your lawn mower?
+fs: 16 8
+hypo: acquire
+
+w: bottle drf noun.artifact:bottle
+d: store (liquids or gases) in bottles
+fs: 8
+hypo: store 2
+
+w: bottom drf noun.location:bottom drf noun.location:bottom 1
+d: provide with a bottom or a seat
+e: bottom the chairs
+fs: 8
+hypo: furnish
+mt: noun.act:cabinetry
+
+w: bounce ant clear 7
+d: come back after being refused
+e: the check bounced
+fs: 1 4
+hypo: verb.motion:return
+vg: bounce 1
+
+w: bounce 1
+d: refuse to accept and send back
+e: bounce a check
+fs: 11 8
+cause: bounce
+hypo: decline
+vg: bounce
+
+w: brattice
+d: supply with a brattice, to ventilate mines
+fs: 8
+hypo: furnish
+
+w: break_even ant lose 6 ant profit
+d: make neither profit nor loss
+fs: 2
+
+w: breathe
+d: impart as if by breathing
+e: He breathed new life into the old house
+fs: 21
+hypo: instill
+
+w: bribe drf adjs.all:bribable drf noun.act:bribery drf noun.person:briber drf noun.possession:bribe
+w: buy 2
+w: corrupt drf adjs.all:corruptible
+w: grease_one's_palms
+d: make illegal payments to in exchange for favors or influence
+e: This judge can be bought
+fs: 9
+hyper: buy_off
+hyper: sop
+hypo: pay
+mt: noun.act:crime
+
+w: bring
+w: bring_in
+w: fetch
+d: be sold for a certain price
+e: The painting brought $10,000
+e: The old print fetched a high price at the auction
+fs: 11
+entail: change_hands
+
+w: bring_home
+w: take_home
+d: earn as a salary or wage
+e: How much does your wife take home after taxes and other deductions?
+fs: 8
+hypo: bring_in 1
+
+w: bring_home_the_bacon
+w: provide 8 drf noun.act:provision 1
+d: supply means of subsistence; earn a living
+e: He provides for his large family by working three jobs
+e: Women nowadays not only take care of the household but also bring home the bacon
+fs: 22
+hypo: support
+
+w: bring_in 1
+w: clear
+w: earn 1 drf noun.person:earner
+w: gain drf noun.person:gainer
+w: make 1
+w: pull_in
+w: realise 1
+w: realize 1
+w: take_in
+d: earn on some commercial or business transaction; earn as salary or wages
+e: How much do you make a month in your new job?
+e: She earns a lot in her new job
+e: this merger brought in lots of money
+e: He clears $5,000 each month
+fs: 8
+hyper: bear 1
+hyper: bring_home
+hyper: eke_out 1
+hyper: gross
+hyper: profit
+hyper: rake_in
+hyper: rake_off
+hypo: acquire
+vg: verb.body:make 8
+vg: clear 4
+
+w: bring_in 3
+d: submit (a verdict) to a court
+fs: 8
+hypo: present 1
+
+w: broker drf noun.artifact:brokerage drf noun.group:brokerage drf noun.group:brokerage 1 drf noun.person:broker
+d: act as a broker
+fs: 8 2
+hypo: verb.communication:negociate
+mt: noun.act:commerce
+
+w: browse drf noun.person:browser
+w: shop 1 drf noun.act:shopping drf noun.artifact:shop drf noun.person:shopper
+d: shop around; not necessarily buying
+e: I don't need help, I'm just browsing
+fs: 2 22
+hyper: antique
+hyper: comparison-shop
+hyper: window-shop
+hypo: verb.contact:look_for
+mt: noun.act:commerce
+vg: verb.contact:browse
+
+w: bull drf noun.person:bull 1
+d: try to raise the price of stocks through speculative buying
+fs: 8
+hypo: job
+mt: noun.act:investing
+vg: verb.change:bull
+
+w: bum drf noun.person:bum 3
+w: cadge drf noun.person:cadger
+w: grub
+w: mooch drf noun.person:moocher
+w: sponge drf noun.person:sponge drf noun.person:sponger
+d: ask for and get free; be a parasite
+fs: 2 8
+hyper: freeload
+hypo: obtain
+
+w: bump 12
+w: chance 12
+w: encounter drf noun.event:encounter
+w: find 2 drf noun.act:find drf noun.person:finder
+w: happen 12
+d: come upon, as if by accident; meet with
+e: We find this idea in Plato
+e: I happened upon the most wonderful bakery not very far from here
+e: She chanced upon an interesting book in the bookstore the other day
+fs: 8
+
+w: bung
+w: fee 1
+w: tip drf noun.person:tipper drf noun.possession:tip
+d: give a tip or gratuity to in return for a service, beyond the compensation agreed on
+e: Remember to tip the waiter
+e: fee the steward
+fs: 14 9
+hypo: gift
+
+w: bunk drf noun.artifact:bunk 2
+d: provide with a bunk
+e: We bunked the children upstairs
+fs: 9
+hypo: bed
+
+w: bunker
+d: fill (a ship's bunker) with coal or oil
+fs: 8
+hypo: fuel
+
+w: burn 1
+d: spend (significant amounts of money)
+e: He has money to burn
+fs: 8
+hypo: blow 2
+
+w: bush drf noun.artifact:bushing drf noun.artifact:bushing 1
+d: provide with a bushing
+fs: 8
+hypo: furnish
+
+w: buy ant sell drf noun.act:buying drf noun.person:buyer drf noun.possession:buy see buy_in see buy_out see buy_up
+w: purchase drf noun.act:purchase drf noun.act:purchasing drf noun.person:purchaser drf noun.possession:purchase
+d: obtain by purchase; acquire by means of a financial transaction
+e: The family purchased a new car
+e: The conglomerate acquired a new company
+e: She buys for the big department store
+fs: 16 2 8
+entail: verb.cognition:choose
+entail: pay
+hyper: buy_back
+hyper: buy_food
+hyper: buy_out
+hyper: get 13
+hyper: impulse-buy
+hyper: pick_up
+hyper: subscribe
+hyper: take 2
+hypo: acquire
+mt: noun.act:commerce
+vg: verb.stative:buy
+
+w: buy 3
+d: acquire by trade or sacrifice or exchange
+e: She wanted to buy his love with her dedication to him and his work
+fs: 8
+hypo: acquire
+
+w: buy_back drf noun.act:buyback
+w: repurchase drf noun.act:repurchase
+d: buy what had previously been sold, lost, or given away
+e: He bought back the house that his father sold years ago
+fs: 8
+hypo: buy
+
+w: buy_food
+w: take_out 1
+d: purchase prepared food to be eaten at home
+fs: 8
+hypo: buy
+
+w: buy_in
+w: stock 1 drf noun.artifact:stock drf noun.person:stockist drf noun.possession:stock 1
+w: stock_up
+d: amass so as to keep for future use or sale or for a particular occasion or use
+e: let's stock coffee as long as prices are low
+fs: 8
+hyper: overstock
+hyper: understock
+hypo: furnish
+mt: noun.act:commerce
+
+w: buy_into
+d: buy stocks or shares of a company
+fs: 8
+hypo: commit 5
+mt: noun.act:investing
+
+w: buy_off
+w: pay_off 1
+d: pay someone with influence in order to receive a favor
+fs: 9
+hypo: bribe
+mt: noun.act:crime
+
+w: buy_out drf noun.act:buyout
+w: buy_up
+w: take_over 3 drf noun.act:takeover 1
+d: take over ownership of; of corporations and companies
+fs: 11 8
+hypo: buy
+
+w: by-bid
+d: bid on behalf of someone else
+fs: 2
+hypo: bid
+mt: noun.act:auction
+
+w: cache drf noun.artifact:cache drf noun.possession:cache
+w: hive_up
+w: hoard 1 drf noun.person:hoarder drf noun.possession:hoard
+w: lay_away
+w: squirrel_away
+w: stash drf noun.possession:stash
+d: save up as for future use
+fs: 8
+hypo: lay_aside
+
+w: cadge 1 drf noun.person:cadger
+w: schnorr
+w: scrounge 1 drf noun.person:scrounger
+w: shnorr
+d: obtain or seek to obtain by cadging or wheedling
+e: he is always shnorring cigarettes from his friends
+fs: 16 2
+hypo: beg
+
+w: call 9 drf adjs.all:callable drf noun.communication:call 8
+w: call_in 2
+d: demand payment of (a loan)
+e: Call a loan
+fs: 8
+hypo: verb.communication:demand 2
+vg: verb.communication:call 12
+
+w: call_back drf noun.communication:callback
+w: call_in
+w: recall drf noun.communication:recall 2
+w: withdraw 1
+d: cause to be returned
+e: recall the defective auto tires
+e: The manufacturer tried to call back the spoilt yoghurt
+fs: 8
+hyper: decommission
+hypo: take
+
+w: call_for
+w: collect 3
+w: gather_up
+w: pick_up 1 drf noun.act:pickup
+d: gather or collect
+e: You can get the results on Monday
+e: She picked up the children at the day care center
+e: They pick up our trash twice a week
+fs: 8 9
+hypo: acquire
+
+w: canal drf noun.act:canalisation drf noun.act:canalization drf noun.artifact:canal
+w: canalise drf noun.act:canalisation drf noun.artifact:canal
+w: canalize drf noun.act:canalization drf noun.artifact:canal
+d: provide (a city) with a canal
+fs: 8
+hypo: furnish
+
+w: capitalise drf noun.act:capitalisation
+w: capitalize drf noun.act:capitalization
+w: take_advantage
+d: draw advantages from
+e: he is capitalizing on her mistake
+e: she took advantage of his absence to meet her lover
+fs: 22
+hypo: benefit
+
+w: capitalise 2 drf noun.possession:capital 1
+w: capitalize 2
+d: supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders
+fs: 8
+hypo: furnish
+
+w: caption drf noun.communication:caption drf noun.communication:caption 1
+d: provide with a caption, as of a photograph or a drawing
+fs: 8
+hypo: furnish
+
+w: capture 1 drf noun.process:capture
+d: bring about the capture of an elementary particle or celestial body and causing it enter a new orbit
+e: This nucleus has captured the slow-moving neutrons
+e: The star captured a comet
+fs: 11
+hypo: verb.change:alter 1
+
+w: carry
+w: stock drf noun.artifact:stock drf noun.person:stockist drf noun.possession:stock 1
+w: stockpile drf noun.act:stockpiling drf noun.group:stockpile drf noun.possession:stockpile
+d: have on hand
+e: Do you carry kerosene heaters?
+fs: 8
+hypo: have
+
+w: carry 4
+d: capture after a fight
+e: The troops carried the town after a brief fight
+fs: 8
+hypo: appropriate
+
+w: carry 10
+d: have on the surface or on the skin
+e: carry scars
+fs: 8
+hypo: verb.stative:bear 1
+
+w: carry 13 drf noun.act:carry
+w: post 5
+d: transfer (entries) from one account book to another
+fs: 8
+hypo: transfer 1
+vg: verb.motion:carry 10
+
+w: carry-the_can
+w: face_the_music
+d: accept the unpleasant consequences of one's actions
+fs: 2
+hypo: accept 1
+
+w: carry_over
+w: hold_over
+d: hold over goods to be sold for the next season
+fs: 8
+hypo: hold_on
+
+w: cash drf adjs.all:cashable drf noun.possession:cash see cash_in_on
+w: cash_in
+d: exchange for cash
+e: I cashed the check as soon as it arrived in the mail
+fs: 8
+hyper: liquidate 2
+hyper: redeem
+hypo: change
+
+w: cash_in_on
+d: take advantage of or capitalize on
+fs: 8
+hypo: benefit
+
+w: cast 13
+d: deposit
+e: cast a vote
+e: cast a ballot
+fs: 8
+hypo: give 7
+
+w: cast_aside
+w: cast_away
+w: cast_out
+w: chuck_out
+w: discard drf noun.act:discard drf noun.object:discard
+w: dispose drf noun.act:disposal drf noun.act:disposition
+w: fling 2 drf noun.act:fling 2
+w: put_away
+w: throw_away
+w: throw_out
+w: toss
+w: toss_away
+w: toss_out
+d: throw or cast away
+e: Put away your worries
+fs: 8
+hyper: verb.cognition:unlearn
+hyper: abandon
+hyper: close_out
+hyper: de-access
+hyper: deep-six
+hyper: dump
+hyper: jettison
+hyper: junk
+hyper: liquidize
+hyper: retire
+hyper: waste 1
+hypo: get_rid_of 1
+
+w: catch
+d: get or regain something necessary, usually quickly or briefly
+e: Catch some sleep
+e: catch one's breath
+fs: 8
+hypo: acquire
+
+w: causeway
+d: provide with a causeway
+e: A causewayed swamp
+fs: 8
+hypo: furnish
+
+w: cede drf noun.act:cession
+w: deliver 2
+w: give_up 1
+w: surrender drf noun.act:surrender 1 drf noun.person:surrenderer
+d: relinquish possession or control over
+e: The squatters had to surrender the building after the police moved in
+fs: 15 8
+hyper: sell 2
+hyper: sign_away
+hyper: yield_up
+hypo: gift
+
+w: cede 1 drf noun.act:cession
+w: concede drf noun.communication:conceding drf noun.communication:concession 2
+w: grant 4
+w: yield 1
+d: give over; surrender or relinquish to the physical control of another
+fs: 8 15
+hypo: give
+
+w: certificate drf noun.communication:certificate drf noun.possession:certificate
+d: present someone with a certificate
+fs: 9
+hypo: award
+
+w: certify 2 drf noun.act:certification 1 drf noun.possession:certificate
+d: guarantee payment on; of checks
+fs: 8
+hypo: secure 1
+
+w: chaffer
+w: haggle drf noun.communication:haggle drf noun.communication:haggling drf noun.person:haggler
+w: higgle
+w: huckster 1 drf noun.person:huckster
+d: wrangle (over a price, terms of an agreement, etc.)
+e: Let's not haggle over a few dollars
+fs: 22 2
+hyper: bargain_down
+hypo: bargain
+
+w: chalk_up
+w: run_up
+d: accumulate as a debt
+e: he chalked up $100 in the course of the evening
+fs: 8
+hypo: owe 1
+
+w: change
+w: exchange drf noun.act:exchange 3
+w: interchange drf noun.act:interchange 1
+d: give to, and receive from, one another
+e: Would you change places with me?
+e: We have been exchanging letters for a year
+fs: 21 8
+hyper: barter
+hyper: cash
+hyper: fill_in
+hyper: ransom
+hyper: redeem 4
+hyper: sell
+hyper: swap
+hyper: trade
+hypo: transfer
+
+w: change_hands
+w: change_owners
+d: be transferred to another owner
+e: This restaurant changed hands twice last year
+fs: 1
+hyper: accrue 10
+hyper: devolve 13
+hyper: vest 3
+hypo: verb.motion:displace 2
+
+w: charge 1 ant pay_cash drf noun.communication:charge 3
+d: pay with a credit card; pay with plastic money; postpone payment by recording a purchase as a debt
+e: Will you pay cash or charge the purchase?
+fs: 8 21 15
+hypo: pay
+
+w: charge 2 drf noun.communication:charge 3 drf noun.possession:charge 1 drf noun.possession:charge 2
+d: enter a certain amount as a charge
+e: he charged me $15
+fs: 15 8
+hypo: debit
+vg: bill
+
+w: charge 4 drf noun.person:charge
+w: consign drf noun.person:consignee drf noun.person:consigner
+d: give over to another for care or safekeeping
+e: consign your baggage
+fs: 15
+hyper: verb.communication:pledge 2
+hyper: check
+hyper: check 13
+hyper: hock
+hypo: commit
+
+w: charge 5
+w: commit 2 drf noun.act:commitment 1 drf noun.act:committal
+w: institutionalise drf noun.act:institution drf noun.artifact:institution 1
+w: institutionalize drf noun.artifact:institution 1
+w: send
+d: cause to be admitted; of persons to an institution
+e: After the second episode, she had to be committed
+e: he was committed to prison
+fs: 20
+hyper: hospitalise
+hypo: transfer 1
+
+w: charter drf noun.communication:charter 1
+w: engage
+w: hire
+w: lease drf noun.communication:lease drf noun.time:lease
+w: rent drf noun.act:rental drf noun.person:renter drf noun.possession:rent
+w: take 3
+d: engage for service under a term of contract
+e: We took an apartment on a quiet street
+e: Let's rent a car
+e: Shall we take a guide in Rome?
+fs: 16 8 9
+hypo: acquire
+
+w: check drf noun.person:checker 1
+d: hand over something to somebody as for temporary safekeeping
+e: Check your coat at the door
+fs: 15
+hypo: charge 4
+vg: check 13
+
+w: check 13
+d: consign for shipment on a vehicle
+e: check your luggage before boarding
+fs: 8
+hypo: charge 4
+vg: check
+
+w: check_out drf noun.artifact:checkout
+d: record, add up, and receive payment for items purchased
+e: She was checking out the apples that the customer had put on the conveyer belt
+fs: 2 8
+entail: buy
+
+w: check_out 2
+w: cheque drf noun.possession:cheque
+d: withdraw money by writing a check
+fs: 8
+hypo: draw 1
+
+w: chip_in
+w: contribute drf noun.act:contribution drf noun.act:contribution 2 drf noun.person:contributor
+w: give 8 drf noun.act:giving drf noun.act:giving 1
+w: kick_in
+d: contribute to some cause
+e: I gave at the office
+fs: 8 15 2
+hyper: combine
+hypo: give
+
+w: chuck
+w: ditch 1
+d: throw away
+e: Chuck these old notes
+fs: 8
+hypo: abandon
+mu: noun.communication:argot
+
+w: clean_out
+d: deprive completely of money or goods
+e: The robbers cleaned us out in a couple of hours
+fs: 10 9
+hypo: deprive 1
+
+w: clean_up
+d: dispose of
+e: settle the bills
+fs: 8
+hypo: settle
+
+w: clean_up 4 drf noun.possession:cleanup
+d: make a big profit; often in a short period of time
+e: The investor really cleaned up when the stock market went up
+fs: 2
+hypo: profit
+
+w: clear 3
+w: net 1 drf noun.possession:net
+d: yield as a net profit
+e: This sale netted me $1 million
+fs: 11
+hypo: bear 1
+vg: clear 4
+
+w: clear 4
+w: net
+w: sack 1
+w: sack_up
+d: make as a net profit
+e: The company cleared $1 million
+fs: 8
+hypo: benefit
+vg: bring_in 1
+vg: clear 3
+
+w: clear 7 ant bounce
+d: be debited and credited to the proper bank accounts
+e: The check will clear within 2 business days
+fs: 1
+
+w: clear 9
+d: sell
+e: We cleared a lot of the old model cars
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: clear 12 drf noun.act:clearing 1
+d: clear from impurities, blemishes, pollution, etc.
+e: clear the water before it can be drunk
+fs: 8 11
+hypo: disembarrass
+
+w: cleat drf noun.artifact:cleat 2
+d: provide with cleats
+e: cleat running shoes for better traction
+fs: 8
+hypo: furnish
+
+w: close_out drf noun.act:closeout
+d: terminate by selling off or disposing of
+e: He closed out his line of sports cars
+fs: 8
+hypo: cast_aside
+
+w: cloy
+w: surfeit drf noun.act:surfeit drf noun.state:surfeit 1
+d: supply or feed to surfeit
+fs: 8
+hypo: furnish
+
+w: co-opt
+d: take or assume for one's own use
+e: He co-opted the criticism and embraced it
+fs: 8
+hypo: accept 12
+
+w: coal drf noun.substance:coal
+d: supply with coal
+fs: 11 10 8 9
+hypo: furnish
+
+w: coinsure drf noun.possession:coinsurance
+d: take out coinsurance
+fs: 9 8
+hypo: insure
+
+w: collect 1 drf adjs.all:collectible drf noun.person:collector
+w: take_in 9
+d: call for and obtain payment of
+e: we collected over a million dollars in outstanding debts
+e: he collected the rent
+fs: 8 16
+hyper: farm
+hyper: raise
+hypo: take
+
+w: comb_out drf noun.act:comb-out 1
+w: weed_out
+d: remove unwanted elements
+e: The company weeded out the incompetent people
+e: The new law weeds out the old inequities
+fs: 9 11 8
+hypo: get_rid_of 1
+
+w: combine drf noun.act:combining drf noun.event:combine
+d: add together from different sources
+e: combine resources
+fs: 8
+hypo: chip_in
+
+w: come_by
+w: come_into
+d: obtain, especially accidentally
+fs: 8
+hyper: hit 5
+hypo: acquire
+
+w: come_up fs 22
+w: find 1
+w: get_hold fs 22
+w: line_up
+d: get something or somebody for a specific purpose
+e: I found this gadget that will serve as a bottle opener
+e: I got hold of these tools to fix our plumbing
+e: The chairman got hold of a secretary on Friday night to type the urgent letter
+fs: 8 9
+hypo: acquire
+
+w: come_upon 1
+w: enter_upon
+w: luck_into
+d: take possession of
+e: She entered upon the estate of her rich relatives
+fs: 16 8 9
+hypo: acquire
+
+w: commit drf noun.group:committee
+w: confide drf noun.state:confidence 3
+w: entrust
+w: intrust
+w: trust drf noun.attribute:trust drf noun.person:trustee drf noun.person:trustee 1 drf noun.state:trust
+d: confer a trust upon
+e: The messenger was entrusted with the general's secret
+e: I commit my soul to God
+fs: 15
+hyper: verb.communication:commend 3
+hyper: charge 4
+hyper: obligate
+hyper: recommit
+hypo: give 6
+
+w: commit 5 drf noun.act:commitment 2
+w: invest ant divest drf noun.act:investing drf noun.act:investment drf noun.person:investor drf noun.possession:investment
+w: place 3
+w: put
+d: make an investment
+e: Put money into bonds
+fs: 21 8
+hyper: buy_into
+hyper: fund 4
+hyper: job
+hyper: roll_over
+hyper: shelter
+hyper: tie_up
+hypo: drop
+
+w: communalise
+w: communalize drf adj.pert:communal 2 drf adjs.all:communal
+d: make something the property of the commune or community
+fs: 8
+hypo: share 2
+
+w: communicate 10 drf noun.Tops:communication
+w: convey 10
+w: transmit 10 drf adjs.all:transmissible 1 drf adjs.all:transmissible 2 drf noun.event:transmission drf noun.object:transmitter
+d: transfer to another
+e: communicate a disease
+fs: 8 15
+hyper: verb.communication:communicate 1
+hypo: transfer 1
+
+w: comparison-shop
+d: compare prices for a given item
+fs: 2
+hypo: browse
+mt: noun.act:commerce
+
+w: compensate drf noun.act:compensation drf noun.possession:compensation
+w: recompense drf noun.act:recompense drf noun.possession:recompense
+w: remunerate drf adjs.all:remunerative drf adjs.all:remunerative 1 drf noun.act:remuneration drf noun.person:remunerator drf noun.possession:remuneration
+d: make payment to; compensate
+e: My efforts were not remunerated
+fs: 9
+hyper: recoup 2
+hypo: pay
+
+w: compensate 1 drf noun.act:compensation drf noun.possession:compensation
+w: indemnify drf noun.act:indemnification drf noun.possession:indemnification drf noun.possession:indemnity
+w: recompense 1
+w: repair drf noun.act:reparation drf noun.possession:reparation 1
+d: make amends for; pay compensation for
+e: One can never fully repair the suffering and losses of the Jews in the Third Reich
+e: She was compensated for the loss of her arm in the accident
+fs: 15 8
+hyper: give 12
+hypo: pay
+
+w: compensate 2 drf noun.act:compensation drf noun.possession:compensation
+w: make_up
+w: pay 2 drf noun.person:payee drf noun.person:payer drf noun.possession:pay 1 see verb.competition:pay_back see verb.competition:pay_off
+w: pay_off 4
+d: do or give something to somebody in return
+e: Does she pay you for the work you are doing?
+fs: 20
+hypo: settle
+
+w: compound
+d: calculate principal and interest
+fs: 8
+hypo: account
+
+w: computerise drf noun.artifact:computer
+w: computerize drf noun.artifact:computer
+d: store in a computer
+e: computerized dictionary
+fs: 8
+hypo: hive_away
+
+w: computerise 1 drf noun.artifact:computer
+w: computerize 1 drf noun.artifact:computer
+d: provide with computers
+e: Our office is fully computerized now
+fs: 8
+hypo: furnish
+
+w: condemn
+d: appropriate (property) for public use
+e: the county condemned the land to build a highway
+fs: 8
+hypo: attach
+
+w: conserve ant waste
+w: economise drf noun.person:economiser
+w: economize drf noun.act:economy drf noun.attribute:economy drf noun.cognition:economy 1 drf noun.person:economizer
+w: husband
+d: use cautiously and frugally
+e: I try to economize my spare time
+e: conserve your energy for the ascent to the summit
+fs: 8
+hyper: retrench
+hypo: preserve 1
+
+w: conserve 2 drf noun.act:conservation drf noun.event:conservation
+w: keep_up
+w: maintain drf noun.act:maintenance
+w: preserve drf adjs.all:preservative drf noun.act:preservation
+d: keep in safety and protect from harm, decay, loss, or destruction
+e: We preserve these archeological findings
+e: The old lady could not keep up the building
+e: children must be taught to conserve our national heritage
+e: The museum curator conserved the ancient manuscripts
+fs: 8
+hyper: embalm
+hyper: hold_the_line
+hyper: plastinate
+hypo: keep 1
+
+w: consign 1 drf noun.act:consignment drf noun.person:consignor
+d: commit forever; commit irrevocably
+fs: 21
+hypo: abandon
+
+w: consign 2 drf noun.act:consignment 1
+d: send to an address
+fs: 8 21
+hypo: verb.contact:deliver
+
+w: constitutionalize drf noun.communication:constitution
+d: provide with a constitution, as of a country
+e: The United States were constitutionalized in the late 18th century
+fs: 8
+hypo: furnish
+
+w: contribute 2 drf noun.act:contribution
+w: put_up 1
+d: provide
+e: The city has to put up half the required amount
+fs: 8 11
+hypo: pay
+
+w: convey drf adjs.all:conveyable drf noun.act:conveyance drf noun.act:conveying
+d: transmit a title or property
+fs: 14 8 12
+hypo: transfer
+mt: noun.group:jurisprudence
+
+w: cop
+w: glom
+w: hook 1
+w: knock_off
+w: snitch drf noun.person:snitcher 1
+w: thieve drf noun.act:thievery drf noun.act:thieving
+d: take by theft
+e: Someone snitched my wallet!
+fs: 8
+hypo: steal
+
+w: copper-bottom
+d: provide with a copper bottom
+e: copper-bottom a frying pan
+fs: 8
+hypo: furnish
+
+w: copyright drf noun.communication:copyright
+d: secure a copyright on a written work
+e: did you copyright your manuscript?
+fs: 8
+hypo: procure
+
+w: corbel drf noun.artifact:corbel
+d: furnish with a corbel
+fs: 8
+hypo: furnish
+mt: noun.cognition:architecture
+
+w: cornice drf noun.artifact:cornice drf noun.artifact:cornice 2
+d: furnish with a cornice
+fs: 8
+hypo: furnish
+mt: noun.cognition:architecture
+
+w: cosponsor
+d: sponsor together with another sponsor
+fs: 9 8
+hypo: patronise
+
+w: costume drf noun.person:costumer
+d: furnish with costumes; as for a film or play
+fs: 9 8
+hypo: furnish
+mt: noun.cognition:performing_arts
+
+w: cough_up
+w: pony_up
+w: spit_up
+d: give reluctantly
+e: He coughed up some money for his children's tuition
+fs: 8
+hypo: give
+
+w: cover drf noun.possession:cover
+d: be sufficient to meet, defray, or offset the charge or cost of
+e: Is this enough to cover the check?
+fs: 22
+hypo: verb.stative:be 3
+
+w: cozen drf noun.act:cozenage
+d: cheat or trick
+e: He cozened the money out of the old man
+fs: 21 22 8
+hypo: acquire 6
+hypo: verb.social:cheat
+
+w: credit ant debit drf noun.person:creditor drf noun.possession:credit 1
+d: accounting: enter as credit
+e: We credit your account with $100
+fs: 8 15 17
+hyper: finance 1
+hypo: account
+
+w: crenel
+w: crenelate drf noun.act:crenelation drf noun.artifact:crenel drf noun.artifact:crenelation drf noun.artifact:crenelle
+w: crenellate drf noun.act:crenellation drf noun.artifact:crenel drf noun.artifact:crenellation drf noun.artifact:crenelle
+d: supply with battlements
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: crib
+d: take unauthorized (intellectual material)
+fs: 8
+hypo: lift 1
+mt: noun.act:crime
+
+w: cull drf noun.cognition:cull
+d: remove something that has been rejected
+e: cull the sick members of the herd
+fs: 8 2
+hypo: get_rid_of 1
+
+w: curtain drf noun.artifact:curtain
+d: provide with drapery
+e: curtain the bedrooms
+fs: 8
+hypo: furnish
+
+w: cut_in
+d: allow someone to have a share or profit
+fs: 9
+hypo: partake
+
+w: dado
+d: provide with a dado
+e: The owners wanted to dado their dining room
+fs: 8
+hypo: furnish
+mt: noun.act:carpentry
+
+w: de-access
+d: dispose of by selling
+e: the museum sold off its collection of French impressionists to raise money
+e: the publishing house sold off one of its popular magazines
+fs: 8
+hypo: cast_aside
+
+w: de-aerate
+w: deaerate
+d: remove air or gas from
+fs: 8
+hypo: get_rid_of 1
+
+w: deaccession
+d: sell (art works) from a collection, especially in order to raise money for the purchase of other art works
+e: The museum deaccessioned several important works of this painter
+fs: 8
+hypo: sell
+mt: noun.act:art
+mt: noun.act:commerce
+
+w: deal drf noun.act:deal 2 drf noun.act:dealing 2 drf noun.act:dealings drf noun.group:dealer drf noun.person:dealer 2 drf noun.person:dealer 3 see deal_out see trade 1
+w: sell 1 drf noun.act:sell drf noun.act:selling drf noun.person:seller
+w: trade 11 drf noun.act:trade 2 drf noun.act:trade 5 drf noun.act:trading
+d: do business; offer for sale as for one's livelihood
+e: She deals in gold
+e: The brothers sell shoes
+fs: 22 8
+hyper: black_marketeer
+hyper: deal 11
+hyper: hawk
+hyper: market 1
+hyper: push
+hyper: pyramid 1
+hypo: transact 14
+mt: noun.act:commerce
+vg: deal 11
+vg: verb.stative:sell
+
+w: deal 2 drf noun.act:deal drf noun.group:deal drf noun.person:dealer 1
+d: distribute cards to the players in a game
+e: Who's dealing?
+fs: 2
+hyper: misdeal
+hypo: administer
+mt: noun.act:card_game
+vg: deal 6
+
+w: deal 6 drf noun.act:deal drf noun.group:deal drf noun.person:dealer 1
+d: give (a specific card) to a player
+e: He dealt me the Queen of Spades
+fs: 15
+hypo: give 6
+mt: noun.act:card_game
+vg: deal 2
+
+w: deal 11 drf noun.act:deal 2 drf noun.group:dealer drf noun.person:dealer
+d: sell
+e: deal hashish
+fs: 8
+hypo: deal
+mt: noun.act:commerce
+vg: deal
+
+w: debit ant credit drf noun.possession:debit 1
+d: enter as debit
+fs: 8 17 15
+hyper: charge 2
+hypo: account
+mt: noun.cognition:accounting
+
+w: decaffeinate
+d: remove caffeine from (coffee)
+fs: 8
+hypo: get_rid_of 1
+
+w: decarbonate
+d: remove carbon dioxide from
+fs: 8
+hypo: get_rid_of 1
+
+w: decerebrate
+d: remove the cerebrum from (a human body)
+fs: 9
+hypo: get_rid_of 1
+mt: noun.cognition:surgery
+
+w: dechlorinate
+d: remove chlorine from (water)
+fs: 8
+hypo: get_rid_of 1
+
+w: declare drf noun.communication:declaration 4 drf noun.person:declarer
+d: designate (a trump suit or no-trump) with the final bid of a hand
+fs: 8
+hypo: verb.competition:play 3
+mt: noun.act:bridge
+
+w: decline drf noun.communication:declination
+w: pass_up
+w: refuse ant accept drf noun.communication:refusal
+w: reject drf noun.act:rejection
+w: turn_down drf noun.act:turndown
+d: refuse to accept
+e: He refused my offer of hospitality
+fs: 8 16
+hyper: bounce 1
+hyper: dishonor
+vg: verb.communication:disdain
+
+w: decommission
+d: withdraw from active service
+e: The warship was decommissioned in 1998
+fs: 8
+hypo: call_back
+
+w: deduct drf adj.all:deductible
+w: recoup 1
+w: withhold 1 drf noun.act:withholding drf noun.person:withholder 1 drf noun.possession:withholding
+d: retain and refrain from disbursing; of payments
+e: My employer is withholding taxes
+fs: 8 16
+hyper: dock
+hypo: hold_on
+
+w: deed_over
+w: grant 2 drf noun.person:grantee drf noun.person:grantor drf noun.possession:grant 2
+d: transfer by deed
+e: grant land
+fs: 15 8
+hypo: gift
+
+w: deep-six
+w: give_it_the_deep_six
+d: toss out; get rid of
+e: deep-six these old souvenirs!
+fs: 8
+hypo: cast_aside
+
+w: defalcate drf noun.act:defalcation drf noun.person:defalcator
+w: embezzle drf noun.act:embezzlement drf noun.person:embezzler
+w: malversate drf noun.act:malversation
+w: misappropriate drf noun.act:misappropriation
+w: peculate drf noun.act:peculation drf noun.person:peculator
+d: appropriate (as property entrusted to one's care) fraudulently to one's own use
+e: The accountant embezzled thousands of dollars while working for the wealthy family
+fs: 8 16
+hyper: fiddle
+hypo: steal
+
+w: defat
+d: remove the fat from
+fs: 8
+hypo: get_rid_of 1
+
+w: default ant pay_up drf noun.person:defaulter 1 drf noun.possession:default drf noun.possession:default 2
+w: default_on
+d: fail to pay up
+fs: 22 2
+entail: owe
+hypo: verb.social:fail 2
+
+w: defibrinate
+d: remove fibrin from (blood)
+fs: 8
+hypo: get_rid_of 1
+
+w: defray drf noun.act:defrayal drf noun.act:defrayment
+d: bear the expenses of
+fs: 8
+hypo: pay
+
+w: degrease
+d: remove grease or oil from (a pan)
+fs: 8
+hypo: get_rid_of 1
+
+w: deionize
+d: remove ions from
+fs: 8
+hypo: get_rid_of 1
+
+w: delist
+d: remove (a security) from listing at a stock exchange
+fs: 8
+hypo: get_rid_of 1
+
+w: deliver 1 drf noun.act:delivery 1 drf noun.person:deliverer 1
+w: fork_out
+w: fork_over
+w: fork_up
+w: hand_over drf noun.act:handover
+w: render 3
+w: turn_in
+d: to surrender someone or something to another
+e: the guard delivered the criminal to the police
+e: render up the prisoners
+e: render the town to the enemy
+e: fork over the money
+fs: 15 8 9
+hyper: bail
+hyper: give_away 1
+hypo: give 6
+
+w: deliver 7
+w: drive_home
+d: carry out or perform
+e: "deliver an attack", "deliver a blow"
+e: The boxer drove home a solid left
+fs: 8 15
+hyper: land
+hypo: give 3
+
+w: delocalize
+d: remove from the proper or usual locality
+fs: 8
+hypo: get_rid_of 1
+
+w: demise
+d: transfer by a lease or by a will
+fs: 8
+hypo: transfer
+
+w: deny ant allow drf noun.person:denier
+w: refuse 1 drf noun.communication:refusal 1
+d: refuse to let have
+e: She denies me every pleasure
+e: he denies her her weekly allowance
+fs: 14
+hyper: keep_back
+hypo: hold_on
+vg: abnegate
+
+w: deny 1 drf noun.communication:denial drf noun.person:denier
+d: refuse to grant, as of a petition or request
+e: The dean denied the students' request for more physics courses
+e: the prisoners were denied the right to exercise for more than 2 hours a day
+fs: 8 14
+hypo: keep_back
+
+w: deoxygenate
+d: remove oxygen from (water)
+fs: 8
+hypo: get_rid_of 1
+
+w: deplume
+w: displume
+d: strip of honors, possessions, or attributes
+fs: 10 9
+hypo: despoil
+
+w: deprive drf noun.act:deprivation
+d: keep from having, keeping, or obtaining
+fs: 18 9
+hyper: verb.consumption:ablactate
+hyper: verb.consumption:famish 3
+hyper: verb.consumption:starve 4
+hyper: bilk
+hyper: disinherit
+hyper: dock 1
+hyper: impoverish
+hyper: tongue-tie
+hyper: verb.social:disenfranchise
+hypo: keep_back
+
+w: deprive 1 drf noun.act:deprivation drf noun.state:deprivation
+w: divest 1 drf noun.communication:divestiture
+w: strip 3
+d: take away possessions from someone
+e: The Nazis stripped the Jews of all their assets
+fs: 18
+hyper: verb.competition:disarm 1
+hyper: verb.contact:clean 12
+hyper: verb.contact:expropriate
+hyper: bereave
+hyper: clean_out
+hyper: dispossess
+hyper: orphan
+hyper: unclothe
+hyper: unsex
+hypo: take
+
+w: derequisition ant requisition
+d: release from government control
+fs: 8
+hypo: free 1
+
+w: derive
+w: gain 3
+d: obtain
+e: derive pleasure from one's garden
+fs: 16 8
+hyper: draw
+hypo: obtain
+
+w: desacralize
+w: secularize drf noun.act:secularization
+d: transfer from ecclesiastical to civil possession, use, or control
+fs: 8
+hypo: transfer
+
+w: despoil drf noun.act:despoilment drf noun.act:despoliation drf noun.person:despoiler
+w: foray
+w: loot drf noun.act:looting drf noun.person:looter drf noun.possession:loot
+w: pillage drf noun.act:pillaging drf noun.person:pillager drf noun.possession:pillage
+w: plunder drf noun.act:plundering drf noun.person:plunderer drf noun.possession:plunder
+w: ransack
+w: reave
+w: rifle
+w: strip
+d: steal goods; take as spoils
+e: During the earthquake people looted the stores that were deserted by their owners
+fs: 8
+hyper: deplume
+hypo: take 1
+
+w: destain
+d: remove stain from (a laboratory specimen) to enhance contrast
+fs: 8
+hypo: get_rid_of 1
+
+w: desulfurize
+w: desulphurize
+d: remove sulfur from
+fs: 8
+hypo: get_rid_of 1
+
+w: detick
+d: free (a pet) of ticks
+fs: 8
+hypo: get_rid_of 1
+
+w: devein
+d: remove the dark dorsal vein of (a shrimp)
+fs: 8
+hypo: get_rid_of 1
+
+w: devise drf noun.person:devisee drf noun.possession:devise 2
+d: give by will, especially real property
+fs: 8
+hypo: bequeath
+
+w: devolve 13
+w: fall 13
+w: pass 13
+w: return 13
+d: be inherited by
+e: The estate fell to my sister
+e: The land returned to the family
+e: The estate devolved to an heir that everybody had assumed to be dead
+fs: 10
+hyper: fall 8
+hypo: change_hands
+vg: accrue 10
+
+w: devote
+d: set aside or apart for a specific purpose or use
+e: this land was devoted to mining
+fs: 8
+hypo: reserve 3
+
+w: dip 12
+d: take a small amount from
+e: I had to dip into my savings to buy him this present
+fs: 21 20 22
+hypo: draw 1
+
+w: disburse drf noun.act:disbursal drf noun.act:disbursement drf noun.person:disburser drf noun.possession:disbursement
+w: pay_out
+d: expend, as from a fund
+fs: 15 8
+hypo: pay
+
+w: discount drf noun.act:discount drf noun.artifact:discounter drf noun.possession:discount
+d: give a reduction in price on
+e: I never discount these books-they sell like hot cakes
+fs: 8
+hyper: allow 1
+hyper: rebate
+hypo: mark_down
+
+w: disembarrass drf noun.event:disembarrassment
+w: free 2
+w: rid drf noun.act:riddance 1 see verb.stative:rid_of
+d: relieve from
+e: Rid the house of pests
+fs: 18
+hyper: verb.change:cleanse 5
+hyper: clear 12
+hyper: disembody
+hyper: disinfest
+hyper: relieve 1
+hyper: smooth
+
+w: disembody
+d: free from a body or physical form or reality
+fs: 10
+hypo: disembarrass
+
+w: dishonor ant honor
+w: dishonour
+d: refuse to accept
+e: dishonor checks and drafts
+fs: 8
+hypo: decline
+
+w: disinfest drf noun.act:disinfestation
+d: rid of vermin
+e: The exterminator disinfests the house
+fs: 8 11
+hypo: disembarrass
+
+w: disinherit ant bequeath drf noun.act:disinheritance
+w: disown drf noun.communication:disowning drf noun.communication:disownment
+d: prevent deliberately (as by making a will) from inheriting
+fs: 9
+hypo: deprive
+
+w: disinvest drf noun.act:disinvestment
+w: divest ant invest drf noun.act:divestiture
+d: reduce or dispose of; cease to hold (an investment)
+e: The company decided to divest
+e: the board of trustees divested $20 million in real estate property
+e: There was pressure on the university to disinvest in South Africa
+fs: 2 8 22
+hypo: draw 1
+
+w: dispense_with
+d: forgo or do or go without
+fs: 8
+hypo: abandon
+
+w: dispense_with 1
+w: give_up 5
+w: part_with
+w: spare
+d: give up what is not strictly needed
+e: he asked if they could spare one of their horses to speed his journey
+fs: 8
+hypo: give
+
+w: dispose 11 drf noun.act:disposition
+d: give, sell, or transfer to another
+e: She disposed of her parents' possessions
+fs: 11 8
+hyper: redispose
+hypo: sell
+
+w: dispossess drf noun.act:dispossession
+d: deprive of the possession of real estate
+fs: 9
+hypo: deprive 1
+
+w: distrain
+d: confiscate by distress
+fs: 8
+hypo: attach
+
+w: distrain 1
+d: levy a distress on
+fs: 9 8
+hypo: impose
+
+w: distrain 2
+d: legally take something in place of a debt payment
+fs: 22
+hypo: reclaim
+
+w: distribute 1 drf adj.all:distributive
+w: give_out
+w: hand_out
+w: pass_out
+d: give to several people
+e: The teacher handed out the exams
+fs: 15 8 14
+hyper: apportion
+hypo: gift
+
+w: ditch
+d: forsake
+e: ditch a lover
+fs: 9
+hypo: verb.cognition:abandon
+
+w: ditch 3
+w: dump 2
+d: sever all ties with, usually unceremoniously or irresponsibly
+e: The company dumped him after many years of service
+e: She dumped her boyfriend when she fell in love with a rich man
+fs: 9 8
+hypo: get_rid_of 1
+
+w: divert
+w: hive_off
+d: withdraw (money) and move into a different location, often secretly and with dishonest intentions
+fs: 8
+hypo: draw 1
+
+w: dock
+d: deduct from someone's wages
+fs: 8
+hypo: deduct
+
+w: dock 1
+d: deprive someone of benefits, as a penalty
+fs: 9 18
+hypo: deprive
+
+w: donate drf noun.act:donation drf noun.possession:donation
+d: give to a charity or good cause
+e: I donated blood to the Red Cross for the victims of the earthquake
+e: donate money to the orphanage
+e: She donates to her favorite charity every month
+fs: 22 8 15
+hyper: pledge 4
+hypo: gift
+
+w: double 3 drf noun.act:double 1
+d: bridge: make a demand for (a card or suit)
+fs: 8
+hypo: bid 1
+
+w: double-glaze
+d: provide with two sheets of glass
+fs: 8
+hypo: glass
+
+w: double_up
+d: share a room or a bed designed for only one person
+fs: 1 2
+hypo: share 2
+
+w: dower drf noun.possession:dower drf noun.possession:dower 1 drf noun.possession:dowery
+w: endow fs 17 drf noun.act:endowment drf noun.possession:endowment
+d: furnish with an endowment
+e: When she got married, she got dowered
+fs: 9
+hyper: benefice
+hypo: gift
+
+w: download ant upload
+d: transfer a file or program from a central computer to a smaller computer or to a computer at a remote location
+fs: 8
+hypo: transfer 1
+
+w: draw
+w: reap
+d: get or derive
+e: He drew great benefits from his membership in the association
+fs: 8 16
+hypo: derive
+vg: verb.emotion:draw 1
+
+w: draw 1 drf noun.person:drawee drf noun.person:drawer 1
+w: draw_off 4
+w: take_out
+w: withdraw ant deposit drf noun.act:withdrawal 3 drf noun.person:withdrawer
+d: remove (a commodity) from (a supply source)
+e: She drew $2,000 from the account
+e: The doctors drew medical supplies from the hospital's emergency bank
+fs: 8 22
+hyper: check_out 2
+hyper: dip 12
+hyper: disinvest
+hyper: divert
+hyper: overdraw
+hyper: tap
+hypo: verb.change:remove
+vg: verb.motion:draw
+
+w: drop
+w: expend drf adj.all:expensive drf noun.act:expending drf noun.act:expenditure drf noun.person:expender drf noun.possession:expenditure
+w: spend drf noun.act:spending drf noun.person:spender 1
+d: pay out
+e: spend money
+fs: 8 19
+hyper: verb.consumption:afford
+hyper: verb.consumption:consume 1
+hyper: verb.consumption:consume 2
+hyper: blow
+hyper: commit 5
+hyper: economise 2
+hyper: lay_out
+hyper: misspend
+hyper: nickel-and-dime
+hyper: trifle_away
+hyper: underspend
+hyper: verb.stative:misspend
+hyper: verb.stative:piddle
+hypo: pay
+
+w: dump drf noun.location:dump
+d: throw away as refuse
+e: No dumping in these woods!
+fs: 8 11
+hypo: cast_aside
+
+w: dump 1 drf noun.act:dumping
+w: underprice
+d: sell at artificially low prices
+fs: 8 21
+hypo: sell
+
+w: earn 3 drf noun.possession:earnings
+w: garner 1
+d: acquire or deserve by one's efforts or actions
+fs: 8
+hyper: letter
+hypo: acquire
+
+w: economise 2 drf noun.person:economiser
+w: economize 2 drf noun.act:economy drf noun.attribute:economy drf noun.cognition:economy 1 drf noun.person:economizer
+w: save 4 drf noun.person:saver
+d: spend sparingly, avoid the waste of
+e: This move will save money
+e: The less fortunate will have to economize now
+fs: 11 2
+hyper: tighten_one's_belt
+hypo: drop
+
+w: eke_out
+w: squeeze_out
+d: obtain with difficulty
+e: He eked out some information from the archives
+fs: 22
+hypo: obtain
+
+w: eke_out 1
+w: squeeze_out 1
+d: make by laborious and precarious means
+e: He eked out a living as a painter
+fs: 8
+hypo: bring_in 1
+
+w: eke_out 2
+w: fill_out
+d: supplement what is thought to be deficient
+e: He eked out his meager pay by giving private lessons
+e: Braque eked out his collages with charcoal
+fs: 8
+hypo: supplement
+
+w: embalm drf noun.act:embalmment drf noun.person:embalmer
+d: preserve a dead body
+fs: 8 9
+hyper: mummify
+hypo: conserve 2
+
+w: embattle
+d: fortify by furnishing with battlements for defense
+e: an embattled castle
+fs: 8
+hypo: verb.contact:fort
+
+w: enfeoff drf noun.communication:enfeoffment
+d: put in possession of land in exchange for a pledge of service, in feudal society
+e: He enfeoffed his son-in-law with a large estate in Scotland
+fs: 17
+hypo: give
+
+w: engage 1
+w: enlist
+d: hire for work or assistance
+e: engage aid, help, services, or support
+fs: 8 16
+hyper: recruit
+hypo: procure
+
+w: enrich ant impoverish drf noun.possession:enrichment
+d: make wealthy or richer
+e: the oil boom enriched a lot of local people
+fs: 9 10
+hyper: feather_one's_nest
+hypo: verb.change:add
+
+w: ensile drf noun.food:ensilage
+d: store in a silo
+e: ensile fodder for the cows
+fs: 8
+hypo: store 2
+
+w: entail
+w: fee-tail
+d: limit the inheritance of property to a specific class of heirs
+fs: 8
+hypo: bequeath
+
+w: entrust 1
+w: leave 6
+d: put into the care or protection of someone
+e: He left the decision to his deputy
+e: leave your child the nurse's care
+fs: 15
+hypo: give 6
+
+w: equip drf noun.act:equipping drf noun.artifact:equipage 1 drf noun.artifact:equipment
+w: fit drf noun.artifact:fitting 1
+w: fit_out
+w: outfit drf noun.act:outfitting drf noun.artifact:outfit drf noun.artifact:outfit 1 drf noun.person:outfitter
+d: provide with (something) usually for a specific purpose
+e: The expedition was equipped with proper clothing, food, and other necessities
+fs: 9 8 17
+hyper: verb.change:mechanise 2
+hyper: verb.change:rig
+hyper: verb.competition:fuse
+hyper: verb.contact:collar 1
+hyper: verb.contact:spur 1
+hyper: accouter
+hyper: appoint
+hyper: armor
+hyper: fin
+hyper: horseshoe
+hyper: instrument
+hyper: kit
+hyper: motorize 3
+hyper: motorize 5
+hyper: muzzle
+hyper: re-equip
+hyper: refit
+hyper: shaft
+hyper: spar
+hyper: stave
+hyper: stock 7
+hyper: turn_out 3
+hyper: wire
+hyper: verb.social:adorn
+hyper: verb.social:commission 1
+hypo: furnish
+
+w: exchange 2
+w: interchange 1
+w: replace drf noun.act:replacement
+w: substitute drf noun.act:substitution drf noun.cognition:substitute drf noun.event:substitution
+d: put in the place of another; switch seemingly equivalent items
+e: the con artist replaced the original with a fake Rembrandt
+e: substitute regular milk with fat-free milk
+e: synonyms can be interchanged without a changing the context's meaning
+fs: 31 8 21
+hyper: verb.change:shift 1
+hyper: reduce 4
+hyper: retool
+hyper: subrogate
+hyper: truncate
+hypo: verb.change:alter 1
+
+w: excise drf noun.possession:excise
+d: levy an excise tax on
+fs: 9 8
+hypo: tax
+
+w: exert
+w: maintain 1
+w: wield
+d: have and exercise
+e: wield power and authority
+fs: 8
+hypo: have
+
+w: exhaust drf noun.act:exhaustion
+w: play_out
+w: run_down
+w: sap drf noun.person:sapper
+w: tire
+d: deplete
+e: exhaust one's savings
+e: We quickly played out our strength
+fs: 8
+hypo: verb.consumption:consume 1
+vg: verb.change:play_out
+
+w: export ant import drf noun.act:exportation drf noun.act:exporting drf noun.artifact:export drf noun.artifact:exportation drf noun.person:exporter
+d: sell or transfer abroad
+e: we export less than we import and have a negative trade balance
+fs: 16 21 8
+hyper: smuggle
+hypo: merchandise
+mt: noun.act:commerce
+
+w: export 1 ant import 1
+d: transfer (electronic data) out of a database or document in a format that can be used by other programs
+fs: 8
+hypo: transfer 1
+mt: noun.cognition:computer_science
+
+w: extend 4
+w: offer 9 fs 14 drf noun.communication:offer 1 drf noun.communication:offering 1
+d: offer verbally
+e: extend my greetings
+e: He offered his sympathy
+fs: 15 8
+hypo: verb.communication:give 1
+vg: extend 5
+
+w: extend 5
+w: offer 10 fs 14 drf noun.communication:offer 1
+d: make available; provide
+e: extend a loan
+e: The bank offers a good deal on new mortgages
+fs: 8 15
+hypo: furnish
+vg: extend 4
+
+w: extort drf noun.act:extortion drf noun.possession:extortion
+w: gouge drf noun.person:gouger
+w: rack
+w: squeeze 3 drf noun.act:squeeze 1
+w: wring
+d: obtain by coercion or intimidation
+e: They extorted money from the executive by threatening to reveal his past to the company boss
+e: They squeezed money from the owner of the business by threatening him
+fs: 16
+hyper: bleed 9
+hypo: fleece
+
+w: extort 1 drf noun.act:extortion 1
+d: obtain through intimidation
+fs: 16
+hyper: blackmail
+hypo: take 1
+mt: noun.act:crime
+
+w: extract
+d: get despite difficulties or obstacles
+e: I extracted a promise from the Dean for two new positions
+fs: 8
+hypo: obtain
+
+w: factor
+d: be a contributing factor
+e: make things factor into a company's profitability
+fs: 4
+hypo: add
+
+w: fail drf noun.state:failure 2
+d: become bankrupt or insolvent; fail financially and close
+e: The toy company went bankrupt after the competition hired cheap Mexican labor
+e: A number of banks failed that year
+fs: 1 2
+
+w: fall 3
+d: to be given by assignment or distribution
+e: The most difficult task fell on the youngest member of the team
+e: The onus fell on us
+e: The pressure to succeed fell on the youngest student
+fs: 4
+vg: fall 8
+vg: fall 12
+
+w: fall 5 drf noun.act:fall 2
+d: be captured
+e: The cities fell to the enemy
+fs: 1
+hypo: verb.competition:yield
+vg: verb.stative:fall
+
+w: fall 8
+w: light 12
+d: fall to somebody by assignment or lot
+e: The task fell to me
+e: It fell to me to notify the parents of the victims
+fs: 24 10
+hypo: devolve 13
+vg: accrue 10
+vg: fall 3
+
+w: fall 12
+d: to be given by right or inheritance
+e: The estate fell to the oldest daughter
+fs: 4
+vg: fall 3
+
+w: farm see farm_out
+d: collect fees or profits
+fs: 8
+hypo: collect 1
+
+w: farm_out
+w: hire_out
+w: rent_out
+d: grant the services of or the temporary use of, for a fee
+e: We rent out our apartment to tourists every year
+e: He hired himself out as a cook
+fs: 15 8 9
+hypo: lend
+
+w: feather_one's_nest
+d: enrich oneself by taking advantage of one's position
+e: The congressmen feathered his nest through his connection with big business
+fs: 9
+hypo: enrich
+
+w: feed_back drf noun.process:feedback
+w: resubmit
+d: submit (information) again to a program or automatic system
+fs: 15 21 8
+hypo: render
+
+w: feel drf noun.animal:feeler 1 drf noun.animal:feeler 2
+d: find by testing or cautious exploration
+e: He felt his way around the dark room
+fs: 8
+hypo: find
+
+w: fence drf noun.person:fence
+d: receive stolen goods
+fs: 2
+hypo: have 3
+
+w: fettle
+d: remove mold marks or sand from (a casting)
+fs: 8
+hypo: get_rid_of 1
+
+w: fiddle
+d: commit fraud and steal from one's employer
+e: We found out that she had been fiddling for years
+fs: 2
+hypo: defalcate
+
+w: fill_in drf noun.person:fill-in
+w: stand_in drf noun.person:stand-in
+w: sub drf noun.act:subbing
+w: substitute 1 drf noun.act:substituting drf noun.cognition:substitute drf noun.event:substitution drf noun.person:substitute drf noun.person:substitute 1
+d: be a substitute
+e: The young teacher had to substitute for the sick colleague
+e: The skim milk substitutes for cream--we are on a strict diet
+fs: 2 22
+hypo: change
+
+w: fin drf noun.artifact:fin 3
+d: equip (a car) with fins
+fs: 8
+hypo: equip
+
+w: finance drf noun.act:finance drf noun.act:finance 1 drf noun.act:financing drf noun.cognition:finance
+d: obtain or provide money for
+e: Can we finance the addition to our home?
+fs: 8
+hyper: back
+hyper: fund 2
+hyper: refinance
+hyper: seed
+hypo: pay
+
+w: finance 1 drf noun.act:finance drf noun.act:finance 1
+d: sell or provide on credit
+fs: 8
+hypo: credit
+
+w: find ant lose 1 drf noun.act:find drf noun.person:finder drf noun.person:finder 1
+w: regain 1
+d: come upon after searching; find the location of something that was missed or lost
+e: Did you find your glasses?
+e: I cannot find my gloves!
+fs: 9 8
+hyper: attain 13
+hyper: feel
+hyper: locate
+hyper: rout_out
+hypo: acquire
+vg: find 3
+vg: find 15
+
+w: find 3
+d: obtain through effort or management
+e: She found the time and energy to take care of her aging parents
+e: We found the money to send our sons to college
+fs: 8
+hypo: acquire
+vg: find
+
+w: find 15
+w: recover drf noun.act:recovery drf noun.person:recoverer
+w: regain drf noun.act:regaining
+w: retrieve drf noun.act:retrieval
+d: get or find back; recover the use of
+e: She regained control of herself
+e: She found her voice and replied quickly
+fs: 8 16
+hyper: access
+hypo: acquire
+vg: find
+
+w: fire drf noun.process:fire
+w: fuel 1 drf noun.substance:fuel
+d: provide with fuel
+e: Oil fires the furnace
+fs: 11
+hypo: furnish
+
+w: fleece
+w: gazump
+w: hook 2
+w: overcharge ant undercharge drf noun.possession:overcharge
+w: pluck
+w: plume
+w: rob 1
+w: soak
+w: surcharge
+d: rip off; ask an unreasonable price
+fs: 9
+entail: bill
+hyper: extort
+hypo: verb.social:cheat
+
+w: flense
+d: strip the blubber or skin from (a whale or seal)
+fs: 8
+hypo: get_rid_of 1
+
+w: flesh
+d: remove adhering flesh from (hides) when preparing leather manufacture
+fs: 8
+hypo: get_rid_of 1
+
+w: fling 1 drf noun.act:fling
+w: splurge
+d: indulge oneself
+e: I splurged on a new TV
+fs: 22 2
+hypo: verb.consumption:consume 2
+
+w: flood drf noun.quantity:flood
+w: glut drf noun.attribute:glut
+w: oversupply drf noun.attribute:oversupply
+d: supply with an excess of
+e: flood the market with tennis shoes
+e: Glut the country with cheap imports from the Orient
+fs: 11 17 8
+hypo: furnish
+
+w: flourish
+w: fly_high
+w: prosper
+w: thrive
+d: make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
+e: The new student is thriving
+fs: 1 2
+hypo: verb.change:change_state
+
+w: fob_off
+w: foist_off
+w: palm_off
+d: sell as genuine, sell with the intention to deceive
+fs: 19
+hypo: sell
+mt: noun.act:commerce
+mt: noun.act:crime
+
+w: foot
+w: pick
+d: pay for something
+e: pick up the tab
+e: pick up the burden of high-interest mortgages
+e: foot the bill
+fs: 2
+hypo: pay
+
+w: forage drf noun.act:forage drf noun.act:foraging
+w: scrounge drf noun.person:scrounger
+d: collect or look around for (food)
+fs: 1 22 2
+hyper: rustle 2
+hypo: verb.competition:hunt
+
+w: foreclose drf noun.act:foreclosure
+d: subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage
+fs: 8
+hypo: reclaim
+
+w: forego
+w: forfeit ant claim drf noun.act:forfeit drf noun.act:forfeiture drf noun.possession:forfeit drf noun.possession:forfeit 1 drf noun.possession:forfeiture drf noun.possession:forfeiture 1
+w: forgo
+w: give_up 2
+w: throw_overboard
+w: waive drf noun.act:waiver
+d: lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime
+e: you've forfeited your right to name your successor
+e: forfeited property
+fs: 8
+hyper: lapse
+hypo: abandon
+
+w: foreswear
+w: quit
+w: relinquish drf noun.act:relinquishment drf noun.communication:relinquishing
+w: renounce drf adjs.all:renunciant drf noun.communication:renunciation
+d: turn away from; give up
+e: I am foreswearing women forever
+fs: 8 9
+hyper: verb.communication:disclaim 1
+hypo: abandon 1
+
+w: free 1
+w: give_up 3
+w: release drf noun.act:release 5 drf noun.communication:release 1
+w: relinquish 1 drf noun.act:relinquishing drf noun.communication:relinquishment
+w: resign 4
+d: part with a possession or right
+e: I am relinquishing my bedroom to the long-term house guest
+e: resign a claim to the throne
+fs: 15 8
+hyper: derequisition
+hyper: give 10
+hypo: give 6
+
+w: freeload drf noun.person:freeloader
+d: live off somebody's generosity
+e: This young man refuses to work and is freeloading
+fs: 2
+hypo: bum
+
+w: fret drf noun.artifact:fret
+d: provide (a musical instrument) with frets
+e: fret a guitar
+fs: 8
+hypo: furnish
+
+w: fuel drf noun.act:fueling drf noun.substance:fuel
+d: provide with a combustible substance that provides energy
+e: fuel aircraft, ships, and cars
+fs: 8
+hyper: bunker
+hyper: gas_up
+hyper: refuel 1
+hypo: furnish
+
+w: fuel 3 drf noun.act:fueling drf noun.substance:fuel
+d: take in fuel, as of a ship
+e: The tanker fueled in Bahrain
+fs: 4 1
+hyper: refuel
+hypo: verb.contact:take_in 2
+
+w: fund drf noun.act:funding drf noun.possession:fund drf noun.possession:funding
+d: furnish money for
+e: The government funds basic research in many areas
+fs: 8 9
+entail: finance
+hyper: absorb
+hyper: bankroll
+hyper: grubstake
+hypo: support
+vg: fund 3
+
+w: fund 1 drf noun.possession:fund
+d: place or store up in a fund for accumulation
+fs: 8
+hypo: accumulate
+
+w: fund 2
+d: convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds
+fs: 8
+hypo: finance
+
+w: fund 3
+d: accumulate a fund for the discharge of a recurrent liability
+e: fund a medical care plan
+fs: 8 11
+hypo: accumulate
+vg: fund
+
+w: fund 4 drf noun.group:fund
+d: invest money in government securities
+fs: 8
+hypo: commit 5
+
+w: fund 5 drf noun.group:fund
+d: provide a fund for the redemption of principal or payment of interest
+fs: 8
+hypo: furnish
+
+w: fund-raise
+w: fund_raise
+w: fundraise
+d: raise money for a cause or project
+e: We are fundraising for AIDS research
+fs: 2 22 28
+hypo: raise
+
+w: furnish
+w: provide drf noun.act:provision 1 drf noun.person:provider
+w: render 2
+w: supply drf noun.act:supply drf noun.act:supplying drf noun.person:supplier drf noun.quantity:supply
+d: give something useful or necessary to
+e: We provided the room with an electrical heater
+fs: 11 31 8 10 17 9
+hyper: verb.change:charge
+hyper: verb.change:hydrate 3
+hyper: verb.cognition:date 1
+hyper: verb.consumption:feed 3
+hyper: verb.contact:calk 1
+hyper: afford
+hyper: air-condition
+hyper: alphabetize
+hyper: arm
+hyper: articulate
+hyper: bed
+hyper: berth
+hyper: bewhisker
+hyper: border
+hyper: bottom
+hyper: brattice
+hyper: bush
+hyper: buy_in
+hyper: canal
+hyper: capitalise 2
+hyper: caption
+hyper: causeway
+hyper: cleat
+hyper: cloy
+hyper: coal
+hyper: computerise 1
+hyper: constitutionalize
+hyper: copper-bottom
+hyper: corbel
+hyper: cornice
+hyper: costume
+hyper: crenel
+hyper: curtain
+hyper: dado
+hyper: equip
+hyper: extend 5
+hyper: fire
+hyper: flood
+hyper: fret
+hyper: fuel
+hyper: fund 5
+hyper: furnish 1
+hyper: gate
+hyper: glass
+hyper: grate
+hyper: hat
+hyper: headline
+hyper: headquarter
+hyper: heat
+hyper: hobnail
+hyper: index
+hyper: innervate
+hyper: interleave
+hyper: kern 1
+hyper: key
+hyper: leverage
+hyper: machicolate
+hyper: match
+hyper: offer 2
+hyper: partner
+hyper: patch
+hyper: pour
+hyper: provision
+hyper: pump
+hyper: rafter
+hyper: rail
+hyper: railroad
+hyper: ramp
+hyper: reflectorise
+hyper: retrofit
+hyper: rim
+hyper: sanitate
+hyper: scant
+hyper: seat
+hyper: seat 1
+hyper: signalise
+hyper: slat
+hyper: step
+hyper: stock 2
+hyper: stock 5
+hyper: stock 6
+hyper: subtitle
+hyper: tap 4
+hyper: terrace
+hyper: theme
+hyper: ticket 1
+hyper: toggle
+hyper: tool
+hyper: top
+hyper: transistorise
+hyper: tube
+hyper: uniform
+hyper: upholster
+hyper: victual 2
+hyper: water
+hyper: wharf 1
+hyper: wive
+hyper: verb.stative:shelter
+hypo: give
+
+w: furnish 1 drf noun.artifact:furnishing drf noun.artifact:furniture
+d: provide or equip with furniture
+e: We furnished the house in the Biedermeyer style
+fs: 8
+hyper: refurnish
+hypo: furnish
+
+w: garage drf noun.artifact:garage
+d: keep or store in a garage
+e: we don't garage our car
+fs: 8
+hypo: store 2
+
+w: garnish drf noun.communication:garnishment
+w: garnishee
+d: take a debtor's wages on legal orders, such as for child support
+e: His employer garnished his wages in order to pay his debt
+fs: 8
+hypo: attach
+
+w: gas_up
+d: fill with gasoline
+e: Gas up the car
+fs: 8
+hypo: fuel
+
+w: gate drf noun.artifact:gate
+d: supply with a gate
+e: The house was gated
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: gazump 1
+d: raise the price of something after agreeing on a lower price
+fs: 9
+hypo: verb.social:cheat
+
+w: get 1
+w: have 2
+w: make 2
+d: achieve a point or goal
+e: Nicklaus had a 70
+e: The Brazilian team got 4 goals
+e: She made 29 points that day
+fs: 8 11
+hypo: verb.competition:hit 2
+vg: verb.body:make 8
+
+w: get 13 drf noun.act:getting
+d: purchase
+e: What did you get at the toy store?
+fs: 8
+hypo: buy
+mt: noun.act:commerce
+
+w: get 14
+d: acquire as a result of some effort or action
+e: You cannot get water out of a stone
+e: Where did she get these news?
+fs: 8
+hypo: acquire
+vg: verb.cognition:catch 3
+vg: verb.cognition:get 3
+
+w: get_in 1
+w: get_into fs 8
+d: secure a place in a college, university, etc.
+fs: 2
+hypo: obtain
+
+w: get_rid_of 1
+w: remove drf noun.act:removal
+d: dispose of
+e: Get rid of these old shoes!
+e: The company got rid of all the dead wood
+fs: 10 11 9 8
+hyper: cast_aside
+hyper: comb_out
+hyper: cull
+hyper: de-aerate
+hyper: decaffeinate
+hyper: decarbonate
+hyper: decerebrate
+hyper: dechlorinate
+hyper: defat
+hyper: defibrinate
+hyper: degrease
+hyper: deionize
+hyper: delist
+hyper: delocalize
+hyper: deoxygenate
+hyper: destain
+hyper: desulfurize
+hyper: detick
+hyper: devein
+hyper: ditch 3
+hyper: fettle
+hyper: flense
+hyper: flesh
+hyper: kern
+hyper: pith
+hyper: scum
+hyper: slough_off
+hyper: unbridle
+hyper: unmuzzle
+hyper: work_off
+
+w: gift drf noun.act:gift drf noun.possession:gift
+w: give 1 drf noun.act:giving 1 drf noun.person:giver
+w: present drf noun.person:presenter
+d: give as a present; make a gift of
+e: What will you give her for her birthday?
+fs: 15 14
+hyper: bequeath
+hyper: bung
+hyper: cede
+hyper: deed_over
+hyper: distribute 1
+hyper: donate
+hyper: dower
+hyper: give_away
+hyper: raffle
+hyper: render 1
+hyper: tender 1
+hyper: treat
+
+w: give ant take drf noun.act:giving drf noun.act:giving 1 drf noun.person:giver see give_back
+d: transfer possession of something concrete or abstract to somebody
+e: I gave her my money
+e: can you give me lessons?
+e: She gave the children lots of love and tender loving care
+fs: 14 15
+cause: have
+hyper: verb.consumption:cater
+hyper: accord
+hyper: administer
+hyper: allow
+hyper: bank
+hyper: bestow 2
+hyper: cede 1
+hyper: chip_in
+hyper: cough_up
+hyper: dispense_with 1
+hyper: enfeoff
+hyper: furnish
+hyper: heap
+hyper: lease 1
+hyper: lend
+hyper: offer
+hyper: pay
+hyper: present 1
+hyper: render
+hyper: repay 1
+hyper: support
+hyper: vest 2
+hypo: transfer
+
+w: give 2
+d: leave with; give temporarily
+e: Can I give you my keys while I go in the pool?
+e: Can I give you the children for the weekend?
+fs: 14
+hypo: give 6
+
+w: give 3
+d: cause to have, in the abstract sense or physical sense
+e: She gave him a black eye
+e: The draft gave me a cold
+fs: 14
+hyper: verb.body:infect 1
+hyper: award 1
+hyper: deliver 7
+vg: afford
+
+w: give 6
+w: hand drf noun.body:hand see hand_down see hand_out see hand_over
+w: pass drf noun.act:passage 2 see verb.communication:pass_on see pass_on see pass_on 3 see verb.social:pass_on
+w: pass_on 1
+w: reach
+w: turn_over
+d: place into the hands or custody of
+e: hand me the spoon, please
+e: Turn the files over to me, please
+e: He turned over the prisoner to his lawyers
+fs: 14 9 15
+hyper: commit
+hyper: deal 6
+hyper: deliver 1
+hyper: entrust 1
+hyper: free 1
+hyper: give 2
+hyper: slip 10
+hypo: transfer
+
+w: give 7 drf noun.communication:giving
+d: convey or reveal information
+e: Give one's name
+fs: 8
+hyper: verb.communication:quote 13
+hyper: cast 13
+hypo: verb.communication:say
+vg: give 9
+
+w: give 9 drf noun.communication:giving
+w: impart drf noun.communication:impartation drf noun.communication:imparting
+w: leave 2
+w: pass_on 3
+d: transmit (knowledge or skills)
+e: give a secret to the Russians
+e: leave your name and address here
+e: impart a new skill to the students
+fs: 15 8
+hyper: verb.communication:convey
+hypo: verb.communication:tell
+vg: bequeath
+vg: give 7
+
+w: give 10
+w: sacrifice drf noun.act:sacrifice 1
+d: endure the loss of
+e: He gave his life for his children
+e: I gave two sons to the war
+fs: 8 15
+hypo: free 1
+vg: verb.cognition:devote
+vg: verb.communication:commit 1
+
+w: give 11
+w: grant 5 drf noun.person:grantee drf noun.person:granter
+d: bestow, especially officially
+e: grant a degree
+e: give a divorce
+e: This bill grants us new rights
+fs: 14 15
+
+w: give 12
+d: deliver in exchange or recompense
+e: I'll give you three books for four CDs
+fs: 20
+hypo: compensate 1
+
+w: give 13
+d: give (as medicine)
+e: I gave him the drug
+fs: 15
+hypo: verb.body:administer
+vg: verb.communication:give 10
+vg: apply
+
+w: give_away
+d: make a gift of
+e: She gave away her antique furniture
+fs: 8
+hypo: gift
+
+w: give_away 1
+d: formally hand over to the bridegroom in marriage; of a bride by her father
+fs: 9
+hypo: deliver 1
+
+w: give_back
+w: refund drf noun.act:refund drf noun.possession:refund
+w: repay drf noun.act:repayment drf noun.possession:repayment
+w: return
+d: pay back
+e: Please refund me my money
+fs: 15 14 8
+hyper: reimburse
+hyper: restitute
+hypo: pay
+
+w: glass drf noun.substance:glass
+w: glaze drf noun.person:glazier
+d: furnish with glass
+e: glass the windows
+fs: 8
+hyper: double-glaze
+hypo: furnish
+
+w: glom 13
+d: seize upon or latch onto something
+e: The Republicans glommed onto Whitewater
+fs: 22
+hypo: acquire
+
+w: go_Dutch
+d: share expenses equally and split the cost of something
+e: My boyfriend and I always go Dutch
+fs: 2
+hypo: pay
+
+w: grab drf noun.act:grab
+w: snaffle
+w: snap_up
+d: get hold of or seize quickly and easily
+e: I snapped up all the good buys during the garage sale
+fs: 8
+hyper: hog
+hypo: take
+
+w: grab 3
+d: obtain illegally or unscrupulously
+e: Grab power
+fs: 8
+hypo: obtain
+
+w: graduate drf noun.act:graduation 1 drf noun.event:graduation 1 drf noun.person:graduate
+d: receive an academic degree upon completion of one's studies
+e: She graduated in 1990
+fs: 2
+hypo: have 3
+
+w: graduate 1 drf noun.act:graduation 1 drf noun.event:graduation 1 drf noun.person:graduate
+d: confer an academic degree upon
+e: This school graduates 2,000 students each year
+fs: 9
+cause: graduate
+hypo: bestow
+
+w: grate drf noun.artifact:grate drf noun.artifact:grate 1 drf noun.artifact:grating 1
+d: furnish with a grate
+e: a grated fireplace
+fs: 8
+hypo: furnish
+
+w: gross drf noun.possession:gross
+d: earn before taxes, expenses, etc.
+fs: 8
+hypo: bring_in 1
+
+w: grubstake drf noun.possession:grubstake
+d: supply with funds in return for a promised share of profits
+fs: 8 9
+hypo: fund
+
+w: hand_down
+d: passed on, as by inheritance
+e: This ring was handed down through many generations
+fs: 8 15
+hypo: pass_on
+
+w: harbor
+w: harbour
+d: keep in one's possession; of animals
+fs: 8
+hypo: hold_on
+
+w: hat drf noun.artifact:hat
+d: furnish with a hat
+fs: 8 9
+hypo: furnish
+
+w: have drf noun.person:have
+w: have_got
+w: hold drf noun.possession:holding
+d: have or possess, either in a concrete or an abstract sense
+e: She has $1,000 in the bank
+e: He has got two beautiful daughters
+e: She holds a Master's degree from Harvard
+fs: 11 9 8
+hyper: verb.consumption:keep
+hyper: bear
+hyper: carry
+hyper: exert
+hyper: hold_on
+hyper: keep 1
+hyper: keep 10
+hyper: keep 12
+hyper: monopolise
+hyper: verb.stative:carry 12
+vg: verb.stative:feature
+
+w: have 1
+d: have left
+e: I have two years left
+e: I don't have any money left
+e: They have two more years before they retire
+fs: 8
+hyper: verb.stative:leave 3
+
+w: have 3
+w: receive drf noun.act:reception drf noun.person:receiver drf noun.person:recipient
+d: get something; come into possession of
+e: receive payment
+e: receive a gift
+e: receive letters from the front
+fs: 8 9 16
+hyper: verb.contact:take_in 2
+hyper: accept 7
+hyper: fence
+hyper: graduate
+hyper: hustle 1
+hyper: inherit 1
+hypo: acquire
+vg: accept
+
+w: have 4 drf noun.person:have
+w: own drf noun.person:owner drf noun.person:owner 2
+w: possess drf adjs.all:possessive drf adjs.all:possessive 1 drf noun.act:possession drf noun.person:possessor
+d: have ownership or possession of
+e: He owns three houses in Florida
+e: How many cars does she have?
+fs: 8
+hyper: prepossess
+vg: verb.stative:feature
+
+w: hawk drf noun.act:hawking drf noun.person:hawker
+w: huckster drf noun.person:huckster
+w: monger drf noun.person:monger
+w: peddle drf noun.act:peddling drf noun.person:peddler drf noun.person:peddler 1
+w: pitch drf noun.communication:pitch drf noun.location:pitch
+w: vend drf adjs.all:vendable drf adjs.all:vendible drf noun.act:vending drf noun.act:vendition drf noun.person:vender drf noun.person:vendor
+d: sell or offer for sale from place to place
+fs: 8
+hypo: deal
+
+w: headline drf noun.communication:headline drf noun.person:headliner
+d: provide (a newspaper page or a story) with a headline
+fs: 8 11
+hypo: furnish
+mt: noun.act:publication
+
+w: headquarter
+d: provide with headquarters
+e: the compnay is headquartered in New Jersey
+fs: 8 9
+hypo: furnish
+
+w: heap drf noun.quantity:heap
+d: bestow in large quantities
+e: He heaped him with work
+e: She heaped scorn upon him
+fs: 19 17
+hypo: give
+
+w: heat drf adjs.all:heatable drf noun.artifact:heat drf noun.artifact:heater drf noun.artifact:heating drf noun.attribute:heat 1 drf noun.cognition:heat drf noun.phenomenon:heat
+d: provide with heat
+e: heat the house
+fs: 8
+hyper: steam-heat
+hypo: furnish
+
+w: hijack
+d: seize control of
+e: they hijacked the judicial process
+fs: 8
+hypo: arrogate
+
+w: hit 5
+w: stumble 10
+d: encounter by chance
+e: I stumbled across a long-lost cousin last night in a restaurant
+fs: 22
+hypo: come_by
+
+w: hive 3 drf noun.artifact:hive see hive_away see hive_up
+d: store, like bees
+e: bees hive honey and pollen
+e: He hived lots of information
+fs: 8
+hypo: hive_away
+
+w: hive_away
+w: lay_in
+w: put_in
+w: salt_away
+w: stack_away
+w: stash_away
+w: store drf noun.act:storage 1 drf noun.possession:store
+d: keep or lay aside for future use
+e: store grain for the winter
+e: The bear stores fat for the period of hibernation when he doesn't eat
+fs: 8
+hyper: verb.contact:bin
+hyper: accumulate
+hyper: computerise
+hyper: hive 3
+hyper: victual
+hypo: hold_on
+
+w: hobnail drf noun.artifact:hobnail
+d: supply with hobnails
+fs: 8
+hypo: furnish
+
+w: hock drf noun.animal:hock
+w: pawn drf noun.act:pawn drf noun.possession:pawn
+w: soak 3
+d: leave as a guarantee in return for money
+e: pawn your grandfather's gold watch
+fs: 8
+hypo: charge 4
+mt: noun.act:commerce
+
+w: hog drf noun.person:hog
+d: take greedily; take more than one's share
+fs: 8
+hypo: grab
+
+w: hold 2 drf noun.act:holding
+w: hold_back
+w: keep_back 1
+w: retain drf noun.act:retention
+d: secure and keep for possible future use or application
+e: The landlord retained the security deposit
+e: I reserve the right to disagree
+fs: 8
+hyper: hold_down
+hypo: hold_on
+
+w: hold_down
+d: keep
+e: She manages to hold down two jobs
+fs: 8
+hypo: hold 2
+
+w: hold_on fs 22
+w: keep ant lose 2 drf noun.act:keeping 2 see keep_back see keep_back 1
+d: retain possession of
+e: Can I keep my old stuffed animals?
+e: She kept her maiden name after she married
+fs: 8
+hyper: carry_over
+hyper: deduct
+hyper: deny
+hyper: harbor
+hyper: hive_away
+hyper: hold 2
+hyper: preserve 1
+hyper: store 2
+hypo: have
+vg: hold_open
+
+w: hold_open
+w: keep 9
+w: keep_open
+w: save 3
+d: retain rights to
+e: keep my job for me while I give birth
+e: keep my seat, please
+e: keep open the possibility of a merger
+fs: 8
+hypo: verb.social:book 1
+vg: hold_on
+
+w: hold_the_line
+d: hold the line on prices; keep the price of something constant
+fs: 13
+hypo: conserve 2
+
+w: hold_up drf noun.act:holdup
+w: stick_up drf noun.act:stickup
+d: rob at gunpoint or by means of some other threat
+fs: 9
+entail: verb.competition:assail
+hyper: mug
+hypo: rob
+mt: noun.act:crime
+
+w: honor ant dishonor drf noun.state:honor
+w: honour
+d: accept as pay
+e: we honor checks and drafts
+fs: 8
+hypo: accept
+
+w: horseshoe
+d: equip (a horse) with a horseshoe or horseshoes
+fs: 8
+hypo: equip
+
+w: hospitalise drf noun.act:hospitalisation
+w: hospitalize drf noun.act:hospitalization drf noun.artifact:hospital drf noun.group:hospital drf noun.state:hospitalization drf noun.time:hospitalization
+d: admit into a hospital
+e: Mother had to be hospitalized because her blood pressure was too high
+fs: 9
+hypo: charge 5
+
+w: hustle drf noun.person:hustler drf noun.person:hustler 1
+w: pluck 1
+w: roll
+d: sell something to or obtain something from by energetic and especially underhanded activity
+fs: 8 16
+hypo: steal
+
+w: hustle 1
+d: get by trying hard
+e: she hustled a free lunch from the waiter
+fs: 8
+hypo: have 3
+
+w: immobilise
+w: immobilize
+d: hold as reserve or withdraw from circulation; of capital
+fs: 8
+hypo: keep_back
+
+w: immolate drf noun.act:immolation
+d: offer as a sacrifice by killing or by giving up to destruction
+e: The Aztecs immolated human victims
+e: immolate the valuables at the temple
+fs: 8 9
+hypo: sacrifice 1
+
+w: import ant export drf noun.act:importation drf noun.act:importing drf noun.artifact:import drf noun.artifact:importation drf noun.person:import drf noun.person:importee drf noun.person:importer
+d: bring in from abroad
+fs: 21 8
+hyper: smuggle
+hypo: merchandise
+mt: noun.act:commerce
+
+w: import 1 ant export 1
+d: transfer (electronic data) into a database or document
+fs: 8
+hypo: transfer 1
+mt: noun.cognition:computer_science
+
+w: impose drf noun.act:imposition 2
+w: levy drf noun.possession:levy
+d: impose and collect
+e: levy a fine
+fs: 8
+hyper: distrain 1
+hyper: lay
+hyper: mulct
+hyper: reimpose
+hyper: tax
+hyper: tithe
+hyper: toll
+hypo: bill
+
+w: impoverish ant enrich drf noun.act:impoverishment
+d: make poor
+fs: 9 10
+hyper: bankrupt
+hyper: beggar
+hyper: reduce
+hypo: deprive
+
+w: impulse-buy
+d: buy on impulse without proper reflection
+fs: 8
+hypo: buy
+mt: noun.act:commerce
+
+w: indemnify 1 drf noun.state:indemnity drf noun.state:indemnity 1
+d: secure against future loss, damage, or liability; give security for
+e: This plan indemnifies workers against wages lost through illness
+fs: 10 8 9 11
+hypo: verb.communication:cover
+
+w: index drf noun.act:indexing drf noun.communication:index drf noun.person:indexer
+d: provide with an index
+e: index the book
+fs: 8
+hypo: furnish
+mt: noun.act:publication
+
+w: inherit drf noun.act:inheritance drf noun.person:inheritor
+d: obtain from someone after their death
+e: I inherited a castle from my French grandparents
+fs: 16 8
+hypo: acquire
+vg: inherit 1
+vg: inherit 2
+
+w: inherit 1 drf noun.attribute:inheritance 2
+d: receive by genetic transmission
+e: I inherited my good eyesight from my mother
+fs: 8
+hypo: have 3
+vg: inherit
+
+w: inherit 2
+d: receive from a predecessor
+e: The new chairman inherited many problems from the previous chair
+fs: 8
+vg: inherit
+
+w: innervate drf noun.attribute:innervation
+d: supply nerves to (some organ or body part)
+fs: 8
+hypo: furnish
+
+w: instill
+w: transfuse
+d: impart gradually
+e: Her presence instilled faith into the children
+e: transfuse love of music into the students
+fs: 4 11 8 15
+hyper: breathe
+hypo: add
+
+w: instrument drf noun.act:instrument drf noun.act:instrumentation drf noun.artifact:instrumentation
+d: equip with instruments for measuring, recording, or controlling
+fs: 10 8
+hypo: equip
+
+w: insufflate drf noun.act:insufflation
+d: breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the Holy Spirit
+fs: 9 8
+hypo: administer 1
+
+w: insure drf noun.state:insurance
+d: take out insurance for
+fs: 11 10 8 9
+hyper: verb.communication:reinsure
+hyper: coinsure
+hyper: reinsure
+hypo: verb.competition:protect
+
+w: interleave
+d: provide (books) with blank leaves
+fs: 8
+hypo: furnish
+
+w: invoice drf noun.communication:invoice
+d: send an bill to
+e: She invoiced the company for her expenses
+fs: 9
+hypo: bill
+
+w: jettison
+d: throw away, of something encumbering
+fs: 8
+hypo: cast_aside
+
+w: job
+w: speculate drf adjs.all:speculative drf noun.person:speculator drf noun.possession:speculation
+d: invest at a risk
+e: I bought this house not because I want to live in it but to sell it later at a good price, so I am speculating
+fs: 2 22
+hyper: bull
+hypo: commit 5
+
+w: junk drf noun.substance:junk
+w: scrap drf noun.substance:scrap
+w: trash drf noun.substance:trash
+d: dispose of (something useless or old)
+e: trash these old chairs
+e: junk an old car
+e: scrap your old computer
+fs: 8
+hypo: cast_aside
+
+w: keep 1 drf noun.act:keeping drf noun.person:keeper drf noun.person:keeper 2
+d: look after; be the keeper of; have charge of
+e: He keeps the shop when I am gone
+fs: 9 8
+hyper: conserve 2
+hypo: have
+vg: verb.stative:keep 2
+
+w: keep 10
+w: maintain 10
+d: maintain for use and service
+e: I keep a car in the countryside
+e: She keeps an apartment in Paris for her shopping trips
+fs: 8
+hypo: have
+
+w: keep 12
+d: have as a supply
+e: I always keep batteries in the freezer
+e: keep food for a week in the pantry
+e: She keeps a sixpack and a week's worth of supplies in the refrigerator
+fs: 8
+hypo: have
+vg: keep 13
+
+w: keep 13
+d: store or keep customarily
+e: Where do you keep your gardening tools?
+fs: 8
+hypo: store 2
+vg: keep 12
+
+w: keep_back
+w: withhold drf noun.act:withholding 1 drf noun.person:withholder drf noun.person:withholder 1
+d: hold back; refuse to hand over or share
+e: The father is withholding the allowance until the son cleans his room
+fs: 16
+hyper: verb.change:block 2
+hyper: deny 1
+hyper: deprive
+hyper: immobilise
+hyper: keep_to_oneself
+hyper: reserve 3
+hypo: deny
+
+w: keep_to_oneself
+d: withhold information
+e: I kept your little secret to myself all these years
+fs: 8
+hypo: keep_back
+
+w: kern ant kern 1 drf noun.artifact:kern
+d: remove a portion of space between (adjacent letters)
+fs: 8
+hypo: get_rid_of 1
+mt: noun.communication:printing
+
+w: kern 1 ant kern drf noun.artifact:kern
+d: furnish with a kern
+fs: 8
+hypo: furnish
+mt: noun.communication:printing
+
+w: key drf noun.artifact:key
+d: provide with a key
+e: We were keyed after the locks were changed in the building
+fs: 9
+hypo: furnish
+
+w: kick_back drf noun.possession:kickback
+d: pay a kickback; make an illegal payment
+fs: 8 15
+hypo: pay
+mt: noun.act:crime
+
+w: kit drf noun.artifact:kit drf noun.artifact:kit 1
+w: kit_out
+w: kit_up
+d: supply with a set of articles or tools
+fs: 17 9 8
+hypo: equip
+
+w: kite drf noun.possession:kite
+d: get credit or money by using a bad check
+e: The businessman kited millions of dollars
+fs: 8 2
+hypo: obtain
+
+w: kite 1 drf noun.possession:kite 1
+d: increase the amount (of a check) fraudulently
+e: He kited many checks
+fs: 8
+hypo: verb.change:increase 2
+
+w: knock_off 3
+w: shave
+d: cut the price of
+fs: 8
+hyper: mark_down
+hypo: verb.change:bring_down
+
+w: land
+d: deliver (a blow)
+e: He landed several blows on his opponent's head
+fs: 21
+hypo: deliver 7
+
+w: lapse drf noun.time:lapse
+d: let slip
+e: He lapsed his membership
+fs: 8
+hypo: forego
+
+w: lavish
+w: shower
+d: expend profusely; also used with abstract nouns
+e: He was showered with praise
+fs: 19
+hypo: verb.consumption:consume 2
+
+w: lay
+d: impose as a duty, burden, or punishment
+e: lay a responsibility on someone
+fs: 11 8 21
+hypo: impose
+
+w: lay_aside
+w: save 1 fs 2 drf noun.possession:savings
+w: save_up
+d: accumulate money for future use
+e: He saves half his salary
+fs: 8
+hyper: cache
+
+w: lay_out
+d: spend or invest
+e: lay out thousands on gold
+e: he laid out a fortune in the hope of making a huge profit
+fs: 8
+hypo: drop
+
+w: lease 1 drf noun.communication:lease drf noun.possession:lease drf noun.time:lease
+w: let drf noun.person:lessor drf noun.person:letter
+w: rent 1 drf noun.person:renter 1 drf noun.possession:rent see rent_out
+d: grant use or occupation of under a term of contract
+e: I am leasing my country estate to some foreigners
+fs: 14 8 15
+hyper: sublease
+hypo: give
+
+w: lend ant borrow drf adjs.all:lendable drf noun.person:lender
+w: loan drf noun.possession:loan
+d: give temporarily; let have for a limited time
+e: I will lend you my car
+e: loan me some money
+fs: 15 14
+hyper: advance
+hyper: farm_out
+hyper: trust 1
+hypo: give
+
+w: letter drf noun.communication:letter 2
+d: win an athletic letter
+fs: 2 8
+hypo: earn 3
+
+w: leverage drf noun.act:leverage
+d: provide with leverage
+e: We need to leverage this company
+fs: 8 9
+hypo: furnish
+
+w: leverage 1 drf noun.act:leverage
+d: supplement with leverage
+e: leverage the money that is already available
+fs: 8 11
+hypo: supplement
+
+w: lift 1
+w: plagiarise drf noun.act:plagiarisation drf noun.act:plagiarism drf noun.communication:plagiarism drf noun.person:plagiariser drf noun.person:plagiarist
+w: plagiarize drf noun.act:plagiarism drf noun.act:plagiarization drf noun.communication:plagiarism drf noun.person:plagiarist drf noun.person:plagiarizer
+d: take without referencing from someone else's writing or speech; of intellectual property
+fs: 2 16 8
+hyper: crib
+hypo: steal
+mt: noun.act:crime
+
+w: lift 2
+d: pay off (a mortgage)
+fs: 8
+hypo: liquidate
+
+w: lift 3
+w: rustle fs 2 drf noun.act:rustling drf noun.person:rustler
+d: take illegally
+e: rustle cattle
+fs: 8
+hypo: steal
+mt: noun.act:crime
+
+w: line_one's_pockets
+d: make a lot of money
+fs: 22 2
+hypo: profit
+
+w: liquidate drf noun.act:liquidation
+w: pay_off
+d: eliminate by paying off (debts)
+fs: 8
+hyper: amortise
+hyper: lift 2
+hypo: ante_up
+
+w: liquidate 2
+d: convert into cash
+e: I had to liquidate my holdings to pay off my ex-husband
+fs: 8
+hypo: cash
+
+w: liquidate 3
+d: settle the affairs of by determining the debts and applying the assets to pay them off
+e: liquidate a company
+fs: 8
+hypo: settle
+
+w: liquidize
+w: sell_out
+w: sell_up
+d: get rid of all one's merchandise
+fs: 2 8
+entail: sell
+hypo: cast_aside
+mt: noun.act:commerce
+
+w: load 12
+d: transfer from a storage device to a computer's memory
+fs: 8
+hypo: transfer 1
+mt: noun.cognition:computer_science
+
+w: locate drf noun.Tops:location drf noun.act:location 1
+w: turn_up
+d: discover the location of; determine the place of; find by searching or examining
+e: Can you locate your cousins in the Midwest?
+e: My search turned up nothing
+fs: 9 21 8 20
+hyper: nail
+hyper: unearth 1
+hypo: find
+vg: verb.contact:dig_up
+
+w: locate 1 drf noun.Tops:location drf noun.act:location 2
+w: place drf noun.act:place drf noun.attribute:placement drf noun.location:place 4
+w: site drf noun.location:site
+d: assign a location to
+e: The company located some of their agents in Los Angeles
+fs: 10 11 9 8
+hypo: verb.competition:place
+
+w: loft drf noun.artifact:loft drf noun.artifact:loft 2
+d: store in a loft
+fs: 8
+hypo: store 2
+
+w: log-in
+w: log_in ant log_out
+w: log_on
+d: enter a computer
+e: Have you logged in lately?
+fs: 2
+hypo: access
+
+w: log_off
+w: log_out ant log_in
+d: exit a computer
+e: Please log off before you go home
+fs: 2
+hypo: verb.motion:exit
+
+w: loot 1
+w: plunder 2 drf noun.possession:plunder
+d: take illegally; of intellectual property
+e: This writer plundered from famous authors
+fs: 2 9 8
+hypo: steal
+mt: noun.act:crime
+
+w: lose ant win
+d: fail to get or obtain
+e: I lost the opportunity to spend a year abroad
+fs: 15 8
+
+w: lose 1 ant find drf noun.possession:losings
+d: miss from one's possessions; lose sight of
+e: I've lost my glasses again!
+fs: 8
+hyper: verb.cognition:forget 2
+
+w: lose 2 ant keep
+d: fail to keep or to maintain; cease to have, either physically or in an abstract sense
+e: She lost her purse when she left it unattended on her seat
+fs: 8 11
+hyper: verb.change:white-out 1
+hyper: sleep_off
+
+w: lose 6 ant break_even ant profit drf noun.person:loser drf noun.possession:losings
+w: turn_a_loss
+d: fail to make money in a business; make a loss or fail to profit
+e: I lost thousands of dollars on that bad investment!
+e: The company turned a loss after the first year
+fs: 2 22
+
+w: machicolate drf noun.artifact:machicolation
+d: supply with projecting galleries
+e: machicolate the castle walls
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: manipulate
+w: rig drf noun.act:rig
+d: manipulate in a fraudulent manner
+e: rig prices
+fs: 8
+hypo: price
+
+w: mark_down ant mark_up
+d: reduce the price of
+fs: 8
+hyper: discount
+hypo: knock_off 3
+
+w: mark_up ant mark_down drf noun.possession:markup
+d: increase the price of
+fs: 8
+hypo: price
+
+w: market drf adjs.all:marketable drf adjs.all:marketable 2 drf noun.act:market drf noun.group:market drf noun.person:marketer
+d: engage in the commercial promotion, sale, or distribution of
+e: The company is marketing its new line of beauty products
+fs: 8
+hyper: offer 3
+hypo: merchandise
+mt: noun.act:commerce
+
+w: market 1 drf noun.act:marketing drf noun.act:marketing 1 drf noun.artifact:market
+d: deal in a market
+fs: 2 22
+hypo: deal
+mt: noun.act:commerce
+
+w: market 5 drf noun.artifact:market
+d: buy household supplies
+e: We go marketing every Saturday
+fs: 2
+hypo: shop
+mt: noun.act:commerce
+
+w: maroon drf noun.person:maroon
+w: strand
+d: leave stranded or isolated with little hope of rescue
+e: the travellers were marooned
+fs: 9
+hypo: verb.cognition:abandon
+
+w: match
+d: provide funds complementary to
+e: The company matched the employees' contributions
+fs: 8 9 11
+hypo: furnish
+
+w: merchandise drf noun.act:merchandising drf noun.artifact:merchandise drf noun.person:merchandiser
+w: trade 1 drf noun.act:trade 2 drf noun.act:trade 5 drf noun.person:trader
+d: engage in the trade of
+e: he is merchandising telephone sets
+fs: 8
+entail: buy
+entail: sell
+hyper: arbitrage
+hyper: black_market
+hyper: export
+hyper: import
+hyper: market
+hyper: traffic
+hyper: traffic 1
+mt: noun.act:commerce
+
+w: misdeal drf noun.act:misdeal
+d: deal cards wrongly
+fs: 8
+hypo: deal 2
+mt: noun.act:card_game
+
+w: misspend
+d: spend (money or other resources) unwisely
+fs: 8
+hypo: drop
+
+w: miter drf noun.artifact:miter
+d: confer a miter on (a bishop)
+fs: 10 9
+hypo: bestow
+
+w: monopolise drf noun.act:monopolisation drf noun.person:monopoliser drf noun.person:monopolist drf noun.state:monopoly 1 drf noun.state:monopoly 2
+w: monopolize drf noun.act:monopolization drf noun.person:monopolist drf noun.person:monopolizer drf noun.state:monopoly 1 drf noun.state:monopoly 2
+d: have or exploit a monopoly of
+e: OPEC wants to monopolize oil
+fs: 8
+hypo: have
+
+w: mortgage drf noun.person:mortgagee drf noun.person:mortgager drf noun.person:mortgagor drf noun.possession:mortgage
+d: put up as security or collateral
+fs: 8
+hyper: bond
+hypo: owe
+
+w: mothball drf noun.artifact:mothball
+d: put into long-term storage
+fs: 8
+hypo: store 2
+
+w: motorize 3 drf noun.act:motorization drf noun.artifact:motor
+d: equip with a motor
+e: motorized scooters are now the rage
+fs: 8
+hypo: equip
+
+w: motorize 5 drf noun.act:motorization drf noun.artifact:motor
+d: equip with a motor vehicle
+e: The police around here are not motorized and patrol the streets on horseback
+fs: 8
+hypo: equip
+
+w: move
+d: dispose of by selling
+e: The chairman of the company told the salesmen to move the computers
+fs: 8
+hypo: sell
+
+w: mug drf noun.act:mugging drf noun.person:muggee drf noun.person:mugger
+d: rob at gunpoint or with the threat of violence
+e: I was mugged in the streets of New York last night
+fs: 9
+hypo: hold_up
+mt: noun.act:crime
+
+w: mulct drf noun.possession:mulct
+d: impose a fine on
+e: he was fined for littering
+fs: 9 33
+hypo: impose
+
+w: mummify drf noun.act:mummification drf noun.body:mummy
+d: remove the organs and dry out (a dead body) in order to preserve it
+e: Th Egyptians mummified their pharaohs
+fs: 8 9
+hypo: embalm
+vg: verb.change:dry_up 3
+
+w: munition drf noun.artifact:munition
+d: supply with weapons
+fs: 8 9
+hypo: arm
+
+w: muzzle ant unmuzzle drf noun.artifact:muzzle 2 drf noun.person:muzzler
+d: fit with a muzzle
+e: muzzle the dog to prevent it from biting strangers
+fs: 8
+hypo: equip
+
+w: nail
+w: pinpoint drf noun.attribute:pinpoint
+d: locate exactly
+e: can you pinpoint the position of the enemy?
+e: The chemists could not nail the identity of the chromosome
+fs: 20 21 8 11
+hypo: locate
+
+w: negociate
+d: transfer by endorsement to another in return for value received
+e: negociate a bond
+fs: 8
+hypo: transfer
+
+w: negociate 2
+d: sell or discount
+e: negociate securities
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: nickel-and-dime
+w: penny-pinch
+d: spend money frugally; spend as little as possible
+fs: 2
+hypo: drop
+
+w: obligate drf noun.state:obligation
+d: commit in order to fulfill an obligation
+e: obligate money
+fs: 8
+hypo: commit
+
+w: obtain drf adjs.all:obtainable drf noun.act:obtainment drf noun.act:obtention
+d: come into possession of
+e: How did you obtain the visa?
+fs: 8 16
+hyper: verb.competition:carry 2
+hyper: verb.contact:dig_up
+hyper: verb.creation:extort
+hyper: bum
+hyper: derive
+hyper: eke_out
+hyper: extract
+hyper: get_in 1
+hyper: grab 3
+hyper: kite
+hyper: procure
+hyper: shop
+hyper: snag
+hyper: source
+hyper: take_out 2
+hypo: acquire
+
+w: occupy 8 drf noun.time:occupation
+w: take 6
+w: use_up 2
+d: require (time or space)
+e: It took three hours to get to work this morning
+e: This event occupied a very short time
+fs: 8 11
+hyper: be
+hypo: verb.consumption:expend
+vg: verb.consumption:consume 1
+
+w: offer drf noun.communication:offer 1 drf noun.person:offerer drf noun.person:offeror
+w: proffer drf noun.communication:proffer
+d: present for acceptance or rejection
+e: She offered us all a cold drink
+fs: 14 8 15
+hyper: verb.body:give 10
+hyper: tender
+hypo: give
+
+w: offer 2 drf noun.communication:offer 1
+d: make available or accessible, provide or furnish
+e: The conference center offers a health spa
+e: The hotel offers private meeting rooms
+fs: 8 11 15 14
+hyper: verb.communication:accost
+hypo: furnish
+
+w: offer 3
+d: make available for sale
+e: The stores are offering specials on sweaters this week
+fs: 8
+hyper: put_up
+hypo: market
+
+w: offload
+d: transfer to a peripheral device, of computer data
+fs: 8
+hypo: transfer 1
+
+w: offset 1 drf noun.communication:offset
+d: cause (printed matter) to transfer or smear onto another surface
+fs: 8
+hypo: transfer 1
+
+w: orphan drf noun.artifact:orphanage drf noun.person:orphan drf noun.state:orphanage
+d: deprive of parents
+fs: 10 9
+hypo: deprive 1
+
+w: outbid ant underbid 1
+d: bid higher than others
+fs: 9
+hypo: bid
+mt: noun.act:auction
+
+w: outbid 1
+d: bid over an opponent's bid when one's partner has not bid or doubled
+fs: 2
+hypo: bid 1
+mt: noun.act:bridge
+
+w: outcall
+d: make a higher bid than (the previous bid or player); in a card game
+fs: 9
+hypo: bid 1
+
+w: outsource
+d: obtain goods or services from an outside supplier; to contract work out
+e: Many companies outsource and hire consultants in order to maintain a flexible workforce
+fs: 2
+hypo: source
+
+w: overbalance
+d: cause to be off balance
+e: It is not desirable to overbalance the budget
+fs: 8
+hypo: account
+
+w: overbid ant underbid
+d: bid more than the object is worth
+fs: 2
+hypo: bid
+mt: noun.act:auction
+
+w: overbid 1 drf noun.communication:overbid drf noun.communication:overbid 1
+d: to bid for more tricks than one can expect to win,
+fs: 2
+hypo: bid 1
+mt: noun.act:bridge
+
+w: overdraw
+d: draw more money from than is available
+e: She overdrew her account
+fs: 8
+hypo: draw 1
+
+w: overpay ant underpay drf noun.act:overpayment drf noun.possession:overpayment
+d: pay too much
+fs: 22 9
+hypo: pay
+
+w: overprice
+d: price excessively high
+fs: 8
+hypo: price
+
+w: overspend ant underspend
+d: spend at a high rate
+fs: 2
+hypo: verb.consumption:consume 2
+
+w: overspend 1 ant underspend 1
+d: spend more than available of (a budget)
+fs: 8
+hypo: spend 1
+
+w: overstock ant understock
+d: stock excessively
+fs: 8 2
+hypo: buy_in
+
+w: overtax
+d: tax excessively
+e: Don't overtax my constituents!
+fs: 9
+hypo: tax
+
+w: owe fs 15
+d: be in debt
+e: She owes me $200
+e: I still owe for the car
+e: The thesis owes much to his adviser
+fs: 8 11 2
+hyper: mortgage
+hypo: verb.stative:be 3
+
+w: owe 1
+d: be obliged to pay or repay
+fs: 14 15 8
+hyper: chalk_up
+
+w: panhandle drf noun.person:panhandler
+d: beg by accosting people in the street and asking for money
+fs: 9 8 2
+hypo: beg
+
+w: partake fs 2 drf noun.person:partaker
+w: partake_in
+w: share 1 drf noun.act:share drf noun.person:sharer drf noun.possession:share
+d: have, give, or receive a share of
+e: We shared the cake
+fs: 8
+hyper: cut_in
+hypo: acquire
+
+w: partner
+d: provide with a partner
+fs: 9
+hypo: furnish
+
+w: pass 1 drf noun.act:pass 2 drf noun.act:passing 3 drf noun.person:passer
+d: throw (a ball) to another player
+e: Smith passed
+fs: 8 15 14 2
+hypo: verb.contact:throw
+
+w: pass 2
+d: transfer to another; of rights or property
+e: Our house passed under his official control
+fs: 1 4
+hypo: verb.change:change
+
+w: pass_on
+d: give to or transfer possession of
+e: She passed the family jewels on to her daughter-in-law
+fs: 15 8
+hyper: hand_down
+hyper: propagate
+hypo: bequeath
+
+w: patch drf noun.act:patching drf noun.attribute:patch
+d: provide with a patch; also used metaphorically
+e: The field was patched with snow
+fs: 8
+hypo: furnish
+
+w: patent drf noun.communication:patent 1 drf noun.person:patentee
+d: obtain a patent for
+e: Should I patent this invention?
+fs: 8
+hypo: procure
+
+w: patronise drf noun.person:patron 1
+w: patronize drf noun.person:patron 1
+w: sponsor drf noun.person:sponsor drf noun.person:sponsor 1
+d: assume sponsorship of
+fs: 9 8
+hyper: cosponsor
+hypo: support
+
+w: pay drf noun.act:payment drf noun.person:payee drf noun.person:payer drf noun.possession:pay 1 drf noun.possession:payment see fund see pay_off see pay_off 1 see pay_off 3 see pay_out
+d: give money, usually in exchange for goods or services
+e: I paid four dollars for this sandwich
+e: Pay the waitress, please
+fs: 2 8 15 14 9 17
+hyper: bribe
+hyper: charge 1
+hyper: compensate
+hyper: compensate 1
+hyper: contribute 2
+hyper: defray
+hyper: disburse
+hyper: drop
+hyper: finance
+hyper: foot
+hyper: give_back
+hyper: go_Dutch
+hyper: kick_back
+hyper: overpay
+hyper: pay_cash
+hyper: pay_off 3
+hyper: prepay
+hyper: remit
+hyper: subsidise 1
+hyper: tithe 2
+hyper: underpay
+hyper: verb.social:prefer 1
+hypo: give
+
+w: pay 13
+d: make a compensation for
+e: a favor that cannot be paid back
+fs: 8
+hypo: repay 1
+vg: verb.competition:fix
+
+w: pay 14 drf noun.act:payment drf noun.person:payer drf noun.possession:payment
+d: discharge or settle
+e: pay a debt
+e: pay an obligation
+fs: 8
+hyper: ante_up
+hypo: settle
+
+w: pay_back
+w: repay 2
+w: reward drf noun.event:reward
+d: act or give recompense in recognition of someone's behavior or actions
+fs: 9 8 17
+hypo: verb.social:act
+
+w: pay_cash ant charge 1
+d: pay (for something) with cash
+fs: 2
+hypo: pay
+
+w: pay_off 2
+d: yield a profit or result
+e: His efforts finally paid off
+fs: 1
+hypo: bear 1
+
+w: pay_off 3
+w: redeem 1 drf noun.person:redeemer 1 drf noun.possession:redemption
+d: pay off (loans or promissory notes)
+fs: 8
+hypo: pay
+
+w: pension drf noun.person:pensionary 1 drf noun.person:pensioner drf noun.possession:pension
+w: pension_off 1
+d: grant a pension to
+fs: 9
+hypo: award 1
+
+w: pick 1 drf noun.act:pickings
+d: pilfer or rob
+e: pick pockets
+fs: 8
+hypo: rob
+
+w: pick_up drf noun.act:pickup
+d: buy casually or spontaneously
+e: I picked up some food for a snack
+fs: 8
+hypo: buy
+mt: noun.act:commerce
+
+w: pick_up 2
+d: get in addition, as an increase
+e: The candidate picked up thousands of votes after his visit to the nursing home
+fs: 8 11
+hypo: acquire
+
+w: pirate drf noun.act:piracy 1 drf noun.person:pirate 1
+d: copy illegally; of published material
+fs: 16 8
+hypo: steal
+mt: noun.act:crime
+
+w: pith drf noun.plant:pith
+d: remove the pith from (a plant)
+fs: 8
+hypo: get_rid_of 1
+
+w: plant
+d: place into a river
+e: plant fish
+fs: 8
+hypo: stock 2
+mt: noun.act:animal_husbandry
+
+w: plastinate drf noun.process:plastination
+d: preserve (tissue) with plastics, as for teaching and research purposes
+e: The doctor plastinates bodies to teach anatomy to his students
+fs: 8
+hypo: conserve 2
+
+w: pledge 4 drf noun.person:pledger
+w: subscribe 4 drf noun.act:subscription drf noun.person:subscriber
+d: pay (an amount of money) as a contribution to a charity or service, especially at regular intervals
+e: I pledged $10 a month to my favorite radio station
+fs: 8
+hypo: donate
+
+w: plunder 1 drf noun.act:plunderage drf noun.act:plundering drf noun.person:plunderer drf noun.possession:plunder
+w: sack drf noun.act:sack 1
+d: plunder (a town) after capture
+e: the barbarians sacked Rome
+fs: 8
+entail: verb.contact:destroy
+hypo: take 1
+
+w: pocket drf noun.artifact:pocket
+d: put in one's pocket
+e: He pocketed the change
+fs: 8 16
+hypo: take
+
+w: pool drf noun.possession:pool
+d: combine into a common fund
+e: We pooled resources
+fs: 2 8
+hypo: share 2
+
+w: pour
+d: supply in large amounts or quantities
+e: We poured money into the education of our children
+fs: 21
+hypo: furnish
+
+w: preempt drf adjs.all:pre-emptive drf adjs.all:preemptive drf noun.act:preemption drf noun.attribute:preemption drf noun.person:preemptor 1
+d: acquire for oneself before others can do so
+fs: 8
+hypo: acquire
+
+w: preempt 1 drf adjs.all:pre-emptive drf adjs.all:preemptive drf noun.person:preemptor
+d: make a preemptive bid in the game of bridge
+fs: 8
+hypo: bid 1
+mt: noun.act:bridge
+
+w: preempt 2
+d: gain possession of by prior right or opportunity, especially so as to obtain the right to buy (land)
+fs: 8
+hypo: acquire
+
+w: preoccupy drf noun.act:preoccupation
+d: occupy or take possession of beforehand or before another or appropriate for use in advance
+e: the army preoccupied the hills
+fs: 8
+hypo: arrogate
+
+w: prepay drf noun.act:prepayment
+d: pay for something before receiving it
+fs: 2 8
+hypo: pay
+
+w: prepossess
+d: possess beforehand
+fs: 8
+hypo: have 4
+
+w: present 1 drf noun.act:presentation 1 drf noun.person:presenter 2 drf noun.possession:present
+w: submit
+d: hand over formally
+fs: 8 17 15
+hyper: bring_in 3
+hypo: give
+
+w: preserve 1 drf noun.state:preserve
+w: save drf noun.person:saver
+d: to keep up and reserve for personal or special use
+e: She saved the old family photographs in a drawer
+fs: 8
+hyper: verb.communication:enter 4
+hyper: conserve
+hypo: hold_on
+
+w: pretend 3 drf noun.attribute:pretense drf noun.communication:pretension drf noun.person:Pretender 2
+d: put forward a claim and assert right or possession of
+e: pretend the title of King
+fs: 8
+hypo: arrogate 2
+
+w: price drf noun.cognition:pricing drf noun.possession:price
+d: determine the price of
+e: The grocer priced his wares high
+fs: 8
+hyper: manipulate
+hyper: mark_up
+hyper: overprice
+hyper: underquote
+hypo: verb.cognition:determine 1
+
+w: procure drf noun.act:procural drf noun.act:procurance drf noun.act:procurement drf noun.person:procurer 1
+w: secure drf noun.person:securer
+d: get by special effort
+e: He procured extra cigarettes even though they were rationed
+fs: 8 16
+hyper: verb.communication:suborn 1
+hyper: copyright
+hyper: engage 1
+hyper: patent
+hypo: obtain
+
+w: profit ant break_even ant lose 6 drf noun.possession:profit
+w: turn_a_profit
+d: make a profit; gain money or materially
+e: The company has not profited from the merger
+fs: 2 22
+hyper: clean_up 4
+hyper: line_one's_pockets
+hyper: turn_a_nice_dime
+hypo: bring_in 1
+
+w: profiteer drf noun.person:profiteer
+d: make an unreasonable profit, as on the sale of difficult to obtain goods
+fs: 2
+hypo: benefit
+
+w: propagate drf noun.act:propagation
+d: transmit from one generation to the next
+e: propagate these characteristics
+fs: 15 8
+hypo: pass_on
+
+w: provision drf noun.act:provision 1 drf noun.person:provisioner drf noun.possession:provision
+w: purvey drf noun.act:purveyance drf noun.person:purveyor
+d: supply with provisions
+fs: 9 8
+hypo: furnish
+
+w: pump
+d: supply in great quantities
+e: Pump money into a project
+fs: 21
+hypo: furnish
+
+w: push drf noun.person:pusher 1
+d: sell or promote the sale of (illegal goods such as drugs)
+e: The guy hanging around the school is pushing drugs
+fs: 8
+hypo: deal
+mt: noun.act:crime
+
+w: put_up
+d: make available for sale at an auction
+e: The dealer put up three of his most valuable paintings for auction
+fs: 8
+hypo: offer 3
+
+w: pyramid
+d: enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts
+fs: 2
+hypo: benefit
+mt: noun.act:investing
+
+w: pyramid 1
+d: use or deal in (as of stock or commercial transaction) in a pyramid deal
+fs: 8
+hypo: deal
+mt: noun.act:crime
+
+w: quest drf noun.act:quest drf noun.person:quester
+d: make a search (for)
+e: Things that die with their eyes open and questing
+e: The animal came questing through the forest
+fs: 2 1
+hypo: seek
+
+w: raffle drf noun.act:raffle
+w: raffle_off
+d: dispose of in a lottery
+e: We raffled off a trip to the Bahamas
+fs: 8
+hypo: gift
+
+w: rafter drf noun.artifact:rafter
+d: provide (a ceiling) with rafters
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: raid 2 drf noun.act:raid 1 drf noun.group:raider
+d: take over (a company) by buying a controlling interest of its stock
+e: T. Boone Pickens raided many large companies
+fs: 8
+hypo: arrogate
+
+w: rail drf noun.artifact:rail drf noun.artifact:rail 2 drf noun.artifact:railing
+d: provide with rails
+e: The yard was railed
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: railroad drf noun.act:railroading drf noun.artifact:railroad drf noun.artifact:railroad 1
+d: supply with railroad lines
+e: railroad the West
+fs: 8
+hypo: furnish
+
+w: raise
+d: collect funds for a specific purpose
+e: The President raised several million dollars for his college
+fs: 8
+hyper: fund-raise
+hypo: collect 1
+
+w: rake_in
+w: shovel_in
+d: earn large sums of money
+e: Since she accepted the new position, she has been raking it in
+fs: 8
+hypo: bring_in 1
+
+w: rake_off drf noun.possession:rake-off
+d: take money from an illegal transaction
+fs: 8
+hypo: bring_in 1
+mt: noun.act:crime
+
+w: ramp drf noun.artifact:ramp drf noun.artifact:ramp 1
+d: furnish with a ramp
+e: The ramped auditorium
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: ransom drf noun.act:ransom drf noun.act:ransom 1 drf noun.possession:ransom
+w: redeem 3 drf noun.act:redemption drf noun.person:redeemer 1
+d: exchange or buy back for money; under threat
+fs: 9 8
+hypo: change
+mt: noun.act:crime
+
+w: ration drf noun.food:ration 1 drf noun.possession:ration
+w: ration_out
+d: distribute in rations, as in the army
+e: Cigarettes are rationed
+fs: 8 15
+hypo: allocate
+
+w: ration 1 drf noun.act:rationing drf noun.food:ration 1 drf noun.possession:ration
+d: restrict the consumption of a relatively scarce commodity, as during war
+e: Bread was rationed during the siege of the city
+fs: 8
+hypo: verb.change:circumscribe
+
+w: rationalise drf noun.act:rationalisation 2
+w: rationalize drf noun.act:rationalization 2
+d: structure and run according to rational or scientific principles in order to achieve desired results
+e: We rationalized the factory's production and raised profits
+fs: 8
+hypo: verb.social:organise
+
+w: re-equip
+w: rejig
+d: re-equip a factory or plant
+fs: 8
+hypo: equip
+
+w: realise drf noun.act:realisation 1
+w: realize drf noun.act:realization 1
+d: convert into cash; of goods and property
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: reallocate drf noun.act:reallocation drf noun.possession:reallocation
+w: reapportion drf noun.act:reapportionment
+d: allocate, distribute, or apportion anew
+e: Congressional seats are reapportioned on the basis of census data
+fs: 15 8
+hypo: allocate
+
+w: reallot drf noun.act:reallotment
+d: allot again
+e: They were realloted additional farm land
+fs: 15 8 14
+hypo: administer
+
+w: rearm drf noun.act:rearmament
+d: arm again
+e: After the war, the defeated country was not rearmed by the victors
+fs: 9 11 8 10
+hypo: arm
+
+w: rebate drf noun.possession:rebate
+d: give a reduction in the price during a sale
+e: The store is rebating refrigerators this week
+fs: 2
+hypo: discount
+
+w: recapture drf noun.act:recapture
+w: retake drf noun.act:retaking
+d: take back by force, as after a battle
+e: The military forces managed to recapture the fort
+fs: 8 16
+hyper: reconquer
+hypo: take 1
+
+w: reclaim
+w: repossess
+d: claim back
+fs: 8 16
+hyper: distrain 2
+hyper: foreclose
+hypo: acquire
+
+w: reclaim 3 drf noun.act:reclamation 2
+w: recover 6
+d: reuse (materials from waste products)
+fs: 8
+entail: preserve 1
+hypo: verb.consumption:recycle
+
+w: recommit
+d: commit again
+e: It was recommitted into her custody
+fs: 15 8
+hypo: commit
+
+w: reconquer
+d: conquer anew
+e: The country reconquered the territory lost in the previous war
+fs: 8
+hypo: recapture
+
+w: recoup
+w: recover 1
+w: recuperate
+d: regain or make up for
+e: recuperate one's losses
+fs: 8
+hyper: verb.social:catch_up_with
+hypo: acquire
+
+w: recoup 2
+w: reimburse 1 drf noun.possession:reimbursement
+d: reimburse or compensate (someone), as for a loss
+fs: 20 9
+hypo: compensate
+
+w: recruit drf noun.act:recruitment
+d: seek to employ
+e: The lab director recruited an able crew of assistants
+fs: 8 9
+hypo: engage 1
+
+w: redeem drf noun.person:redeemer 1
+d: convert into cash; of commercial papers
+fs: 9
+hypo: cash
+
+w: redeem 4
+d: to turn in (vouchers or coupons) and receive something in exchange
+fs: 9 8
+hypo: change
+
+w: redeposit drf noun.process:redeposition
+d: deposit once again
+e: redeposit a cheque
+fs: 8
+hypo: bank
+
+w: redispose drf noun.act:redisposition
+d: dispose anew
+e: The goods were redisposed at a great loss
+fs: 8 11
+hypo: dispose 11
+
+w: reduce
+d: lessen and make more modest
+e: reduce one's standard of living
+fs: 10 11
+hypo: impoverish
+
+w: reduce 4 drf adj.all:reducible
+d: simplify the form of a mathematical equation of expression by substituting one term for another
+fs: 8
+hypo: exchange 2
+mt: noun.cognition:math
+
+w: refinance
+d: renew the financing of
+fs: 8
+hypo: finance
+
+w: refit
+d: fit out again
+fs: 17 8 9
+hypo: equip
+
+w: reflectorise
+w: reflectorize
+d: provide with reflectors, such as chemicals
+e: the driveway was reflectorized for safety reasons
+fs: 8
+hypo: furnish
+
+w: refuel drf noun.act:refueling
+d: take on more fuel, as of a plane, ship, or car
+fs: 2 1
+hypo: fuel 3
+
+w: refuel 1 drf noun.act:refueling
+d: provide with additional fuel, as of aircraft, ships, and cars
+fs: 8
+hypo: fuel
+
+w: refurnish
+d: furnish with new or different furniture
+e: We refurnished the living room
+fs: 8
+hypo: furnish 1
+
+w: reimburse drf noun.possession:reimbursement
+d: pay back for some expense incurred
+e: Can the company reimburse me for my professional travel?
+fs: 8 14
+hypo: give_back
+
+w: reimpose drf noun.act:reimposition
+d: impose anew
+e: The fine was reimposed
+fs: 8
+hypo: impose
+
+w: reinsure
+d: provide additional insurance for
+fs: 11 9 8 10
+hypo: insure
+
+w: relieve
+d: take by stealing
+e: The thief relieved me of $100
+fs: 18
+hypo: take 1
+
+w: relieve 1
+d: free from a burden, evil, or distress
+fs: 18
+hypo: disembarrass
+
+w: remainder drf noun.relation:remainder
+d: sell cheaply as remainders
+e: The publisher remaindered the books
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: remember drf noun.communication:remembrance
+d: show appreciation to
+e: He remembered her in his will
+fs: 9
+hypo: bequeath
+
+w: remit drf noun.possession:remitment drf noun.possession:remittal drf noun.possession:remittance
+d: send (money) in payment
+e: remit $25
+fs: 14 8 15
+entail: transfer
+hypo: pay
+
+w: render
+w: return 8 drf noun.act:return 2
+d: give back
+e: render money
+fs: 14 8 15
+hyper: feed_back
+hypo: give
+
+w: render 1
+w: submit 1
+d: make over as a return
+e: They had to render the estate
+fs: 8 15
+hypo: gift
+mt: noun.group:jurisprudence
+
+w: repay 1 drf noun.act:repayment drf noun.possession:repayment
+w: requite drf noun.act:requital
+d: make repayment for or return something
+fs: 8
+hyper: pay 13
+hypo: give
+
+w: reposit drf noun.act:repositing drf noun.act:reposition
+d: put (something) in a place for storage
+e: the treasure found int he ancient tomb was reposited in the museum
+fs: 8
+hypo: store 2
+
+w: repossess 3 drf noun.act:repossession
+w: take_back
+d: regain possession of something
+fs: 8
+hypo: take
+
+w: requisition ant derequisition drf noun.communication:requisition
+d: demand and take for use or service, especially by military or public authority for public service
+fs: 9
+hypo: arrogate 2
+
+w: rescue
+d: take forcibly from legal custody
+e: rescue prisoners
+fs: 9
+hypo: take 1
+
+w: reseat
+d: provide with new seats
+e: reseat Carnegie Hall
+fs: 8
+hypo: seat
+mt: noun.act:architecture
+
+w: reseat 1
+d: provide with a new seat
+e: reseat the old broken chair
+fs: 8
+hypo: seat 1
+mt: noun.act:cabinetry
+
+w: resell
+d: sell (something) again after having bought it
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: reserve 3 drf noun.act:reservation drf noun.possession:reserve
+d: hold back or set aside, especially for future use or contingency
+e: they held back their applause in anticipation
+fs: 8
+hyper: devote
+hypo: keep_back
+
+w: restitute drf noun.act:restitution
+w: restore drf noun.act:restoration 1
+d: give or bring back
+e: Restore the stolen painting to its rightful owner
+fs: 15 8
+hypo: give_back
+
+w: restock
+d: stock again
+e: He restocked his land with pheasants
+fs: 8
+hypo: stock 2
+mt: noun.act:animal_husbandry
+
+w: retail ant wholesale drf noun.act:retail drf noun.act:retailing drf noun.person:retailer
+d: sell on the retail market
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+vg: verb.stative:retail
+
+w: retire
+d: dispose of (something no longer useful or needed)
+e: She finally retired that old coat
+fs: 8
+hypo: cast_aside
+
+w: retool
+d: provide (a workshop or factory) with new tools
+fs: 9 8
+hypo: exchange 2
+
+w: retrench drf noun.act:retrenchment
+d: tighten one's belt; use resources carefully
+fs: 2
+hypo: conserve
+
+w: retrofit
+d: provide with parts, devices, or equipment not available or in use at the time of the original manufacture
+e: They car companies retrofitted all the old models with new carburetors
+fs: 31 8
+hypo: furnish
+vg: verb.contact:retrofit
+
+w: return 3 drf noun.communication:return 2
+d: return in kind
+e: return a compliment
+e: return her love
+fs: 8
+hyper: verb.perception:redound
+hypo: verb.social:reciprocate
+
+w: rewire
+d: provide with new wiring
+e: the university rewired the dormitories when most students brought computers and television sets
+fs: 8
+hypo: wire
+
+w: rim drf noun.shape:rim
+d: furnish with a rim
+e: rim a hat
+fs: 8
+hypo: furnish
+
+w: rob drf noun.act:robbery drf noun.person:robber 1
+d: take something away by force or without the consent of the owner
+e: The burglars robbed him of all his money
+fs: 8 16 9
+hyper: hold_up
+hyper: pick 1
+hypo: steal
+
+w: roll_over drf noun.act:rollover
+d: re-invest (a previous investment) into a similar fund or security
+e: She rolled over her IRA
+fs: 8
+hypo: commit 5
+
+w: roll_over 1
+d: negociate to repay a loan at a later date for an additional fee
+e: roll over a loan
+fs: 8
+hypo: verb.communication:renegociate
+
+w: rout_out
+w: rout_up
+d: get or find by searching
+e: What did you rout out in the library?
+fs: 9 8
+entail: verb.perception:look 2
+hypo: find
+
+w: rustle 2
+d: forage food
+fs: 2
+hypo: forage
+
+w: sacrifice 1 drf noun.act:sacrifice drf noun.person:sacrificer
+d: make a sacrifice of; in religious rituals
+fs: 9 8 15
+hyper: immolate
+hypo: verb.stative:offer
+
+w: sacrifice 2 drf noun.possession:sacrifice
+d: sell at a loss
+fs: 8
+hypo: sell
+
+w: sanitate drf noun.state:sanitation
+d: provide with sanitary facilities or appliances
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: save 2 drf noun.person:saver
+d: spend less; buy at a reduced price
+fs: 19 8
+entail: buy
+hyper: scrimp
+
+w: scale drf noun.act:scaling 3
+d: take by attacking with scaling ladders
+e: The troops scaled the walls of the fort
+fs: 8 11
+hypo: take 1
+
+w: scalp drf noun.person:scalper
+d: sell illegally, as on the black market
+fs: 8
+hypo: sell
+mt: noun.act:crime
+
+w: scant
+w: skimp 1
+w: stint 1 drf noun.person:stinter
+d: supply sparingly and with restricted quantities
+e: sting with the allowance
+fs: 2
+hypo: furnish
+
+w: scrimp
+w: skimp
+w: stint drf noun.person:stinter
+d: subsist on a meager allowance
+e: scratch and scrimp
+fs: 13
+hypo: save 2
+
+w: scum drf noun.artifact:scum
+d: remove the scum from
+fs: 8
+hypo: get_rid_of 1
+
+w: seat drf noun.artifact:seat drf noun.artifact:seat 1 drf noun.location:seat 1
+d: provide with seats
+e: seat a concert hall
+fs: 8
+hyper: reseat
+hypo: furnish
+mt: noun.act:architecture
+
+w: seat 1 drf noun.artifact:seat 1 drf noun.location:seat 1
+d: put a seat on a chair
+fs: 8
+hyper: reseat 1
+hypo: furnish
+mt: noun.act:cabinetry
+
+w: secure 1
+d: assure payment of
+fs: 11 8
+hyper: certify 2
+hypo: verb.communication:guarantee
+
+w: see_through
+d: support financially through a period of time
+e: The scholarship saw me through college
+e: This money will see me through next month
+fs: 8 9
+hypo: support
+
+w: seed
+d: help (an enterprise) in its early stages of development by providing seed money
+fs: 8 9
+hypo: finance
+
+w: seek drf noun.act:seeking 1
+d: try to get or reach
+e: seek a position
+e: seek an education
+e: seek happiness
+fs: 8
+hyper: bid 4
+hyper: quest
+hypo: verb.emotion:desire
+
+w: sell ant buy drf noun.act:sell drf noun.act:selling drf noun.person:seller
+d: exchange or deliver for money or its equivalent
+e: He sold his house in January
+e: She sells her body to survive and support her drug habit
+fs: 14 15 8
+entail: give
+hyper: auction
+hyper: bootleg
+hyper: clear 9
+hyper: deaccession
+hyper: dispose 11
+hyper: dump 1
+hyper: fob_off
+hyper: move
+hyper: negociate 2
+hyper: realise
+hyper: remainder
+hyper: resell
+hyper: retail
+hyper: sacrifice 2
+hyper: scalp
+hyper: sell_off
+hyper: sell_short
+hyper: syndicate
+hyper: undercut
+hyper: wholesale
+hyper: verb.social:prostitute
+hypo: change
+mt: noun.act:commerce
+vg: verb.stative:sell
+
+w: sell 2
+d: give up for a price or reward
+e: She sold her principles for a successful career
+fs: 8 14 15
+hypo: cede
+vg: verb.social:betray
+
+w: sell_off drf noun.act:selloff
+d: get rid of by selling, usually at reduced prices
+e: The store sold off the surplus merchandise
+fs: 8
+hypo: sell
+
+w: sell_short
+d: sell securities or commodities or foreign currency that is not actually owned by the seller, who hopes to cover (buy back) the sold items at a lower price and thus to earn a profit
+fs: 2 8
+hypo: sell
+mt: noun.act:commerce
+
+w: sequester 1
+d: requisition forcibly, as of enemy property
+e: the estate was sequestered
+fs: 8
+hypo: take
+vg: attach
+
+w: settle drf noun.act:settlement
+d: dispose of; make a financial settlement
+fs: 2 22
+hyper: verb.cognition:prorate 1
+hyper: clean_up
+hyper: compensate 2
+hyper: liquidate 3
+hyper: pay 14
+hyper: square
+hypo: verb.communication:arrange 4
+
+w: shaft drf noun.artifact:shaft 3
+d: equip with a shaft
+fs: 8
+hypo: equip
+
+w: share 2 drf noun.relation:sharing 1
+d: use jointly or in common
+fs: 2 8
+hyper: communalise
+hyper: double_up
+hyper: pool
+hypo: verb.consumption:apply
+
+w: shelter
+d: invest (money) so that it is not taxable
+fs: 8
+hypo: commit 5
+
+w: shop drf noun.act:shopping drf noun.artifact:shop drf noun.person:shopper
+d: do one's shopping
+e: She goes shopping every Friday
+fs: 22 2
+entail: buy
+hyper: market 5
+hypo: obtain
+mt: noun.act:commerce
+
+w: shoplift drf noun.act:shoplifting drf noun.person:shoplifter
+d: steal in a store
+fs: 2 8
+hypo: steal
+mt: noun.act:crime
+
+w: sign_away
+w: sign_over
+d: formally assign ownership of
+e: She signed away her rights
+fs: 15 8
+hypo: cede
+
+w: signalise
+w: signalize drf noun.communication:signal
+d: provide with traffic signals
+e: signalize a busy intersection
+fs: 8
+hypo: furnish
+
+w: slat drf noun.artifact:slat
+d: equip or bar with slats
+e: Slat the windows
+fs: 8
+hypo: furnish
+
+w: sleep_off
+d: get rid of by sleeping
+e: sleep off a hangover
+fs: 8
+hypo: lose 2
+
+w: slip 10
+w: sneak 10
+d: pass on stealthily
+e: He slipped me the key when nobody was looking
+fs: 15 14
+hypo: give 6
+
+w: slough_off
+d: discard as undesirable
+e: the candidate sloughed off his former campaign workers
+fs: 9
+hypo: get_rid_of 1
+
+w: smooth
+w: smooth_out
+d: free from obstructions
+e: smooth the way towards peace negotiations
+fs: 11 8
+hypo: disembarrass
+
+w: smuggle drf noun.act:smuggling drf noun.person:smuggler
+d: import or export without paying customs duties
+e: She smuggled cigarettes across the border
+fs: 8 2 21 9 20
+hypo: export
+hypo: import
+mt: noun.act:commerce
+mt: noun.act:crime
+
+w: snag
+d: get by acting quickly and smartly
+e: snag a bargain
+fs: 8
+hypo: obtain
+
+w: sop drf noun.communication:sop
+d: give a conciliatory gift or bribe to
+fs: 9
+hypo: bribe
+
+w: source drf noun.artifact:source
+d: get (a product) from another country or business
+e: She sourced a supply of carpet
+e: They are sourcing from smaller companies
+fs: 1 8
+hyper: outsource
+hypo: obtain
+
+w: spar drf noun.artifact:spar
+d: furnish with spars
+fs: 8
+hypo: equip
+
+w: spend 1 drf noun.act:spending drf noun.person:spender 2
+d: spend completely
+e: I spend my pocket money in two days
+fs: 8 19
+hyper: overspend 1
+hyper: underspend 1
+hypo: verb.consumption:consume 1
+
+w: sponsor 1 drf noun.person:sponsor
+d: assume responsibility for or leadership of
+e: The senator announced that he would sponsor the health care plan
+fs: 11 8
+hypo: verb.social:back_up
+
+w: spool
+d: transfer data intended for a peripheral device (usually a printer) into temporary storage
+fs: 8
+hypo: transfer 1
+mt: noun.cognition:computer_science
+
+w: square
+d: pay someone and settle a debt
+e: I squared with him
+fs: 22
+hypo: settle
+
+w: stave drf noun.artifact:stave 2
+d: furnish with staves
+e: stave a ladder
+fs: 8
+hypo: equip
+
+w: steal drf noun.act:stealing drf noun.person:stealer
+d: take without the owner's consent
+e: Someone stole my wallet on the train
+e: This author stole entire paragraphs from my dissertation
+fs: 8 16
+hyper: abstract
+hyper: bag 1
+hyper: cop
+hyper: defalcate
+hyper: hustle
+hyper: lift 1
+hyper: lift 3
+hyper: loot 1
+hyper: pirate
+hyper: rob
+hyper: shoplift
+hyper: walk_off
+hyper: verb.social:burglarise
+hypo: take 1
+
+w: steam-heat
+d: heat by means of steam
+fs: 8
+hypo: heat
+
+w: step drf noun.artifact:step
+d: furnish with steps
+e: The architect wants to step the terrace
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: stock 2 drf noun.act:stocking drf noun.person:stockist drf noun.possession:stock 1
+d: provide or furnish with a stock of something
+e: stock the larder with meat
+fs: 21
+hyper: plant
+hyper: restock
+hypo: furnish
+
+w: stock 5 drf noun.group:stock
+d: supply with livestock
+e: stock a farm
+fs: 8
+hypo: furnish
+mt: noun.act:animal_husbandry
+vg: stock 6
+
+w: stock 6 drf noun.possession:stock 1
+d: supply with fish
+e: stock a lake
+fs: 8
+hypo: furnish
+mt: noun.act:animal_husbandry
+vg: stock 5
+
+w: stock 7 drf noun.artifact:stock 2
+d: equip with a stock
+e: stock a rifle
+fs: 8
+hypo: equip
+
+w: store 2 drf noun.act:storage 1 drf noun.artifact:store 1
+d: find a place for and put away for storage
+e: where should we stow the vegetables?
+e: I couldn't store all the books in the attic so I sold some
+fs: 8
+hyper: verb.contact:garner 1
+hyper: bottle
+hyper: ensile
+hyper: garage
+hyper: keep 13
+hyper: loft
+hyper: mothball
+hyper: reposit
+hyper: tank
+hyper: warehouse
+hyper: wharf
+hypo: hold_on
+
+w: sublease drf noun.possession:sublease
+w: sublet drf noun.possession:sublet
+d: lease or rent all or part of (a leased or rented property) to another person
+e: We sublet our apartment over the summer
+fs: 15 8
+hypo: lease 1
+
+w: subrogate drf noun.act:subrogation
+d: substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured
+fs: 9
+hypo: exchange 2
+
+w: subscribe fs 2 drf noun.person:subscriber 1
+w: subscribe_to
+w: take 4 drf noun.possession:take
+d: receive or obtain regularly
+e: We take the Times every day
+fs: 8
+hypo: buy
+
+w: subscribe 1
+d: offer to buy, as of stocks and shares
+e: The broker subscribed 500 shares
+fs: 8
+hypo: bid
+mt: noun.act:investing
+
+w: subsidise drf noun.act:subsidisation drf noun.person:subsidiser drf noun.possession:subsidisation drf noun.possession:subsidy
+w: subsidize drf noun.act:subsidization drf noun.person:subsidizer drf noun.possession:subsidization drf noun.possession:subsidy
+d: support through subsidies
+e: The arts in Europe are heavily subsidized
+fs: 8 9
+hypo: support
+
+w: subsidise 1 drf noun.act:subsidisation drf noun.possession:subsidisation
+w: subsidize 1 drf noun.act:subsidization drf noun.possession:subsidization
+d: secure the assistance of by granting a subsidy, as of nations or military forces
+fs: 11 8 10 9
+hypo: pay
+
+w: subtitle drf noun.communication:subtitle 1
+d: supply (a movie) with subtitles
+fs: 8
+hypo: furnish
+mt: noun.cognition:performing_arts
+
+w: supplement drf noun.artifact:supplement drf noun.attribute:supplement drf noun.attribute:supplementation
+d: add as a supplement to what seems insufficient
+e: supplement your diet
+fs: 8 31
+entail: furnish
+hyper: eke_out 2
+hyper: leverage 1
+hyper: vitaminise
+hypo: verb.change:add
+vg: verb.stative:supplement
+
+w: support drf noun.act:support 4 drf noun.possession:support drf noun.possession:support 1
+d: support materially or financially
+e: he does not support his natural children
+e: The scholarship supported me when I was in college
+fs: 9 8
+hyper: bring_home_the_bacon
+hyper: fund
+hyper: patronise
+hyper: see_through
+hyper: subsidise
+hypo: give
+
+w: surcharge 1 drf noun.possession:surcharge
+d: charge an extra fee, as for a special service
+fs: 9
+hypo: bill
+
+w: surtax drf noun.possession:surtax
+d: levy an extra tax on
+e: surtax luxury items that cost more than $1,000
+fs: 9 8
+hypo: tax
+
+w: swap drf noun.act:swap
+w: switch drf noun.act:switching drf noun.event:switch
+w: swop drf noun.act:swop
+w: trade 2 drf noun.act:trade 3
+d: exchange or give (something) in exchange for
+fs: 21 8 2
+hypo: change
+
+w: syndicate drf noun.act:syndication 1 drf noun.group:syndicate 2
+d: sell articles, television programs, or photos to several publications or independent broadcasting stations
+fs: 8
+hypo: sell
+
+w: take ant give see take_back see take_out see verb.social:take_in
+d: take into one's possession
+e: We are taking an orphan from Romania
+e: I'll take three salmon steaks
+fs: 16 8 9
+hyper: verb.change:adopt
+hyper: accept 1
+hyper: attach
+hyper: call_back
+hyper: collect 1
+hyper: deprive 1
+hyper: grab
+hyper: pocket
+hyper: repossess 3
+hyper: sequester 1
+hyper: take_away 1
+hyper: unburden
+
+w: take 1
+d: take by force
+e: Hitler took the Baltic Republics
+e: The army took the fort on the hill
+fs: 16 8
+hyper: arrogate
+hyper: despoil
+hyper: extort 1
+hyper: plunder 1
+hyper: recapture
+hyper: relieve
+hyper: rescue
+hyper: scale
+hyper: steal
+
+w: take 2 see take_out
+d: buy, select
+e: I'll take a pound of that sausage
+fs: 8
+hypo: buy
+mt: noun.act:commerce
+
+w: take 8
+d: to get into a position of having, e.g., safety, comfort
+e: take shelter from the storm
+fs: 8
+
+w: take_away 1
+d: take from a person or place
+e: We took the abused child away from its parents
+fs: 21 20 9 8
+hypo: take
+
+w: take_out 2
+d: obtain by legal or official process
+e: take out a license
+e: take out a patent
+fs: 8
+hypo: obtain
+
+w: tank drf noun.act:tankage drf noun.artifact:tank drf noun.quantity:tank
+d: store in a tank by causing (something) to flow into it
+fs: 8
+hypo: store 2
+
+w: tap
+d: draw from or dip into to get something
+e: tap one's memory
+e: tap a source of money
+fs: 11 21 8
+hypo: draw 1
+
+w: tap 4 drf noun.artifact:tap 1 drf noun.person:tapper 1
+d: furnish with a tap or spout, so as to be able to draw liquid from it
+e: tap a cask of wine
+fs: 8
+hypo: furnish
+vg: verb.contact:tap 4
+vg: verb.motion:tap 4
+
+w: tariff drf noun.possession:tariff
+d: charge a tariff
+e: tariff imported goods
+fs: 8
+hypo: tax
+
+w: tax drf adj.all:taxable drf noun.act:taxation drf noun.person:taxer drf noun.possession:tax drf noun.possession:taxation drf noun.possession:taxation 1
+d: levy a tax on
+e: The State taxes alcohol heavily
+e: Clothing is not taxed in our state
+fs: 9 8
+hyper: excise
+hyper: overtax
+hyper: surtax
+hyper: tariff
+hypo: impose
+
+w: tender drf noun.communication:tender
+d: make a tender of; in legal settlements
+fs: 8
+hypo: offer
+
+w: tender 1
+d: offer or present for acceptance
+fs: 15 14 8
+hypo: gift
+
+w: terrace drf noun.artifact:terrace
+w: terrasse
+d: provide (a house) with a terrace
+e: We terrassed the country house
+fs: 8
+hypo: furnish
+mt: noun.act:architecture
+
+w: theme
+d: provide with a particular theme or motive
+e: the restaurant often themes its menus
+fs: 8
+hypo: furnish
+
+w: throw_in
+d: add as an extra or as a gratuity
+fs: 8
+hypo: add
+
+w: ticket 1 drf noun.communication:ticket 1
+d: provide with a ticket for passage or admission
+e: Ticketed passengers can board now
+fs: 9
+hypo: furnish
+
+w: tie_up
+d: invest so as to make unavailable for other purposes
+e: All my money is tied up in long-term investments
+fs: 8
+hypo: commit 5
+
+w: tighten_one's_belt
+d: live frugally and use less resources
+e: In the new economy, we all have to learn to tighten our belts
+fs: 2
+hypo: economise 2
+
+w: tinsel drf noun.artifact:tinsel 1
+d: impart a cheap brightness to
+e: his tinseled image of Hollywood
+fs: 4 15
+hypo: add
+
+w: tithe
+d: levy a tithe on (produce or a crop)
+e: The wool was tithed
+fs: 8
+hypo: impose
+vg: tithe 1
+
+w: tithe 1
+d: exact a tithe from
+e: The church was tithed
+fs: 10 9
+hypo: bill
+vg: tithe
+
+w: tithe 2 drf noun.person:tither
+d: pay a tenth of one's income, especially to the church
+e: Although she left the church officially, she still tithes
+fs: 2
+hypo: pay
+vg: tithe 3
+
+w: tithe 3 drf noun.person:tither
+d: pay one tenth of; pay tithes on, especially to the church
+e: He tithed his income to the Church
+fs: 8
+vg: tithe 2
+
+w: toggle drf noun.artifact:toggle drf noun.artifact:toggle 1
+d: provide with a toggle or toggles
+fs: 8
+hypo: furnish
+
+w: toll drf noun.possession:toll
+d: charge a fee for using
+e: Toll the bridges into New York City
+fs: 8
+hypo: impose
+
+w: tongue-tie
+d: deprive of speech
+e: When he met his idol, the young man was tongue-tied
+fs: 9 10
+hypo: deprive
+
+w: tool drf noun.artifact:tool
+d: furnish with tools
+fs: 9 8
+hypo: furnish
+
+w: top drf noun.location:top 1 drf noun.person:topper 1
+w: top_out
+d: provide with a top or finish the top (of a structure)
+e: the towers were topped with conical roofs
+fs: 8
+hypo: furnish
+
+w: trade drf noun.act:trade 2 drf noun.act:trade 3 drf noun.act:trade 5
+w: trade_in drf noun.possession:trade-in
+d: turn in as payment or part payment for a purchase
+e: trade in an old car for a new one
+fs: 8 21
+hyper: barter_away
+hypo: change
+mt: noun.act:commerce
+
+w: traffic drf noun.act:traffic 1
+d: deal illegally
+e: traffic drugs
+fs: 8
+hypo: merchandise
+mt: noun.act:crime
+
+w: traffic 1 drf noun.act:traffic 1 drf noun.person:trafficker
+d: trade or deal a commodity
+e: They trafficked with us for gold
+fs: 2 21
+hypo: merchandise
+mt: noun.act:commerce
+
+w: transact 14 drf noun.act:transaction drf noun.person:transactor
+d: conduct business
+e: transact with foreign governments
+fs: 22
+hyper: bank 2
+hyper: deal
+hyper: turn_over 1
+hypo: verb.social:interact
+mt: noun.act:commerce
+
+w: transfer drf noun.act:transfer 2 drf noun.act:transference drf noun.person:transferer drf noun.person:transferor drf noun.person:transferrer
+d: cause to change ownership
+e: I transferred my stock holdings to my children
+fs: 8 12 16 15
+cause: change_hands
+entail: verb.motion:displace 2
+hyper: alien
+hyper: assign
+hyper: change
+hyper: convey
+hyper: demise
+hyper: desacralize
+hyper: give
+hyper: give 6
+hyper: negociate
+hyper: verb.social:distribute
+
+w: transfer 1 drf noun.act:transfer drf noun.act:transfer 3 drf noun.act:transferral drf noun.person:transferrer
+d: move from one place to another
+e: transfer the data
+e: transmit the news
+e: transfer the patient to another hospital
+fs: 9 8
+hyper: verb.communication:get_off 5
+hyper: verb.communication:mail
+hyper: FTP
+hyper: carry 13
+hyper: charge 5
+hyper: communicate 10
+hyper: download
+hyper: export 1
+hyper: import 1
+hyper: load 12
+hyper: offload
+hyper: offset 1
+hyper: spool
+hyper: translocate
+hyper: upload
+hypo: verb.motion:displace 2
+
+w: transistorise
+w: transistorize drf noun.artifact:transistor
+d: equip (an electronic circuit or device) with transistors
+fs: 8
+hypo: furnish
+
+w: translocate
+d: move from one place to another, especially of wild animals
+e: The endangered turtles were translocated to a safe environment
+fs: 8
+hypo: transfer 1
+
+w: translocate 1 drf noun.process:translocation
+d: transfer (a chromosomal segment) to a new position
+fs: 8
+hypo: verb.motion:shift 2
+
+w: tread drf noun.artifact:tread 2
+d: apply (the tread) to a tire
+fs: 8
+hypo: apply
+
+w: treat drf noun.event:treat
+d: provide with a gift or entertainment
+e: Grandmother always treated us to the circus
+e: I like to treat myself to a day at a spa when I am depressed
+fs: 9
+hypo: gift
+vg: verb.consumption:regale
+
+w: trifle_away
+w: wanton 1
+w: wanton_away
+d: spend wastefully
+e: wanton one's money away
+fs: 8
+hypo: drop
+
+w: truncate drf noun.act:truncation 1
+d: replace a corner by a plane
+fs: 8
+hypo: exchange 2
+mt: noun.cognition:geometry
+
+w: trust 1
+d: extend credit to
+e: don't trust my ex-wife; I won't pay her debts anymore
+fs: 9
+hypo: lend
+mt: noun.act:commerce
+
+w: tube drf noun.body:tube
+d: provide with a tube or insert a tube into
+fs: 8
+hypo: furnish
+
+w: turn 13
+d: get by buying and selling
+e: the company turned a good profit after a year
+fs: 8
+hypo: acquire
+mt: noun.act:commerce
+
+w: turn_a_nice_dime
+w: turn_a_nice_dollar
+w: turn_a_nice_penny
+d: make a satisfactory profit
+e: The company turned a nice dime after a short time
+fs: 1 2
+hypo: profit
+
+w: turn_out 3 drf noun.artifact:turnout 2
+d: outfit or equip, as with accessories
+e: The actors were turned out lavishly
+fs: 8 9 11 10
+hypo: equip
+
+w: turn_over 1 drf noun.attribute:turnover
+d: do business worth a certain amount of money
+e: The company turns over ten million dollars a year
+fs: 11 8
+hypo: transact 14
+mt: noun.act:commerce
+
+w: unbridle ant verb.contact:bridle
+d: remove the bridle from (a horse or mule)
+fs: 8
+hypo: get_rid_of 1
+
+w: unburden
+d: free or relieve (someone) of a burden
+fs: 18
+hypo: take
+
+w: unclothe
+d: strip
+e: unclothe your heart of envy
+fs: 18
+hypo: deprive 1
+
+w: underbid ant overbid
+d: bid too low
+fs: 2
+hypo: bid
+mt: noun.act:auction
+
+w: underbid 1 ant outbid
+d: bid lower than a competing bidder
+fs: 9
+hypo: bid
+mt: noun.act:auction
+
+w: underbid 2
+d: bid (a hand of cards) at less than the strength of the hand warrants
+fs: 8
+hypo: bid 1
+
+w: undercharge ant overcharge drf noun.possession:undercharge
+d: charge (someone) too little money
+fs: 9
+hypo: bill
+
+w: undercut
+w: undersell drf noun.person:underseller
+d: sell cheaper than one's competition
+fs: 9
+entail: discount
+hypo: sell
+
+w: underpay ant overpay drf noun.act:underpayment
+d: pay too little
+fs: 22 9
+hypo: pay
+
+w: underquote
+d: offer for sale at a price lower than the market price
+fs: 8
+hypo: price
+
+w: underspend ant overspend
+d: spend at less than the normal rate
+fs: 2
+hypo: drop
+
+w: underspend 1 ant overspend 1
+d: spend less than the whole of (a budget, for example)
+fs: 8
+hypo: spend 1
+
+w: understock ant overstock
+d: stock with less than the usual or desirable number or quantity
+fs: 8 2
+hypo: buy_in
+
+w: unearth 1
+d: bring to light
+e: The CIA unearthed a plot to kill the President
+fs: 8 9
+hypo: locate
+
+w: uniform drf noun.artifact:uniform
+d: provide with uniforms
+e: The guards were uniformed
+fs: 9
+hypo: furnish
+
+w: unmuzzle ant muzzle
+d: remove the muzzle from (a dog)
+fs: 8
+hypo: get_rid_of 1
+
+w: unsex
+d: deprive of sex or sexual powers
+fs: 10 9
+hypo: deprive 1
+
+w: upholster drf noun.act:upholstery drf noun.artifact:upholstery drf noun.person:upholsterer
+d: provide furniture with padding, springs, webbing, and covers
+fs: 8
+hypo: furnish
+mt: noun.act:cabinetry
+
+w: upload ant download
+d: transfer a file or program to a central computer from a smaller computer or a computer at a remote location
+fs: 8
+hypo: transfer 1
+
+w: vest 2
+d: place (authority, property, or rights) in the control of a person or group of persons
+e: She vested her vast fortune in her two sons
+fs: 8
+hypo: give
+vg: vest 3
+
+w: vest 3
+d: become legally vested
+e: The property vests in the trustees
+fs: 4
+hypo: change_hands
+vg: vest 2
+
+w: victual drf noun.food:victual
+d: lay in provisions
+e: The vessel victualled before the long voyage
+fs: 2 1
+hypo: hive_away
+
+w: victual 2 drf noun.food:victual drf noun.person:victualer 1 drf noun.person:victualer 2 drf noun.person:victualler 1 drf noun.person:victualler 2
+d: supply with food
+e: The population was victualed during the war
+fs: 8 9
+hypo: furnish
+
+w: vitaminise
+w: vitaminize drf noun.substance:vitamin
+d: add vitamins as a supplement
+e: vitaminized processed foods
+fs: 8
+hypo: supplement
+
+w: vouchsafe
+d: grant in a condescending manner
+fs: 8 14
+hypo: allow
+
+w: walk_off
+d: take without permission
+e: he walked off with my wife!
+e: The thief walked off with my gold watch
+fs: 22
+hypo: steal
+
+w: warehouse drf noun.act:warehousing drf noun.artifact:warehouse drf noun.person:warehouser
+d: store in a warehouse
+fs: 8
+hypo: store 2
+
+w: waste 1 drf noun.substance:waste
+d: get rid of
+e: We waste the dirty water by channeling it into the sewer
+fs: 8
+hypo: cast_aside
+
+w: water drf noun.person:waterer drf noun.person:waterer 1 drf noun.substance:water
+d: provide with water
+e: We watered the buffalo
+fs: 8
+hypo: furnish
+
+w: welcome drf noun.communication:welcome
+d: accept gladly
+e: I welcome your proposals
+fs: 9 8
+hypo: accept
+
+w: wharf drf noun.artifact:wharf
+d: store on a wharf
+e: Wharf the merchandise
+fs: 8
+hypo: store 2
+
+w: wharf 1 drf noun.artifact:wharf drf noun.artifact:wharfage
+d: provide with a wharf
+e: Wharf the mouth of the river
+fs: 8
+hypo: furnish
+
+w: wholesale ant retail drf noun.act:wholesale drf noun.person:wholesaler
+d: sell in large quantities
+fs: 8
+hypo: sell
+mt: noun.act:commerce
+
+w: window-shop
+d: examine the shop windows; shop with the eyes only
+fs: 22 2
+hypo: browse
+
+w: wire drf noun.artifact:wire 1 drf noun.artifact:wiring drf noun.person:wirer
+d: provide with electrical circuits
+e: wire the addition to the house
+fs: 8
+hyper: rewire
+hypo: equip
+
+w: wive
+d: provide with a wife; marry (someone) to a wife
+fs: 9
+hypo: furnish
+
+w: work_off
+d: cause to go away through effort or work
+e: work off the extra pounds you have gained over the holidays
+e: we must work off the debt
+fs: 8
+hypo: get_rid_of 1
+
+w: yield_up
+d: surrender, as a result of pressure or force
+fs: 8 9
+hypo: cede
+

@@ -1,0 +1,1589 @@
+noun.Tops
+
+w: absolute_space
+d: physical space independent of what occupies it
+hypo: infinite
+
+w: abstract_entity
+w: abstraction drf verb.cognition:abstract
+d: a general concept formed by extracting common features from specific examples
+hyper: amount
+hyper: attribute
+hyper: communication
+hyper: group
+hyper: psychological_feature
+hyper: relation
+hyper: noun.cognition:otherworld
+hyper: noun.group:set 2
+hypo: entity
+
+w: act drf verb.creation:actuate drf verb.creation:actuate 2 drf verb.social:act
+w: deed
+w: human_action
+w: human_activity
+d: something that people do or cause to happen
+hyper: noun.act:abidance 1
+hyper: noun.act:acquiring
+hyper: noun.act:action 2
+hyper: noun.act:activity
+hyper: noun.act:actuation
+hyper: noun.act:assessment
+hyper: noun.act:assumption 1
+hyper: noun.act:causation
+hyper: noun.act:delivery 2
+hyper: noun.act:departure
+hyper: noun.act:derivation
+hyper: noun.act:digging_up
+hyper: noun.act:discovery
+hyper: noun.act:disposal
+hyper: noun.act:distribution
+hyper: noun.act:effectuation
+hyper: noun.act:egress 1
+hyper: noun.act:equalisation
+hyper: noun.act:forfeit
+hyper: noun.act:group_action
+hyper: noun.act:hinderance
+hyper: noun.act:hire
+hyper: noun.act:inactivity
+hyper: noun.act:leaning
+hyper: noun.act:legitimation 1
+hyper: noun.act:mitsvah
+hyper: noun.act:motivating
+hyper: noun.act:nonaccomplishment
+hyper: noun.act:permissive_waste
+hyper: noun.act:proclamation
+hyper: noun.act:production
+hyper: noun.act:recovery
+hyper: noun.act:rejection
+hyper: noun.act:running_away
+hyper: noun.act:stay
+hyper: noun.act:stop
+hyper: noun.act:touch
+hyper: noun.act:wear
+hyper: noun.communication:communicating
+hyper: noun.communication:speech_act
+hypo: event
+
+w: amount drf verb.stative:amount 1
+w: measure drf verb.change:measure drf verb.cognition:measure drf verb.cognition:measure 1
+w: quantity
+d: how much there is or how many there are of something that you can quantify
+attr: adj.all:nonstandard 2
+attr: adj.all:standard 2
+hyper: noun.attribute:chance
+hyper: noun.cognition:quantum
+hyper: noun.possession:economic_value
+hyper: noun.quantity:cordage
+hyper: noun.quantity:definite_quantity
+hyper: noun.quantity:fundamental_measure
+hyper: noun.quantity:indefinite_quantity
+hyper: noun.quantity:magnetisation
+hyper: noun.quantity:metric
+hyper: noun.quantity:octane_number
+hyper: noun.quantity:proof
+hyper: noun.quantity:radical
+hyper: noun.quantity:relative_quantity
+hyper: noun.quantity:volume
+hyper: noun.quantity:volume 1
+hyper: noun.time:interval
+hyper: noun.time:period_of_play
+hyper: noun.time:point
+hyper: noun.time:time_unit
+hypo: abstract_entity
+
+w: animal drf verb.creation:animalise drf verb.creation:animalize
+w: animate_being
+w: beast drf adjs.all:beastly drf adjs.all:bestial
+w: brute
+w: creature drf verb.creation:create
+w: fauna
+d: a living organism characterized by voluntary movement
+dt: adj.all:gregarious
+dt: adj.all:insectivorous
+dt: adj.all:registered 2
+dt: adj.all:unregistered 2
+dt: adjs.all:adult
+dt: adjs.all:all-devouring
+dt: adjs.all:bone-covered
+dt: adjs.all:crested 1
+dt: adjs.all:epizootic
+dt: adjs.all:flesh-eating
+dt: adjs.all:free-swimming
+dt: adjs.all:half-blooded
+dt: adjs.all:hispid
+dt: adjs.all:phytophagic
+dt: adjs.all:social 2
+dt: noun.act:ritual_killing
+dt: noun.act:tracking
+dt: noun.animal:actinomycete
+dt: noun.animal:micro-organism
+dt: noun.artifact:trap
+dt: noun.attribute:humaneness
+dt: noun.body:body
+dt: noun.body:side
+dt: noun.cognition:nose
+dt: noun.food:diet 1
+dt: noun.object:transmitter
+dt: noun.person:sitter 1
+dt: noun.person:stander
+dt: noun.shape:wart
+dt: noun.state:schistosome_dermatitis
+dt: verb.change:bone
+dt: verb.change:domesticate
+dt: verb.change:domesticate 2
+dt: verb.consumption:drench
+dt: verb.contact:crop 10
+hm: noun.animal:Animalia
+hyper: noun.animal:acrodont
+hyper: noun.animal:adult
+hyper: noun.animal:biped
+hyper: noun.animal:chordate
+hyper: noun.animal:conceptus
+hyper: noun.animal:creepy-crawly
+hyper: noun.animal:critter
+hyper: noun.animal:darter
+hyper: noun.animal:domestic_animal
+hyper: noun.animal:ectotherm
+hyper: noun.animal:feeder 1
+hyper: noun.animal:female
+hyper: noun.animal:fictional_animal
+hyper: noun.animal:game
+hyper: noun.animal:giant
+hyper: noun.animal:herbivore
+hyper: noun.animal:hexapod
+hyper: noun.animal:homeotherm
+hyper: noun.animal:insectivore 2
+hyper: noun.animal:invertebrate
+hyper: noun.animal:larva
+hyper: noun.animal:male
+hyper: noun.animal:marine_animal
+hyper: noun.animal:metazoan
+hyper: noun.animal:migrator
+hyper: noun.animal:molter
+hyper: noun.animal:mutant
+hyper: noun.animal:offspring
+hyper: noun.animal:omnivore
+hyper: noun.animal:peeper
+hyper: noun.animal:pest
+hyper: noun.animal:pet
+hyper: noun.animal:pleurodont
+hyper: noun.animal:predator
+hyper: noun.animal:prey
+hyper: noun.animal:pureblood
+hyper: noun.animal:racer
+hyper: noun.animal:range_animal
+hyper: noun.animal:scavenger
+hyper: noun.animal:stayer
+hyper: noun.animal:stunt
+hyper: noun.animal:survivor
+hyper: noun.animal:varment
+hyper: noun.animal:work_animal
+hyper: noun.animal:zooplankton
+hyper: noun.person:captive 1
+hyper: noun.person:mate 1
+hypo: being
+mp: noun.body:caput
+mp: noun.body:face 1
+ms: noun.body:animal_tissue
+
+w: animate_thing
+w: living_thing
+d: a living (or once living) entity
+dt: adj.all:immature 3
+dt: noun.attribute:viability
+hyper: being
+hyper: biont
+hyper: cell
+hyper: life
+hypo: unit
+
+w: artefact drf adj.pert:artefactual
+w: artifact ant natural_object drf adj.pert:artifactual
+d: a man-made object taken as a whole
+hyper: article
+hyper: noun.act:facility 1
+hyper: noun.artifact:Americana
+hyper: noun.artifact:anachronism
+hyper: noun.artifact:antiquity
+hyper: noun.artifact:bed 4
+hyper: noun.artifact:block
+hyper: noun.artifact:button 3
+hyper: noun.artifact:cloth
+hyper: noun.artifact:commodity
+hyper: noun.artifact:cone
+hyper: noun.artifact:construction
+hyper: noun.artifact:covering
+hyper: noun.artifact:creation
+hyper: noun.artifact:cushioning
+hyper: noun.artifact:decker
+hyper: noun.artifact:decoration
+hyper: noun.artifact:duplicate 1
+hyper: noun.artifact:electroplate
+hyper: noun.artifact:excavation
+hyper: noun.artifact:facility
+hyper: noun.artifact:fixture
+hyper: noun.artifact:flat_solid
+hyper: noun.artifact:float
+hyper: noun.artifact:insert
+hyper: noun.artifact:instrumentality
+hyper: noun.artifact:lemon
+hyper: noun.artifact:line
+hyper: noun.artifact:marker
+hyper: noun.artifact:mystification
+hyper: noun.artifact:opening
+hyper: noun.artifact:plaything
+hyper: noun.artifact:ready-made
+hyper: noun.artifact:restoration
+hyper: noun.artifact:slip 3
+hyper: noun.artifact:sphere
+hyper: noun.artifact:square 1
+hyper: noun.artifact:squeaker
+hyper: noun.artifact:surface
+hyper: noun.artifact:thing
+hyper: noun.artifact:track 2
+hyper: noun.artifact:way
+hyper: noun.artifact:weight
+hyper: noun.substance:building_material
+hyper: noun.substance:pavement
+hypo: unit
+
+w: article
+d: one of a class of artifacts
+e: an article of clothing
+hyper: noun.artifact:article_of_commerce
+hyper: noun.artifact:breakable
+hyper: noun.artifact:knickknack 1
+hyper: noun.artifact:notion
+hyper: noun.artifact:ware
+hypo: artefact
+
+w: attribute
+d: an abstraction belonging to or characteristic of an entity
+hyper: form
+hyper: infinite
+hyper: state
+hyper: time
+hyper: noun.attribute:ballast
+hyper: noun.attribute:character
+hyper: noun.attribute:cheer
+hyper: noun.attribute:common_denominator
+hyper: noun.attribute:depth 2
+hyper: noun.attribute:eidos
+hyper: noun.attribute:ethos
+hyper: noun.attribute:heritage
+hyper: noun.attribute:human_nature
+hyper: noun.attribute:personality
+hyper: noun.attribute:property
+hyper: noun.attribute:quality
+hyper: noun.attribute:thing
+hyper: noun.attribute:trait
+hyper: noun.attribute:uncheerfulness
+hypo: abstract_entity
+
+w: being drf verb.stative:be 1
+w: organism drf adj.all:organic drf adj.all:organic 2 drf adj.pert:organismic
+d: a living thing that has (or can develop) the ability to act or function independently
+dt: adj.all:actinal
+dt: adj.all:cellular
+dt: adjs.all:bioluminescent
+dt: noun.body:fertilized_ovum
+dt: noun.body:parthenote
+dt: noun.cognition:organic_chemistry
+dt: noun.location:stratum
+dt: noun.process:metabolic_process
+dt: noun.process:morphogenesis
+hyper: animal
+hyper: benthos
+hyper: dwarf
+hyper: flora
+hyper: heterotroph
+hyper: individual
+hyper: native
+hyper: parent
+hyper: noun.animal:aerobe
+hyper: noun.animal:amphidiploid
+hyper: noun.animal:anaerobe
+hyper: noun.animal:animalcule
+hyper: noun.animal:carrier
+hyper: noun.animal:commensal
+hyper: noun.animal:congenator
+hyper: noun.animal:conspecific
+hyper: noun.animal:cross
+hyper: noun.animal:denizen
+hyper: noun.animal:diploid
+hyper: noun.animal:eucaryote
+hyper: noun.animal:haploid
+hyper: noun.animal:heteroploid
+hyper: noun.animal:host
+hyper: noun.animal:micro-organism
+hyper: noun.animal:myrmecophile
+hyper: noun.animal:nekton
+hyper: noun.animal:parasite
+hyper: noun.animal:plankton
+hyper: noun.animal:polymorph
+hyper: noun.animal:polyploid
+hyper: noun.animal:procaryote
+hyper: noun.animal:recombinant
+hyper: noun.animal:zooid
+hyper: noun.group:clon
+hyper: noun.person:atavist
+hyper: noun.person:individual
+hyper: noun.person:mascot
+hyper: noun.person:mutant
+hyper: noun.person:postdiluvian
+hyper: noun.person:sitter 1
+hyper: noun.person:stander
+hyper: noun.person:utterer 2
+hyper: noun.plant:fungus
+hyper: noun.plant:katharobe
+hyper: noun.plant:nonvascular_organism
+hyper: noun.plant:relict
+hyper: noun.plant:saprobe
+hyper: noun.plant:saprophyte
+hypo: animate_thing
+mp: cell
+mp: noun.body:body_part
+ms: noun.body:tissue
+
+w: benthos drf adj.pert:benthonic
+d: organisms (plants and animals) that live at or near the bottom of a sea
+hypo: being
+
+w: biont
+d: a discrete unit of living matter
+hypo: animate_thing
+
+w: causal_agency
+w: causal_agent
+w: cause drf adjs.all:causal drf verb.communication:cause drf verb.creation:cause
+d: any entity that produces an effect or is responsible for events or results
+hyper: individual
+hyper: noun.object:agent
+hyper: noun.person:catalyst
+hyper: noun.person:destiny
+hyper: noun.person:deus_ex_machina
+hyper: noun.person:first_cause
+hyper: noun.person:force
+hyper: noun.person:life_principle
+hyper: noun.person:manipulator
+hyper: noun.person:nature
+hyper: noun.person:occult
+hyper: noun.person:theurgy
+hyper: noun.phenomenon:engine
+hyper: noun.state:cause_of_death
+hyper: noun.state:danger 1
+hyper: noun.substance:agent
+hypo: physical_entity
+
+w: cell drf adj.all:cellular drf adj.pert:cellular
+d: (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals
+dt: adj.pert:totipotent
+hp: being
+hyper: noun.animal:blastomere
+hyper: noun.animal:flagellated_cell
+hyper: noun.animal:recombinant
+hyper: noun.body:Kupffer's_cell
+hyper: noun.body:Leydig's_cell
+hyper: noun.body:Sertoli's_cell
+hyper: noun.body:acaryote
+hyper: noun.body:beta_cell
+hyper: noun.body:blastema
+hyper: noun.body:embryonic_cell
+hyper: noun.body:fertilized_ovum
+hyper: noun.body:fiber
+hyper: noun.body:gametocyte
+hyper: noun.body:germ_cell
+hyper: noun.body:parthenote
+hyper: noun.body:polar_body
+hyper: noun.body:somatic_cell
+hyper: noun.plant:archespore
+hyper: noun.plant:arthrospore 1
+hyper: noun.plant:arthrospore 2
+hyper: noun.plant:daughter_cell
+hyper: noun.plant:mother_cell
+hyper: noun.plant:plant_cell
+hypo: animate_thing
+mp: noun.body:cell_membrane
+mp: noun.body:cell_nucleus
+mp: noun.body:cell_organ
+mp: noun.body:cytol
+mp: noun.body:energid
+mp: noun.body:vacuole
+mt: noun.cognition:biological_science
+
+w: cognition
+w: knowledge
+w: noesis drf adjs.all:noetic
+d: the psychological result of perception and learning and reasoning
+hyper: noun.cognition:ability
+hyper: noun.cognition:attitude
+hyper: noun.cognition:brain 1
+hyper: noun.cognition:cognitive_content
+hyper: noun.cognition:cognitive_factor
+hyper: noun.cognition:cognitive_operation
+hyper: noun.cognition:episteme
+hyper: noun.cognition:equivalent
+hyper: noun.cognition:general_knowledge
+hyper: noun.cognition:history 1
+hyper: noun.cognition:inability
+hyper: noun.cognition:information
+hyper: noun.cognition:lexicon
+hyper: noun.cognition:lexis
+hyper: noun.cognition:perception 3
+hyper: noun.cognition:place
+hyper: noun.cognition:practice
+hyper: noun.cognition:process 1
+hyper: noun.cognition:structure
+hypo: psychological_feature
+
+w: communication drf adjs.all:communicational drf verb.communication:communicate drf verb.communication:communicate 1 drf verb.communication:communicate 2 drf verb.communication:communicate 7 drf verb.communication:communicate 8 drf verb.possession:communicate 10
+d: something that is communicated by or to or between people or groups
+hyper: noun.act:publication 2
+hyper: noun.communication:anomalous_communication
+hyper: noun.communication:auditory_communication
+hyper: noun.communication:black_and_white
+hyper: noun.communication:contagion
+hyper: noun.communication:content
+hyper: noun.communication:didacticism
+hyper: noun.communication:display
+hyper: noun.communication:expressive_style
+hyper: noun.communication:indicant 1
+hyper: noun.communication:language
+hyper: noun.communication:message 1
+hyper: noun.communication:paralanguage
+hyper: noun.communication:phonation
+hyper: noun.communication:sign
+hyper: noun.communication:sign 3
+hyper: noun.communication:visual_communication
+hyper: noun.communication:voice 3
+hyper: noun.possession:document
+hypo: abstract_entity
+
+w: congener
+d: a whole (a thing or person) of the same kind or category as another
+e: lard was also used, though its congener, butter, was more frequently employed
+e: the American shopkeeper differs from his European congener
+hypo: unit
+
+w: dwarf
+d: a plant or animal that is atypically small
+hypo: being
+
+w: entity
+d: that which is perceived or known or inferred to have its own distinct existence (living or nonliving)
+hyper: abstract_entity
+hyper: physical_entity
+hyper: noun.artifact:thing 1
+
+w: event
+d: something that happens at a given place and time
+hyper: act
+hyper: noun.act:group_action
+hyper: noun.event:happening
+hyper: noun.event:make-up
+hyper: noun.event:might-have-been
+hyper: noun.event:migration 1
+hyper: noun.event:miracle 1
+hyper: noun.event:nonevent
+hyper: noun.event:social_event
+hyper: noun.event:zap
+hypo: psychological_feature
+ihypo: noun.event:Fall 3
+
+w: feeling drf verb.emotion:feel
+d: the experiencing of affective and emotional states
+e: she had a feeling of euphoria
+e: he had terrible feelings of guilt
+e: I disliked him and the feeling was mutual
+hyper: noun.feeling:affect
+hyper: noun.feeling:affection
+hyper: noun.feeling:agitation
+hyper: noun.feeling:amazement
+hyper: noun.feeling:ambivalence
+hyper: noun.feeling:apathy
+hyper: noun.feeling:bravery
+hyper: noun.feeling:calmness
+hyper: noun.feeling:complex
+hyper: noun.feeling:desire
+hyper: noun.feeling:despair
+hyper: noun.feeling:devastation
+hyper: noun.feeling:dislike
+hyper: noun.feeling:emotion
+hyper: noun.feeling:enthusiasm
+hyper: noun.feeling:expectation
+hyper: noun.feeling:faintness
+hyper: noun.feeling:fellow_feeling
+hyper: noun.feeling:glow
+hyper: noun.feeling:gratitude
+hyper: noun.feeling:gravity
+hyper: noun.feeling:happiness
+hyper: noun.feeling:hope
+hyper: noun.feeling:humbleness
+hyper: noun.feeling:humor
+hyper: noun.feeling:ingratitude
+hyper: noun.feeling:levity
+hyper: noun.feeling:liking
+hyper: noun.feeling:pain
+hyper: noun.feeling:pang
+hyper: noun.feeling:passion
+hyper: noun.feeling:pleasance
+hyper: noun.feeling:pride
+hyper: noun.feeling:sadness
+hyper: noun.feeling:sensitiveness
+hyper: noun.feeling:sentiment
+hyper: noun.feeling:sex
+hyper: noun.feeling:shame
+hyper: noun.feeling:soul
+hyper: noun.feeling:thing
+hyper: noun.feeling:unconcern
+hypo: state
+
+w: flora drf adj.pert:floral
+w: plant drf adj.pert:plantal drf noun.plant:plantlet drf verb.contact:plant
+w: plant_life
+d: (botany) a living organism lacking the power of locomotion
+dt: adj.all:acid-loving
+dt: adj.all:alkaline-loving
+dt: adj.all:amphitropous
+dt: adj.all:anatropous
+dt: adj.all:apocarpous
+dt: adj.all:campylotropous
+dt: adj.all:carnivorous
+dt: adj.all:deciduous
+dt: adj.all:dicotyledonous
+dt: adj.all:evergreen
+dt: adj.all:gregarious 1
+dt: adj.all:insectivorous
+dt: adj.all:monocotyledonous
+dt: adj.all:orthotropous
+dt: adj.all:syncarpous
+dt: adj.all:ungregarious 1
+dt: adjs.all:amentaceous
+dt: adjs.all:blanched 1
+dt: adjs.all:caespitose
+dt: adjs.all:clustered 1
+dt: adjs.all:endangered
+dt: adjs.all:epiphytotic
+dt: adjs.all:floccose
+dt: adjs.all:half-hardy
+dt: adjs.all:hispid
+dt: adjs.all:leggy 1
+dt: adjs.all:pappose
+dt: adjs.all:saprophytic
+dt: adjs.all:sedgy
+dt: adjs.all:tender 3
+dt: adjs.all:threatened
+dt: noun.act:botanical_medicine
+dt: noun.animal:micro-organism
+dt: noun.animal:parasite
+dt: noun.artifact:coca
+dt: noun.attribute:fugaciousness
+dt: noun.event:circulation
+dt: noun.group:botany
+dt: noun.plant:squamule
+dt: noun.process:nitrification
+dt: noun.process:perennation
+dt: noun.process:photosynthesis
+dt: noun.state:alder_blight
+dt: noun.substance:peroxidase
+dt: noun.substance:tenderiser
+dt: verb.body:propagate 1
+dt: verb.change:accrete
+dt: verb.change:bruise
+dt: verb.change:cultivate 1
+dt: verb.change:etiolate
+dt: verb.contact:deaden 3
+hm: noun.plant:Plantae
+hyper: noun.animal:phytoplankton
+hyper: noun.plant:acrogen
+hyper: noun.plant:aerophyte
+hyper: noun.plant:annual
+hyper: noun.plant:apomict
+hyper: noun.plant:aquatic
+hyper: noun.plant:autophyte
+hyper: noun.plant:biennial
+hyper: noun.plant:crop 1
+hyper: noun.plant:cryptogam
+hyper: noun.plant:embryo
+hyper: noun.plant:endemic
+hyper: noun.plant:escape
+hyper: noun.plant:gametophyte
+hyper: noun.plant:garden_plant
+hyper: noun.plant:holophyte
+hyper: noun.plant:houseplant
+hyper: noun.plant:hygrophyte
+hyper: noun.plant:microflora
+hyper: noun.plant:monocarp
+hyper: noun.plant:myrmecophyte
+hyper: noun.plant:neophyte
+hyper: noun.plant:non-flowering_plant
+hyper: noun.plant:ornamental
+hyper: noun.plant:perennial
+hyper: noun.plant:plantlet
+hyper: noun.plant:poisonous_plant
+hyper: noun.plant:pot_plant
+hyper: noun.plant:rock_plant
+hyper: noun.plant:sporophyte
+hyper: noun.plant:tracheophyte
+hyper: noun.plant:wilding
+hypo: being
+mp: noun.object:cap
+mp: noun.plant:plant_part
+mt: noun.cognition:botany
+
+w: food
+w: nutrient drf adjs.all:nutrient drf verb.consumption:nutrify
+d: any substance that can be metabolized by an animal to give energy and build tissue
+hyper: noun.animal:vitellus
+hyper: noun.food:aliment
+hyper: noun.food:beverage
+hyper: noun.food:comestible
+hyper: noun.food:comfort_food
+hyper: noun.food:commissariat
+hyper: noun.food:fare
+hyper: noun.food:feed
+hyper: noun.food:food_product
+hyper: noun.food:manna
+hyper: noun.food:soul_food
+hyper: noun.food:water
+hyper: noun.substance:chyme
+hyper: noun.substance:culture_medium
+hyper: noun.substance:micronutrient
+hypo: substance 1
+mp: noun.food:food
+
+w: form
+w: shape
+d: the spatial arrangement of something as distinct from its substance
+e: geometry is the mathematical science of shape
+hyper: noun.shape:amorphous_shape
+hyper: noun.shape:angular_shape
+hyper: noun.shape:circle 1
+hyper: noun.shape:column 2
+hyper: noun.shape:connection
+hyper: noun.shape:distorted_shape
+hyper: noun.shape:figure
+hyper: noun.shape:flair
+hyper: noun.shape:line
+hyper: noun.shape:natural_shape
+hyper: noun.shape:plane
+hyper: noun.shape:plume
+hyper: noun.shape:round_shape
+hyper: noun.shape:solid
+hyper: noun.shape:square 1
+hyper: noun.shape:triangle 1
+hypo: attribute
+
+w: group drf verb.cognition:group drf verb.competition:group
+w: grouping
+d: any number of entities (members) considered as a unit
+hyper: noun.animal:human_beings
+hyper: noun.group:accumulation
+hyper: noun.group:arrangement
+hyper: noun.group:association 1
+hyper: noun.group:biological_group
+hyper: noun.group:biotic_community
+hyper: noun.group:circuit
+hyper: noun.group:citizenry
+hyper: noun.group:cloud
+hyper: noun.group:edition
+hyper: noun.group:electron_shell
+hyper: noun.group:ethnic_group
+hyper: noun.group:hoi_polloi
+hyper: noun.group:kingdom
+hyper: noun.group:people
+hyper: noun.group:population 1
+hyper: noun.group:race
+hyper: noun.group:sainthood
+hyper: noun.group:scheme
+hyper: noun.group:series 1
+hyper: noun.group:social_group
+hyper: noun.group:straggle
+hyper: noun.group:subgroup
+hyper: noun.group:varna
+hyper: noun.substance:actinide
+hyper: noun.substance:halogen
+hyper: noun.substance:lanthanide
+hypo: abstract_entity
+ihypo: noun.object:Great_Lakes
+
+w: heterotroph
+d: an organism that depends on complex organic substances for nutrition
+hypo: being
+
+w: individual drf verb.change:individualize
+w: mortal drf adj.all:mortal
+w: person drf noun.attribute:personhood drf verb.cognition:personify
+w: somebody
+w: someone
+w: soul
+d: a human being
+e: there was too much for one person to do
+hm: noun.group:people
+hyper: noun.person:African
+hyper: noun.person:Amerindian
+hyper: noun.person:Aquarius
+hyper: noun.person:Archer 1
+hyper: noun.person:Aries
+hyper: noun.person:Balance
+hyper: noun.person:Black
+hyper: noun.person:Bull 3
+hyper: noun.person:Cancer
+hyper: noun.person:Capricorn
+hyper: noun.person:Caucasian
+hyper: noun.person:Elizabethan
+hyper: noun.person:Fish
+hyper: noun.person:Gemini
+hyper: noun.person:Hebrew
+hyper: noun.person:Jat
+hyper: noun.person:Latin
+hyper: noun.person:Leo
+hyper: noun.person:Scorpio
+hyper: noun.person:Slav
+hyper: noun.person:Victorian
+hyper: noun.person:Virgin 1
+hyper: noun.person:abator
+hyper: noun.person:abjurer
+hyper: noun.person:abomination
+hyper: noun.person:aboriginal 1
+hyper: noun.person:abstainer
+hyper: noun.person:achiever
+hyper: noun.person:acquaintance
+hyper: noun.person:acquirer
+hyper: noun.person:active
+hyper: noun.person:actor 1
+hyper: noun.person:adjudicator
+hyper: noun.person:admirer 2
+hyper: noun.person:adoptee
+hyper: noun.person:adult
+hyper: noun.person:adventurer
+hyper: noun.person:adventurer 1
+hyper: noun.person:adversary
+hyper: noun.person:advisee
+hyper: noun.person:advocate
+hyper: noun.person:affiant
+hyper: noun.person:aggregator
+hyper: noun.person:agnostic 1
+hyper: noun.person:allayer
+hyper: noun.person:amateur
+hyper: noun.person:ancient
+hyper: noun.person:anomaly
+hyper: noun.person:anti
+hyper: noun.person:anti-American
+hyper: noun.person:ape 1
+hyper: noun.person:applicant
+hyper: noun.person:applied_scientist
+hyper: noun.person:appointee 1
+hyper: noun.person:appreciator
+hyper: noun.person:apprehender
+hyper: noun.person:apprehender 1
+hyper: noun.person:archaist 1
+hyper: noun.person:arrogator
+hyper: noun.person:assessee
+hyper: noun.person:assimilator
+hyper: noun.person:asthmatic
+hyper: noun.person:attempter
+hyper: noun.person:authority 1
+hyper: noun.person:autodidact
+hyper: noun.person:baby 3
+hyper: noun.person:baby_boomer
+hyper: noun.person:baby_buster
+hyper: noun.person:bad_guy
+hyper: noun.person:bad_person
+hyper: noun.person:baldhead
+hyper: noun.person:balker
+hyper: noun.person:bather 1
+hyper: noun.person:battler
+hyper: noun.person:beard
+hyper: noun.person:bedfellow
+hyper: noun.person:beguiler
+hyper: noun.person:beholder
+hyper: noun.person:bereaved
+hyper: noun.person:best
+hyper: noun.person:birth
+hyper: noun.person:biter
+hyper: noun.person:blogger
+hyper: noun.person:blond
+hyper: noun.person:bluecoat
+hyper: noun.person:bodybuilder
+hyper: noun.person:bomber
+hyper: noun.person:brunet
+hyper: noun.person:bullfighter
+hyper: noun.person:buster
+hyper: noun.person:candidate
+hyper: noun.person:capitalist
+hyper: noun.person:captor
+hyper: noun.person:carrottop
+hyper: noun.person:case 2
+hyper: noun.person:case 3
+hyper: noun.person:cashier 1
+hyper: noun.person:celebrant 1
+hyper: noun.person:censor 1
+hyper: noun.person:chameleon
+hyper: noun.person:changer
+hyper: noun.person:chooser
+hyper: noun.person:chutzpanik
+hyper: noun.person:closer 1
+hyper: noun.person:cloud_seeder
+hyper: noun.person:clumsy_person 1
+hyper: noun.person:coddler
+hyper: noun.person:color-blind_person
+hyper: noun.person:common_man
+hyper: noun.person:communicator
+hyper: noun.person:compeer
+hyper: noun.person:complexifier
+hyper: noun.person:compulsive
+hyper: noun.person:computer_user
+hyper: noun.person:contemplative
+hyper: noun.person:contestant
+hyper: noun.person:contestant 1
+hyper: noun.person:contriver
+hyper: noun.person:controller 1
+hyper: noun.person:controversialist
+hyper: noun.person:convert
+hyper: noun.person:counter
+hyper: noun.person:counterterrorist
+hyper: noun.person:coward
+hyper: noun.person:crawler 1
+hyper: noun.person:creator
+hyper: noun.person:creature 1
+hyper: noun.person:creditor
+hyper: noun.person:cripple
+hyper: noun.person:cross-dresser
+hyper: noun.person:dancer 1
+hyper: noun.person:dead_person
+hyper: noun.person:deaf_person
+hyper: noun.person:debaser
+hyper: noun.person:debitor
+hyper: noun.person:defecator
+hyper: noun.person:delayer
+hyper: noun.person:deliverer 1
+hyper: noun.person:demander
+hyper: noun.person:denizen
+hyper: noun.person:dieter
+hyper: noun.person:differentiator
+hyper: noun.person:disentangler
+hyper: noun.person:divider
+hyper: noun.person:domestic_partner
+hyper: noun.person:doormat
+hyper: noun.person:double
+hyper: noun.person:dresser 1
+hyper: noun.person:dribbler
+hyper: noun.person:drug_user
+hyper: noun.person:dupe
+hyper: noun.person:dyslectic
+hyper: noun.person:ectomorph
+hyper: noun.person:effecter
+hyper: noun.person:ejector
+hyper: noun.person:emotional_person
+hyper: noun.person:endomorph
+hyper: noun.person:enjoyer
+hyper: noun.person:enrollee
+hyper: noun.person:entertainer
+hyper: noun.person:ethnic
+hyper: noun.person:excuser
+hyper: noun.person:expectorator
+hyper: noun.person:experimenter 1
+hyper: noun.person:expert
+hyper: noun.person:extravert
+hyper: noun.person:face
+hyper: noun.person:faddist
+hyper: noun.person:faller
+hyper: noun.person:fastener
+hyper: noun.person:female
+hyper: noun.person:fiduciary
+hyper: noun.person:first-rater
+hyper: noun.person:fleer
+hyper: noun.person:follower
+hyper: noun.person:forerunner
+hyper: noun.person:free_agent
+hyper: noun.person:friend
+hyper: noun.person:gainer
+hyper: noun.person:gainer 1
+hyper: noun.person:gambler
+hyper: noun.person:gatekeeper 1
+hyper: noun.person:gatherer 1
+hyper: noun.person:gay
+hyper: noun.person:gem
+hyper: noun.person:gentile 2
+hyper: noun.person:good_guy
+hyper: noun.person:good_person
+hyper: noun.person:granter
+hyper: noun.person:greeter
+hyper: noun.person:grinner
+hyper: noun.person:groaner
+hyper: noun.person:grunter
+hyper: noun.person:guesser
+hyper: noun.person:handicapped_person
+hyper: noun.person:hater
+hyper: noun.person:have
+hyper: noun.person:heterosexual
+hyper: noun.person:homunculus 1
+hyper: noun.person:hope
+hyper: noun.person:hoper
+hyper: noun.person:huddler 1
+hyper: noun.person:hugger
+hyper: noun.person:immune
+hyper: noun.person:individualist
+hyper: noun.person:inexperienced_person
+hyper: noun.person:insured
+hyper: noun.person:intellect
+hyper: noun.person:interpreter 2
+hyper: noun.person:introvert
+hyper: noun.person:jumper 2
+hyper: noun.person:junior
+hyper: noun.person:juvenile
+hyper: noun.person:killer
+hyper: noun.person:kink
+hyper: noun.person:kneeler
+hyper: noun.person:knocker 1
+hyper: noun.person:ladino
+hyper: noun.person:large_person
+hyper: noun.person:laugher
+hyper: noun.person:leader
+hyper: noun.person:left-hander
+hyper: noun.person:life
+hyper: noun.person:lightning_rod
+hyper: noun.person:linguist
+hyper: noun.person:literate
+hyper: noun.person:liver 1
+hyper: noun.person:longer
+hyper: noun.person:loose_cannon
+hyper: noun.person:loved_one
+hyper: noun.person:lover
+hyper: noun.person:machine
+hyper: noun.person:mailer
+hyper: noun.person:maimer
+hyper: noun.person:malcontent
+hyper: noun.person:male
+hyper: noun.person:man 4
+hyper: noun.person:man_jack
+hyper: noun.person:manipulator 1
+hyper: noun.person:married
+hyper: noun.person:masturbator
+hyper: noun.person:measurer
+hyper: noun.person:mediocrity
+hyper: noun.person:mesomorph
+hyper: noun.person:middlebrow
+hyper: noun.person:miracle_man
+hyper: noun.person:misogamist
+hyper: noun.person:mixed-blood
+hyper: noun.person:modern
+hyper: noun.person:money_dealer
+hyper: noun.person:monolingual
+hyper: noun.person:mother_hen
+hyper: noun.person:mouse
+hyper: noun.person:mover_and_shaker
+hyper: noun.person:namer
+hyper: noun.person:namesake
+hyper: noun.person:national
+hyper: noun.person:native 1
+hyper: noun.person:needer
+hyper: noun.person:neglecter
+hyper: noun.person:neighbor
+hyper: noun.person:neutral
+hyper: noun.person:nondescript
+hyper: noun.person:nonmember
+hyper: noun.person:nonparticipant
+hyper: noun.person:nonpartisan
+hyper: noun.person:nonperson
+hyper: noun.person:nonreligious_person
+hyper: noun.person:nonresident
+hyper: noun.person:nonsmoker
+hyper: noun.person:nonworker
+hyper: noun.person:nude
+hyper: noun.person:nurser
+hyper: noun.person:occultist
+hyper: noun.person:opener
+hyper: noun.person:optimist
+hyper: noun.person:orphan 1
+hyper: noun.person:ostrich
+hyper: noun.person:outcaste
+hyper: noun.person:outdoorsman
+hyper: noun.person:owner 2
+hyper: noun.person:pansexual
+hyper: noun.person:partner 2
+hyper: noun.person:party
+hyper: noun.person:passer 3
+hyper: noun.person:percher
+hyper: noun.person:person_of_color
+hyper: noun.person:persona_non_grata
+hyper: noun.person:personage
+hyper: noun.person:personification
+hyper: noun.person:perspirer
+hyper: noun.person:philosopher 1
+hyper: noun.person:pisser
+hyper: noun.person:player 4
+hyper: noun.person:posturer
+hyper: noun.person:powderer
+hyper: noun.person:preserver 1
+hyper: noun.person:primitive
+hyper: noun.person:propositus
+hyper: noun.person:public_relations_person
+hyper: noun.person:pursuer 1
+hyper: noun.person:pussycat
+hyper: noun.person:quarter
+hyper: noun.person:quester
+hyper: noun.person:quitter
+hyper: noun.person:radical 1
+hyper: noun.person:realist 2
+hyper: noun.person:recoverer
+hyper: noun.person:rectifier
+hyper: noun.person:registrant
+hyper: noun.person:relation
+hyper: noun.person:religious_person
+hyper: noun.person:repeater
+hyper: noun.person:rester
+hyper: noun.person:revenant 1
+hyper: noun.person:right-hander
+hyper: noun.person:riser
+hyper: noun.person:romanticist 1
+hyper: noun.person:romper
+hyper: noun.person:roundhead
+hyper: noun.person:ruler
+hyper: noun.person:rusher
+hyper: noun.person:scientist
+hyper: noun.person:scourge
+hyper: noun.person:scrag
+hyper: noun.person:scratcher
+hyper: noun.person:segregate
+hyper: noun.person:self
+hyper: noun.person:sensualist
+hyper: noun.person:sex_object
+hyper: noun.person:sex_symbol
+hyper: noun.person:showman 1
+hyper: noun.person:signatory
+hyper: noun.person:simple
+hyper: noun.person:six-footer
+hyper: noun.person:skidder 1
+hyper: noun.person:slave
+hyper: noun.person:slave 2
+hyper: noun.person:sleepyhead
+hyper: noun.person:sloucher
+hyper: noun.person:small_person
+hyper: noun.person:smasher 1
+hyper: noun.person:smiler
+hyper: noun.person:smotherer
+hyper: noun.person:sneezer
+hyper: noun.person:sniffer
+hyper: noun.person:sniffler
+hyper: noun.person:snuffer 1
+hyper: noun.person:snuffler
+hyper: noun.person:socialiser
+hyper: noun.person:sort
+hyper: noun.person:sounding_board
+hyper: noun.person:sphinx 2
+hyper: noun.person:sport 2
+hyper: noun.person:sprawler
+hyper: noun.person:spurner
+hyper: noun.person:squint-eye
+hyper: noun.person:squirmer
+hyper: noun.person:stigmatic
+hyper: noun.person:stooper
+hyper: noun.person:stranger 1
+hyper: noun.person:struggler
+hyper: noun.person:supernumerary 1
+hyper: noun.person:surrenderer
+hyper: noun.person:survivalist
+hyper: noun.person:survivor 2
+hyper: noun.person:suspect
+hyper: noun.person:tagger
+hyper: noun.person:tagger 1
+hyper: noun.person:tapper 4
+hyper: noun.person:tempter
+hyper: noun.person:termer
+hyper: noun.person:testate
+hyper: noun.person:third-rater
+hyper: noun.person:thrower
+hyper: noun.person:tiger
+hyper: noun.person:totemist
+hyper: noun.person:toucher
+hyper: noun.person:transexual
+hyper: noun.person:transfer
+hyper: noun.person:traveler
+hyper: noun.person:turner
+hyper: noun.person:tyrant 1
+hyper: noun.person:unfortunate
+hyper: noun.person:unskilled_person
+hyper: noun.person:user
+hyper: noun.person:vanisher
+hyper: noun.person:visionary 1
+hyper: noun.person:visually_impaired_person
+hyper: noun.person:waiter 1
+hyper: noun.person:waker
+hyper: noun.person:walk-in 1
+hyper: noun.person:ward
+hyper: noun.person:warrior
+hyper: noun.person:watcher 3
+hyper: noun.person:weasel
+hyper: noun.person:winker
+hyper: noun.person:withholder 1
+hyper: noun.person:witness 3
+hyper: noun.person:worker
+hyper: noun.person:worldling
+hyper: noun.person:yawner
+hypo: being
+hypo: causal_agency
+mp: noun.attribute:personality
+mp: noun.body:anatomy
+
+w: infinite
+w: space drf adj.pert:spacial drf adj.pert:spatial
+d: the unlimited expanse in which everything is located
+e: they tested his ability to locate objects in space
+e: the boundless regions of the infinite
+hyper: absolute_space
+hyper: phase_space
+hyper: noun.group:mathematical_space
+hyper: noun.location:outer_space
+hypo: attribute
+mp: location
+mp: noun.location:aerospace
+
+w: life
+d: living things collectively
+e: the oceans are teeming with life
+hyper: noun.group:wildlife
+hypo: animate_thing
+
+w: location drf verb.change:locate drf verb.possession:locate drf verb.possession:locate 1 drf verb.stative:locate
+d: a point or extent in space
+hp: infinite
+hyper: noun.location:Earth
+hyper: noun.location:base 1
+hyper: noun.location:bilocation
+hyper: noun.location:east 2
+hyper: noun.location:here
+hyper: noun.location:home 2
+hyper: noun.location:jungle
+hyper: noun.location:line
+hyper: noun.location:north
+hyper: noun.location:northeast 1
+hyper: noun.location:northwest 1
+hyper: noun.location:outer_space
+hyper: noun.location:part
+hyper: noun.location:point
+hyper: noun.location:region 1
+hyper: noun.location:seat 2
+hyper: noun.location:sodom 1
+hyper: noun.location:somewhere
+hyper: noun.location:south 2
+hyper: noun.location:southeast 1
+hyper: noun.location:southwest 1
+hyper: noun.location:there
+hyper: noun.location:west 2
+hyper: noun.location:whereabouts
+hyper: noun.object:mountain_pass
+hyper: noun.shape:space
+hypo: object
+
+w: matter
+d: that which has mass and occupies space
+e: physicists study both the nature of matter and the forces which govern it
+hyper: substance
+hyper: substance 1
+hyper: noun.object:deposit
+hyper: noun.substance:antimatter
+hyper: noun.substance:dark_matter
+hyper: noun.substance:emanation
+hyper: noun.substance:fluid
+hyper: noun.substance:glop
+hyper: noun.substance:goo
+hyper: noun.substance:residue
+hyper: noun.substance:solid 4
+hyper: noun.substance:solute
+hyper: noun.substance:system
+hyper: noun.substance:vegetable_matter
+hyper: noun.substance:ylem
+hypo: physical_entity
+
+w: motivation drf adj.pert:motivational drf verb.creation:motivate
+w: motive drf adjs.all:motive drf verb.creation:motivate
+w: need
+d: the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior
+e: we did not understand his motivation
+e: he acted with the best of motives
+hyper: noun.motive:ethical_motive
+hyper: noun.motive:impulse
+hyper: noun.motive:irrational_motive
+hyper: noun.motive:life
+hyper: noun.motive:mental_energy
+hyper: noun.motive:rational_motive
+hypo: psychological_feature
+
+w: native
+d: indigenous plants and animals
+hypo: being
+
+w: natural_object ant artifact
+d: an object occurring naturally; not made by man
+hyper: noun.animal:cocoon
+hyper: noun.body:body
+hyper: noun.body:body 2
+hyper: noun.object:asterism
+hyper: noun.object:black_body
+hyper: noun.object:body
+hyper: noun.object:carpet
+hyper: noun.object:celestial_body
+hyper: noun.object:consolidation
+hyper: noun.object:constellation
+hyper: noun.object:cosmos
+hyper: noun.object:cover
+hyper: noun.object:estraterrestrial_body
+hyper: noun.object:mechanism
+hyper: noun.object:nest
+hyper: noun.object:radiator
+hyper: noun.object:rock 1
+hyper: noun.object:sample
+hyper: noun.object:tangle
+hyper: noun.plant:plant_part
+hypo: unit
+
+w: nutrient 1
+d: any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis
+hyper: noun.food:water
+hypo: substance 1
+
+w: object drf verb.change:objectify 1
+w: physical_object
+d: a tangible and visible entity; an entity that can cast a shadow
+e: it was full of rackets, balls and other objects
+hyper: location
+hyper: unit
+hyper: noun.artifact:charm
+hyper: noun.artifact:curio
+hyper: noun.artifact:draw 1
+hyper: noun.artifact:filler 1
+hyper: noun.artifact:film
+hyper: noun.artifact:hoodoo 2
+hyper: noun.artifact:je_ne_sais_quoi
+hyper: noun.artifact:keepsake
+hyper: noun.artifact:part
+hyper: noun.artifact:prop 2
+hyper: noun.artifact:small_beer
+hyper: noun.artifact:snake
+hyper: noun.artifact:stuff
+hyper: noun.food:paring
+hyper: noun.object:catch
+hyper: noun.object:commemorative
+hyper: noun.object:discard
+hyper: noun.object:dry_land
+hyper: noun.object:finding
+hyper: noun.object:floater
+hyper: noun.object:fomite
+hyper: noun.object:formation
+hyper: noun.object:ground 1
+hyper: noun.object:growth
+hyper: noun.object:hail
+hyper: noun.object:head 1
+hyper: noun.object:ice
+hyper: noun.object:moon 2
+hyper: noun.object:neighbor
+hyper: noun.object:remains
+hyper: noun.object:ribbon
+hyper: noun.object:shiner
+hyper: noun.object:vagabond
+hyper: noun.object:wall
+hyper: noun.object:web
+hypo: physical_entity
+
+w: parent
+d: an organism (plant or animal) from which younger ones are obtained
+hypo: being
+
+w: phase_space
+d: (physics) an ideal space in which the coordinate dimensions represent the variables that are required to describe a system or substance
+e: a multidimensional phase space
+hyper: noun.cognition:dynamical_system
+hypo: infinite
+mt: noun.cognition:natural_philosophy
+
+w: phenomenon
+d: any state or process known through the senses rather than by intuition or reasoning
+hyper: noun.phenomenon:chance
+hyper: noun.phenomenon:consequence
+hyper: noun.phenomenon:fortune 1
+hyper: noun.phenomenon:levitation
+hyper: noun.phenomenon:metempsychosis
+hyper: noun.phenomenon:natural_phenomenon
+hyper: noun.phenomenon:pulsation
+hypo: physical_process
+
+w: physical_entity
+d: an entity that has physical existence
+hyper: causal_agency
+hyper: matter
+hyper: object
+hyper: physical_process
+hyper: thing
+hyper: noun.substance:substance
+hypo: entity
+
+w: physical_process
+w: process
+d: a sustained phenomenon or one marked by gradual changes through a series of states
+e: events now in process
+e: the process of calcification begins later for boys than for girls
+hyper: phenomenon
+hyper: noun.process:action
+hyper: noun.process:biological_process
+hyper: noun.process:chelation 2
+hyper: noun.process:dealignment
+hyper: noun.process:decrease
+hyper: noun.process:defining
+hyper: noun.process:degeneration
+hyper: noun.process:development 2
+hyper: noun.process:economic_process
+hyper: noun.process:encapsulation
+hyper: noun.process:execution
+hyper: noun.process:functioning
+hyper: noun.process:growth 2
+hyper: noun.process:human_process
+hyper: noun.process:industrial_process
+hyper: noun.process:irreversible_process
+hyper: noun.process:iteration
+hyper: noun.process:iteration 1
+hyper: noun.process:photography
+hyper: noun.process:processing
+hyper: noun.process:reversible_process
+hyper: noun.process:sensitisation
+hyper: noun.process:variation
+hypo: physical_entity
+
+w: possession
+d: anything owned or possessed
+hyper: noun.possession:assets
+hyper: noun.possession:belongings
+hyper: noun.possession:circumstances
+hyper: noun.possession:liabilities
+hyper: noun.possession:transferred_possession
+hyper: noun.possession:treasure 1
+hyper: noun.possession:white_elephant
+hypo: relation
+
+w: psychological_feature
+d: a feature of the mental life of a living organism
+hyper: cognition
+hyper: event
+hyper: motivation
+hypo: abstract_entity
+
+w: relation drf noun.relation:relationship drf noun.relation:relationship 1 drf noun.state:relationship drf verb.cognition:relate drf verb.stative:relate 1
+d: an abstraction belonging to or characteristic of two entities or parts together
+hyper: possession
+hyper: social_relation
+hyper: noun.attribute:position
+hyper: noun.possession:ownership
+hyper: noun.relation:affinity 3
+hyper: noun.relation:association
+hyper: noun.relation:business_relation
+hyper: noun.relation:causality
+hyper: noun.relation:change
+hyper: noun.relation:comparison
+hyper: noun.relation:component
+hyper: noun.relation:connectedness
+hyper: noun.relation:control
+hyper: noun.relation:family_relationship
+hyper: noun.relation:foundation
+hyper: noun.relation:function 1
+hyper: noun.relation:human_relationship
+hyper: noun.relation:interrelatedness
+hyper: noun.relation:linguistic_relation
+hyper: noun.relation:logical_relation
+hyper: noun.relation:magnitude_relation
+hyper: noun.relation:mathematical_relation
+hyper: noun.relation:oppositeness
+hyper: noun.relation:reciprocality
+hyper: noun.relation:temporal_relation
+hyper: noun.relation:unconnectedness
+hypo: abstract_entity
+
+w: social_relation
+d: a relation between living organisms (especially between people)
+hyper: noun.relation:alchemy
+hyper: noun.relation:dealings
+hyper: noun.relation:political_relation
+hyper: noun.relation:professional_relation
+hypo: relation
+
+w: state
+d: the way something is with respect to its main attributes
+e: the current state of knowledge
+e: his state of health
+e: in a weak financial state
+hyper: feeling
+hyper: noun.cognition:skillfulness
+hyper: noun.state:action
+hyper: noun.state:agency
+hyper: noun.state:annulment
+hyper: noun.state:antagonism
+hyper: noun.state:being
+hyper: noun.state:cleavage
+hyper: noun.state:condition
+hyper: noun.state:condition 1
+hyper: noun.state:conditionality
+hyper: noun.state:conflict
+hyper: noun.state:damnation
+hyper: noun.state:dead_letter
+hyper: noun.state:death
+hyper: noun.state:death 1
+hyper: noun.state:degree 1
+hyper: noun.state:dependance
+hyper: noun.state:disorder
+hyper: noun.state:dystopia
+hyper: noun.state:employ
+hyper: noun.state:enlargement
+hyper: noun.state:flawlessness
+hyper: noun.state:flux 1
+hyper: noun.state:forthcomingness
+hyper: noun.state:freedom
+hyper: noun.state:grace
+hyper: noun.state:ground_state
+hyper: noun.state:heterozygosity
+hyper: noun.state:homozygosity
+hyper: noun.state:illumination
+hyper: noun.state:immatureness
+hyper: noun.state:imperfection
+hyper: noun.state:inaction
+hyper: noun.state:integrity
+hyper: noun.state:isomerism
+hyper: noun.state:kalemia
+hyper: noun.state:lifelessness
+hyper: noun.state:matureness
+hyper: noun.state:medium
+hyper: noun.state:merchantability
+hyper: noun.state:motion
+hyper: noun.state:multivalence
+hyper: noun.state:nationhood
+hyper: noun.state:natural_state
+hyper: noun.state:neotony
+hyper: noun.state:nonbeing
+hyper: noun.state:obligation
+hyper: noun.state:office
+hyper: noun.state:omnipotence
+hyper: noun.state:omniscience
+hyper: noun.state:order
+hyper: noun.state:ornamentation
+hyper: noun.state:ownership
+hyper: noun.state:paternity
+hyper: noun.state:plurality
+hyper: noun.state:polyvalence 1
+hyper: noun.state:position
+hyper: noun.state:preparation
+hyper: noun.state:receivership
+hyper: noun.state:relationship
+hyper: noun.state:relationship 1
+hyper: noun.state:separation
+hyper: noun.state:situation
+hyper: noun.state:temporary_state
+hyper: noun.state:tribalism
+hyper: noun.state:turgor
+hyper: noun.state:unemployment
+hyper: noun.state:unification
+hyper: noun.state:utilization
+hyper: noun.state:utopia
+hypo: attribute
+
+w: substance drf adj.all:substantial
+d: the real physical matter of which a person or thing consists
+e: DNA is the substance of our genes
+hyper: noun.body:body_substance
+hyper: noun.body:living_substance
+hyper: noun.substance:activator
+hyper: noun.substance:atom
+hyper: noun.substance:chemical_element
+hyper: noun.substance:chemistry
+hyper: noun.substance:element 1
+hyper: noun.substance:essence
+hyper: noun.substance:fluid 2
+hyper: noun.substance:material
+hyper: noun.substance:medium 1
+hyper: noun.substance:medium 3
+hyper: noun.substance:mixture
+hyper: noun.substance:phlogiston
+hyper: noun.substance:substrate
+hyper: noun.substance:volatile
+hypo: matter
+hypo: noun.relation:component
+
+w: substance 1
+d: a particular kind or species of matter with uniform properties
+e: shigella is one of the most toxic substances known to man
+hyper: food
+hyper: nutrient 1
+hyper: noun.substance:adulterant
+hyper: noun.substance:agent
+hyper: noun.substance:allergen
+hyper: noun.substance:antigen
+hyper: noun.substance:assay
+hyper: noun.substance:carcinogen
+hyper: noun.substance:chemical_irritant
+hyper: noun.substance:denaturant
+hyper: noun.substance:digestive
+hyper: noun.substance:elixir 1
+hyper: noun.substance:ferment
+hyper: noun.substance:fomentation
+hyper: noun.substance:fuel
+hyper: noun.substance:humectant
+hyper: noun.substance:hydrocolloid
+hyper: noun.substance:inhibitor
+hyper: noun.substance:inoculant
+hyper: noun.substance:jelly
+hyper: noun.substance:leaven
+hyper: noun.substance:ligand
+hyper: noun.substance:lube
+hyper: noun.substance:lysin
+hyper: noun.substance:metabolite
+hyper: noun.substance:poison
+hyper: noun.substance:propellant
+hyper: noun.substance:pyrectic
+hyper: noun.substance:pyrogen 1
+hyper: noun.substance:refrigerant
+hyper: noun.substance:vehicle
+hypo: matter
+
+w: thing
+d: a separate and self-contained entity
+hyper: noun.artifact:content
+hyper: noun.object:body_of_water
+hyper: noun.object:building_block
+hyper: noun.object:essential
+hyper: noun.object:inessential
+hyper: noun.object:part
+hyper: noun.object:reservoir
+hyper: noun.object:variable
+hypo: physical_entity
+
+w: time
+d: the continuum of experience in which events pass from the future through the present to the past
+hyper: noun.time:GMT
+hyper: noun.time:biological_time
+hyper: noun.time:civil_time
+hyper: noun.time:continuance
+hyper: noun.time:continuum
+hyper: noun.time:cosmic_time
+hyper: noun.time:daylight-saving_time
+hyper: noun.time:eternity
+hyper: noun.time:future
+hyper: noun.time:geologic_time
+hyper: noun.time:musical_time
+hyper: noun.time:nowadays
+hyper: noun.time:past
+hypo: attribute
+
+w: unit drf verb.change:unify drf verb.change:unitize drf verb.contact:unify drf verb.contact:unitize
+w: whole drf adjs.all:whole 1
+d: an assemblage of parts that is regarded as a single entity
+e: how big is that part compared to the whole?
+e: the team is a unit
+hyper: animate_thing
+hyper: artefact
+hyper: congener
+hyper: natural_object
+hyper: noun.artifact:aggregate
+hyper: noun.artifact:assembly 2
+hyper: noun.artifact:item
+hypo: object
+mp: noun.artifact:part
+mp: noun.artifact:section
+

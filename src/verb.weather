@@ -1,0 +1,624 @@
+verb.weather
+
+w: absorb ant emit drf adj.all:absorbable drf adj.all:absorbent drf adj.all:absorptive drf noun.process:absorption 2
+w: take_in
+d: suck or take up or in
+e: A black star absorbs all matter
+fs: 11 8
+hyper: suck
+
+w: beam 3 drf noun.phenomenon:beam
+w: shine drf noun.attribute:shine
+d: emit light; be bright, as of the sun or a light
+e: The sun shone bright that day
+e: The fire beamed on their faces
+fs: 1
+hyper: verb.perception:beacon
+hyper: verb.perception:beat_down
+hyper: verb.perception:glare 1
+hyper: blaze 1
+hyper: burn 1
+hyper: flame 1
+hyper: flick
+hyper: outshine
+hyper: scintillate
+hyper: shimmer
+
+w: black_out
+d: obliterate or extinguish
+e: Some life-forms were obliterated by the radiation, others survived
+fs: 11 8
+hypo: blow_out
+
+w: blaze drf noun.process:blaze see blaze_up
+d: burn brightly and intensely
+e: The summer sun alone can cause a pine to blaze
+fs: 1
+hypo: verb.change:burn
+
+w: blaze 1 drf noun.attribute:blaze
+d: shine brightly and intensively
+e: Meteors blazed across the atmosphere
+fs: 1
+hypo: beam 3
+
+w: blaze_up
+w: burn_up
+w: flame_up
+w: flare drf noun.process:flare
+d: burn brightly
+e: Every star seemed to flare with new intensity
+fs: 1
+hypo: verb.change:burn
+
+w: blight drf noun.state:blight drf noun.state:blight 1
+w: plague drf noun.group:plague drf noun.state:plague drf noun.state:plague 1
+d: cause to suffer a blight
+e: Too much rain may blight the garden with mold
+fs: 10 11
+hypo: verb.change:afflict
+
+w: blow drf noun.phenomenon:blow
+d: be blowing or storming
+e: The wind blew from the West
+fs: 1 4 3
+hyper: bluster
+hyper: breeze
+hyper: set_in
+hyper: squall
+hyper: storm
+hyper: waft
+
+w: blow_out
+w: extinguish ant ignite drf noun.act:extinction 1 drf noun.act:extinguishing drf noun.artifact:extinguisher
+w: quench drf noun.act:quenching
+w: snuff_out
+d: put out, as of fires, flames, or lights
+e: Too big to be extinguished at once, the forest fires at best could be contained
+e: quench the flames
+e: snuff out the candles
+fs: 11 8
+hyper: verb.contact:stub
+hyper: black_out
+hyper: douse
+
+w: blow_out 1
+d: erupt in an uncontrolled manner
+e: The oil well blew out
+fs: 1
+hypo: catch_fire
+
+w: bluster drf noun.phenomenon:bluster
+d: blow hard; be gusty, as of wind
+e: A southeaster blustered onshore
+e: The flames blustered
+fs: 3
+hypo: blow
+
+w: boom
+w: thunder drf noun.event:thunder 1
+d: be the case that thunder is being heard
+e: Whenever it thunders, my dog crawls under the bed
+fs: 3
+entail: storm
+
+w: breeze drf noun.phenomenon:breeze
+d: blow gently and lightly
+e: It breezes most evenings at the shore
+fs: 1 4 3
+hypo: blow
+
+w: brighten
+w: clear
+w: clear_up ant overcast
+w: light_up
+d: become clear
+e: The sky cleared after the storm
+fs: 1 3
+
+w: burn 1
+w: glow drf noun.phenomenon:glow
+d: shine intensely, as if with heat
+e: The coals were glowing in the dark
+e: The candles were burning
+fs: 1
+hyper: gutter
+hypo: beam 3
+
+w: burn 2 drf adjs.all:burnable
+w: combust 2 drf adj.all:combustible drf adjs.all:combustive drf noun.act:combustion
+d: cause to burn or combust
+e: The sun burned off the fog
+e: We combust coal and other fossil fuels
+fs: 11 8
+cause: verb.change:burn
+hyper: char
+hyper: deflagrate
+hyper: ignite
+hyper: set_ablaze
+vg: catch_fire
+
+w: catch 4
+d: start burning
+e: The fire caught
+fs: 1
+hypo: catch_fire
+
+w: catch_fire
+w: combust drf adj.all:combustible drf adjs.all:combustive
+w: conflagrate
+w: erupt
+w: ignite 1 drf adjs.all:ignitable drf adjs.all:ignitible drf noun.act:ignition
+w: take_fire
+d: start to burn or burst into flames
+e: Marsh gases ignited suddenly
+e: The oily rags combusted spontaneously
+fs: 1
+hyper: blow_out 1
+hyper: catch 4
+hyper: light_up 1
+hypo: verb.change:change_state
+vg: burn 2
+
+w: char drf noun.substance:char
+w: coal drf noun.object:coal drf noun.substance:coal
+d: burn to charcoal
+e: Without a drenching rain, the forest fire will char everything
+fs: 8
+hypo: burn 2
+
+w: cloud drf noun.object:cloud drf noun.process:clouding see cloud_over see cloud_up
+w: overcast ant clear_up drf noun.state:overcast drf noun.state:overcast 1
+d: make overcast or cloudy
+e: Fall weather often overcasts our beaches
+fs: 11
+hyper: fog_up
+hyper: haze
+hypo: verb.change:darken 1
+
+w: cloud_over
+w: cloud_up
+w: overcloud
+d: become covered with clouds
+e: The sky clouded over
+fs: 1 3
+hypo: verb.change:darken
+
+w: come_down
+w: fall
+w: precipitate drf noun.phenomenon:precipitation drf noun.quantity:precipitation
+d: fall from clouds
+e: rain, snow and sleet were falling
+e: Vesuvius precipitated its fiery, destructive rage on Herculaneum
+fs: 1 8
+entail: verb.change:condense 1
+hyper: hail
+hyper: rain
+hyper: sleet
+hyper: snow
+hyper: spat
+vg: verb.motion:fall 3
+
+w: conflagrate 1
+w: enkindle
+w: inflame drf noun.act:inflammation 1
+w: kindle
+d: cause to start burning
+e: The setting sun kindled the sky with oranges and reds
+fs: 11 8
+hyper: rekindle
+hypo: ignite
+
+w: coruscate drf adjs.all:coruscant drf noun.event:coruscation
+w: scintillate 3 drf adjs.all:scintillant drf noun.attribute:scintillation
+w: sparkle drf noun.attribute:sparkle drf noun.event:sparkle drf noun.event:sparkling drf noun.possession:sparkler
+d: reflect brightly
+e: Unquarried marble sparkled on the hillside
+fs: 1
+hypo: reflect
+
+w: deflagrate drf noun.process:deflagration
+d: cause to burn rapidly and with great intensity
+e: care must be exercised when this substance is to be deflagrated
+fs: 8 11
+hypo: burn 2
+
+w: douse
+w: put_out
+d: put out, as of a candle or a light
+e: Douse the lights
+fs: 8
+hypo: blow_out
+
+w: drench
+w: swamp drf noun.object:swamp
+d: drench or submerge or be drenched or submerged
+e: The tsunami swamped every boat in the harbor
+fs: 1 11
+hypo: verb.change:flood
+
+w: drizzle drf noun.phenomenon:drizzle
+w: mizzle drf noun.phenomenon:mizzle
+d: rain lightly
+e: When it drizzles in summer, hiking can be pleasant
+fs: 3
+hypo: rain
+
+w: dry_out 1
+w: run_dry
+d: become empty of water
+e: The river runs dry in the summer
+fs: 1
+hypo: verb.change:dry
+
+w: emit ant absorb drf noun.act:emission drf noun.artifact:emitter
+w: give_off
+w: give_out
+d: give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
+e: The ozone layer blocks some harmful rays which the sun emits
+fs: 11 8
+hyper: verb.change:effuse
+hyper: fume
+hyper: radiate
+hyper: ray
+hyper: reek
+hyper: reflect
+hyper: scintillate 1
+hyper: shoot
+hyper: spark
+hyper: steam
+
+w: flame drf noun.process:flame drf noun.process:flaming
+d: be in flames or aflame
+e: The sky seemed to flame in the Hawaiian sunset
+fs: 1
+hypo: verb.change:burn
+
+w: flame 1 see flame_up
+w: flare 1 drf noun.process:flare
+d: shine with a sudden light
+e: The night sky flared with the massive bombardment
+fs: 1
+hypo: beam 3
+
+w: flare_up
+d: ignite quickly and suddenly, especially after having died down
+e: the fire flared up and died down once again
+fs: 1
+hyper: inflame 1
+hypo: ignite
+
+w: flick
+w: flicker drf noun.event:flicker
+d: shine unsteadily
+e: The candle flickered
+fs: 1
+hypo: beam 3
+
+w: fog_up
+d: get foggy
+e: The windshield fogged up
+fs: 1 3
+hypo: cloud
+
+w: freeze 10 drf noun.phenomenon:freeze drf noun.process:freezing
+d: be very cold, below the freezing point
+e: It is freezing in Kalamazoo
+fs: 3
+
+w: frost_over
+w: ice_over
+w: ice_up
+d: become covered with a layer of ice; of a surface such as a window
+e: When the wings iced up, the pilot was forced to land his plane
+fs: 1 3
+entail: freeze 10
+hypo: verb.change:change
+
+w: fume drf noun.phenomenon:fume
+w: smoke drf noun.phenomenon:smoke drf noun.process:smoke drf noun.process:smoking
+d: emit a cloud of fine particles
+e: The chimney was fuming
+fs: 1
+hypo: emit
+
+w: glare 1
+d: be sharply reflected
+e: The moon glared back at itself from the lake's surface
+fs: 1
+hypo: reflect
+
+w: gutter
+d: burn unsteadily, feebly, or low; flicker
+e: The cooling lava continued to gutter toward lower ground
+fs: 1
+hypo: burn 1
+
+w: hail drf noun.phenomenon:hail
+d: precipitate as small ice particles
+e: It hailed for an hour
+fs: 3
+hypo: come_down
+
+w: haze drf noun.phenomenon:haze
+d: become hazy, dull, or cloudy
+fs: 1
+hypo: cloud
+
+w: ignite ant extinguish drf adjs.all:ignitable drf adjs.all:ignitible drf noun.act:ignition drf noun.artifact:igniter drf noun.artifact:ignitor drf noun.process:ignition drf noun.substance:igniter drf noun.substance:ignitor
+w: light drf noun.artifact:light 1 drf noun.artifact:lighter drf noun.substance:lighter
+d: cause to start burning; subject to fire or great heat
+e: Great heat can ignite almost any dry matter
+e: Light a cigarette
+fs: 11 8
+cause: verb.change:burn
+hyper: verb.consumption:fire_up
+hyper: conflagrate 1
+hyper: flare_up
+hyper: light_up 2
+hyper: reignite
+hypo: burn 2
+
+w: inflame 1 drf noun.act:inflammation 1
+w: kindle 1 drf noun.act:kindling drf noun.substance:kindling
+d: catch fire
+e: The dried grass of the prairie kindled, spreading the flames for miles
+fs: 1
+hypo: flare_up
+
+w: light_up 1
+d: start to burn with a bright flame
+e: The coal in the BBQ grill finally lit up
+fs: 1
+hypo: catch_fire
+
+w: light_up 2
+d: ignite
+e: The sky lit up quickly above the raging volcano
+fs: 1
+hypo: ignite
+
+w: liquefy drf adjs.all:liquefiable drf noun.process:liquefaction
+d: become liquid
+e: The garden air overnight liquefied into a morning dew
+fs: 1
+hypo: verb.change:change_state
+
+w: luminesce drf adjs.all:luminescent drf noun.attribute:luminescence drf noun.phenomenon:luminescence
+d: be or become luminescent; exhibit luminescence
+fs: 1
+hypo: reflect
+
+w: mirror drf noun.artifact:mirror drf noun.cognition:mirror
+d: reflect as if in a mirror
+e: The smallest pond at night mirrors the firmament above
+fs: 11 10
+hypo: verb.perception:reflect
+
+w: opalesce drf adjs.all:opalescent drf noun.attribute:opalescence
+d: reflect light or colors like an opal
+e: Distant clouds opalesce like pale brocade
+e: raindrops caught in a sunbeam seem to opalesce
+fs: 1
+hypo: reflect
+
+w: outshine
+d: shine brighter than
+e: What star outshines the sun?
+fs: 11
+hypo: beam 3
+
+w: patter
+w: pitter-patter
+w: spatter
+w: spit
+w: sprinkle drf noun.phenomenon:sprinkle drf noun.phenomenon:sprinkling
+d: rain gently
+e: It has only sprinkled, but the roads are slick
+fs: 3
+hypo: rain
+
+w: pelt drf noun.phenomenon:pelter
+w: pour
+w: rain_buckets
+w: rain_cats_and_dogs
+w: stream
+d: rain heavily
+e: Put on your rain coat-- it's pouring outside!
+fs: 3
+hyper: sheet
+hyper: sluice
+hypo: rain
+
+w: radiate drf adjs.all:radiant drf noun.attribute:radiance drf noun.attribute:radiancy drf noun.phenomenon:radiation
+d: send out rays or waves
+e: The sun radiates heat
+fs: 1 11
+hypo: emit
+
+w: rain drf noun.phenomenon:rain drf noun.substance:rain
+w: rain_down
+d: precipitate as rain
+e: If it rains much more, we can expect some flooding
+fs: 3 11
+hyper: drizzle
+hyper: patter
+hyper: pelt
+hyper: shower
+hypo: come_down
+
+w: ray drf noun.phenomenon:ray
+d: emit as rays
+e: That tower rays a laser beam for miles across the sky
+fs: 11
+hypo: emit
+
+w: reek
+d: give off smoke, fumes, warm vapour, steam, etc.
+e: Marshes reeking in the sun
+fs: 1
+hypo: emit
+
+w: reflect drf adj.all:reflective
+w: shine 1 drf noun.attribute:shine drf noun.object:shiner
+d: be bright by reflecting or casting light
+e: Drive carefully--the wet road reflects
+fs: 1
+hyper: verb.stative:resplend
+hyper: coruscate
+hyper: glare 1
+hyper: luminesce
+hyper: opalesce
+hypo: emit
+
+w: reignite
+d: ignite anew, as of something burning
+e: The strong winds reignited the cooling embers
+fs: 8
+hypo: ignite
+
+w: rekindle
+d: kindle anew, as of a fire
+fs: 8
+hypo: conflagrate 1
+
+w: scintillate drf adjs.all:scintillant drf noun.attribute:scintillation 1 drf noun.object:scintilla
+w: twinkle drf noun.event:twinkle drf noun.object:twinkler
+w: winkle
+d: emit or reflect light in a flickering manner
+e: Does a constellation twinkle more brightly than a single star?
+fs: 1
+hypo: beam 3
+mt: noun.object:celestial_body
+vg: scintillate 1
+
+w: scintillate 1 drf noun.event:scintillation
+d: give off
+e: the substance scintillated sparks and flashes
+fs: 11
+hypo: emit
+vg: scintillate
+
+w: set_ablaze
+w: set_afire
+w: set_aflame
+w: set_on_fire 1
+d: set fire to; cause to start burning
+e: Lightening set fire to the forest
+fs: 11 8
+entail: ignite
+hypo: burn 2
+
+w: set_in
+d: blow toward the shore
+e: That gale could set in on us with the next high tide
+fs: 1
+hypo: blow
+
+w: shade drf noun.state:shade
+w: shade_off
+w: shadow drf noun.location:shadow drf noun.state:shadow 1
+d: cast a shadow over
+fs: 9 11 10
+hypo: verb.change:darken 1
+
+w: sheet
+d: come down as if in sheets
+e: The rain was sheeting down during the monsoon
+fs: 3
+hypo: pelt
+
+w: shimmer drf noun.event:shimmer
+d: shine with a weak or fitful light
+e: Beech leaves shimmered in the moonlight
+fs: 1
+hypo: beam 3
+
+w: shine 3 drf noun.attribute:shine
+d: throw or flash the light of (a lamp)
+e: Shine the light on that window, please
+fs: 21 8
+cause: beam 3
+
+w: shoot
+d: emit (as light, flame, or fumes) suddenly and forcefully
+e: The dragon shot fumes and flames out of its mouth
+fs: 11
+hypo: emit
+
+w: shower drf noun.event:shower drf noun.phenomenon:shower
+w: shower_down
+d: rain abundantly
+e: Meteors showered down over half of Australia
+fs: 3
+hypo: rain
+
+w: sleet drf noun.phenomenon:sleet
+d: precipitate as a mixture of rain and snow
+e: If the temperature rises above freezing, it will probably sleet
+fs: 3
+hypo: come_down
+
+w: sluice drf noun.artifact:sluice
+w: sluice_down
+d: pour as if from a sluice
+e: An aggressive tide sluiced across the barrier reef
+fs: 4 1
+hypo: pelt
+
+w: snow drf noun.phenomenon:snow drf noun.substance:snow
+d: fall as snow
+e: It was snowing all night
+fs: 3
+hypo: come_down
+
+w: spark drf noun.event:spark 1 drf noun.object:spark drf noun.phenomenon:spark
+w: sparkle 2 drf noun.event:sparkle
+d: emit or produce sparks
+e: A high tension wire, brought down by a storm, can continue to spark
+fs: 1
+hypo: emit
+
+w: spat
+d: come down like raindrops
+e: Bullets were spatting down on us
+fs: 1
+hypo: come_down
+
+w: squall drf noun.phenomenon:squall
+d: blow in a squall
+e: When it squalls, a prudent sailor reefs his sails
+fs: 1
+hypo: blow
+
+w: steam
+d: emit steam
+e: The rain forest was literally steaming
+fs: 1 2
+hypo: emit
+
+w: storm drf noun.phenomenon:storm
+d: blow hard
+e: It was storming all night
+fs: 3
+hypo: blow
+
+w: storm 1 drf noun.phenomenon:storm
+d: rain, hail, or snow hard and be very windy, often with thunder or lightning
+e: If it storms, we'll need shelter
+fs: 3
+entail: rain
+
+w: suck drf noun.act:suck drf noun.act:suction
+w: suck_in
+d: attract by using an inexorable force, inducement, etc.
+e: The current boom in the economy sucked many workers in from abroad
+fs: 11
+hypo: absorb
+
+w: waft
+d: blow gently
+e: A breeze wafted through the door
+fs: 4 1
+hypo: blow
+

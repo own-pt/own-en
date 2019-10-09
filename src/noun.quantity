@@ -1,0 +1,8349 @@
+noun.quantity
+
+w: 0
+w: cipher 1 drf verb.cognition:cipher
+w: cypher 1 drf verb.cognition:cypher
+w: nought
+w: zero 1 drf verb.change:zero 1
+d: a mathematical element that when added to another number yields the same number
+hypo: digit
+
+w: 1
+w: I
+w: ace
+w: one
+w: single
+w: unity
+d: the smallest whole number or a numeral representing this number
+e: he has the one but will need a two and three to go with it
+e: they had lunch at one
+hyper: monad
+hyper: singleton
+hypo: digit
+
+w: 10
+w: X
+w: decade
+w: ten
+w: tenner
+d: the cardinal number that is the sum of nine and one; the base of the decimal system
+hypo: large_integer
+
+w: 100
+w: C 1
+w: century
+w: hundred
+w: one_C
+d: ten 10s
+hypo: large_integer
+
+w: 1000
+w: G 1
+w: K 6
+w: M 1
+w: chiliad
+w: grand
+w: one_thousand
+w: thou
+w: thousand
+w: yard 2
+d: the cardinal number that is the product of 10 and 100
+hyper: millenary
+hypo: large_integer
+
+w: 10000
+w: myriad
+w: ten_thousand
+d: the cardinal number that is the product of ten and one thousand
+hypo: large_integer
+
+w: 100000
+w: hundred_thousand
+w: lakh
+d: the cardinal number that is the fifth power of ten
+hypo: large_integer
+
+w: 1000000
+w: meg
+w: million
+w: one_thousand_thousand
+d: the number that is represented as a one followed by 6 zeros
+hypo: large_integer
+
+w: 1000000000
+w: billion drf adjs.all:billion
+w: one_thousand_million
+d: the number that is represented as a one followed by 9 zeros
+hyper: milliard
+hypo: large_integer
+mr: noun.location:America
+
+w: 1000000000000
+w: billion 1 drf adjs.all:billion 1
+w: one_million_million
+d: the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen
+hypo: large_integer
+mr: noun.location:Britain
+
+w: 1000000000000 1
+w: one_million_million 1
+w: trillion
+d: the number that is represented as a one followed by 12 zeros
+e: in England they call a trillion a billion
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: 11
+w: XI
+w: eleven
+d: the cardinal number that is the sum of ten and one
+hypo: large_integer
+
+w: 12
+w: XII
+w: dozen drf adjs.all:dozen
+w: twelve
+d: the cardinal number that is the sum of eleven and one
+hyper: boxcars
+hypo: large_integer
+
+w: 120
+w: great_hundred
+w: long_hundred
+d: the cardinal number that is the product of ten and twelve
+hypo: large_integer
+
+w: 13
+w: XIII
+w: baker's_dozen
+w: long_dozen
+w: thirteen
+d: the cardinal number that is the sum of twelve and one
+hypo: large_integer
+
+w: 14
+w: XIV
+w: fourteen
+d: the cardinal number that is the sum of thirteen and one
+hypo: large_integer
+
+w: 144
+w: gross
+d: twelve dozen
+hypo: large_integer
+
+w: 15
+w: XV
+w: fifteen drf adjs.all:fifteen
+d: the cardinal number that is the sum of fourteen and one
+hypo: large_integer
+
+w: 16
+w: XVI
+w: sixteen
+d: the cardinal number that is the sum of fifteen and one
+hypo: large_integer
+
+w: 17
+w: XVII
+w: seventeen drf adjs.all:seventeen
+d: the cardinal number that is the sum of sixteen and one
+hypo: large_integer
+
+w: 1728
+w: great_gross
+d: a cardinal number equal to one dozen gross
+hypo: large_integer
+
+w: 18
+w: XVIII
+w: eighteen
+d: the cardinal number that is the sum of seventeen and one
+hypo: large_integer
+
+w: 19
+w: XIX
+w: nineteen drf adjs.all:nineteen
+d: the cardinal number that is the sum of eighteen and one
+hypo: large_integer
+
+w: 2
+w: II
+w: deuce
+w: two
+d: the cardinal number that is the sum of one and one or a numeral representing this number
+hyper: brace
+hyper: craps
+hypo: digit
+
+w: 20
+w: XX
+w: twenty
+d: the cardinal number that is the sum of nineteen and one
+hypo: large_integer
+
+w: 21
+w: XXI
+w: twenty-one
+d: the cardinal number that is the sum of twenty and one
+hypo: large_integer
+
+w: 22
+w: XXII
+w: twenty-two
+d: the cardinal number that is the sum of twenty-one and one
+hypo: large_integer
+
+w: 23
+w: XXIII
+w: twenty-three
+d: the cardinal number that is the sum of twenty-two and one
+hypo: large_integer
+
+w: 24
+w: XXIV
+w: twenty-four
+w: two_dozen
+d: the cardinal number that is the sum of twenty-three and one
+hypo: large_integer
+
+w: 25
+w: XXV
+w: twenty-five
+d: the cardinal number that is the sum of twenty-four and one
+hypo: large_integer
+
+w: 26
+w: XXVI
+w: twenty-six
+d: the cardinal number that is the sum of twenty-five and one
+hypo: large_integer
+
+w: 27
+w: XXVII
+w: twenty-seven
+d: the cardinal number that is the sum of twenty-six and one
+hypo: large_integer
+
+w: 28
+w: XXVIII
+w: twenty-eight
+d: the cardinal number that is the sum of twenty-seven and one
+hypo: large_integer
+
+w: 29
+w: XXIX
+w: twenty-nine
+d: the cardinal number that is the sum of twenty-eight and one
+hypo: large_integer
+
+w: 3
+w: III
+w: deuce-ace
+w: leash
+w: tercet
+w: ternary
+w: ternion
+w: terzetto
+w: three
+w: threesome
+w: tierce 1
+w: trey
+w: triad
+w: trine
+w: trinity
+w: trio
+w: triplet
+w: troika
+d: the cardinal number that is the sum of one and one and one
+hypo: digit
+
+w: 30
+w: XXX
+w: thirty
+d: the cardinal number that is the product of ten and three
+hypo: large_integer
+
+w: 4
+w: IV
+w: Little_Joe
+w: four
+w: foursome
+w: quadruplet
+w: quartet
+w: quatern
+w: quaternary
+w: quaternion
+w: quaternity
+w: tetrad
+d: the cardinal number that is the sum of three and one
+hypo: digit
+
+w: 40
+w: XL
+w: forty
+d: the cardinal number that is the product of ten and four
+hypo: large_integer
+
+w: 440_yards
+w: quarter_mile
+d: a unit of length equal to a quarter of 1 mile
+hp: international_mile
+hypo: linear_measure
+
+w: 5
+w: Little_Phoebe
+w: Phoebe
+w: V 2
+w: cinque
+w: fin
+w: five
+w: fivesome
+w: pentad
+w: quint
+w: quintet
+w: quintuplet
+d: the cardinal number that is the sum of four and one
+hypo: digit
+
+w: 50
+w: L 6
+w: fifty drf adjs.all:fifty
+d: the cardinal number that is the product of ten and five
+hypo: large_integer
+
+w: 500
+w: D
+w: five_hundred
+d: the cardinal number that is the product of one hundred and five
+hypo: large_integer
+
+w: 6
+w: Captain_Hicks
+w: VI
+w: half_a_dozen
+w: hexad
+w: sestet
+w: sextet
+w: sextuplet
+w: sise
+w: six
+w: sixer
+d: the cardinal number that is the sum of five and one
+hypo: digit
+
+w: 60
+w: LX
+w: sixty
+d: the cardinal number that is the product of ten and six
+hypo: large_integer
+
+w: 7
+w: VII
+w: heptad
+w: septenary
+w: septet
+w: seven drf adjs.all:seven
+w: sevener
+d: the cardinal number that is the sum of six and one
+hypo: digit
+
+w: 70
+w: LXX
+w: seventy drf adjs.all:seventy
+d: the cardinal number that is the product of ten and seven
+hypo: large_integer
+
+w: 78
+w: LXXVIII
+w: seventy-eight
+d: the cardinal number that is the sum of seventy and eight
+hypo: large_integer
+
+w: 8
+w: VIII
+w: eight
+w: eighter
+w: eighter_from_Decatur
+w: octad
+w: octet
+w: octonary
+w: ogdoad
+d: the cardinal number that is the sum of seven and one
+hypo: digit
+
+w: 80
+w: LXXX
+w: eighty
+w: fourscore
+d: the cardinal number that is the product of ten and eight
+hypo: large_integer
+
+w: 880_yards
+w: half_mile
+d: a unit of length equal to half of 1 mile
+hp: international_mile
+hypo: linear_measure
+
+w: 9
+w: IX
+w: Nina_from_Carolina
+w: ennead
+w: nine
+w: niner
+d: the cardinal number that is the sum of eight and one
+hypo: digit
+
+w: 90
+w: XC
+w: ninety
+d: the cardinal number that is the product of ten and nine
+hypo: large_integer
+
+w: A
+w: amp
+w: ampere
+d: the basic unit of electric current adopted under the Systeme International d'Unites
+e: a typical household circuit carries 15 to 50 amps
+hp: abamp
+hypo: current_unit
+mp: mA
+
+w: A 1
+w: angstrom
+w: angstrom_unit
+d: a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation
+hp: micromillimeter
+hypo: metric_linear_unit
+mp: micromicron
+
+w: AU
+w: Astronomical_Unit
+d: a unit of length used for distances within the solar system; equal to the mean distance between the Earth and the Sun (approximately 93 million miles or 150 million kilometers)
+hypo: astronomy_unit
+
+w: Admiralty_mile
+w: geographical_mile
+w: mi 5
+w: mile 6 drf miler
+w: naut_mi 1
+w: nautical_mile 2
+d: a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile
+hypo: nautical_linear_unit
+
+w: Afghan_monetary_unit
+d: monetary unit in the Islamic State of Afghanistan
+hyper: afghani
+hyper: pul
+hypo: monetary_unit
+
+w: Albanian_monetary_unit
+d: monetary unit in Albania
+hyper: lek
+hyper: qindarka
+hypo: monetary_unit
+
+w: Algerian_centime
+d: 100 centimes equal 1 dinar in Algeria
+hp: Algerian_dinar
+hypo: centime
+
+w: Algerian_dinar
+w: dinar
+d: the basic unit of money in Algeria
+hypo: Algerian_monetary_unit
+mp: Algerian_centime
+mp: centime
+
+w: Algerian_monetary_unit
+d: monetary unit in Algeria
+hyper: Algerian_dinar
+hypo: monetary_unit
+
+w: Angolan_monetary_unit
+d: monetary unit in Angola
+hyper: kwanza
+hyper: lwei
+hypo: monetary_unit
+
+w: Argentine_monetary_unit
+d: monetary unit in Argentina
+hyper: austral
+hypo: monetary_unit
+
+w: Armenian_monetary_unit
+d: monetary unit in Armenia
+hyper: dram
+hyper: lumma
+hypo: monetary_unit
+
+w: Australian_dollar
+d: the basic unit of money in Australia and Nauru
+hypo: dollar
+
+w: Austrian_monetary_unit
+d: monetary unit in Austria
+hyper: Austrian_schilling
+hyper: groschen
+hypo: monetary_unit
+
+w: Austrian_schilling
+w: schilling
+d: formerly the basic unit of money in Austria
+hypo: Austrian_monetary_unit
+mp: groschen
+
+w: Avogadro's_number
+w: Avogadro_number
+d: the number of molecules in a mole of a substance (approximately 602,250,000,000,000,000,000,000)
+hypo: constant
+
+w: Azerbaijani_monetary_unit
+d: monetary unit in Azerbaijan
+hyper: manat
+hyper: qepiq
+hypo: monetary_unit
+
+w: B 3
+w: Bel
+d: a logarithmic unit of sound intensity equal to 10 decibels
+hypo: sound_unit
+
+w: B.T.U.
+w: Board_of_Trade_unit
+w: kW-hr
+w: kilowatt_hour
+d: a unit of energy equal to the work done by a power of 1000 watts operating for one hour
+hypo: energy_unit
+mp: watt-hour
+
+w: B.Th.U.
+w: BTU
+w: British_thermal_unit
+d: a unit of heat equal to the amount of heat required to raise one pound of water one degree Fahrenheit at one atmosphere pressure; equivalent to 251.997 calories
+hp: therm
+hypo: energy_unit
+
+w: Bahamian_dollar
+d: the basic unit of money in the Bahamas
+hypo: dollar
+
+w: Bahrain_dinar
+w: dinar 1
+d: the basic unit of money in Bahrain; equal to 1,000 fils
+hypo: Bahrainian_monetary_unit
+mp: fils
+
+w: Bahrainian_monetary_unit
+d: monetary unit in Bahrain
+hyper: Bahrain_dinar
+hypo: monetary_unit
+
+w: Bangladeshi_monetary_unit
+d: monetary unit in Bangladesh
+hyper: taka
+hypo: monetary_unit
+
+w: Barbados_dollar
+d: the basic unit of money in Barbados
+hypo: dollar
+
+w: Beaufort_scale
+d: a scale from 0 to 12 for the force of the wind
+hypo: metric
+
+w: Belarusian_monetary_unit
+d: monetary unit in Belarus
+hyper: kapeika
+hyper: rubel
+hypo: monetary_unit
+
+w: Belgian_franc
+d: formerly the basic unit of money in Belgium
+hypo: franc
+mp: centime
+
+w: Belize_dollar
+d: the basic unit of money in Belize
+hypo: dollar
+
+w: Benin_franc
+d: the basic unit of money in Benin
+hypo: franc
+
+w: Bermuda_dollar
+d: the basic unit of money in Bermuda
+hypo: dollar
+
+w: Bhutanese_monetary_unit
+d: monetary unit in Bhutan
+hyper: chetrum
+hyper: ngultrum
+hypo: monetary_unit
+
+w: Bolivian_monetary_unit
+d: monetary unit in Bolivia
+hyper: boliviano
+hypo: monetary_unit
+
+w: Boltzmann's_constant
+d: constant used in the calculation of the ideal gas constant
+hypo: constant
+
+w: Botswana_monetary_unit
+d: monetary unit in Botswana
+hyper: pula
+hyper: thebe
+hypo: monetary_unit
+
+w: Brazilian_monetary_unit
+d: monetary unit in Brazil
+hyper: real 1
+hypo: monetary_unit
+
+w: Brinell_number
+d: measure of the hardness of a material
+hypo: unit
+
+w: British_Imperial_System
+w: British_system
+w: English_system
+d: a system of weights and measures based on the foot and pound and second and pint
+hypo: system_of_weights_and_measures
+mp: avoirdupois_unit
+
+w: British_capacity_unit
+w: Imperial_capacity_unit
+d: a unit of measure for capacity officially adopted in the British Imperial System; British units are both dry and wet
+hyper: Imperial_gallon
+hyper: barrel 1
+hyper: bushel 1
+hyper: chaldron
+hyper: drachm 2
+hyper: firkin
+hyper: fluid_ounce 2
+hyper: gill 2
+hyper: hogshead 1
+hyper: kilderkin
+hyper: minim 2
+hyper: peck 2
+hyper: pint 2
+hyper: quart 2
+hyper: quarter 4
+hypo: dry_measure
+hypo: liquid_measure
+
+w: British_monetary_unit
+d: monetary unit in Great Britain
+hyper: British_pound
+hyper: British_shilling
+hypo: monetary_unit
+
+w: British_pound
+w: British_pound_sterling
+w: pound 1
+w: pound_sterling
+w: quid
+d: the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence
+hypo: British_monetary_unit
+mp: penny
+
+w: British_shilling
+w: bob
+w: shilling 1
+d: a former monetary unit in Great Britain
+hypo: British_monetary_unit
+mp: cent
+
+w: Brix_scale
+d: a system for measuring the concentration of sugar solutions
+hypo: metric
+
+w: Brunei_dollar
+d: the basic unit of money in Brunei
+hypo: dollar
+
+w: Bulgarian_monetary_unit
+d: monetary unit in Bulgaria
+hyper: lev
+hyper: stotinka
+hypo: monetary_unit
+
+w: Burkina_Faso_franc
+d: the basic unit of money in Burkina Faso
+hypo: franc
+mp: centime
+
+w: Burundi_franc
+d: the basic unit of money in Burundi
+hypo: franc
+mp: centime
+
+w: C
+w: ampere-second
+w: coulomb
+d: a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second
+hp: abcoulomb
+hp: ampere-minute
+hypo: charge_unit
+
+w: C 2
+w: degree_Celsius
+w: degree_centigrade
+d: a degree on the centigrade scale of temperature
+hyper: standard_temperature
+hypo: degree 3
+
+w: Calorie 2 drf adj.pert:caloric 2
+w: kilocalorie
+w: kilogram_calorie
+w: large_calorie
+w: nutritionist's_calorie
+d: a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food
+hypo: energy_unit
+mp: calorie 1
+
+w: Cambodian_monetary_unit
+d: monetary unit in Cambodia
+hyper: riel
+hypo: monetary_unit
+
+w: Cameroon_franc
+d: the basic unit of money in Cameroon
+hypo: franc
+mp: centime
+
+w: Canadian_dollar
+w: loonie
+d: the basic unit of money in Canada
+e: the Canadian dollar has the image of loon on one side of the coin
+hypo: dollar
+
+w: Cape_Verde_escudo
+w: escudo 1
+d: the basic unit of money on Cape Verde; equal to 100 centavos
+hypo: Cape_Verde_monetary_unit
+mp: centavo
+
+w: Cape_Verde_monetary_unit
+d: monetary unit on Cape Verde
+hyper: Cape_Verde_escudo
+hypo: monetary_unit
+
+w: Cayman_Islands_dollar
+d: the basic unit of money in the Cayman Islands
+hypo: dollar
+
+w: Central_African_Republic_franc
+d: the basic unit of money in the Central African Republic
+hypo: franc
+
+w: Chadian_franc
+d: the basic unit of money in Chad
+hypo: franc
+mp: centime
+
+w: Chilean_monetary_unit
+d: monetary unit in Chile
+hyper: Chilean_peso
+hypo: monetary_unit
+
+w: Chilean_peso
+w: peso 9
+d: the basic unit of money in Chile; equal to 100 centesimos
+hypo: Chilean_monetary_unit
+mp: centesimo
+
+w: Chinese_monetary_unit
+d: the monetary unit in the People's Republic of China
+hyper: fen
+hyper: jiao
+hyper: kwai
+hypo: monetary_unit
+
+w: Ci
+w: curie
+d: a unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second
+hypo: radioactivity_unit
+mp: millicurie
+
+w: Colombian_monetary_unit
+d: monetary unit in Colombia
+hyper: Colombian_peso
+hypo: monetary_unit
+
+w: Colombian_peso
+w: peso 3
+d: the basic unit of money in Colombia; equal to 100 centavos
+hypo: Colombian_monetary_unit
+mp: centavo
+
+w: Congo_franc
+d: the basic unit of money in the Congo
+hypo: franc
+mp: centime
+
+w: Costa_Rican_colon
+w: colon
+d: the basic unit of money in Costa Rica; equal to 100 centimos
+hypo: Costa_Rican_monetary_unit
+mp: centimo
+
+w: Costa_Rican_monetary_unit
+d: monetary unit in Costa Rica
+hyper: Costa_Rican_colon
+hypo: monetary_unit
+
+w: Cote_d'Ivoire_franc
+w: Ivory_Coast_franc
+d: the basic unit of money in the Ivory Coast
+hypo: franc
+mp: centime
+
+w: Cuban_monetary_unit
+d: monetary unit in Cuba
+hyper: Cuban_peso
+hypo: monetary_unit
+
+w: Cuban_peso
+w: peso 4
+d: the basic unit of money in Cuba; equal to 100 centavos
+hypo: Cuban_monetary_unit
+mp: centavo
+
+w: Cypriot_monetary_unit
+d: monetary unit in Cyprus
+hyper: Cypriot_pound
+hyper: mil 4
+hypo: monetary_unit
+
+w: Cypriot_pound
+w: pound 2
+d: the basic unit of money in Cyprus; equal to 100 cents
+hypo: Cypriot_monetary_unit
+mp: mil 4
+
+w: Czech_monetary_unit
+d: monetary unit in Czech Republic
+hyper: haler
+hyper: koruna
+hypo: monetary_unit
+
+w: Danish_krone
+w: krone 1
+d: the basic unit of money in Denmark
+hypo: Danish_monetary_unit
+mp: ore
+
+w: Danish_monetary_unit
+d: monetary unit in Denmark
+hyper: Danish_krone
+hypo: monetary_unit
+
+w: Deutsche_Mark
+w: Deutschmark
+w: German_mark
+w: mark
+d: formerly the basic unit of money in Germany
+hypo: German_monetary_unit
+mp: pfennig
+
+w: Djibouti_franc
+d: the basic unit of money in Djibouti
+hypo: franc
+
+w: Dominican_dollar
+d: the basic unit of money in Dominica
+hypo: dollar
+
+w: Dominican_monetary_unit
+d: monetary unit in the Dominican Republic
+hyper: Dominican_peso
+hypo: monetary_unit
+
+w: Dominican_peso
+w: peso 5
+d: the basic unit of money in the Dominican Republic; equal to 100 centavos
+hypo: Dominican_monetary_unit
+mp: centavo
+
+w: Dutch_florin
+w: florin 1
+w: guilder 1
+w: gulden 1
+d: formerly the basic unit of money in the Netherlands; equal to 100 cents
+hypo: Dutch_monetary_unit
+mp: cent
+
+w: Dutch_monetary_unit
+d: monetary unit in the Netherlands
+hyper: Dutch_florin
+hypo: monetary_unit
+
+w: EB
+w: EiB
+w: exabyte
+w: exbibyte
+d: a unit of information equal to 1024 pebibytes or 2^60 bytes
+hp: ZB
+hypo: computer_memory_unit
+mp: PB
+
+w: EB 1
+w: exabyte 1
+d: a unit of information equal to 1000 petabytes or 10^18 bytes
+hp: ZB 1
+hypo: computer_memory_unit
+mp: PB 1
+
+w: Eb 2
+w: Ebit
+w: exabit
+d: a unit of information equal to 1000 petabits or 10^18 bits
+hp: Zb 2
+hypo: computer_memory_unit
+mp: Pb 2
+
+w: Ecuadoran_monetary_unit
+d: monetary unit in Ecuador
+hyper: sucre
+hypo: monetary_unit
+
+w: Egyptian_monetary_unit
+d: monetary unit in Egypt
+hyper: Egyptian_pound
+hypo: monetary_unit
+
+w: Egyptian_pound
+w: pound 3
+d: the basic unit of money in Egypt; equal to 100 piasters
+hypo: Egyptian_monetary_unit
+mp: piaster
+
+w: Eibit
+w: exbibit
+d: a unit of information equal to 1024 pebibits or 2^60 bits
+hp: Zibit
+hypo: computer_memory_unit
+mp: Pibit
+
+w: El_Salvadoran_colon
+w: colon 1
+d: the basic unit of money in El Salvador; equal to 100 centavos
+hypo: El_Salvadoran_monetary_unit
+mp: centavo
+
+w: El_Salvadoran_monetary_unit
+d: monetary unit in El Salvador
+hyper: El_Salvadoran_colon
+hypo: monetary_unit
+
+w: Erlang
+d: a unit of traffic intensity in a telephone system
+hypo: telephone_unit
+
+w: Estonian_monetary_unit
+d: monetary unit in Estonia
+hyper: kroon
+hyper: sent
+hypo: monetary_unit
+
+w: Ethiopian_monetary_unit
+d: monetary unit in Ethiopia
+hyper: birr
+hypo: monetary_unit
+
+w: Eurodollar
+d: a United States dollar deposited in a European bank and used as an international currency to finance trade
+hypo: noun.possession:Eurocurrency
+hypo: United_States_dollar
+
+w: F
+w: farad
+d: the capacitance of a capacitor that has an equal and opposite charge of 1 coulomb on each plate and a voltage difference of 1 volt between the plates
+hp: abfarad
+hypo: capacitance_unit
+mp: millifarad
+
+w: F 2
+w: degree_Fahrenheit
+d: a degree on the Fahrenheit scale of temperature
+hypo: degree 3
+
+w: Fanny_Adams
+w: bugger_all
+w: fuck_all
+w: sweet_Fanny_Adams
+d: little or nothing at all
+e: I asked for a raise and they gave me bugger-all
+e: I know sweet Fanny Adams about surgery
+hypo: aught
+mr: noun.location:Britain
+mu: noun.communication:dirty_word
+
+w: Fibonacci_number
+d: a number in the Fibonacci sequence
+hypo: number
+
+w: Fiji_dollar
+d: the basic unit of money in Fiji
+hypo: dollar
+
+w: Finnish_mark
+w: markka
+d: formerly the basic unit of money in Finland
+hypo: Finnish_monetary_unit
+mp: penni
+
+w: Finnish_monetary_unit
+d: monetary unit in Finland
+hyper: Finnish_mark
+hyper: penni
+hypo: monetary_unit
+
+w: French_franc
+d: formerly the basic unit of money in France
+hypo: franc
+
+w: G 2
+w: GB 2
+w: GiB
+w: gibibyte
+w: gigabyte
+d: a unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes
+hp: TB
+hypo: computer_memory_unit
+mp: M 2
+
+w: G 3
+w: GB 3
+w: gigabyte 1
+d: a unit of information equal to 1000 megabytes or 10^9 (1,000,000,000) bytes
+hp: TB 1
+hypo: computer_memory_unit
+mp: M 3
+
+w: G 8
+w: constant_of_gravitation
+w: gravitational_constant
+w: universal_gravitational_constant
+d: (physics) the universal constant relating force to mass and distance in Newton's law of gravitation
+hp: noun.cognition:Newton's_law_of_gravitation
+hypo: constant
+mt: noun.cognition:natural_philosophy
+
+w: Gabon_franc
+d: the basic unit of money in Gabon
+hypo: franc
+mp: centime
+
+w: Gambian_monetary_unit
+d: monetary unit in Gambia
+hyper: butat
+hyper: dalasi
+hypo: monetary_unit
+
+w: Gb 1
+w: Gi
+w: gilbert
+d: a unit of magnetomotive force equal to 0.7958 ampere-turns
+hypo: magnetomotive_force_unit
+
+w: Gb 4
+w: Gbit
+w: gigabit
+d: a unit of information equal to 1000 megabits or 10^9 (1,000,000,000) bits
+hp: Tb 2
+hypo: computer_memory_unit
+mp: Mb 2
+
+w: Georgian_monetary_unit
+d: monetary unit in Georgia
+hyper: lari
+hyper: tetri
+hypo: monetary_unit
+
+w: German_monetary_unit
+d: monetary unit in Germany
+hyper: Deutsche_Mark
+hyper: pfennig
+hypo: monetary_unit
+
+w: Ghanian_monetary_unit
+d: monetary unit of Ghana
+hyper: cedi
+hyper: pesewa
+hypo: monetary_unit
+
+w: Gibit
+w: gibibit
+d: a unit of information equal to 1024 mebibits or 2^30 (1,073,741,824) bits
+hp: Tibit
+hypo: computer_memory_unit
+mp: Mibit
+
+w: Greek_drachma
+w: drachma
+d: formerly the basic unit of money in Greece
+hypo: Greek_monetary_unit
+mp: lepton
+
+w: Greek_monetary_unit
+d: monetary unit in Greece
+hyper: Greek_drachma
+hyper: lepton
+hypo: monetary_unit
+
+w: Grenada_dollar
+d: the basic unit of money in Grenada
+hypo: dollar
+
+w: Guatemalan_monetary_unit
+d: monetary unit in Guatemala
+hyper: quetzal
+hypo: monetary_unit
+
+w: Guinea-Bissau_monetary_unit
+d: monetary unit in Guinea-Bissau
+hyper: Guinea-Bissau_peso
+hypo: monetary_unit
+
+w: Guinea-Bissau_peso
+w: peso 10
+d: the basic unit of money in Guinea-Bissau; equal to 100 centavos
+hypo: Guinea-Bissau_monetary_unit
+mp: centavo
+
+w: Guinean_franc
+d: the basic unit of money in Guinea
+hypo: franc
+
+w: Guinean_monetary_unit
+d: monetary unit in Guinea
+hypo: monetary_unit
+
+w: Gunter's_chain
+d: a unit of length (22 yards)
+hp: furlong
+hypo: chain
+
+w: Guyana_dollar
+d: the basic unit of money in Guyana
+hypo: dollar
+
+w: Gy
+w: gray
+d: the SI unit of energy absorbed from ionizing radiation; equal to the absorption of one joule of radiation energy by one kilogram of matter; one gray equals 100 rad
+hypo: radioactivity_unit
+
+w: H
+w: henry
+d: a unit of inductance in which an induced electromotive force of one volt is produced when the current is varied at the rate of one ampere per second
+hypo: inductance_unit
+mp: abhenry
+mp: millihenry
+
+w: H.P.
+w: HP
+w: horsepower
+d: a unit of power equal to 746 watts
+hypo: power_unit
+mp: W
+
+w: Haitian_centime
+d: 100 centimes equal 1 gourde in Haiti
+hp: gourde
+hypo: centime
+
+w: Haitian_monetary_unit
+d: the monetary unit in Haiti
+hyper: gourde
+hypo: monetary_unit
+
+w: Honduran_monetary_unit
+d: monetary unit in Honduras
+hyper: lempira
+hypo: monetary_unit
+
+w: Hong_Kong_dollar
+d: the basic unit of money in Hong Kong
+hypo: dollar
+
+w: Hubble's_constant
+w: Hubble's_parameter
+w: Hubble_constant
+w: Hubble_parameter
+d: (cosmology) the ratio of the speed of recession of a galaxy (due to the expansion of the universe) to its distance from the observer; the Hubble constant is not actually a constant, but is regarded as measuring the expansion rate today
+hypo: constant
+mt: noun.cognition:cosmogeny
+
+w: Hungarian_monetary_unit
+d: monetary unit in Hungary
+hyper: filler
+hyper: forint
+hyper: pengo
+hypo: monetary_unit
+
+w: Icelandic_krona
+w: krona 1
+d: the basic unit of money in Iceland
+hypo: Icelandic_monetary_unit
+mp: eyrir
+
+w: Icelandic_monetary_unit
+d: monetary unit in Iceland
+hyper: Icelandic_krona
+hyper: eyrir
+hypo: monetary_unit
+
+w: Imperial_gallon
+w: congius
+w: gallon 2
+d: a British imperial capacity measure (liquid or dry) equal to 4 quarts or 4.545 liters
+hp: barrel 1
+hp: bushel 1
+hp: firkin
+hypo: British_capacity_unit
+mp: quart 2
+
+w: Indian_monetary_unit
+d: monetary unit in India
+hyper: Indian_rupee
+hyper: anna
+hypo: monetary_unit
+
+w: Indian_rupee
+w: rupee 1
+d: the basic unit of money in India; equal to 100 paise
+hypo: Indian_monetary_unit
+mp: paisa
+
+w: Indonesian_monetary_unit
+d: monetary unit in Indonesia
+hyper: rupiah
+hypo: monetary_unit
+
+w: International_System
+w: International_System_of_Units
+w: SI
+w: SI_system
+w: SI_unit
+w: Systeme_International
+w: Systeme_International_d'Unites
+d: a complete metric system of units of measurement for scientists; fundamental quantities are length (meter) and mass (kilogram) and time (second) and electric current (ampere) and temperature (kelvin) and amount of matter (mole) and luminous intensity (candela)
+e: Today the United States is the only country in the world not totally committed to the Systeme International d'Unites
+hypo: metric_system
+
+w: Iranian_dinar
+w: dinar 9
+d: 100 dinars equal 1 rial in Iran
+hp: Iranian_rial
+hypo: Iranian_monetary_unit
+
+w: Iranian_monetary_unit
+d: monetary unit in Iran
+hyper: Iranian_dinar
+hyper: Iranian_rial
+hypo: monetary_unit
+
+w: Iranian_rial
+w: rial 1
+d: the basic unit of money in Iran
+hypo: Iranian_monetary_unit
+mp: Iranian_dinar
+
+w: Iraqi_dinar
+w: dinar 2
+d: the basic unit of money in Iraq; equal to 1,000 fils
+hypo: Iraqi_monetary_unit
+mp: fils
+
+w: Iraqi_monetary_unit
+d: monetary unit in Iraq
+hyper: Iraqi_dinar
+hypo: monetary_unit
+
+w: Irish_monetary_unit
+d: monetary unit in Eire
+hyper: Irish_pound
+hypo: monetary_unit
+
+w: Irish_pound
+w: Irish_punt
+w: pound 4
+w: punt
+d: formerly the basic unit of money in Ireland; equal to 100 pence
+hypo: Irish_monetary_unit
+mp: penny
+
+w: Israeli_monetary_unit
+d: monetary unit in Israel
+hyper: agora
+hyper: shekel
+hypo: monetary_unit
+
+w: Italian_lira
+w: lira 1
+d: formerly the basic unit of money in Italy; equal to 100 centesimi
+hypo: Italian_monetary_unit
+mp: centesimo
+
+w: Italian_monetary_unit
+d: monetary unit in Italy
+hyper: Italian_lira
+hypo: monetary_unit
+
+w: J
+w: joule
+w: watt_second
+d: a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second
+hypo: energy_unit
+mp: erg
+
+w: Jamaican_dollar
+d: the basic unit of money in Jamaica
+hypo: dollar
+
+w: Japanese_monetary_unit
+d: monetary unit in Japan
+hyper: yen
+hypo: monetary_unit
+
+w: Jordanian_dinar
+w: dinar 3
+d: the basic unit of money in Jordan; equal to 1,000 fils
+hypo: Jordanian_monetary_unit
+mp: fils
+
+w: Jordanian_monetary_unit
+d: monetary unit in Jordan
+hyper: Jordanian_dinar
+hypo: monetary_unit
+
+w: K
+w: KB
+w: KiB
+w: kB 1
+w: kibibyte
+w: kilobyte
+d: a unit of information equal to 1024 bytes
+hp: M 2
+hypo: computer_memory_unit
+mp: word
+
+w: K 1
+w: KB 2
+w: kB 3
+w: kilobyte 1
+d: a unit of information equal to 1000 bytes
+hp: M 3
+hypo: computer_memory_unit
+
+w: K 5
+w: kelvin
+d: the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites
+hypo: temperature_unit
+
+w: Kazakhstani_monetary_unit
+d: monetary unit in Kazakhstan
+hyper: tenge
+hyper: tiyin
+hypo: monetary_unit
+
+w: Kenyan_monetary_unit
+d: monetary unit in Kenya
+hyper: Kenyan_shilling
+hypo: monetary_unit
+
+w: Kenyan_shilling
+w: shilling 2
+d: the basic unit of money in Kenya; equal to 100 cents
+hypo: Kenyan_monetary_unit
+
+w: Kiribati_dollar
+d: the basic unit of money in Kiribati
+hypo: dollar
+
+w: Kuwaiti_dinar
+w: dinar 4
+d: the basic unit of money in Kuwait; equal 1,000 fils
+hypo: Kuwaiti_monetary_unit
+mp: Kuwaiti_dirham
+
+w: Kuwaiti_dirham
+w: dirham 1
+d: worth one tenth of a Kuwaiti dinar; equal 100 fils
+hp: Kuwaiti_dinar
+hypo: Kuwaiti_monetary_unit
+mp: fils
+
+w: Kuwaiti_monetary_unit
+d: monetary unit in Kuwait
+hyper: Kuwaiti_dinar
+hyper: Kuwaiti_dirham
+hypo: monetary_unit
+
+w: Kyrgyzstani_monetary_unit
+d: monetary unit in Kyrgyzstan
+hyper: som
+hyper: tyiyn
+hypo: monetary_unit
+
+w: L 7
+w: lambert
+d: a cgs unit of illumination equal to the brightness of a perfectly diffusing surface that emits or reflects one lumen per square centimeter
+hypo: illumination_unit
+
+w: Laotian_monetary_unit
+d: monetary unit in Laos
+hyper: at
+hyper: kip
+hypo: monetary_unit
+
+w: Latvian_monetary_unit
+d: monetary unit in Latvia
+hyper: lats
+hyper: santims
+hypo: monetary_unit
+
+w: Lebanese_monetary_unit
+d: monetary unit in Lebanon
+hyper: Lebanese_pound
+hypo: monetary_unit
+
+w: Lebanese_pound
+w: pound 5
+d: the basic unit of money in Lebanon; equal to 100 piasters
+hypo: Lebanese_monetary_unit
+mp: piaster
+
+w: Lesotho_monetary_unit
+d: monetary unit in Lesotho
+hyper: loti
+hyper: sente
+hypo: monetary_unit
+
+w: Liberian_dollar
+d: the basic unit of money in Liberia
+hypo: dollar
+
+w: Libyan_dinar
+w: dinar 5
+d: the basic unit of money in Libya
+hypo: Libyan_monetary_unit
+mp: Libyan_dirham
+
+w: Libyan_dirham
+w: dirham 2
+d: 100 dirhams equal 1 dinar in Libya
+hp: Libyan_dinar
+hypo: Libyan_monetary_unit
+
+w: Libyan_monetary_unit
+d: monetary unit in Libya
+hyper: Libyan_dinar
+hyper: Libyan_dirham
+hypo: monetary_unit
+
+w: Lithuanian_monetary_unit
+d: monetary unit in Lithuania
+hyper: centas
+hyper: litas
+hypo: monetary_unit
+
+w: Luxembourg_franc
+d: formerly the basic unit of money in Luxembourg
+hypo: franc
+mp: centime
+
+w: M 2
+w: MB
+w: MiB
+w: mebibyte
+w: megabyte
+d: a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes
+hp: G 2
+hypo: computer_memory_unit
+mp: K
+
+w: M 3
+w: MB 1
+w: megabyte 1
+d: a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes
+hp: G 3
+hypo: computer_memory_unit
+mp: K 1
+
+w: MFLOP
+w: megaflop
+w: million_floating_point_operations_per_second
+d: (computer science) a unit for measuring the speed of a computer system
+hp: teraflop
+hypo: unit
+mt: noun.cognition:computer_science
+
+w: MIPS
+w: million_instructions_per_second
+d: (computer science) a unit for measuring the execution speed of a computer's CPU (but not the whole system)
+e: 4 MIPS is 4,000,000 instructions per second
+hypo: unit
+mt: noun.cognition:computer_science
+
+w: MT
+w: metric_ton
+w: t 1
+w: tonne
+d: a unit of weight equivalent to 1000 kilograms
+hypo: metric_weight_unit
+mp: quintal 2
+
+w: Macao_monetary_unit
+d: monetary unit in Macao
+hyper: avo
+hyper: pataca
+hypo: monetary_unit
+
+w: Madagascar_franc
+d: the basic unit of money in Madagascar
+hypo: franc
+
+w: Malawi_kwacha
+w: kwacha 1
+d: the basic unit of money in Malawi
+hypo: Malawian_monetary_unit
+mp: tambala
+
+w: Malawian_monetary_unit
+d: monetary unit in Malawi
+hyper: Malawi_kwacha
+hyper: tambala
+hypo: monetary_unit
+
+w: Malaysian_monetary_unit
+d: monetary unit is Malaysia
+hyper: ringgit
+hypo: monetary_unit
+
+w: Mali_franc
+d: the basic unit of money in Mali
+hypo: franc
+mp: centime
+
+w: Maltese_lira
+w: lira 3
+d: the basic unit of money on Malta; equal to 100 cents
+hypo: Maltese_monetary_unit
+
+w: Maltese_monetary_unit
+d: monetary unit on Malta
+hyper: Maltese_lira
+hypo: monetary_unit
+
+w: Mauritanian_monetary_unit
+d: monetary unit in Mauritania
+hyper: khoum
+hyper: ouguiya
+hypo: monetary_unit
+
+w: Mauritian_monetary_unit
+d: monetary unit in Mauritius
+hyper: Mauritian_rupee
+hypo: monetary_unit
+
+w: Mauritian_rupee
+w: rupee 3
+d: the basic unit of money in Mauritius; equal to 100 cents
+hypo: Mauritian_monetary_unit
+mp: cent
+
+w: Mb 2
+w: Mbit
+w: megabit
+d: a unit of information equal to 1000 kilobits or 10^6 (1,000,000) bits
+hp: Gb 4
+hypo: computer_memory_unit
+mp: kb 4
+
+w: Mexican_monetary_unit
+d: monetary unit in Mexico
+hyper: Mexican_peso
+hypo: monetary_unit
+
+w: Mexican_peso
+w: peso 6
+d: the basic unit of money in Mexico; equal to 100 centavos
+hypo: Mexican_monetary_unit
+mp: centavo
+
+w: Mibit
+w: mebibit
+d: a unit of information equal to 1024 kibibits or 2^20 (1,048,576) bits
+hp: Gibit
+hypo: computer_memory_unit
+mp: kibibit
+
+w: Moldovan_monetary_unit
+d: monetary unit in Moldova
+hyper: ban 1
+hyper: leu 1
+hypo: monetary_unit
+
+w: Mongolian_monetary_unit
+d: monetary unit in Mongolia
+hyper: mongo
+hyper: tughrik
+hypo: monetary_unit
+
+w: Moroccan_dirham
+w: dirham 4
+d: the basic unit of money in Morocco; equal to 100 centimes
+hypo: Moroccan_monetary_unit
+mp: centime
+
+w: Moroccan_monetary_unit
+d: monetary unit in Morocco
+hyper: Moroccan_dirham
+hypo: monetary_unit
+
+w: Mozambique_monetary_unit
+d: monetary unit in Mozambique
+hyper: metical
+hypo: monetary_unit
+
+w: Mx
+w: maxwell
+d: a cgs unit of magnetic flux equal to the flux perpendicular to an area of 1 square centimeter in a magnetic field of 1 gauss
+hp: Wb
+hypo: flux_unit
+
+w: Myanmar_monetary_unit
+d: monetary unit in the Union of Burma
+hyper: kyat
+hyper: pya
+hypo: monetary_unit
+mr: noun.location:Burma
+
+w: N
+w: normality
+d: (of a solution) concentration expressed in gram equivalents of solute per liter
+hypo: relative_quantity
+mt: noun.substance:solution
+
+w: N 1
+w: newton
+d: a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes
+hp: sthene
+hypo: force_unit
+mp: dyne
+
+w: Nepalese_monetary_unit
+d: monetary unit in Nepal
+hyper: Nepalese_rupee
+hypo: monetary_unit
+
+w: Nepalese_rupee
+w: rupee 4
+d: the basic unit of money in Nepal; equal to 100 paisa
+hypo: Nepalese_monetary_unit
+mp: paisa
+
+w: New_Zealand_dollar
+d: the basic unit of money in New Zealand
+hypo: dollar
+
+w: Nicaraguan_monetary_unit
+d: monetary unit in Nicaragua
+hyper: cordoba
+hypo: monetary_unit
+
+w: Niger_franc
+d: the basic unit of money in Niger
+hypo: franc
+mp: centime
+
+w: Nigerian_monetary_unit
+d: monetary unit in Nigeria
+hyper: kobo
+hyper: naira
+hypo: monetary_unit
+
+w: North_Korean_monetary_unit
+d: monetary unit in North Korea
+hyper: North_Korean_won
+hyper: chon 1
+hypo: monetary_unit
+
+w: North_Korean_won
+w: won 1
+d: the basic unit of money in North Korea
+hypo: North_Korean_monetary_unit
+mp: chon 1
+
+w: Norwegian_krone
+w: krone 2
+d: the basic unit of money in Norway
+hypo: Norwegian_monetary_unit
+mp: ore
+
+w: Norwegian_monetary_unit
+d: monetary unit in Norway
+hyper: Norwegian_krone
+hypo: monetary_unit
+
+w: Omani_monetary_unit
+d: monetary unit in Oman
+hyper: Omani_rial
+hyper: baisa
+hypo: monetary_unit
+
+w: Omani_rial
+w: rial 2
+w: riyal-omani
+d: the basic unit of money in Oman
+hypo: Omani_monetary_unit
+mp: baisa
+
+w: PB
+w: PiB
+w: pebibyte
+w: petabyte
+d: a unit of information equal to 1024 tebibytes or 2^50 bytes
+hp: EB
+hypo: computer_memory_unit
+mp: TB
+
+w: PB 1
+w: petabyte 1
+d: a unit of information equal to 1000 terabytes or 10^15 bytes
+hp: EB 1
+hypo: computer_memory_unit
+mp: TB 1
+
+w: Pa
+w: pascal
+d: a unit of pressure equal to one newton per square meter
+hypo: pressure_unit
+
+w: Pakistani_monetary_unit
+d: monetary unit in Pakistan
+hyper: Pakistani_rupee
+hyper: anna
+hypo: monetary_unit
+
+w: Pakistani_rupee
+w: rupee 2
+d: the basic unit of money in Pakistan; equal to 100 paisa
+hypo: Pakistani_monetary_unit
+mp: paisa
+
+w: Panamanian_monetary_unit
+d: monetary unit in Panama
+hyper: balboa
+hypo: monetary_unit
+
+w: Papuan_monetary_unit
+d: monetary unit in Papua New Guinea
+hyper: kina
+hyper: toea
+hypo: monetary_unit
+
+w: Paraguayan_monetary_unit
+d: monetary unit in Paraguay
+hyper: guarani
+hypo: monetary_unit
+
+w: Pb 2
+w: Pbit
+w: petabit
+d: a unit of information equal to 1000 terabits or 10^15 bits
+hp: Eb 2
+hypo: computer_memory_unit
+mp: Tb 2
+
+w: Peruvian_monetary_unit
+d: monetary unit in Peru
+hyper: inti
+hypo: monetary_unit
+
+w: Philippine_monetary_unit
+d: monetary unit in the Philippines
+hyper: Philippine_peso
+hypo: monetary_unit
+
+w: Philippine_peso
+w: peso 7
+d: the basic unit of money in the Philippines; equal to 100 centavos
+hypo: Philippine_monetary_unit
+mp: centavo
+
+w: Pibit
+w: pebibit
+d: a unit of information equal to 1024 tebibits or 2^50 bits
+hp: Eibit
+hypo: computer_memory_unit
+mp: Tibit
+
+w: Planck's_constant
+w: h 1
+d: the constant of proportionality relating the energy of a photon to its frequency; approximately 6.626 x 10^-34 joule-second
+hypo: constant_of_proportionality
+
+w: Polish_monetary_unit
+d: monetary unit in Poland
+hyper: grosz
+hyper: zloty
+hypo: monetary_unit
+
+w: Portuguese_escudo
+w: escudo 2
+d: formerly the basic monetary unit of Portugal; equal to 100 centavo
+hp: conto
+hypo: Portuguese_monetary_unit
+mp: centavo
+
+w: Portuguese_monetary_unit
+d: monetary unit in Portugal
+hyper: Portuguese_escudo
+hyper: conto
+hypo: monetary_unit
+
+w: Qatari_dirham
+w: dirham 6
+d: 100 dirhams equal 1 riyal in Qatar
+hp: Qatari_riyal
+hypo: Qatari_monetary_unit
+
+w: Qatari_monetary_unit
+d: monetary unit in Qatar
+hyper: Qatari_dirham
+hyper: Qatari_riyal
+hypo: monetary_unit
+
+w: Qatari_riyal
+w: riyal 2
+d: the basic unit of money in Qatar
+hypo: Qatari_monetary_unit
+mp: Qatari_dirham
+
+w: R
+w: roentgen
+d: a unit of radiation exposure; the dose of ionizing radiation that will produce 1 electrostatic unit of electricity in 1 cc of dry air
+hypo: radioactivity_unit
+
+w: R 1
+w: gas_constant
+w: universal_gas_constant
+d: (physics) the universal constant in the gas equation: pressure times volume = R times temperature; equal to 8.3143 joules per kelvin per mole
+hypo: constant
+mt: noun.cognition:natural_philosophy
+
+w: REM
+d: (Roentgen Equivalent Man) the dosage of ionizing radiation that will cause the same amount of injury to human tissue as 1 roentgen of X-rays
+hypo: radioactivity_unit
+
+w: Rankine
+d: a unit of temperature on the Rankine scale
+hypo: temperature_unit
+
+w: Roman_mile
+w: mile 3 drf noun.person:miler drf miler
+d: an ancient Roman unit of length equivalent to 1620 yards
+hypo: linear_measure
+
+w: Roman_pace
+d: an ancient Roman unit of length (4.85 English feet) measured as the distance from the heel of one foot to the heel of the same foot when next it touches the ground
+hypo: linear_measure
+
+w: Romanian_monetary_unit
+d: monetary unit in Romania
+hyper: ban
+hyper: leu
+hypo: monetary_unit
+
+w: Russian_monetary_unit
+d: monetary unit in Russia
+hyper: copeck
+hyper: rouble
+hypo: monetary_unit
+
+w: Rwanda_franc
+d: the basic unit of money in Rwanda
+hypo: franc
+mp: centime
+
+w: S
+w: mho
+w: reciprocal_ohm
+w: siemens
+d: a unit of conductance equal to the reciprocal of an ohm
+hypo: conductance_unit
+
+w: STP
+w: s.t.p.
+d: standard temperature and pressure
+hypo: atm
+hypo: standard_temperature
+
+w: Sao_Thome_e_Principe_monetary_unit
+d: monetary unit on Sao Tome e Principe
+hyper: dobra
+hypo: monetary_unit
+
+w: Saudi_Arabian_monetary_unit
+d: monetary unit in Saudi Arabia
+hyper: Saudi_Arabian_riyal
+hyper: qurush
+hypo: monetary_unit
+
+w: Saudi_Arabian_riyal
+w: riyal 3
+d: the basic unit of money in Saudi Arabia
+hypo: Saudi_Arabian_monetary_unit
+mp: qurush
+
+w: Senegalese_franc
+d: the basic unit of money in Senegal
+hypo: franc
+mp: centime
+
+w: Seychelles_monetary_unit
+d: monetary unit in Seychelles
+hyper: Seychelles_rupee
+hypo: monetary_unit
+
+w: Seychelles_rupee
+w: rupee 5
+d: the basic unit of money in Seychelles; equal to 100 cents
+hypo: Seychelles_monetary_unit
+mp: cent
+
+w: Sierra_Leone_monetary_unit
+d: monetary unit in Sierra Leone
+hyper: leone
+hypo: monetary_unit
+
+w: Singapore_dollar
+d: the basic unit of money in Singapore
+hypo: dollar
+
+w: Slovakian_monetary_unit
+d: monetary unit in Slovakia
+hyper: haler 1
+hyper: koruna 1
+hypo: monetary_unit
+
+w: Somalian_monetary_unit
+d: monetary unit in Somalia
+hyper: Somalian_shilling
+hypo: monetary_unit
+
+w: Somalian_shilling
+w: shilling 3
+d: the basic unit of money in Somalia; equal to 100 cents
+hypo: Somalian_monetary_unit
+
+w: South_African_monetary_unit
+d: monetary unit in South Africa
+hyper: rand
+hypo: monetary_unit
+
+w: South_Korean_monetary_unit
+d: monetary unit in South Korea
+hyper: South_Korean_won
+hyper: chon 2
+hypo: monetary_unit
+
+w: South_Korean_won
+w: won 2
+d: the basic unit of money in South Korea
+hypo: South_Korean_monetary_unit
+mp: chon 2
+
+w: Spanish_monetary_unit
+d: monetary unit in Spain
+hyper: Spanish_peseta
+hypo: monetary_unit
+
+w: Spanish_peseta
+w: peseta
+d: formerly the basic unit of money in Spain; equal to 100 centimos
+hypo: Spanish_monetary_unit
+mp: centimo
+
+w: Sri_Lanka_rupee
+w: rupee 6
+d: the basic unit of money in Sri Lanka; equal to 100 cents
+hyper: cent
+hypo: Sri_Lankan_monetary_unit
+
+w: Sri_Lankan_monetary_unit
+d: monetary unit in Sri Lanka
+hyper: Sri_Lanka_rupee
+hypo: monetary_unit
+
+w: Sudanese_monetary_unit
+d: monetary unit in the Sudan
+hyper: Sudanese_pound
+hypo: monetary_unit
+
+w: Sudanese_pound
+w: pound 7
+d: the basic unit of money in the Sudan; equal to 100 piasters
+hypo: Sudanese_monetary_unit
+mp: piaster
+
+w: Surinamese_monetary_unit
+d: monetary unit in Suriname
+hyper: florin 2
+hypo: monetary_unit
+
+w: Swaziland_monetary_unit
+d: monetary unit in Swaziland
+hyper: lilangeni
+hypo: monetary_unit
+
+w: Swedish_krona
+w: krona 2
+d: the basic unit of money in Sweden
+hypo: Swedish_monetary_unit
+mp: ore
+
+w: Swedish_mile
+w: mil 5
+w: mile 2 drf noun.person:miler drf miler
+d: a Swedish unit of length equivalent to 10 km
+hypo: linear_measure
+
+w: Swedish_monetary_unit
+d: monetary unit in Sweden
+hyper: Swedish_krona
+hypo: monetary_unit
+
+w: Swiss_franc
+d: the basic unit of money in Switzerland
+hypo: franc
+mp: centime
+
+w: Syrian_monetary_unit
+d: monetary unit in Syria
+hyper: Syrian_pound
+hypo: monetary_unit
+
+w: Syrian_pound
+w: pound 8
+d: the basic unit of money in Syria; equal to 100 piasters
+hypo: Syrian_monetary_unit
+mp: piaster
+
+w: TB
+w: TiB
+w: tebibyte
+w: terabyte
+d: a unit of information equal to 1024 gibibytes or 2^40 (1,099,511,627,776) bytes
+hp: PB
+hypo: computer_memory_unit
+mp: G 2
+
+w: TB 1
+w: terabyte 1
+d: a unit of information equal to 1000 gigabytes or 10^12 (1,000,000,000,000) bytes
+hp: PB 1
+hypo: computer_memory_unit
+mp: G 3
+
+w: Taiwan_dollar
+d: the basic unit of money in Taiwan
+hypo: dollar
+
+w: Tajikistani_monetary_unit
+d: monetary unit in Tajikistan
+hyper: ruble 1
+hyper: tanga
+hypo: monetary_unit
+
+w: Tanzanian_monetary_unit
+d: monetary unit in Tanzania
+hyper: Tanzanian_shilling
+hypo: monetary_unit
+
+w: Tanzanian_shilling
+w: shilling 4
+d: the basic unit of money in Tanzania; equal to 100 cents
+hypo: Tanzanian_monetary_unit
+
+w: Tb 2
+w: Tbit
+w: terabit
+d: a unit of information equal to 1000 gigabits or 10^12 (1,000,000,000,000) bits
+hp: Pb 2
+hypo: computer_memory_unit
+mp: Gb 4
+
+w: Thai_monetary_unit
+d: monetary unit in Thailand
+hyper: baht
+hyper: satang
+hypo: monetary_unit
+
+w: Tibit
+w: tebibit
+d: a unit of information equal to 1024 gibibits or 2^40 (1,099,511,627,776) bits
+hp: Pibit
+hypo: computer_memory_unit
+mp: Gibit
+
+w: Togo_franc
+d: the basic unit of money in Togo
+hypo: franc
+mp: centime
+
+w: Tongan_monetary_unit
+d: monetary unit in Tonga
+hyper: pa'anga
+hyper: seniti
+hypo: monetary_unit
+
+w: Trinidad_and_Tobago_dollar
+d: the basic unit of money in Trinidad and Tobago
+hypo: dollar
+
+w: Tunisian_dinar
+w: dinar 7
+d: the basic unit of money in Tunisia
+hypo: Tunisian_monetary_unit
+mp: Tunisian_dirham
+
+w: Tunisian_dirham
+w: dirham 3
+d: 100 dirhams equal 1 dinar in Tunisia
+hp: Tunisian_dinar
+hypo: Tunisian_monetary_unit
+mp: millime
+
+w: Tunisian_monetary_unit
+d: monetary unit in Tunisia
+hyper: Tunisian_dinar
+hyper: Tunisian_dirham
+hyper: millime
+hypo: monetary_unit
+
+w: Turkish_lira
+w: lira 2
+d: the basic unit of money in Turkey
+hypo: Turkish_monetary_unit
+mp: kurus
+
+w: Turkish_monetary_unit
+d: monetary unit in Turkey
+hyper: Turkish_lira
+hyper: asper
+hyper: kurus
+hypo: monetary_unit
+
+w: Turkmen_monetary_unit
+d: monetary unit in Turkmenistan
+hyper: manat 1
+hyper: tenge 1
+hypo: monetary_unit
+
+w: Tuvalu_dollar
+d: the basic unit of money in Tuvalu
+hypo: dollar
+
+w: Ugandan_monetary_unit
+d: monetary unit in Uganda
+hyper: Ugandan_shilling
+hypo: monetary_unit
+
+w: Ugandan_shilling
+w: shilling 5
+d: the basic unit of money in Uganda; equal to 100 cents
+hypo: Ugandan_monetary_unit
+
+w: Ukranian_monetary_unit
+d: monetary unit in Ukraine
+hyper: hryvnia
+hyper: kopiyka
+hypo: monetary_unit
+
+w: United_Arab_Emirate_dirham
+w: dirham 5
+d: the basic unit of money in the United Arab Emirates; equal to 1,000 fils
+hypo: United_Arab_Emirate_monetary_unit
+
+w: United_Arab_Emirate_monetary_unit
+d: monetary unit in the United Arab Emirates
+hyper: United_Arab_Emirate_dirham
+hypo: monetary_unit
+
+w: United_States_Customary_System
+d: the system of weights and measures based on the foot and pound and second and pint that dates back to colonial America but differs in some respects from the British Imperial System; today in the United States this system exists side by side with the SI system
+hypo: system_of_weights_and_measures
+
+w: United_States_dollar
+d: the basic unit of money in the United States
+hyper: Eurodollar
+hypo: dollar
+
+w: United_States_dry_unit
+d: a unit of measurement of capacity for dry substances officially adopted in the United States Customary System
+hyper: bushel 2
+hyper: dry_pint
+hyper: dry_quart
+hyper: peck 1
+hypo: dry_measure
+
+w: United_States_liquid_unit
+d: a liquid unit officially adopted in the United States Customary System
+hyper: barrel 1
+hyper: cup 2
+hyper: drachm 1
+hyper: fifth 1
+hyper: fluid_ounce 1
+hyper: gal
+hyper: gill 1
+hyper: minim 1
+hyper: pint 1
+hyper: quart 1
+hypo: liquid_measure
+
+w: Uruguayan_monetary_unit
+d: monetary unit in Uruguay
+hyper: Uruguayan_peso
+hypo: monetary_unit
+
+w: Uruguayan_peso
+w: peso 8
+d: the basic unit of money in Uruguay; equal to 100 centesimos
+hypo: Uruguayan_monetary_unit
+mp: centavo
+mp: centesimo
+
+w: Uzbekistani_monetary_unit
+d: monetary unit in Uzbekistan
+hyper: som 1
+hyper: tiyin 1
+hypo: monetary_unit
+
+w: V
+w: volt drf adj.pert:voltaic
+d: a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it
+hp: kV
+hypo: potential_unit
+mp: abvolt
+mp: femtovolt
+mp: mV
+mp: microvolt
+mp: nanovolt
+mp: picovolt
+
+w: Venezuelan_monetary_unit
+d: monetary unit of Venezuela
+hyper: bolivar
+hypo: monetary_unit
+
+w: Vietnamese_monetary_unit
+d: monetary unit in Vietnam
+hyper: dong
+hyper: hao
+hypo: monetary_unit
+
+w: W
+w: watt
+d: a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm
+hp: H.P.
+hp: kW
+hypo: power_unit
+mp: milliwatt
+
+w: Wb
+w: weber
+d: a unit of magnetic flux equal to 100,000,000 maxwells
+hypo: flux_unit
+mp: Mx
+
+w: Western_Samoan_monetary_unit
+d: monetary unit in Western Samoa
+hyper: sene
+hyper: tala
+hypo: monetary_unit
+
+w: YB
+w: YiB
+w: yobibyte
+w: yottabyte
+d: a unit of information equal to 1024 zebibytes or 2^80 bytes
+hypo: computer_memory_unit
+mp: ZB
+
+w: YB 1
+w: yottabyte 1
+d: a unit of information equal to 1000 zettabytes or 10^24 bytes
+hypo: computer_memory_unit
+mp: ZB 1
+
+w: Yb 2
+w: Ybit
+w: yottabit
+d: a unit of information equal to 1000 zettabits or 10^24 bits
+hypo: computer_memory_unit
+mp: Zb 2
+
+w: Yemeni_fils
+w: fils 1
+d: 100 Yemeni fils are worth one Yemeni rial
+hypo: Yemeni_monetary_unit
+
+w: Yemeni_monetary_unit
+d: monetary unit in Yemen
+hyper: Yemeni_fils
+hyper: Yemeni_rial
+hypo: monetary_unit
+
+w: Yemeni_rial
+w: rial
+d: the basic unit of money in Yemen; equal to 100 fils
+hypo: Yemeni_monetary_unit
+
+w: Yibit
+w: yobibit
+d: a unit of information equal to 1024 zebibits or 2^80 bits
+hypo: computer_memory_unit
+mp: Zibit
+
+w: Young's_modulus
+d: a coefficient of elasticity applicable to the stretching of a wire
+hypo: coefficient_of_elasticity
+
+w: Yugoslavian_dinar
+w: dinar 8
+d: the basic unit of money in Yugoslavia
+hypo: Yugoslavian_monetary_unit
+mp: para
+
+w: Yugoslavian_monetary_unit
+d: monetary unit in Yugoslavia
+hyper: Yugoslavian_dinar
+hyper: para
+hypo: monetary_unit
+
+w: ZB
+w: ZiB
+w: zebibyte
+w: zettabyte
+d: a unit of information equal to 1024 exbibytes or 2^70 bytes
+hp: YB
+hypo: computer_memory_unit
+mp: EB
+
+w: ZB 1
+w: zettabyte 1
+d: a unit of information equal to 1000 exabytes or 10^21 bytes
+hp: YB 1
+hypo: computer_memory_unit
+mp: EB 1
+
+w: Zairese_monetary_unit
+d: monetary unit in Zaire
+hyper: likuta
+hyper: zaire
+hypo: monetary_unit
+
+w: Zambian_kwacha
+w: kwacha 2
+d: the basic unit of money in Zambia
+hypo: Zambian_monetary_unit
+mp: ngwee
+
+w: Zambian_monetary_unit
+d: monetary unit in Zambia
+hyper: Zambian_kwacha
+hyper: ngwee
+hypo: monetary_unit
+
+w: Zb 2
+w: Zbit
+w: zettabit
+d: a unit of information equal to 1000 exabits or 10^21 bits
+hp: Yb 2
+hypo: computer_memory_unit
+mp: Eb 2
+
+w: Zibit
+w: zebibit
+d: a unit of information equal to 1024 exbibits or 2^70 bits
+hp: Yibit
+hypo: computer_memory_unit
+mp: Eibit
+
+w: Zimbabwean_dollar
+d: the basic unit of money in Zimbabwe
+hypo: dollar
+
+w: abamp
+w: abampere
+d: a unit of current equal to 10 amperes
+hypo: current_unit
+mp: A
+
+w: abcoulomb
+d: a unit of electrical charge equal to 10 coulombs
+hypo: charge_unit
+mp: C
+
+w: abfarad
+d: a capacitance unit equal to one billion farads
+hypo: capacitance_unit
+mp: F
+
+w: abhenry
+d: a unit of inductance equal to one billionth of a henry
+hp: H
+hypo: inductance_unit
+
+w: abohm
+d: a unit of resistance equal to a billionth of an ohm
+hp: ohm
+hypo: resistance_unit
+
+w: absolute_frequency
+w: frequency drf adj.all:frequent drf adjs.all:frequent
+d: the number of observations in a given statistical category
+hypo: cardinal
+
+w: absolute_majority
+w: majority drf adj.all:major 1
+d: (elections) more than half of the votes
+hypo: relative_quantity
+mt: noun.act:election 1
+
+w: absolute_value
+w: numerical_value
+d: a real number regardless of its sign
+hyper: modulus 1
+hypo: definite_quantity
+
+w: absolute_viscosity
+w: coefficient_of_viscosity
+w: dynamic_viscosity
+d: a measure of the resistance to flow of a fluid under an applied force
+hypo: coefficient
+
+w: absorptance
+w: absorption_coefficient
+w: coefficient_of_absorption
+d: a measure of the rate of decrease in the intensity of electromagnetic radiation (as light) as it passes through a given substance; the fraction of incident radiant energy absorbed per unit mass or thickness of an absorber
+e: absorptance equals 1 minus transmittance
+hypo: coefficient
+
+w: absorption_unit
+d: a unit for measuring absorption
+hyper: sabin
+hypo: unit
+
+w: abvolt
+d: a unit of potential equal to one-hundred-millionth of a volt
+hp: V
+hypo: potential_unit
+
+w: abwatt
+d: a power unit equal to the power dissipated when 1 abampere flows across a potential difference of 1 abvolt (one ten-thousandth of a milliwatt)
+hp: milliwatt
+hypo: power_unit
+
+w: acceleration_unit
+d: a unit for measuring acceleration
+hyper: gal 1
+hypo: unit
+
+w: accretion drf adjs.all:accretionary
+d: something contributing to growth or increase
+e: he scraped away the accretions of paint
+e: the central city surrounded by recent accretions
+hypo: addition
+
+w: acid_value
+d: (chemistry) the amount of free acid present in fat as measured by the milligrams of potassium hydroxide needed to neutralize it
+e: as the glycerides in fat slowly decompose the acid value increases
+hypo: definite_quantity
+mt: noun.cognition:chemical_science
+
+w: acre
+d: a unit of area (4840 square yards) used in English-speaking countries
+hypo: area_unit
+
+w: acre-foot
+d: the volume of water that would cover 1 acre to a depth of 1 foot; 43,560 cubic feet or 1233.5 cubic meters
+hypo: capacity_measure
+
+w: acre_inch
+d: one twelfth of an acre-foot
+hypo: capacity_measure
+
+w: addend
+d: a number that is added to another number (the augend)
+hypo: number
+
+w: addition
+w: gain
+w: increase drf verb.change:increase drf verb.change:increase 2
+d: a quantity that is added
+e: there was an addition to property taxes this year
+e: they recorded the cattle's gain in weight over a period of weeks
+hyper: accretion
+hypo: indefinite_quantity
+
+w: advantage
+d: (tennis) first point scored after deuce
+hp: noun.act:lawn_tennis
+hypo: point 1
+
+w: afghani
+d: the basic unit of money in Afghanistan
+hypo: Afghan_monetary_unit
+mp: pul
+
+w: agate_line
+w: line
+d: space for one line of print (one column wide and 1/14 inch deep) used to measure advertising
+hypo: area_unit
+
+w: agora
+d: 100 agorot equal 1 shekel in Israel
+hp: shekel
+hypo: Israeli_monetary_unit
+
+w: air_mile
+w: international_nautical_mile
+w: knot
+w: mi 4
+w: mile 4 drf miler
+w: naut_mi
+w: nautical_mile 1
+d: a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude
+hypo: nautical_linear_unit
+
+w: aleph-nought
+w: aleph-null
+w: aleph-zero
+d: the smallest infinite integer
+hypo: large_integer
+
+w: algebraic_number
+d: root of an algebraic equation with rational coefficients
+hypo: irrational
+
+w: aliquant ant aliquot
+w: aliquant_part
+d: an integer that is not an exact divisor of some quantity
+e: 5 is an aliquant part of 12
+hypo: divisor
+
+w: aliquot ant aliquant drf adjs.all:aliquot
+w: aliquot_part
+d: an integer that is an exact divisor of some quantity
+e: 4 is an aliquot part of 12
+hypo: divisor
+
+w: all_get_out
+w: billy-ho
+w: billyo
+w: billyoh
+d: an unimaginably large amount
+e: British say `it rained like billyo' where Americans say `it rained like all get out'
+hypo: large_indefinite_amount
+
+w: allocation_unit
+d: a group of sectors on a magnetic disk that can be reserved for the use of a particular file
+hypo: computer_memory_unit
+mp: sector
+
+w: ampere 2
+w: international_ampere
+d: a former unit of electric current (slightly smaller than the SI ampere)
+hypo: current_unit
+
+w: ampere-hour
+d: a unit of charge equal to 3600 coulombs
+hypo: charge_unit
+mp: ampere-minute
+
+w: ampere-minute
+d: a unit of charge equal to 60 coulombs
+hp: ampere-hour
+hypo: charge_unit
+mp: C
+
+w: ampere-turn
+d: a unit of magnetomotive force equal to the magnetomotive force produced by the passage of 1 ampere through 1 complete turn of a coil; equal to 1.257 gilberts
+hypo: magnetomotive_force_unit
+
+w: angular_unit
+d: a unit of measurement for angles
+hyper: arcdegree
+hyper: arcminute
+hyper: arcsecond
+hyper: grad
+hyper: microradian
+hyper: mil 3
+hyper: milliradian
+hyper: oxtant
+hyper: rad 1
+hyper: sextant
+hyper: sr
+hyper: straight_angle
+hypo: unit
+
+w: anna
+d: a former copper coin of Pakistan and India
+hypo: Indian_monetary_unit
+hypo: Pakistani_monetary_unit
+
+w: apothecaries'_ounce
+w: ounce 2
+w: troy_ounce
+d: a unit of apothecary weight equal to 480 grains or one twelfth of a pound
+hp: apothecaries'_pound
+hypo: apothecaries'_unit
+hypo: troy_unit
+mp: drachm
+mp: pennyweight
+
+w: apothecaries'_pound
+w: troy_pound
+d: an apothecary weight equal to 12 ounces or 373.242 grams
+hypo: apothecaries'_unit
+hypo: troy_unit
+mp: apothecaries'_ounce
+
+w: apothecaries'_unit
+w: apothecaries'_weight
+d: any weight unit used in pharmacy; an ounce is equal to 480 grains and a pound is equal to 12 ounces
+hyper: apothecaries'_ounce
+hyper: apothecaries'_pound
+hyper: drachm
+hyper: grain 2
+hyper: scruple
+hypo: weight
+
+w: ar
+w: are
+d: a unit of surface area equal to 100 square meters
+hp: hectare
+hypo: area_unit
+
+w: arcdegree
+w: degree
+d: a measure for arcs and angles
+e: there are 360 degrees in a circle
+hp: oxtant
+hp: sextant
+hypo: angular_unit
+mp: arcminute
+
+w: archine
+d: a Russian unit of length (71 cm)
+hypo: linear_measure
+
+w: arcminute
+w: minute
+w: minute_of_arc
+d: a unit of angular distance equal to a 60th of a degree
+hp: arcdegree
+hypo: angular_unit
+mp: arcsecond
+
+w: arcsecond
+w: second
+d: a 60th part of a minute of arc
+e: the treasure is 2 minutes and 45 seconds south of here
+hp: arcminute
+hypo: angular_unit
+
+w: ardeb
+d: a unit of dry measure used in Egypt
+hypo: dry_measure
+
+w: area_unit
+w: square_measure
+d: a system of units used to measure areas
+hyper: acre
+hyper: agate_line
+hyper: ar
+hyper: arpent
+hyper: b
+hyper: centare
+hyper: column_inch
+hyper: dessiatine
+hyper: em 1
+hyper: hectare
+hyper: morgen
+hyper: perch 2
+hyper: quarter_section
+hyper: sq_ft
+hyper: sq_in
+hyper: sq_yd
+hyper: square_mile
+hypo: unit
+
+w: armful
+d: the quantity that can be contained in the arms
+hypo: containerful
+
+w: arpent
+d: a former French unit of area; equal approximately to an acre
+hypo: area_unit
+
+w: arroba 1
+d: a unit of weight used in some Spanish speaking countries
+hypo: weight
+
+w: arroba 2
+d: a liquid measure (with different values) used in some Spanish speaking countries
+hypo: liquid_measure
+
+w: asper
+d: 20 aspers equal 1 kurus in Turkey
+hp: kurus
+hypo: Turkish_monetary_unit
+
+w: astronomy_unit
+d: a linear unit used for astronomical distances
+hyper: AU
+hyper: light-year
+hyper: light_hour
+hyper: light_minute
+hyper: light_second
+hyper: parsec
+hypo: linear_measure
+
+w: at
+d: 100 at equal 1 kip in Laos
+hp: kip
+hypo: Laotian_monetary_unit
+
+w: atm
+w: atmosphere
+w: standard_atmosphere
+w: standard_pressure
+d: a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade
+hyper: STP
+hypo: pressure_unit
+
+w: atomic_mass_unit
+d: unit of mass for expressing masses of atoms or molecules
+hypo: mass_unit
+
+w: atomic_number
+d: the order of an element in Mendeleyev's table of the elements; equal to the number of protons in the nucleus or electrons in the neutral state of an atom of an element
+hyper: magic_number
+hypo: number
+
+w: augend
+d: a number to which another number (the addend) is added
+hypo: number
+
+w: aught
+w: cipher
+w: cypher
+w: goose_egg
+w: nada
+w: naught
+w: nil
+w: nix
+w: nothing
+w: null
+w: zero 2 drf verb.change:zero 1
+w: zilch
+w: zip
+w: zippo
+d: a quantity of no importance
+e: it looked like nothing I had ever seen before
+e: reduced to nil all the work we had done
+e: we racked up a pathetic goose egg
+e: it was all for naught
+e: I didn't hear zilch about it
+hyper: Fanny_Adams
+hyper: nihil
+hypo: relative_quantity
+
+w: austral
+d: the basic unit of money in Argentina; equal to 100 centavos
+hypo: Argentine_monetary_unit
+mp: centavo
+
+w: avo
+d: 100 avos equal 1 pataca in Macao
+hp: pataca
+hypo: Macao_monetary_unit
+
+w: avoirdupois
+w: avoirdupois_weight
+d: a system of weights based on the 16-ounce pound (or 7,000 grains)
+hypo: system_of_weights
+mp: avoirdupois_unit
+
+w: avoirdupois_unit
+d: any of the units of the avoirdupois system of weights
+hp: British_Imperial_System
+hp: avoirdupois
+hyper: cental
+hyper: cwt 1
+hyper: dram 1
+hyper: grain 1
+hyper: gross_ton
+hyper: half_pound
+hyper: kiloton
+hyper: lb
+hyper: megaton
+hyper: net_ton
+hyper: ounce 1
+hyper: quarter 2
+hyper: quarter_pound
+hyper: stone
+hypo: mass_unit
+
+w: b
+w: barn
+d: (physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter
+hypo: area_unit
+mt: noun.cognition:atomic_physics
+
+w: bad_block
+d: (computer science) a block (usually one sector) that cannot reliably hold data
+hypo: block
+mt: noun.cognition:computer_science
+
+w: bag
+w: bagful
+d: the quantity that a bag will hold
+e: he ate a large bag of popcorn
+hypo: containerful
+
+w: bag 1 drf verb.contact:bag 1
+d: the quantity of game taken in a particular period (usually by one person)
+e: his bag included two deer
+hypo: indefinite_quantity
+
+w: baht
+w: tical
+d: the basic unit of money in Thailand
+hypo: Thai_monetary_unit
+mp: satang
+
+w: baisa
+w: baiza
+d: 1,000 baiza equal 1 riyal-omani in Oman
+hp: Omani_rial
+hypo: Omani_monetary_unit
+
+w: balboa
+d: the basic unit of money in Panama; equal to 100 centesimos
+hypo: Panamanian_monetary_unit
+mp: centesimo
+
+w: ban
+d: 100 bani equal 1 leu in Romania
+hp: leu
+hypo: Romanian_monetary_unit
+
+w: ban 1
+d: 100 bani equal 1 leu in Moldova
+hypo: Moldovan_monetary_unit
+
+w: bandwidth
+d: a data transmission rate; the maximum amount of information (bits/second) that can be transmitted along a channel
+hypo: information_measure
+
+w: bar
+d: (meteorology) a unit of pressure equal to a million dynes per square centimeter
+e: unfortunately some writers have used bar for one dyne per square centimeter
+hypo: pressure_unit
+mp: bar_absolute
+mp: millibar
+mt: noun.cognition:meteorology
+
+w: bar_absolute
+w: barye
+w: microbar
+d: the absolute unit of pressure equal to one dyne per square centimeter
+hp: bar
+hypo: pressure_unit
+
+w: barnful
+d: the quantity that a barn will hold
+hypo: containerful
+
+w: barrel 1
+w: bbl 1
+d: any of various units of capacity
+e: a barrel of beer is 31 gallons and a barrel of oil is 42 gallons
+hp: hogshead 1
+hypo: British_capacity_unit
+hypo: United_States_liquid_unit
+mp: Imperial_gallon
+mp: gal
+
+w: barrel 4 drf verb.contact:barrel
+w: barrelful
+d: the quantity that a barrel (of any size) will hold
+hypo: containerful
+
+w: barrels
+d: the amount that many barrels might hold
+hypo: large_indefinite_amount
+
+w: barrow
+w: barrowful
+d: the quantity that a barrow will hold
+hypo: containerful
+
+w: baryon_number
+d: a number equal to the difference between the number of baryons and the number of antibaryons in any subatomic structure; it is conserved in all types of particle interactions
+hypo: number
+
+w: base
+w: radix
+d: (numeration system) the positive integer that is equivalent to one in the next higher counting place
+e: 10 is the radix of the decimal system
+hypo: number
+mt: noun.communication:number_representation_system
+
+w: basin
+w: basinful
+d: the quantity that a basin will hold
+e: a basinful of water
+hypo: containerful
+
+w: basket
+w: basketful
+d: the quantity contained in a basket
+hypo: containerful
+
+w: batch
+w: deal
+w: flock
+w: good_deal
+w: great_deal
+w: hatful 2
+w: heap drf verb.change:heap drf verb.possession:heap
+w: lot
+w: mass
+w: mess
+w: mickle
+w: mint
+w: mountain
+w: muckle
+w: passel
+w: peck
+w: pile drf verb.motion:pile
+w: plenty drf adjs.all:plenteous
+w: pot 1
+w: quite_a_little
+w: raft
+w: sight
+w: slew
+w: spate
+w: stack
+w: tidy_sum
+w: wad drf verb.contact:wad
+d: (often followed by `of') a large number or amount or extent
+e: a batch of letters
+e: a deal of trouble
+e: a lot of money
+e: he made a mint on the stock market
+e: see the rest of the winners in our huge passel of photos
+e: it must have cost plenty
+e: a slew of journalists
+e: a wad of money
+hyper: deluge
+hyper: haymow
+hypo: large_indefinite_amount
+
+w: bath
+d: an ancient Hebrew liquid measure equal to about 10 gallons
+hp: homer
+hypo: liquid_measure
+
+w: battalion
+w: large_number
+w: multitude drf adjs.all:multitudinous
+w: pack
+w: plurality 1
+d: a large indefinite number
+e: a battalion of ants
+e: a multitude of TV antennas
+e: a plurality of religions
+hypo: large_indefinite_amount
+
+w: baud
+w: baud_rate
+d: (computer science) a data transmission rate (bits/second) for modems
+hypo: information_measure
+mt: noun.cognition:computer_science
+
+w: billion 2
+w: gazillion
+w: jillion
+w: million 1
+w: trillion 2
+w: zillion
+d: a very large indefinite number (usually hyperbole)
+e: there were millions of flies
+hypo: large_indefinite_amount
+
+w: billionth
+w: one-billionth
+d: one part in a billion equal parts
+hypo: common_fraction
+
+w: bin
+w: binful
+d: the quantity contained in a bin
+hypo: containerful
+
+w: binary_digit
+d: either 0 or 1 in binary notation
+hypo: digit
+
+w: biquadrate drf adj.pert:biquadratic
+w: biquadratic drf adj.pert:biquadratic
+w: fourth_power
+w: quartic
+d: an algebraic equation of the fourth degree
+hypo: number
+
+w: birdie drf verb.contact:birdie
+d: (golf) a score of one stroke under par on a hole
+hypo: score
+mt: noun.act:golf
+
+w: birr
+d: the basic unit of money in Ethiopia; equal to 100 cents
+hypo: Ethiopian_monetary_unit
+mp: cent
+
+w: bit
+d: a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states
+e: there are 8 bits in a byte
+hp: byte
+hyper: check_bit
+hypo: unit
+
+w: bit 1 drf adjs.all:bitty
+w: spot
+d: a small piece or quantity of something
+e: a spot of tea
+e: a bit of paper
+e: a bit of lint
+e: I gave him a bit of my mind
+hypo: small_indefinite_amount
+
+w: block
+d: (computer science) a sector or group of sectors that function as the smallest data unit permitted
+e: since blocks are often defined as a single sector, the terms `block' and `sector' are sometimes used interchangeably
+hyper: bad_block
+hypo: computer_memory_unit
+mp: sector
+mt: noun.cognition:computer_science
+
+w: blood_count
+d: the number of red and white corpuscles in a blood sample
+hypo: count
+
+w: board_foot
+d: the volume of a piece of wood 1 foot square and 1 inch thick
+hypo: capacity_measure
+
+w: board_measure
+d: a system of units for measuring lumber based on the board foot
+hypo: metric
+
+w: boatload
+w: carload
+w: shipload
+d: the amount of cargo that can be held by a boat or ship or a freight car
+e: he imported wine by the boatload
+hypo: large_indefinite_amount
+
+w: body_count
+d: a count of troops killed in an operation or time period
+e: the daily body count increased as the war went on
+hypo: count
+
+w: body_length
+d: the length of your body
+hypo: linear_measure
+
+w: bogey drf verb.contact:bogey
+d: (golf) a score of one stroke over par on a hole
+hypo: score
+mt: noun.act:golf
+
+w: bolivar
+d: the basic unit of money in Venezuela; equal to 100 centimos
+hypo: Venezuelan_monetary_unit
+mp: centimo
+
+w: boliviano
+d: the basic unit of money in Bolivia; equal to 100 centavos
+hypo: Bolivian_monetary_unit
+mp: centavo
+
+w: bottle drf verb.contact:bottle
+w: bottleful
+d: the quantity contained in a bottle
+hyper: split
+hypo: containerful
+
+w: bowl
+w: bowlful
+d: the quantity contained in a bowl
+hypo: containerful
+
+w: box
+w: boxful
+d: the quantity contained in a box
+e: he gave her a box of chocolates
+hypo: containerful
+
+w: boxcars
+d: (usually plural) an expression used when two dice are thrown and both come up showing six spots
+hypo: 12
+mu: noun.communication:plural
+
+w: brace
+w: couple drf verb.contact:couple 2
+w: couplet
+w: distich
+w: duad
+w: duet
+w: duo
+w: dyad
+w: pair drf verb.contact:pair 3 drf verb.contact:pair 4
+w: span 2
+w: twain
+w: twosome
+w: yoke
+d: two items of the same kind
+hyper: doubleton
+hypo: 2
+mp: fellow
+
+w: breakage
+d: the quantity broken
+e: the total breakage was huge
+hypo: indefinite_quantity
+
+w: breathing_room
+w: breathing_space
+d: sufficient room for easy breathing or movement
+e: moved to the country to find breathing room
+hypo: elbow_room
+
+w: bucket drf verb.contact:bucket
+w: bucketful
+d: the quantity contained in a bucket
+hypo: containerful
+
+w: bulk_modulus
+d: the ratio of the change in pressure acting on a volume to the fractional change in volume
+hypo: coefficient_of_elasticity
+
+w: bushel 1
+d: a British imperial capacity measure (liquid or dry) equal to 4 pecks
+hp: quarter 4
+hypo: British_capacity_unit
+mp: Imperial_gallon
+mp: peck 2
+
+w: bushel 2
+d: a United States dry measure equal to 4 pecks or 2152.42 cubic inches
+hypo: United_States_dry_unit
+mp: peck 1
+
+w: busload
+d: the quantity of cargo or the number of passengers that a bus can carry
+hypo: large_indefinite_amount
+
+w: butat
+w: butut
+d: 100 bututs equal 1 dalasi in Gambia
+hp: dalasi
+hypo: Gambian_monetary_unit
+
+w: byte
+d: a sequence of 8 bits (enough to represent one character of alphanumeric data) processed as a single unit of information
+hp: word
+hypo: computer_memory_unit
+mp: bit
+mp: nibble
+
+w: cable
+w: cable's_length
+w: cable_length
+d: a nautical unit of depth
+hypo: linear_measure
+
+w: calorie 1 drf adj.pert:caloric
+w: gram_calorie
+w: small_calorie
+d: unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure
+hp: Calorie 2
+hypo: energy_unit
+
+w: can
+w: canful
+d: the quantity contained in a can
+hypo: containerful
+
+w: candela
+w: candle drf verb.perception:candle
+w: cd
+w: standard_candle
+d: the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin
+hypo: candlepower_unit
+
+w: candlepower_unit
+w: luminous_intensity_unit
+d: a measure of luminous intensity
+hyper: candela
+hyper: international_candle
+hypo: light_unit
+
+w: capacitance_unit
+d: a measure of the capacity of a circuit component to store charge
+hyper: F
+hyper: abfarad
+hyper: microfarad
+hyper: millifarad
+hyper: picofarad
+hypo: electromagnetic_unit
+
+w: capacity drf adjs.all:capacious
+w: content drf verb.stative:contain 13
+d: the amount that can be contained
+e: the gas tank has a capacity of 12 gallons
+hyper: vital_capacity
+hypo: volume
+
+w: capacity 1 drf adjs.all:capacious
+d: (computer science) the amount of information (in bytes) that can be stored on a disk drive
+e: the capacity of a hard disk drive is usually expressed in megabytes
+hyper: formatted_capacity
+hyper: unformatted_capacity
+hypo: indefinite_quantity
+mt: noun.cognition:computer_science
+
+w: capacity_measure
+w: capacity_unit
+w: cubage_unit
+w: cubature_unit
+w: cubic_content_unit
+w: cubic_measure
+w: displacement_unit
+w: volume_unit
+d: a unit of measurement of volume or capacity
+hp: volume
+hyper: acre-foot
+hyper: acre_inch
+hyper: board_foot
+hyper: cord
+hyper: cran
+hyper: cu_ft
+hyper: cu_in
+hyper: cubic_yard
+hyper: dry_measure
+hyper: fathom 2
+hyper: field_capacity
+hyper: hin
+hyper: homer
+hyper: last 1
+hyper: liquid_measure
+hyper: metric_capacity_unit
+hyper: standard
+hypo: unit
+
+w: capful
+d: the quantity that a cap will hold
+hypo: containerful
+
+w: carat
+d: a unit of weight for precious stones = 200 mg
+hp: g
+hypo: metric_weight_unit
+mp: decigram
+
+w: carat 2
+w: karat
+w: kt
+d: the unit of measurement for the proportion of gold in an alloy; 18-karat gold is 75% gold; 24-karat gold is pure gold
+hypo: unit
+
+w: cardinal
+w: cardinal_number
+d: the number of elements in a mathematical set; denotes a quantity but not the order
+hyper: absolute_frequency
+hyper: googol
+hyper: googolplex
+hypo: number
+
+w: cardinality
+d: (mathematics) the number of elements in a set or group (considered as a property of that grouping)
+hypo: number
+mt: noun.cognition:math
+
+w: carful
+d: the quantity that a car will hold
+hypo: containerful
+
+w: cartload
+d: the quantity that a cart holds
+hypo: containerful
+
+w: carton
+w: cartonful
+d: the quantity contained in a carton
+hypo: containerful
+
+w: case drf verb.contact:case 1
+w: caseful
+d: the quantity contained in a case
+hypo: containerful
+
+w: cask
+w: caskful
+d: the quantity a cask will hold
+hypo: containerful
+
+w: catch drf verb.contact:catch 3
+w: haul
+d: the quantity that was caught
+e: the catch was only 10 fish
+hypo: indefinite_quantity
+
+w: cattie
+w: catty
+d: any of various units of weight used in southeastern Asia (especially a Chinese measure equal to 500 grams)
+hypo: weight
+mr: noun.location:Cathay
+
+w: cc
+w: cubic_centimeter
+w: cubic_centimetre
+w: mil 2
+w: milliliter
+w: millilitre
+w: ml
+d: a metric unit of volume equal to one thousandth of a liter
+hp: centiliter
+hypo: metric_capacity_unit
+mp: cubic_millimeter
+
+w: cedi
+d: the basic unit of money in Ghana
+hypo: Ghanian_monetary_unit
+mp: pesewa
+
+w: cent
+d: a fractional monetary unit of several countries
+hp: British_shilling
+hp: Dutch_florin
+hp: Mauritian_rupee
+hp: Seychelles_rupee
+hp: birr
+hp: dollar
+hp: leone
+hp: lilangeni
+hp: rand
+hypo: Sri_Lanka_rupee
+hypo: fractional_monetary_unit
+
+w: cental
+w: centner 1
+w: cwt 2
+w: hundredweight 2
+w: quintal 1
+w: short_hundredweight
+d: a United States unit of weight equivalent to 100 pounds
+hp: net_ton
+hypo: avoirdupois_unit
+mp: quarter 2
+
+w: centare
+w: square_meter
+w: square_metre
+d: a centare is 1/100th of an are
+hypo: area_unit
+
+w: centas
+d: 100 centas equal 1 litas in Lithuania
+hypo: Lithuanian_monetary_unit
+
+w: centavo
+d: a fractional monetary unit of several countries: El Salvador and Sao Tome and Principe and Brazil and Argentina and Bolivia and Colombia and Cuba and the Dominican Republic and Ecuador and El Salvador and Guatemala and Honduras and Mexico and Nicaragua and Peru and the Philippines and Portugal
+hp: Cape_Verde_escudo
+hp: Colombian_peso
+hp: Cuban_peso
+hp: Dominican_peso
+hp: El_Salvadoran_colon
+hp: Guinea-Bissau_peso
+hp: Mexican_peso
+hp: Philippine_peso
+hp: Portuguese_escudo
+hp: Uruguayan_peso
+hp: austral
+hp: boliviano
+hp: cordoba
+hp: dobra
+hp: lempira
+hp: metical
+hp: quetzal
+hp: real 1
+hp: sucre
+hypo: fractional_monetary_unit
+
+w: centesimo
+d: a fractional monetary unit of several countries: Panama and Italy and Uruguay and Chile
+hp: Chilean_peso
+hp: Italian_lira
+hp: Uruguayan_peso
+hp: balboa
+hypo: fractional_monetary_unit
+
+w: centiliter
+w: centilitre
+w: cl
+d: a metric unit of volume equal to one hundredth of a liter
+hp: deciliter
+hypo: metric_capacity_unit
+mp: cc
+
+w: centime
+d: a fractional monetary unit of several countries: France and Algeria and Belgium and Burkina Faso and Burundi and Cameroon and Chad and the Congo and Gabon and Haiti and the Ivory Coast and Luxembourg and Mali and Morocco and Niger and Rwanda and Senegal and Switzerland and Togo
+hp: Algerian_dinar
+hp: Belgian_franc
+hp: Burkina_Faso_franc
+hp: Burundi_franc
+hp: Cameroon_franc
+hp: Chadian_franc
+hp: Congo_franc
+hp: Cote_d'Ivoire_franc
+hp: Gabon_franc
+hp: Luxembourg_franc
+hp: Mali_franc
+hp: Moroccan_dirham
+hp: Niger_franc
+hp: Rwanda_franc
+hp: Senegalese_franc
+hp: Swiss_franc
+hp: Togo_franc
+hp: franc
+hyper: Algerian_centime
+hyper: Haitian_centime
+hypo: fractional_monetary_unit
+
+w: centimeter
+w: centimetre
+w: cm
+d: a metric unit of length equal to one hundredth of a meter
+hp: decimeter
+hypo: metric_linear_unit
+mp: millimeter
+
+w: centimo
+d: a fractional monetary unit of Venezuela and Costa Rica and Equatorial Guinea and Paraguay and Spain
+hp: Costa_Rican_colon
+hp: Spanish_peseta
+hp: bolivar
+hp: guarani
+hypo: fractional_monetary_unit
+
+w: centner 2
+d: in some European countries: a unit of weight equivalent to 50 kilograms
+hp: centner 3
+hypo: metric_weight_unit
+mp: myg
+
+w: centner 3
+w: doppelzentner
+w: hundredweight 3
+w: metric_hundredweight
+d: a unit of weight equal to 100 kilograms
+hp: quintal 2
+hypo: metric_weight_unit
+mp: centner 2
+
+w: cgs
+w: cgs_system
+d: system of measurement based on centimeters and grams and seconds
+hypo: metric_system
+
+w: chain
+d: a unit of length
+hyper: Gunter's_chain
+hyper: engineer's_chain
+hyper: nautical_chain
+hypo: linear_measure
+mp: link 1
+mp: pace
+
+w: chaldron
+d: a British imperial capacity measure (liquid or dry) equal to 36 bushels
+hypo: British_capacity_unit
+
+w: charge_unit
+w: quantity_unit
+d: a measure of the quantity of electricity (determined by the amount of an electric current and the time for which it flows)
+hyper: C
+hyper: abcoulomb
+hyper: ampere-hour
+hyper: ampere-minute
+hypo: electromagnetic_unit
+
+w: check_bit
+w: parity
+w: parity_bit
+d: (computer science) a bit that is used in an error detection procedure in which a 0 or 1 is added to each group of bits so that it will have either an odd number of 1's or an even number of 1's; e.g., if the parity is odd then any group of bits that arrives with an even number of 1's must contain an error
+hypo: bit
+mt: noun.cognition:computer_science
+
+w: chetrum
+d: 100 chetrums equal 1 ngultrum in Bhutan
+hp: ngultrum
+hypo: Bhutanese_monetary_unit
+
+w: chlorinity
+d: a measure of the quantity of chlorine or other halides in water (especially seawater)
+hypo: definite_quantity
+
+w: chon 1
+d: 100 chon equal 1 won in North Korea
+hp: North_Korean_won
+hypo: North_Korean_monetary_unit
+
+w: chon 2
+d: 100 chon equal 1 won in South Korea
+hp: South_Korean_won
+hypo: South_Korean_monetary_unit
+
+w: chunk
+d: a substantial amount
+e: we won a chunk of money
+hypo: large_indefinite_amount
+
+w: cicero
+d: a linear unit of the size of type slightly larger than an em
+hypo: linear_measure
+
+w: circular_measure
+d: measurement of angles in radians
+hypo: metric
+
+w: circulating_decimal
+w: recurring_decimal
+w: repeating_decimal
+d: a decimal with a sequence of digits that repeats itself indefinitely
+hypo: decimal
+
+w: circulation drf verb.motion:circulate 3
+d: number of copies of a newspaper or magazine that are sold
+e: by increasing its circulation the newspaper hoped to increase its advertising
+hypo: count
+
+w: circulation 1
+d: (library science) the count of books that are loaned by a library over a specified period
+hypo: count
+mt: noun.cognition:library_science
+
+w: clearance
+w: headroom
+w: headway
+d: vertical space available to allow easy passage under something
+hypo: elbow_room
+
+w: coefficient
+d: a constant number that serves as a measure of some property or characteristic
+hyper: absolute_viscosity
+hyper: absorptance
+hyper: coefficient_of_drag
+hyper: coefficient_of_expansion
+hyper: coefficient_of_friction
+hyper: coefficient_of_mutual_induction
+hyper: coefficient_of_reflection
+hyper: coefficient_of_self_induction
+hyper: modulus
+hyper: transmission
+hyper: weight 2
+hypo: constant
+
+w: coefficient_of_drag
+w: drag_coefficient
+d: the ratio of the drag on a body moving through air to the product of the velocity and the surface area of the body
+hypo: coefficient
+
+w: coefficient_of_elasticity
+w: elastic_modulus
+w: modulus_of_elasticity
+d: (physics) the ratio of the applied stress to the change in shape of an elastic body
+hyper: Young's_modulus
+hyper: bulk_modulus
+hyper: modulus_of_rigidity
+hypo: modulus
+mt: noun.cognition:natural_philosophy
+
+w: coefficient_of_expansion
+w: expansivity
+d: the fractional change in length or area or volume per unit change in temperature at a given constant pressure
+hypo: coefficient
+
+w: coefficient_of_friction
+d: the ratio of the weight of an object being moved along a surface and the force that maintains contact between the object and the surface
+hypo: coefficient
+
+w: coefficient_of_mutual_induction
+w: mutual_inductance
+d: a measure of the induction between two circuits; the ratio of the electromotive force in a circuit to the corresponding change of current in a neighboring circuit; usually measured in henries
+hypo: coefficient
+
+w: coefficient_of_reflection
+w: reflectance
+w: reflection_factor
+w: reflectivity
+d: the fraction of radiant energy that is reflected from a surface
+hypo: coefficient
+
+w: coefficient_of_self_induction
+w: self-inductance
+d: the ratio of the electromotive force produced in a circuit by self-induction to the rate of change of current producing it, expressed in henries
+hypo: coefficient
+
+w: column_inch
+w: inch 2
+d: a unit of measurement for advertising space
+hypo: area_unit
+
+w: common_denominator
+d: an integer that is a common multiple of the denominators of two or more fractions
+hypo: denominator
+
+w: common_divisor
+w: common_factor
+w: common_measure
+d: an integer that divides two (or more) other integers evenly
+hyper: greatest_common_divisor
+hypo: divisor 1
+
+w: common_fraction
+w: simple_fraction
+d: the quotient of two integers
+hyper: billionth
+hyper: duodecimal
+hyper: eighth
+hyper: fifth
+hyper: fourth
+hyper: half
+hyper: hundredth
+hyper: millionth
+hyper: ninth
+hyper: one-hundred-millionth
+hyper: one-hundred-thousandth
+hyper: one-quadrillionth
+hyper: one-quintillionth
+hyper: one-seventh
+hyper: one-sixteenth
+hyper: one-sixth
+hyper: one-sixtieth
+hyper: one-sixty-fourth
+hyper: one-ten-thousandth
+hyper: one-tenth
+hyper: one-third
+hyper: one-thirty-second
+hyper: one-thousandth
+hyper: one-trillionth
+hyper: three-fourths
+hyper: two-thirds
+hypo: fraction
+
+w: common_multiple
+d: an integer that is a multiple of two or more other integers
+hypo: integer
+
+w: complement
+d: a complete number or quantity
+e: a full complement
+hypo: count
+
+w: complex_conjugate
+d: either of two complex numbers whose real parts are identical and whose imaginary parts differ only in sign
+hypo: complex_number
+
+w: complex_fraction
+w: compound_fraction
+d: a fraction with fractions in the numerator or denominator
+hypo: fraction
+
+w: complex_number
+w: complex_quantity
+w: imaginary
+w: imaginary_number
+d: (mathematics) a number of the form a+bi where a and b are real numbers and i is the square root of -1
+hyper: complex_conjugate
+hyper: pure_imaginary_number
+hyper: real
+hypo: number
+mp: imaginary_part
+mt: noun.cognition:math
+
+w: composite_number
+d: an integer that is divisible without remainder by at least one positive integer other than itself and one
+hypo: number
+
+w: compound_number
+d: a quantity expressed in two different units
+e: one hour and ten minutes
+hypo: number
+
+w: computer_memory_unit
+d: a unit for measuring computer memory
+hyper: EB
+hyper: EB 1
+hyper: Eb 2
+hyper: Eibit
+hyper: G 2
+hyper: G 3
+hyper: Gb 4
+hyper: Gibit
+hyper: K
+hyper: K 1
+hyper: M 2
+hyper: M 3
+hyper: Mb 2
+hyper: Mibit
+hyper: PB
+hyper: PB 1
+hyper: Pb 2
+hyper: Pibit
+hyper: TB
+hyper: TB 1
+hyper: Tb 2
+hyper: Tibit
+hyper: YB
+hyper: YB 1
+hyper: Yb 2
+hyper: Yibit
+hyper: ZB
+hyper: ZB 1
+hyper: Zb 2
+hyper: Zibit
+hyper: allocation_unit
+hyper: block
+hyper: byte
+hyper: kb 4
+hyper: kibibit
+hyper: nibble
+hyper: partition
+hyper: sector
+hyper: word
+hypo: unit
+
+w: conductance_unit
+d: a measure of a material's ability to conduct an electrical charge
+hyper: S
+hypo: electromagnetic_unit
+
+w: constant
+d: a number representing a quantity assumed to have a fixed value in a specified mathematical context
+e: the velocity of light is a constant
+hyper: Avogadro's_number
+hyper: Boltzmann's_constant
+hyper: G 8
+hyper: Hubble's_constant
+hyper: R 1
+hyper: coefficient
+hyper: constant_of_proportionality
+hyper: cosmological_constant
+hyper: equilibrium_constant
+hyper: ionic_charge
+hyper: noun.time:c
+hypo: number
+
+w: constant_of_proportionality
+w: factor_of_proportionality
+d: the constant value of the ratio of two proportional quantities x and y; usually written y = kx, where k is the factor of proportionality
+hyper: Planck's_constant
+hypo: constant
+hypo: factor 1
+
+w: containerful
+d: the quantity that a container will hold
+hyper: armful
+hyper: bag
+hyper: barnful
+hyper: barrel 4
+hyper: barrow
+hyper: basin
+hyper: basket
+hyper: bin
+hyper: bottle
+hyper: bowl
+hyper: box
+hyper: bucket
+hyper: can
+hyper: capful
+hyper: carful
+hyper: cartload
+hyper: carton
+hyper: case
+hyper: cask
+hyper: crate
+hyper: cup 1
+hyper: dessertspoon
+hyper: dish
+hyper: dustpan
+hyper: fistful
+hyper: flask
+hyper: glass
+hyper: hatful
+hyper: headful
+hyper: houseful
+hyper: jar
+hyper: jug
+hyper: keg
+hyper: kettle
+hyper: lapful
+hyper: mouthful
+hyper: mug
+hyper: pail
+hyper: pipeful
+hyper: pitcher
+hyper: plate
+hyper: pocketful
+hyper: pot
+hyper: roomful
+hyper: sack
+hyper: scoop
+hyper: shelfful
+hyper: shoeful
+hyper: shovel
+hyper: skepful
+hyper: spoon
+hyper: tablespoon 1
+hyper: tank
+hyper: teacup
+hyper: teaspoon 1
+hyper: thimble
+hyper: tub
+hypo: indefinite_quantity
+
+w: continued_fraction
+d: a fraction whose numerator is an integer and whose denominator is an integer plus a fraction whose numerator is an integer and whose denominator is an integer plus a fraction and so on
+hypo: fraction
+
+w: conto
+d: 1 conto equals 1,000 escudos in Portugal
+hypo: Portuguese_monetary_unit
+mp: Portuguese_escudo
+
+w: conversion_factor
+d: factor by which a quantity that is expressed in one set of units must be multiplied in order to convert it into another set of units
+hypo: factor 1
+
+w: copeck
+w: kopeck
+w: kopek
+d: 100 kopecks equal 1 ruble in Russia
+hp: rouble
+hypo: Russian_monetary_unit
+
+w: cord drf verb.contact:cord
+d: a unit of amount of wood cut for burning; 128 cubic feet
+hypo: capacity_measure
+
+w: cordage
+d: the amount of wood in an area as measured in cords
+hypo: noun.Tops:amount
+
+w: cordoba
+d: the basic unit of money in Nicaragua; equal to 100 centavos
+hypo: Nicaraguan_monetary_unit
+mp: centavo
+
+w: correction
+w: fudge_factor
+d: a quantity that is added or subtracted in order to increase the accuracy of a scientific measure
+hypo: indefinite_quantity
+
+w: cosmological_constant
+d: an arbitrary constant in the equations of general relativity theory
+hypo: constant
+
+w: coss
+w: kos
+d: (in India) a unit of length having different values in different localities
+hypo: linear_measure
+
+w: count
+d: the total number counted
+e: a blood count
+hyper: blood_count
+hyper: body_count
+hyper: circulation
+hyper: circulation 1
+hyper: complement
+hyper: head_count
+hyper: pollen_count
+hyper: sperm_count
+hypo: number
+
+w: couple 1
+d: a small indefinite number
+e: he's coming for a couple of days
+hypo: small_indefinite_amount
+
+w: cran
+d: a capacity unit used for measuring fresh herring
+hypo: capacity_measure
+
+w: craps
+w: snake_eyes
+d: expressions used when when two dice are thrown and both come up showing one spot
+hypo: 2
+
+w: crate
+w: crateful
+d: the quantity contained in a crate
+hypo: containerful
+
+w: crith
+d: the weight of a liter of hydrogen (at 0 centigrade and 760 millimeters pressure)
+hypo: weight
+
+w: crore
+d: the number that is represented as a one followed by 7 zeros; ten million
+hypo: large_integer
+mr: noun.location:Bharat
+
+w: crumb
+d: a very small quantity of something
+e: he gave only a crumb of information about his plans
+e: there were few crumbs of comfort in the report
+hypo: small_indefinite_amount
+
+w: cu_ft
+w: cubic_foot
+d: the volume equal to a cube one foot on each side
+hypo: capacity_measure
+
+w: cu_in
+w: cubic_inch
+d: the volume equal to a cube one inch on each side
+hypo: capacity_measure
+
+w: cube drf verb.cognition:cube
+w: third_power
+d: the product of three equal terms
+hypo: number
+
+w: cube_root
+d: a number that when multiplied three times equals a given number
+hypo: root
+
+w: cubic_decimeter
+w: cubic_decimetre
+w: l
+w: liter
+w: litre
+d: a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)
+hp: dal
+hypo: metric_capacity_unit
+mp: deciliter
+
+w: cubic_kilometer
+w: cubic_kilometre
+d: a unit of capacity equal to the volume of a cube one kilometer on each edge
+hypo: metric_capacity_unit
+mp: cubic_meter
+
+w: cubic_meter
+w: cubic_metre
+w: kiloliter
+w: kilolitre
+d: a metric unit of volume or capacity equal to 1000 liters
+hp: cubic_kilometer
+hypo: metric_capacity_unit
+mp: hectoliter
+
+w: cubic_millimeter
+w: cubic_millimetre
+d: a metric measure of volume or capacity equal to a cube 1 millimeter on each edge
+hp: cc
+hypo: metric_capacity_unit
+
+w: cubic_yard
+w: yard 1
+d: a unit of volume (as for sand or gravel)
+hypo: capacity_measure
+
+w: cubit
+d: an ancient unit of length based on the length of the forearm
+hypo: linear_measure
+
+w: cup 1 drf verb.change:cup 1
+w: cupful
+d: the quantity a cup will hold
+e: he drank a cup of coffee
+e: he borrowed a cup of sugar
+hypo: containerful
+
+w: cup 2
+d: a United States liquid unit equal to 8 fluid ounces
+hp: pint 1
+hypo: United_States_liquid_unit
+mp: gill 1
+
+w: current_unit
+d: a measure of the amount of electric charge flowing past a circuit point at a specific time
+hyper: A
+hyper: abamp
+hyper: ampere 2
+hyper: mA
+hypo: electromagnetic_unit
+
+w: cutoff
+d: a designated limit beyond which something cannot function or must be terminated
+hypo: limit
+
+w: cwt 1
+w: hundredweight 1
+w: long_hundredweight
+d: a British unit of weight equivalent to 112 pounds
+hp: gross_ton
+hypo: avoirdupois_unit
+mp: quarter 4
+
+w: cytotoxicity
+d: the degree to which something is toxic to living cells
+hypo: toxicity
+
+w: dB
+w: decibel
+d: a logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference intensity
+hypo: sound_unit
+
+w: dab drf verb.contact:dab 1
+w: splash drf verb.contact:splash 6
+w: splatter drf verb.contact:splatter 1
+d: a small quantity of something moist or liquid
+e: a dab of paint
+e: a splatter of mud
+e: just a splash of whiskey
+hypo: small_indefinite_amount
+
+w: dag
+w: decagram
+w: dekagram
+w: dkg
+d: 10 grams
+hp: hectogram
+hypo: metric_weight_unit
+mp: g
+
+w: dal
+w: decaliter
+w: decalitre
+w: dekaliter
+w: dekalitre
+w: dkl
+d: a metric unit of volume or capacity equal to 10 liters
+hp: hectoliter
+hypo: metric_capacity_unit
+mp: cubic_decimeter
+
+w: dalasi
+d: the basic unit of money in Gambia
+hypo: Gambian_monetary_unit
+mp: butat
+
+w: dam
+w: decameter
+w: decametre
+w: dekameter
+w: dekametre
+w: dkm
+d: a metric unit of length equal to ten meters
+hp: hectometer
+hypo: metric_linear_unit
+mp: m
+
+w: daraf
+d: a unit of elastance equal to the reciprocal of a farad
+hypo: elastance_unit
+
+w: decigram
+w: dg
+d: 1/10 gram
+hp: carat
+hypo: metric_weight_unit
+mp: grain 3
+
+w: deciliter
+w: decilitre
+w: dl
+d: a metric unit of volume equal to one tenth of a liter
+hp: cubic_decimeter
+hypo: metric_capacity_unit
+mp: centiliter
+
+w: decimal drf verb.change:decimalise 1 drf verb.change:decimalize 1
+w: decimal_fraction
+d: a proper fraction whose denominator is a power of 10
+hyper: circulating_decimal
+hypo: proper_fraction
+
+w: decimal 1 drf verb.change:decimalise drf verb.change:decimalize
+d: a number in the decimal system
+hypo: number
+
+w: decimal_digit
+d: a digit from 0 to 9 in decimal notation
+hypo: digit
+
+w: decimeter
+w: decimetre
+w: dm
+d: a metric unit of length equal to one tenth of a meter
+hp: m
+hypo: metric_linear_unit
+mp: centimeter
+
+w: deficit ant lead
+d: (sports) the score by which a team or individual is losing
+hypo: score
+mt: noun.act:athletics
+
+w: definite_quantity
+d: a specific measure of amount
+hyper: absolute_value
+hyper: acid_value
+hyper: chlorinity
+hyper: number
+hyper: quire
+hyper: ream
+hyper: solubility
+hyper: toxicity
+hyper: unit
+hypo: noun.Tops:amount
+
+w: degree 3
+d: a unit of temperature on a specified scale
+e: the game was played in spite of the 40-degree temperature
+hyper: C 2
+hyper: F 2
+hypo: temperature_unit
+
+w: degree_day
+d: a unit used in estimating fuel requirements for heating a building
+hypo: temperature_unit
+
+w: deluge drf verb.communication:deluge
+w: flood drf verb.possession:flood
+w: inundation drf verb.contact:inundate
+w: torrent drf adjs.all:torrential
+d: an overwhelming number or amount
+e: a flood of requests
+e: a torrent of abuse
+hypo: batch
+
+w: denier
+d: a unit of measurement for the fineness of silk or nylon or rayon
+e: with an evening dress one wears 10 denier stockings
+hypo: unit
+
+w: denominator
+d: the divisor of a fraction
+hyper: common_denominator
+hypo: divisor
+
+w: dessertspoon
+w: dessertspoonful
+d: as much as a dessert spoon will hold
+hypo: containerful
+
+w: dessiatine
+d: a former Russian unit of area equal to 2.7 acres
+hypo: area_unit
+
+w: diddley
+w: diddly
+w: diddly-shit
+w: diddly-squat
+w: diddlyshit
+w: diddlysquat
+w: doodly-squat
+w: jack
+w: shit
+w: squat
+d: a small worthless amount
+e: you don't know jack
+hypo: small_indefinite_amount
+
+w: difference
+w: remainder
+d: the number that remains after subtraction; the number that when added to the subtrahend gives the minuend
+hyper: noun.possession:balance 1
+hypo: number
+
+w: digit drf verb.change:digitalize drf verb.change:digitise drf verb.change:digitize
+w: figure
+d: one of the elements that collectively form a system of numeration
+e: 0 and 1 are digits
+hyper: 0
+hyper: 1
+hyper: 2
+hyper: 3
+hyper: 4
+hyper: 5
+hyper: 6
+hyper: 7
+hyper: 8
+hyper: 9
+hyper: binary_digit
+hyper: decimal_digit
+hyper: duodecimal_digit
+hyper: hexadecimal_digit
+hyper: octal_digit
+hyper: significant_digit
+hypo: integer
+
+w: digit 1
+w: finger 1
+w: finger's_breadth
+w: fingerbreadth
+d: the length of breadth of a finger used as a linear measure
+hypo: linear_measure
+
+w: diopter
+w: dioptre
+d: a unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists
+hypo: unit
+
+w: dish drf verb.consumption:dish
+w: dishful
+d: the quantity that a dish will hold
+e: they served me a dish of rice
+hypo: containerful
+
+w: dissociation_constant
+d: the equilibrium constant for a reversible dissociation
+hypo: equilibrium_constant
+
+w: dividend
+d: a number to be divided by another number
+hyper: numerator
+hypo: number
+
+w: divisor
+d: the number by which a dividend is divided
+hyper: aliquant
+hyper: aliquot
+hyper: denominator
+hypo: number
+
+w: divisor 1
+w: factor drf verb.cognition:factor drf verb.cognition:factorize
+d: one of two or more integers that can be exactly divided into another integer
+e: what are the 4 factors of 6?
+hyper: common_divisor
+hyper: equivalent-binary-digit_factor
+hyper: prime_factor
+hypo: integer
+
+w: dobra
+d: the basic unit of money on Sao Tome e Principe
+hypo: Sao_Thome_e_Principe_monetary_unit
+mp: centavo
+
+w: dol
+d: a unit of pain intensity
+hypo: pain_unit
+
+w: dollar
+d: the basic monetary unit in many countries; equal to 100 cents
+hyper: Australian_dollar
+hyper: Bahamian_dollar
+hyper: Barbados_dollar
+hyper: Belize_dollar
+hyper: Bermuda_dollar
+hyper: Brunei_dollar
+hyper: Canadian_dollar
+hyper: Cayman_Islands_dollar
+hyper: Dominican_dollar
+hyper: Fiji_dollar
+hyper: Grenada_dollar
+hyper: Guyana_dollar
+hyper: Hong_Kong_dollar
+hyper: Jamaican_dollar
+hyper: Kiribati_dollar
+hyper: Liberian_dollar
+hyper: New_Zealand_dollar
+hyper: Singapore_dollar
+hyper: Taiwan_dollar
+hyper: Trinidad_and_Tobago_dollar
+hyper: Tuvalu_dollar
+hyper: United_States_dollar
+hyper: Zimbabwean_dollar
+hypo: monetary_unit
+mp: cent
+
+w: dollop
+d: a small measure (usually of food)
+hypo: small_indefinite_amount
+
+w: dong
+d: the basic unit of money in Vietnam
+hypo: Vietnamese_monetary_unit
+mp: hao
+
+w: dosage drf verb.body:dose drf verb.change:dose
+w: dose drf verb.change:dose
+d: the quantity of an active agent (substance or radiation) taken in or absorbed at any one time
+hypo: indefinite_quantity
+
+w: double-bogey drf verb.contact:double_bogey
+d: (golf) a score of two strokes over par for a hole
+hypo: score
+mt: noun.act:golf
+
+w: double_digit
+d: a two-digit integer; from 10 to 99
+hypo: integer
+
+w: double_eagle
+d: (golf) a score of three strokes under par on a hole
+hypo: score
+mt: noun.act:golf
+
+w: doubleton
+d: (bridge) a pair of playing cards that are the only cards in their suit in the hand dealt to a player
+hypo: brace
+mt: noun.act:bridge
+
+w: dozens
+w: gobs
+w: heaps
+w: lashings
+w: loads
+w: lots
+w: oodles
+w: piles
+w: rafts
+w: scads
+w: scores
+w: slews
+w: stacks
+w: tons
+w: wads
+d: a large number or amount
+e: made lots of new friends
+e: she amassed stacks of newspapers
+hypo: large_indefinite_amount
+
+w: drachm
+w: drachma 2
+w: dram 2
+d: a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
+hp: apothecaries'_ounce
+hypo: apothecaries'_unit
+mp: scruple
+
+w: drachm 1
+w: fluid_drachm 1
+w: fluid_dram 1
+w: fluidram 1
+d: a unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce
+hp: fluid_ounce 1
+hypo: United_States_liquid_unit
+mp: minim 1
+
+w: drachm 2
+w: fluid_drachm 2
+w: fluid_dram 2
+w: fluidram 2
+d: a British imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters
+hp: fluid_ounce 2
+hypo: British_capacity_unit
+mp: minim 2
+
+w: dram
+d: the basic unit of money in Armenia
+hypo: Armenian_monetary_unit
+
+w: dram 1
+d: 1/16 ounce or 1.771 grams
+hp: ounce 1
+hypo: avoirdupois_unit
+mp: grain 1
+
+w: dreg
+d: a small amount of residue
+hypo: small_indefinite_amount
+
+w: drib
+w: driblet
+w: drop drf droplet drf verb.contact:drop 12
+d: a small indefinite quantity (especially of a liquid)
+e: he had a drop too much to drink
+e: a drop of each sample was analyzed
+e: there is not a drop of pity in that man
+e: "years afterward, they would pay the blood-money, driblet by driblet"--Kipling
+hyper: noun.body:tear 1
+hyper: noun.phenomenon:raindrop
+hyper: droplet
+hyper: eye-drop
+hypo: small_indefinite_amount
+
+w: droplet drf drop drf noun.shape:drop
+d: a tiny drop
+hypo: drib
+
+w: dry_measure
+w: dry_unit
+d: a unit of capacity for dry commodities (as fruit or grain)
+hyper: British_capacity_unit
+hyper: United_States_dry_unit
+hyper: ardeb
+hyper: epha
+hypo: capacity_measure
+
+w: dry_pint
+w: pint 3
+d: a United States dry unit equal to 0.5 quart or 33.6 cubic inches
+hp: dry_quart
+hypo: United_States_dry_unit
+
+w: dry_quart
+w: quart 3
+d: a United States dry unit equal to 2 pints or 67.2 cubic inches
+hp: peck 1
+hypo: United_States_dry_unit
+mp: dry_pint
+
+w: duck
+w: duck's_egg
+d: (cricket) a score of nothing by a batsman
+hypo: score
+mt: noun.act:cricket
+
+w: duodecimal
+w: one-twelfth
+w: twelfth
+w: twelfth_part
+d: one part in twelve equal parts
+hypo: common_fraction
+
+w: duodecimal_digit
+d: a digit from 0 to 11 in duodecimal notation
+hypo: digit
+
+w: dustpan
+w: dustpanful
+d: the quantity that a dustpan will hold
+hypo: containerful
+
+w: dyne
+d: a unit of force equal to the force that imparts an acceleration of 1 cm/sec/sec to a mass of 1 gram
+hp: N 1
+hypo: force_unit
+
+w: e
+d: the base of the natural system of logarithms; approximately equal to 2.718282...
+hypo: transcendental_number
+
+w: eV
+w: electron_volt
+d: a unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt
+hypo: energy_unit
+
+w: eagle drf verb.competition:eagle
+d: (golf) a score of two strokes under par on a hole
+hypo: score
+mt: noun.act:golf
+
+w: eighth
+w: one-eighth
+d: one part in eight equal parts
+hypo: common_fraction
+
+w: elastance_unit
+d: the reciprocal of capacitance
+hyper: daraf
+hypo: electromagnetic_unit
+
+w: elbow_room
+w: room drf adjs.all:roomy
+w: way
+d: space for movement
+e: room to pass
+e: make way for
+e: hardly enough elbow room to turn around
+hyper: noun.artifact:seating
+hyper: noun.artifact:standing_room
+hyper: breathing_room
+hyper: clearance
+hyper: houseroom
+hyper: lebensraum
+hyper: parking
+hyper: sea_room
+hypo: noun.attribute:position
+
+w: electromagnetic_unit
+w: emu
+d: any of various systems of units for measuring electricity and magnetism
+hyper: capacitance_unit
+hyper: charge_unit
+hyper: conductance_unit
+hyper: current_unit
+hyper: elastance_unit
+hyper: field_strength_unit
+hyper: flux_density_unit
+hyper: inductance_unit
+hyper: light_unit
+hyper: magnetomotive_force_unit
+hyper: potential_unit
+hyper: power_unit
+hyper: radioactivity_unit
+hyper: resistance_unit
+hypo: unit
+
+w: electrostatic_unit
+d: any of various units of electricity based on forces of interaction between electric charges
+hypo: unit
+
+w: em 1
+w: em_quad
+w: mutton_quad
+d: a quad with a square body
+e: since `em quad' is hard to distinguish from `en quad', printers sometimes called it a `mutton quad'
+hypo: area_unit
+
+w: em 2
+w: pica
+w: pica_em
+d: a linear unit (1/6 inch) used in printing
+hp: in
+hypo: linear_measure
+mp: en
+mp: point
+
+w: en
+w: nut
+d: half the width of an em
+hp: em 2
+hypo: linear_measure
+
+w: energy_unit
+w: heat_unit
+w: work_unit
+d: a unit of measurement for work
+hyper: B.T.U.
+hyper: B.Th.U.
+hyper: Calorie 2
+hyper: J
+hyper: calorie 1
+hyper: eV
+hyper: erg
+hyper: foot-pound
+hyper: foot-poundal
+hyper: foot-ton
+hyper: horsepower-hour
+hyper: kilogram-meter
+hyper: therm
+hyper: watt-hour
+hypo: unit
+
+w: engineer's_chain
+d: a unit of length (100 ft)
+hypo: chain
+
+w: enough drf adjs.all:enough
+w: sufficiency drf adj.all:sufficient drf verb.stative:suffice
+d: an adequate quantity; a quantity that is large enough to achieve a purpose
+e: enough is as good as a feast
+e: there is more than a sufficiency of lawyers in this country
+hyper: fill
+hypo: relative_quantity
+
+w: epha
+w: ephah
+d: an ancient Hebrew unit of dry measure equal to about a bushel
+hp: homer
+hypo: dry_measure
+
+w: equilibrium_constant
+d: (chemistry) the ratio of concentrations when equilibrium is reached in a reversible reaction (when the rate of the forward reaction equals the rate of the reverse reaction)
+hyper: dissociation_constant
+hypo: constant
+mt: noun.cognition:chemical_science
+
+w: equivalent-binary-digit_factor
+d: the average number of binary digits needed to express one radix digit in a numeration system that is not binary; on the average a number that can be expressed in N decimal digits takes 3.3N binary digits
+hypo: divisor 1
+
+w: erg
+d: a cgs unit of work or energy; the work done by a force of one dyne acting over a distance of one centimeter
+hp: J
+hypo: energy_unit
+
+w: euro
+d: the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies
+hypo: monetary_unit
+
+w: explosive_unit
+d: any unit for measuring the force of explosions
+hyper: kiloton 2
+hyper: megaton 2
+hypo: unit
+
+w: exposure drf verb.perception:expose 1
+d: the intensity of light falling on a photographic film or plate
+e: he used the wrong exposure
+hypo: light_unit
+
+w: extremum
+w: peak drf adjs.all:peaky drf verb.motion:peak
+d: the most extreme possible amount or value
+e: voltage peak
+hyper: lower_limit
+hyper: maximum
+hypo: limit
+
+w: eye-drop
+w: eyedrop
+d: a drop from an eye dropper
+hypo: drib
+
+w: eyrir
+d: 100 aurar equal 1 krona in Iceland
+hp: Icelandic_krona
+hypo: Icelandic_monetary_unit
+
+w: factor 1 drf verb.cognition:factor drf verb.cognition:factorize
+d: any of the numbers (or symbols) that form a product when multiplied together
+hyper: noun.possession:deflator
+hyper: constant_of_proportionality
+hyper: conversion_factor
+hypo: number
+
+w: fathom 1 drf verb.change:fathom
+w: fthm 1
+d: a linear unit of measurement (equal to 6 feet) for water depth
+hypo: linear_measure
+mp: pace
+
+w: fathom 2
+w: fthm 2
+d: (mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore
+hypo: capacity_measure
+mt: noun.act:excavation
+
+w: fellow
+w: mate
+d: one of a pair
+e: he lost the mate to his shoe
+e: one eye was blue but its fellow was brown
+hp: brace
+hypo: singleton
+
+w: femtometer
+w: femtometre
+w: fermi
+d: a metric unit of length equal to one quadrillionth of a meter
+hp: micromicron
+hypo: metric_linear_unit
+
+w: femtovolt
+d: a unit of potential equal to one quadrillionth of a volt (or one thousandth of a nanosecond)
+hp: V
+hypo: potential_unit
+
+w: fen
+d: 100 fen equal 1 yuan in China
+hp: jiao
+hypo: Chinese_monetary_unit
+
+w: field_capacity
+d: the maximum amount of water that a particular soil can hold
+hypo: capacity_measure
+
+w: field_strength_unit
+d: an electromagnetic unit of magnetic intensity
+hyper: gamma
+hyper: oersted
+hypo: electromagnetic_unit
+
+w: fifth
+w: fifth_part
+w: one-fifth
+w: twenty_percent
+d: one part in five equal parts
+hypo: common_fraction
+
+w: fifth 1
+d: a quantity of liquor equal to one fifth of a United States gallon
+hypo: United_States_liquid_unit
+
+w: fifty_percent
+d: a half expressed as a percentage
+hypo: half
+
+w: fill drf verb.consumption:fill drf verb.consumption:fill 2
+d: a quantity sufficient to satisfy
+e: he ate his fill of potatoes
+e: she had heard her fill of gossip
+hypo: enough
+
+w: filler
+d: 100 filler equal 1 forint in Hungary
+hp: forint
+hypo: Hungarian_monetary_unit
+
+w: fils
+d: a fractional monetary unit in Bahrain and Iraq and Jordan and Kuwait; equal to one thousandth of a dinar
+hp: Bahrain_dinar
+hp: Iraqi_dinar
+hp: Jordanian_dinar
+hp: Kuwaiti_dirham
+hypo: fractional_monetary_unit
+
+w: firkin
+d: a British unit of capacity equal to 9 imperial gallons
+hp: kilderkin
+hypo: British_capacity_unit
+mp: Imperial_gallon
+
+w: first
+w: number_1
+w: number_one
+d: the first element in a countable series
+e: the first of the month
+hypo: no.
+
+w: fistful
+w: handful
+d: the quantity that can be held in the hand
+hypo: containerful
+
+w: fistmele
+d: about seven inches; the breadth of a fist with the thumb stuck out (used especially in archery to give the correct distance of the string from the bow)
+hypo: linear_measure
+
+w: fixed-point_number
+d: a number represented in fixed-point notation
+hypo: number
+
+w: flask
+w: flaskful
+d: the quantity a flask will hold
+hypo: containerful
+
+w: floating-point_number
+d: a number represented in floating-point notation
+hypo: number
+
+w: florin 2
+w: guilder 2
+w: gulden 2
+d: the basic unit of money in Suriname; equal to 100 cents
+hypo: Surinamese_monetary_unit
+
+w: fluid_ounce 1
+w: fluidounce 1
+d: a United States unit of capacity or volume equal to 1.804 cubic inches
+hp: gill 1
+hypo: United_States_liquid_unit
+mp: drachm 1
+
+w: fluid_ounce 2
+w: fluidounce 2
+d: a British imperial unit of capacity or volume (liquid or dry) equal to 8 fluid drams or 28.416 cubic centimeters (1.734 cubic inches)
+hp: gill 2
+hypo: British_capacity_unit
+mp: drachm 2
+
+w: flux_density_unit
+d: a measure of the amount of flux per unit of cross sectional area
+hyper: gauss
+hyper: microgauss
+hyper: tesla
+hypo: electromagnetic_unit
+
+w: flux_unit
+w: magnetic_flux_unit
+d: a measure of the strength of a magnetic field per unit area
+hyper: Mx
+hyper: Wb
+hypo: magnetic_flux
+
+w: foot
+w: ft
+d: a linear unit of length equal to 12 inches or a third of a yard
+e: he is six feet tall
+hp: pace
+hypo: linear_measure
+mp: in
+
+w: foot-lambert
+w: ft-L
+d: a former luminance unit equal to one lumen per square foot
+hypo: luminance_unit
+
+w: foot-pound
+d: a unit of work equal to a force of one pound moving through a distance of one foot
+hp: foot-ton
+hypo: energy_unit
+
+w: foot-poundal
+d: a unit of work equal to a force of one poundal moving through a distance of one foot
+hypo: energy_unit
+
+w: foot-ton
+d: 2240 foot-pounds
+hypo: energy_unit
+mp: foot-pound
+
+w: footcandle
+d: a unit of illuminance on a surface that is everywhere 1 foot from a point source of 1 candle
+hypo: illumination_unit
+
+w: footer
+d: (used only in combinations) the height or length of something in feet
+e: he is a six-footer
+e: the golfer sank a 40-footer
+e: his yacht is a 60-footer
+hypo: linear_measure
+mu: noun.communication:combining_form
+
+w: footstep
+w: pace 1 drf verb.change:pace drf verb.motion:pace drf verb.motion:pace 1
+w: step drf verb.change:step drf verb.motion:step drf verb.motion:step 1 drf verb.motion:step 3
+w: stride drf verb.motion:stride drf verb.motion:stride 3
+d: the distance covered by a step
+e: he stepped off ten paces from the old tree and began to dig
+hypo: indefinite_quantity
+
+w: force_unit
+d: a unit of measurement of physical force
+hyper: N 1
+hyper: dyne
+hyper: g 7
+hyper: lbf.
+hyper: pdl
+hyper: pound 10
+hyper: pounder
+hyper: sthene
+hypo: unit
+
+w: forint
+d: the basic unit of money in Hungary
+hypo: Hungarian_monetary_unit
+mp: filler
+
+w: formatted_capacity
+d: (computer science) the usable capacity of a disk drive; the amount of space that is left after the sector headings and boundary definitions and timing information have been added by formatting the disk
+hypo: capacity 1
+mt: noun.cognition:computer_science
+
+w: fourth
+w: fourth_part
+w: one-fourth
+w: one-quarter
+w: quarter 1 drf verb.contact:quarter 1 drf verb.social:quarter
+w: quartern
+w: twenty-five_percent
+d: one of four equal parts
+e: a quarter of a pound
+hypo: common_fraction
+
+w: fraction drf verb.cognition:fraction
+d: the quotient of two rational numbers
+hyper: noun.communication:fixed-point_part
+hyper: common_fraction
+hyper: complex_fraction
+hyper: continued_fraction
+hyper: improper_fraction
+hyper: proper_fraction
+hypo: rational
+
+w: fractional_monetary_unit
+w: subunit
+d: a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit
+hyper: cent
+hyper: centavo
+hyper: centesimo
+hyper: centime
+hyper: centimo
+hyper: fils
+hyper: ore
+hyper: paisa
+hyper: penny
+hyper: piaster
+hyper: sen
+hypo: monetary_unit
+
+w: frail
+d: the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds
+hypo: weight
+
+w: franc
+d: the basic monetary unit in many countries; equal to 100 centimes
+hyper: Belgian_franc
+hyper: Benin_franc
+hyper: Burkina_Faso_franc
+hyper: Burundi_franc
+hyper: Cameroon_franc
+hyper: Central_African_Republic_franc
+hyper: Chadian_franc
+hyper: Congo_franc
+hyper: Cote_d'Ivoire_franc
+hyper: Djibouti_franc
+hyper: French_franc
+hyper: Gabon_franc
+hyper: Guinean_franc
+hyper: Luxembourg_franc
+hyper: Madagascar_franc
+hyper: Mali_franc
+hyper: Niger_franc
+hyper: Rwanda_franc
+hyper: Senegalese_franc
+hyper: Swiss_franc
+hyper: Togo_franc
+hypo: monetary_unit
+mp: centime
+
+w: fundamental_measure
+w: fundamental_quantity
+d: one of the four quantities that are the basis of systems of measurement
+hyper: noun.attribute:length
+hyper: noun.attribute:mass
+hyper: noun.attribute:temperature
+hyper: noun.time:period
+hypo: noun.Tops:amount
+
+w: furlong
+d: a unit of length equal to 220 yards
+hp: international_mile
+hypo: linear_measure
+mp: Gunter's_chain
+mp: perch 1
+
+w: g
+w: gm
+w: gram
+w: gramme
+d: a metric unit of weight equal to one thousandth of a kilogram
+hp: dag
+hypo: metric_weight_unit
+mp: carat
+mp: obolus
+
+w: g 7
+w: g-force
+w: gee
+d: a unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated
+hypo: force_unit
+
+w: gal
+w: gallon 1
+d: United States liquid unit equal to 4 quarts or 3.785 liters
+hp: barrel 1
+hypo: United_States_liquid_unit
+mp: quart 1
+
+w: gal 1
+d: a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)
+hypo: acceleration_unit
+
+w: game
+d: (games) the score at a particular point or the score needed to win
+e: the game is 6 all
+e: he is serving for the game
+hypo: score
+mt: noun.act:game
+
+w: gamma
+d: a unit of magnetic field strength equal to one-hundred-thousandth of an oersted
+hp: oersted
+hypo: field_strength_unit
+
+w: gauss
+d: a unit of magnetic flux density equal to 1 maxwell per square centimeter
+hp: tesla
+hypo: flux_density_unit
+mp: microgauss
+
+w: geometric_pace
+d: a modern version of the Roman pace now taken to be 5 feet
+hypo: linear_measure
+
+w: gill 1
+d: a United States liquid unit equal to 4 fluid ounces
+hp: cup 2
+hypo: United_States_liquid_unit
+mp: fluid_ounce 1
+
+w: gill 2
+d: a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters
+hp: pint 2
+hypo: British_capacity_unit
+mp: fluid_ounce 2
+
+w: glass drf verb.change:glass 1
+w: glassful
+d: the quantity a glass will hold
+hypo: containerful
+
+w: googol
+d: a cardinal number represented as 1 followed by 100 zeros (ten raised to the power of a hundred)
+hypo: cardinal
+
+w: googolplex
+d: a cardinal number represented as 1 followed by a googol of zeros (ten raised to the power of a googol)
+hypo: cardinal
+
+w: gourde
+d: the basic unit of money in Haiti
+hypo: Haitian_monetary_unit
+mp: Haitian_centime
+
+w: grad
+w: grade
+d: one-hundredth of a right angle
+hp: noun.shape:right_angle
+hypo: angular_unit
+
+w: grain 1
+d: 1/7000 pound; equals a troy grain or 64.799 milligrams
+hp: dram 1
+hypo: avoirdupois_unit
+
+w: grain 2
+d: 1/60 dram; equals an avoirdupois grain or 64.799 milligrams
+hp: pennyweight
+hp: scruple
+hypo: apothecaries'_unit
+hypo: troy_unit
+
+w: grain 3
+w: metric_grain
+d: a weight unit used for pearls or diamonds: 50 mg or 1/4 carat
+hp: decigram
+hypo: metric_weight_unit
+mp: mg
+
+w: gram-atomic_weight
+w: gram_atom
+d: the quantity of an element whose weight in grams is numerically equal to the atomic weight of the element
+hypo: metric_weight_unit
+
+w: gram_molecule
+w: mol
+w: mole drf adj.pert:molal drf adj.pert:molar drf adj.pert:molar 2
+d: the molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites
+hypo: metric_weight_unit
+
+w: greatest_common_divisor
+w: greatest_common_factor
+w: highest_common_factor
+d: the largest integer that divides without remainder into a set of integers
+hypo: common_divisor
+
+w: groschen
+d: 100 groschen equal 1 schilling in Austria
+hp: Austrian_schilling
+hypo: Austrian_monetary_unit
+
+w: gross_ton
+w: long_ton
+w: ton 1
+d: a British unit of weight equivalent to 2240 pounds
+hypo: avoirdupois_unit
+mp: cwt 1
+
+w: grosz
+d: 100 groszy equal 1 zloty in Poland
+hp: zloty
+hypo: Polish_monetary_unit
+
+w: guarani
+d: the basic unit of money in Paraguay; equal to 100 centimos
+hypo: Paraguayan_monetary_unit
+mp: centimo
+
+w: ha'p'orth
+w: halfpennyworth
+d: the amount that can be bought for a halfpenny
+hypo: worth
+
+w: hair
+w: hair's-breadth
+w: hairsbreadth
+w: whisker
+d: a very small distance or space
+e: they escaped by a hair's-breadth
+e: they lost the election by a whisker
+hypo: small_indefinite_amount
+
+w: haler
+w: heller
+d: 100 halers equal 1 koruna in Czech Republic
+hp: koruna
+hypo: Czech_monetary_unit
+
+w: haler 1
+w: heller 1
+d: 100 halers equal 1 koruna Slovakia
+hp: koruna
+hypo: Slovakian_monetary_unit
+
+w: half
+w: one-half
+d: one of two equal parts of a divisible whole
+e: half a loaf
+e: half an hour
+e: a century and one half
+hyper: fifty_percent
+hyper: mediety
+hypo: common_fraction
+
+w: half_pound
+d: 8 ounces avoirdupois
+hp: lb
+hypo: avoirdupois_unit
+
+w: hand
+d: a unit of length equal to 4 inches; used in measuring horses
+e: the horse stood 20 hands
+hypo: handbreadth
+
+w: handbreadth
+w: handsbreadth
+d: any unit of length based on the breadth of the human hand
+hyper: hand
+hypo: linear_measure
+
+w: handful 1
+w: smattering
+d: a small number or amount
+e: only a handful of responses were received
+hypo: small_indefinite_amount
+
+w: hao
+d: 10 hao equal 1 dong in Vietnam
+hp: dong
+hypo: Vietnamese_monetary_unit
+
+w: hatful
+d: as many or as much as a hat will hold
+hypo: containerful
+
+w: haymow
+d: a mass of hay piled up in a barn for preservation
+hypo: batch
+ms: noun.food:hay
+
+w: head
+d: the length or height based on the size of a human or animal head
+e: he is two heads taller than his little sister
+e: his horse won by a head
+hypo: linear_measure
+
+w: head_count
+w: headcount
+d: number of people in a particular group
+hypo: count
+
+w: headful
+d: the quantity of information that a head will hold
+e: he has a headful of baseball statistics
+hypo: containerful
+
+w: headspace
+d: the volume left at the top of a filled container (bottle or jar or tin) before sealing
+hypo: indefinite_quantity
+
+w: hectare
+d: (abbreviated `ha') a unit of surface area equal to 100 ares (or 10,000 square meters)
+hypo: area_unit
+mp: ar
+
+w: hectogram
+w: hg
+d: 100 grams
+hp: kg
+hypo: metric_weight_unit
+mp: dag
+
+w: hectoliter
+w: hectolitre
+w: hl
+d: a metric unit of volume or capacity equal to 100 liters
+hp: cubic_meter
+hypo: metric_capacity_unit
+mp: dal
+
+w: hectometer
+w: hectometre
+w: hm
+d: a metric unit of length equal to 100 meters
+hp: kilometer
+hypo: metric_linear_unit
+mp: dam
+
+w: hexadecimal_digit
+d: a digit from 0 to 15 in hexadecimal notation
+hypo: digit
+
+w: hin
+d: ancient Hebrew unit of liquid measure = 1.5 gallons
+hypo: capacity_measure
+
+w: hint
+w: jot
+w: mite
+w: pinch
+w: soupcon
+w: speck
+w: tinge
+w: touch
+d: a slight but appreciable amount
+e: this dish could use a touch of garlic
+hyper: snuff
+hypo: small_indefinite_amount
+
+w: hint 1
+w: suggestion
+w: trace drf verb.perception:trace
+d: a just detectable amount
+e: he speaks French with a trace of an accent
+hyper: spark
+hypo: small_indefinite_amount
+
+w: hogshead 1
+d: a British unit of capacity for alcoholic beverages
+hypo: British_capacity_unit
+mp: barrel 1
+
+w: homer
+w: kor
+d: an ancient Hebrew unit of capacity equal to 10 baths or 10 ephahs
+hypo: capacity_measure
+mp: bath
+mp: epha
+
+w: horsepower-hour
+d: a unit of work equal to the work done by one horsepower in one hour
+hypo: energy_unit
+
+w: houseful
+d: as many as a house will accommodate
+e: they entertained a houseful of guests
+hypo: containerful
+
+w: houseroom
+d: space for accommodation in a house
+e: I wouldn't give that table houseroom
+hypo: elbow_room
+
+w: hryvnia
+d: the basic unit of money in Ukraine
+hypo: Ukranian_monetary_unit
+mp: kopiyka
+
+w: hundredth
+w: one-hundredth
+w: one_percent
+d: one part in a hundred equal parts
+hypo: common_fraction
+
+w: illumination_unit
+d: a measure of illumination
+hyper: L 7
+hyper: footcandle
+hyper: lux
+hyper: phot
+hypo: light_unit
+
+w: imaginary_part
+w: imaginary_part_of_a_complex_number
+d: the part of a complex number that has the square root of -1 as a factor
+hp: complex_number
+hypo: pure_imaginary_number
+
+w: improper_fraction
+d: a fraction whose numerator is larger than the denominator
+hypo: fraction
+
+w: in
+w: inch drf verb.motion:inch
+d: a unit of length equal to one twelfth of a foot
+hp: foot
+hypo: linear_measure
+mp: em 2
+mp: ligne
+mp: mesh
+mp: mil 1
+mr: noun.location:America
+mr: noun.location:Britain
+
+w: indefinite_quantity
+d: an estimated quantity
+hyper: addition
+hyper: bag 1
+hyper: breakage
+hyper: capacity 1
+hyper: catch
+hyper: containerful
+hyper: correction
+hyper: dosage
+hyper: footstep
+hyper: headspace
+hyper: large_indefinite_amount
+hyper: limit
+hyper: limit 1
+hyper: load
+hyper: load 1
+hyper: neighborhood
+hyper: outage
+hyper: output
+hyper: precipitation
+hyper: reserve
+hyper: run
+hyper: skinful
+hyper: small_indefinite_amount
+hyper: spillage
+hyper: spoilage
+hyper: supply
+hyper: tankage
+hyper: top-up
+hyper: ullage
+hyper: worth
+hypo: noun.Tops:amount
+
+w: inductance_unit
+d: a measure of the property of an electric circuit by which an electromotive force is induced in it
+hyper: H
+hyper: abhenry
+hyper: millihenry
+hypo: electromagnetic_unit
+
+w: infinitude
+d: an infinite quantity
+hypo: large_indefinite_amount
+
+w: information_measure
+d: a system of measurement of information based on the probabilities of the events that convey information
+hyper: noun.attribute:entropy 1
+hyper: bandwidth
+hyper: baud
+hypo: metric
+
+w: integer
+w: whole_number
+d: any of the natural numbers (positive or negative) or zero
+e: an integer is a number that is not a fraction
+hyper: noun.communication:characteristic
+hyper: common_multiple
+hyper: digit
+hyper: divisor 1
+hyper: double_digit
+hyper: large_integer
+hyper: modulus 2
+hyper: population
+hypo: number
+
+w: international_candle
+d: a former international unit of luminous intensity; now replaced by the candela
+hypo: candlepower_unit
+
+w: international_mile
+w: land_mile
+w: mi
+w: mile 1 drf noun.person:miler drf miler
+w: stat_mi
+w: statute_mile
+d: a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters
+hp: league
+hypo: linear_measure
+mp: 440_yards
+mp: 880_yards
+mp: furlong
+
+w: inti
+d: the basic unit of money in Peru
+hypo: Peruvian_monetary_unit
+
+w: ionic_charge
+d: the charge on an ion is equal to a constant charge e multiplied by an integer from 1 to 15
+hypo: constant
+
+w: iota
+w: scintilla
+w: shred drf verb.contact:shred
+w: smidge
+w: smidgen
+w: smidgeon
+w: smidgin
+w: tittle
+w: whit
+d: a tiny or scarcely detectable amount
+hypo: small_indefinite_amount
+
+w: irrational
+w: irrational_number
+d: a real number that cannot be expressed as a rational number
+hyper: algebraic_number
+hyper: transcendental_number
+hypo: real
+
+w: jar drf verb.contact:jar 10
+w: jarful
+d: the quantity contained in a jar
+e: he drank a jar of beer
+hypo: containerful
+
+w: jiao
+d: 10 jiao equal 1 yuan in China
+hp: kwai
+hypo: Chinese_monetary_unit
+mp: fen
+
+w: jug drf verb.change:jug
+w: jugful
+d: the quantity contained in a jug
+hypo: containerful
+
+w: kV
+w: kilovolt
+d: a unit of potential equal to a thousand volts
+hypo: potential_unit
+mp: V
+
+w: kW
+w: kilowatt
+d: a unit of power equal to 1000 watts
+hp: megawatt
+hypo: power_unit
+mp: W
+
+w: kapeika
+d: 100 kapeikas equal 1 rubel in Belarus
+hypo: Belarusian_monetary_unit
+
+w: kb 4
+w: kbit
+w: kilobit
+d: a unit of information equal to 1000 bits
+hp: Mb 2
+hypo: computer_memory_unit
+
+w: keg
+w: kegful
+d: the quantity contained in a keg
+hypo: containerful
+
+w: kettle
+w: kettleful
+d: the quantity a kettle will hold
+hypo: containerful
+
+w: key
+d: a kilogram of a narcotic drug
+e: they were carrying two keys of heroin
+hypo: kg
+mu: noun.communication:argot
+
+w: kg
+w: kilo
+w: kilogram
+d: one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites
+e: a kilogram is approximately 2.2 pounds
+hp: myg
+hyper: key
+hypo: metric_weight_unit
+mp: hectogram
+
+w: khoum
+d: 5 khoums equal 1 ouguiya in Mauritania
+hp: ouguiya
+hypo: Mauritanian_monetary_unit
+
+w: kibibit
+w: kibit
+d: a unit of information equal to 1024 bits
+hp: Mibit
+hypo: computer_memory_unit
+
+w: kilderkin
+d: an obsolete British unit of capacity equal to 18 Imperial gallons
+hypo: British_capacity_unit
+mp: firkin
+
+w: kilogram-meter
+d: a unit of work equal to the work done by a one kilogram force operating through a distance of one meter
+hypo: energy_unit
+
+w: kilometer
+w: kilometre
+w: klick
+w: km
+d: a metric unit of length equal to 1000 meters (or 0.621371 miles)
+hp: mym
+hypo: metric_linear_unit
+mp: hectometer
+
+w: kiloton
+d: one thousand tons
+hp: megaton
+hypo: avoirdupois_unit
+mp: net_ton
+
+w: kiloton 2
+d: a measure of explosive power (of an atomic weapon) equal to that of 1000 tons of TNT
+hypo: explosive_unit
+
+w: kilovolt-ampere
+d: a unit of electrical power equal to 1000 volt-amperes
+hypo: power_unit
+mp: var
+
+w: kina
+d: the basic unit of money in Papua New Guinea
+hypo: Papuan_monetary_unit
+mp: toea
+
+w: kip
+d: the basic unit of money in Laos
+hypo: Laotian_monetary_unit
+mp: at
+
+w: kobo
+d: 100 kobos equal 1 naira in Nigeria
+hp: naira
+hypo: Nigerian_monetary_unit
+
+w: kopiyka
+d: 100 kopiykas equal 1 hryvnia in Ukraine
+hp: hryvnia
+hypo: Ukranian_monetary_unit
+
+w: koruna
+d: the basic unit of money in Czech Republic
+hypo: Czech_monetary_unit
+mp: haler
+mp: haler 1
+
+w: koruna 1
+d: the basic unit of money in Slovakia
+hypo: Slovakian_monetary_unit
+
+w: kroon
+d: the basic unit of money in Estonia
+hypo: Estonian_monetary_unit
+
+w: kurus
+w: piaster 1
+w: piastre 1
+d: 100 kurus equal 1 lira in Turkey
+hp: Turkish_lira
+hypo: Turkish_monetary_unit
+mp: asper
+
+w: kwai
+w: yuan
+d: the basic unit of money in China
+hypo: Chinese_monetary_unit
+mp: jiao
+
+w: kwanza
+d: the basic unit of money in Angola
+hypo: Angolan_monetary_unit
+mp: lwei
+
+w: kyat
+d: the basic unit of money in Myanmar
+hypo: Myanmar_monetary_unit
+mp: pya
+
+w: langley
+d: unit of solar radiation
+hypo: unit
+
+w: lapful
+d: the quantity that can be held in the lap
+hypo: containerful
+
+w: large_indefinite_amount
+w: large_indefinite_quantity
+d: an indefinite quantity that is above the average in size or magnitude
+hyper: all_get_out
+hyper: barrels
+hyper: batch
+hyper: battalion
+hyper: billion 2
+hyper: boatload
+hyper: busload
+hyper: chunk
+hyper: dozens
+hyper: infinitude
+hyper: maximum
+hyper: mile 7
+hyper: much
+hyper: myriad 1
+hyper: ocean
+hyper: ream 1
+hyper: small_fortune
+hypo: indefinite_quantity
+
+w: large_integer
+d: an integer equal to or greater than ten
+hyper: 10
+hyper: 100
+hyper: 1000
+hyper: 10000
+hyper: 100000
+hyper: 1000000
+hyper: 1000000000
+hyper: 1000000000000
+hyper: 1000000000000 1
+hyper: 11
+hyper: 12
+hyper: 120
+hyper: 13
+hyper: 14
+hyper: 144
+hyper: 15
+hyper: 16
+hyper: 17
+hyper: 1728
+hyper: 18
+hyper: 19
+hyper: 20
+hyper: 21
+hyper: 22
+hyper: 23
+hyper: 24
+hyper: 25
+hyper: 26
+hyper: 27
+hyper: 28
+hyper: 29
+hyper: 30
+hyper: 40
+hyper: 50
+hyper: 500
+hyper: 60
+hyper: 70
+hyper: 78
+hyper: 80
+hyper: 90
+hyper: aleph-nought
+hyper: crore
+hyper: octillion
+hyper: one_million_million_million
+hyper: quadrillion
+hyper: quadrillion 1
+hyper: quintillion
+hyper: septillion
+hyper: sextillion
+hyper: teens
+hypo: integer
+
+w: lari
+d: the basic unit of money in Georgia
+hypo: Georgian_monetary_unit
+mp: tetri
+
+w: last 1
+d: a unit of capacity for grain equal to 80 bushels
+hypo: capacity_measure
+mr: noun.location:Britain
+
+w: last 2
+d: a unit of weight equal to 4,000 pounds
+hypo: weight
+
+w: lats
+d: the basic unit of money in Latvia
+hypo: Latvian_monetary_unit
+
+w: lb
+w: pound 9
+d: 16 ounces avoirdupois
+e: he got a hernia when he tried to lift 100 pounds
+hp: quarter 2
+hp: stone
+hypo: avoirdupois_unit
+mp: half_pound
+mp: ounce 1
+
+w: lbf.
+w: pound
+d: a nontechnical unit of force equal to the mass of 1 pound with an acceleration of free fall equal to 32 feet/sec/sec
+hypo: force_unit
+mp: quarter_pound
+
+w: lea
+d: a unit of length of thread or yarn
+hypo: linear_measure
+mp: pace
+
+w: lead ant deficit
+d: (sports) the score by which a team or individual is winning
+hypo: score
+mt: noun.act:athletics
+
+w: league
+d: an obsolete unit of distance of variable length (usually 3 miles)
+hypo: linear_measure
+mp: international_mile
+
+w: lebensraum
+w: living_space
+d: space sought for occupation by a nation whose population is expanding
+hypo: elbow_room
+
+w: lek
+d: the basic unit of money in Albania
+hypo: Albanian_monetary_unit
+mp: qindarka
+
+w: lempira
+d: the basic unit of money in Honduras; equal to 100 centavos
+hypo: Honduran_monetary_unit
+mp: centavo
+
+w: leone
+d: the basic unit of money in Sierra Leone; equal to 100 cents
+hypo: Sierra_Leone_monetary_unit
+mp: cent
+
+w: lepton
+d: 100 lepta equal 1 drachma in Greece
+hp: Greek_drachma
+hypo: Greek_monetary_unit
+
+w: leu
+d: the basic unit of money in Romania
+hypo: Romanian_monetary_unit
+mp: ban
+
+w: leu 1
+d: the basic unit of money in Moldova
+hypo: Moldovan_monetary_unit
+
+w: lev
+d: the basic unit of money in Bulgaria
+hypo: Bulgarian_monetary_unit
+mp: stotinka
+
+w: li
+d: Chinese distance measure; approximately 0.5 kilometers
+hypo: linear_measure
+
+w: light-year
+w: light_year
+d: the distance that light travels in a vacuum in 1 year; 5.88 trillion miles or 9.46 trillion kilometers
+hypo: astronomy_unit
+mp: light_hour
+mp: light_minute
+mp: light_second
+
+w: light_hour
+d: the distance light travels in a vacuum in one hour; approximately one billion kilometers
+hp: light-year
+hypo: astronomy_unit
+
+w: light_minute
+d: the distance light travels in a vacuum in one minute; approximately 18 million kilometers
+hp: light-year
+hypo: astronomy_unit
+
+w: light_second
+d: the distance light travels in a vacuum in one second; approximately 300,000 kilometers
+hp: light-year
+hypo: astronomy_unit
+
+w: light_unit
+d: a measure of the visible electromagnetic radiation
+hyper: candlepower_unit
+hyper: exposure
+hyper: illumination_unit
+hyper: luminance_unit
+hyper: luminous_flux_unit
+hypo: electromagnetic_unit
+
+w: ligne
+d: a linear unit (1/40 inch) used to measure diameter of buttons
+hp: in
+hypo: linear_measure
+
+w: likuta
+d: 100 makuta equal 1 zaire in Zaire
+hp: zaire
+hypo: Zairese_monetary_unit
+
+w: lilangeni
+d: the basic unit of money in Swaziland; equal to 100 cents
+hypo: Swaziland_monetary_unit
+mp: cent
+
+w: limit
+w: limitation
+d: the greatest amount of something that is possible or allowed
+e: there are limits on the amount you can bet
+e: it is growing rapidly with no limitation in sight
+hyper: cutoff
+hyper: extremum
+hypo: indefinite_quantity
+
+w: limit 1
+w: limit_point
+w: point_of_accumulation
+d: the mathematical value toward which a function goes as the independent variable approaches infinity
+hypo: indefinite_quantity
+
+w: linage
+w: lineage
+d: the number of lines in a piece of printed material
+hypo: number
+
+w: linear_measure
+w: linear_unit
+d: a unit of measurement of length
+hyper: 440_yards
+hyper: 880_yards
+hyper: Roman_mile
+hyper: Roman_pace
+hyper: Swedish_mile
+hyper: archine
+hyper: astronomy_unit
+hyper: body_length
+hyper: cable
+hyper: chain
+hyper: cicero
+hyper: coss
+hyper: cubit
+hyper: digit 1
+hyper: em 2
+hyper: en
+hyper: fathom 1
+hyper: fistmele
+hyper: foot
+hyper: footer
+hyper: furlong
+hyper: geometric_pace
+hyper: handbreadth
+hyper: head
+hyper: in
+hyper: international_mile
+hyper: lea
+hyper: league
+hyper: li
+hyper: ligne
+hyper: link 1
+hyper: long_measure
+hyper: mesh
+hyper: metric_linear_unit
+hyper: mil 1
+hyper: miler
+hyper: military_pace
+hyper: nail
+hyper: nautical_linear_unit
+hyper: pace
+hyper: palm
+hyper: perch 1
+hyper: point
+hyper: span 1
+hyper: survey_mile
+hyper: vara
+hyper: verst
+hyper: yarder
+hypo: unit
+
+w: link 1
+d: a unit of length equal to 1/100 of a chain
+hp: chain
+hypo: linear_measure
+
+w: liquid_measure
+w: liquid_unit
+d: a unit of capacity for liquids (for measuring the volumes of liquids or their containers)
+hyper: British_capacity_unit
+hyper: United_States_liquid_unit
+hyper: arroba 2
+hyper: bath
+hyper: mutchkin
+hyper: oka 2
+hypo: capacity_measure
+
+w: litas
+d: the basic unit of money in Lithuania
+hypo: Lithuanian_monetary_unit
+
+w: little
+d: a small amount or duration
+e: he accepted the little they gave him
+hypo: small_indefinite_amount
+
+w: lm
+w: lumen
+d: a unit of luminous flux equal to the amount of light given out through a solid angle of 1 steradian by a point source of 1 candela intensity radiating uniformly in all directions
+hypo: luminous_flux_unit
+
+w: load
+w: loading
+d: a quantity that can be processed or transported at one time
+e: the system broke down under excessive loads
+hyper: trainload
+hypo: indefinite_quantity
+
+w: load 1
+d: an amount of alcohol sufficient to intoxicate
+e: he got a load on and started a brawl
+hypo: indefinite_quantity
+mu: noun.communication:colloquialism
+
+w: long_measure
+d: a measure of length
+hypo: linear_measure
+
+w: loti
+d: the basic unit of money in Lesotho
+hypo: Lesotho_monetary_unit
+mp: sente
+
+w: love
+d: a score of zero in tennis or squash
+e: it was 40 love
+hypo: score
+
+w: lower_limit
+w: minimum ant maximum drf verb.change:minimise drf verb.change:minimize drf verb.communication:minimise 1 drf verb.communication:minimize drf verb.communication:minimize 1
+d: the smallest possible quantity
+hyper: skeleton
+hypo: extremum
+hypo: small_indefinite_amount
+
+w: luminance_unit
+d: a measure of luminance
+hyper: foot-lambert
+hyper: nit
+hypo: light_unit
+
+w: luminous_flux_unit
+d: a measure of luminous flux per unit area
+hyper: lm
+hypo: light_unit
+
+w: lumma
+d: 100 lumma equal 1 dram in Armenia
+hypo: Armenian_monetary_unit
+
+w: lux
+w: lx 1
+d: a unit of illumination equal to 1 lumen per square meter; 0.0929 foot candle
+hp: phot
+hypo: illumination_unit
+
+w: lwei
+d: 100 lwei equal 1 kwanza in Angola
+hp: kwanza
+hypo: Angolan_monetary_unit
+
+w: m
+w: meter drf adj.pert:metric drf adj.pert:metrical
+w: metre drf adj.pert:metrical
+d: the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)
+hp: dam
+hypo: metric_linear_unit
+mp: decimeter
+
+w: mA
+w: milliampere
+d: one thousandth of an ampere
+hp: A
+hypo: current_unit
+
+w: mV
+w: millivolt
+d: a unit of potential equal to one thousandth of a volt
+hp: V
+hypo: potential_unit
+
+w: magic_number
+d: the atomic number of an extra stable strongly bound atomic nucleus: 2, 8, 20, 28, 50, 82 or 126
+hypo: atomic_number
+
+w: magnetic_flux
+d: a measure of the strength of a magnetic field over a given area
+hyper: flux_unit
+hypo: magnetisation
+
+w: magnetisation
+w: magnetization drf verb.change:magnetize drf verb.communication:magnetize
+d: the extent or degree to which something is magnetized
+hyper: magnetic_flux
+hypo: noun.Tops:amount
+
+w: magnetomotive_force_unit
+d: a unit of measurement of magnetomotive force
+hyper: Gb 1
+hyper: ampere-turn
+hyper: magneton
+hypo: electromagnetic_unit
+
+w: magneton
+d: a unit of magnetic moment of a molecular or atomic or subatomic particle
+hypo: magnetomotive_force_unit
+
+w: manat
+d: the basic unit of money in Azerbaijan
+hypo: Azerbaijani_monetary_unit
+
+w: manat 1
+d: the basic unit of money in Turkmenistan
+hypo: Turkmen_monetary_unit
+
+w: marginal_utility
+d: (economics) the amount that utility increases with an increase of one unit of an economic good or service
+hypo: utility
+mt: noun.cognition:economic_science
+
+w: mass_number
+w: nucleon_number
+d: the sum of the number of neutrons and protons in an atomic nucleus
+hypo: mass_unit
+
+w: mass_unit
+d: a unit of measurement for mass
+hyper: atomic_mass_unit
+hyper: avoirdupois_unit
+hyper: mass_number
+hyper: metric_weight_unit
+hyper: slug
+hypo: unit
+
+w: match
+d: the score needed to win a match
+hypo: score
+
+w: match_point
+d: (tennis) the final point needed to win a match (especially in tennis)
+hypo: point 1
+mt: noun.act:lawn_tennis
+
+w: maund
+d: a unit of weight used in Asia; has different values in different countries
+e: the official maund in India is 82.6 pounds avoirdupois
+hypo: weight
+
+w: maximum ant minimum drf verb.change:maximise drf verb.change:maximise 1 drf verb.change:maximize drf verb.change:maximize 1
+w: upper_limit
+d: the largest possible quantity
+hypo: extremum
+hypo: large_indefinite_amount
+
+w: mcg
+w: microgram
+d: one millionth (1/1,000,000) gram
+hp: mg
+hypo: metric_weight_unit
+mp: nanogram
+
+w: measuring_block
+w: measuring_unit
+d: a unit of measurement
+hypo: unit
+
+w: mediety
+w: moiety
+d: one of two (approximately) equal parts
+hypo: half
+
+w: megaton
+d: one million tons
+hypo: avoirdupois_unit
+mp: kiloton
+
+w: megaton 2
+d: a measure of explosive power (of an atomic weapon) equal to that of one million tons of TNT
+hypo: explosive_unit
+
+w: megawatt
+d: a unit of power equal to one million watts
+hypo: power_unit
+mp: kW
+
+w: megohm
+d: a unit of resistance equal to one million ohms
+hypo: resistance_unit
+mp: ohm
+
+w: mesh
+d: the number of openings per linear inch of a screen; measures size of particles
+e: a 100 mesh screen
+e: 100 mesh powdered cellulose
+hp: in
+hypo: linear_measure
+
+w: metical
+d: the basic unit of money in Mozambique; equal to 100 centavos
+hypo: Mozambique_monetary_unit
+mp: centavo
+
+w: metric
+w: system_of_measurement
+d: a system of related measures that facilitates the quantification of some particular characteristic
+hyper: noun.communication:criterion
+hyper: Beaufort_scale
+hyper: Brix_scale
+hyper: board_measure
+hyper: circular_measure
+hyper: information_measure
+hyper: point_system
+hyper: system_of_weights
+hyper: system_of_weights_and_measures
+hyper: utility
+hyper: noun.relation:temperature_scale
+hypo: noun.Tops:amount
+
+w: metric 1
+w: metric_unit
+d: a decimal unit of measurement of the metric system (based on meters and kilograms and seconds)
+e: convert all the measurements to metric units
+e: it is easier to work in metric
+hyper: metric_capacity_unit
+hyper: metric_linear_unit
+hyper: metric_weight_unit
+hypo: unit
+
+w: metric_capacity_unit
+d: a capacity unit defined in metric terms
+hyper: cc
+hyper: centiliter
+hyper: cubic_decimeter
+hyper: cubic_kilometer
+hyper: cubic_meter
+hyper: cubic_millimeter
+hyper: dal
+hyper: deciliter
+hyper: hectoliter
+hypo: capacity_measure
+hypo: metric 1
+
+w: metric_linear_unit
+d: a linear unit of distance in metric terms
+hyper: A 1
+hyper: centimeter
+hyper: dam
+hyper: decimeter
+hyper: femtometer
+hyper: hectometer
+hyper: kilometer
+hyper: m
+hyper: micrometer
+hyper: micromicron
+hyper: micromillimeter
+hyper: millimeter
+hyper: mym
+hypo: linear_measure
+hypo: metric 1
+
+w: metric_system
+d: a decimal system of weights and measures based on the meter and the kilogram and the second
+hyper: International_System
+hyper: cgs
+hypo: system_of_weights_and_measures
+mp: metric_weight_unit
+
+w: metric_weight_unit
+w: weight_unit 2
+d: a decimal unit of weight based on the gram
+hp: metric_system
+hyper: MT
+hyper: carat
+hyper: centner 2
+hyper: centner 3
+hyper: dag
+hyper: decigram
+hyper: g
+hyper: grain 3
+hyper: gram-atomic_weight
+hyper: gram_molecule
+hyper: hectogram
+hyper: kg
+hyper: mcg
+hyper: mg
+hyper: myg
+hyper: nanogram
+hyper: quintal 2
+hypo: mass_unit
+hypo: metric 1
+
+w: mg
+w: milligram
+d: one thousandth (1/1,000) gram
+hp: grain 3
+hypo: metric_weight_unit
+mp: mcg
+
+w: microfarad
+d: a unit of capacitance equal to one millionth of a farad
+hp: millifarad
+hypo: capacitance_unit
+mp: picofarad
+
+w: microgauss
+d: a unit of magnetic flux density equal to one millionth of a gauss
+hp: gauss
+hypo: flux_density_unit
+
+w: micrometer
+w: micron
+d: a metric unit of length equal to one millionth of a meter
+hp: millimeter
+hypo: metric_linear_unit
+mp: micromillimeter
+
+w: micromicron
+w: picometer
+w: picometre
+d: a metric unit of length equal to one trillionth of a meter
+hp: A 1
+hypo: metric_linear_unit
+mp: femtometer
+
+w: micromillimeter
+w: micromillimetre
+w: millimicron
+w: nanometer
+w: nanometre
+w: nm
+d: a metric unit of length equal to one billionth of a meter
+hp: micrometer
+hypo: metric_linear_unit
+mp: A 1
+
+w: microradian
+d: a unit of angular distance equal to one thousandth of a milliradian
+hp: milliradian
+hypo: angular_unit
+
+w: microvolt
+d: a unit of potential equal to one millionth of a volt
+hp: V
+hypo: potential_unit
+
+w: mil 1
+d: a unit of length equal to one thousandth of an inch; used to specify thickness (e.g., of sheets or wire)
+hp: in
+hypo: linear_measure
+
+w: mil 3
+d: an angular unit used in artillery; equal to 1/6400 of a complete revolution
+hypo: angular_unit
+
+w: mil 4
+d: a Cypriot monetary unit equal to one thousandth of a pound
+hp: Cypriot_pound
+hypo: Cypriot_monetary_unit
+
+w: mile 5 drf miler
+w: sea_mile
+d: a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)
+hypo: nautical_linear_unit
+
+w: mile 7
+d: a large distance
+e: he missed by a mile
+hypo: large_indefinite_amount
+
+w: miler drf noun.event:mile drf mile 1 drf mile 2 drf mile 3 drf mile 4 drf mile 5 drf mile 6
+d: (used only in combinations) the length of something in miles
+e: the race was a 30-miler
+hypo: linear_measure
+mu: noun.communication:combining_form
+
+w: miles_per_gallon
+d: the distance traveled in a vehicle powered by one gallon of gasoline or diesel fuel
+hypo: unit
+
+w: military_pace
+d: the length of a single step in marching (taken to be 30 inches for quick time or 36 inches for double time)
+hypo: linear_measure
+
+w: millenary
+d: a sum or aggregate of one thousand (especially one thousand years)
+hypo: 1000
+
+w: milliard
+d: a billion
+e: in England they call one thousand million a milliard
+hypo: 1000000000
+mr: noun.location:Britain
+
+w: millibar
+d: a unit of atmospheric pressure equal to one thousandth of a bar
+e: atmospheric pressure at sea level is 1013 millibars
+hp: bar
+hypo: pressure_unit
+
+w: millicurie
+d: a unit of radioactivity equal to one thousandth of a curie
+hp: Ci
+hypo: radioactivity_unit
+
+w: millidegree
+d: a unit of temperature equal to one-thousandth of a degree
+hypo: temperature_unit
+
+w: millifarad
+d: a unit of capacitance equal to one thousandth of a farad
+hp: F
+hypo: capacitance_unit
+mp: microfarad
+
+w: millihenry
+d: a unit of inductance equal to one thousandth of a henry
+hp: H
+hypo: inductance_unit
+
+w: millime
+d: 1,000 millimes equal 1 dinar in Tunisia
+hp: Tunisian_dirham
+hypo: Tunisian_monetary_unit
+
+w: millimeter
+w: millimetre
+w: mm
+d: a metric unit of length equal to one thousandth of a meter
+hp: centimeter
+hypo: metric_linear_unit
+mp: micrometer
+
+w: millimeter_of_mercury
+w: mm_Hg
+w: torr
+d: a unit of pressure equal to 0.001316 atmosphere; named after Torricelli
+hypo: pressure_unit
+
+w: milline
+d: an advertising measure; one agate line appearing in one million copies of a publication
+hypo: printing_unit
+
+w: millionth
+w: one-millionth
+d: one part in a million equal parts
+hypo: common_fraction
+
+w: milliradian
+d: a unit of angular distance equal to one thousandth of a radian
+hp: rad 1
+hypo: angular_unit
+mp: microradian
+
+w: milliwatt
+d: a unit of power equal to one thousandth of a watt
+hp: W
+hypo: power_unit
+mp: abwatt
+
+w: minim 1
+d: a United States liquid unit equal to 1/60 fluidram
+hp: drachm 1
+hypo: United_States_liquid_unit
+
+w: minim 2
+d: a British imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters
+hp: drachm 2
+hypo: British_capacity_unit
+
+w: minuend
+d: the number from which the subtrahend is subtracted
+hypo: number
+
+w: modicum
+d: a small or moderate or token amount
+e: "England still expects a modicum of eccentricity in its artists"- Ian Jack
+hypo: small_indefinite_amount
+
+w: modulus
+d: (physics) a coefficient that expresses how much of a specified property is possessed by a specified substance
+hyper: coefficient_of_elasticity
+hypo: coefficient
+mt: noun.cognition:natural_philosophy
+
+w: modulus 1
+d: the absolute value of a complex number
+hypo: absolute_value
+
+w: modulus 2
+d: an integer that can be divided without remainder into the difference between two other integers
+e: 2 is a modulus of 5 and 9
+hypo: integer
+
+w: modulus_of_rigidity
+d: the coefficient of elasticity for a shearing force
+hypo: coefficient_of_elasticity
+
+w: monad
+w: monas
+d: a singular metaphysical entity from which material properties are said to derive
+hypo: 1
+
+w: monetary_unit
+d: a unit of money
+hyper: Afghan_monetary_unit
+hyper: Albanian_monetary_unit
+hyper: Algerian_monetary_unit
+hyper: Angolan_monetary_unit
+hyper: Argentine_monetary_unit
+hyper: Armenian_monetary_unit
+hyper: Austrian_monetary_unit
+hyper: Azerbaijani_monetary_unit
+hyper: Bahrainian_monetary_unit
+hyper: Bangladeshi_monetary_unit
+hyper: Belarusian_monetary_unit
+hyper: Bhutanese_monetary_unit
+hyper: Bolivian_monetary_unit
+hyper: Botswana_monetary_unit
+hyper: Brazilian_monetary_unit
+hyper: British_monetary_unit
+hyper: Bulgarian_monetary_unit
+hyper: Cambodian_monetary_unit
+hyper: Cape_Verde_monetary_unit
+hyper: Chilean_monetary_unit
+hyper: Chinese_monetary_unit
+hyper: Colombian_monetary_unit
+hyper: Costa_Rican_monetary_unit
+hyper: Cuban_monetary_unit
+hyper: Cypriot_monetary_unit
+hyper: Czech_monetary_unit
+hyper: Danish_monetary_unit
+hyper: Dominican_monetary_unit
+hyper: Dutch_monetary_unit
+hyper: Ecuadoran_monetary_unit
+hyper: Egyptian_monetary_unit
+hyper: El_Salvadoran_monetary_unit
+hyper: Estonian_monetary_unit
+hyper: Ethiopian_monetary_unit
+hyper: Finnish_monetary_unit
+hyper: Gambian_monetary_unit
+hyper: Georgian_monetary_unit
+hyper: German_monetary_unit
+hyper: Ghanian_monetary_unit
+hyper: Greek_monetary_unit
+hyper: Guatemalan_monetary_unit
+hyper: Guinea-Bissau_monetary_unit
+hyper: Guinean_monetary_unit
+hyper: Haitian_monetary_unit
+hyper: Honduran_monetary_unit
+hyper: Hungarian_monetary_unit
+hyper: Icelandic_monetary_unit
+hyper: Indian_monetary_unit
+hyper: Indonesian_monetary_unit
+hyper: Iranian_monetary_unit
+hyper: Iraqi_monetary_unit
+hyper: Irish_monetary_unit
+hyper: Israeli_monetary_unit
+hyper: Italian_monetary_unit
+hyper: Japanese_monetary_unit
+hyper: Jordanian_monetary_unit
+hyper: Kazakhstani_monetary_unit
+hyper: Kenyan_monetary_unit
+hyper: Kuwaiti_monetary_unit
+hyper: Kyrgyzstani_monetary_unit
+hyper: Laotian_monetary_unit
+hyper: Latvian_monetary_unit
+hyper: Lebanese_monetary_unit
+hyper: Lesotho_monetary_unit
+hyper: Libyan_monetary_unit
+hyper: Lithuanian_monetary_unit
+hyper: Macao_monetary_unit
+hyper: Malawian_monetary_unit
+hyper: Malaysian_monetary_unit
+hyper: Maltese_monetary_unit
+hyper: Mauritanian_monetary_unit
+hyper: Mauritian_monetary_unit
+hyper: Mexican_monetary_unit
+hyper: Moldovan_monetary_unit
+hyper: Mongolian_monetary_unit
+hyper: Moroccan_monetary_unit
+hyper: Mozambique_monetary_unit
+hyper: Myanmar_monetary_unit
+hyper: Nepalese_monetary_unit
+hyper: Nicaraguan_monetary_unit
+hyper: Nigerian_monetary_unit
+hyper: North_Korean_monetary_unit
+hyper: Norwegian_monetary_unit
+hyper: Omani_monetary_unit
+hyper: Pakistani_monetary_unit
+hyper: Panamanian_monetary_unit
+hyper: Papuan_monetary_unit
+hyper: Paraguayan_monetary_unit
+hyper: Peruvian_monetary_unit
+hyper: Philippine_monetary_unit
+hyper: Polish_monetary_unit
+hyper: Portuguese_monetary_unit
+hyper: Qatari_monetary_unit
+hyper: Romanian_monetary_unit
+hyper: Russian_monetary_unit
+hyper: Sao_Thome_e_Principe_monetary_unit
+hyper: Saudi_Arabian_monetary_unit
+hyper: Seychelles_monetary_unit
+hyper: Sierra_Leone_monetary_unit
+hyper: Slovakian_monetary_unit
+hyper: Somalian_monetary_unit
+hyper: South_African_monetary_unit
+hyper: South_Korean_monetary_unit
+hyper: Spanish_monetary_unit
+hyper: Sri_Lankan_monetary_unit
+hyper: Sudanese_monetary_unit
+hyper: Surinamese_monetary_unit
+hyper: Swaziland_monetary_unit
+hyper: Swedish_monetary_unit
+hyper: Syrian_monetary_unit
+hyper: Tajikistani_monetary_unit
+hyper: Tanzanian_monetary_unit
+hyper: Thai_monetary_unit
+hyper: Tongan_monetary_unit
+hyper: Tunisian_monetary_unit
+hyper: Turkish_monetary_unit
+hyper: Turkmen_monetary_unit
+hyper: Ugandan_monetary_unit
+hyper: Ukranian_monetary_unit
+hyper: United_Arab_Emirate_monetary_unit
+hyper: Uruguayan_monetary_unit
+hyper: Uzbekistani_monetary_unit
+hyper: Venezuelan_monetary_unit
+hyper: Vietnamese_monetary_unit
+hyper: Western_Samoan_monetary_unit
+hyper: Yemeni_monetary_unit
+hyper: Yugoslavian_monetary_unit
+hyper: Zairese_monetary_unit
+hyper: Zambian_monetary_unit
+hyper: dollar
+hyper: euro
+hyper: fractional_monetary_unit
+hyper: franc
+hypo: unit
+
+w: mongo
+d: 100 mongo equal 1 tugrik in Mongolia
+hp: tughrik
+hypo: Mongolian_monetary_unit
+
+w: morgen
+d: a South African unit of measure equal to about 2 acres
+hypo: area_unit
+
+w: morsel
+d: a small quantity of anything
+e: a morsel of paper was all he needed
+hypo: small_indefinite_amount
+
+w: mouthful
+d: the quantity that can be held in the mouth
+hypo: containerful
+
+w: much
+d: a great amount or extent
+e: they did much for humanity
+hypo: large_indefinite_amount
+
+w: mug
+w: mugful
+d: the quantity that can be held in a mug
+hypo: containerful
+
+w: multiplicand
+d: the number that is multiplied by the multiplier
+hypo: number
+
+w: multiplier drf verb.cognition:multiply
+w: multiplier_factor
+d: the number by which a multiplicand is multiplied
+hyper: scale_factor
+hypo: number
+
+w: mutchkin
+d: a Scottish unit of liquid measure equal to 0.9 United States pint
+hypo: liquid_measure
+
+w: myg
+w: myriagram
+d: one ten thousandth of a centner
+hp: centner 2
+hypo: metric_weight_unit
+mp: kg
+
+w: mym
+w: myriameter
+w: myriametre
+d: a metric unit of length equal to 10,000 meters
+hypo: metric_linear_unit
+mp: kilometer
+
+w: myriad 1 drf adjs.all:myriad
+d: a large indefinite number
+e: he faced a myriad of details
+hypo: large_indefinite_amount
+
+w: nail
+d: a former unit of length for cloth equal to 1/16 of a yard
+hypo: linear_measure
+
+w: naira
+d: the basic unit of money in Nigeria
+hypo: Nigerian_monetary_unit
+mp: kobo
+
+w: nanogram
+w: ng
+d: one billionth (1/1,000,000,000) gram
+hp: mcg
+hypo: metric_weight_unit
+
+w: nanovolt
+d: a unit of potential equal to one billionth of a volt
+hp: V
+hypo: potential_unit
+
+w: natural_number
+d: the number 1 and any other number obtained by adding 1 to it repeatedly
+hypo: number
+
+w: nautical_chain
+d: a nautical unit of length (15 ft)
+hypo: chain
+
+w: nautical_linear_unit
+d: a linear unit of distance used in navigation
+hyper: Admiralty_mile
+hyper: air_mile
+hyper: mile 5
+hypo: linear_measure
+
+w: neighborhood
+w: region
+d: the approximate amount of something (usually used prepositionally as in `in the region of')
+e: it was going to take in the region of two or three months to finish the job
+e: the price is in the neighborhood of $100
+hypo: indefinite_quantity
+
+w: net_ton
+w: short_ton
+w: ton 2
+d: a United States unit of weight equivalent to 2000 pounds
+hp: kiloton
+hypo: avoirdupois_unit
+mp: cental
+
+w: ngultrum
+d: the basic unit of money in Bhutan
+hypo: Bhutanese_monetary_unit
+mp: chetrum
+
+w: ngwee
+d: 100 ngwee equal 1 kwacha in Zambia
+hp: Zambian_kwacha
+hypo: Zambian_monetary_unit
+
+w: nibble drf verb.consumption:nibble 1 drf verb.contact:nibble
+w: nybble
+d: a small byte
+hp: byte
+hypo: computer_memory_unit
+
+w: nihil
+d: (Latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ)
+e: nihil habet
+hypo: aught
+mt: noun.communication:Latin
+
+w: ninth
+w: one-ninth
+d: one part in nine equal parts
+hypo: common_fraction
+
+w: nip
+w: shot
+d: a small drink of liquor
+e: he poured a shot of whiskey
+hypo: small_indefinite_amount
+
+w: nit
+d: a luminance unit equal to 1 candle per square meter measured perpendicular to the rays from the source
+hypo: luminance_unit
+
+w: no.
+w: ordinal drf adj.all:ordinal
+w: ordinal_number
+d: the number designating place in an ordered sequence
+hyper: first
+hypo: number
+
+w: nose drf verb.competition:nose
+d: a small distance
+e: my horse lost the race by a nose
+hypo: small_indefinite_amount
+
+w: number drf adj.pert:numerical drf verb.change:number drf verb.communication:number drf verb.communication:number 1 drf verb.communication:number 3 drf verb.stative:number
+d: a concept of quantity involving zero and units
+e: every number has a unique position in the sequence
+hyper: noun.cognition:arity
+hyper: noun.cognition:co-ordinate
+hyper: noun.communication:folio 1
+hyper: Fibonacci_number
+hyper: addend
+hyper: atomic_number
+hyper: augend
+hyper: baryon_number
+hyper: base
+hyper: biquadrate
+hyper: cardinal
+hyper: cardinality
+hyper: complex_number
+hyper: composite_number
+hyper: compound_number
+hyper: constant
+hyper: count
+hyper: cube
+hyper: decimal 1
+hyper: difference
+hyper: dividend
+hyper: divisor
+hyper: factor 1
+hyper: fixed-point_number
+hyper: floating-point_number
+hyper: integer
+hyper: linage
+hyper: minuend
+hyper: multiplicand
+hyper: multiplier
+hyper: natural_number
+hyper: no.
+hyper: oxidation_number
+hyper: prime
+hyper: quota
+hyper: quotient
+hyper: record
+hyper: remainder 1
+hyper: root
+hyper: score
+hyper: second_power
+hyper: subtrahend
+hypo: definite_quantity
+
+w: numerator
+d: the dividend of a fraction
+hypo: dividend
+
+w: obolus
+d: a Greek unit of weight equal to one tenth of a gram
+hp: g
+hypo: weight
+
+w: ocean drf adjs.all:oceanic 1
+w: sea
+d: anything apparently limitless in quantity or volume
+hypo: large_indefinite_amount
+
+w: octal_digit
+d: a digit from 0 to 7 in octal notation
+hypo: digit
+
+w: octane_number
+w: octane_rating
+d: a measure of the antiknock properties of gasoline
+hypo: noun.Tops:amount
+
+w: octillion
+d: the number that is represented as a one followed by 27 zeros
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: oersted
+d: the magnetic field strength 1 cm from a unit magnetic pole
+hypo: field_strength_unit
+mp: gamma
+
+w: ohm drf adj.pert:ohmic
+d: a unit of electrical resistance equal to the resistance between two points on a conductor when a potential difference of one volt between them produces a current of one ampere
+hp: megohm
+hypo: resistance_unit
+mp: abohm
+
+w: oka 1
+d: a Turkish unit of weight equal to about 2.75 pounds
+hypo: weight
+
+w: oka 2
+d: a Turkish liquid unit equal to 1.3 pints
+hypo: liquid_measure
+
+w: one-hundred-millionth
+d: one part in a hundred million equal parts
+hypo: common_fraction
+
+w: one-hundred-thousandth
+d: one part in a hundred thousand equal parts
+hypo: common_fraction
+
+w: one-quadrillionth
+w: quadrillionth
+d: one part in a quadrillion equal parts
+hypo: common_fraction
+
+w: one-quintillionth
+w: quintillionth
+d: one part in a quintillion equal parts
+hypo: common_fraction
+
+w: one-seventh
+w: seventh
+d: one part in seven equal parts
+hypo: common_fraction
+
+w: one-sixteenth
+w: sixteenth
+w: sixteenth_part
+d: one part in sixteen equal parts
+hypo: common_fraction
+
+w: one-sixth
+w: sixth
+d: one part in six equal parts
+hypo: common_fraction
+
+w: one-sixtieth
+w: sixtieth
+d: one part in sixty equal parts
+hypo: common_fraction
+
+w: one-sixty-fourth
+w: sixty-fourth
+d: one part in sixty-four equal parts
+hypo: common_fraction
+
+w: one-ten-thousandth
+w: ten-thousandth
+d: one part in ten thousand equal parts
+hypo: common_fraction
+
+w: one-tenth
+w: ten_percent
+w: tenth
+w: tenth_part
+d: a tenth part; one part in ten equal parts
+hypo: common_fraction
+
+w: one-third
+w: third
+w: tierce
+d: one of three equal parts of a divisible whole
+e: it contains approximately a third of the minimum daily requirement
+hypo: common_fraction
+
+w: one-thirty-second
+w: thirty-second
+w: thirty-second_part
+d: one part in thirty-two equal parts
+hypo: common_fraction
+
+w: one-thousandth
+w: thousandth
+d: one part in a thousand equal parts
+hypo: common_fraction
+
+w: one-trillionth
+w: trillionth
+d: one part in a trillion equal parts
+hypo: common_fraction
+
+w: one_million_million_million
+w: trillion 1
+d: the number that is represented as a one followed by 18 zeros
+e: in England they call a quintillion a trillion
+hypo: large_integer
+mr: noun.location:Britain
+mr: noun.location:Deutschland
+
+w: ore
+d: a monetary subunit in Denmark and Norway and Sweden; 100 ore equal 1 krona
+hp: Danish_krone
+hp: Norwegian_krone
+hp: Swedish_krona
+hypo: fractional_monetary_unit
+
+w: ouguiya
+d: the basic unit of money in Mauritania
+hypo: Mauritanian_monetary_unit
+mp: khoum
+
+w: ounce 1
+w: oz.
+d: a unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams
+hp: lb
+hypo: avoirdupois_unit
+mp: dram 1
+
+w: outage
+d: the amount of something (as whiskey or oil) lost in storage or transportation
+hypo: indefinite_quantity
+
+w: output
+w: production
+w: yield drf verb.creation:yield drf verb.possession:yield
+d: the quantity of something (as a commodity) that is created (usually within a given period of time)
+e: production was up in the second quarter
+hyper: pick
+hypo: indefinite_quantity
+
+w: oxidation_number
+w: oxidation_state
+d: the degree of oxidation of an atom or ion or molecule; for simple atoms or ions the oxidation number is equal to the ionic charge
+e: the oxidation number of hydrogen is +1 and of oxygen is -2
+hypo: number
+
+w: oxtant
+d: a unit of angular distance equal to half a quadrant
+hypo: angular_unit
+mp: arcdegree
+
+w: pa'anga
+d: the basic unit of money in Tonga
+hypo: Tongan_monetary_unit
+mp: seniti
+
+w: pace drf verb.change:pace
+w: yard
+d: a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride
+hp: chain
+hp: fathom 1
+hp: lea
+hp: perch 1
+hypo: linear_measure
+mp: foot
+
+w: pail
+w: pailful
+d: the quantity contained in a pail
+hypo: containerful
+
+w: pain_unit
+d: a unit measuring the intensity of pain
+hyper: dol
+hypo: unit
+
+w: paisa
+d: a fractional monetary unit in Bangladesh and India and Nepal and Pakistan
+hp: Indian_rupee
+hp: Nepalese_rupee
+hp: Pakistani_rupee
+hp: taka
+hypo: fractional_monetary_unit
+
+w: palm drf verb.contact:palm
+d: a linear unit based on the length or width of the human hand
+hypo: linear_measure
+
+w: par drf verb.competition:par
+d: (golf) the standard number of strokes set for each hole on a golf course, or for the entire course
+e: a par-5 hole
+e: par for this course is 72
+hypo: score
+mt: noun.act:golf
+
+w: para
+d: 100 para equal 1 dinar in Yugoslavia
+hp: Yugoslavian_dinar
+hypo: Yugoslavian_monetary_unit
+
+w: parking drf verb.contact:park
+d: space in which vehicles can be parked
+e: there is plenty of parking behind the store
+hypo: elbow_room
+
+w: parsec
+w: secpar
+d: a unit of astronomical length based on the distance from Earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years
+hypo: astronomy_unit
+
+w: partition
+d: (computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit
+hypo: computer_memory_unit
+mt: noun.cognition:computer_science
+
+w: pataca
+d: the basic unit of money in Macao
+hypo: Macao_monetary_unit
+mp: avo
+
+w: pdl
+w: poundal
+d: a unit of force equal to the force that imparts an acceleration of 1 foot/sec/sec to a mass of 1 pound; equal to 0.1382 newtons
+hypo: force_unit
+
+w: peck 1
+d: a United States dry measure equal to 8 quarts or 537.605 cubic inches
+hp: bushel 2
+hypo: United_States_dry_unit
+mp: dry_quart
+
+w: peck 2
+d: a British imperial capacity measure (liquid or dry) equal to 2 gallons
+hp: bushel 1
+hypo: British_capacity_unit
+
+w: pengo
+d: formerly the basic unit of money in Hungary until it was replaced by the forint in 1946
+hypo: Hungarian_monetary_unit
+
+w: penn'orth
+w: pennyworth
+d: the amount that can be bought for a penny
+hypo: worth
+
+w: penni
+d: 100 pennia formerly equaled 1 markka in Finland
+hp: Finnish_mark
+hypo: Finnish_monetary_unit
+
+w: penny
+d: a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound
+hp: British_pound
+hp: Irish_pound
+hypo: fractional_monetary_unit
+
+w: pennyweight
+d: a unit of apothecary weight equal to 24 grains
+hp: apothecaries'_ounce
+hypo: troy_unit
+mp: grain 2
+
+w: perch 1
+w: pole 1
+w: rod 1
+d: a linear measure of 16.5 feet
+hp: furlong
+hypo: linear_measure
+mp: pace
+mr: noun.location:Britain
+
+w: perch 2
+w: pole 2
+w: rod 2
+d: a square rod of land
+hypo: area_unit
+
+w: pesewa
+d: 100 pesewas equal 1 cedi in Ghana
+hp: cedi
+hypo: Ghanian_monetary_unit
+
+w: pfennig
+d: 100 pfennigs formerly equaled 1 Deutsche Mark in Germany
+hp: Deutsche_Mark
+hypo: German_monetary_unit
+
+w: phon
+d: a unit of subjective loudness
+hypo: sound_unit
+mp: sone
+
+w: phot
+d: a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux
+hypo: illumination_unit
+mp: lux
+
+w: pi
+d: the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...
+hypo: transcendental_number
+
+w: piaster
+w: piastre
+d: a fractional monetary unit in Egypt and Lebanon and Sudan and Syria
+hp: Egyptian_pound
+hp: Lebanese_pound
+hp: Sudanese_pound
+hp: Syrian_pound
+hypo: fractional_monetary_unit
+
+w: pick drf verb.contact:pick 1
+w: picking
+d: the quantity of a crop that is harvested
+e: he sent the first picking of berries to the market
+e: it was the biggest peach pick in years
+hypo: output
+
+w: picofarad
+d: a unit of capacitance equal to one trillionth of a farad
+hp: microfarad
+hypo: capacitance_unit
+
+w: picovolt
+d: a unit of potential equal to one trillionth of a volt
+hp: V
+hypo: potential_unit
+
+w: picul
+d: a unit of weight used in some parts of Asia; approximately equal to 133 pounds (the load a grown man can carry)
+hypo: weight
+
+w: pint 1
+d: a United States liquid unit equal to 16 fluid ounces; two pints equal one quart
+hp: quart 1
+hypo: United_States_liquid_unit
+mp: cup 2
+
+w: pint 2
+d: a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters
+hp: quart 2
+hypo: British_capacity_unit
+mp: gill 2
+
+w: pipeful
+d: the quantity of tobacco that can be smoked in a pipe at one time
+hypo: containerful
+
+w: pitcher
+w: pitcherful
+d: the quantity contained in a pitcher
+hypo: containerful
+
+w: plate
+w: plateful
+d: the quantity contained in a plate
+hypo: containerful
+
+w: plurality
+w: relative_majority
+d: (in an election with more than 2 options) the number of votes for the candidate or party receiving the greatest number (but less that half of the votes)
+hypo: relative_quantity
+mt: noun.act:election 1
+
+w: pocketful
+d: the quantity a pocket will hold
+hypo: containerful
+
+w: point
+d: a linear unit used to measure the size of type; approximately 1/72 inch
+hp: em 2
+hypo: linear_measure
+
+w: point 1
+d: the unit of counting in scoring a game or contest
+e: he scored 20 points in the first half
+e: a touchdown counts 6 points
+hp: score
+hyper: noun.act:extra_point
+hyper: advantage
+hyper: match_point
+hyper: set_point
+hypo: unit
+
+w: point_system
+d: a system of graduating sizes of type in multiples of the point
+hypo: metric
+
+w: poise
+d: a cgs unit of dynamic viscosity equal to one dyne-second per square centimeter; the viscosity of a fluid in which a force of one dyne per square centimeter maintains a velocity of 1 centimeter per second
+hypo: unit_of_viscosity
+
+w: pollen_count
+d: the number of pollen grains (usually ragweed) in a standard volume of air over a twenty-four hour period and a specified time and place
+hypo: count
+
+w: pood
+d: a Russian unit of weight equal to approximately 36 pounds
+hypo: weight
+
+w: population
+d: the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)
+e: people come and go, but the population of this town has remained approximately constant for the past decade
+e: the African-American population of Salt Lake City has been increasing
+hypo: integer
+
+w: pot
+w: potful
+d: the quantity contained in a pot
+hypo: containerful
+
+w: potential_unit
+d: a measure of the potential energy of a unit charge at a given point in a circuit relative to a reference point (ground)
+hyper: V
+hyper: abvolt
+hyper: femtovolt
+hyper: kV
+hyper: mV
+hyper: microvolt
+hyper: nanovolt
+hyper: picovolt
+hypo: electromagnetic_unit
+
+w: pound 10
+d: a unit of apothecary weight equal to 12 ounces troy
+hypo: force_unit
+
+w: pounder
+d: (used only in combination) something weighing a given number of pounds
+e: the fisherman caught a 10-pounder
+e: their linemen are all 300-pounders
+hypo: force_unit
+mu: noun.communication:combining_form
+
+w: pounds_per_square_inch
+w: psi
+d: a unit of pressure
+hypo: pressure_unit
+
+w: power_unit
+d: a measure of electric power
+hyper: H.P.
+hyper: W
+hyper: abwatt
+hyper: kW
+hyper: kilovolt-ampere
+hyper: megawatt
+hyper: milliwatt
+hyper: var
+hypo: electromagnetic_unit
+
+w: precipitation drf verb.weather:precipitate
+d: the quantity of water falling to earth at a specific place within a specified period of time
+e: the storm brought several inches of precipitation
+hypo: indefinite_quantity
+
+w: pressure_unit
+d: a unit measuring force per unit area
+hyper: Pa
+hyper: atm
+hyper: bar
+hyper: bar_absolute
+hyper: millibar
+hyper: millimeter_of_mercury
+hyper: pounds_per_square_inch
+hypo: unit
+
+w: prime
+w: prime_quantity
+d: a number that has no factor but itself and 1
+hyper: prime_number
+hypo: number
+
+w: prime_factor
+d: the prime factors of a quantity are all of the prime quantities that will exactly divide the given quantity
+hypo: divisor 1
+
+w: prime_number
+d: an integer that has no integral factors but itself and 1
+hypo: prime
+
+w: printing_unit
+d: a unit of measurement for printing
+hyper: milline
+hypo: unit
+
+w: proof
+d: a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)
+hypo: noun.Tops:amount
+
+w: proper_fraction
+d: a fraction with a numerator smaller than the denominator
+hyper: decimal
+hypo: fraction
+
+w: pul
+d: 100 puls equal 1 afghani in Afghanistan
+hp: afghani
+hypo: Afghan_monetary_unit
+
+w: pula
+d: the basic unit of money in Botswana
+hypo: Botswana_monetary_unit
+mp: thebe
+
+w: pulmonary_reserve
+d: the additional volume of air that the lungs can inhale and exhale when breathing to the limit of capacity in times of stress
+hypo: reserve
+
+w: pure_imaginary_number
+d: an imaginary number of the form a+bi where a is 0
+hyper: imaginary_part
+hypo: complex_number
+
+w: pya
+d: 100 pyas equal 1 kyat in Myanmar
+hp: kyat
+hypo: Myanmar_monetary_unit
+
+w: qepiq
+d: 100 qepiq equal 1 manat in Azerbaijan
+hypo: Azerbaijani_monetary_unit
+
+w: qindarka
+w: qintar
+d: 100 qindarka equal 1 lek in Albania
+hp: lek
+hypo: Albanian_monetary_unit
+
+w: quadrillion
+d: the number that is represented as a one followed by 15 zeros
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: quadrillion 1
+d: the number that is represented as a one followed by 24 zeros
+e: in England they call a septillion a quadrillion
+hypo: large_integer
+mr: noun.location:Britain
+mr: noun.location:Deutschland
+
+w: quart 1
+d: a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon
+hp: gal
+hypo: United_States_liquid_unit
+mp: pint 1
+
+w: quart 2
+d: a British imperial capacity measure (liquid or dry) equal to 2 pints or 1.136 liters
+hp: Imperial_gallon
+hypo: British_capacity_unit
+mp: pint 2
+
+w: quarter 2
+d: a quarter of a hundredweight (25 pounds)
+hp: cental
+hypo: avoirdupois_unit
+mp: lb
+mp: stone
+
+w: quarter 4
+d: a quarter of a hundredweight (28 pounds)
+hp: cwt 1
+hypo: British_capacity_unit
+mp: bushel 1
+mr: noun.location:Britain
+
+w: quarter_pound
+d: 4 ounces avoirdupois
+hp: lbf.
+hypo: avoirdupois_unit
+
+w: quarter_section
+d: a land unit equal to a quarter of a section (160 acres) and measuring 1/2 mile on a side
+hypo: area_unit
+
+w: quetzal
+d: the basic unit of money in Guatemala; equal to 100 centavos
+hypo: Guatemalan_monetary_unit
+mp: centavo
+
+w: quintal 2
+d: a unit of weight equal to 100 kilograms
+hp: MT
+hypo: metric_weight_unit
+mp: centner 3
+
+w: quintillion
+d: the number that is represented as a one followed by 18 zeros
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: quire
+d: a quantity of paper; 24 or 25 sheets
+hp: ream
+hypo: definite_quantity
+
+w: quota
+d: a prescribed number
+e: all the salesmen met their quota for the month
+hypo: number
+
+w: quotient
+d: the number obtained by division
+hypo: number
+
+w: qurush
+d: 20 qurush equal 1 riyal in Saudi Arabia
+hp: Saudi_Arabian_riyal
+hypo: Saudi_Arabian_monetary_unit
+
+w: rad
+d: a unit of absorbed ionizing radiation equal to 100 ergs per gram of irradiated material
+hypo: radioactivity_unit
+
+w: rad 1
+w: radian
+d: the unit of plane angle adopted under the Systeme International d'Unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)
+hypo: angular_unit
+mp: milliradian
+
+w: radical
+d: (mathematics) a quantity expressed as the root of another quantity
+hypo: noun.Tops:amount
+mt: noun.cognition:math
+
+w: radioactivity_unit
+d: a measure of radioactivity
+hyper: Ci
+hyper: Gy
+hyper: R
+hyper: REM
+hyper: millicurie
+hyper: rad
+hyper: rutherford
+hypo: electromagnetic_unit
+
+w: rand
+d: the basic unit of money in South Africa; equal to 100 cents
+hypo: South_African_monetary_unit
+mp: cent
+
+w: rational
+w: rational_number
+d: an integer or a fraction
+hyper: fraction
+hypo: real
+
+w: real
+w: real_number
+d: any rational or irrational number
+hyper: noun.cognition:dot_product
+hyper: irrational
+hyper: rational
+hypo: complex_number
+
+w: real 1
+d: the basic unit of money in Brazil; equal to 100 centavos
+hypo: Brazilian_monetary_unit
+mp: centavo
+
+w: ream
+d: a quantity of paper; 480 or 500 sheets; one ream equals 20 quires
+hypo: definite_quantity
+mp: quire
+
+w: ream 1
+d: a large quantity of written matter
+e: he wrote reams and reams
+hypo: large_indefinite_amount
+
+w: record
+d: the number of wins versus losses and ties a team has had
+e: at 9-0 they have the best record in their league
+hypo: number
+
+w: relative_quantity
+d: a quantity relative to some purpose
+hyper: N
+hyper: absolute_majority
+hyper: aught
+hyper: enough
+hyper: plurality
+hypo: noun.Tops:amount
+
+w: remainder 1
+d: the part of the dividend that is left over when the dividend is not evenly divisible by the divisor
+hypo: number
+
+w: reserve
+d: (medicine) potential capacity to respond in order to maintain vital functions
+hyper: pulmonary_reserve
+hypo: indefinite_quantity
+mt: noun.cognition:medical_specialty
+
+w: reservoir
+d: a large or extra supply of something
+e: a reservoir of talent
+hypo: supply
+
+w: resistance_unit
+d: the reciprocal of conductance
+hyper: abohm
+hyper: megohm
+hyper: ohm
+hypo: electromagnetic_unit
+
+w: riel
+d: the basic unit of money in Cambodia; equal to 100 sen
+hypo: Cambodian_monetary_unit
+mp: sen
+
+w: ringgit
+d: the basic unit of money in Malaysia; equal to 100 sen
+hypo: Malaysian_monetary_unit
+mp: sen
+
+w: roomful
+d: the quantity a room will hold
+hypo: containerful
+
+w: root
+d: a number that, when multiplied by itself some number of times, equals a given number
+hyper: cube_root
+hyper: square_root
+hypo: number
+
+w: rotl
+d: a unit of weight used in some Moslem countries near the Mediterranean; varies between one and five pounds
+hypo: weight
+
+w: rouble
+w: ruble
+d: the basic unit of money in Russia
+hypo: Russian_monetary_unit
+mp: copeck
+
+w: rubel
+d: the basic unit of money in Belarus
+hypo: Belarusian_monetary_unit
+
+w: ruble 1
+d: the basic unit of money in Tajikistan
+hypo: Tajikistani_monetary_unit
+
+w: run
+d: the production achieved during a continuous period of operation (of a machine or factory etc.)
+e: a daily run of 100,000 gallons of paint
+hypo: indefinite_quantity
+
+w: rupiah
+d: the basic unit of money in Indonesia; equal to 100 sen
+hypo: Indonesian_monetary_unit
+mp: sen
+
+w: rutherford
+d: a unit strength of a radioactive source equal to one million disintegrations per second
+hypo: radioactivity_unit
+
+w: rydberg
+w: rydberg_constant
+w: rydberg_unit
+d: a wave number characteristic of the wave spectrum of each element
+hypo: wave_number
+
+w: sabin
+d: a unit of acoustic absorption equivalent to the absorption by a square foot of a surface that absorbs all incident sound
+hypo: absorption_unit
+
+w: sack drf verb.contact:sack
+w: sackful
+d: the quantity contained in a sack
+hypo: containerful
+
+w: santims
+d: 100 santimi equal 1 lats in Latvia
+hypo: Latvian_monetary_unit
+
+w: satang
+d: 100 satangs equal 1 baht in Thailand
+hp: baht
+hypo: Thai_monetary_unit
+
+w: scale_factor
+d: a number used as a multiplier in scaling
+hyper: time-scale_factor
+hypo: multiplier
+
+w: scattering
+w: sprinkling drf verb.contact:sprinkle 1
+d: a small number (of something) dispersed haphazardly
+e: the first scatterings of green
+e: a sprinkling of grey at his temples
+hypo: small_indefinite_amount
+
+w: schtick
+w: schtik
+w: shtick
+w: shtik
+d: (Yiddish) a little; a piece
+e: give him a shtik cake
+e: he's a shtik crazy
+e: he played a shtik Beethoven
+hyper: schtickl
+hypo: small_indefinite_amount
+mt: noun.communication:Yiddish
+
+w: schtickl
+w: schtikl
+w: shtickl
+w: shtikl
+d: a really little shtik
+e: have a shtikl cake
+hypo: schtick
+
+w: scoop drf verb.contact:scoop 1
+w: scoopful
+d: the quantity a scoop will hold
+hypo: containerful
+
+w: score drf verb.competition:score
+d: a number that expresses the accomplishment of a team or an individual in a game or contest
+e: the score was 7 to 0
+hyper: noun.act:baseball_score
+hyper: noun.act:basketball_score
+hyper: noun.act:bowling_score
+hyper: noun.act:football_score
+hyper: birdie
+hyper: bogey
+hyper: deficit
+hyper: double-bogey
+hyper: double_eagle
+hyper: duck
+hyper: eagle
+hyper: game
+hyper: lead
+hyper: love
+hyper: match
+hyper: par
+hyper: stroke
+hypo: number
+mp: point 1
+
+w: scruple
+d: a unit of apothecary weight equal to 20 grains
+hp: drachm
+hypo: apothecaries'_unit
+mp: grain 2
+
+w: sea_room
+d: space for maneuver at sea
+hypo: elbow_room
+
+w: second_power
+w: square drf verb.cognition:square
+d: the product of two equal terms
+e: nine is the second power of three
+e: gravity is inversely proportional to the square of the distance
+hypo: number
+
+w: section
+d: a land unit equal to 1 square mile
+hypo: square_mile
+
+w: sector
+d: the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes
+hp: allocation_unit
+hp: block
+hypo: computer_memory_unit
+
+w: sen
+d: a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel
+hp: riel
+hp: ringgit
+hp: rupiah
+hp: yen
+hypo: fractional_monetary_unit
+
+w: sene
+d: 100 sene equal 1 tala in Western Samoa
+hp: tala
+hypo: Western_Samoan_monetary_unit
+
+w: seniti
+d: 100 seniti equal 1 pa'anga in Tonga
+hp: pa'anga
+hypo: Tongan_monetary_unit
+
+w: sent
+d: 100 senti equal 1 kroon in Estonia
+hypo: Estonian_monetary_unit
+
+w: sente
+d: 100 lisente equal 1 loti in Lesotho; one sente is worth one-hundredth of a loti
+hp: loti
+hypo: Lesotho_monetary_unit
+
+w: septillion
+d: the number that is represented as a one followed by 24 zeros
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: set_point
+d: (tennis) the final point needed to win a set in tennis
+hp: noun.act:lawn_tennis
+hypo: point 1
+
+w: sextant
+d: a unit of angular distance equal to 60 degrees
+hp: noun.attribute:circumference 1
+hypo: angular_unit
+mp: arcdegree
+
+w: sextillion
+d: the number that is represented as a one followed by 21 zeros
+hypo: large_integer
+mr: noun.location:America
+mr: noun.location:France
+
+w: shade
+w: tad
+d: a slight amount or degree of difference
+e: a tad too expensive
+e: not a tad of difference
+e: the new model is a shade better than the old one
+hypo: small_indefinite_amount
+
+w: shekel
+d: the basic unit of money in Israel
+hypo: Israeli_monetary_unit
+mp: agora
+
+w: shelfful
+d: the amount that a shelf will hold
+e: he bought a shelfful of books
+hypo: containerful
+
+w: shoe_string
+w: shoestring
+d: a small amount of money
+e: he managed it on a shoestring
+hypo: small_indefinite_amount
+
+w: shoeful
+d: the amount that a shoe will hold
+e: he emptied out a shoeful of water
+hypo: containerful
+
+w: shovel drf verb.contact:shovel
+w: shovelful
+w: spadeful
+d: the quantity a shovel can hold
+hypo: containerful
+
+w: significant_digit
+w: significant_figure
+d: any digit of a number that is known with certainty; any digit of a number beginning with the leftmost non-zero digit and ending with the rightmost non-zero digit (or a zero considered to be the exact value)
+e: he calculated the answer to four significant figures
+hypo: digit
+
+w: singleton
+d: a single object (as distinguished from a pair)
+hyper: fellow
+hypo: 1
+
+w: skeleton
+d: something reduced to its minimal form
+e: the battalion was a mere skeleton of its former self
+e: the bare skeleton of a novel
+hypo: lower_limit
+
+w: skepful
+d: the quantity a skep can hold
+hypo: containerful
+
+w: skinful
+d: a quantity of alcoholic drink sufficient to make you drunk
+e: someone had to drive me home last night because I had a skinful
+hypo: indefinite_quantity
+mu: noun.communication:argot
+
+w: slug
+d: a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms
+hypo: mass_unit
+
+w: small_fortune
+d: a large sum of money
+e: he made a small fortune in the commodities market
+hypo: large_indefinite_amount
+
+w: small_indefinite_amount
+w: small_indefinite_quantity
+d: an indefinite quantity that is below average size or magnitude
+hyper: noun.food:helping
+hyper: noun.food:mouthful
+hyper: bit 1
+hyper: couple 1
+hyper: crumb
+hyper: dab
+hyper: diddley
+hyper: dollop
+hyper: dreg
+hyper: drib
+hyper: hair
+hyper: handful 1
+hyper: hint
+hyper: hint 1
+hyper: iota
+hyper: little
+hyper: lower_limit
+hyper: modicum
+hyper: morsel
+hyper: nip
+hyper: nose
+hyper: scattering
+hyper: schtick
+hyper: shade
+hyper: shoe_string
+hyper: spray
+hyper: step 1
+hyper: tot
+hypo: indefinite_quantity
+
+w: snuff
+d: a pinch of smokeless tobacco inhaled at a single time
+hypo: hint
+
+w: solubility drf adj.all:soluble 1
+d: the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)
+hypo: definite_quantity
+mt: noun.substance:solution
+
+w: som
+d: the basic unit of money in Kyrgyzstan
+hypo: Kyrgyzstani_monetary_unit
+
+w: som 1
+d: the basic unit of money in Uzbekistan
+hypo: Uzbekistani_monetary_unit
+
+w: sone
+d: a unit of perceived loudness equal to the loudness of a 1000-hertz tone at 40 dB above threshold
+hp: phon
+hypo: sound_unit
+
+w: sound_unit
+d: any acoustic unit of measurement
+hyper: B 3
+hyper: dB
+hyper: phon
+hyper: sone
+hypo: unit
+
+w: span 1
+d: a unit of length based on the width of the expanded human hand (usually taken as 9 inches)
+hypo: linear_measure
+
+w: spark drf verb.creation:spark
+d: a small but noticeable trace of some quality that might become stronger
+e: a spark of interest
+e: a spark of decency
+hypo: hint 1
+
+w: sperm_count
+d: the number of sperm in an ejaculate
+e: the sperm count is used as an indicator of male fertility
+hypo: count
+
+w: spillage
+d: the amount that has spilled
+hypo: indefinite_quantity
+
+w: split
+d: a bottle containing half the usual amount
+hypo: bottle
+
+w: spoilage
+d: the amount that has spoiled
+hypo: indefinite_quantity
+
+w: spoon drf verb.contact:spoon
+w: spoonful
+d: as much as a spoon will hold
+e: he added two spoons of sugar
+hypo: containerful
+
+w: spray
+w: spraying drf verb.contact:spray
+d: a quantity of small objects flying through the air
+e: a spray of bullets
+hypo: small_indefinite_amount
+
+w: sq_ft
+w: square_foot
+d: a unit of area equal to one foot by one foot square
+hypo: area_unit
+
+w: sq_in
+w: square_inch
+d: a unit of area equal to one inch by one inch square
+hypo: area_unit
+
+w: sq_yd
+w: square_yard
+d: a unit of area equal to one yard by one yard square
+hypo: area_unit
+
+w: square_mile
+d: an area of 640 acres
+hyper: section
+hypo: area_unit
+
+w: square_root
+d: a number that when multiplied by itself equals a given number
+hypo: root
+
+w: sr
+w: steradian
+d: the unit of solid angle adopted under the Systeme International d'Unites
+hp: noun.shape:sphere 1
+hypo: angular_unit
+
+w: standard drf verb.change:standardise drf verb.change:standardize
+d: a board measure = 1980 board feet
+hypo: capacity_measure
+
+w: standard_temperature
+d: exactly zero degrees centigrade
+hyper: STP
+hypo: C 2
+
+w: step 1 drf verb.change:step
+w: stone's_throw
+d: a short distance
+e: it's only a step to the drugstore
+hypo: small_indefinite_amount
+
+w: sthene
+d: a unit of force equal to 1000 newtons
+hypo: force_unit
+mp: N 1
+
+w: stone
+d: an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds
+e: a heavy chap who must have weighed more than twenty stone
+hp: quarter 2
+hypo: avoirdupois_unit
+mp: lb
+mr: noun.location:Britain
+
+w: stotinka
+d: 100 stotinka equal 1 lev in Bulgaria
+hp: lev
+hypo: Bulgarian_monetary_unit
+
+w: straight_angle
+d: an angle of 180 degrees
+hp: noun.attribute:circumference 1
+hypo: angular_unit
+
+w: stroke
+d: (golf) the unit of scoring in golf is the act of hitting the ball with a club
+e: Nicklaus won by three strokes
+hypo: score
+mt: noun.act:golf
+
+w: subtrahend
+d: the number to be subtracted from the minuend
+hypo: number
+
+w: sucre
+d: the basic unit of money in Ecuador; equal to 100 centavos
+hypo: Ecuadoran_monetary_unit
+mp: centavo
+
+w: supply drf verb.consumption:supply drf verb.possession:supply drf verb.social:supply
+d: an amount of something available for use
+hyper: reservoir
+hypo: indefinite_quantity
+
+w: survey_mile
+d: a U.S. unit of measure equal to 1609.347 meters; derived from the use of 39.37 inches as the conversion for one meter
+hypo: linear_measure
+
+w: swath
+d: the space created by the swing of a scythe or the cut of a mowing machine
+hypo: noun.shape:space
+
+w: system_of_weights
+w: weight 1
+d: a system of units used to express the weight of something
+hyper: avoirdupois
+hyper: troy
+hypo: metric
+
+w: system_of_weights_and_measures
+d: system of measurement for length and weight and duration
+hyper: British_Imperial_System
+hyper: United_States_Customary_System
+hyper: metric_system
+hypo: metric
+
+w: tablespoon 1
+w: tablespoonful 1
+d: as much as a tablespoon will hold
+hypo: containerful
+
+w: tael
+d: a unit of weight used in east Asia approximately equal to 1.3 ounces
+hypo: weight
+
+w: taka
+d: the basic unit of money in Bangladesh; equal to 100 paisa
+hypo: Bangladeshi_monetary_unit
+mp: paisa
+
+w: tala
+d: the basic unit of money in Western Samoa
+hypo: Western_Samoan_monetary_unit
+mp: sene
+
+w: tambala
+d: 100 tambala equal 1 kwacha in Malawi
+hp: Malawi_kwacha
+hypo: Malawian_monetary_unit
+
+w: tanga
+d: 100 tanga equal 1 Tajikistani ruble
+hypo: Tajikistani_monetary_unit
+
+w: tank drf verb.possession:tank
+w: tankful
+d: as much as a tank will hold
+hypo: containerful
+
+w: tankage
+d: the quantity contained in (or the capacity of) a tank or tanks
+hypo: indefinite_quantity
+
+w: teacup
+w: teacupful
+d: as much as a teacup will hold
+hypo: containerful
+
+w: teaspoon 1
+w: teaspoonful 1
+d: as much as a teaspoon will hold
+hypo: containerful
+
+w: teens
+d: all the numbers that end in -teen
+hypo: large_integer
+
+w: telephone_unit
+d: a unit of measurement for telephone use
+hyper: Erlang
+hypo: unit
+
+w: temperature_unit
+d: a unit of measurement for temperature
+hyper: K 5
+hyper: Rankine
+hyper: degree 3
+hyper: degree_day
+hyper: millidegree
+hypo: unit
+
+w: tenge
+d: the basic unit of money in Kazakhstan
+hypo: Kazakhstani_monetary_unit
+
+w: tenge 1
+d: 100 tenge equal 1 manat in Turkmenistan
+hypo: Turkmen_monetary_unit
+
+w: teraflop
+w: trillion_floating_point_operations_per_second
+d: (computer science) a unit for measuring the speed of a computer system
+hypo: unit
+mp: MFLOP
+mt: noun.cognition:computer_science
+
+w: tesla
+d: a unit of magnetic flux density equal to one weber per square meter
+hypo: flux_density_unit
+mp: gauss
+
+w: tetri
+d: 100 tetri equal 1 lari in Georgia
+hp: lari
+hypo: Georgian_monetary_unit
+
+w: thebe
+d: 100 thebe equal 1 pula in Botswana
+hp: pula
+hypo: Botswana_monetary_unit
+
+w: therm
+d: a unit of heat equal to 100,000 British thermal units
+hypo: energy_unit
+mp: B.Th.U.
+
+w: thimble
+w: thimbleful
+d: as much as a thimble will hold
+hypo: containerful
+
+w: three-fourths
+w: three-quarters
+d: three of four equal parts
+e: three-fourths of a pound
+hypo: common_fraction
+
+w: time-scale_factor
+d: the ratio of the simulation time to the time of the real process
+hypo: scale_factor
+mt: noun.cognition:computer_simulation
+
+w: tiyin
+d: 100 tiyin equal 1 tenge in Kazakhstan
+hypo: Kazakhstani_monetary_unit
+
+w: tiyin 1
+d: 100 tiyin equal 1 som in Uzbekistan
+hypo: Uzbekistani_monetary_unit
+
+w: tod
+d: a unit of weight for wool equal to about 28 pounds
+hypo: weight
+mr: noun.location:Britain
+
+w: toea
+d: 100 toea equal 1 kina in Papua New Guinea
+hp: kina
+hypo: Papuan_monetary_unit
+
+w: top-up
+d: an amount needed to restore something to its former level
+hypo: indefinite_quantity
+mr: noun.location:Britain
+
+w: tot
+d: a small amount (especially of a drink)
+e: a tot of rum
+hypo: small_indefinite_amount
+
+w: toxicity drf adj.all:toxic
+d: the degree to which something is poisonous
+hyper: cytotoxicity
+hypo: definite_quantity
+
+w: trainload
+d: quantity that can be carried by a train
+hypo: load
+
+w: transcendental_number
+d: an irrational number that is not algebraic
+hyper: e
+hyper: pi
+hypo: irrational
+
+w: transmission
+w: transmittance
+d: the fraction of radiant energy that passes through a substance
+hypo: coefficient
+
+w: troy
+w: troy_weight
+d: a system of weights used for precious metals and gemstones; based on a 12-ounce pound and an ounce of 480 grains
+hypo: system_of_weights
+mp: troy_unit
+
+w: troy_unit
+d: any of the unit of the troy system of weights
+hp: troy
+hyper: apothecaries'_ounce
+hyper: apothecaries'_pound
+hyper: grain 2
+hyper: pennyweight
+hypo: weight
+
+w: tub
+w: tubful
+d: the amount that a tub will hold
+e: a tub of water
+hypo: containerful
+
+w: tughrik
+w: tugrik
+d: the basic unit of money in Mongolia
+hypo: Mongolian_monetary_unit
+mp: mongo
+
+w: two-thirds
+d: two of three equal parts of a divisible whole
+hypo: common_fraction
+
+w: tyiyn
+d: 100 tyiyn equal 1 som in Kyrgyzstan
+hypo: Kyrgyzstani_monetary_unit
+
+w: ullage
+d: the amount that a container (as a wine bottle or tank) lacks of being full
+hypo: indefinite_quantity
+
+w: unformatted_capacity
+d: (computer science) the total number of bytes on a disk including the space that will be required to format it
+hypo: capacity 1
+mt: noun.cognition:computer_science
+
+w: unit drf verb.change:unitize drf verb.social:unitize
+w: unit_of_measurement
+d: any division of quantity accepted as a standard of measurement or exchange
+e: the dollar is the United States unit of currency
+e: a unit of wheat is a bushel
+e: change per unit volume
+hyper: Brinell_number
+hyper: MFLOP
+hyper: MIPS
+hyper: absorption_unit
+hyper: acceleration_unit
+hyper: angular_unit
+hyper: area_unit
+hyper: bit
+hyper: capacity_measure
+hyper: carat 2
+hyper: computer_memory_unit
+hyper: denier
+hyper: diopter
+hyper: electromagnetic_unit
+hyper: electrostatic_unit
+hyper: energy_unit
+hyper: explosive_unit
+hyper: force_unit
+hyper: langley
+hyper: linear_measure
+hyper: mass_unit
+hyper: measuring_block
+hyper: metric 1
+hyper: miles_per_gallon
+hyper: monetary_unit
+hyper: pain_unit
+hyper: point 1
+hyper: pressure_unit
+hyper: printing_unit
+hyper: sound_unit
+hyper: telephone_unit
+hyper: temperature_unit
+hyper: teraflop
+hyper: unit_of_viscosity
+hyper: weight
+hypo: definite_quantity
+
+w: unit_of_viscosity
+d: a unit of measurement for viscosity
+hyper: poise
+hypo: unit
+
+w: utility
+d: (economics) a measure that is to be maximized in any situation involving choice
+hyper: marginal_utility
+hypo: metric
+mt: noun.cognition:economic_science
+
+w: var
+w: volt-ampere
+d: a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere
+hp: kilovolt-ampere
+hypo: power_unit
+
+w: vara
+d: a Spanish unit of length (about a yard) having different values in different localities
+hypo: linear_measure
+
+w: verst
+d: a Russian unit of length (1.067 km)
+hypo: linear_measure
+
+w: vital_capacity
+d: the maximum amount of air that can be exhaled after a maximum inhalation (usually tested with a spirometer); used to determine the condition of lung tissue
+hypo: noun.cognition:diagnostic_assay
+hypo: capacity
+
+w: volume drf adjs.all:voluminous 2
+d: the amount of 3-dimensional space occupied by an object
+e: the gas expanded to twice its original volume
+hyper: capacity
+hypo: noun.Tops:amount
+mp: capacity_measure
+
+w: volume 1
+d: a relative amount
+e: mix one volume of the solution with ten volumes of water
+hypo: noun.Tops:amount
+
+w: watt-hour
+d: a unit of energy equal to the power of one watt operating for one hour
+hp: B.T.U.
+hypo: energy_unit
+
+w: wave_number
+d: the reciprocal of the wavelength of a wave
+hyper: rydberg
+hypo: noun.time:frequence
+
+w: weight
+w: weight_unit
+d: a unit used to measure weight
+e: he placed two weights in the scale pan
+hyper: apothecaries'_unit
+hyper: arroba 1
+hyper: cattie
+hyper: crith
+hyper: frail
+hyper: last 2
+hyper: maund
+hyper: obolus
+hyper: oka 1
+hyper: picul
+hyper: pood
+hyper: rotl
+hyper: tael
+hyper: tod
+hyper: troy_unit
+hyper: welterweight
+hypo: unit
+
+w: weight 2 drf verb.cognition:weight
+w: weighting
+d: (statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance
+hypo: coefficient
+mt: noun.cognition:statistics
+
+w: welterweight
+d: a weight of 28 pounds; sometimes imposed as a handicap in a horse race (such as a steeplechase)
+hypo: weight
+
+w: word
+d: a word is a string of bits stored in computer memory
+e: large computers use words up to 64 bits long
+hp: K
+hypo: computer_memory_unit
+mp: byte
+
+w: worth drf adjs.all:worth 1
+d: an indefinite quantity of something having a specified value
+e: 10 dollars worth of gasoline
+hyper: ha'p'orth
+hyper: penn'orth
+hypo: indefinite_quantity
+
+w: yarder
+d: (used only in combinations) the height or length of something in yards
+e: the golfer hit a 300-yarder to the green
+hypo: linear_measure
+mu: noun.communication:combining_form
+
+w: yen
+d: the basic unit of money in Japan; equal to 100 sen
+hypo: Japanese_monetary_unit
+mp: sen
+
+w: zaire
+d: the basic unit of money in Zaire
+hypo: Zairese_monetary_unit
+mp: likuta
+
+w: zloty
+d: the basic unit of money in Poland
+hypo: Polish_monetary_unit
+mp: grosz
+

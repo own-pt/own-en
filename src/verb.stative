@@ -1,0 +1,6013 @@
+verb.stative
+
+w: aberrate drf noun.phenomenon:aberration drf noun.state:aberrance drf noun.state:aberration 1
+d: diverge or deviate from the straight path; produce aberration
+e: The surfaces of the concave lens may be proportioned so as to aberrate exactly equal to the convex lens
+fs: 1
+hypo: depart
+mt: noun.cognition:optics
+
+w: aberrate 1 drf noun.person:aberrant drf noun.state:aberrance drf noun.state:aberration drf noun.state:aberration 1
+d: diverge from the expected
+e: The President aberrated from being a perfect gentleman
+fs: 2
+hypo: depart
+
+w: abide 1 drf noun.act:abidance 1
+w: bide
+w: stay 1 drf noun.act:stay
+d: dwell
+e: You can stay with me while you are in town
+e: stay a bit longer--the day is still young
+fs: 22
+hyper: outstay
+hyper: visit 4
+hypo: continue 10
+mu: noun.communication:archaicism
+
+w: abound drf adj.all:abundant drf noun.attribute:abundance see abound_in
+d: be abundant or plentiful; exist in large quantities
+fs: 1 4
+hypo: be 3
+
+w: abound 1
+w: bristle
+w: burst drf noun.act:burst 2
+d: be in a state of movement or action
+e: The room abounded with screaming children
+e: The garden bristled with toddlers
+fs: 8
+hypo: feature
+
+w: abound_in
+w: pullulate_with
+w: teem_in
+d: exist in large quantity
+fs: 10 11
+hypo: occur 3
+
+w: accept
+w: take 3
+d: be designed to hold or take
+e: This surface will not take the dye
+fs: 11
+hypo: be 3
+
+w: accommodate drf adjs.all:accommodative drf noun.event:accommodation
+w: fit 5 drf noun.person:fitter
+w: suit 5
+d: be agreeable or acceptable to
+e: This suits my needs
+fs: 10
+hypo: conform_to 1
+
+w: accommodate 1 drf noun.act:accommodation drf noun.artifact:accommodation
+w: lodge drf noun.act:lodging drf noun.artifact:lodge 2 drf noun.artifact:lodgings see lodge_in
+d: provide housing for
+e: We are lodging three foreign students this semester
+fs: 20 9
+hyper: barrack
+hyper: billet
+hyper: keep 1
+hypo: verb.social:domiciliate
+
+w: accommodate 3
+w: admit 4 drf adjs.all:admittible
+w: hold 5
+d: have room for; hold without crowding
+e: This hotel can accommodate 250 guests
+e: The theater admits 300 people
+e: The auditorium can't hold more than 500 people
+fs: 10 11
+hyper: house 2
+hyper: seat
+hyper: sleep
+vg: contain 14
+
+w: accompany drf noun.event:accompaniment
+w: attach_to 1
+w: come_with
+w: go_with 1
+d: be present or associated with an event or entity
+e: French fries come with the hamburger
+e: heart attacks are accompanied by distruction of heart tissue
+e: fish usually goes with white wine
+e: this kind of vein accompanies certain arteries
+fs: 11 10
+hyper: attend 1
+hyper: co-occur_with
+hyper: rule 1
+
+w: accompany 1 drf noun.act:accompaniment
+w: companion drf noun.person:companion drf noun.person:companion 1 drf noun.person:companion 2
+w: company drf noun.group:company 6
+w: keep_company
+d: be a companion to somebody
+fs: 10 9
+hypo: verb.social:affiliate 12
+
+w: accord drf adj.all:accordant drf noun.attribute:accord
+w: agree 1 drf adjs.all:agreeable
+w: concord drf noun.state:concord
+w: consort
+w: fit_in
+w: harmonise
+w: harmonize drf noun.attribute:harmony 1 drf noun.state:harmony
+d: go together
+e: The colors don't harmonize
+e: Their ideas concorded
+fs: 4 2 1
+hyper: blend
+hypo: agree
+vg: agree
+
+w: account 1
+d: be the sole or primary factor in the existence, acquisition, supply, or disposal of something
+e: Passing grades account for half of the grades given in this exam
+fs: 11
+hypo: be 3
+
+w: account_for
+d: be the reason or explanation for
+e: The recession accounts for the slow retail business
+fs: 11
+hypo: be 3
+
+w: acquire
+d: locate (a moving entity) by means of a tracking system such as radar
+fs: 8 11
+hypo: locate
+
+w: act drf adj.all:actable drf noun.act:acting drf noun.communication:act 2
+d: be suitable for theatrical performance
+e: This scene acts well
+fs: 6
+hypo: be 3
+vg: verb.creation:act 3
+
+w: act_as
+d: function as or act like
+e: This heap of stones will act as a barrier
+fs: 8 9 11
+hypo: function 12
+
+w: add drf adj.all:additive
+d: constitute an addition
+e: This paper will add to her reputation
+fs: 11
+hypo: constitute 3
+vg: verb.change:add
+
+w: add_up
+w: make_sense
+d: be reasonable or logical or comprehensible
+fs: 34 1
+hypo: be 3
+
+w: add_up 1
+w: amount
+w: come 11
+d: develop into
+e: This idea will never amount to anything
+e: nothing came of his grandiose plans
+fs: 11
+hyper: aggregate
+hypo: become 1
+
+w: add_up 3
+w: amount 1 drf noun.Tops:amount drf noun.cognition:amount
+w: come 12
+w: number drf noun.attribute:number drf noun.communication:number 1 drf noun.quantity:number
+w: total drf noun.artifact:total drf noun.cognition:total
+d: add up in number or quantity
+e: The bills amounted to $2,000
+e: The bill came to $2,000
+fs: 11
+hyper: verb.cognition:work_out 7
+hyper: average
+hyper: make 12
+hyper: outnumber
+hypo: be 3
+
+w: adhere
+d: be compatible or in accordance with
+e: You must adhere to the rules
+fs: 8
+hypo: agree
+
+w: adhere 1
+w: stand_by 1
+w: stick fs 21
+w: stick_by
+d: be loyal to
+e: She stood by her husband in times of trouble
+e: The friends stuck together through the war
+fs: 9 8
+hypo: be 3
+
+w: adhere 2 drf noun.act:adhesion drf noun.person:adherent
+w: stick 5
+d: be a devoted follower or supporter
+e: The residents of this village adhered to Catholicism
+e: She sticks to her principles
+fs: 22
+hypo: verb.possession:adopt 2
+
+w: admit
+d: give access or entrance to
+e: The French doors admit onto the yard
+fs: 4
+
+w: admit 3 drf adjs.all:admittable drf adjs.all:admittible drf noun.possession:admission
+d: serve as a means of entrance
+e: This ticket will admit one adult to the show
+fs: 11 10
+hypo: do 2
+vg: verb.social:admit 1
+
+w: admit 6 drf adjs.all:admissive
+w: allow 7 drf adjs.all:allowable 1
+d: afford possibility
+e: This problem admits of no solution
+e: This short story allows of several different interpretations
+fs: 4
+vg: allow
+
+w: adorn drf noun.artifact:adornment
+w: beautify drf noun.act:beautification drf noun.attribute:beauty
+w: deck
+w: decorate drf adjs.all:decorative drf noun.act:decoration drf noun.artifact:decoration
+w: embellish
+w: grace drf noun.attribute:grace 1
+d: be beautiful to look at
+e: Flowers adorned the tables everywhere
+fs: 11
+hyper: ornament
+hypo: be 3
+
+w: affect
+w: involve 1 drf noun.relation:involvement
+w: regard drf noun.cognition:regard
+d: connect closely and often incriminatingly
+e: This new ruling affects your business
+fs: 10 11 9
+hyper: implicate 1
+hypo: bear_on
+
+w: afford drf adjs.all:affordable
+d: have the financial means to do something or buy something
+e: We can't afford to send our children to college
+e: Can you afford this car?
+fs: 8
+
+w: aggregate drf noun.artifact:aggregate
+d: amount in the aggregate to
+fs: 11
+hypo: add_up 1
+
+w: agree ant disagree drf adjs.all:agreeable drf noun.attribute:agreement
+w: check 8
+w: correspond drf adjs.all:correspondent drf noun.attribute:correspondence 2
+w: fit 4
+w: gibe
+w: jibe
+w: match drf noun.artifact:match 1
+w: tally
+d: be compatible, similar or consistent; coincide in their characteristics
+e: The two stories don't agree in many details
+e: The handwriting checks with the signature on the check
+e: The suspect's fingerprints don't match those on the gun
+fs: 4 1
+hyper: accord
+hyper: adhere
+hyper: align
+hyper: answer
+hyper: bear_out
+hyper: befit
+hyper: coincide 1
+hyper: conform_to 1
+hyper: consist 2
+hyper: correlate
+hyper: duplicate
+hyper: homologize
+hyper: look 2
+hyper: parallel
+hyper: pattern
+hyper: resemble
+hyper: rhyme
+hyper: square
+hypo: be 7
+vg: accord
+vg: check 9
+
+w: agree 3 drf noun.relation:agreement 3
+d: show grammatical agreement
+e: Subjects and verbs must always agree in English
+fs: 1 4
+mt: noun.cognition:grammar
+
+w: align drf noun.act:alignment
+d: be or come into adjustment with
+fs: 4
+hypo: agree
+
+w: allow
+w: allow_for
+w: leave 1
+w: provide fs 22
+d: make a possibility or provide opportunity for; permit to be attainable or cause to remain
+e: This leaves no room for improvement
+e: The evidence allows only one conclusion
+e: allow for mistakes
+e: leave lots of time for the trip
+e: This procedure provides for lots of leeway
+fs: 11 8
+hypo: verb.possession:afford
+vg: admit 6
+
+w: amount 3
+d: be tantamount or equivalent to
+e: Her action amounted to a rebellion
+fs: 11
+hyper: make 11
+
+w: answer
+d: match or correspond
+e: The drawing of the suspect answers to the description the victim gave
+fs: 4 11
+hypo: agree
+
+w: answer 1
+d: be liable or accountable
+e: She must answer for her actions
+fs: 22
+hypo: be 3
+
+w: answer 2
+w: do 1
+w: serve 12
+w: suffice fs 34 drf adj.all:sufficient drf noun.attribute:sufficiency drf noun.quantity:sufficiency drf noun.state:sufficiency
+d: be sufficient; be adequate, either in quality or quantity
+e: A few words would answer
+e: This car suits my purpose well
+e: Will $100 do?
+e: A 'B' grade doesn't suffice to get me into medical school
+e: Nothing else will serve
+fs: 1
+hyper: bridge_over 1
+hyper: function 12
+hyper: go_a_long_way
+hyper: go_around
+hyper: measure_up
+hypo: fulfil
+
+w: antecede drf noun.attribute:antecedence drf noun.attribute:antecedency drf noun.event:antecedent
+w: antedate
+w: forego
+w: forgo
+w: precede drf adjs.all:precedent drf noun.act:precession drf noun.attribute:precedence drf noun.attribute:precedency drf noun.cognition:precedent
+w: predate ant postdate
+d: be earlier in time; go back further
+e: Stone tools precede bronze tools
+fs: 11
+
+w: ape drf noun.act:apery drf noun.person:ape 1 drf noun.person:aper
+d: imitate uncritically and in every aspect
+e: Her little brother apes her behavior
+fs: 11 9
+hypo: imitate
+
+w: appertain drf adjs.all:appurtenant drf noun.artifact:appurtenance
+w: pertain drf adjs.all:pertinent 1
+d: be a part or attribute of
+fs: 12
+hypo: belong 6
+
+w: apply drf adjs.all:applicable drf adjs.all:applicative
+w: go_for fs 10 11
+w: hold 4
+d: be pertinent or relevant or applicable
+e: The same laws apply to you!
+e: This theory holds for all irrational numbers
+e: The same rules go for everyone
+fs: 1 4
+hypo: bear_on
+vg: apply 1
+
+w: apply 1 drf adjs.all:applicable drf adjs.all:applicative drf adjs.all:applicatory drf noun.act:application 2
+w: lend_oneself ant defy 1
+d: be applicable to; as to an analysis
+e: This theory lends itself well to our new data
+fs: 4
+vg: apply
+
+w: approach drf noun.attribute:approach 1
+w: border_on
+d: come near or verge on, resemble, come nearer in quality, or character
+e: This borders on discrimination!
+e: His playing approaches that of Horowitz
+fs: 11
+hyper: converge 1
+hypo: approximate
+
+w: approximate drf adjs.all:approximative
+w: come_close fs 4
+d: be close or similar
+e: Her results approximate my own
+fs: 11
+hyper: approach
+hypo: resemble
+
+w: arise
+w: develop
+w: grow drf noun.event:growth 1
+w: originate drf adjs.all:originative drf noun.act:origination drf noun.event:origin drf noun.event:origination
+w: rise 1
+w: spring_up
+w: uprise 2
+d: come into existence; take on form or shape
+e: A new religious movement originated in that country
+e: a love that sprang up from friendship
+e: the idea for the book grew out of a short story
+e: An interesting phenomenon uprose
+fs: 1
+hyper: come 4
+hyper: come_forth
+hyper: head 5
+hyper: resurge
+hyper: swell 3
+hypo: become
+vg: verb.change:develop 5
+
+w: arise 1
+w: bob_up
+w: come_up
+d: originate or come into being
+e: a question arose
+fs: 1
+hypo: become
+
+w: arse_about
+w: arse_around
+w: bum
+w: bum_about
+w: bum_around
+w: frig_around
+w: fuck_off
+w: loaf 1 drf noun.person:loafer
+w: loll
+w: loll_around
+w: lounge_about
+w: lounge_around
+w: waste_one's_time
+d: be lazy or idle
+e: Her son is just bumming around all day
+fs: 22 2
+hypo: verb.social:idle
+
+w: articulate
+d: unite by forming a joint or joints
+e: the ankle bone articulates with the leg bones to form the ankle bones
+fs: 4
+hypo: connect 2
+
+w: ascend 2
+d: go back in order of genealogical succession
+e: Inheritance may not ascend linearly
+fs: 1
+hypo: date_back
+
+w: ask
+w: call_for
+w: demand drf noun.cognition:demand drf noun.state:demand
+w: involve 7
+w: necessitate fs 34 ant obviate drf noun.object:necessity drf noun.state:necessity
+w: need drf noun.object:need
+w: postulate
+w: require fs 24 34 drf noun.cognition:requirement 1
+w: take
+d: require as useful, just, or proper
+e: It takes nerve to do what she did
+e: success usually requires hard work
+e: This job asks a lot of patience and skill
+e: This position demands a lot of personal sacrifice
+e: This dinner calls for a spectacular dessert
+e: This intervention does not postulate a patient's consent
+fs: 11
+hyper: verb.communication:claim 1
+hyper: compel
+hyper: cost 1
+hyper: cry_for
+hyper: draw 2
+hyper: govern
+vg: verb.communication:claim 1
+
+w: assonate drf adjs.all:assonant drf adjs.all:assonant 1 drf noun.communication:assonance
+d: correspond in vowel sounds; rhyme in assonance
+e: The accented vowels assonated in this poem
+fs: 1
+hypo: rhyme
+
+w: attach_to
+w: inhere_in
+d: be part of
+e: This problem inheres in the design
+fs: 11
+hyper: repose 12
+hypo: include
+
+w: attend ant miss 1 drf noun.act:attendance drf noun.person:attendant 1 drf noun.person:attender drf noun.person:attender 1
+w: go_to
+d: be present at (meetings, church services, university), etc.
+e: She attends class regularly
+e: I rarely attend services at my church
+e: did you go to the meeting?
+fs: 8
+hyper: sit_in
+hyper: worship
+hypo: be 5
+mt: noun.act:church
+
+w: attend 1 drf adjs.all:attendant
+d: to accompany as a circumstance or follow as a result
+e: Menuhin's playing was attended by a 15-minute standing ovation
+fs: 11
+hypo: accompany
+
+w: average drf noun.cognition:average
+w: average_out
+d: amount to or come to an average, without loss or gain
+e: The number of hours I work per work averages out to 40
+fs: 11
+hypo: add_up 3
+
+w: bach
+w: bachelor drf noun.person:bachelor
+d: lead a bachelor's existence
+fs: 2
+hypo: live 6
+
+w: back ant front drf noun.artifact:back
+d: be in back of
+e: My garage backs their yard
+fs: 11
+hypo: lie
+
+w: bag
+w: bulge drf noun.shape:bulge
+d: bulge out; form a bulge outward, or be so full as to appear to bulge
+fs: 4 1
+hyper: protuberate
+hypo: jut
+
+w: bag 1 drf noun.artifact:bagging
+d: hang loosely, like an empty bag
+fs: 1
+hypo: verb.motion:droop
+
+w: bake
+w: broil
+d: be very hot, due to hot weather or exposure to the sun
+e: The town was broiling in the sun
+e: the tourists were baking in the heat
+fs: 1 2
+hypo: be 3
+
+w: balance ant unbalance drf noun.state:balance
+w: equilibrate drf noun.cognition:equilibrium drf noun.process:equilibrium drf noun.shape:equilibrium drf noun.state:equilibrium
+w: equilibrise
+w: equilibrize drf noun.shape:equilibrium drf noun.state:equilibrium
+d: bring into balance or equilibrium
+e: She has to balance work and her domestic duties
+e: balance the two weights
+fs: 11 8
+hyper: verb.change:complement 2
+hyper: cancel
+hyper: compensate
+hyper: countervail
+hyper: trim 6
+hypo: verb.change:fit
+vg: verb.contact:balance
+vg: balance 1
+
+w: balance 1 drf noun.animal:balancer drf noun.person:balancer drf noun.state:balance
+d: be in equilibrium
+e: He was balancing on one foot
+fs: 1 2
+hypo: be 3
+vg: balance
+
+w: barrack drf noun.artifact:barrack
+d: lodge in barracks
+fs: 10 9
+hypo: accommodate 1
+
+w: base 4
+d: situate as a center of operations
+e: we will base this project in the new lab
+fs: 11 9 10 8
+hypo: locate
+
+w: be drf noun.state:being
+w: exist drf adj.all:existent drf adj.all:existent 2 drf adj.all:existent 4 drf noun.state:existence
+d: have an existence, be extant
+e: Is there a God?
+fs: 1 22 2
+hyper: verb.change:come 2
+hyper: coexist
+hyper: consist
+hyper: distribute 1
+hyper: dwell 3
+hyper: endanger
+hyper: flow
+hyper: hold 2
+hyper: indwell
+hyper: kick_about
+hyper: preexist
+
+w: be 1 drf noun.Tops:being
+w: live drf noun.state:living
+d: have life, be alive
+e: Our great leader is no more
+e: My grandfather lived until the end of war
+fs: 1 2
+vg: endure
+
+w: be 2
+w: comprise 3
+w: constitute drf adjs.all:constituent
+w: make_up drf noun.attribute:make-up drf noun.attribute:makeup
+w: represent
+d: form or compose
+e: This money is my only income
+e: The stone wall was the backdrop for the performance
+e: These constitute my entire belonging
+e: The children made up the chorus
+e: This sum represents my entire income for a year
+e: These few men comprise his entire army
+fs: 11 8
+hyper: compose
+hyper: constitute 3
+hyper: fall_into
+hyper: make 15
+hyper: pose
+hyper: range
+hyper: supplement
+
+w: be 3
+d: have the quality of being; (copula, used with an adjective or a predicate noun)
+e: John is rich
+e: This is not a good answer
+fs: 7 6 9 22 4 8
+hyper: verb.body:be_well
+hyper: verb.body:feel
+hyper: verb.body:hurt 2
+hyper: verb.body:look
+hyper: verb.body:suffer 3
+hyper: verb.change:continue 10
+hyper: verb.change:coruscate
+hyper: verb.change:remain
+hyper: verb.cognition:bedevil
+hyper: verb.cognition:rank 13
+hyper: verb.competition:point 2
+hyper: verb.consumption:need
+hyper: verb.contact:compact 9
+hyper: verb.contact:cut 11
+hyper: verb.contact:rest
+hyper: verb.emotion:boil
+hyper: verb.emotion:moon_about
+hyper: verb.perception:appear
+hyper: verb.perception:appear 1
+hyper: verb.possession:belong
+hyper: verb.possession:cover
+hyper: verb.possession:owe
+hyper: verb.social:represent 2
+hyper: abound
+hyper: accept
+hyper: account 1
+hyper: account_for
+hyper: act
+hyper: add_up
+hyper: add_up 3
+hyper: adhere 1
+hyper: adorn
+hyper: answer 1
+hyper: bake
+hyper: balance 1
+hyper: be 9
+hyper: be_given
+hyper: beat
+hyper: begin 3
+hyper: begin 4
+hyper: belong 1
+hyper: belong 2
+hyper: belong 7
+hyper: body_forth
+hyper: breathe 1
+hyper: buy
+hyper: buzz
+hyper: clean
+hyper: cohere
+hyper: come
+hyper: come 9
+hyper: come_in_for
+hyper: come_in_handy
+hyper: compare
+hyper: comprise 1
+hyper: connect 5
+hyper: consist 4
+hyper: contain 6
+hyper: contain 14
+hyper: continue 10
+hyper: count
+hyper: count 4
+hyper: curve
+hyper: cut_across
+hyper: define
+hyper: delimit 1
+hyper: depend
+hyper: deserve
+hyper: disaccord
+hyper: distribute
+hyper: diverge 2
+hyper: draw
+hyper: drown
+hyper: encounter
+hyper: end 1
+hyper: enter
+hyper: fall 2
+hyper: fit 3
+hyper: footle
+hyper: gape
+hyper: go 2
+hyper: go 7
+hyper: gravitate
+hyper: hang
+hyper: head 1
+hyper: hold 7
+hyper: hoodoo
+hyper: impend
+hyper: interrelate
+hyper: iridesce
+hyper: jumble
+hyper: kill
+hyper: lend
+hyper: let_go
+hyper: lie 3
+hyper: litter
+hyper: lubricate
+hyper: make 13
+hyper: measure
+hyper: object
+hyper: osculate 3
+hyper: pay
+hyper: press
+hyper: promise
+hyper: prove
+hyper: put_out
+hyper: rage
+hyper: range 1
+hyper: rate 1
+hyper: recognize
+hyper: remain 5
+hyper: retard
+hyper: rut
+hyper: seem
+hyper: sell
+hyper: sell 13
+hyper: sell 14
+hyper: shine 1
+hyper: shine 4
+hyper: squat 1
+hyper: stagnate
+hyper: stagnate 1
+hyper: stand 3
+hyper: stand 4
+hyper: stick 7
+hyper: stink
+hyper: suck
+hyper: suit 2
+hyper: swim 2
+hyper: swing 10
+hyper: test
+hyper: translate
+hyper: transplant
+hyper: trim 5
+hyper: underlie
+hyper: wash
+hyper: work 10
+
+w: be 4
+d: happen, occur, take place
+e: I lost my wallet; this was during the visit to my parents' house
+e: There were two hundred people at his funeral
+e: There was a lot of noise in the kitchen
+fs: 4 1 22 2
+
+w: be 5
+d: occupy a certain position or area; be somewhere
+e: "Where is my umbrella?" "The toolshed is in the back"
+e: What is behind this behavior?
+fs: 22 1
+hyper: attend
+hyper: belong 3
+hyper: center_on 1
+hyper: come 5
+hyper: continue 6
+hyper: dwell
+hyper: extend 2
+hyper: extend 3
+hyper: extend_to
+hyper: face 2
+hyper: fill
+hyper: follow 2
+hyper: go 8
+hyper: inhabit 2
+hyper: keep_one's_distance
+hyper: lie
+hyper: lie 2
+hyper: sit
+hyper: sit 5
+hyper: straddle 1
+hyper: stretch
+
+w: be 6
+d: be identical to; be someone or something
+e: The president of the company is John Smith
+e: This is my house
+fs: 8 11
+
+w: be 7
+w: equal ant differ
+d: be identical or equivalent to
+e: One dollar equals 1,000 rubles these days!
+fs: 11 9
+hyper: agree
+hyper: correspond 1
+hyper: correspond 4
+hyper: translate 3
+
+w: be 8
+w: embody
+w: personify drf noun.attribute:persona drf noun.cognition:persona
+d: represent, as of a character on stage
+e: Derek Jacobi was Hamlet
+fs: 8 11
+hyper: body
+hyper: exemplify
+hypo: verb.communication:represent 2
+
+w: be 9
+w: cost fs 14 drf noun.attribute:cost drf noun.possession:cost
+d: be priced at
+e: These shoes cost $100
+fs: 11
+hyper: knock_back
+hypo: be 3
+
+w: be 13
+d: to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form
+e: let her be
+fs: 9
+hypo: verb.change:remain
+
+w: be_due fs 4
+w: flow_from
+d: be the result of
+fs: 11
+hypo: ensue
+
+w: be_given
+w: incline 1 drf noun.attribute:inclination drf noun.cognition:inclination drf noun.feeling:inclination
+w: lean 1
+w: run 1
+w: tend 1 drf noun.cognition:tendency drf noun.feeling:tendency
+d: have a tendency or disposition to do or be something; be inclined
+e: She tends to be nervous before her lectures
+e: These dresses run small
+e: He inclined to corpulence
+fs: 28
+hyper: gravitate 1
+hyper: suffer 4
+hyper: take_kindly_to
+hypo: be 3
+
+w: bead drf noun.shape:bead
+d: form into beads, as of water or sweat, for example
+fs: 4 1
+hypo: verb.change:form 5
+
+w: bear 1
+d: have
+e: bear a resemblance
+e: bear a signature
+fs: 8 11
+hyper: verb.possession:carry 10
+hypo: feature
+
+w: bear 14
+w: carry 3 drf noun.act:carry
+w: contain 13 drf adj.all:continent drf noun.artifact:container drf noun.quantity:content
+w: hold 13 drf noun.artifact:hold 2
+d: contain or hold; have within
+e: The jar carries wine
+e: The canteen holds fresh water
+e: This can contains water
+fs: 11
+hyper: confine
+hyper: retain
+hypo: include
+vg: contain 14
+
+w: bear_on
+w: come_to 3
+w: concern
+w: have-to_doe_with
+w: pertain 1 fs 4 drf adjs.all:pertinent drf noun.relation:pertinence drf noun.relation:pertinency
+w: refer fs 4 drf noun.cognition:reference
+w: relate fs 4
+w: touch
+w: touch_on
+d: be relevant to
+e: There were lots of questions referring to her talk
+e: My remark pertained to your earlier comments
+fs: 10 11
+hyper: affect
+hyper: apply
+hyper: center
+hyper: interest
+vg: verb.communication:advert 1
+
+w: bear_on 1
+w: carry_on
+w: continue ant discontinue
+w: preserve drf noun.state:preservation
+w: uphold drf noun.person:upholder
+d: keep or maintain in unaltered condition; cause to remain or last
+e: preserve the peace in the family
+e: continue the family tradition
+e: Carry on the old traditions
+fs: 8 11
+hyper: verb.change:hang_in
+hyper: verb.change:re-start
+hyper: keep_up
+hyper: mummify
+hyper: perpetuate
+hypo: hold
+vg: verb.motion:continue
+vg: continue 1
+
+w: bear_out
+w: corroborate drf adjs.all:corroborative drf adjs.all:corroboratory drf noun.communication:corroboration
+w: support drf noun.act:support 2
+w: underpin
+d: support with evidence or authority or make more certain or confirm
+e: The stories and claims were born out by the evidence
+fs: 8 11
+hypo: agree
+
+w: beard drf noun.animal:beard 1 drf noun.body:beard
+d: go along the rim, like a beard around the chin
+e: Houses bearded the top of the heights
+fs: 11
+hypo: rim
+
+w: beat
+d: be superior
+e: Reading beats watching television
+e: This sure beats work!
+fs: 11
+hypo: be 3
+
+w: become
+d: come into existence
+e: What becomes has duration
+fs: 1
+hyper: verb.cognition:come 14
+hyper: arise
+hyper: arise 1
+hyper: form 2
+hyper: make
+hyper: root
+
+w: become 1
+w: turn drf noun.event:turn 1
+d: undergo a change or development
+e: The water turned into ice
+e: Her former friend became her worst enemy
+e: He turned traitor
+fs: 9 11
+hyper: verb.change:boil_down 3
+hyper: verb.change:choke 8
+hyper: add_up 1
+hyper: nucleate
+hypo: verb.change:metamorphose 2
+vg: verb.change:change_state
+vg: turn 13
+
+w: become 3
+w: suit 1
+d: enhance the appearance of
+e: Mourning becomes Electra
+e: This behavior doesn't suit you!
+fs: 10
+hypo: verb.change:beautify
+
+w: beetle
+w: overhang drf noun.artifact:overhang
+d: be suspended over or hang over
+e: This huge rock beetles over the edge of the town
+fs: 11
+hypo: verb.contact:hang 3
+
+w: befit
+w: beseem
+w: suit
+d: accord or comport with
+e: This kind of behavior does not suit a young woman!
+fs: 10 11
+hypo: agree
+
+w: beggar
+d: be beyond the resources of
+e: This beggars description!
+fs: 11
+hypo: defy 1
+
+w: begin ant end
+w: start drf noun.act:start drf noun.event:start drf noun.time:start
+d: have a beginning, in a temporal, spatial, or evaluative sense
+e: The DMZ begins right over the hill
+e: The second movement begins after the Allegro
+e: Prices for these homes start at $250,000
+fs: 11 4 1
+hyper: verb.change:break_out 3
+hyper: verb.change:break_out 4
+hyper: verb.change:bud 2
+hyper: dawn 1
+hyper: kick_in
+hyper: originate 2
+vg: begin 3
+vg: begin 4
+
+w: begin 2 drf noun.cognition:beginning
+d: be the first item or point, constitute the beginning or start, come first in a series
+e: The number `one' begins the sequence
+e: A terrible murder begins the novel
+e: The convocation ceremony officially begins the semester
+fs: 11
+vg: begin 3
+
+w: begin 3
+w: start 3 drf noun.act:start drf noun.event:start
+d: have a beginning characterized in some specified way
+e: The novel begins with a murder
+e: My property begins with the three maple trees
+e: Her day begins with a workout
+e: The semester begins with a convocation ceremony
+fs: 4
+hypo: be 3
+vg: verb.social:begin 4
+vg: begin
+vg: begin 2
+
+w: begin 4
+d: have a beginning, of a temporal event
+e: WW II began in 1939 when Hitler marched into Poland
+e: The company's Asia tour begins next month
+fs: 4
+hypo: be 3
+vg: verb.change:begin 1
+vg: begin
+
+w: behoove
+w: behove
+d: be appropriate or necessary
+e: It behooves us to reflect on this matter
+fs: 34
+hypo: conform_to 1
+
+w: belie
+w: contradict drf adjs.all:contradictory drf adjs.all:contradictory 1 drf adjs.all:contradictory 2 drf adjs.all:contradictory 3
+w: negate drf noun.communication:negation 2
+d: be in contradiction with
+fs: 11
+hypo: depart
+
+w: belong 1
+d: be rightly classified in a class or category
+e: The whales belong among the mammals
+fs: 22 4
+hypo: be 3
+
+w: belong 2
+d: be suitable or acceptable
+e: This student somehow doesn't belong
+fs: 4 1 2 22
+hypo: be 3
+
+w: belong 3
+w: go 4
+d: be in the right place or situation
+e: Where do these books belong?
+e: Let's put health care where it belongs--under the control of the government
+e: Where do these books go?
+fs: 22 4
+hypo: be 5
+
+w: belong 6
+w: belong_to
+d: be a part or adjunct
+e: the uniform looks like it belonged to a museum collection
+e: These pages don't belong
+fs: 10 9 11
+hyper: appertain
+hyper: inhere
+
+w: belong 7
+d: be a member, adherent, inhabitant, etc. (of a group, organization, or place)
+e: They belong to the same political party
+fs: 22 2 4
+hypo: be 3
+
+w: bifurcate drf noun.act:bifurcation drf noun.act:fork drf noun.shape:bifurcation 1
+d: split or divide into two
+fs: 1 4
+hypo: diverge
+
+w: billet drf noun.artifact:billet
+w: canton drf noun.artifact:cantonment
+w: quarter drf noun.artifact:quartering drf noun.artifact:quarters
+d: provide housing for (military personnel)
+fs: 9 2
+hypo: accommodate 1
+mt: noun.group:armed_forces
+
+w: bivouac drf noun.artifact:bivouac drf noun.location:bivouac
+w: camp drf noun.act:camping drf noun.artifact:camp drf noun.artifact:camp 1 drf noun.person:camper
+w: camp_out
+w: encamp drf noun.act:encampment
+w: tent drf noun.act:tenting drf noun.artifact:tent
+d: live in or as if in a tent
+e: Can we go camping again this summer?
+e: The circus tented near the town
+e: The houseguests had to camp in the living room
+fs: 22 2
+hypo: dwell
+
+w: blanket drf noun.object:blanket
+d: form a blanket-like cover (over)
+fs: 11
+hypo: verb.contact:cover 1
+
+w: blend
+w: blend_in
+w: go 11
+d: blend or harmonize
+e: This flavor will blend with those in your dish
+e: This sofa won't go with the chairs
+fs: 4 1
+hypo: accord
+vg: fit 2
+
+w: board drf noun.artifact:board 1 drf noun.food:board drf noun.person:boarder 1
+w: room drf noun.artifact:room drf noun.person:roomer
+d: live and take one's meals at or in
+e: she rooms in an old boarding house
+fs: 22
+hypo: dwell
+
+w: boast
+w: feature 1 drf noun.artifact:feature drf noun.communication:feature 1
+w: sport
+d: wear or display in an ostentatious or proud manner
+e: she was sporting a new hat
+fs: 11
+hypo: feature
+
+w: body drf noun.body:body 2
+w: personify 1 drf noun.body:person drf noun.communication:personification drf noun.person:personification
+d: invest with or as with a body; give body to
+fs: 11 8
+hypo: be 8
+
+w: body_forth
+w: embody 1 drf noun.act:embodiment
+w: incarnate drf noun.person:incarnation
+w: substantiate
+d: represent in bodily form
+e: He embodies all that is evil wrong with the system
+e: The painting substantiates the feelings of the artist
+fs: 8 11
+hypo: be 3
+
+w: boggle
+d: hesitate when confronted with a problem, or when in doubt or fear
+fs: 2
+hypo: hesitate
+
+w: border drf noun.location:border drf noun.location:border 1 drf noun.shape:border see border_on
+w: bound drf noun.location:bound drf noun.location:boundary drf noun.shape:bound drf noun.shape:boundary
+d: form the boundary of; be contiguous to
+fs: 11
+hyper: shore
+hyper: skirt
+hyper: verge 1
+hypo: confine
+
+w: box_in
+w: box_up
+d: enclose or confine as if in a box
+fs: 11 8
+hypo: confine
+
+w: brave drf noun.group:brave
+w: brave_out
+w: endure 4
+w: weather
+d: face and withstand with courage
+e: She braved the elements
+fs: 8 11
+hypo: defy
+
+w: break
+w: go_against
+w: violate ant conform_to drf adj.all:violable drf adjs.all:violative drf noun.act:violation 4
+d: fail to agree with; be in violation of; as of rules or patterns
+e: This sentence violates the rules of syntax
+fs: 11 8
+hyper: fly_in_the_face_of
+
+w: break 3
+d: give up
+e: break cigarette smoking
+fs: 8
+hypo: cease
+vg: break 4
+
+w: break 4
+d: cause to give up a habit
+e: She finally broke herself of smoking cigarettes
+fs: 9
+cause: break 3
+vg: break 3
+
+w: break 5 drf noun.event:break
+d: vary or interrupt a uniformity or continuity
+e: The flat plain was broken by tall mesas
+fs: 11
+hypo: verb.change:alter
+
+w: break 14
+d: come forth or begin from a state of latency
+e: The first winter storm broke over New York
+fs: 4
+hypo: come_forth
+
+w: break 15
+d: come to an end
+e: The heat wave finally broke yesterday
+fs: 1
+hypo: cease 13
+
+w: breast drf noun.body:breast 1
+d: meet at breast level
+e: The runner breasted the tape
+fs: 8 11 9 10
+hypo: converge
+
+w: breathe
+d: be alive
+e: Every creature that breathes
+fs: 1 2
+hypo: exist 1
+
+w: breathe 1
+d: allow the passage of air through
+e: Our new synthetic fabric breathes and is perfect for summer wear
+fs: 1
+hypo: be 3
+
+w: bridge drf noun.relation:bridge see bridge_over 1
+w: bridge_over
+d: connect or reduce the distance between
+fs: 11
+hypo: verb.contact:connect
+
+w: bridge_over 1
+w: keep_going
+w: tide_over
+d: suffice for a period between two points
+e: This money will keep us going for another year
+fs: 10
+hypo: answer 2
+
+w: brim
+d: be completely full
+e: His eyes brimmed with tears
+fs: 4
+hypo: feature
+
+w: bristle 2
+d: have or be thickly covered with or as if with bristles
+e: bristling leaves
+fs: 4
+hypo: feature
+
+w: brood
+w: pout drf noun.person:pouter
+w: sulk drf noun.feeling:sulk
+d: be in a huff and display one's displeasure
+e: She is pouting because she didn't get what she wanted
+fs: 2
+entail: verb.emotion:resent
+hyper: verb.emotion:brood
+
+w: brood 1
+w: bulk_large
+w: hover 5
+w: loom 6
+d: hang over, as of something threatening, dark, or menacing
+e: The terrible vision brooded over her all day long
+fs: 4
+hyper: dominate 3
+hypo: hang
+
+w: buccaneer drf noun.person:buccaneer
+d: live like a buccaneer
+fs: 2
+hypo: live 6
+
+w: build_on
+w: build_upon
+w: repose_on
+w: rest_on
+d: be based on; of theories and claims, for example
+e: What's this new evidence based on?
+fs: 11
+hyper: owe
+hypo: depend_on
+
+w: bunk_off
+w: play_hooky
+d: play truant from work or school
+e: The boy often plays hooky
+fs: 2
+hypo: cut
+mu: noun.communication:argot
+
+w: bushwhack drf noun.person:bushwhacker 1
+d: live in the bush as a fugitive or as a guerilla
+fs: 2
+hypo: live 6
+
+w: buy drf noun.possession:buy
+d: be worth or be capable of buying
+e: This sum will buy you a ride on the train
+fs: 11
+hypo: be 3
+vg: verb.possession:buy
+
+w: buzz drf noun.act:buzz
+w: hum drf noun.event:hum drf noun.event:humming
+w: seethe
+d: be noisy with activity
+e: This office is buzzing with activity
+fs: 1
+hyper: pullulate
+hypo: be 3
+
+w: call 9
+d: stop or postpone because of adverse conditions, such as bad weather
+e: call a football game
+fs: 8
+hypo: defer
+
+w: call_it_a_day
+w: call_it_quits
+d: stop doing what one is doing
+e: At midnight, the student decided to call it quits and closed his books
+fs: 2
+hypo: cease
+
+w: cancel
+w: offset drf noun.possession:offset
+w: set_off
+d: make up for
+e: His skills offset his opponent's superior strength
+fs: 11
+hyper: verb.social:counteract 3
+hypo: balance
+
+w: cantilever drf noun.artifact:cantilever
+d: project as a cantilever
+fs: 1
+hypo: jut
+
+w: cap
+w: crest drf noun.location:crest drf noun.location:crest 1
+d: lie at the top of
+e: Snow capped the mountains
+fs: 11
+hypo: lie
+
+w: carbonate drf noun.substance:carbon drf noun.substance:carbonate drf noun.substance:carbonic_acid
+d: turn into a carbonate
+fs: 11
+hypo: verb.change:change
+
+w: carpet drf noun.artifact:carpet
+d: form a carpet-like cover (over)
+fs: 11
+hypo: verb.contact:cover 1
+
+w: carry 1 drf noun.act:carry
+w: pack
+w: take 10
+d: have with oneself; have on one's person
+e: She always takes an umbrella
+e: I always carry money
+e: She packs a gun when she goes into the mountains
+fs: 8
+hypo: feature
+vg: carry 12
+
+w: carry 2
+d: be necessarily associated with or result in or involve
+e: This crime carries a penalty of five years in prison
+fs: 11
+hypo: imply 1
+vg: carry 13
+
+w: carry 8
+d: be equipped with (a mast or sail)
+e: This boat can only carry a small sail
+fs: 11
+hypo: feature
+
+w: carry 12 drf noun.act:carry
+d: have or possess something abstract
+e: I carry her image in my mind's eye
+e: I will carry the secret to my grave
+e: I carry these thoughts in the back of my head
+e: I carry a lot of life insurance
+fs: 8
+hypo: verb.possession:have
+vg: carry 1
+
+w: carry 13 drf noun.person:carrier
+d: have as an inherent or characteristic feature or have as a consequence
+e: This new washer carries a two year guarantee
+e: The loan carries a high interest rate
+e: this undertaking carries many dangers
+e: She carries her mother's genes
+e: These bonds carry warrants
+e: The restaurant carries an unusual name
+fs: 11
+hypo: feature
+vg: carry 2
+
+w: carry 14
+d: keep up with financial support
+e: The Federal Government carried the province for many years
+fs: 9
+hypo: verb.consumption:keep
+vg: verb.contact:carry 9
+
+w: carry 15 drf noun.act:carry
+d: be conveyed over a certain distance
+e: Her voice carries very well in this big opera house
+fs: 1
+hypo: range 3
+vg: verb.motion:carry 3
+
+w: cash_out
+d: choose a simpler life style after questioning personal and career satisfaction goals
+e: After 3 decades in politics, she cashed out and moved to Polynesia
+fs: 2
+hypo: live 6
+
+w: cease fs 28 drf noun.event:cessation drf noun.time:cease
+w: discontinue ant continue drf noun.act:discontinuance drf noun.act:discontinuation
+w: give_up
+w: lay_off
+w: quit 4
+w: stop fs 28 drf noun.act:stop drf noun.act:stop 2 drf noun.act:stoppage drf noun.event:stop
+d: put an end to a state or an activity
+e: Quit teasing your little brother
+fs: 8 33 11
+hyper: verb.change:drop 1
+hyper: verb.change:leave_off
+hyper: verb.communication:sign_off
+hyper: verb.social:pull_the_plug
+hyper: verb.social:retire 2
+hyper: break 3
+hyper: call_it_a_day
+hyper: cheese
+hyper: close_off
+
+w: cease 13
+w: end ant begin drf noun.cognition:end drf noun.communication:end drf noun.event:end drf noun.location:end drf noun.location:end 1 drf noun.location:end 2 drf noun.state:end drf noun.time:end
+w: finish drf noun.act:finish drf noun.event:finish 2 drf noun.time:finish
+w: stop 13
+w: terminate drf adjs.all:terminative drf noun.location:terminus
+d: have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+e: the bronchioles terminate in a capillary bed
+e: Your rights stop where you infringe upon the rights of other
+e: My property ends by the bushes
+e: The symphony ends in a pianissimo
+fs: 1 4
+hyper: verb.change:adjourn
+hyper: verb.change:climax
+hyper: verb.change:cut_out 1
+hyper: verb.change:disappear 2
+hyper: verb.change:go_out
+hyper: verb.change:lapse 1
+hyper: verb.change:pass_away 1
+hyper: verb.change:run_out 12
+hyper: verb.consumption:go
+hyper: verb.perception:disappear
+hyper: break 15
+hyper: close
+hyper: come_out
+hyper: discontinue 1
+
+w: center fs 22 4 drf noun.cognition:center 1 drf noun.cognition:centering
+w: center_on
+w: concentrate_on
+w: focus_on
+w: revolve_about
+w: revolve_around
+d: center upon
+e: Her entire attention centered on her children
+e: Our day revolved around our work
+fs: 10 11
+hypo: bear_on
+
+w: center_on 1
+d: have as a center
+e: The region centers on Charleston
+fs: 11
+hypo: be 5
+
+w: chamber drf noun.artifact:chamber drf noun.artifact:chamber 2
+d: place in a chamber
+fs: 9 8
+hypo: verb.social:domiciliate
+
+w: characterise 1 drf noun.cognition:character
+w: characterize 1 drf noun.cognition:character
+d: be characteristic of
+e: What characterizes a Venetian painting?
+fs: 10 11
+hyper: define 1
+hyper: individuate
+hypo: verb.cognition:differentiate 2
+
+w: check 9 drf noun.act:check 5
+w: check_out 6
+d: be verified or confirmed; pass inspection
+e: These stories don't check!
+fs: 1
+vg: agree
+
+w: cheese
+d: used in the imperative (get away, or stop it)
+e: Cheese it!
+fs: 8
+hypo: cease
+
+w: chelate drf noun.process:chelation 1 drf noun.process:chelation 2 drf noun.substance:chelate
+d: form a chelate, in chemistry
+fs: 1
+hypo: constitute 3
+
+w: circumvolute
+d: wind or turn in volutions, especially in an inward spiral, as of snail
+fs: 1 4
+hypo: curve
+
+w: clash drf noun.state:clash
+w: collide drf noun.communication:collision
+w: jar
+d: be incompatible; be or come into conflict
+e: These colors clash
+fs: 2 1 4 22
+hypo: conflict
+
+w: clean drf noun.act:cleaning
+d: be cleanable
+e: This stove cleans easily
+fs: 1 4
+hypo: be 3
+vg: verb.contact:clean
+
+w: cloister drf noun.artifact:cloister 1
+d: surround with a cloister, as of a garden
+fs: 11 8
+hypo: verb.contact:border 1
+
+w: close drf noun.act:close drf noun.act:closing 2 drf noun.communication:closing drf noun.time:close
+w: conclude 2
+d: come to a close
+e: The concert closed with a nocturne by Chopin
+fs: 4 1
+hypo: cease 13
+
+w: close 1
+d: be priced or listed when trading stops
+e: The stock market closed high this Friday
+e: My new stocks closed at $59 last night
+fs: 4
+hypo: trade
+
+w: close_off
+w: shut_off
+d: stem the flow of
+e: shut off the gas when you leave for a vacation
+fs: 9 8 11
+hypo: cease
+
+w: close_out
+w: preclude drf adjs.all:preclusive
+w: rule_out
+d: make impossible, especially beforehand
+fs: 11
+hypo: eliminate 1
+
+w: co-occur
+w: coincide drf adjs.all:coincident
+w: cooccur drf noun.event:co-occurrence see cooccur_with
+d: go with, fall together
+fs: 4 1
+hyper: overlap 3
+hypo: coexist
+
+w: co-occur_with
+w: collocate_with
+w: construe_with
+w: cooccur_with
+w: go_with
+d: go or occur together
+e: The word 'hot' tends to cooccur with 'cold'
+fs: 11
+hypo: accompany
+
+w: co-star drf noun.person:co-star
+d: feature as the co-star in a performance
+fs: 10
+hypo: star
+
+w: co-vary drf noun.cognition:covariance drf noun.cognition:covariation
+d: vary in the same time period (of two random variables)
+fs: 1
+hypo: vary 1
+mt: noun.cognition:statistics
+
+w: coexist drf adjs.all:coexistent
+d: exist together
+fs: 2 1
+hyper: co-occur
+hyper: coexist 1
+hypo: be
+
+w: coexist 1 drf adjs.all:coexistent drf noun.state:coexistence
+d: coexist peacefully, as of nations
+fs: 2 1
+hypo: coexist
+
+w: cohabit drf noun.act:cohabitation
+w: live_together
+w: shack_up
+d: share living quarters; usually said of people who are not married and live together as a couple
+fs: 22 2
+hyper: miscegenate
+hypo: dwell
+
+w: cohere drf adj.all:coherent
+d: have internal elements or parts logically connected so that aesthetic consistency results
+e: the principles by which societies cohere
+fs: 1
+hypo: be 3
+
+w: cohere 1 drf adj.all:coherent drf adjs.all:cohesive
+d: cause to form a united, orderly, and aesthetically consistent whole
+e: Religion can cohere social groups
+fs: 11
+cause: cohere
+hypo: verb.change:alter 1
+
+w: coincide 1 drf adjs.all:coincident 1
+d: be the same
+e: our views on this matter coincided
+fs: 1
+hypo: agree
+
+w: collocate
+d: have a strong tendency to occur side by side
+e: The words 'new' and 'world' collocate
+fs: 1
+hypo: occur 3
+
+w: combine drf noun.event:combine drf noun.event:combining
+w: unite 1
+d: have or possess in combination
+e: she unites charm with a good business sense
+fs: 31
+hypo: feature
+
+w: come
+w: fall 3
+d: come under, be classified or included
+e: fall into a category
+e: This comes under a new heading
+fs: 22 4
+hypo: be 3
+
+w: come 2
+w: do
+w: fare
+w: get_along
+w: make_out
+d: proceed or get along
+e: How is she doing in her new job?
+e: How are you making out in graduate school?
+e: He's come a long way
+fs: 7 6
+hypo: verb.change:go 1
+
+w: come 3
+d: extend or reach
+e: The water came up to my waist
+e: The sleeves come to your knuckles
+fs: 4
+hypo: extend 3
+
+w: come 4
+w: follow 4
+d: to be the product or result
+e: Melons come from a vine
+e: Understanding comes from experience
+fs: 4
+hypo: arise
+vg: come 5
+
+w: come 5
+d: exist or occur in a certain point in a series
+e: Next came the student from France
+fs: 22
+hypo: be 5
+vg: come 4
+
+w: come 9
+w: hail
+d: be a native of
+e: She hails from Kalamazoo
+fs: 22
+hypo: be 3
+vg: come 15
+
+w: come 13
+w: issue_forth
+d: come forth
+e: A scream came from the woman's mouth
+e: His breath came hard
+fs: 4 1
+
+w: come 15
+w: derive drf adjs.all:derivative drf noun.attribute:derivation drf noun.location:derivation
+w: descend drf noun.group:descent drf noun.person:descendant drf noun.person:descendent drf noun.relation:descent
+d: come from; be connected by a relationship of blood, for example
+e: She was descended from an old Italian noble family
+e: he comes from humble origins
+fs: 4 22
+vg: verb.change:derive 1
+vg: come 9
+
+w: come_after
+w: follow 1
+d: come after in time, as a result
+e: A terrible tsunami followed the earthquake
+fs: 11
+hypo: ensue
+vg: follow
+vg: follow 2
+
+w: come_forth
+w: emerge drf adjs.all:emergent 1 drf noun.act:emersion 1
+d: happen or occur as a result of something
+fs: 1
+hyper: break 14
+hypo: arise
+
+w: come_in ant go_out
+d: come into fashion; become fashionable
+fs: 1
+hypo: verb.change:change
+mt: noun.cognition:fashion
+
+w: come_in_for
+d: be subject to or the object of
+e: The governor came in for a lot of criticism
+fs: 11 8
+hypo: be 3
+
+w: come_in_handy
+d: be useful for a certain purpose
+fs: 1
+hypo: be 3
+
+w: come_out
+w: turn_out 2
+d: result or end
+e: How will the game turn out?
+fs: 1
+hyper: eventuate
+hyper: work_out
+hypo: cease 13
+
+w: come_through
+w: make_it
+w: pull_round
+w: pull_through
+w: survive 2 fs 8 ant succumb drf noun.person:survivor 3 drf noun.state:survival
+d: continue in existence after (an adversity, etc.)
+e: He survived the cancer against all odds
+fs: 2
+entail: verb.body:convalesce
+hypo: verb.competition:defeat
+
+w: come_to_life
+d: be lifelike, as of a painting
+e: If you look at it long enough, this portrait comes to life!
+fs: 1 2
+hypo: resemble
+
+w: come_up 1
+d: be mentioned
+e: These names came up in the discussion
+fs: 1 2
+hypo: verb.change:arise
+
+w: command
+w: dominate 2
+w: overlook drf noun.location:overlook
+w: overtop
+d: look down on
+e: The villa dominates the town
+fs: 11
+hyper: dwarf
+hypo: lie
+
+w: compare drf noun.attribute:compare
+d: be comparable
+e: This car does not compare with our line of Mercedes
+fs: 1
+hyper: go 10
+hypo: be 3
+vg: verb.cognition:compare
+
+w: compel
+d: necessitate or exact
+e: the water shortage compels conservation
+fs: 11
+hypo: ask
+
+w: compensate drf noun.act:compensation
+w: correct 3 drf adjs.all:corrective 1
+w: counterbalance 1 drf noun.artifact:counterbalance drf noun.possession:counterbalance
+w: even_off
+w: even_out
+w: even_up
+w: make_up 3
+d: adjust for
+e: engineers will work to correct the effects or air resistance
+fs: 11
+hyper: verb.social:carry 6
+hyper: compensate 3
+hypo: balance
+
+w: compensate 3 drf noun.process:compensation
+w: cover 14
+w: overcompensate drf noun.process:overcompensation
+d: make up for shortcomings or a feeling of inferiority by exaggerating good qualities
+e: he is compensating for being a bad father
+fs: 11
+hypo: compensate
+vg: verb.communication:cover
+
+w: complect drf noun.group:complexion
+w: interconnect drf noun.state:interconnection
+w: interlink
+d: be interwoven or interconnected
+e: The bones are interconnected via the muscle
+fs: 1
+hyper: intercommunicate
+hypo: connect 2
+
+w: compose drf noun.cognition:component
+d: form the substance of
+e: Greed and ambition composed his personality
+fs: 11
+hypo: be 2
+
+w: comprehend drf adj.all:comprehensive drf adjs.all:comprehensive drf noun.relation:comprehension
+w: cover 2
+w: embrace
+w: encompass drf noun.state:encompassment
+d: include in scope; include as part of something broader; have as one's sphere or territory
+e: This group encompasses a wide range of people from different backgrounds
+e: this should cover everyone in the group
+fs: 11
+hypo: include
+vg: verb.communication:address 4
+
+w: comprise
+w: contain
+w: incorporate drf noun.act:incorporation
+d: include or contain; have as a component
+e: A totally new idea is comprised in this paper
+e: The record contains many old songs from the 1930's
+fs: 21 11
+hypo: include
+
+w: comprise 1
+w: consist 1
+d: be composed of
+e: The land he conquered comprised several provinces
+e: What does this dish consist of?
+fs: 11
+hypo: be 3
+
+w: concern 1 drf noun.cognition:concern 1 drf noun.feeling:concern 1
+w: interest 1 drf noun.cognition:interest
+w: occupy 4 drf noun.act:occupation 4
+w: worry
+d: be on the mind of
+e: I worry about the second Germanic consonant shift
+fs: 9 10
+
+w: confine drf noun.state:confinement
+w: enclose drf noun.artifact:enclosure drf noun.object:enclosure
+w: hold_in
+d: close in; darkness enclosed him"
+fs: 11
+hyper: border
+hyper: box_in
+hyper: embank
+hyper: frame
+hyper: rail
+hypo: bear 14
+
+w: conflict drf noun.attribute:conflict drf noun.feeling:conflict drf noun.state:conflict
+d: be in conflict
+e: The two proposals conflict!
+fs: 4 1
+hyper: clash
+hypo: contrast
+
+w: conform 6 ant deviate drf noun.act:conformation 1 drf noun.attribute:conformance
+d: be similar, be in line with
+fs: 27 4 1
+hyper: scan
+
+w: conform_to ant violate
+d: observe
+e: conform to the rules
+fs: 22 4
+hypo: verb.social:abide_by
+
+w: conform_to 1
+w: fit 1
+w: meet 1
+d: satisfy a condition or restriction
+e: Does this paper meet the requirements for the degree?
+fs: 8 11
+hyper: verb.social:coordinate 1
+hyper: accommodate
+hyper: behoove
+hyper: fill_the_bill
+hyper: fulfil
+hypo: agree
+
+w: confront drf noun.act:confrontation drf noun.communication:confrontation
+d: be face to face with
+e: The child screamed when he confronted the man in the Halloween costume
+fs: 9 8
+hypo: face
+
+w: connect 2 drf adjs.all:connective
+w: join 1 drf noun.act:joining drf noun.act:jointure drf noun.shape:juncture
+w: link 1 drf noun.artifact:linkage drf noun.state:link
+w: link_up
+w: unite 2
+d: be or become joined or united or linked
+e: The two streets connect to become a highway
+e: Our paths joined
+e: The travelers linked up again at the airport
+fs: 2 1
+hyper: verb.social:syndicate 1
+hyper: articulate
+hyper: complect
+
+w: connect 5 drf noun.act:connection 1 drf noun.act:connexion 1
+d: be scheduled so as to provide continuing service, as in transportation
+e: The local train does not connect with the Amtrak train
+e: The planes don't connect and you will have to wait for four hours
+fs: 1 4
+hypo: be 3
+
+w: conserve drf noun.cognition:conservation
+d: keep constant through physical or chemical reactions or evolutionary change
+e: Energy is conserved in this process
+fs: 8 11
+hypo: hold
+
+w: consist
+w: dwell 1
+w: lie 1 drf noun.location:lie
+w: lie_in
+d: originate (in)
+e: The problems dwell in the social injustices in this country
+fs: 4
+hypo: be
+
+w: consist 2 drf noun.attribute:consistence 2 drf noun.attribute:consistency 2
+d: be consistent in form, tenor, or character; be congruous
+e: Desires are to be satisfied only so far as consists with an approved end
+fs: 1
+hypo: agree
+
+w: consist 4
+d: have its essential character; be comprised or contained in; be embodied in
+e: The payment consists in food
+e: What does love consist in?
+fs: 22
+hypo: be 3
+
+w: constellate drf noun.cognition:constellation
+w: dot drf noun.shape:dot
+w: stud drf noun.artifact:stud 1
+d: scatter or intersperse like dots or studs
+e: Hills constellated with lights
+fs: 11
+hypo: continue 6
+
+w: constitute 3 drf noun.artifact:constituent drf noun.attribute:constitution
+w: form drf noun.communication:form 2
+w: make 5
+d: to compose or represent:"This wall forms the background of the stage setting"
+e: The branches made a roof
+e: This makes a fine introduction
+fs: 11
+hyper: add
+hyper: chelate
+hypo: be 2
+
+w: contain 6
+d: be divisible by
+e: 24 contains 6
+fs: 11
+hypo: be 3
+mt: noun.cognition:arithmetic
+
+w: contain 14
+w: hold 14 drf noun.artifact:hold 2
+w: take 15
+d: be capable of holding or containing
+e: This box won't take all the items
+e: The flask holds one gallon
+fs: 11
+hypo: be 3
+vg: accommodate 3
+vg: bear 14
+
+w: contemporise
+w: contemporize
+w: synchronise drf noun.relation:synchronisation drf noun.relation:synchrony
+w: synchronize drf noun.relation:synchronization drf noun.relation:synchronizing drf noun.relation:synchrony
+d: happen at the same time
+fs: 1
+hypo: verb.change:come_about
+
+w: continue 1 fs 1 2 ant discontinue 1 drf noun.act:continuance drf noun.act:continuation drf noun.attribute:continuation
+w: go_along
+w: go_on fs 1 2
+w: keep 7
+w: proceed
+d: continue a certain state, condition, or activity
+e: Keep on working!
+e: We continued to work into the night
+e: Keep smiling
+e: We went on working until well past midnight
+fs: 33
+hyper: hold 1
+hyper: keep_going 2
+hyper: ride
+hypo: verb.social:act
+vg: bear_on 1
+vg: continue 11
+
+w: continue 6
+w: cover 1
+w: extend 1 drf noun.attribute:extent
+d: span an interval of distance, space or time
+e: The war extended over five years
+e: The period covered the turn of the century
+e: My land extends over the hills on the horizon
+e: This farm covers some 200 acres
+e: The Archipelago continues for another 500 miles
+fs: 11
+hyper: constellate
+hyper: cross
+hyper: overlap 1
+hyper: overspread
+hyper: ridge
+hyper: sweep 10
+hypo: be 5
+vg: verb.competition:cover 1
+
+w: continue 10 drf noun.attribute:continuation
+w: remain 3
+w: stay 2 drf noun.act:stay
+w: stay_on
+d: continue in a place, position, or situation
+e: After graduation, she stayed on in Cambridge as a student adviser
+e: Stay with me, please
+e: despite student protests, he remained Dean for another year
+e: She continued as deputy mayor for another year
+fs: 2 22
+hyper: abide 1
+hyper: hold_over 1
+hypo: be 3
+
+w: continue 11 drf noun.act:continuation drf noun.attribute:continuation
+d: continue after an interruption
+e: The demonstration continued after a break for lunch
+fs: 2 1
+hypo: verb.social:act
+vg: continue 1
+
+w: continue 12 drf noun.act:continuation
+w: persist_in
+d: do something repeatedly and showing no intention to stop
+e: We continued our research into the cause of the illness
+e: The landlord persists in asking us to move
+fs: 11 8
+hypo: verb.social:act
+vg: verb.social:continue
+
+w: contrast drf adjs.all:contrastive drf adjs.all:contrastive 1 drf noun.act:contrast drf noun.cognition:contrast 1 drf noun.relation:contrast
+w: counterpoint
+d: to show differences when compared; be different
+e: the students contrast considerably in their artistic abilities
+fs: 4 1
+hyper: conflict
+hyper: counterbalance
+hyper: foil
+hypo: differ
+
+w: converge ant diverge ant diverge 2 drf adj.all:convergent drf noun.act:convergency drf noun.act:converging drf noun.event:convergence
+w: meet 2
+d: be adjacent or come together
+e: The lines converge at this point
+fs: 1 4
+hyper: breast
+vg: verb.contact:adjoin 3
+
+w: converge 1 ant diverge 2 drf noun.cognition:convergence drf noun.cognition:convergency
+d: approach a limit as the number of terms increases without limit
+fs: 1
+hypo: approach
+mt: noun.cognition:math
+
+w: cool_one's_heels
+w: kick_one's_heels
+d: wait or pass the time aimlessly or futilely; be kept waiting
+e: She kicked her heels for hours at the gate of the Embassy
+fs: 22 4 1 2
+hypo: wait
+
+w: correlate drf adjs.all:correlative drf noun.cognition:correlate drf noun.cognition:correlation drf noun.cognition:correlation 1 drf noun.relation:correlation
+d: to bear a reciprocal or mutual relation
+e: Do these facts correlate?
+fs: 1
+hypo: agree
+vg: verb.cognition:correlate
+
+w: correspond 1 fs 4 drf adjs.all:correspondent
+w: represent 2 drf noun.act:representation
+w: stand_for
+d: take the place of or be parallel or equivalent to
+e: Because of the sound changes in the course of history, an 'h' in Greek stands for an 's' in Latin
+fs: 11
+hypo: be 7
+
+w: correspond 4 drf adjs.all:correspondent
+w: equate fs 11 drf noun.communication:equation drf noun.state:equation
+d: be equivalent or parallel, in mathematics
+fs: 4
+hypo: be 7
+
+w: cost 1 drf noun.attribute:cost 1
+d: require to lose, suffer, or sacrifice
+e: This mistake cost him his job
+fs: 14
+hypo: ask
+
+w: count
+w: matter drf noun.attribute:matter drf noun.cognition:matter see matter_to
+w: weigh 3
+d: have weight; have import, carry weight
+e: It does not matter much
+fs: 1 34
+hyper: press 1
+hypo: be 3
+
+w: count 1
+w: number 1 drf noun.group:number
+d: put into a group
+e: The academy counts several Nobel Prize winners among its members
+fs: 21 20
+hypo: verb.cognition:assort
+
+w: count 4
+d: have a certain value or carry a certain weight
+e: each answer counts as three points
+fs: 4
+hypo: be 3
+
+w: counterbalance drf noun.artifact:counterbalance
+w: oppose
+d: contrast with equal weight or force
+fs: 11 9
+hyper: counterpoise
+hypo: contrast
+
+w: counterpoise drf noun.artifact:counterpoise
+w: counterpose
+w: counterweight drf noun.artifact:counterweight
+d: constitute a counterweight or counterbalance to
+fs: 21 11
+hypo: counterbalance
+
+w: countervail
+w: offset 1 drf noun.possession:offset
+d: compensate for or counterbalance
+e: offset deposits and withdrawals
+fs: 11
+hypo: balance
+
+w: cover
+d: provide for
+e: The grant doesn't cover my salary
+fs: 11 8
+hypo: fulfil
+
+w: crash
+d: occupy, usually uninvited
+e: My son's friends crashed our house last weekend
+fs: 8
+hypo: lodge_in
+
+w: crawl
+d: be full of
+e: The old cheese was crawling with maggots
+fs: 4
+hypo: pullulate
+
+w: crawl 1
+d: feel as if crawling with insects
+e: My skin crawled--I was terrified
+fs: 1
+hypo: feel
+
+w: cross
+w: span drf noun.attribute:span
+w: sweep 3 drf noun.attribute:sweep
+w: traverse
+d: to cover or extend over an area or time period
+e: "Rivers traverse the valley floor", "The parking lot spans 3 acres"
+e: The novel spans three centuries
+fs: 11
+hypo: continue 6
+
+w: crowd drf noun.group:crowd drf noun.state:crowding
+d: fill or occupy to the point of overflowing
+e: The students crowded the auditorium
+fs: 11 8
+hypo: fill
+
+w: crown
+d: form the topmost part of
+e: A weather vane crowns the building
+fs: 11
+hypo: head
+
+w: cry_for
+w: cry_out_for
+d: need badly or desperately
+e: This question cries out for an answer
+fs: 11
+hypo: ask
+
+w: curve drf noun.artifact:curve drf noun.attribute:curve
+w: twist
+w: wind
+d: extend in curves and turns
+e: The road winds around the lake
+e: the path twisted through the forest
+fs: 4 1
+hyper: circumvolute
+hyper: snake
+hyper: spiral
+hypo: be 3
+
+w: cut
+w: skip drf noun.act:skip drf noun.person:skipper 2
+d: intentionally fail to attend
+e: cut class
+fs: 8
+hyper: bunk_off
+hypo: miss 1
+
+w: cut_across
+d: be contrary to ordinary procedure or limitations
+e: Opinions on bombing the Serbs cut across party lines
+fs: 11
+hypo: be 3
+
+w: dangle
+w: drop 4
+w: swing drf noun.act:swinging drf noun.artifact:swing
+d: hang freely
+e: the ornaments dangled from the tree
+e: The light dropped from the ceiling
+fs: 1 4
+hyper: droop
+hypo: verb.contact:hang 3
+
+w: date_back
+w: date_from
+w: go_back
+d: belong to an earlier time
+e: This story dates back 200 years
+fs: 11 8
+hyper: ascend 2
+hypo: verb.creation:initiate 1
+
+w: dawn 1 drf noun.event:dawn 1 drf noun.time:dawn 1
+d: appear or develop
+e: The age of computers had dawned
+fs: 1
+hypo: begin
+
+w: defer drf noun.act:deferment drf noun.act:deferral 1
+w: hold_over 2
+w: postpone drf noun.act:postponement drf noun.person:postponer
+w: prorogue drf noun.act:prorogation
+w: put_off drf noun.communication:putoff
+w: put_over
+w: remit
+w: set_back 1
+w: shelve drf noun.person:shelver
+w: table
+d: hold back to a later time
+e: let's postpone the exam
+fs: 8 21
+entail: verb.communication:reschedule
+entail: verb.social:call_off
+hyper: call 9
+hyper: hold 12
+hyper: probate
+hyper: reprieve
+hyper: suspend
+hypo: delay
+
+w: define
+w: delimit
+w: delimitate
+w: delineate drf noun.communication:delineation 1
+w: specify
+d: determine the essential quality of
+fs: 11
+hyper: verb.cognition:determine 3
+hyper: redefine
+hypo: be 3
+
+w: define 1
+d: determine the nature of
+e: What defines a good wine?
+fs: 11 10
+hypo: characterise 1
+
+w: define 3 drf noun.attribute:definition drf noun.process:defining
+w: delineate 1 drf adjs.all:delineative drf noun.act:delineation drf noun.artifact:delineation
+d: show the form or outline of
+e: The tree was clearly defined by the light
+e: The camera could define the smallest object
+fs: 11
+hypo: verb.perception:show
+
+w: defy drf adj.all:defiant
+w: hold 8
+w: hold_up 2
+w: withstand drf noun.person:withstander
+d: resist or confront with resistance
+e: The politician defied public opinion
+e: The new material withstands even the greatest wear and tear
+e: The bridge held
+fs: 8 11
+hyper: brave
+hypo: verb.competition:hold_out
+
+w: defy 1 ant lend_oneself
+w: refuse
+w: resist 1
+d: elude, especially in a baffling way
+e: This behavior defies explanation
+fs: 11
+hyper: beggar
+hypo: elude
+
+w: delay drf noun.time:delay
+d: act later than planned, scheduled, or required
+e: Don't delay your application to graduate school or else it won't be considered
+fs: 8
+hyper: defer
+hyper: dilly-dally
+hyper: hesitate 1
+hyper: procrastinate 1
+hypo: hold_back
+
+w: delimit 1
+w: subtend
+d: be opposite to; of angles and sides, in geometry
+fs: 11
+hypo: be 3
+
+w: depart drf noun.event:departure 1
+w: deviate ant conform 6 drf adjs.all:deviant drf adjs.all:deviate drf noun.act:deviation drf noun.attribute:deviation 1 drf noun.cognition:deviation drf noun.event:deviation drf noun.person:deviant drf noun.person:deviate
+w: diverge 1 drf adjs.all:divergent drf noun.event:divergence
+w: vary drf adjs.all:variant 1 drf noun.act:variance drf noun.act:variation drf noun.event:variant drf noun.person:variation drf noun.phenomenon:variation
+d: be at variance with; be out of line with
+fs: 1 4
+hyper: aberrate
+hyper: aberrate 1
+hyper: belie
+hypo: differ
+
+w: depend drf adjs.all:dependant drf adjs.all:dependent
+d: be contingent upon (something that is elided)
+e: That depends
+fs: 1
+hyper: hang_by_a_hair
+hypo: be 3
+
+w: depend_on
+w: depend_upon
+w: devolve_on
+w: hinge_on
+w: hinge_upon
+w: ride 7
+w: turn_on
+d: be contingent on
+e: The outcomes rides on the results of the election
+e: Your grade will depends on your homework
+fs: 11 10
+hyper: build_on
+
+w: depend_on 1
+w: rely_on 2
+d: be dependent on, as for support or maintenance
+e: elderly parents often depend on their adult children
+fs: 9 8
+
+w: depend_on 2
+w: depend_upon 2
+w: rely_on
+w: rely_upon
+d: put trust in with confidence
+e: she is someone you can really rely on when times get rough
+e: you can rely on his discretion
+fs: 9 8
+
+w: deserve
+w: merit 4 drf adjs.all:meritable drf noun.attribute:merit 2
+d: be worthy or deserving
+e: You deserve a promotion after all the hard work you have done
+fs: 8 11
+hyper: have_it_coming
+hypo: be 3
+
+w: die_hard drf noun.person:diehard
+w: endure 8
+w: persist drf adj.all:persistent
+w: prevail drf adjs.all:prevalent drf noun.attribute:prevalence
+w: run 3
+d: continue to exist
+e: These stories die hard
+e: The legend of Elvis endures
+fs: 1
+hyper: verb.change:carry_over
+hyper: reverberate
+hypo: verb.change:continue 10
+vg: run 6
+
+w: differ ant equal drf adj.all:different drf adj.all:different 2 drf adjs.all:different drf adjs.all:different 1 drf adjs.all:different 2 drf noun.attribute:difference
+d: be different
+e: These two tests differ in only one respect
+fs: 1 4
+hyper: contrast
+hyper: depart
+hyper: vary 1
+
+w: dilly-dally
+w: dillydally drf noun.person:dillydallier
+w: drag_one's_feet
+w: drag_one's_heels
+w: procrastinate drf noun.act:procrastination drf noun.person:procrastinator
+w: shillyshally 2 drf noun.act:shillyshally
+w: stall drf noun.act:stall
+d: postpone doing what one should be doing
+e: He did not want to write the letter and procrastinated for days
+fs: 2
+hyper: procrastinate 1
+hypo: delay
+
+w: disaccord
+w: disagree ant agree
+w: discord drf adj.all:discordant drf adjs.all:discordant drf noun.act:discordance drf noun.state:discord
+d: be different from one another
+fs: 1
+hypo: be 3
+
+w: discontinue 1 ant continue 1
+d: come to or be at an end
+e: the support from our sponsoring agency will discontinue after March 31
+fs: 1
+hyper: expire
+hyper: fizzle
+hyper: leave_off
+hypo: cease 13
+
+w: disembroil
+w: disentangle drf noun.act:disentanglement 1
+w: disinvolve
+d: free from involvement or entanglement
+e: How can I disentangle myself from her personal affairs?
+fs: 10 9
+hypo: verb.social:discharge 1
+
+w: dissipate 4 drf noun.act:dissipation 1
+d: live a life of pleasure, especially with respect to alcoholic consumption
+fs: 2
+hypo: live 6
+
+w: distance drf noun.feeling:distance
+d: keep at a distance
+e: we have to distance ourselves from these events in order to continue living
+fs: 9 8
+hypo: hold
+
+w: distribute
+d: be mathematically distributive
+fs: 1
+hypo: be 3
+
+w: distribute 1
+d: be distributed or spread, as in statistical analyses
+e: Values distribute
+fs: 1
+hypo: be
+vg: distribute 2
+
+w: distribute 2
+d: spread throughout a given area
+e: the function distributes the values evenly
+fs: 11
+hypo: verb.motion:scatter 2
+vg: distribute 1
+
+w: divaricate
+d: branch off
+e: The road divaricates here
+fs: 1
+hypo: diverge
+
+w: diverge ant converge drf adj.all:divergent drf noun.act:divergency
+d: extend in a different direction
+e: The lines start to diverge here
+e: Their interests diverged
+fs: 1
+hyper: bifurcate
+hyper: divaricate
+
+w: diverge 2 ant converge ant converge 1 drf noun.cognition:divergence drf noun.cognition:divergency
+d: have no limits as a mathematical series
+fs: 1
+hypo: be 3
+mt: noun.cognition:math
+
+w: divide drf noun.artifact:divider drf noun.location:divide
+w: separate
+d: act as a barrier between; stand between
+e: The mountain range divides the two countries
+fs: 11
+
+w: do 2
+w: serve
+d: spend time in prison or in a labor camp
+e: He did six years for embezzlement
+fs: 22 8
+hyper: admit 3
+hypo: pass
+
+w: do_well
+w: had_best
+d: act in one's own or everybody's best interest
+e: You will do well to arrive on time tomorrow!
+fs: 32
+hypo: verb.social:act
+
+w: domicile
+w: domiciliate
+w: reside drf adj.all:resident drf noun.act:residence drf noun.act:residency drf noun.person:resident
+w: shack drf noun.artifact:shack
+d: make one's home in a particular place or community
+e: may parents reside in Florida
+fs: 22
+hyper: rusticate
+hypo: dwell
+
+w: dominate
+w: predominate drf adjs.all:predominant drf noun.state:predominance drf noun.state:predomination
+w: prevail 2 drf noun.attribute:prevalence 1
+w: reign drf noun.time:reign 1
+w: rule
+d: be larger in number, quantity, power, status or importance
+e: Money reigns supreme here
+e: Hispanics predominate in this neighborhood
+fs: 22 4 2 1
+hyper: outbalance
+hyper: overarch
+hyper: override 3
+
+w: dominate 1 drf adj.all:dominant 1 drf noun.act:domination drf noun.state:dominance drf noun.state:domination drf noun.state:dominion
+d: be in control
+e: Her husband completely dominates her
+fs: 1 2
+hyper: overbear
+hyper: possess 2
+hypo: verb.social:act_upon
+
+w: dominate 3
+w: eclipse
+w: overshadow
+d: be greater in significance than
+e: the tragedy overshadowed the couple's happiness
+fs: 11
+hypo: brood 1
+
+w: dote drf noun.person:dotard
+d: be foolish or senile due to old age
+fs: 2
+hypo: verb.change:age
+
+w: douse 9
+w: dowse 9
+d: wet thoroughly
+fs: 11
+hypo: verb.change:wet
+
+w: dovetail drf noun.artifact:dovetail
+d: fit together tightly, as if by means of a dovetail
+fs: 8
+cause: fit 2
+hypo: verb.change:fit 1
+
+w: drag
+w: drag_in
+w: embroil drf noun.state:embroilment
+w: sweep
+w: sweep_up
+w: tangle
+d: force into some kind of situation, condition, or course of action
+e: They were swept up by the events
+e: don't drag me into this business
+fs: 20 9
+hypo: involve 4
+
+w: drag_on
+w: drag_out
+d: last unnecessarily long
+fs: 1 4
+hypo: endure 6
+
+w: draw
+d: allow a draft
+e: This chimney draws very well
+fs: 1
+hypo: be 3
+vg: verb.motion:draw
+
+w: draw 2
+d: require a specified depth for floating
+e: This boat draws 70 inches
+fs: 11
+hypo: ask
+
+w: drift
+w: freewheel drf noun.person:freewheeler
+d: live unhurriedly, irresponsibly, or freely
+e: My son drifted around for years in California before going to law school
+fs: 2
+hypo: exist 1
+vg: verb.motion:drift 5
+
+w: drift 3
+d: vary or move from a fixed point or course
+e: stock prices are drifting higher
+fs: 1
+hypo: vary 1
+vg: verb.change:drift 10
+
+w: drive drf noun.act:drive drf noun.artifact:drive drf noun.artifact:drive 1
+w: ride 3 drf noun.act:ride
+d: have certain properties when driven
+e: This car rides smoothly
+e: My new truck drives well
+fs: 6
+vg: verb.motion:drive 1
+vg: verb.motion:ride
+
+w: droop drf noun.shape:droop
+w: loll 1
+d: hang loosely or laxly
+e: His tongue lolled
+fs: 1
+hypo: dangle
+
+w: drown
+w: swim
+d: be covered with or submerged in a liquid
+e: the meat was swimming in a fatty gravy
+fs: 4
+hypo: be 3
+
+w: duplicate
+w: parallel 1
+w: twin drf noun.artifact:twin
+d: duplicate or match
+e: The polished surface twinned his face and chest in reverse
+fs: 11
+hypo: agree
+
+w: dwarf drf noun.person:dwarf
+w: overshadow 1
+w: shadow drf noun.state:shadow
+d: make appear small by comparison
+e: This year's debt dwarfs that of last year
+fs: 11
+hypo: command
+
+w: dwell drf noun.artifact:dwelling drf noun.person:dweller
+w: inhabit drf noun.act:inhabitancy drf noun.act:inhabitation drf noun.person:inhabitant
+w: live 8 drf adj.all:livable drf adj.all:liveable drf noun.person:liver see verb.consumption:live_in see verb.consumption:live_out
+w: populate drf noun.group:population
+d: inhabit or live in; be an inhabitant of
+e: People lived in Africa millions of years ago
+e: The people inhabited the islands that are now deserted
+e: this kind of fish dwells near the bottom of the ocean
+e: deer are populating the woods
+fs: 22
+hyper: verb.social:tenant
+hyper: bivouac
+hyper: board
+hyper: cohabit
+hyper: domicile
+hyper: lodge 2
+hyper: lodge_in
+hyper: neighbor 1
+hyper: nest
+hyper: overpopulate
+hyper: people
+hypo: be 5
+
+w: dwell 3
+w: inhabit 3
+d: exist or be situated within
+e: Strange notions inhabited her mind
+fs: 11
+hypo: be
+
+w: dwell_on
+w: linger_over
+d: delay
+fs: 8
+hypo: hesitate
+
+w: echo drf noun.attribute:echo
+w: recall
+d: call to mind
+e: His words echoed John F. Kennedy
+fs: 11 10
+hypo: resemble
+
+w: eke_out
+d: live from day to day, as with some hardship
+e: He eked out his years in great poverty
+fs: 8
+hypo: live 6
+
+w: eliminate 1
+w: obviate ant necessitate drf noun.act:obviation
+w: rid_of
+d: do away with
+fs: 11
+hyper: close_out
+
+w: elude drf adjs.all:elusive 1 drf adjs.all:elusive 3
+w: escape
+d: be incomprehensible to; escape understanding by
+e: What you are seeing in him eludes me
+fs: 10
+hyper: defy 1
+hypo: verb.cognition:amaze 1
+
+w: embank drf noun.artifact:embankment
+d: enclose with banks, as for support or protection
+e: The river was embanked with a dyke
+fs: 8
+hypo: confine
+
+w: embody 2 drf noun.cognition:embodiment 1
+d: represent or express something abstract in tangible form
+e: This painting embodies the feelings of the Romantic period
+fs: 11
+hypo: verb.communication:represent
+
+w: emulate drf noun.act:emulation drf noun.feeling:emulation drf noun.person:emulator
+d: strive to equal or match, especially by imitating
+e: He is emulating the skating skills of his older sister
+fs: 9 8
+hypo: verb.creation:copy
+
+w: emulate 1 drf noun.cognition:emulation
+d: imitate the function of (another system), as by modifying the hardware or the software
+fs: 11
+hypo: imitate
+mt: noun.cognition:computer_science
+
+w: encounter
+w: run_into 1
+d: be beset by
+e: The project ran into numerous financial difficulties
+fs: 11
+hypo: be 3
+
+w: encounter 2
+w: meet fs 22 4
+w: receive drf adj.all:receptive drf adjs.all:receptive 1
+d: experience as a reaction
+e: My proposal met with much opposition
+fs: 11 8
+hypo: verb.change:experience
+
+w: end 1 drf noun.cognition:end drf noun.communication:end drf noun.event:end drf noun.event:ending drf noun.state:end drf noun.time:end drf noun.time:ending
+w: terminate 5 drf adjs.all:terminative drf noun.cognition:terminus
+d: be the end of; be the last or concluding part of
+e: This sad scene ended the movie
+fs: 11
+hyper: verb.perception:close 10
+hypo: be 3
+
+w: endanger
+w: imperil
+w: jeopardise drf noun.state:jeopardy
+w: jeopardize drf noun.state:jeopardy
+w: menace drf noun.state:menace
+w: peril drf noun.state:peril drf noun.state:peril 1
+w: threaten fs 28
+d: pose a threat to; present a danger to
+e: The pollution is endangering the crops
+fs: 10 11
+hypo: be
+
+w: endure drf noun.state:endurance
+w: go 14
+w: hold_out
+w: hold_up
+w: last 1
+w: live 4
+w: live_on
+w: survive 1 drf noun.state:survival
+d: continue to live through hardship or adversity
+e: We went without water and food for 3 days
+e: These superstitions survive in the backwaters of America
+e: The race car driver lived through several very serious accidents
+e: how long can a person last without food and water?
+fs: 8 1 2
+entail: be 1
+hyper: hold_up 1
+hyper: live_out
+hyper: perennate
+vg: be 1
+vg: exist 1
+
+w: endure 1
+w: hold_out 1
+w: wear drf adj.all:wearable
+d: last and be usable
+e: This dress wore well for almost ten years
+fs: 11 6
+hypo: endure 6
+
+w: endure 6
+w: last
+d: persist for a specified period of time
+e: The bad weather lasted for three days
+fs: 11
+hyper: drag_on
+hyper: endure 1
+hyper: run 5
+hypo: measure
+
+w: enfilade
+d: rake or be in a position to rake with gunfire in a lengthwise direction
+fs: 8
+hypo: rake 10
+
+w: ensue fs 34
+w: result drf adjs.all:resultant drf noun.event:result drf noun.phenomenon:result drf noun.state:resultant
+d: issue or terminate (in a specified way, state, etc.); end
+e: result in tragedy
+fs: 1
+hyper: verb.change:come 13
+hyper: be_due
+hyper: come_after
+hyper: fall_out 2
+hypo: prove
+
+w: entail
+w: implicate drf noun.cognition:implication drf noun.cognition:implication 1 drf noun.relation:implication 1
+d: impose, involve, or imply as a necessary accompaniment or result
+e: What does this move entail?
+fs: 11
+hypo: lead 12
+
+w: entail 1 drf noun.cognition:entailment
+w: imply drf adjs.all:implicative drf noun.cognition:implication 1
+w: mean
+d: have as a logical consequence
+e: The water shortage means that we have to stop taking long showers
+fs: 11
+hypo: necessitate 1
+
+w: entangle drf noun.artifact:entanglement
+w: mire
+d: entrap
+e: Our people should not be mired in the past
+fs: 11 10
+hypo: involve 4
+
+w: enter
+w: figure
+d: be or play a part of or in
+e: Elections figure prominently in every government program
+e: How do the elections figure in the current pattern of internal politics?
+fs: 4 22
+hypo: be 3
+
+w: epitomise drf noun.cognition:epitome drf noun.communication:epitome
+w: epitomize drf noun.cognition:epitome drf noun.communication:epitome
+w: typify drf noun.cognition:type drf noun.cognition:typification drf noun.group:type 1 drf noun.person:type
+d: embody the essential characteristics of or be a typical example of
+e: The fugue typifies Bach's style of composition
+fs: 8 11
+hypo: verb.communication:represent 2
+
+w: equal 1 drf noun.person:equal
+w: match 1 drf noun.person:match
+w: rival
+w: touch 2
+d: be equal to in quality or ability
+e: Nothing can rival cotton for durability
+e: Your performance doesn't even touch that of your colleagues
+e: Her persistence and ambition only matches that of her parents
+fs: 11 9
+hypo: verb.competition:compete
+vg: verb.change:equal
+
+w: eternize
+d: cause to continue indefinitely
+fs: 8
+hypo: perpetuate
+
+w: eventuate drf noun.phenomenon:event 1
+d: come out in the end
+fs: 1
+hypo: come_out
+
+w: exceed drf adjs.all:excessive drf noun.attribute:exceedance
+w: go_past
+w: overstep
+w: pass 4
+w: top drf noun.communication:topper drf noun.person:topper 2 drf noun.state:top
+w: transcend 1 drf adjs.all:transcendent drf adjs.all:transcendent 1 drf noun.state:transcendence 2 drf noun.state:transcendency 2
+d: be superior or better than some standard
+e: She exceeded our expectations
+e: She topped her performance of last year
+fs: 8 11
+hypo: excel
+
+w: exceed 1
+w: surpass 1
+w: transcend drf adjs.all:transcendent drf adjs.all:transcendent 1 drf noun.state:transcendence 2
+d: be greater in scope or size than some standard
+e: Their loyalty exceeds their national bonds
+fs: 11
+hyper: overgrow 2
+
+w: excel drf adjs.all:excellent drf noun.attribute:excellence
+w: stand_out
+w: surpass
+d: distinguish oneself
+e: She excelled in math
+fs: 1 2
+hyper: exceed
+hyper: excel_at
+hyper: outrank
+
+w: excel_at
+w: shine_at
+d: be good at
+e: She shines at math
+fs: 8 33
+hypo: excel
+
+w: exclude ant include
+d: lack or fail to include
+e: The cost for the trip excludes food and beverages
+fs: 8 11
+hypo: lack
+
+w: exemplify drf noun.cognition:example drf noun.cognition:example 2 drf noun.cognition:exemplification
+w: represent 1
+d: be characteristic of
+e: This compositional style is exemplified by this fugue
+fs: 11 10
+hypo: be 8
+
+w: exhibit drf noun.act:exhibition
+d: show an attribute, property, knowledge, or skill
+e: he exhibits a great talent
+fs: 11
+hyper: phosphoresce
+hypo: possess
+
+w: exist 1
+w: live 1
+w: subsist drf noun.person:subsister drf noun.state:subsistence 1
+w: survive drf noun.state:survival
+d: support oneself
+e: he could barely exist on such a low wage
+e: Can you live on $2000 a month in New York City?
+e: Many people in the world have to subsist on $1 a day
+fs: 2 13 1 22
+hyper: breathe
+hyper: drift
+vg: endure
+
+w: expire drf noun.time:expiration
+w: run_out
+d: lose validity
+e: My passports expired last month
+fs: 1
+hypo: discontinue 1
+
+w: extend 2 drf adj.all:extensible drf adjs.all:extendible
+w: poke_out
+w: reach_out
+d: reach outward in space
+e: The awning extends several feet over the sidewalk
+fs: 1 4
+hypo: be 5
+
+w: extend 3 drf noun.attribute:extent see extend_to
+w: go
+w: lead
+w: pass 8
+w: run see run_along
+d: stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+e: Service runs all the way to Cranbury
+e: His knowledge doesn't go very far
+e: My memory extends back to my fourth year of life
+e: The facts extend beyond a consideration of her personal assets
+fs: 4
+hyper: come 3
+hyper: go_deep
+hyper: radiate
+hypo: be 5
+vg: range 1
+
+w: extend_to
+w: reach drf noun.location:reach see reach_into see reach_out
+w: touch 1 drf noun.event:touch
+d: to extend as far as
+e: The sunlight reached the wall
+e: "Can he reach?" "The chair must not touch the wall"
+fs: 11 4
+hyper: reach_into
+hypo: be 5
+
+w: face
+w: front ant back drf noun.location:front drf noun.location:front 2 drf noun.relation:frontage
+w: look
+d: be oriented in a certain direction, often with respect to another reference point; be opposite to
+e: The house looks north
+e: My backyard look onto the pond
+e: The building faces the park
+fs: 11
+hyper: confront
+hypo: lie
+vg: face 2
+
+w: face 2
+d: be opposite
+e: the facing page
+e: the two sofas face each other
+fs: 22 4
+hypo: be 5
+vg: face
+
+w: facilitate fs 35 drf noun.act:facilitation
+w: help fs 35 drf noun.act:help drf noun.attribute:help
+d: be of use
+e: This will help to prevent accidents
+fs: 2 34 28
+hypo: serve 1
+
+w: fall
+d: die, as in battle or in a hunt
+e: Many soldiers fell at Verdun
+e: Several deer have fallen to the same gun
+e: The shooting victim fell dead
+fs: 22 1 2
+hypo: verb.change:buy_the_farm
+vg: verb.possession:fall 5
+vg: verb.social:fall
+
+w: fall 2
+d: be due
+e: payments fall on the 1st of the month
+fs: 4
+hypo: be 3
+vg: verb.change:fall
+
+w: fall 4
+w: shine
+w: strike
+d: touch or seem as if touching visually or audibly
+e: Light fell on her face
+e: The sun shone on the fields
+e: The light struck the golden necklace
+e: A strange sound struck my ears
+fs: 11
+hypo: verb.change:come_about
+
+w: fall_into
+w: fall_under
+d: be included in or classified as
+e: This falls under the rubric 'various'
+fs: 11
+hypo: be 2
+
+w: fall_out 2
+w: follow 5
+d: come as a logical consequence; follow logically
+e: It follows that your assertion is false
+e: the theorem falls out nicely
+fs: 34 1
+hypo: ensue
+
+w: fall_short_of ant satisfy
+d: fail to satisfy, as of expectations, for example
+fs: 11
+
+w: falter
+w: waver 2 drf noun.person:waverer
+d: be unsure or weak
+e: Their enthusiasm is faltering
+fs: 2 1
+hypo: hesitate
+
+w: fascinate drf noun.attribute:fascination drf noun.state:fascination
+w: intrigue
+d: cause to be interested or curious
+fs: 10 9
+hyper: verb.cognition:grab
+hypo: interest
+
+w: feature drf noun.body:feature drf noun.cognition:feature
+w: have ant lack
+d: have as a feature
+e: This restaurant features the most famous chefs in France
+fs: 11
+hyper: verb.body:bear 2
+hyper: verb.body:wear 2
+hyper: verb.competition:carry 4
+hyper: abound 1
+hyper: bear 1
+hyper: boast
+hyper: brim
+hyper: bristle 2
+hyper: carry 1
+hyper: carry 8
+hyper: carry 13
+hyper: combine
+hyper: give_off
+hyper: imply 1
+hyper: possess
+hyper: read
+hyper: star
+hyper: wear 1
+vg: verb.possession:have
+vg: verb.possession:have 4
+
+w: feel drf noun.state:feel
+d: be felt or perceived in a certain way
+e: The ground feels shaky
+e: The sheets feel soft
+fs: 6 7
+hyper: crawl 1
+hypo: verb.perception:appear
+vg: verb.perception:feel
+
+w: fill
+w: occupy 1 drf noun.time:occupation
+d: occupy the whole of
+e: The liquid fills the container
+fs: 11
+hyper: crowd
+hyper: take_up
+hypo: be 5
+
+w: fill_the_bill
+w: fit_the_bill
+d: be what is needed or be good enough for what is required
+e: Does this restaurant fit the bill for the celebration?
+fs: 2 1
+hypo: conform_to 1
+
+w: fit 2 drf noun.act:fitting drf noun.attribute:fit
+w: go 5
+d: be the right size or shape; fit correctly or as desired
+e: This piece won't fit into the puzzle
+fs: 1
+hyper: joint
+hyper: tessellate
+hypo: fit 3
+vg: blend
+
+w: fit 3
+d: conform to some shape or size
+e: How does this shirt fit?
+fs: 5 6
+hyper: fit 2
+hypo: be 3
+
+w: fizzle
+w: fizzle_out
+w: peter_out
+w: taper_off
+d: end weakly
+e: The music just petered out--there was no proper ending
+fs: 1
+hypo: discontinue 1
+
+w: flank drf noun.person:flanker drf noun.person:flanker 1 drf noun.shape:flank
+d: be located at the sides of something or somebody
+fs: 9 10 11
+hypo: lie
+
+w: flocculate drf adjs.all:flocculent drf noun.process:flocculation
+d: form into an aggregated lumpy or fluffy mass
+e: the protoplasms flocculated
+fs: 11
+hypo: verb.change:change
+
+w: flocculate 1 drf adjs.all:flocculent
+d: cause to become a fluffy or lumpy aggregate
+e: The chemist flocculated the suspended material
+fs: 11
+hypo: verb.change:alter 1
+
+w: flow drf noun.act:flow drf noun.event:flow drf noun.process:flow drf noun.time:flow
+d: be abundantly present
+e: The champagne flowed at the wedding
+fs: 4
+hypo: be
+
+w: fly_in_the_face_of
+w: fly_in_the_teeth_of
+d: go against
+e: This action flies in the face of the agreement
+fs: 11
+hypo: break
+
+w: focalise drf noun.process:focalisation
+w: focalize drf noun.process:focalization
+w: localise
+w: localize
+d: concentrate on a particular place or spot
+e: The infection has localized in the left eye
+fs: 4
+hypo: lie
+
+w: foil drf noun.cognition:foil
+d: enhance by contrast
+e: In this picture, the figures are foiled against the background
+fs: 8 11
+hypo: contrast
+
+w: follow
+w: postdate ant predate
+d: be later in time
+e: Tuesday always follows Monday
+fs: 11
+vg: come_after
+
+w: follow 2
+d: be next
+e: Mary plays best, with John and Sue following
+fs: 1 22 2
+hypo: be 5
+vg: come_after
+
+w: follow 3
+d: to bring something about at a later time than
+e: She followed dinner with a brandy
+e: He followed his lecture with a question and answer period
+fs: 8
+cause: follow 2
+
+w: follow_suit
+d: do what someone else is doing
+fs: 2
+hypo: imitate
+
+w: footle
+w: hang_around
+w: lallygag
+w: linger drf noun.person:lingerer
+w: loaf
+w: loiter drf noun.person:loiterer
+w: lollygag
+w: lounge drf noun.person:lounger
+w: lurk
+w: mess_about
+w: mill_about
+w: mill_around
+w: tarry
+d: be about
+e: The high school students like to loiter in the Central Square
+e: Who is this man that is hanging around the department?
+fs: 2 22
+hyper: lurch
+hypo: be 3
+
+w: forbear drf noun.act:forbearance
+w: refrain ant verb.social:act
+d: resist doing something
+e: He refrained from hitting him back
+e: she could not forbear weeping
+fs: 22
+hyper: verb.change:leave 2
+hyper: verb.social:abstain
+hyper: verb.social:let_it_go
+hyper: verb.social:save 5
+hyper: forbear 1
+hyper: help 8
+hyper: sit_out
+hyper: stand_by
+
+w: forbear 1
+w: hold_back 1
+d: refrain from doing
+e: she forbore a snicker
+fs: 2
+hypo: forbear
+
+w: form 2 drf noun.act:formation 2
+w: spring
+w: take_form
+w: take_shape
+d: develop into a distinctive entity
+e: our plans began to take shape
+fs: 22 1 4 2
+hyper: verb.change:regenerate 4
+hypo: become
+
+w: frame drf noun.artifact:frame drf noun.artifact:framing drf noun.person:framer 1
+d: enclose in a frame, as of a picture
+fs: 8
+hypo: confine
+
+w: fry
+d: be excessively hot
+e: If the children stay out on the beach for another hour, they'll be fried
+fs: 2
+hypo: verb.change:heat
+
+w: fulfil drf noun.act:fulfilment
+w: fulfill drf noun.act:fulfillment
+w: live_up_to
+w: satisfy ant fall_short_of drf adj.all:satisfactory drf adjs.all:satisfactory drf noun.act:satisfaction drf noun.object:satisfier
+d: meet the requirements or expectations of
+fs: 11 8
+hyper: answer 2
+hyper: cover
+hypo: conform_to 1
+
+w: function 12 drf noun.attribute:function
+w: serve 3
+d: serve a purpose, role, or function
+e: The tree stump serves as a table
+e: The female students served as a control group
+e: This table would serve very well
+e: His freedom served him well
+e: The table functions as a desk
+fs: 11 9 2 1
+hyper: act_as
+hyper: prelude
+hypo: answer 2
+vg: verb.social:serve
+
+w: gape
+w: yaw
+w: yawn
+d: be wide open
+e: the deep gaping canyon
+fs: 1
+hypo: be 3
+
+w: get_into
+w: tangle_with
+d: get involved in or with
+fs: 2 1
+hypo: verb.change:change_state
+
+w: get_through
+w: while_away
+d: spend or pass, as with boredom or in a pleasant manner; of time
+fs: 8
+hypo: pass
+
+w: give_off
+d: have as a by-product
+e: The big cities gave off so many wonderful American qualities
+fs: 11 8
+hypo: feature
+
+w: go 2
+w: run 4
+d: have a particular form
+e: the story or argument runs as follows
+e: as the saying goes...
+fs: 1
+hypo: be 3
+
+w: go 3 drf noun.act:going see go_with
+d: pass, fare, or elapse; of a certain state of affairs or action
+e: How is it going?
+e: The day went well until I got your call
+fs: 1
+
+w: go 6
+d: be awarded; be allotted
+e: The first prize goes to Mary
+e: Her money went on clothes
+fs: 11 10
+
+w: go 7
+d: be or continue to be in a certain condition
+e: The children went hungry that day
+fs: 6 7
+hypo: be 3
+
+w: go 8
+w: lead 3
+d: lead, extend, or afford access
+e: This door goes to the basement
+e: The road runs South
+fs: 4
+hypo: be 5
+
+w: go 10
+d: be ranked or compare
+e: This violinist is as good as Juilliard-trained violinists go
+fs: 1
+hypo: compare
+
+w: go 12
+d: be sounded, played, or expressed
+e: How does this song go again?
+fs: 1
+
+w: go 13
+d: be contained in
+e: How many times does 18 go into 54?
+fs: 11
+
+w: go_a_long_way
+d: suffice or be adequate for a while or to a certain extent
+fs: 1
+hypo: answer 2
+
+w: go_around
+d: be sufficient
+e: There's not enough to go around
+fs: 1
+hypo: answer 2
+
+w: go_deep
+w: go_far
+d: extend in importance or range
+e: His accomplishments go far
+fs: 1
+hypo: extend 3
+
+w: go_down
+d: be recorded or remembered
+e: She will go down as the first feminist
+fs: 4 22
+
+w: go_into
+d: be used or required for
+e: A lot of energy went into the organization of this banquet
+fs: 11
+
+w: go_out ant come_in
+d: go out of fashion; become unfashionable
+fs: 1
+hypo: verb.change:change
+mt: noun.cognition:fashion
+
+w: govern
+d: require to be in a certain grammatical case, voice, or mood
+e: most transitive verbs govern the accusative case in German
+fs: 11
+hypo: ask
+
+w: gravitate drf noun.cognition:gravitation
+d: be attracted to
+e: Boys gravitate towards girls at that age
+fs: 4 22
+hypo: be 3
+
+w: gravitate 1 drf noun.cognition:gravitation
+d: move toward
+e: The conversation gravitated towards politics
+fs: 4
+hypo: be_given
+
+w: hang
+d: be menacing, burdensome, or oppressive
+e: This worry hangs on my mind
+e: The cloud of suspicion hangs over her
+fs: 4
+hyper: brood 1
+hypo: be 3
+
+w: hang 1
+d: be exhibited
+e: Picasso hangs in this new wing of the museum
+fs: 22 2 1 4
+vg: verb.contact:hang 3
+
+w: hang_by_a_hair
+w: hang_by_a_thread
+d: depend on a small thing or be at risk
+e: His life now hangs by a thread
+fs: 2
+hypo: depend
+
+w: hang_together
+w: interdepend drf adjs.all:interdependent drf noun.relation:interdependence drf noun.relation:interdependency
+d: be connected
+e: In my heart I can make the world hang together
+fs: 1
+hypo: verb.contact:connect
+
+w: harbor drf noun.artifact:harbor drf noun.location:harborage
+w: harbour drf noun.artifact:harbour drf noun.location:harbourage
+d: secretly shelter (as of fugitives or criminals)
+fs: 9 8
+hypo: shelter
+
+w: have 12
+d: be confronted with
+e: What do we have here?
+e: Now we have a fine mess
+fs: 8
+
+w: have_it_coming
+d: deserve (either good or bad)
+e: It's too bad he got fired, but he sure had it coming
+fs: 2
+hypo: deserve
+
+w: head drf noun.communication:header drf noun.communication:heading drf noun.location:head drf noun.location:head 2
+d: be in the front of or on top of
+e: The list was headed by the name of the president
+fs: 8 11
+hyper: crown
+hyper: surmount
+hypo: lie
+
+w: head 1 drf noun.group:head drf noun.location:head 2 drf noun.person:head
+w: head_up
+d: be the first or leading member of (a group) and excel
+e: This student heads the class
+fs: 8 9
+hypo: be 3
+vg: verb.motion:head 2
+
+w: head 4
+d: form a head or come or grow to a head
+e: The wheat headed early this year
+fs: 1
+hypo: verb.change:form 5
+
+w: head 5
+d: take its rise
+e: These rivers head from a mountain range in the Himalayas
+fs: 4
+hypo: arise
+
+w: help 8
+w: help_oneself
+d: abstain from doing; always used with a negative
+e: I can't help myself--I have to smoke
+e: She could not help watching the sad spectacle
+fs: 33 2
+hypo: forbear
+
+w: herd drf noun.group:herd drf noun.group:herd 1 drf noun.person:herder
+d: keep, move, or drive animals
+e: Who will be herding the cattle when the cowboy dies?
+fs: 8
+hyper: wrangle
+hypo: keep 12
+
+w: hesitate drf adjs.all:hesitant drf noun.attribute:hesitancy drf noun.attribute:hesitation 1 drf noun.cognition:hesitation drf noun.person:hesitater drf noun.person:hesitator
+w: waffle drf noun.person:waffler
+w: waver drf noun.act:waver 1 drf noun.cognition:wavering drf noun.person:waverer
+d: pause or hold back in uncertainty or unwillingness
+e: Authorities hesitate to quote exact figures
+fs: 29 28 2
+entail: verb.cognition:doubt 1
+hyper: boggle
+hyper: dwell_on
+hyper: falter
+hyper: hover
+hyper: hover 1
+
+w: hesitate 1 drf noun.act:hesitation drf noun.person:hesitater
+w: pause drf noun.act:pause drf noun.time:pause
+d: interrupt temporarily an activity before continuing
+e: The speaker paused
+fs: 2 29
+hyper: verb.communication:hem_and_haw
+hyper: scruple
+hypo: delay
+
+w: hold see verb.change:hold_up see verb.competition:hold_back see verb.competition:hold_out see hold_out see hold_over
+w: keep see verb.change:keep_apart see verb.change:keep_down see verb.communication:keep_off see verb.competition:keep_up see verb.consumption:keep_off see verb.social:keep_in see verb.social:keep_out see keep_up
+w: maintain drf adjs.all:maintainable drf noun.person:maintainer
+d: keep in a certain state, position, or activity; e.g., "keep clean"
+e: hold in place
+e: She always held herself as a lady
+e: The students keep me on my toes
+fs: 21 20 5
+hyper: verb.change:pressurise 1
+hyper: bear_on 1
+hyper: conserve
+hyper: distance
+hyper: hold_over
+hyper: housekeep
+hyper: preserve 7
+
+w: hold 1
+d: remain in a certain state, position, or condition
+e: The weather held
+e: They held on the road and kept marching
+fs: 1 22
+hypo: continue 1
+
+w: hold 2
+w: obtain
+w: prevail 1
+d: be valid, applicable, or true
+e: This theory still holds
+fs: 1
+hypo: be
+
+w: hold 7
+d: have as a major characteristic
+e: The novel holds many surprises
+e: The book holds in store much valuable advise
+fs: 11
+hypo: be 3
+
+w: hold 12 drf noun.time:hold
+d: stop dealing with
+e: hold all calls to the President's office while he is in a meeting
+fs: 11
+hypo: defer
+
+w: hold_back
+w: hold_off
+w: wait 1 drf noun.person:waiter 1 drf noun.time:wait
+d: wait before acting
+e: the scientists held off announcing their results until they repeated the experiment
+fs: 8 2 33
+hyper: delay
+hyper: hold_out 2
+hypo: verb.social:act
+
+w: hold_one's_own
+d: be sufficiently competent in a certain situation
+e: He can hold his own in graduate school
+fs: 2
+
+w: hold_out 2 drf noun.communication:holdout drf noun.person:holdout
+d: wait uncompromisingly for something desirable
+e: He held out for the dessert and did not touch the cheeses
+fs: 22 2
+hypo: hold_back
+
+w: hold_over drf noun.act:holdover
+d: keep in a position or state from an earlier period of time
+fs: 8
+hypo: hold
+
+w: hold_over 1 drf noun.person:holdover
+d: continue a term of office past the normal period of time
+fs: 2
+hypo: continue 10
+
+w: hold_up 1
+w: hold_water
+w: stand_up
+d: resist or withstand wear, criticism, etc.
+e: Her shoes won't hold up
+e: This theory won't hold water
+fs: 1
+hypo: endure
+
+w: holiday drf noun.time:holiday
+w: vacation drf noun.act:vacationing drf noun.person:vacationer drf noun.person:vacationist drf noun.time:vacation
+d: spend or take a vacation
+fs: 22 2
+hyper: honeymoon
+hypo: pass
+
+w: homologize drf noun.attribute:homology
+d: be homologous
+e: A person's arms homologize with a quadruped's forelimbs
+fs: 11
+hypo: agree
+
+w: honeymoon drf noun.person:honeymooner drf noun.time:honeymoon
+d: spend a holiday after one's marriage
+e: they plan to honeymoon in Hawai'i
+fs: 2 22
+hypo: holiday
+
+w: hoodoo drf noun.artifact:hoodoo drf noun.artifact:hoodoo 2 drf noun.person:hoodoo
+d: bring bad luck; be a source of misfortune
+fs: 1 2
+hypo: be 3
+
+w: house 2 drf noun.artifact:housing 1
+d: contain or cover
+e: This box houses the gears
+fs: 10 11
+hypo: accommodate 3
+
+w: housekeep drf noun.act:housekeeping drf noun.person:housekeeper
+d: maintain a household; take care of all business related to a household
+fs: 2
+hypo: hold
+
+w: hover
+w: oscillate drf noun.process:oscillation
+w: vacillate drf adjs.all:vacillant drf noun.cognition:vacillation drf noun.person:vacillator
+w: vibrate 3
+d: be undecided about something; waver between conflicting positions or courses of action
+e: He oscillates between accepting the new position and retirement
+fs: 2
+hyper: shillyshally
+hypo: hesitate
+
+w: hover 1
+w: linger 1
+d: move to and fro
+e: The shy student lingered in the corner
+fs: 22
+hypo: hesitate
+
+w: hulk drf noun.person:hulk
+w: loom
+w: predominate 1 drf noun.attribute:predomination
+w: tower drf noun.shape:tower
+d: appear very large or occupy a commanding position
+e: The huge sculpture predominates over the fountain
+e: Large shadows loomed on the canyon wall
+fs: 4 1
+hypo: lift 1
+
+w: imbricate drf noun.artifact:imbrication
+d: overlap
+e: The roof tiles imbricate
+fs: 1
+hypo: overlap 1
+vg: imbricate 1
+
+w: imbricate 1 drf noun.artifact:imbrication
+d: place so as to overlap
+e: imbricate the roof tiles
+fs: 8
+hypo: verb.contact:lay 1
+vg: imbricate
+
+w: imitate
+d: appear like, as in behavior or appearance
+e: Life imitate art
+fs: 11 9
+hyper: ape
+hyper: emulate 1
+hyper: follow_suit
+hypo: resemble
+
+w: impend drf noun.state:impendence drf noun.state:impendency
+d: be imminent or about to happen
+e: Changes are impending
+fs: 1
+hypo: be 3
+
+w: implicate 1 drf noun.communication:implication drf noun.relation:implication
+d: bring into intimate and incriminating connection
+e: He is implicated in the scheme to defraud the government
+fs: 9 11 8 10
+hypo: affect
+
+w: imply 1 drf noun.cognition:implication 1
+w: involve drf noun.relation:involvement
+d: have as a necessary feature
+e: This decision involves many changes
+fs: 11
+hyper: carry 2
+hypo: feature
+
+w: imply 2 drf noun.communication:implication drf noun.relation:implication
+w: incriminate drf adjs.all:incriminatory drf noun.act:crime drf noun.act:crime 1 drf noun.communication:incrimination
+w: inculpate drf adj.all:inculpative drf adj.all:inculpatory drf noun.communication:inculpation
+d: suggest that someone is guilty
+fs: 10
+hypo: verb.communication:evoke 1
+
+w: include ant exclude
+d: have as a part, be made up out of
+e: The list includes the names of many famous writers
+fs: 11
+entail: feature
+hyper: attach_to
+hyper: bear 14
+hyper: comprehend
+hyper: comprise
+hyper: involve 2
+hyper: subsume
+
+w: incur drf noun.act:incurrence drf noun.act:incurring drf noun.act:incursion 2
+d: make oneself subject to; bring upon oneself; become liable to
+e: People who smoke incur a great danger to their health
+fs: 8
+hyper: run 2
+hypo: verb.perception:subject 3
+
+w: individuate drf noun.attribute:individuation drf noun.cognition:individuation
+d: give individual character to
+fs: 11 10
+hypo: characterise 1
+
+w: indwell drf noun.process:indweller
+d: to exist as an inner activating spirit, force, or principle
+fs: 11
+hypo: be
+
+w: infest
+d: live on or in a host, as of parasites
+fs: 4
+hypo: inhabit 2
+
+w: infest 2 drf noun.group:infestation drf noun.state:infestation
+w: invade drf noun.event:invasion
+w: overrun
+d: occupy in large numbers or live on a host
+e: the Kudzu plant infests much of the South and is spreading to the North
+fs: 11 4
+hypo: inhabit 2
+
+w: inhabit 2 drf noun.act:inhabitation
+d: be present in
+e: sweet memories inhabit this house
+fs: 8
+hyper: infest
+hyper: infest 2
+hypo: be 5
+
+w: inhere drf adjs.all:inherent drf adjs.all:inherent 1 drf noun.state:inherence
+d: be inherent in something
+fs: 4
+hypo: belong 6
+
+w: intercommunicate
+d: be interconnected, afford passage
+e: These rooms intercommunicate
+fs: 1
+hyper: verb.contact:communicate
+hypo: complect
+
+w: interest drf noun.attribute:interest 2
+w: matter_to
+d: be of importance or consequence
+e: This matters to me!
+fs: 10 11
+hyper: fascinate
+hypo: bear_on
+
+w: interrelate drf noun.relation:interrelation
+w: relate 1 fs 4 drf noun.Tops:relation drf noun.act:relation
+d: be in a relationship with
+e: How are these two observations related?
+fs: 2 1
+hyper: verb.communication:predicate 2
+hyper: verb.social:tutor
+hyper: tie_in
+hypo: be 3
+vg: verb.cognition:interrelate
+
+w: intervene
+d: be placed or located between other things or extend between spaces and events
+e: This interludes intervenes between the two movements
+e: Eight days intervened
+fs: 1 4
+hypo: lie
+
+w: involve 2
+d: contain as a part
+e: Dinner at Joe's always involves at least six courses
+fs: 11
+hypo: include
+
+w: involve 4 drf noun.act:involution 2 drf noun.act:involvement drf noun.state:involvement 1
+d: engage as a participant
+e: Don't involve me in your family affairs!
+fs: 20 9
+hyper: drag
+hyper: entangle
+hypo: verb.social:admit
+
+w: iridesce drf adjs.all:iridescent drf adjs.all:iridescent 1 drf noun.attribute:iridescence
+d: be iridescent
+e: The corals iridesced under the surface of the clear water
+fs: 1
+hyper: opalesce
+hypo: be 3
+
+w: jog
+w: ramble drf noun.person:rambler 1
+w: ramble_on
+d: continue talking or writing in a desultory manner
+e: This novel rambles on and jogs
+fs: 1 2
+hypo: verb.communication:carry_on
+
+w: joint drf noun.artifact:joint 1 drf noun.shape:joint
+d: fit as if by joints
+e: The boards fit neatly
+fs: 1
+hypo: fit 2
+
+w: jumble drf noun.cognition:jumble drf noun.state:jumble
+w: mingle
+d: be all mixed up or jumbled together
+e: His words jumbled
+fs: 4 1
+hypo: be 3
+
+w: jump
+w: jump_out
+w: leap_out
+w: stand_out 2
+w: stick_out 2
+d: be highly noticeable
+fs: 1 34 4
+hypo: verb.perception:appear
+
+w: jut drf noun.act:jutting
+w: jut_out
+w: project drf noun.act:projection 2
+w: protrude drf adj.all:protrusive drf adjs.all:protrusible drf noun.act:protrusion
+w: stick_out 1
+d: extend out or project in space
+e: His sharp nose jutted out
+e: A single rock sticks out from the cliff
+fs: 1 4
+hyper: bag
+hyper: cantilever
+hyper: overhang 1
+hyper: push_up
+hyper: spear
+
+w: keep 1
+d: supply with room and board
+e: He is keeping three women in the guest cottage
+e: keep boarders
+fs: 8 9
+hypo: accommodate 1
+
+w: keep 2
+w: preserve 1 drf noun.act:preservation drf noun.location:preserve drf noun.person:preserver 1
+d: maintain in safety from injury, harm, or danger
+e: May God keep you
+fs: 9
+hypo: verb.competition:protect
+vg: verb.possession:keep 1
+
+w: keep 3
+w: stay_fresh
+d: fail to spoil or rot
+e: These potatoes keep for a long time
+fs: 1
+hypo: verb.change:remain
+vg: verb.change:keep 10
+
+w: keep 12
+d: raise
+e: She keeps a few chickens in the yard
+e: he keeps bees
+fs: 8
+hyper: herd
+hypo: verb.creation:farm
+
+w: keep_going 2
+w: run_on
+d: continue uninterrupted
+e: The disease will run on unchecked
+e: The party kept going until 4 A.M.
+fs: 1 2
+hypo: continue 1
+vg: verb.communication:keep_going
+
+w: keep_one's_distance
+w: keep_one's_eyes_off
+w: keep_one's_hands_off
+w: stand_back
+w: stay_away
+d: stay clear of, avoid
+e: Keep your hands off my wife!
+e: Keep your distance from this man--he is dangerous
+fs: 2 22
+hypo: be 5
+
+w: keep_up
+w: prolong drf noun.act:prolongation drf noun.attribute:prolongation 1
+w: sustain 1 drf adj.pert:sustainable drf noun.act:sustenance drf noun.person:sustainer
+d: lengthen or extend in duration or space
+e: We sustained the diplomatic negotiations as long as possible
+e: prolong the treatment of the patient
+e: keep up the good work
+fs: 11 8
+hyper: verb.social:continue
+hypo: bear_on 1
+
+w: kick_about
+w: kick_around
+w: knock_about
+d: be around; be alive or active
+e: Does the old man still kick around?
+fs: 2 1
+hypo: be
+
+w: kick_in
+w: set_in
+d: enter a particular state
+e: Laziness set in
+e: After a few moments, the effects of the drug kicked in
+fs: 1
+hypo: begin
+
+w: kill drf noun.act:kill
+d: be fatal
+e: cigarettes kill
+e: drunken driving kills
+fs: 1
+hypo: be 3
+
+w: knock_back
+w: put_back
+w: set_back
+d: cost a certain amount
+e: My daughter's wedding set me back $20,000
+fs: 10
+hypo: be 9
+
+w: lack drf noun.state:lack
+w: miss ant have
+d: be without
+e: This soup lacks salt
+e: There is something missing in my jewelry box!
+fs: 8 11
+hyper: exclude
+hyper: want 1
+
+w: lap drf noun.artifact:lap
+d: lie partly over or alongside of something or of one another
+fs: 4
+hypo: lie
+
+w: last_out
+w: outride
+w: ride_out
+w: stay 3 drf noun.animal:stayer
+d: hang on during a trial of endurance
+e: ride out the storm
+fs: 8
+hyper: outstay 1
+
+w: lay_over drf noun.act:layover
+w: stop_over drf noun.act:stopover
+d: interrupt a journey temporarily, e.g., overnight
+e: We had to stop over in Venezuela on our flight back from Brazil
+fs: 1 2
+hypo: verb.motion:stop 2
+
+w: lead 1 fs 10 11 8 9
+w: top 11 drf noun.person:topper 2 drf noun.state:top
+d: be ahead of others; be the first
+e: she topped her class every year
+fs: 22 2
+entail: verb.competition:compete
+
+w: lead 2
+w: run 8
+d: cause something to pass or lead somewhere
+e: Run the wire behind the cabinet
+fs: 21
+hypo: verb.motion:make_pass
+vg: verb.contact:draw 13
+vg: range 1
+
+w: lead 4
+w: leave
+w: result 2 drf adjs.all:resultant drf noun.event:resultant drf noun.phenomenon:result
+d: have as a result or residue
+e: The water left a mark on the silk dress
+e: Her blood left a stain on the napkin
+fs: 11
+hyper: lead 12
+hypo: verb.creation:bring_about 3
+vg: leave 2
+vg: leave 3
+
+w: lead 12
+d: tend to or result in
+e: This remark lead to further arguments among the guests
+fs: 4
+hyper: entail
+hyper: necessitate 1
+hypo: lead 4
+
+w: leave 2
+d: act or be so as to become in a specified state
+e: The inflation left them penniless
+e: The president's remarks left us speechless
+fs: 10 5
+hypo: verb.change:get 1
+vg: lead 4
+
+w: leave 3
+d: have left or have as a remainder
+e: That left the four of us
+e: 19 minus 8 leaves 11
+fs: 11 10
+hypo: verb.possession:have 1
+vg: verb.change:leave 2
+vg: lead 4
+
+w: leave_off
+d: come to an end, stop or cease
+e: the road leaves off at the edge of the forest
+e: leave off where you started
+fs: 4
+hypo: discontinue 1
+
+w: lend
+d: have certain characteristics of qualities for something; be open or vulnerable to
+e: This story would lend itself well to serialization on television
+e: The current system lends itself to great abuse
+fs: 21 20
+hypo: be 3
+
+w: let_go
+d: be relaxed
+e: Don't be so worried all the time--just let go!
+fs: 2
+hypo: be 3
+
+w: librate
+w: weigh drf noun.person:weigher
+d: determine the weight of
+e: The butcher weighed the chicken
+fs: 9 8 11
+hyper: verb.contact:heft 1
+hypo: verb.change:measure
+vg: weigh 1
+
+w: lie drf noun.location:lie
+d: be located or situated somewhere; occupy a certain position
+fs: 4 1
+hyper: back
+hyper: cap
+hyper: command
+hyper: face
+hyper: flank
+hyper: focalise
+hyper: head
+hyper: intervene
+hyper: lap
+hyper: line
+hyper: look_across
+hyper: mediate
+hyper: nestle
+hyper: orient
+hyper: precede 1
+hyper: ride 2
+hyper: slant
+hyper: top 2
+hyper: underlie 1
+hypo: be 5
+vg: lie 2
+
+w: lie 2 drf noun.location:lie
+w: rest
+d: have a place in relation to something else
+e: The fate of Bosnia lies in the hands of the West
+e: The responsibility rests with the Allies
+fs: 11
+hypo: be 5
+vg: lie
+
+w: lie 3 drf noun.location:lie
+d: be and remain in a particular state or condition
+e: lie dormant
+fs: 6 7
+hypo: be 3
+
+w: lie_about
+w: lie_around
+d: hang around idly
+e: She did all the work while he lay around
+fs: 2 22
+hypo: verb.social:idle
+
+w: lift 1
+w: rear
+w: rise drf noun.attribute:rise 1
+d: rise up
+e: The building rose before them
+fs: 1 4
+hyper: hulk
+hypo: verb.perception:appear
+
+w: line drf noun.group:line 1
+w: run_along
+d: be in line with; form a line along
+e: trees line the riverbank
+fs: 11
+hyper: rim
+hypo: lie
+
+w: line_up
+d: form a line
+e: The buildings all line up neatly
+fs: 4 2 22 1
+hypo: verb.contact:arrange
+
+w: linger 2
+d: remain present although waning or gradually dying
+e: Her perfume lingered on
+fs: 1 4
+hypo: persist 1
+
+w: litter drf noun.person:litterer drf noun.substance:litter
+d: strew
+e: Cigar butts littered the ground
+fs: 11
+hypo: be 3
+
+w: live 6 drf noun.cognition:living drf noun.person:liver 1
+d: lead a certain kind of life; live in a certain style
+e: we had to live frugally after the war
+fs: 22
+entail: be
+hyper: verb.social:move 2
+hyper: bach
+hyper: buccaneer
+hyper: bushwhack
+hyper: cash_out
+hyper: dissipate 4
+hyper: eke_out
+hyper: live_down
+hyper: pig
+hyper: swing 1
+hyper: vegetate
+hyper: wanton 1
+vg: live 7
+
+w: live 7
+d: pursue a positive and satisfying existence
+e: You must accept yourself and others if you really want to live
+fs: 2
+vg: live 6
+
+w: live_down
+w: unlive
+d: live so as to annul some previous behavior
+e: You can never live this down!
+fs: 8
+hypo: live 6
+
+w: live_out
+d: live out one's life; live to the end
+fs: 8
+hypo: endure
+
+w: localise 1 drf noun.act:localisation
+w: localize 1 drf noun.act:localization drf noun.location:locale
+w: place drf noun.attribute:placement
+d: identify the location or place of
+e: We localized the source of the infection
+fs: 8
+hypo: locate
+
+w: locate drf noun.Tops:location drf noun.act:location 1 drf noun.person:locater drf noun.person:locator
+w: situate drf noun.location:situation
+d: determine or indicate the place, site, or limits of, as if by an instrument or by a survey
+e: Our sense of sight enables us to locate objects in space
+e: Locate the boundaries of the property
+fs: 8
+hyper: acquire
+hyper: base 4
+hyper: localise 1
+hyper: map
+hyper: radiolocate
+hypo: verb.communication:ascertain 1
+
+w: lodge 2 drf noun.act:lodging drf noun.artifact:lodge 1 drf noun.artifact:lodge 2 drf noun.artifact:lodgings drf noun.person:lodger
+d: be a lodger; stay temporarily
+e: Where are you lodging in Paris?
+fs: 22
+hyper: sleep_over
+hypo: dwell
+
+w: lodge_in
+w: occupy drf noun.act:occupancy drf noun.act:occupation 1 drf noun.person:occupant drf noun.person:occupier
+w: reside 1 drf adj.all:resident drf noun.act:residence drf noun.act:residency drf noun.person:resident
+d: live (in a certain place)
+e: She resides in Princeton
+e: he occupies two rooms on the top floor
+fs: 11 8
+hyper: verb.motion:move_in 2
+hyper: crash
+hyper: squat
+hyper: stay_at 1
+hypo: dwell
+
+w: look 2
+d: accord in appearance with
+e: You don't look your age!
+fs: 8 11
+hypo: agree
+
+w: look_across
+w: look_out_on
+w: look_out_over
+w: overlook 1 drf noun.location:overlook
+d: be oriented in a certain direction
+e: The house looks out on a tennis court
+e: The apartment overlooks the Hudson
+fs: 11
+hypo: lie
+
+w: look_like
+d: bear a physical resemblance to
+e: She looks like her mother
+fs: 9 11 8 10
+hypo: resemble
+
+w: loom 2
+d: come into view indistinctly, often threateningly
+e: Another air plane loomed into the sky
+fs: 4 1
+hypo: verb.perception:appear
+
+w: lubricate drf noun.state:lubrication drf noun.substance:lubricant drf noun.substance:lubricator
+d: have lubricating properties
+e: the liquid in this can lubricates well
+fs: 1
+hypo: be 3
+
+w: lurch
+w: prowl drf noun.act:prowl
+d: loiter about, with no apparent aim
+fs: 22 2
+hypo: footle
+
+w: lurk 1 drf noun.person:lurker
+w: skulk drf noun.person:skulker
+d: lie in wait, lie in ambush, behave in a sneaky and secretive manner
+fs: 22
+hypo: verb.perception:conceal 1
+
+w: make
+d: be or be capable of being changed or made into
+e: He makes a great host
+e: He will make a fine father
+fs: 11 9
+hypo: become
+
+w: make 9 drf noun.act:making drf noun.artifact:making
+d: undergo fabrication or creation
+e: This wool makes into a nice sweater
+fs: 4
+hypo: verb.change:change
+
+w: make 11
+d: amount to
+e: This salary increase makes no difference to my standard of living
+fs: 11
+hypo: amount 3
+vg: make 12
+
+w: make 12
+d: add up to
+e: four and four make eight
+fs: 11
+hypo: add_up 3
+mt: noun.cognition:arithmetic
+vg: verb.social:make 1
+vg: make 11
+
+w: make 13 drf noun.artifact:making
+d: be suitable for
+e: Wood makes good furniture
+fs: 9 11
+hypo: be 3
+
+w: make 15
+d: constitute the essence of
+e: Clothes make the man
+fs: 10
+hypo: be 2
+
+w: map drf noun.act:mapping
+d: locate within a specific region of a chromosome in relation to known DNA or gene sequences
+e: map the genes
+fs: 8
+hypo: locate
+
+w: mean 3
+d: have a specified degree of importance
+e: My ex-husband means nothing to me
+e: Happiness means everything
+fs: 11 8
+
+w: measure drf noun.act:measure drf noun.artifact:measure see measure_up
+d: have certain dimensions
+e: This table surfaces measures 20inches by 36 inches
+fs: 11
+hyper: endure 6
+hyper: scale
+hyper: stand 1
+hyper: weigh 1
+hypo: be 3
+
+w: measure_up
+w: qualify drf noun.act:qualifying drf noun.attribute:qualification drf noun.attribute:quality 2 drf noun.person:qualifier drf noun.state:quality
+d: prove capable or fit; meet requirements
+fs: 1 2
+hypo: answer 2
+
+w: mediate
+d: occupy an intermediate or middle position or form a connecting link or stage between two others
+e: mediate between the old and the new
+fs: 1
+hypo: lie
+
+w: miscegenate drf noun.act:miscegenation
+d: marry or cohabit with a person of another race
+fs: 2
+hypo: cohabit
+
+w: miss 1 ant attend
+d: fail to attend an event or activity
+e: I missed the concert
+e: He missed school for a week
+fs: 8
+hyper: cut
+hypo: verb.social:fail 2
+
+w: miss 2
+d: be absent
+e: The child had been missing for a week
+fs: 2 1
+
+w: misspend
+d: spend time badly or unwisely
+e: He misspent his youth
+fs: 8
+hypo: verb.possession:drop
+
+w: mummify drf noun.state:mummification
+d: preserve while making lifeless
+e: mummified ideas and institutions should be gotten rid of
+fs: 8
+hypo: bear_on 1
+
+w: necessitate 1
+d: cause to be a concomitant
+fs: 11
+hyper: entail 1
+hypo: lead 12
+
+w: neighbor drf noun.object:neighbor
+w: neighbour drf noun.object:neighbour
+d: be located near or adjacent to
+e: Pakistan neighbors India
+fs: 11
+hypo: verb.contact:abut
+
+w: neighbor 1 drf noun.person:neighbor
+w: neighbour 1 drf noun.person:neighbour
+d: live or be located as a neighbor
+e: the neighboring house
+fs: 2
+hypo: dwell
+
+w: nest drf noun.animal:nester drf noun.object:nest
+d: inhabit a nest, usually after building
+e: birds are nesting outside my window every Spring
+fs: 1
+hypo: dwell
+
+w: nestle
+d: lie in a sheltered position
+e: The little cottage nestles in the forest
+fs: 4
+hypo: lie
+
+w: nucleate drf noun.body:nucleus
+d: form into a nucleus
+e: Some cells had nucleated
+fs: 1
+hypo: become 1
+
+w: object drf noun.act:objection 1
+d: be averse to or express disapproval of
+e: My wife objects to modern furniture
+fs: 22 4
+hypo: be 3
+
+w: occur 3
+d: to be found to exist
+e: sexism occurs in many workplaces
+e: precious stones occur in a large area in Brazil
+fs: 4
+hyper: verb.contact:geminate 1
+hyper: abound_in
+hyper: collocate
+hyper: run 6
+hypo: verb.change:appear 2
+
+w: offer drf noun.act:offering drf noun.communication:offer 1
+w: offer_up
+d: present as an act of worship
+e: offer prayers to the gods
+fs: 8
+hyper: verb.possession:sacrifice 1
+hypo: worship
+
+w: opalesce drf adjs.all:opalescent drf noun.attribute:opalescence
+d: exhibit a play of colors like that of an opal
+e: This nitrate opalesces under certain conditions
+fs: 1
+hypo: iridesce
+
+w: open drf noun.artifact:opening 1 drf noun.body:opening drf noun.object:opening
+d: have an opening or passage or outlet
+e: The bedrooms open into the hall
+fs: 4
+
+w: orient
+w: point drf noun.artifact:pointer drf noun.communication:pointer
+d: be oriented
+e: The weather vane points North
+e: the dancers toes pointed outward
+fs: 4
+hypo: lie
+
+w: orient 1
+d: cause to point
+e: Orient the house towards the West
+fs: 21
+cause: orient
+hyper: stem 3
+hypo: verb.motion:position
+
+w: originate 2 drf noun.event:origin drf noun.event:origination drf noun.location:origin
+d: begin a trip at a certain point, as of a plane, train, bus, etc.
+e: The flight originates in Calcutta
+fs: 4
+hypo: begin
+
+w: originate_in
+d: come from
+fs: 11 10
+hyper: stem
+
+w: ornament drf noun.state:ornamentation
+d: be an ornament to
+e: stars ornamented the Christmas tree
+fs: 11
+hypo: adorn
+vg: verb.creation:adorn
+
+w: osculate drf noun.state:osculation
+d: have at least three points in common with
+e: one curve osculates the other
+e: these two surfaces osculate
+fs: 11 1
+hypo: share
+mt: noun.cognition:math
+
+w: osculate 3
+d: be intermediate between two taxonomic groups
+e: These species osculate
+fs: 1
+hypo: be 3
+
+w: outbalance
+w: outweigh
+w: overbalance
+w: preponderate drf adjs.all:preponderant drf noun.attribute:preponderance drf noun.attribute:preponderance 1 drf noun.attribute:preponderance 2
+d: weigh more heavily
+e: these considerations outweigh our wishes
+fs: 1
+hypo: dominate
+
+w: outlast
+w: outlive
+w: survive 3 drf noun.person:survivor 2
+d: live longer than
+e: She outlived her husband by many years
+fs: 8 9 11 10
+entail: be 1
+
+w: outnumber
+d: be larger in number
+fs: 8 11 9
+hypo: add_up 3
+
+w: outrank fs 9
+w: rank
+d: take precedence or surpass others in rank
+fs: 2
+hypo: excel
+
+w: outstay
+w: overstay
+d: stay too long
+e: overstay or outstay one's welcome
+fs: 8
+hypo: abide 1
+
+w: outstay 1
+d: surpass in staying power
+e: They outstayed their competitors
+fs: 11 9
+hypo: last_out
+
+w: outwear
+d: last longer than others
+e: This material outwears all others
+fs: 11
+hypo: verb.competition:exceed
+
+w: overarch
+d: be central or dominant
+e: This scene overarches the entire first act
+fs: 11
+hypo: dominate
+
+w: overbear
+d: overcome
+e: overbear criticism, protest, or arguments
+fs: 8 9
+hypo: dominate 1
+
+w: overgrow 2
+d: grow too large
+fs: 1
+hypo: exceed 1
+
+w: overhang 1 drf noun.artifact:overhang
+d: project over
+fs: 4 1
+hypo: jut
+
+w: overlap 1 drf noun.artifact:overlap drf noun.artifact:overlapping
+d: extend over and cover a part of
+e: The roofs of the houses overlap in this crowded city
+fs: 1 8
+hyper: imbricate
+hypo: continue 6
+
+w: overlap 3 drf noun.attribute:overlap drf noun.cognition:overlap
+d: coincide partially or wholly
+e: Our vacations overlap
+fs: 8 4 1
+hyper: share
+hypo: co-occur
+
+w: overpopulate drf noun.group:overpopulation
+d: cause to have too great a population
+e: Some towns in New Jersey are becoming overpopulated
+fs: 22
+hypo: dwell
+
+w: override 3 drf noun.act:override
+d: prevail over
+e: health considerations override financial concerns
+fs: 11
+hypo: dominate
+
+w: overspread
+w: spread drf noun.act:spread drf noun.attribute:spread drf noun.event:spread drf noun.event:spreading
+d: spread across or over
+e: A big oil spot spread across the water
+fs: 11
+hyper: transgress
+hypo: continue 6
+
+w: overwinter
+w: winter drf noun.time:winter
+d: spend the winter
+e: We wintered on the Riviera
+e: Shackleton's men overwintered on Elephant Island
+fs: 2 22
+hypo: pass
+
+w: owe
+d: be indebted to, in an abstract or intellectual sense
+e: This new theory owes much to Einstein's Relativity Theory
+fs: 21 15
+hypo: build_on
+
+w: parallel drf noun.attribute:parallel
+d: be parallel to
+e: Their roles are paralleled by ours
+fs: 11
+hypo: agree
+
+w: partake
+d: have some of the qualities or attributes of something
+fs: 11
+hypo: share
+
+w: pass
+w: spend
+d: pass time in a specific way
+e: how are you spending your summer vacation?
+fs: 8
+hyper: verb.competition:soldier
+hyper: verb.social:slum
+hyper: do 2
+hyper: get_through
+hyper: holiday
+hyper: overwinter
+hyper: sojourn
+hyper: summer
+hyper: weekend
+
+w: pattern drf noun.act:pattern drf noun.cognition:pattern drf noun.location:pattern
+d: form a pattern
+e: These sentences pattern like the ones we studied before
+fs: 4 1
+hypo: agree
+
+w: pay
+d: be worth it
+e: It pays to go through the trouble
+fs: 34
+hypo: be 3
+
+w: people drf noun.group:people drf noun.group:people 1 drf noun.group:people 3
+d: furnish with people
+e: The plains are sparsely populated
+fs: 22
+hypo: dwell
+
+w: perennate drf noun.plant:perennial drf noun.process:perennation
+d: survive from season to season, of plants
+fs: 1
+hypo: endure
+
+w: perpetuate drf noun.act:perpetuation
+d: cause to continue or prevail
+e: perpetuate a myth
+fs: 8
+hyper: eternize
+hypo: bear_on 1
+
+w: persist 1 drf adj.all:persistent
+w: remain 1
+w: stay 4
+d: stay behind
+e: The smell stayed in the room
+e: The hostility remained long after they made up
+fs: 4 1
+hyper: linger 2
+hyper: stick 4
+
+w: phosphoresce drf adjs.all:phosphorescent drf noun.phenomenon:phosphorescence
+d: to exhibit phosphorescence
+fs: 11
+hypo: exhibit
+
+w: photograph drf noun.artifact:photograph
+d: undergo being photographed in a certain way
+e: Children photograph well
+fs: 2 1
+
+w: piddle
+w: piddle_away
+w: trifle drf noun.act:trifling
+w: wanton
+w: wanton_away
+d: waste time; spend one's time idly or inefficiently
+fs: 2
+hypo: verb.possession:drop
+
+w: pig drf noun.animal:pig drf noun.person:pig
+w: pig_it
+d: live like a pig, in squalor
+fs: 2 22
+hypo: live 6
+
+w: pinnacle drf noun.artifact:pinnacle
+d: surmount with a pinnacle
+e: pinnacle a pediment
+fs: 11
+hypo: surmount
+
+w: play
+d: be received or accepted or interpreted in a specific way
+e: This speech didn't play well with the American public
+e: His remarks played to the suspicions of the committee
+fs: 2
+
+w: pose
+w: present
+d: introduce
+e: This poses an interesting question
+fs: 11
+hypo: be 2
+
+w: possess
+d: have as an attribute, knowledge, or skill
+e: he possesses great knowledge about the Middle East
+fs: 8 11
+hyper: exhibit
+hypo: feature
+
+w: possess 2
+d: enter into and control, as of emotions or ideas
+e: What possessed you to buy this house?
+e: A terrible rage possessed her
+fs: 10
+hypo: dominate 1
+
+w: precede 1 drf adjs.all:precedent drf noun.act:precession drf noun.communication:precedent 2
+w: predate 1
+d: come before
+e: Most English adjectives precede the noun they modify
+fs: 11
+hypo: lie
+
+w: preexist drf adjs.all:pre-existent drf adjs.all:preexistent drf noun.state:preexistence
+d: exist beforehand or prior to a certain point in time
+e: Did this condition pre-exist?
+fs: 1
+hypo: be
+
+w: prelude drf noun.event:prelude
+d: serve as a prelude or opening to
+fs: 11
+hypo: function 12
+
+w: preserve 7
+d: keep undisturbed for personal or private use for hunting, shooting, or fishing
+e: preserve the forest and the lakes
+fs: 8
+hypo: hold
+
+w: press drf noun.state:pressure
+d: be urgent
+e: This is a pressing problem
+fs: 1
+hypo: be 3
+
+w: press 1
+w: weigh 4
+d: to be oppressive or burdensome
+e: "weigh heavily on the mind", "Something pressed on his mind"
+fs: 4
+hypo: count
+
+w: probate drf noun.act:probation drf noun.time:probation
+d: put a convicted person on probation by suspending his sentence
+fs: 9
+hypo: defer
+
+w: procrastinate 1 drf noun.attribute:procrastination
+d: postpone or delay needlessly
+e: He procrastinated the matter until it was almost too late
+fs: 8 11
+hypo: delay
+hypo: dilly-dally
+
+w: promise drf noun.cognition:promise
+d: give grounds for expectations
+e: The new results were promising
+e: The results promised fame and glory
+fs: 11 8
+hypo: be 3
+
+w: protuberate drf adjs.all:protuberant drf noun.state:protuberance
+d: form a rounded prominence
+e: The starved child's belly protuberated
+fs: 1
+hypo: bag
+vg: protuberate 1
+
+w: protuberate 1 drf adjs.all:protuberant drf noun.shape:protuberance
+d: cause to bulge out or project
+fs: 11
+vg: protuberate
+
+w: prove
+w: turn_out
+w: turn_up 3
+d: be shown or be found to be
+e: She proved to be right
+e: The medicine turned out to save her life
+e: She turned up HIV positive
+fs: 34 7 28 6
+hyper: ensue
+hypo: be 3
+
+w: pullulate
+w: swarm drf noun.group:swarm drf noun.group:swarm 1
+w: teem fs 1 see teem_in
+d: be teeming, be abuzz
+e: The garden was swarming with bees
+e: The plaza is teeming with undercover policemen
+e: her mind pullulated with worries
+fs: 4
+hyper: crawl
+hypo: buzz
+
+w: push_up
+w: thrust drf noun.phenomenon:thrust
+d: push upward
+e: The front of the trains that had collided head-on thrust up into the air
+fs: 1 4
+hypo: jut
+vg: thrust 1
+
+w: put_out
+d: be sexually active
+e: She is supposed to put out
+fs: 2
+hypo: be 3
+
+w: radiate drf noun.act:radiation drf noun.body:radiation
+w: ray drf noun.shape:ray
+d: extend or spread outward from a center or focus or inward towards a center
+e: spokes radiate from the hub of the wheel
+e: This plants radiate spines in all directions
+fs: 1 8
+hypo: extend 3
+
+w: radiolocate drf noun.artifact:radiolocation
+d: locate by means of radar
+e: The pilot managed to radiolocate the lost aircraft
+fs: 11 8 10 9
+hypo: locate
+
+w: rage drf noun.state:rage 1
+d: be violent; as of fires and storms
+fs: 1
+hypo: be 3
+
+w: rage 1 drf noun.feeling:rage drf noun.state:rage
+w: ramp drf adjs.all:rampant 1 drf noun.act:rampage
+w: storm drf noun.state:storm
+d: behave violently, as if in state of a great anger
+fs: 2
+hypo: verb.body:act
+
+w: rail drf noun.artifact:rail drf noun.artifact:rail 2 drf noun.artifact:railing
+w: rail_in
+d: enclose with rails
+e: rail in the old graves
+fs: 8 11
+hypo: confine
+
+w: rake 10
+d: sweep the length of
+e: The gunfire raked the coast
+fs: 8
+hyper: enfilade
+hypo: sweep 10
+
+w: range drf noun.attribute:range
+w: straddle 2
+d: range or extend over; occupy a certain area
+e: The plants straddle the entire state
+fs: 11
+hyper: spread-eagle
+hypo: be 2
+
+w: range 1 drf noun.attribute:range drf noun.group:range drf noun.group:range 1 drf noun.location:range 1
+w: run 7
+d: change or be different within limits
+e: Estimates for the losses in the earthquake range as high as $2 billion
+e: Interest rates run from 5 to 10 percent
+e: The instruments ranged from tuba to cymbals
+e: My students range from very bright to dull
+fs: 11
+hypo: be 3
+vg: extend 3
+vg: lead 2
+
+w: range 3 drf noun.cognition:range drf noun.location:range 1
+d: have a range; be capable of projecting over a certain distance, as of a gun
+e: This gun ranges over two miles
+fs: 4
+hyper: carry 15
+
+w: rate 1 drf noun.state:rating
+d: be worthy of or have a certain rating
+e: This bond rates highly
+fs: 6 11
+hypo: be 3
+
+w: reach_into
+d: run into or up to
+fs: 11
+hypo: extend_to
+
+w: read drf noun.communication:read
+w: say
+d: have or contain a certain wording or form
+e: The passage reads as follows
+e: What does the law say?
+fs: 6 11
+hypo: feature
+vg: verb.cognition:read
+
+w: recognize
+d: exhibit recognition for (an antigen or a substrate)
+fs: 11
+hypo: be 3
+
+w: redefine drf noun.communication:redefinition
+d: give a new or different definition to
+e: She redefined his duties
+fs: 8
+hypo: define
+
+w: refuse 4
+w: reject 4
+w: resist 4 drf adjs.all:resistant
+d: resist immunologically the introduction of some foreign tissue or organ
+e: His body rejected the liver of the donor
+fs: 11
+hypo: verb.cognition:react
+
+w: reincarnate drf noun.person:reincarnation
+w: transmigrate drf noun.event:transmigration
+d: be born anew in another body after death
+e: Hindus believe that we transmigrate
+fs: 2
+hypo: verb.change:be_born
+mt: noun.cognition:faith
+
+w: relent
+w: soften
+w: yield ant stand
+d: give in, as to influence or pressure
+fs: 2 1
+hyper: truckle
+
+w: remain 5 drf noun.artifact:remainder drf noun.relation:remainder drf noun.relation:remnant
+d: be left; of persons, questions, problems, results, evidence, etc.
+e: There remains the question of who pulled the trigger
+e: Carter remains the only President in recent history under whose Presidency the U.S. did not fight a war
+fs: 1
+hypo: be 3
+
+w: remain_firm
+w: stand ant yield drf noun.cognition:stand
+d: hold one's ground; maintain a position; be steadfast or upright
+e: I am standing my ground and won't give in!
+fs: 1 2
+hypo: verb.competition:hold_out
+vg: verb.competition:fend
+
+w: repose 12
+w: reside 12
+w: rest 12
+d: be inherent or innate in;
+fs: 4
+hypo: attach_to
+
+w: reprieve drf noun.act:reprieve drf noun.communication:reprieve
+w: respite 1 drf noun.act:respite 1
+d: postpone the punishment of a convicted criminal, such as an execution
+fs: 9
+hypo: defer
+
+w: resemble drf noun.attribute:resemblance
+d: appear like; be similar or bear a likeness to
+e: She resembles her mother very much
+e: This paper resembles my own work
+fs: 10 9 11 8
+hyper: approximate
+hyper: come_to_life
+hyper: echo
+hyper: imitate
+hyper: look_like
+hyper: take_after
+hypo: agree
+
+w: resplend drf adjs.all:resplendent drf noun.attribute:resplendence drf noun.attribute:resplendency
+d: be resplendent or radiant; to shine brightly
+e: The Queen's garments resplended in velvet and jewels
+fs: 1
+hypo: verb.weather:reflect
+
+w: resurge drf adjs.all:resurgent drf noun.act:resurgence
+d: rise again
+e: His need for a meal resurged
+e: The candidate resurged after leaving politics for several years
+fs: 1
+hypo: arise
+
+w: retail drf noun.act:retail drf noun.act:retailing
+d: be sold at the retail level
+e: These gems retail at thousands of dollars each
+fs: 4
+hypo: sell
+mt: noun.act:commerce
+vg: verb.possession:retail
+
+w: retain drf adj.all:retentive
+d: hold back within
+e: This soil retains water
+e: I retain this drug for a long time
+e: the dam retains the water
+fs: 11 8
+hypo: bear 14
+
+w: retard drf noun.act:retardation drf noun.attribute:retardation drf noun.time:retardation
+d: be delayed
+fs: 1
+hypo: be 3
+
+w: reticulate drf noun.artifact:reticulation drf noun.body:reticulum
+d: form a net or a network
+fs: 1
+hypo: verb.change:change
+
+w: reverberate drf noun.phenomenon:reverberation
+d: have a long or continuing effect
+e: The discussions with my teacher reverberated throughout my adult life
+fs: 8
+hypo: die_hard
+
+w: rhyme drf noun.communication:rhyme
+w: rime drf noun.communication:rime
+d: be similar in sound, especially with respect to the last syllable
+e: hat and cat rhyme
+fs: 1
+hyper: assonate
+hypo: agree
+
+w: ride drf noun.act:ride
+d: continue undisturbed and without interference
+e: Let it ride
+fs: 1
+hypo: continue 1
+
+w: ride 2
+d: lie moored or anchored
+e: Ship rides at anchor
+fs: 4
+hypo: lie
+
+w: ride 4
+d: be sustained or supported or borne
+e: His glasses rode high on his nose
+e: The child rode on his mother's hips
+e: She rode a wave of popularity
+e: The brothers rode to an easy victory on their father's political name
+fs: 22
+hypo: verb.motion:float 4
+
+w: ridge drf noun.object:ridge drf noun.object:ridge 1
+d: extend in ridges
+e: The land ridges towards the South
+fs: 1
+hypo: continue 6
+
+w: rim
+d: run around the rim of
+e: Sugar rimmed the dessert plate
+fs: 11
+hyper: beard
+hypo: line
+
+w: roll drf noun.shape:roll
+w: undulate
+d: occur in soft rounded shapes
+e: The hills rolled past
+fs: 1 4
+
+w: root drf noun.location:root drf noun.location:rootage
+d: come into existence, originate
+e: The problem roots in her depression
+fs: 2 1
+hypo: become
+
+w: rule 1
+d: have an affinity with; of signs of the zodiac
+fs: 11
+hypo: accompany
+
+w: run 2
+d: be affected by; be subjected to
+e: run a temperature
+e: run a risk
+fs: 8
+hypo: incur
+
+w: run 5
+w: run_for
+d: extend or continue for a certain period of time
+e: The film runs 5 hours
+fs: 11
+hypo: endure 6
+
+w: run 6
+d: occur persistently
+e: Musical talent runs in the family
+fs: 4
+hypo: occur 3
+vg: die_hard
+
+w: rusticate drf noun.act:rustication drf noun.person:rustic drf noun.state:rustication
+d: live in the country and lead a rustic life
+fs: 2 22
+hypo: domicile
+
+w: rut drf noun.state:rut
+d: be in a state of sexual excitement; of male mammals
+fs: 1
+hypo: be 3
+
+w: scale drf noun.act:scalage drf noun.act:scaling 1 drf noun.artifact:scale 2
+d: measure by or as if by a scale
+e: This bike scales only 25 pounds
+fs: 11
+hypo: measure
+
+w: scan
+d: conform to a metrical pattern
+fs: 1
+hypo: conform 6
+mt: noun.communication:poesy 2
+
+w: scruple drf noun.cognition:scruple drf noun.feeling:scruple
+d: hesitate on moral grounds
+e: The man scrupled to perjure himself
+fs: 2
+hypo: hesitate 1
+
+w: seat drf noun.artifact:seat 1 drf noun.artifact:seating drf noun.location:seat 1
+d: be able to seat
+e: The theater seats 2,000
+fs: 11
+hypo: accommodate 3
+
+w: seem
+d: appear to exist
+e: There seems no reason to go ahead with the project now
+fs: 11
+hypo: be 3
+
+w: sell drf noun.act:sell drf noun.act:selling
+d: be sold at a certain price or in a certain way
+e: These books sell like hot cakes
+fs: 1 4
+hyper: retail
+hyper: trade
+hypo: be 3
+vg: verb.possession:deal
+vg: verb.possession:sell
+
+w: sell 13 drf noun.act:sell
+d: be responsible for the sale of
+e: All her publicity sold the products
+fs: 11
+hypo: be 3
+
+w: sell 14
+d: be approved of or gain acceptance
+e: The new idea sold well in certain circles
+fs: 1
+hypo: be 3
+
+w: serve 1
+d: contribute or conduce to
+e: The scandal served to increase his popularity
+fs: 28 4
+hyper: facilitate
+hypo: verb.creation:effect
+vg: serve 2
+
+w: serve 2 drf noun.state:servant
+w: serve_well
+d: promote, benefit, or be useful or beneficial to
+e: Art serves commerce
+e: Their interests are served
+e: The lake serves recreation
+e: The President's wisdom has served the country well
+fs: 10 11 8
+hypo: verb.communication:foster
+vg: serve 1
+
+w: share drf noun.relation:sharing
+d: have in common
+e: Our children share a love of music
+e: The two countries share a long border
+fs: 31 8 9 11
+hyper: osculate
+hyper: partake
+hypo: overlap 3
+
+w: shelter drf noun.artifact:shelter drf noun.artifact:shelter 1 drf noun.possession:shelter drf noun.state:shelter
+d: provide shelter for
+e: After the earthquake, the government could not provide shelter for the thousands of homeless people
+fs: 11 10 9 8
+hyper: verb.social:domiciliate
+hyper: verb.social:kennel
+hyper: verb.social:stable
+hyper: verb.social:stall
+hyper: harbor
+hypo: verb.possession:furnish
+
+w: shillyshally
+d: be uncertain and vague
+fs: 2
+hypo: hover
+
+w: shimmer drf noun.event:shimmer
+d: give off a shimmering reflection, as of silk
+fs: 1
+hypo: verb.perception:gleam 1
+
+w: shine 1
+d: be distinguished or eminent
+e: His talent shines
+fs: 2 1
+hypo: be 3
+
+w: shine 4
+d: be clear and obvious
+e: A shining example
+fs: 1
+hypo: be 3
+
+w: shore drf noun.object:shore
+d: serve as a shore to
+e: The river was shored by trees
+fs: 11
+hypo: border
+
+w: shroud 2 drf noun.artifact:shroud
+d: form a cover like a shroud
+e: Mist shrouded the castle
+fs: 11
+hypo: verb.contact:cover 1
+
+w: sit
+w: sit_around
+d: be around, often idly or without specific purpose
+e: The object sat in the corner
+e: We sat around chatting for another hour
+fs: 4 1
+hypo: be 5
+
+w: sit 5
+d: be located or situated somewhere
+e: The White House sits on Pennsylvania Avenue
+fs: 4
+hypo: be 5
+
+w: sit_in
+d: attend as a visitor
+e: Can I sit in on your Intermediate Hittite class?
+fs: 22
+hypo: attend
+
+w: sit_out
+d: not participate in (an activity, such as a dance or a sports event)
+e: He sat out the game
+fs: 8
+hypo: forbear
+mt: noun.act:athletics
+
+w: skirt
+d: form the edge of
+fs: 11
+hypo: border
+
+w: slant drf noun.attribute:slant
+d: lie obliquely
+e: A scar slanted across his face
+fs: 4
+hypo: lie
+
+w: sleep drf noun.artifact:sleeper drf noun.artifact:sleeper 2 drf noun.time:sleep
+d: be able to accommodate for sleeping
+e: This tent sleeps six people
+fs: 10
+hypo: accommodate 3
+
+w: sleep_over drf noun.event:sleepover
+w: stay_over
+d: stay overnight
+e: The boy's friends were allowed to sleep over after the birthday party
+fs: 22 2
+hypo: lodge 2
+
+w: smother
+d: form an impenetrable cover over
+e: the butter cream smothered the cake
+fs: 11
+hypo: verb.contact:cover 1
+
+w: snake drf noun.artifact:snake
+d: form a snake-like pattern
+e: The river snakes through the valley
+fs: 4
+hypo: curve
+
+w: sojourn drf noun.act:sojourn drf noun.person:sojourner
+d: spend a certain length of time; reside temporarily
+fs: 8
+hypo: pass
+
+w: spear drf noun.artifact:spear
+w: spear_up
+d: thrust up like a spear
+e: The branch speared up into the air
+fs: 1 4
+hypo: jut
+
+w: spiral drf noun.shape:spiral drf noun.shape:spiral 1
+d: form a spiral
+e: The path spirals up the mountain
+fs: 1 4
+hypo: curve
+
+w: spread-eagle
+d: stretch over
+e: His residences spread-eagle the entire county
+fs: 11
+hypo: range
+
+w: square
+d: be compatible with
+e: one idea squares with another
+fs: 1
+hypo: agree
+
+w: square 1
+d: cause to match, as of ideas or acts
+fs: 8 9
+hypo: verb.change:adapt 2
+
+w: squat drf noun.person:squatter 1
+d: occupy (a dwelling) illegally
+fs: 2 22
+hypo: lodge_in
+
+w: squat 1
+d: be close to the earth, or be disproportionately wide
+e: The building squatted low
+fs: 8 1
+hypo: be 3
+
+w: stagnate drf adjs.all:stagnant drf noun.state:stagnancy 1 drf noun.state:stagnation 1
+d: cease to flow; stand without moving
+e: Stagnating waters
+e: blood stagnates in the capillaries
+fs: 1
+hypo: be 3
+vg: stagnate 2
+
+w: stagnate 1 drf adjs.all:stagnant 1 drf noun.state:stagnation
+d: stand still
+e: Industry will stagnate if we do not stimulate our economy
+fs: 1
+hypo: be 3
+
+w: stagnate 2 drf adjs.all:stagnant drf noun.state:stagnancy 1 drf noun.state:stagnation drf noun.state:stagnation 1
+d: cause to stagnate
+e: There are marshes that stagnate the waters
+fs: 11
+hypo: verb.change:change
+vg: stagnate
+
+w: stand 1 drf noun.location:stand
+d: be tall; have a height of; copula
+e: She stands 6 feet tall
+fs: 4
+hypo: measure
+
+w: stand 2
+d: be in effect; be or remain in force
+e: The law stands!
+fs: 1
+hyper: wash 12
+hypo: verb.change:continue 10
+
+w: stand 3 drf noun.cognition:stand
+d: occupy a place or location, also metaphorically
+e: We stand on common ground
+fs: 4 22
+hypo: be 3
+
+w: stand 4 drf noun.cognition:stand see verb.competition:stand_firm see stand_by see stand_by 1 see stand_for see stand_out see stand_out 2
+d: be in some specified state or condition
+e: I stand corrected
+fs: 6 7
+hypo: be 3
+
+w: stand 6 drf noun.event:stand
+d: remain inactive or immobile
+e: standing water
+fs: 1
+hypo: verb.change:remain
+
+w: stand_by
+d: not act or do anything
+e: He just stood by when the police beat up the demonstrators
+fs: 2 1
+hypo: forbear
+
+w: stand_by 2 drf noun.artifact:standby drf noun.person:standby
+w: stick_about
+w: stick_around
+d: be available or ready for a certain function or service
+fs: 2
+hypo: wait
+
+w: star drf noun.person:star drf noun.person:star 2
+d: feature as the star
+e: The movie stars Dustin Hoffman as an autistic man
+fs: 10
+hyper: co-star
+hypo: feature
+
+w: stay_at 1
+d: reside temporarily
+e: I'm staying at the Hilton
+fs: 8
+hypo: lodge_in
+
+w: stem drf noun.communication:stem 1
+d: grow out of, have roots in, originate in
+e: The increase in the national debt stems from the last war
+fs: 11
+hypo: originate_in
+
+w: stem 3 drf noun.act:stem
+d: cause to point inward
+e: stem your skis
+fs: 8
+hypo: orient 1
+
+w: stick 4
+d: endure
+e: The label stuck to her for the rest of her life
+fs: 1
+hypo: persist 1
+
+w: stick 7
+d: be or become fixed
+e: The door sticks--we will have to plane it
+fs: 1
+hypo: be 3
+
+w: stink drf noun.artifact:stinker
+d: be extremely bad in quality or in one's performance
+e: This term paper stinks!
+fs: 1 2
+hypo: be 3
+
+w: straddle drf noun.cognition:straddle
+d: be noncommittal
+fs: 2
+
+w: straddle 1 drf noun.act:straddle drf noun.act:straddle 2
+d: sit or stand astride of
+fs: 11 8
+hypo: be 5
+
+w: stretch drf noun.object:stretch
+w: stretch_along
+d: occupy a large, elongated area
+e: The park stretched beneath the train line
+fs: 4
+hypo: be 5
+
+w: subsume drf noun.cognition:subsumption
+d: contain or include
+e: This new system subsumes the old one
+fs: 11
+hypo: include
+
+w: succumb ant survive 2
+w: yield 5
+d: be fatally overwhelmed
+fs: 2 22
+hypo: verb.change:buy_the_farm
+
+w: suck
+d: be inadequate or objectionable
+e: this sucks!
+fs: 1
+hypo: be 3
+
+w: suffer 4
+d: be given to
+e: She suffers from a tendency to talk too much
+fs: 22
+hypo: be_given
+
+w: suit 2
+d: be agreeable or acceptable
+e: This time suits me
+fs: 10 11
+hyper: verb.possession:agree 2
+hypo: be 3
+
+w: sum drf noun.communication:summation
+w: sum_up
+w: summarise drf noun.communication:summarisation 1
+w: summarize drf noun.communication:summarization 1
+d: be a summary of
+e: The abstract summarizes the main ideas in the paper
+fs: 11
+hypo: verb.communication:say
+vg: verb.communication:resume
+
+w: summer drf noun.time:summer
+d: spend the summer
+e: We summered in Kashmir
+fs: 2 22
+hypo: pass
+
+w: supplement drf noun.attribute:supplement
+d: serve as a supplement to
+e: Vitamins supplemented his meager diet
+fs: 1
+hypo: be 2
+vg: verb.possession:supplement
+
+w: surmount
+d: be on top of
+e: The scarf surmounted the gown
+fs: 11
+hyper: pinnacle
+hypo: head
+
+w: suspend
+d: render temporarily ineffective
+e: the prison sentence was suspended
+fs: 8
+hypo: defer
+
+w: sweep 10 drf noun.attribute:sweep
+d: cover the entire range of
+fs: 8
+hyper: rake 10
+hypo: continue 6
+
+w: swell 3
+w: well_up
+d: come up (as of feelings and thoughts, or other ephemeral things)
+e: Strong emotions welled up
+e: Smoke swelled from it
+fs: 4 1
+hypo: arise
+
+w: swim 2
+d: be dizzy or giddy
+e: my brain is swimming after the bottle of champagne
+fs: 2
+hypo: be 3
+
+w: swing 1
+d: live in a lively, modern, and relaxed style
+e: The Woodstock generation attempted to swing freely
+fs: 2
+hypo: live 6
+
+w: swing 10 drf noun.attribute:swing drf noun.communication:swing 1
+d: have a certain musical rhythm
+e: The music has to swing
+fs: 1
+hypo: be 3
+
+w: take_after
+d: be similar to a relative
+e: She takes after her father!
+fs: 9
+hypo: resemble
+
+w: take_in
+d: provide with shelter
+fs: 8
+hypo: verb.social:domiciliate
+
+w: take_kindly_to
+d: be willing or inclined to accept
+e: He did not take kindly to my critical remarks
+fs: 8
+hypo: be_given
+
+w: take_up
+d: take up time or space
+e: take up the slack
+fs: 11
+hypo: fill
+
+w: tessellate
+d: fit together exactly, of identical shapes
+e: triangles tessellate
+fs: 1
+hypo: fit 2
+
+w: test drf noun.act:test drf noun.act:testing 3
+d: show a certain characteristic when tested
+e: He tested positive for HIV
+fs: 7
+hypo: be 3
+
+w: thrust 1 drf noun.phenomenon:thrust
+d: force (molten rock) into pre-existing rock
+fs: 11
+mt: noun.cognition:geology
+vg: push_up
+
+w: tie_in
+d: be in connection with something relevant
+e: This ties in closely with his earlier remarks
+fs: 4
+hypo: interrelate
+
+w: top 2 drf noun.location:top 1
+d: be at the top of or constitute the top or highest point
+e: A star tops the Christmas Tree
+fs: 11
+hypo: lie
+
+w: trade drf noun.act:trade 2 drf noun.act:trade 5
+d: be traded at a certain price or under certain conditions
+e: The stock traded around $20 a share
+fs: 1 4
+hyper: close 1
+hypo: sell
+mt: noun.act:commerce
+
+w: transgress drf noun.phenomenon:transgression
+d: spread over land, especially along a subsiding shoreline
+e: The sea transgresses along the West coast of the island
+fs: 1
+hypo: overspread
+
+w: translate drf noun.communication:translation
+d: be translatable, or be translatable in a certain way
+e: poetry often does not translate
+e: Tolstoy's novels translate well into English
+fs: 4 1
+hypo: be 3
+vg: verb.communication:interpret 1
+
+w: translate 3
+d: be equivalent in effect
+e: the growth in income translates into greater purchasing power
+fs: 4
+hypo: be 7
+
+w: transplant drf noun.act:transplant 1
+d: be transplantable
+e: These delicate plants do not transplant easily
+fs: 1
+hypo: be 3
+vg: verb.motion:transfer 5
+
+w: trim 5 drf noun.relation:trim
+d: be in equilibrium during a flight
+e: The airplane trimmed
+fs: 1
+hypo: be 3
+vg: trim 6
+
+w: trim 6 drf noun.relation:trim
+d: balance in flight by regulating the control surfaces
+e: trim an airplane
+fs: 8
+hypo: balance
+vg: trim 5
+
+w: truckle drf noun.person:truckler
+d: yield to out of weakness
+fs: 21
+hypo: relent
+
+w: turn 13
+d: cause to change or turn into something different;assume new characteristics
+e: The princess turned the frog into a prince by kissing him
+e: The alchemists tried to turn lead into gold
+fs: 10 9 11 8
+hypo: verb.change:alter 1
+vg: become 1
+
+w: turn_out 1
+d: prove to be in the result or end
+e: It turns out that he was right
+fs: 34
+hypo: verb.change:come_about
+
+w: unbalance ant balance
+d: throw out of balance or equilibrium
+e: The tax relief unbalanced the budget
+e: The prima donna unbalances the smooth work in our department
+fs: 8 11
+
+w: underlie
+d: be or form the base for
+fs: 11
+hypo: be 3
+
+w: underlie 1
+d: lie underneath
+fs: 11
+hypo: lie
+
+w: vary 1 drf adj.all:variable drf adjs.all:variable drf adjs.all:variant drf adjs.all:variant 1 drf noun.cognition:variate drf noun.event:variation 1 drf noun.phenomenon:variation drf noun.shape:variation
+d: be subject to change in accordance with a variable
+e: Prices vary
+e: His moods vary depending on the weather
+fs: 1
+hyper: co-vary
+hyper: drift 3
+hypo: differ
+
+w: vegetate drf adj.pert:vegetative 1 drf noun.act:vegetation
+d: lead a passive existence without using one's body or mind
+fs: 2
+hypo: live 6
+
+w: verge 1 drf noun.attribute:verge drf noun.shape:verge
+d: border on; come close to
+e: His behavior verges on the criminal
+fs: 11
+hypo: border
+
+w: visit 4 drf noun.act:visit 3 drf noun.person:visitor
+d: stay with as a guest
+e: Every summer, we visited our relatives in the country for a month
+fs: 9
+hypo: abide 1
+
+w: wait drf noun.act:wait drf noun.act:waiting drf noun.person:waiter 1
+d: stay in one place and anticipate or expect something
+e: I had to wait on line for an hour to get the tickets
+fs: 2 22
+hyper: verb.competition:ambuscade
+hyper: cool_one's_heels
+hyper: stand_by 2
+
+w: want 1 drf noun.object:want drf noun.person:wanter drf noun.state:want drf noun.state:want 1
+d: be without, lack; be deficient in
+e: want courtesy
+e: want the strength to go on living
+e: flood victims wanting food and shelter
+fs: 11 8
+hypo: lack
+
+w: wanton 1 drf noun.person:wanton
+d: indulge in a carefree or voluptuous way of life
+fs: 2
+hypo: live 6
+
+w: wash drf adj.all:washable drf noun.act:wash 1
+d: be capable of being washed
+e: Does this material wash?
+fs: 6 1
+hypo: be 3
+vg: verb.contact:launder
+
+w: wash 12
+d: admit to testing or proof
+e: This silly excuse won't wash in traffic court
+fs: 1
+hypo: stand 2
+
+w: wear 1
+d: have in one's aspect; wear an expression of one's attitude or personality
+e: He always wears a smile
+fs: 11 8
+hypo: feature
+
+w: weekend drf noun.artifact:weekender drf noun.person:weekender drf noun.time:weekend
+d: spend the weekend
+fs: 2
+hypo: pass
+
+w: weigh 1
+d: have a certain weight
+fs: 11 8
+hypo: measure
+vg: librate
+
+w: work 10
+d: behave in a certain way when handled
+e: This dough does not work easily
+e: The soft metal works well
+fs: 6
+hypo: be 3
+vg: verb.contact:knead
+
+w: work_out
+d: happen in a certain way, leading to, producing, or resulting in a certain outcome, often well
+e: Things worked out in an interesting way
+e: Not everything worked out in the end and we were disappointed
+fs: 1
+hypo: come_out
+
+w: worship drf noun.act:worship drf noun.person:worshiper drf noun.person:worshipper
+d: attend religious services
+e: They worship in the traditional manner
+fs: 22 1
+hyper: offer
+hypo: attend
+
+w: wrangle drf noun.person:wrangler
+d: herd and care for
+e: wrangle horses
+fs: 8
+hypo: herd
+

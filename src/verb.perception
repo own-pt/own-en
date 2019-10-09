@@ -1,0 +1,3623 @@
+verb.perception
+
+w: abacinate
+d: blind by holding a red-hot metal plate before someone's eyes
+e: The prisoners were abacinated by their captors
+fs: 9
+hypo: blind
+
+w: acetify drf noun.food:acetum drf noun.substance:acetum
+w: acidify drf noun.substance:acid
+w: acidulate drf noun.substance:acid
+w: sour ant sweeten drf noun.attribute:sour drf noun.cognition:sour
+d: make sour or more sour
+fs: 11 8 1
+hypo: change_taste
+
+w: ache drf noun.state:ache drf noun.state:aching
+w: hurt drf noun.feeling:hurt 2 drf noun.state:hurting
+w: smart drf noun.state:smart drf noun.state:smarting
+d: be the source of pain
+fs: 23 1
+hyper: act_up
+hyper: bite
+hyper: burn 4
+hyper: hunger
+hyper: itch
+hyper: shoot
+hyper: thirst
+hyper: throb
+hypo: cause_to_be_perceived
+
+w: ache 1 drf noun.state:ache drf noun.state:aching
+w: hurt 1 drf noun.state:hurt drf noun.state:hurting
+w: suffer drf noun.feeling:suffering 1 drf noun.person:sufferer drf noun.state:suffering
+d: feel physical pain
+e: Were you hurting after the accident?
+fs: 2
+hyper: catch 9
+hyper: kill
+hyper: prick
+hyper: twinge 1
+hypo: comprehend
+
+w: act_up
+d: make itself felt as a recurring pain
+e: My arthritis is acting up again
+fs: 1 23
+hypo: ache
+
+w: admire drf noun.person:admirer drf noun.person:admirer 2
+d: look at with admiration
+fs: 9 8
+hypo: look
+
+w: advert drf adjs.all:advertent drf noun.cognition:advertence drf noun.cognition:advertency
+w: attend drf adj.all:attentive drf adj.all:attentive 4 drf noun.cognition:attention drf noun.cognition:attention 1 drf noun.cognition:attention 2 drf noun.person:attender 2
+w: give_ear
+w: hang fs 22
+w: pay_heed
+d: give heed (to)
+e: The children in the audience attended the recital quietly
+e: She hung on his every word
+e: They attended to everything he said
+fs: 2
+hyper: fixate
+hypo: listen
+
+w: aerate drf noun.process:aeration drf noun.substance:air
+w: air
+w: air_out
+d: expose to fresh air
+e: aerate your old sneakers
+fs: 8
+hypo: expose 2
+
+w: appear drf noun.cognition:appearance
+w: look 1 drf noun.attribute:look drf noun.attribute:look 1 drf noun.state:look
+w: seem
+d: give a certain impression or have a certain outward aspect
+e: She seems to be sleeping
+e: This appears to be a very difficult problem
+e: This project looks fishy
+e: They appeared like people who had not eaten or slept for a long time
+fs: 28 6 7
+hyper: beam 3
+hyper: come_across
+hyper: cut 3
+hyper: feel 9
+hyper: gleam 1
+hyper: make 12
+hyper: pass_off
+hyper: sound 6
+hyper: verb.stative:feel
+hyper: verb.stative:jump
+hyper: verb.stative:lift 1
+hyper: verb.stative:loom 2
+hypo: verb.stative:be 3
+
+w: appear 1 drf adjs.all:apparent drf adjs.all:apparent 1
+w: seem 1
+d: seem to be true, probable, or apparent
+e: It seems that he is very gifted
+e: It appears that the weather in California is very bad
+fs: 34
+hyper: seem 2
+hypo: verb.stative:be 3
+
+w: apperceive drf noun.cognition:apperception
+d: perceive in terms of a past experience
+fs: 8 9
+hypo: comprehend
+mt: noun.cognition:psychological_science
+
+w: aromatise drf noun.attribute:aroma drf noun.cognition:aroma 1
+w: aromatize drf noun.attribute:aroma drf noun.cognition:aroma 1
+w: perfume drf noun.artifact:perfume drf noun.artifact:perfumery 2 drf noun.cognition:perfume
+d: fill or impregnate with an odor
+e: orange blossoms perfumed the air in the garden
+fs: 11 8
+hypo: odorize
+
+w: attaint
+d: condemn by attainder
+e: the man was attainted
+fs: 9
+hypo: condemn
+
+w: auscultate drf noun.act:auscultation
+d: examine by auscultation
+fs: 8 9
+hypo: examine
+mt: noun.cognition:medical_specialty
+
+w: autopsy drf noun.act:autopsy
+d: perform an autopsy on a dead body; do a post-mortem
+fs: 2
+hypo: examine
+mt: noun.cognition:medical_specialty
+
+w: babble
+w: bubble drf noun.artifact:bubbler drf noun.object:bubble
+w: burble
+w: guggle
+w: gurgle drf noun.event:gurgle
+w: ripple drf noun.event:ripple
+d: flow in an irregular current with a bubbling noise
+e: babbling brooks
+fs: 22 1
+hypo: go
+vg: gurgle 2
+
+w: backfire drf noun.event:backfire
+d: emit a loud noise as a result of undergoing a backfire
+e: My old car backfires all the time
+fs: 1
+hypo: make_noise
+
+w: bang drf noun.artifact:banger drf noun.event:bang
+d: to produce a sharp often metallic explosive or percussive sound
+e: One of them banged the sash of the window nearest my bed
+fs: 1 8
+hypo: go
+
+w: beacon drf noun.artifact:beacon 1 drf noun.communication:beacon
+d: shine like a beacon
+fs: 1
+hypo: verb.weather:beam 3
+
+w: beam 3
+w: glow 1 drf noun.attribute:glow 1
+w: radiate 5
+w: shine 6
+d: have a complexion with a strong bright color, such as red or pink
+e: Her face glowed when she came out of the sauna
+fs: 2 1
+hypo: appear
+
+w: beat drf noun.communication:beat
+w: drum drf noun.person:drummer
+w: thrum
+d: make a rhythmic sound
+e: Rain drummed against the windshield
+e: The drums beat all night
+fs: 4 1
+hypo: go
+vg: verb.motion:beat 3
+
+w: beat 1 drf noun.event:beat 1
+w: tick 1 drf noun.animal:tick drf noun.artifact:ticker 1 drf noun.event:ticking
+w: ticktack
+w: ticktock drf noun.event:ticktock
+d: make a sound like a clock or a timer
+e: the clocks were ticking
+e: the grandfather clock beat midnight
+fs: 1
+hypo: go
+
+w: beat 3
+d: glare or strike with great intensity
+e: The sun was beating down on us
+fs: 4
+hypo: glare 1
+
+w: beat_down
+d: shine hard
+e: The sun beat down on the hikers
+fs: 1
+hypo: verb.weather:beam 3
+
+w: becloud
+w: befog
+w: cloud
+w: fog drf noun.cognition:fog drf noun.state:fog 1
+w: haze_over
+w: mist
+w: obnubilate
+w: obscure
+d: make less visible or unclear
+e: The stars are obscured by the clouds
+e: the big elm tree obscures our view of the valley
+fs: 11
+hyper: overshadow
+hypo: conceal 1
+
+w: bedaze
+w: daze drf noun.feeling:daze
+w: stun drf noun.person:stunner
+d: overcome as with astonishment or disbelief
+e: The news stunned her
+fs: 9 10
+hypo: desensitise
+
+w: bedazzle
+w: daze 1 drf noun.cognition:daze
+w: dazzle drf noun.attribute:dazzle
+d: to cause someone to lose clear vision, especially from intense light
+e: She was dazzled by the bright headlights
+fs: 9 8
+hypo: blind 1
+
+w: beep drf noun.artifact:beeper drf noun.event:beep
+w: blare
+w: claxon drf noun.artifact:claxon
+w: honk drf noun.person:honker
+w: toot drf noun.event:toot
+d: make a loud noise
+e: The horns of the taxis blared
+fs: 1 2 8
+hyper: tootle
+hypo: go
+
+w: behold drf noun.person:beholder
+w: lay_eyes_on
+d: see with attention
+e: behold Christ!
+fs: 8 9
+hypo: see
+
+w: bench
+d: exhibit on a bench
+e: bench the poodles at the dog show
+fs: 8
+hypo: display
+
+w: benumb
+w: blunt
+w: dull 1
+w: numb
+d: make numb or insensitive
+e: The shock numbed her senses
+fs: 10 8 9
+hypo: desensitise
+
+w: besot
+w: stupefy drf noun.act:stupefaction
+d: make dull or stupid or muddle with drunkenness or infatuation
+fs: 10 9
+hypo: desensitise
+
+w: bethink
+d: cause oneself to consider something
+fs: 9
+cause: consider
+
+w: birr drf noun.event:birr
+w: purr
+w: whir drf noun.event:whir drf noun.event:whirring
+w: whirr drf noun.event:whirr
+w: whiz drf noun.event:whiz
+w: whizz
+d: make a soft swishing sound
+e: the motor whirred
+e: the car engine purred
+fs: 1
+hypo: go
+
+w: bite
+w: burn drf noun.state:burn
+w: sting 2 drf noun.act:stinger drf noun.animal:stinger drf noun.state:sting
+d: cause a sharp or stinging pain or discomfort
+e: The sun burned his face
+fs: 11 10
+hyper: nettle
+hypo: ache
+vg: burn 4
+
+w: bitter drf noun.attribute:bitter
+d: make bitter
+fs: 11 8
+hypo: change_taste
+
+w: blare 1 drf noun.event:blare
+w: blast drf noun.event:blast 1
+d: make a strident sound
+e: She tended to blast when speaking into a microphone
+fs: 1
+hypo: make_noise
+
+w: bleep drf noun.event:bleep
+d: emit a single short high-pitched signal
+e: The computer bleeped away
+fs: 1
+hypo: go
+
+w: blind drf noun.group:blind
+d: make blind by putting the eyes out
+e: The criminals were punished and blinded
+fs: 9 10
+hyper: abacinate
+hypo: verb.change:alter 1
+
+w: blind 1 drf noun.artifact:blinder drf noun.group:blind
+d: render unable to see
+fs: 10
+hyper: bedazzle
+hyper: seel
+hyper: snow-blind
+
+w: blink drf noun.artifact:blinker drf noun.communication:blinker
+w: flash drf noun.artifact:flasher 1 drf noun.attribute:flash
+w: twinkle drf noun.event:twinkle drf noun.object:twinkler
+w: wink
+w: winkle
+d: gleam or glow intermittently
+e: The lights were flashing
+fs: 1 8
+hyper: flick
+hypo: radiate
+
+w: block drf noun.act:blockage
+w: obstruct 4
+d: shut out from view or get in the way so as to hide from sight
+e: The thick curtain blocked the action on the stage
+e: The trees obstruct my view of the mountains
+fs: 11
+hypo: conceal 1
+vg: verb.contact:bar
+
+w: block 5 drf noun.artifact:blocker
+d: interrupt the normal function of by means of anesthesia
+e: block a nerve
+e: block a muscle
+fs: 8 11
+hypo: verb.body:anaesthetise
+
+w: blow
+d: play or sound a wind instrument
+e: She blew the horn
+fs: 8
+hypo: sound 1
+vg: blow 1
+vg: blow 5
+
+w: blow 1 drf noun.act:blow 2
+d: make a sound as if blown
+e: The whistle blew
+fs: 1
+hypo: go
+vg: blow
+
+w: blow 5
+d: sound by having air expelled through a tube
+e: The trumpets blew
+fs: 1
+hypo: go
+vg: blow
+
+w: blow 8
+w: fellate drf noun.act:fellation
+w: go_down_on
+w: suck
+d: provide sexual gratification through oral stimulation
+fs: 9
+hypo: excite
+
+w: blur ant focus drf noun.cognition:blur
+d: to make less distinct or clear
+e: The haze blurs the hills
+fs: 11 8
+hypo: verb.change:alter 1
+
+w: blur 1 drf noun.cognition:blur
+w: film_over
+w: glaze_over
+d: become glassy; lose clear vision
+e: Her eyes glazed over from lack of sleep
+fs: 1
+
+w: bob_under
+d: disappear suddenly, as if under the surface of a body of water
+fs: 1 2
+hypo: disappear
+
+w: bombilate drf noun.event:bombilation
+w: bombinate drf noun.event:bombination
+w: buzz drf noun.artifact:buzzer drf noun.artifact:buzzer 1 drf noun.event:buzz
+d: make a buzzing sound
+e: bees were buzzing around the hive
+fs: 1
+hypo: go
+
+w: bong
+d: ring loudly and deeply
+e: the big bell bonged
+fs: 1
+hypo: echo
+
+w: boom drf noun.event:boom 1
+w: din drf noun.event:din
+d: make a resonant sound, like artillery
+e: His deep voice boomed through the hall
+fs: 1
+hypo: go
+
+w: boom 1 drf noun.event:boom 1
+w: boom_out
+d: make a deep hollow sound
+e: Her voice booms out the words of the song
+fs: 8 11
+hypo: go
+
+w: bosom drf noun.body:bosom 1 drf noun.state:bosom
+d: hide in one's bosom
+e: She bosomed his letters
+fs: 21 8
+hypo: conceal 1
+
+w: brandish
+d: exhibit aggressively
+e: brandish a sword
+fs: 8
+hypo: display
+
+w: brattle
+w: clack drf noun.event:clack
+w: clatter drf noun.event:clatter
+d: make a rattling sound
+e: clattering dishes
+fs: 1 2
+hypo: make_noise
+
+w: bring_forth
+w: produce 1 drf noun.act:production 1
+d: bring out for display
+e: The proud father produced many pictures of his baby
+e: The accused brought forth a letter in court that he claims exonerates him
+fs: 8
+hyper: turn_on
+hypo: display
+
+w: bring_on
+w: bring_out 1
+w: produce drf noun.act:production drf noun.communication:production drf noun.person:producer 2
+d: bring onto the market or release
+e: produce a movie
+e: bring out a book
+e: produce a new play
+fs: 8 9
+cause: verb.change:appear
+hyper: offer 6
+
+w: bring_out
+w: reveal
+w: uncover
+w: unveil
+d: make visible
+e: Summer brings out bright clothes
+e: He brings out the best in her
+fs: 8 11
+hyper: disclose
+hyper: excavate
+hyper: trot_out
+hyper: unfold
+hypo: show
+
+w: bug drf noun.artifact:bug
+w: intercept
+w: tap drf noun.act:tap 1 drf noun.person:tapper
+w: wiretap drf noun.act:wiretap drf noun.person:wiretapper
+d: tap a telephone or telegraph wire to get information
+e: The FBI was tapping the phone line of the suspected spy
+e: Is this hotel room bugged?
+fs: 8
+hypo: eavesdrop
+
+w: burn 4 drf noun.state:burn
+d: feel hot or painful
+e: My eyes are burning
+fs: 1
+hypo: ache
+vg: bite
+
+w: bury fs 16
+d: cover from sight
+e: Afghani women buried under their burkas
+fs: 8 21
+hypo: conceal 1
+
+w: camouflage drf noun.act:camouflage drf noun.artifact:camouflage drf noun.artifact:camouflage 1
+d: disguise by camouflaging; exploit the natural surroundings to disguise something
+e: The troops camouflaged themselves before they went into enemy territory
+fs: 10 11 9 8
+hypo: disguise
+
+w: candle drf noun.quantity:candle
+d: examine eggs for freshness by holding them against a light
+fs: 8
+hypo: examine
+
+w: candy
+w: glaze drf noun.food:glaze
+w: sugarcoat
+d: coat with something sweet, such as a hard sugar glaze
+fs: 8 11
+hypo: dulcify
+
+w: case
+d: look over, usually with the intention to rob
+e: They men cased the housed
+fs: 8
+hypo: inspect
+
+w: catch
+w: overhear
+w: take_in
+d: hear, usually without the knowledge of the speakers
+e: We overheard the conversation at the next table
+fs: 25 8
+entail: listen
+hypo: hear
+vg: catch 12
+
+w: catch 1
+w: pick_up
+d: perceive with the senses quickly, suddenly, or momentarily
+e: I caught the aroma of coffee
+e: He caught the allusion in her glance
+e: ears open to catch every sound
+e: The dog picked up the scent
+e: Catch a glimpse
+fs: 8
+hypo: comprehend
+
+w: catch 2
+w: see 3 drf noun.person:seer 2
+w: take_in 6
+w: view 2 drf adjs.all:viewable drf noun.act:view drf noun.cognition:view 1 drf noun.location:view drf noun.person:viewer 1
+w: watch 5 drf noun.act:watch
+d: see or watch
+e: view a show on television
+e: This program will be seen all over the world
+e: view an exhibition
+e: Catch a show on Broadway
+e: see a movie
+fs: 8
+hyper: preview
+hyper: spectate
+hyper: visualise
+hypo: watch
+vg: see
+
+w: catch 9
+w: get 9
+d: suffer from the receipt of
+e: She will catch hell for this behavior!
+fs: 8
+hypo: ache 1
+vg: verb.change:catch
+vg: get 14
+
+w: catch 12
+w: get 13
+d: perceive by hearing
+e: I didn't catch your name
+e: She didn't get his name when they met the first time
+fs: 8
+hypo: hear
+vg: catch
+
+w: catch_a_glimpse
+w: catch_sight
+w: get_a_look
+d: see something for a brief time
+fs: 2 22
+hypo: see
+
+w: cause_to_be_perceived
+d: have perceptible qualities
+fs: 1 2
+hyper: ache
+hyper: go
+hyper: odorize
+hyper: project
+hyper: radiate
+hyper: smell
+
+w: cense
+w: incense drf noun.cognition:incense drf noun.substance:incense
+w: thurify drf noun.substance:thus
+d: perfume especially with a censer
+fs: 8 11
+hypo: odorize
+
+w: chafe drf noun.state:chafe
+w: fret drf noun.attribute:fret
+w: gall drf noun.state:gall drf noun.state:gall 1
+d: become or make sore by or as if by rubbing
+fs: 1 11 8 10
+hypo: verb.body:irritate
+
+w: change_intensity
+d: increase or decrease in intensity
+fs: 2 1
+hyper: dim 1
+hyper: hush
+hyper: louden
+hyper: sharpen
+hyper: soften
+hypo: verb.change:alter 1
+
+w: change_taste
+d: alter the flavor of
+fs: 1
+hyper: acetify
+hyper: bitter
+hyper: dulcify
+hypo: verb.change:alter 1
+
+w: chatter
+w: click 1
+d: click repeatedly or uncontrollably
+e: Chattering teeth
+fs: 1
+hypo: go
+
+w: chime drf noun.artifact:chime see verb.communication:chime_in
+d: emit a sound
+e: bells and gongs chimed
+fs: 1
+hypo: go
+
+w: chink drf noun.event:chink
+w: clink drf noun.event:clink
+w: tink
+w: tinkle drf noun.event:tinkle
+d: make or emit a high sound
+e: tinkling bells
+fs: 1
+hypo: go
+
+w: chiromance drf noun.cognition:chiromancy drf noun.person:chiromancer
+d: divine by reading someone's palms
+e: The Gypsies chiromanced
+e: She refused to chiromance my fate
+fs: 2 8
+hypo: divine
+
+w: chug drf noun.event:chug
+d: make a dull, explosive sound
+e: the engine chugged down the street
+fs: 1
+hypo: go
+
+w: clang drf noun.act:clanger drf noun.event:clang drf noun.event:clangor
+w: clangor 1 drf noun.event:clangor
+d: make a loud noise
+e: clanging metal
+fs: 8 11 1
+hypo: go
+
+w: clangor drf noun.event:clangor
+w: clangour drf noun.event:clangour
+d: make a loud resonant noise
+e: the alarm clangored throughout the building
+fs: 1 11 8
+hypo: go
+
+w: clank drf noun.event:clank
+d: make a clank
+e: the train clanked through the village
+fs: 8 11 1
+hypo: go
+
+w: clear 5
+d: go away or disappear
+e: The fog cleared in the afternoon
+fs: 1
+hypo: disappear
+
+w: click drf noun.event:click
+w: tick drf noun.event:tick drf noun.event:ticking
+d: make a clicking or ticking sound
+e: The clock ticked away
+fs: 8 1 22
+hypo: go
+
+w: clink 1 drf noun.event:clink
+d: make a high sound typical of glass
+e: champagne glasses clinked to make a toast
+fs: 8
+cause: chink
+hypo: sound 1
+
+w: clitter
+w: stridulate drf noun.event:stridulation
+d: make a shrill creaking noise by rubbing together special bodily structures
+e: male insects such as crickets or grasshoppers stridulate
+fs: 11 1
+hypo: make_noise
+
+w: cloak drf noun.artifact:cloak 1
+w: dissemble
+w: mask drf noun.act:mask drf noun.act:masking
+d: hide under a false appearance
+e: He masked his disappointment
+fs: 9 11 8 10
+hypo: disguise
+
+w: clop
+w: clump drf noun.event:clump
+w: clunk drf noun.event:clunk
+w: plunk drf noun.event:plunk
+d: make or move along with a sound as of a horse's hooves striking the ground
+fs: 1 22
+hypo: go
+
+w: close 10 ant open 10 drf noun.act:closing 1 drf noun.act:closure
+d: cause a window or an application to disappear on a computer desktop
+fs: 8
+hypo: verb.stative:end 1
+
+w: come drf noun.act:coming
+d: experience orgasm
+e: she could not come because she was too upset
+fs: 2
+hypo: experience 1
+
+w: come_across
+d: be perceived in a certain way; make a certain impression
+fs: 4 22
+hypo: appear
+
+w: come_to
+w: hit
+w: strike
+d: cause to experience suddenly
+e: Panic struck me
+e: An interesting idea hit her
+e: A thought came to me
+e: The thought struck terror in our minds
+e: They were struck with fear
+fs: 10
+vg: verb.emotion:affect
+
+w: comprehend drf noun.cognition:comprehension
+w: perceive drf adj.pert:perceptive drf adjs.all:perceptible drf adjs.all:perceptible 1 drf noun.act:perception drf noun.person:perceiver
+d: to become aware of through the senses
+e: I could perceive the ship coming over the horizon
+fs: 8 9
+hyper: ache 1
+hyper: apperceive
+hyper: catch 1
+hyper: divine
+hyper: dream
+hyper: feel
+hyper: find 5
+hyper: hallucinate
+hyper: hear
+hyper: listen
+hyper: misperceive
+hyper: pick_up 1
+hyper: see
+hyper: see_through
+hyper: sight
+hyper: smell 1
+hyper: taste
+hyper: touch
+
+w: conceal drf noun.act:concealing drf noun.act:concealment
+w: hold_back
+w: hold_in
+d: hold back; keep from being perceived by others
+e: She conceals her anger well
+fs: 8
+hyper: occult
+
+w: conceal 1 drf noun.act:concealing drf noun.state:concealment
+w: hide ant show
+d: prevent from being seen or discovered
+e: Muslim women hide their faces
+e: hide the money
+fs: 11 8 10 9
+hyper: verb.contact:veil
+hyper: becloud
+hyper: block
+hyper: bosom
+hyper: bury
+hyper: cover 12
+hyper: cover 14
+hyper: disguise
+hyper: harbor
+hyper: secrete 2
+hyper: verb.social:sweep_under_the_rug
+hyper: verb.stative:lurk 1
+
+w: condemn drf noun.communication:condemnation drf noun.state:condemnation
+d: demonstrate the guilt of (someone)
+e: Her strange behavior condemned her
+fs: 10 9
+hyper: attaint
+hypo: verb.communication:attest 1
+
+w: consider drf noun.cognition:consideration drf noun.cognition:consideration 1 drf noun.communication:consideration
+w: study drf noun.act:study drf noun.cognition:study 1
+d: give careful consideration to
+e: consider the possibility of moving
+fs: 9 8 29
+hyper: verb.cognition:compare 1
+hyper: verb.cognition:factor 1
+hypo: verb.cognition:chew_over
+vg: verb.communication:consider 2
+
+w: consider 4
+w: regard drf noun.act:regard
+d: look at attentively
+fs: 8
+hypo: look
+
+w: consider 8 drf noun.cognition:consideration
+w: look_at 1
+w: view drf noun.artifact:viewer drf noun.cognition:view 2
+d: look at carefully; study mentally
+e: view a problem
+fs: 8
+hyper: contemplate
+hyper: groak
+hypo: verb.cognition:analyse
+
+w: consonate drf noun.attribute:consonance
+d: sound in sympathy
+fs: 1
+hypo: echo
+
+w: contemplate drf noun.act:contemplation 1 drf noun.cognition:contemplation
+d: look at thoughtfully; observe deep in thought
+e: contemplate one's navel
+fs: 8
+hypo: consider 8
+
+w: cover 12 drf noun.act:covering 2
+w: cover_up drf noun.act:cover-up
+d: hide from view or knowledge
+e: The President covered the fact that he bugged the offices in the White House
+fs: 8
+hyper: gloss_over
+hypo: conceal 1
+
+w: cover 14 drf noun.act:cover drf noun.act:covering drf noun.act:covering 2 drf noun.artifact:cover 2
+d: spread over a surface to conceal or protect
+e: This paint covers well
+fs: 1
+hypo: conceal 1
+
+w: crack drf noun.artifact:cracker
+w: snap drf noun.act:snap 3 drf noun.event:snap 2
+d: make a sharp sound
+e: his fingers snapped
+fs: 8 1
+hypo: go
+
+w: crack 1 drf noun.artifact:cracker 1 drf noun.event:cracking
+d: make a very sharp explosive sound
+e: His gun cracked
+fs: 1
+hypo: go
+
+w: crackle drf noun.event:crackle drf noun.event:crackling
+w: crepitate drf noun.event:crepitation
+d: make a crackling sound
+e: My Rice Krispies crackled in the bowl
+fs: 1
+hypo: rattle
+
+w: crash
+d: make a sudden loud sound
+e: the waves crashed on the shore and kept us awake all night
+fs: 1
+hypo: go
+
+w: creak drf noun.event:creak drf noun.event:creaking
+w: screak
+w: screech drf noun.event:screech drf noun.event:screeching
+w: skreak
+w: squeak drf noun.artifact:squeaker drf noun.event:squeak
+w: whine
+d: make a high-pitched, screeching noise
+e: The door creaked when I opened it slowly
+e: My car engine makes a whining noise
+fs: 1 2
+hypo: make_noise
+
+w: crop_up
+w: pop 4 fs 22
+w: pop_up
+d: appear suddenly or unexpectedly
+e: The farm popped into view as we turned the corner
+e: He suddenly popped up out of nowhere
+fs: 1
+hypo: verb.change:appear
+
+w: cruise
+d: look for a sexual partner in a public place
+e: The men were cruising the park
+fs: 8 2
+hypo: look 2
+
+w: crump
+w: scrunch drf noun.event:scrunch
+w: thud 1 drf noun.event:thud
+d: make a noise typical of an engine lacking lubricants
+fs: 1
+hypo: verb.communication:crackle
+
+w: curry drf noun.food:curry
+d: season with a mixture of spices; typical of Indian cooking
+fs: 8
+hypo: flavor
+mt: noun.act:cookery
+
+w: cut 3
+d: give the appearance or impression of
+e: cut a nice figure
+fs: 8
+hypo: appear
+
+w: damp drf noun.artifact:damper
+w: dampen
+w: dull
+w: muffle drf noun.artifact:muffler 1 drf noun.artifact:muffler 2
+w: mute drf noun.artifact:mute
+w: tone_down
+d: deaden (a sound or noise), especially by wrapping
+fs: 11 8
+hypo: soften
+
+w: deaf drf noun.group:deaf
+w: deafen
+d: make or render deaf
+e: a deafening noise
+fs: 10 9
+hypo: desensitise
+
+w: deafen 1
+d: be unbearably loud
+e: a deafening noise
+fs: 10 9
+entail: make_noise
+
+w: demo drf noun.communication:demo
+w: demonstrate 1 drf noun.act:demonstration drf noun.communication:demonstration drf noun.person:demonstrator 2
+w: exhibit drf noun.person:exhibitor
+w: present drf noun.act:presentation drf noun.act:presentment 2 drf noun.communication:presentation drf noun.communication:presentation 1
+w: show 2 drf noun.act:show drf noun.act:showing drf noun.communication:show drf noun.communication:showing 1
+d: give an exhibition of to an interested audience
+e: She shows her dogs frequently
+e: We will demo the new software in Washington
+fs: 17 14 15 11 8
+hyper: verb.change:bring_home
+hypo: show
+
+w: deodorise
+w: deodorize ant odorize drf noun.artifact:deodorant
+w: deodourise ant odourise drf noun.artifact:deodourant
+d: eliminate the odor from
+e: This stick will deodorize your armpits
+fs: 11 8
+hypo: verb.change:alter 1
+
+w: descry
+w: espy drf noun.act:espial
+w: spot drf noun.act:spotting drf noun.person:spotter drf noun.person:spotter 3
+w: spy drf noun.act:spying 2
+d: catch sight of
+fs: 9 8
+hypo: sight
+
+w: desensitise ant sensitise drf noun.process:desensitisation
+w: desensitize ant sensitize drf noun.process:desensitization
+d: cause not to be sensitive
+e: The war desensitized many soldiers
+e: The photographic plate was desensitized
+fs: 9 10 8
+hyper: bedaze
+hyper: benumb
+hyper: besot
+hyper: deaf
+hypo: verb.change:alter 1
+
+w: detect drf noun.act:detecting drf noun.act:detection drf noun.artifact:detector drf noun.artifact:detector 1
+w: discover 3 drf noun.act:discovery drf noun.cognition:discovery drf noun.communication:discovery drf noun.person:discoverer
+w: find 2 drf noun.act:find drf noun.act:finding drf noun.object:finding drf noun.person:finder
+w: notice 4 drf noun.cognition:notice
+w: observe 2 drf adjs.all:observable drf adjs.all:observant 2 drf noun.act:observation 1 drf noun.cognition:observance drf noun.cognition:observation 2 drf noun.communication:observation drf noun.person:observer
+d: discover or determine the existence, presence, or fact of
+e: She detected high levels of lead in her drinking water
+e: We found traces of lead in the paint
+fs: 8 9 26
+hyper: verb.cognition:catch_out
+hyper: instantiate
+hyper: see 11
+hyper: sense 2
+hyper: trace
+hypo: sight
+vg: verb.creation:discover
+
+w: develop drf noun.artifact:developer drf noun.process:developing drf noun.process:development
+d: make visible by means of chemical solutions
+e: Please develop this roll of film for me
+fs: 8
+hyper: redevelop
+hyper: solarise 3
+hyper: underdevelop
+hypo: verb.change:alter 1
+mt: noun.act:photography
+mt: noun.process:photography
+
+w: die drf noun.act:death drf noun.event:death drf noun.person:Death drf noun.phenomenon:death drf noun.state:death drf noun.time:death 1
+d: suffer or face the pain of death
+e: Martyrs may die every day for their faith
+fs: 2
+hypo: endure
+vg: verb.change:buy_the_farm
+
+w: dig
+w: dig_out
+w: dig_up
+d: remove, harvest, or recover by digging
+e: dig salt
+e: dig coal
+fs: 8 11
+hypo: excavate
+
+w: dim 1
+w: dip
+d: switch (a car's headlights) from a higher to a lower beam
+fs: 8
+hypo: change_intensity
+
+w: ding
+w: dingdong
+w: dong
+d: go `ding dong', like a bell
+fs: 1
+hypo: peal 1
+
+w: disappear drf noun.act:disappearance 1 drf noun.event:disappearance
+w: go_away
+w: vanish drf noun.act:vanishing drf noun.person:vanisher
+d: become invisible or unnoticeable
+e: The effect vanished when day broke
+fs: 1 22 2
+hyper: verb.change:dematerialise
+hyper: bob_under
+hyper: clear 5
+hypo: verb.stative:cease 13
+
+w: discern drf adj.all:discernible drf adjs.all:discernible drf adjs.all:discernible 1 drf noun.cognition:discernment 2
+w: distinguish
+w: make_out
+w: pick_out
+w: recognise 1
+w: recognize 1
+w: spot 2
+w: tell_apart
+d: detect with the senses
+e: The fleeing convicts were picked out of the darkness by the watchful prison guards
+e: I can't make out the faces in this photograph
+fs: 8 9
+entail: comprehend
+hyper: discriminate
+hyper: resolve
+
+w: disclose
+w: expose 3 drf noun.act:exposure 5
+d: disclose to view as by removing a cover
+e: The curtain rose to disclose a stunning set
+fs: 11
+hyper: face 4
+hypo: bring_out
+
+w: discover drf noun.act:discovery drf noun.cognition:discovery drf noun.communication:discovery
+d: see for the first time; make a discovery
+e: Who discovered the North Pole?
+fs: 9 8
+entail: comprehend
+hyper: rediscover
+
+w: discriminate drf adjs.all:discriminative drf adjs.all:discriminatory drf noun.cognition:discrimination
+d: distinguish
+e: I could not discriminate the different tastes in this complicated dish
+fs: 2
+hypo: discern
+
+w: disguise drf noun.act:disguise drf noun.artifact:disguise
+w: mask 1
+d: make unrecognizable
+e: The herb masks the garlic taste
+e: We disguised our faces before robbing the bank
+fs: 10 11 9 8
+hyper: camouflage
+hyper: cloak
+hyper: dissimulate
+hyper: masquerade
+hypo: conceal 1
+
+w: disgust drf noun.feeling:disgust
+w: gross_out
+w: repel drf adjs.all:repellant drf adjs.all:repellant 1 drf adjs.all:repellent drf adjs.all:repulsive drf adjs.all:repulsive 1
+w: revolt
+d: fill with distaste
+e: This spoilt food disgusts me
+fs: 9 10
+hyper: nauseate
+hypo: excite
+
+w: disorient ant orient drf noun.cognition:disorientation 1
+w: disorientate
+d: cause to be lost or disoriented
+fs: 10
+hypo: verb.cognition:bedevil
+
+w: display drf noun.act:display
+w: exhibit 1 drf noun.act:exhibit drf noun.act:exhibition
+w: expose drf noun.act:exposure 5
+d: to show, make visible or apparent
+e: The Metropolitan Museum is exhibiting Goya's works this month
+e: Why don't you show your nice legs and wear shorter skirts?
+e: National leaders will have to display the highest skills of statesmanship
+fs: 11 8 10 9
+hyper: bench
+hyper: brandish
+hyper: bring_forth
+hyper: flash 1
+hyper: hold_up
+hyper: model
+hyper: model 1
+hyper: moon
+hyper: open 10
+hyper: verb.social:gibbet 1
+hypo: show
+
+w: dissimulate drf adjs.all:dissimulative drf noun.act:dissimulation
+d: hide (feelings) from other people
+fs: 8
+hypo: disguise
+
+w: dissonate drf adjs.all:dissonant 2
+d: be dissonant or harsh
+e: The violins in this piece dissonated disturbingly
+fs: 1
+hypo: sound 3
+
+w: divine drf adjs.all:divinatory 1 drf noun.cognition:divination drf noun.communication:divination drf noun.person:diviner
+d: perceive intuitively or through some inexplicable perceptive powers
+fs: 8 26
+hyper: chiromance
+hypo: comprehend
+
+w: do_justice
+d: bring out fully or to advantage
+e: This photograph does not do her justice
+fs: 8 9 12
+hypo: show
+
+w: dream drf noun.cognition:dream 1 drf noun.cognition:dreaming drf noun.person:dreamer 2
+d: experience while sleeping
+e: She claims to never dream
+e: He dreamt a strange scene
+fs: 8 2 26
+entail: verb.body:catch_some_Z's
+hypo: comprehend
+
+w: drone drf noun.communication:droning
+d: make a monotonous low dull sound
+e: The harmonium was droning on
+fs: 1
+hypo: go
+
+w: drown_out
+d: make imperceptible
+e: The noise from the ice machine drowned out the music
+fs: 10 11
+hypo: make_noise
+
+w: dulcify
+w: dulcorate
+w: edulcorate
+w: sweeten ant sour drf noun.act:sweetening drf noun.food:sweetener drf noun.food:sweetening
+d: make sweeter in taste
+fs: 8 11 1
+hyper: candy
+hyper: honey
+hyper: mull
+hyper: saccharify
+hypo: change_taste
+
+w: earth drf noun.substance:earth
+d: hide in the earth like a hunted animal
+fs: 1
+hypo: hide 1
+
+w: eavesdrop drf noun.person:eavesdropper
+w: listen_in
+d: listen without the speaker's knowledge
+e: the jealous man was eavesdropping on his wife's conversations
+fs: 22 2
+hyper: bug
+hypo: listen
+
+w: echo drf noun.attribute:echo
+w: resound 1 drf adjs.all:resonant 1
+w: reverberate drf adj.all:reverberant drf adjs.all:reverberative drf noun.attribute:reverberance drf noun.attribute:reverberation
+w: ring 4 drf noun.attribute:ring drf noun.attribute:ringing
+d: ring or echo with sound
+e: the hall resounded with laughter
+fs: 22 1
+hyper: bong
+hyper: consonate
+hyper: reecho
+hyper: reecho 1
+hypo: go
+
+w: eclipse drf noun.event:eclipse
+w: occult 1
+d: cause an eclipse of (a celestial body) by intervention
+e: The Sun eclipses the moon today
+e: Planets and stars often are occulted by other celestial bodies
+fs: 11
+hypo: overshadow
+
+w: endure
+w: suffer 1 ant enjoy
+d: undergo or be subjected to
+e: He suffered the penalty
+e: Many saints suffered martyrdom
+fs: 8
+hyper: die
+hyper: tolerate
+hypo: experience 1
+
+w: enjoy ant suffer 1
+d: have for one's benefit
+e: The industry enjoyed a boom
+fs: 11
+hypo: experience 1
+
+w: etch
+d: cause to stand out or be clearly defined or visible
+e: a face etched with pain
+e: the leafless branches etched against the sky
+fs: 11
+hypo: show
+
+w: examine drf noun.act:examination drf noun.person:examiner
+w: see 13
+d: observe, check out, and look over carefully or inspect
+e: The customs agent examined the baggage
+e: I must see your passport before you can enter the country
+fs: 8
+entail: look
+hyper: verb.contact:search 1
+hyper: auscultate
+hyper: autopsy
+hyper: candle
+hyper: glance_over
+hyper: inspect
+hyper: look 2
+hyper: peruse
+hyper: scan 1
+hyper: scrutinise
+hyper: survey
+hyper: x-ray
+hyper: verb.social:check 4
+
+w: excavate drf noun.act:excavation 1 drf noun.artifact:excavation drf noun.location:excavation
+w: unearth
+d: recover through digging
+e: Schliemann excavated Troy
+e: excavate gold
+fs: 7
+hyper: dig
+hypo: bring_out
+
+w: excite drf adjs.all:excitant drf noun.state:excitation 1 drf noun.state:excitement 1
+w: stimulate drf adj.all:stimulative drf adjs.all:stimulant drf noun.cognition:stimulus
+w: stir drf noun.feeling:stir
+d: stir feelings in
+e: stimulate my appetite
+e: excite the audience
+e: stir emotions
+fs: 9 8 10
+hyper: verb.contact:fuck_off
+hyper: verb.contact:masturbate 1
+hyper: blow 8
+hyper: disgust
+hyper: horripilate
+hyper: quicken
+hyper: thrill
+hyper: work 10
+hypo: sensitise
+
+w: experience drf noun.cognition:experience drf noun.event:experience
+w: get
+w: have 6
+w: receive 3
+d: go through (mental or physical states or experiences)
+e: get an idea
+e: experience vertigo
+e: get nauseous
+e: receive injuries
+e: have a feeling
+fs: 11 8
+entail: comprehend
+hyper: verb.body:get 11
+hyper: horripilate 1
+hyper: take
+hypo: undergo 4
+
+w: experience 1 drf noun.cognition:experience 1 drf noun.event:experience
+w: go_through
+w: see 12
+d: go or live through
+e: We had many trials to go through
+e: he saw action in Viet Nam
+fs: 8
+hyper: verb.cognition:experience
+hyper: come
+hyper: endure
+hyper: enjoy
+hyper: feel 1
+hyper: find 1
+hyper: meet
+hypo: undergo 4
+
+w: expose 1 drf noun.act:exposure 2 drf noun.quantity:exposure
+d: expose to light, of photographic film
+fs: 8
+hyper: overexpose 1
+hyper: underexpose 1
+hypo: subject 3
+mt: noun.act:photography
+
+w: expose 2 drf noun.act:exposure 6 drf noun.attribute:exposure
+d: expose or make accessible to some action or influence
+e: Expose your students to art
+e: expose the blanket to sunshine
+fs: 9 20
+hyper: aerate
+hyper: insolate
+hyper: overexpose
+hyper: underexpose
+hyper: ventilate
+hypo: subject 3
+
+w: express 9 drf noun.process:expression
+d: manifest the effects of (a gene or genetic trait)
+e: Many of the laboratory animals express the trait
+fs: 11
+hypo: verb.creation:actualise
+
+w: eye drf noun.body:eye drf noun.cognition:eye drf noun.cognition:eye 1
+w: eyeball drf noun.body:eyeball
+d: look at
+fs: 9 8
+hypo: look
+
+w: eyewitness drf noun.person:eyewitness
+d: be present at an event and see it with one's own eyes
+fs: 8
+hypo: witness
+
+w: face 4 drf noun.artifact:face 1 drf noun.location:face
+d: turn so as to expose the face
+e: face a playing card
+fs: 8
+hypo: disclose
+vg: verb.motion:face
+
+w: feel drf noun.attribute:feel drf noun.cognition:feeling 1
+w: sense drf adj.all:sensible drf adj.all:sensitive 1 drf adj.all:sensitive 4 drf adjs.all:sensible 1 drf noun.act:sensing drf noun.artifact:sensor drf noun.cognition:sensation drf noun.cognition:sensation 1 drf noun.cognition:sense 2
+d: perceive by a physical sensation, e.g., coming from the skin or muscles
+e: He felt the wind
+e: She felt an object brushing her arm
+e: He felt his flesh crawl
+e: She felt the heat when she got out of the car
+fs: 9 8
+hypo: comprehend
+vg: verb.stative:feel
+
+w: feel 1 drf noun.state:feeling
+d: undergo passive experience of:"We felt the effects of inflation"
+e: her fingers felt their way through the string quartet
+e: she felt his contempt of her
+fs: 11 8
+hypo: experience 1
+
+w: feel 9 drf noun.state:feel
+d: produce a certain impression
+e: It feels nice to be home again
+fs: 6
+hypo: appear
+
+w: feel 10 drf noun.attribute:feel
+d: grope or feel in search of something
+e: He felt for his wallet
+fs: 9 8
+entail: touch
+hyper: verb.contact:grope_for
+hypo: verb.contact:look_for
+vg: verb.contact:feel
+vg: verb.contact:feel 1
+vg: verb.contact:feel 11
+
+w: find 1 drf noun.person:finder
+w: see 2
+w: witness 1 drf noun.person:witness 1
+d: perceive or be contemporaneous with
+e: We found Republicans winning the offices
+e: You'll see a lot of cheating in this school
+e: The 1960's saw the rebellion of the younger generation against established traditions
+e: I want to see results
+fs: 26 24
+hyper: verb.cognition:catch 10
+hypo: experience 1
+vg: verb.cognition:discover 1
+vg: find 5
+
+w: find 5
+d: perceive oneself to be in a certain condition or place
+e: I found myself in a difficult situation
+e: When he woke up, he found himself in a hospital room
+fs: 20
+hypo: comprehend
+vg: find 1
+
+w: fixate drf noun.cognition:fixation
+d: pay attention to exclusively and obsessively
+e: The media are fixating on Princess Diana's death
+fs: 22
+hypo: advert
+
+w: flash 1
+w: flaunt drf noun.communication:flaunt
+w: ostentate drf noun.attribute:ostentation drf noun.communication:ostentation
+w: show_off drf noun.person:show-off
+w: swank
+d: display proudly; act ostentatiously or pretentiously
+e: he showed off his new sports car
+fs: 8 9
+hyper: flex
+hyper: splurge
+hypo: display
+
+w: flash 2 drf noun.person:flasher drf noun.time:flash
+d: expose or show briefly
+e: he flashed a $100 bill
+fs: 8 2
+hypo: show
+
+w: flavor drf noun.cognition:flavor drf noun.food:flavorer drf noun.food:flavoring
+w: flavour drf noun.cognition:flavour drf noun.food:flavourer drf noun.food:flavouring
+w: season drf noun.act:seasoning drf noun.food:seasoner drf noun.food:seasoning drf noun.person:seasoner
+d: lend flavor to
+e: Season the chicken breast after roasting it
+fs: 8 11
+cause: savor 2
+hyper: verb.contact:sauce
+hyper: curry
+hyper: resinate
+hyper: salt
+hyper: savor 1
+hyper: spice
+mt: noun.act:cookery
+
+w: flex
+d: exhibit the strength of
+e: The victorious army flexes its invincibility
+fs: 8
+hypo: flash 1
+
+w: flick
+w: flicker drf noun.event:flicker
+d: flash intermittently
+e: The lights flicked on and off
+fs: 1
+hypo: blink
+
+w: flick 10
+w: flip 10
+w: leaf 10 drf noun.communication:leaf
+w: riff 10
+w: riffle 10
+w: thumb 10
+d: look through a book or other written material
+e: He thumbed through the report
+e: She leafed through the volume
+fs: 22
+hypo: peruse
+
+w: fluoresce drf adjs.all:fluorescent drf adjs.all:fluorescent 1 drf noun.phenomenon:fluorescence
+d: exhibit or undergo fluorescence
+fs: 1
+hyper: scintillate
+hypo: glow
+
+w: flush
+d: glow or cause to glow with warm color or light
+e: the sky flushed with rosy splendor
+fs: 1 11
+hypo: glow
+
+w: fly
+d: display in the air or cause to float
+e: fly a kite
+e: All nations fly their flags in front of the U.N.
+fs: 8
+hypo: show
+vg: verb.motion:fly 7
+
+w: focus ant blur drf noun.act:focusing drf noun.attribute:focus 1 drf noun.phenomenon:focus
+d: cause to converge on or toward a central point
+e: Focus the light on this image
+fs: 8 11
+hyper: refocus
+hypo: sharpen
+
+w: follow 13
+w: surveil
+w: survey 13
+d: keep under surveillance
+e: The police had been following him for weeks but they could not prove his involvement in the bombing
+fs: 9 10
+vg: verb.motion:follow 13
+
+w: fume
+w: fumigate drf noun.act:fumigation drf noun.artifact:fumigator drf noun.person:fumigator drf noun.phenomenon:fume drf noun.substance:fumigant
+d: treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests
+fs: 8
+hypo: verb.change:process
+
+w: gag drf noun.artifact:gag
+w: muzzle drf noun.artifact:muzzle
+d: prevent from speaking out
+e: The press was gagged
+fs: 9 8
+hypo: verb.change:hush 1
+
+w: gape drf noun.act:gape 1 drf noun.communication:gape
+w: gawk
+w: gawp
+w: goggle
+d: look with amazement; look stupidly
+fs: 22 2
+hypo: look
+
+w: gaze drf noun.act:gaze
+w: stare drf noun.act:stare drf noun.person:starer
+d: look at with fixed eyes
+e: The students stared at the teacher with amazement
+fs: 2 22
+hyper: outface
+hyper: stargaze
+hypo: look
+
+w: get 14
+w: receive 15
+d: receive as a retribution or punishment
+e: He got 5 years in prison
+fs: 8
+vg: catch 9
+
+w: get_a_load
+w: have_a_look
+w: take_a_look
+d: look at with attention
+e: Have a look at this!
+e: Get a load of this pretty woman!
+fs: 22 2
+hypo: look
+
+w: get_a_noseful
+w: get_a_whiff
+d: smell strongly and intensely
+fs: 22
+hypo: smell 1
+
+w: get_off
+d: enjoy in a sexual way
+e: He gets off on shoes
+fs: 22
+hypo: verb.emotion:enjoy 1
+
+w: ginger drf noun.food:ginger drf noun.food:ginger 2
+d: add ginger to in order to add flavor
+e: ginger the soup
+fs: 8
+hypo: spice
+mt: noun.act:cookery
+
+w: give_the_eye
+w: give_the_once_over
+d: look at with a critical eye
+e: When the movie star entered, all the women gave him the once over
+fs: 9 8
+hypo: look
+
+w: give_the_glad_eye
+d: look seductively at someone
+fs: 9
+hypo: look
+
+w: glance drf noun.act:glance
+w: glint 2
+w: peek 2 drf noun.act:peek
+d: throw a glance at; take a brief look at
+e: She only glanced at the paper
+e: I only peeked--I didn't see anything interesting
+fs: 22
+hypo: look
+
+w: glance_over
+w: rake
+w: run_down
+w: scan
+w: skim drf noun.communication:skim drf noun.communication:skimming
+d: examine hastily
+e: She scanned the newspaper headlines while waiting for the taxi
+fs: 9 8
+hypo: examine
+
+w: glare 1 drf noun.attribute:glare
+d: shine intensely
+e: The sun glared down on us
+fs: 1
+hyper: beat 3
+hypo: verb.weather:beam 3
+
+w: glass drf noun.artifact:glass 3
+d: scan (game in the forest) with binoculars
+fs: 8
+hypo: scan 1
+
+w: gleam drf noun.event:gleam drf noun.event:gleaming
+w: glimmer drf noun.event:glimmer
+d: shine brightly, like a star or a light
+fs: 1
+hypo: radiate
+
+w: gleam 1
+w: glint drf noun.event:glint
+w: glisten drf noun.attribute:glisten
+w: glitter drf noun.attribute:glitter
+w: shine 1
+d: be shiny, as if wet
+e: His eyes were glistening
+fs: 1
+hyper: spangle
+hyper: verb.stative:shimmer
+hypo: appear
+
+w: glimpse drf noun.act:glimpse drf noun.cognition:glimpse
+d: catch a glimpse of or see briefly
+e: We glimpsed the Queen as she got into her limousine
+fs: 8
+hypo: see
+
+w: gloat drf noun.feeling:gloat drf noun.feeling:gloating
+d: gaze at or think about something with great self-satisfaction, gratification, or joy
+fs: 22 2
+hypo: look
+
+w: gloss_over
+w: hush_up
+w: sleek_over
+w: whitewash drf noun.act:whitewash
+d: cover up a misdemeanor, fault, or error
+e: Let's not whitewash the crimes of Stalin
+e: She tried to gloss over her mistakes
+fs: 10 8 9
+hypo: cover 12
+
+w: glow drf noun.attribute:glow
+d: emit a steady even light without flames
+e: The fireflies were glowing and flying about in the garden
+fs: 1
+hyper: fluoresce
+hyper: flush
+hypo: radiate
+
+w: glug
+d: make a gurgling sound as of liquid issuing from a bottle
+e: the wine bottles glugged
+fs: 2 1
+hypo: go
+
+w: go
+w: sound drf noun.attribute:sound drf noun.communication:sound drf noun.event:sound drf noun.phenomenon:sound
+d: make a certain noise or sound
+e: She went `Mmmmm'
+e: The gun went `bang'
+fs: 6 1 2 7
+hyper: verb.communication:sing
+hyper: verb.communication:snarl 1
+hyper: babble
+hyper: bang
+hyper: beat
+hyper: beat 1
+hyper: beep
+hyper: birr
+hyper: bleep
+hyper: blow 1
+hyper: blow 5
+hyper: bombilate
+hyper: boom
+hyper: boom 1
+hyper: chatter
+hyper: chime
+hyper: chink
+hyper: chug
+hyper: clang
+hyper: clangor
+hyper: clank
+hyper: click
+hyper: clop
+hyper: crack
+hyper: crack 1
+hyper: crash
+hyper: drone
+hyper: echo
+hyper: glug
+hyper: grumble
+hyper: guggle 1
+hyper: gurgle 2
+hyper: hum
+hyper: knock
+hyper: knock 1
+hyper: lap
+hyper: make_noise
+hyper: patter
+hyper: peal 1
+hyper: ping
+hyper: pop
+hyper: rattle
+hyper: resonate
+hyper: roll
+hyper: rustle
+hyper: skirl
+hyper: slosh
+hyper: splat
+hyper: squelch
+hyper: thud
+hyper: ting
+hyper: trump
+hyper: twang
+hyper: tweet
+hyper: whish
+hyper: whistle
+hypo: cause_to_be_perceived
+
+w: gong drf noun.artifact:gong drf noun.artifact:gong 1
+d: sound a gong
+fs: 8
+hypo: sound 1
+
+w: greet
+d: be perceived by
+e: Loud music greeted him when he entered the apartment
+fs: 11 10
+
+w: groak
+d: look or stare at longingly
+e: The dog his master who was eating a sausage
+fs: 11 8
+hypo: consider 8
+
+w: grumble drf noun.event:grumble drf noun.event:grumbling
+w: rumble drf noun.event:rumble drf noun.event:rumbling
+d: make a low noise
+e: rumbling thunder
+fs: 2 1
+hypo: go
+
+w: guggle 1
+d: make a sound like a liquid that is being poured from a bottle
+fs: 1 2
+hypo: go
+
+w: guide drf noun.person:guide 1 drf noun.person:guide 2
+w: guide_on
+d: use as a guide
+e: They had the lights to guide on
+fs: 8 11
+hypo: orient
+
+w: gurgle 2 drf noun.event:gurgle
+d: make sounds similar to gurgling water
+e: The baby gurgled with satisfaction when the mother tickled it
+fs: 2 1
+hypo: go
+vg: babble
+
+w: hallucinate drf adjs.all:hallucinatory drf noun.cognition:hallucination drf noun.cognition:hallucination 1 drf noun.state:hallucination
+d: perceive what is not there; have illusions
+fs: 8 2
+hypo: comprehend
+
+w: harbor
+w: harbour
+w: shield
+d: hold back a thought or feeling about
+e: She is harboring a grudge against him
+fs: 10 9 11 8
+hypo: conceal 1
+
+w: hark
+w: harken
+w: hearken
+d: listen; used mostly in the imperative
+fs: 22 2
+hypo: listen
+
+w: hear drf adj.all:hearable drf noun.cognition:hearing
+d: perceive (sound) via the auditory sense
+fs: 8 9 2
+hyper: catch
+hyper: catch 12
+hypo: comprehend
+
+w: hear 1
+d: receive a communication from someone
+e: We heard nothing from our son for five years
+fs: 22
+hypo: pick_up 1
+
+w: hear 5 drf noun.act:hearing drf noun.person:hearer
+w: listen 1 drf noun.act:listening drf noun.person:listener
+w: take_heed
+d: listen and pay attention
+e: Listen to your father
+e: We must hear the expert before we make a decision
+fs: 2 22
+hyper: incline
+hypo: verb.cognition:center
+
+w: hear_out
+d: listen to every detail and give a full hearing to
+fs: 9 8
+hypo: listen
+
+w: hide 1
+w: hide_out drf noun.location:hideout
+d: be or go into hiding; keep out of sight, as for protection and safety
+e: Probably his horse would be close to where he was hiding
+e: She is hiding out in a cabin in Montana
+fs: 1 2
+hyper: verb.cognition:lie_low
+hyper: earth
+hyper: hole_up
+hyper: hunker_down
+hyper: lie_low
+hyper: stow_away
+
+w: hold_up
+d: hold up something as an example; hold up one's achievements for admiration
+fs: 10 11 9 8
+hypo: display
+
+w: hole_up
+d: remain secluded or in hiding
+e: He is writing his book and is holing up in his study
+fs: 1
+hypo: hide 1
+
+w: honey drf noun.food:honey
+d: sweeten with honey
+fs: 8
+hypo: dulcify
+
+w: horn_in
+w: intrude
+w: nose drf noun.cognition:nose 1 see nose_out
+w: poke
+w: pry drf noun.cognition:prying
+d: search or inquire in a meddlesome way
+e: This guy is always nosing around the office
+fs: 22
+hypo: look 2
+
+w: horripilate drf noun.act:horripilation
+d: cause (someone's) hair to stand on end and to have goosebumps
+e: Hitchcock movies horripilate me
+fs: 10 9
+hypo: excite
+vg: horripilate 1
+
+w: horripilate 1 drf noun.act:horripilation
+d: have one's hair stand on end and get goosebumps
+e: I horripilate when I see violence on television
+fs: 2
+hypo: experience
+vg: horripilate
+
+w: hum drf noun.event:hum
+w: thrum 1
+d: sound with a monotonous hum
+fs: 1 8 2
+hypo: go
+
+w: hunger drf noun.state:hunger
+d: feel the need to eat
+fs: 2
+hypo: ache
+
+w: hunker_down
+d: take shelter
+e: During the sandstorm, they hunkered down in a small hut
+fs: 2 22
+hypo: hide 1
+
+w: hush drf noun.attribute:hush
+w: pipe_down
+w: quiesce drf adjs.all:quiescent
+w: quiet drf noun.attribute:quiet 2
+w: quiet_down
+w: quieten ant louden
+d: become quiet or quieter
+e: The audience fell silent when the speaker entered
+fs: 2 1
+hypo: change_intensity
+vg: verb.change:hush 1
+
+w: ignore ant notice
+d: fail to notice
+fs: 9 8 26
+hyper: pass_up
+
+w: image 3
+d: render visible, as by means of MRI
+fs: 8
+hypo: visualise
+
+w: incline drf noun.act:inclining
+d: bend or turn (one's ear) towards a speaker in order to listen well
+e: He inclined his ear to the wise old man
+fs: 8
+hypo: hear 5
+
+w: insolate drf noun.act:insolation drf noun.phenomenon:insolation drf noun.state:insolation
+w: solarise drf noun.attribute:solarisation
+w: solarize drf noun.attribute:solarization
+w: sun drf noun.phenomenon:sun
+d: expose to the rays of the sun or affect by exposure to the sun
+e: insolated paper may turn yellow and crumble
+e: These herbs suffer when sunned
+fs: 8
+hypo: expose 2
+
+w: inspect
+d: look over carefully
+e: Please inspect your father's will carefully
+fs: 8 9
+hyper: verb.cognition:go_over
+hyper: case
+hyper: perambulate
+hyper: vet
+hypo: examine
+
+w: instantiate drf noun.cognition:instance drf noun.cognition:instantiation drf noun.event:instance
+d: find an instance of (a word or particular usage of a word)
+e: The linguists could not instantiate this sense of the noun that he claimed existed in a certain dialect
+fs: 2
+hypo: detect
+vg: instantiate 1
+
+w: instantiate 1 drf noun.cognition:instance drf noun.cognition:instantiation drf noun.event:instance
+d: represent by an instance
+e: This word instantiates the usage that the linguists claimed to be typical for a certain dialect
+fs: 11
+hypo: verb.social:represent 2
+vg: instantiate
+
+w: itch drf noun.cognition:itch drf noun.cognition:itching drf noun.state:itch
+d: have or perceive an itch
+e: I'm itching--the air is so dry!
+fs: 22 10 23 1
+hyper: prickle
+hyper: tickle
+hypo: ache
+
+w: itch 1 drf noun.cognition:itch drf noun.state:itch
+w: rub drf noun.act:rub
+w: scratch drf noun.person:scratcher drf noun.state:scratch
+d: scrape or rub as if to relieve itching
+e: Don't scratch your insect bites!
+fs: 10 8 11 1
+hypo: verb.body:irritate
+
+w: itch 2
+d: cause to perceive an itch
+e: his skin itched
+fs: 1
+
+w: jangle drf noun.event:jangle
+w: jingle drf noun.event:jingle
+w: jingle-jangle
+d: make a sound typical of metallic objects
+e: The keys were jingling in his pocket
+fs: 1
+hypo: make_noise
+
+w: keep_one's_eyes_open
+w: keep_one's_eyes_peeled
+w: keep_one's_eyes_skinned
+d: pay attention; be watchful
+e: Keep your eyes peeled for any policemen
+fs: 22 2
+hypo: look_out
+mu: noun.communication:colloquialism
+
+w: kill drf noun.cognition:killer
+d: be the source of great pain for
+e: These new shoes are killing me!
+fs: 10 11
+hypo: ache 1
+
+w: knell drf noun.event:knell
+d: ring as in announcing death
+fs: 1
+hypo: peal 1
+
+w: knell 1 drf noun.event:knell
+w: ring 1 fs 2 drf noun.event:ring drf noun.event:ringing drf noun.person:ringer 2
+d: make (bells) ring, often for the purposes of musical edification
+e: Ring the bells
+e: My uncle rings every Sunday at the local church
+fs: 11 8
+cause: go
+hyper: toll
+hypo: sound 1
+
+w: knock drf noun.event:knock 1
+w: pink
+w: rap drf noun.event:rap 1
+w: tap 1 drf noun.act:tap drf noun.event:tap drf noun.event:tap 1 drf noun.event:tapping
+d: make light, repeated taps on a surface
+e: he was tapping his fingers on the table impatiently
+fs: 1 22
+hypo: go
+
+w: knock 1 drf noun.event:knock 1 drf noun.event:knocking
+w: ping 1 drf noun.event:ping
+w: pink 3
+d: sound like a car engine that is firing too early
+e: the car pinged when I put in low-octane gasoline
+e: The car pinked when the ignition was too far retarded
+fs: 1
+hypo: go
+
+w: lap
+w: swish drf noun.event:swish
+w: swoosh
+w: swosh
+d: move with or cause to move with a whistling or hissing sound
+e: The bubbles swoshed around in the glass
+e: The curtain swooshed open
+fs: 1 22
+hypo: go
+
+w: leer drf noun.attribute:leer drf noun.communication:leer
+d: look suggestively or obliquely; look or gaze with a sly, immodest, or malign expression
+e: The men leered at the young women on the beach
+fs: 22 2
+hypo: look
+
+w: lie_low
+d: keep a low profile, try to be inconspicuous
+fs: 2 1
+hypo: hide 1
+
+w: listen drf noun.act:listening drf noun.person:listener see listen_in
+d: hear with intention
+e: Listen to the sound of this cello
+fs: 22 2
+entail: hear
+hyper: advert
+hyper: eavesdrop
+hyper: hark
+hyper: hear_out
+hyper: listen_in 1
+hypo: comprehend
+
+w: listen_in 1
+d: listen quietly, without contributing to the conversation
+fs: 2
+hypo: listen
+
+w: look drf noun.act:look drf noun.person:looker 1 see verb.cognition:look_back see verb.cognition:look_into see verb.communication:look_up see verb.contact:look_for see verb.emotion:look_up_to see look_after see look_away see look_back see look_on
+d: perceive with attention; direct one's gaze towards
+e: She looked over the expanse of land
+e: Look at your child!
+e: Look--a deer in the backyard!
+fs: 2 22
+entail: see
+hyper: verb.body:stare
+hyper: admire
+hyper: consider 4
+hyper: eye
+hyper: gape
+hyper: gaze
+hyper: get_a_load
+hyper: give_the_eye
+hyper: give_the_glad_eye
+hyper: glance
+hyper: gloat
+hyper: leer
+hyper: look_around
+hyper: look_away
+hyper: look_back
+hyper: ogle
+hyper: peep
+hyper: peer
+hyper: squint
+
+w: look 2
+w: search drf noun.act:search drf noun.person:searcher drf noun.person:searcher 1
+d: search or seek
+e: We looked all day and finally found the child in the forest
+e: Look elsewhere for the perfect gift!
+fs: 9 8
+hyper: verb.competition:hunt 2
+hyper: cruise
+hyper: horn_in
+hyper: prospect
+hypo: examine
+
+w: look_after
+d: keep under careful scrutiny
+e: Keep an eye on this prisoner!
+fs: 8 9
+hypo: look_out
+
+w: look_around
+d: look about oneself
+e: look around to see whether you can find the missing document
+fs: 22 2
+hypo: look
+
+w: look_away
+d: avert one's gaze
+e: She looked away when the nurse pricked her arm with the needle
+fs: 22 2
+hypo: look
+
+w: look_back
+w: look_backward
+d: look towards one's back
+e: don't look back while you walk
+fs: 1 22 2 4
+hypo: look
+
+w: look_on
+w: watch 2 fs 8 drf noun.act:watch drf noun.act:watching drf noun.person:watcher 2
+d: observe with attention
+e: They watched as the murderer was executed
+fs: 2
+entail: see
+hyper: verb.social:sit_back
+
+w: look_out drf noun.act:lookout drf noun.artifact:lookout drf noun.location:lookout drf noun.person:lookout
+w: watch 1 drf noun.person:watch drf noun.person:watcher 1
+w: watch_out
+d: be vigilant, be on the lookout or be careful
+e: Watch out for pickpockets!
+fs: 22 2
+hyper: verb.cognition:beware
+hyper: keep_one's_eyes_open
+hyper: look_after
+
+w: lose
+d: allow to go out of sight
+e: The detective lost the man he was shadowing after he had to stop at a red light
+fs: 9 8
+
+w: lose 1
+w: miss
+d: fail to perceive or to catch with the senses or the mind
+e: I missed that remark
+e: She missed his point
+e: We lost part of what he said
+fs: 8 9
+hyper: overlook 1
+
+w: lose_sight_of
+d: be no longer able to see
+e: We lost sight of the tower as pulled out of the harbor
+fs: 8 9
+
+w: louden ant quieten
+d: become louder
+e: The room loudened considerably
+fs: 2 1
+hypo: change_intensity
+vg: verb.change:louden
+
+w: make 12
+d: appear to begin an activity
+e: He made to speak but said nothing in the end
+e: She made as if to say hello to us
+fs: 28 2
+hypo: appear
+
+w: make_noise
+w: noise drf noun.cognition:noise drf noun.event:noise
+w: resound drf adjs.all:resonant 1
+d: emit a noise
+fs: 2 1
+hyper: verb.communication:claxon
+hyper: verb.communication:crackle
+hyper: verb.communication:howl 1
+hyper: verb.communication:hum 1
+hyper: verb.communication:purl
+hyper: verb.communication:sizzle
+hyper: backfire
+hyper: blare 1
+hyper: brattle
+hyper: clitter
+hyper: creak
+hyper: drown_out
+hyper: jangle
+hyper: racket
+hyper: ring_out
+hyper: scream
+hypo: go
+
+w: mark drf noun.communication:mark 5
+w: note
+w: notice ant ignore drf adj.all:noticeable drf adjs.all:noticeable drf adjs.all:noticeable 1 drf noun.cognition:notice drf noun.person:noticer 1
+d: notice or perceive
+e: She noted that someone was following her
+e: mark my words
+fs: 9 26 8
+entail: comprehend
+hyper: take_notice
+
+w: masquerade drf noun.artifact:masquerade drf noun.group:masquerade drf noun.person:masquerader
+d: take part in a masquerade
+fs: 9
+hypo: disguise
+
+w: meet
+w: suffer 2
+d: undergo or suffer
+e: meet a violent death
+e: suffer a terrible fate
+fs: 8
+hypo: experience 1
+
+w: misperceive
+d: perceive incorrectly
+fs: 2 8
+hyper: see_double
+hypo: comprehend
+
+w: model drf noun.person:model 2
+d: display (clothes) as a mannequin
+e: model the latest fashion
+fs: 8 2
+hypo: display
+
+w: model 1 drf noun.person:model
+w: pose drf noun.act:posing drf noun.attribute:pose 1 drf noun.person:poser
+w: posture drf noun.attribute:posture
+w: sit drf noun.act:sitting 1 drf noun.person:sitter 2
+d: assume a posture as for artistic purposes
+e: We don't know the woman who posed for Leonardo so often
+fs: 2
+hyper: ramp
+hypo: display
+mt: noun.act:art
+
+w: monitor drf noun.act:monitoring drf noun.artifact:monitor drf noun.person:monitor 1
+w: supervise drf noun.act:supervision drf noun.person:supervisor
+d: keep tabs on; keep an eye on; keep under surveillance
+e: we are monitoring the air quality
+e: the police monitor the suspect's moves
+fs: 8 9
+hyper: verb.communication:sleuth
+hypo: observe
+
+w: monitor 1
+d: check, track, or observe by means of a receiver
+fs: 8 10
+hypo: observe
+
+w: moon drf noun.object:moon 2
+d: expose one's buttocks to
+e: moon the audience
+fs: 8 9
+hypo: display
+
+w: mull drf noun.artifact:muller 1
+d: heat with sugar and spices to make a hot drink
+e: mulled cider
+fs: 11 8
+hypo: dulcify
+
+w: nauseate drf noun.artifact:nauseant drf noun.feeling:nausea drf noun.state:nausea
+w: sicken
+w: turn_one's_stomach
+d: upset and make nauseated
+e: The smell of the food turned the pregnant woman's stomach
+e: The mold on the food sickened the diners
+fs: 10
+hypo: disgust
+
+w: nettle drf noun.plant:nettle
+w: urticate drf noun.cognition:urtication
+d: sting with or as with nettles and cause a stinging pain or sensation
+fs: 11
+hypo: bite
+vg: urticate 1
+
+w: nose 1 drf noun.body:nose drf noun.cognition:nose
+w: scent 1 drf noun.attribute:scent drf noun.cognition:scent see scent_out
+w: wind
+d: catch the scent of; get wind of
+e: The dog nosed out the drugs
+fs: 8 9
+hypo: smell 1
+
+w: nose_out
+w: scent_out
+w: smell_out
+w: sniff_out
+d: recognize or detect by or as if by smelling
+e: He can smell out trouble
+fs: 9 8
+entail: smell 1
+
+w: note 2
+w: observe 1 drf adjs.all:observable drf adjs.all:observant 1 drf noun.act:observation drf noun.cognition:observation drf noun.cognition:observation 2 drf noun.communication:observation drf noun.person:observer
+w: take_note fs 2
+d: observe with care or pay close attention to
+e: Take note of this chemical reaction
+fs: 8 9
+entail: comprehend
+
+w: observe drf adjs.all:observable drf noun.act:observance drf noun.act:observation drf noun.cognition:observation drf noun.cognition:observation 2 drf noun.communication:observation
+d: watch attentively
+e: Please observe the reaction of these two chemicals
+fs: 9 8 2
+hyper: verb.competition:bird
+hyper: monitor
+hyper: monitor 1
+hyper: reconnoiter
+hyper: track
+hypo: watch
+
+w: occult
+d: hide from view
+e: The lids were occulting her eyes
+fs: 11
+hypo: conceal
+
+w: occult 2
+d: become concealed or hidden from view or have its light extinguished
+e: The beam of light occults every so often
+fs: 1
+hypo: verb.change:change
+
+w: odorize ant deodorize drf noun.attribute:odor drf noun.cognition:odor
+w: odourise ant deodourise drf noun.attribute:odor drf noun.attribute:odour drf noun.cognition:odor drf noun.cognition:odour
+w: scent 2 drf noun.attribute:scent drf noun.cognition:scent drf noun.cognition:scent 1
+d: cause to smell or be smelly
+fs: 8
+cause: smell
+hyper: aromatise
+hyper: cense
+hyper: smell_up
+hypo: cause_to_be_perceived
+
+w: offer 6
+d: produce or introduce on the stage
+e: The Shakespeare Company is offering `King Lear' this month
+fs: 8
+hypo: bring_on
+
+w: ogle drf noun.person:ogler
+d: look at with amorous intentions
+fs: 9 8
+hypo: look
+
+w: open 10 ant close 10
+d: display the contents of a file or start an application as on a computer
+fs: 8
+hypo: display
+
+w: orient ant disorient
+w: orientate
+d: determine one's position with reference to another point
+e: We had to orient ourselves in the forest
+fs: 9
+hyper: guide
+hyper: reorient
+hypo: verb.cognition:decide
+
+w: outface
+w: outstare
+w: stare_down
+d: overcome or cause to waver or submit by (or as if by) staring
+e: He simply stared down his opponent
+fs: 8 9
+hypo: gaze
+
+w: overexpose ant underexpose drf noun.act:overexposure 1
+d: expose excessively
+e: As a child, I was overexposed to French movies
+fs: 9 20
+hypo: expose 2
+mt: noun.act:photography
+
+w: overexpose 1 ant underexpose 1 drf noun.act:overexposure
+d: expose to too much light
+e: the photographic film was overexposed and there is no image
+fs: 8
+hyper: solarise 1
+hypo: expose 1
+mt: noun.act:photography
+
+w: overlook
+d: watch over
+e: I am overlooking her work
+fs: 8 9
+hypo: survey
+
+w: overlook 1
+d: look past, fail to notice
+fs: 8 9
+hypo: lose 1
+
+w: overshadow
+d: cast a shadow upon
+e: The tall tree overshadowed the house
+fs: 11
+hyper: eclipse
+hypo: becloud
+
+w: pass_off
+d: be accepted as something or somebody in a false character or identity
+e: She passed off as a Russian agent
+fs: 4 22
+hypo: appear
+
+w: pass_up
+d: fail to acknowledge
+e: he passed me up in the street
+fs: 9
+hypo: ignore
+
+w: patter drf noun.event:patter
+w: pitter-patter drf noun.event:pitter-patter
+d: make light, rapid and repeated sounds
+e: gently pattering rain
+fs: 22 1
+hypo: go
+
+w: peal drf noun.event:peal drf noun.event:pealing
+d: ring recurrently
+e: bells were pealing
+fs: 1
+hypo: peal 1
+
+w: peal 1 drf noun.event:peal drf noun.event:pealing
+w: ring drf noun.event:ring drf noun.event:ringing see ring_out
+d: sound loudly and sonorously
+e: the bells rang
+fs: 1
+hyper: ding
+hyper: knell
+hyper: peal
+hyper: tintinnabulate
+hypo: go
+
+w: peep drf noun.act:peep drf noun.person:peeper
+d: look furtively
+e: He peeped at the woman through the window
+fs: 22
+hypo: look
+
+w: peep 1
+d: cause to appear
+e: he peeped his head through the window
+fs: 8
+hypo: show
+
+w: peer
+d: look searchingly
+e: We peered into the back of the shop to see whether a salesman was around
+fs: 22
+hypo: look
+
+w: pepper drf noun.food:pepper 1
+d: add pepper to
+e: pepper the soup
+fs: 8
+hypo: spice
+mt: noun.act:cookery
+
+w: perambulate drf noun.act:perambulation 1
+d: make an official inspection on foot of (the bounds of a property)
+e: Selectmen are required by law to perambulate the bounds every five years
+fs: 8
+hypo: inspect
+
+w: peruse drf noun.communication:perusal drf noun.communication:perusing
+d: examine or consider with attention and in detail
+e: Please peruse this report at your leisure
+fs: 8
+hyper: flick 10
+hypo: examine
+
+w: photosensitise
+w: photosensitize
+d: make (an organism or substance) sensitive to the influence of radiant energy and especially light
+fs: 11 8
+hypo: sensitise
+
+w: pick_up 1
+w: receive drf adjs.all:receptive drf noun.artifact:receiver drf noun.body:receptor
+d: register (perceptual input)
+e: pick up a signal
+fs: 11
+hyper: hear 1
+hypo: comprehend
+
+w: pierce
+d: sound sharply or shrilly
+e: The scream pierced the night
+fs: 11
+hypo: sound 3
+
+w: ping drf noun.event:ping
+d: make a short high-pitched sound
+e: the bullet pinged when they struck the car
+fs: 1
+hypo: go
+
+w: pop drf noun.event:pop drf noun.event:popping
+d: make a sharp explosive noise
+e: The cork of the champagne bottle popped
+fs: 1
+hyper: sputter
+hypo: go
+vg: pop 6
+
+w: pop 6 drf noun.event:pop
+d: cause to make a sharp explosive sound
+e: He popped the champagne bottle
+fs: 8
+hypo: sound 1
+vg: pop
+
+w: prepare drf noun.communication:preparation
+d: lead up to and soften by sounding the dissonant note in it as a consonant note in the preceding chord
+e: prepare the discord in bar 139
+fs: 8
+hypo: sound 1
+mt: noun.communication:music
+
+w: preview drf noun.communication:preview
+d: watch (a movie or play) before it is released to the general public
+fs: 8
+hypo: catch 2
+
+w: prick
+w: sting drf noun.act:stinger drf noun.animal:stinger drf noun.state:sting drf noun.state:stinging
+w: twinge drf noun.cognition:twinge
+d: cause a stinging pain
+e: The needle pricked his skin
+fs: 11 10
+hyper: prick 1
+hypo: ache 1
+
+w: prick 1
+w: prickle 1 drf noun.cognition:prickling
+d: cause a prickling sensation
+fs: 1 23
+hypo: prick
+
+w: prickle drf noun.cognition:prickling
+w: tingle drf noun.cognition:tingle drf noun.cognition:tingling drf noun.feeling:tingle
+d: cause a stinging or tingling sensation
+fs: 1 23
+hypo: itch
+
+w: project drf noun.phenomenon:projection
+d: cause to be heard
+e: His voice projects well
+fs: 2 8 1 11
+hypo: cause_to_be_perceived
+
+w: project 1 drf noun.artifact:projector drf noun.communication:projection
+d: project on a screen
+e: The images are projected onto the screen
+fs: 8 11
+cause: verb.change:appear
+hyper: silhouette
+hypo: show
+
+w: prospect drf noun.state:prospect
+d: search for something desirable
+e: prospect a job
+fs: 8
+hypo: look 2
+
+w: put 13
+d: cause (someone) to undergo something
+e: He put her to the torture
+fs: 20
+hypo: subject 3
+
+w: quicken
+w: whet
+d: make keen or more acute
+e: whet my appetite
+fs: 8
+hypo: excite
+
+w: racket drf noun.event:racket
+d: make loud and annoying noises
+fs: 2 1
+hypo: make_noise
+
+w: radiate drf adjs.all:radiant drf noun.attribute:radiance
+d: cause to be seen by emitting light as if in rays
+e: The sun is radiating
+fs: 1
+hyper: blink
+hyper: gleam
+hyper: glow
+hypo: cause_to_be_perceived
+
+w: ramp drf adjs.all:rampant 2
+d: be rampant
+e: the lion is rampant in this heraldic depiction
+fs: 1
+hypo: model 1
+mt: noun.cognition:heraldry
+
+w: rattle drf noun.event:rattle drf noun.event:rattling see verb.communication:rattle_down see verb.communication:rattle_off see verb.communication:rattle_on
+d: make short successive sounds
+fs: 1 4
+hyper: crackle
+hyper: ruckle
+hypo: go
+
+w: reach_one's_nostrils
+d: be smelled; have a strong odor
+fs: 2 1
+entail: smell
+
+w: reconnoiter drf noun.act:reconnaissance 1 drf noun.act:reconnoitering
+w: reconnoitre drf noun.act:reconnaissance 1 drf noun.act:reconnoitring
+w: scout drf noun.act:scouting drf noun.person:scout drf noun.person:scout 2 drf noun.person:scouter
+d: explore, often with the goal of finding something or somebody
+fs: 8 2
+hypo: observe
+
+w: record
+w: register
+d: be aware of
+e: Did you register any change when I pressed the button?
+fs: 8 9 11
+entail: comprehend
+vg: verb.cognition:register
+vg: register 1
+
+w: redevelop
+d: develop for a second time, in order to improve the contrast, colour, etc., of a negative or print
+fs: 8
+hypo: develop
+mt: noun.process:photography
+
+w: rediscover drf noun.act:rediscovery
+d: discover again
+e: I rediscovered the books that I enjoyed as a child
+fs: 9 8
+hypo: discover
+
+w: redound
+d: return or recoil
+e: Fame redounds to the heroes
+fs: 4
+hypo: verb.possession:return 3
+
+w: reecho
+d: repeat or return an echo again or repeatedly; send (an echo) back
+fs: 1
+hypo: echo
+
+w: reecho 1
+d: echo repeatedly, echo again and again
+fs: 11 1
+hypo: echo
+
+w: reek drf noun.cognition:reek
+w: stink drf noun.artifact:stinker 1 drf noun.cognition:stink see stink_out see stink_up
+d: smell badly and offensively
+e: The building reeks of smoke
+fs: 1 2
+hypo: smell 2
+
+w: reek 13
+w: smack 13
+w: smell 3
+d: have an element suggestive (of something)
+e: his speeches smacked of racism
+e: this passage smells of plagiarism
+fs: 11
+hypo: verb.communication:evoke 1
+
+w: reflect drf noun.artifact:reflector
+w: reverberate 4 drf adj.all:reverberant
+d: to throw or bend back (from a surface)
+e: Sound is reflected well in this auditorium
+fs: 8 11
+hyper: reverberate 6
+hyper: verb.weather:mirror
+mt: noun.cognition:acoustics
+vg: reverberate 6
+
+w: reflect 1
+d: manifest or bring back
+e: This action reflects his true beliefs
+fs: 11
+hypo: verb.communication:designate 3
+
+w: reflect 2
+d: show an image of
+e: her sunglasses reflected his image
+fs: 11
+hypo: show
+mt: noun.cognition:optics
+
+w: refocus drf noun.act:refocusing
+d: focus once again; The physicist refocused the light beam"
+fs: 11 8
+hypo: focus
+
+w: refract drf adj.pert:refractive drf adjs.all:refractive drf noun.phenomenon:refraction
+d: subject to refraction
+e: refract a light beam
+fs: 8 11
+hypo: subject 3
+mt: noun.cognition:optics
+
+w: register 1
+d: show in one's face
+e: Her surprise did not register
+fs: 8 11
+hypo: show 1
+vg: record
+
+w: reorient drf noun.cognition:reorientation
+w: reorientate
+d: orient once again, after a disorientation
+fs: 9 10
+hypo: orient
+
+w: resinate drf noun.substance:resin
+d: impregnate with resin to give a special flavor to
+e: Greek wines are often resinated
+fs: 8
+hypo: flavor
+mt: noun.act:viniculture
+
+w: resolve drf noun.cognition:resolving
+d: make clearly visible
+e: can this image be resolved?
+fs: 8
+hypo: discern
+mt: noun.cognition:optics
+
+w: resonate drf noun.artifact:resonator drf noun.artifact:resonator 2 drf noun.attribute:resonance drf noun.attribute:resonance 1 drf noun.phenomenon:resonance
+w: vibrate drf adjs.all:vibrant 1 drf adjs.all:vibratory drf noun.attribute:vibrancy
+d: sound with resonance
+e: The sound resonates well in this theater
+fs: 11 1
+hyper: verb.communication:make_vibrant_sounds
+hypo: go
+
+w: reveal 4 drf adjs.all:revelatory drf noun.communication:Revelation drf noun.communication:revelation 1
+d: disclose directly or through prophets
+e: God rarely reveal his plans for Mankind
+fs: 8
+hypo: verb.communication:break
+mt: noun.cognition:theological_system
+
+w: reverberate 6 drf adj.all:reverberant
+d: be reflected as heat, sound, or light or shock waves
+e: the waves reverberate as far away as the end of the building
+fs: 1
+hypo: reflect
+vg: reflect
+
+w: ring_out
+d: sound loudly
+e: a shot rang out
+fs: 1
+hypo: make_noise
+
+w: roll drf noun.event:roll drf noun.event:roll 3 drf noun.event:rolling
+d: emit, produce, or utter with a deep prolonged reverberating sound
+e: The thunder rolled
+e: rolling drums
+fs: 1
+hypo: go
+
+w: rubberneck drf noun.act:rubber-necking drf noun.person:rubberneck
+d: strain to watch; stare curiously
+e: The cars slowed down and the drivers rubbernecked after the accident
+fs: 2
+hypo: watch
+
+w: ruckle
+d: make a hoarse, rattling sound
+fs: 2 1
+hypo: rattle
+
+w: rustle drf noun.event:rustle drf noun.event:rustling
+d: make a dry crackling sound
+e: rustling silk
+e: the dry leaves were rustling in the breeze
+fs: 1
+hypo: go
+
+w: saccharify
+w: sugar drf noun.food:sugar
+d: sweeten with sugar
+e: sugar your tea
+fs: 8
+hypo: dulcify
+
+w: salt drf noun.act:salting drf noun.cognition:salt drf noun.food:salt drf noun.person:salter 1
+d: add salt to
+fs: 8
+hypo: flavor
+mt: noun.act:cookery
+
+w: salute
+d: become noticeable
+e: a terrible stench saluted our nostrils
+fs: 10 11
+hypo: smell 2
+
+w: savor drf noun.act:savoring
+w: savour drf noun.act:savouring drf noun.cognition:savour
+d: taste appreciatively
+e: savor the soup
+fs: 8
+hypo: taste
+
+w: savor 1 drf noun.cognition:savor
+w: savour 1 drf noun.cognition:savour
+d: give taste to
+fs: 11 8
+hypo: flavor
+mt: noun.act:cookery
+
+w: savor 2 drf noun.cognition:savor
+w: savour 2 drf noun.cognition:savour
+w: taste 2 drf noun.act:taste drf noun.cognition:taste 2 drf noun.cognition:taste 4
+d: have flavor; taste of something
+fs: 1 6
+hyper: smack 12
+
+w: scan 1 drf noun.act:scan drf noun.artifact:scan
+d: examine minutely or intensely
+e: the surgeon scanned the X-ray
+fs: 9 8
+hyper: glass
+hypo: examine
+
+w: scintillate drf noun.phenomenon:scintillation
+d: physics: fluoresce momentarily when struck by a charged particle or high-energy photon
+e: the phosphor fluoresced
+fs: 1
+hypo: fluoresce
+
+w: scream drf noun.event:scream drf noun.event:screaming
+d: make a loud, piercing sound
+e: Fighter planes are screaming through the skies
+fs: 1
+hypo: make_noise
+
+w: screen drf noun.artifact:screen 6 drf noun.communication:screening
+d: project onto a screen for viewing
+e: screen a film
+fs: 8
+hypo: show
+
+w: scrutinise drf noun.act:scrutiny drf noun.act:scrutiny 1 drf noun.person:scrutiniser
+w: scrutinize drf noun.act:scrutiny drf noun.act:scrutiny 1 drf noun.person:scrutinizer
+w: size_up
+w: take_stock
+d: to look at critically or searchingly, or in minute detail
+e: he scrutinized his likeness in the mirror
+fs: 8 9
+hypo: examine
+
+w: secrete 2 drf adjs.all:secretive
+d: place out of sight; keep secret
+e: The money was secreted from his children
+fs: 8
+hypo: conceal 1
+
+w: see drf noun.cognition:seeing 1 drf noun.cognition:seeing 2 drf noun.person:seer 2
+d: perceive by sight or have the power to perceive by sight
+e: You have to be a good observer to see all the details
+e: Can you see the bird in that tree?
+e: He is blind--he cannot see
+fs: 8 2 9
+hyper: behold
+hyper: catch_a_glimpse
+hyper: glimpse
+hyper: see 5
+hypo: comprehend
+vg: catch 2
+vg: see 11
+
+w: see 5 drf noun.cognition:seeing 1
+d: see and understand, have a good eye
+e: The artist must first learn to see
+fs: 2
+hypo: see
+vg: verb.cognition:realise
+
+w: see 11
+d: observe as if with an eye
+e: The camera saw the burglary and recorded it
+fs: 11 10
+hypo: detect
+vg: see
+
+w: see_double
+d: see things as if they were there twice
+e: After taking the drug, John saw double
+fs: 2
+entail: see
+hypo: misperceive
+
+w: see_through
+d: perceive the true nature of
+e: We could see through her apparent calm
+fs: 9 8
+hypo: comprehend
+
+w: seel
+d: sew up the eyelids of hawks and falcons
+fs: 8
+hypo: blind 1
+mt: noun.cognition:falconry
+
+w: seem 2
+d: appear to one's own mind or opinion
+e: I seem to be misunderstood by everyone
+e: I can't seem to learn these Chinese characters
+fs: 28
+hypo: appear 1
+
+w: sense 2 drf adj.all:sensitive 1 drf noun.cognition:sense 2
+d: detect some circumstance or entity automatically
+e: This robot can sense the presence of people in the room
+e: particle detectors sense ionization
+fs: 11
+hypo: detect
+
+w: sensitise ant desensitise
+w: sensitize ant desensitize
+d: cause to sense; make sensitive
+e: She sensitized me with respect to gender differences in this traditional male-dominated society
+e: My tongue became sensitized to good wine
+fs: 10 9 8
+cause: feel
+hyper: excite
+hyper: photosensitise
+
+w: sharpen ant soften
+d: make (images or sounds) sharp or sharper
+fs: 11 10 8
+hyper: focus
+hypo: change_intensity
+
+w: shipwreck drf noun.artifact:shipwreck
+d: cause to experience shipwreck
+e: They were shipwrecked in one of the mysteries at sea
+fs: 10 11 9 8
+hypo: subject 3
+mt: noun.act:seafaring 1
+
+w: shoot
+d: cause a sharp and sudden pain in
+e: The pain shot up her leg
+fs: 4
+hypo: ache
+
+w: show ant hide see show_off
+d: make visible or noticeable
+e: She showed her talent for cooking
+e: Show me your etchings, please
+fs: 9 14 8 11 15
+cause: see
+hyper: verb.creation:give 13
+hyper: bring_out
+hyper: demo
+hyper: display
+hyper: do_justice
+hyper: etch
+hyper: flash 2
+hyper: fly
+hyper: peep 1
+hyper: project 1
+hyper: reflect 2
+hyper: screen
+hyper: verb.stative:define 3
+
+w: show 1
+w: show_up
+d: be or become visible or noticeable
+e: His good upbringing really shows
+e: The dirty side will show
+fs: 4 1
+hyper: register 1
+hypo: verb.change:appear
+
+w: sight drf noun.act:sight drf noun.act:sighting drf noun.cognition:sight drf noun.cognition:sight 1 drf noun.cognition:sight 2 drf noun.communication:sight
+w: spy 1
+d: catch sight of; to perceive with the eyes
+e: he caught sight of the king's men coming over the ridge
+fs: 9 8
+hyper: descry
+hyper: detect
+hypo: comprehend
+
+w: sight 3
+d: take aim by looking through the sights of a gun (or other device)
+fs: 2
+hypo: verb.competition:aim
+
+w: silhouette drf noun.location:silhouette
+d: project on a background, such as a screen, like a silhouette
+fs: 9 8 10 11
+hypo: project 1
+
+w: skirl drf noun.event:skirl
+d: make a shrill, wailing sound
+e: skirling bagpipes
+fs: 1
+hypo: go
+
+w: slosh
+w: slush
+w: splash drf noun.event:splash
+w: splosh
+d: make a splashing sound
+e: water was splashing on the floor
+fs: 22 1
+hypo: go
+
+w: smack 12 drf noun.cognition:smack
+w: taste 12 drf noun.act:taste drf noun.act:tasting drf noun.cognition:taste 2 drf noun.cognition:taste 4
+d: have a distinctive or characteristic taste
+e: This tastes of nutmeg
+fs: 11
+hypo: savor 2
+
+w: smell drf noun.act:smell drf noun.attribute:smell drf noun.cognition:smell 1 drf noun.cognition:smell 2 see smell_up
+d: emit an odor
+e: The soup smells good
+fs: 1 2 6 7
+hyper: smell 2
+hypo: cause_to_be_perceived
+
+w: smell 1 drf noun.act:smell drf noun.act:smelling drf noun.attribute:smell drf noun.cognition:smell 1 drf noun.cognition:smell 2
+d: inhale the odor of; perceive by the olfactory sense
+fs: 8 9
+hyper: get_a_noseful
+hyper: nose 1
+hyper: sniff
+hyper: snuff
+hypo: comprehend
+
+w: smell 2 drf noun.cognition:smell 2
+d: smell bad
+e: He rarely washes, and he smells
+fs: 2 1
+hyper: reek
+hyper: salute
+hypo: smell
+
+w: smell_up
+w: stink_out
+w: stink_up
+d: cause to smell bad; fill with a bad smell
+fs: 8
+hypo: odorize
+
+w: sniff drf noun.act:sniff drf noun.person:sniffer see sniff_out
+w: whiff
+d: perceive by inhaling through the nose
+e: sniff the perfume
+fs: 9 8
+hypo: smell 1
+
+w: snow-blind
+d: affect with snow blindness
+e: the glare of the sun snow-blinded her
+fs: 10
+hypo: blind 1
+
+w: snuff drf noun.act:snuff
+w: snuffle
+d: sniff or smell inquiringly
+fs: 8
+hypo: smell 1
+
+w: soften ant sharpen
+d: make (images or sounds) soft or softer
+fs: 8 10 11
+hyper: damp
+hypo: change_intensity
+
+w: solarise 1
+w: solarize 1
+d: overexpose to sunlight
+e: be careful not to solarize the photographic film
+fs: 8
+hypo: overexpose 1
+mt: noun.act:photography
+vg: solarise 2
+vg: solarise 3
+
+w: solarise 2
+w: solarize 2
+d: become overexposed
+e: The film solarized
+fs: 1
+hypo: verb.change:change
+mt: noun.act:photography
+vg: solarise 1
+vg: solarise 3
+
+w: solarise 3
+w: solarize 3
+d: reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it
+fs: 11
+hypo: develop
+mt: noun.act:photography
+vg: solarise 1
+vg: solarise 2
+
+w: sound 1 drf noun.attribute:sound drf noun.cognition:sound drf noun.event:sound drf noun.phenomenon:sound see verb.creation:sound_off
+d: cause to sound
+e: sound the bell
+e: sound a certain note
+fs: 8 11
+cause: go
+hyper: verb.creation:play 1
+hyper: blow
+hyper: clink 1
+hyper: gong
+hyper: knell 1
+hyper: pop 6
+hyper: prepare
+hyper: strum
+hyper: ting 1
+hyper: twang 1
+
+w: sound 2 drf noun.attribute:sound drf noun.cognition:sound drf noun.communication:sound drf noun.communication:sound 1 drf noun.event:sound drf noun.phenomenon:sound
+d: announce by means of a sound
+e: sound the alarm
+fs: 8
+hypo: verb.communication:announce
+
+w: sound 3 drf noun.attribute:sound drf noun.cognition:sound drf noun.event:sound drf noun.phenomenon:sound
+d: give off a certain sound or sounds
+e: This record sounds scratchy
+fs: 7 6
+hyper: verb.communication:cackel 2
+hyper: verb.creation:play 11
+hyper: dissonate
+hyper: pierce
+hyper: speak
+
+w: sound 6
+d: appear in a certain way
+e: This sounds interesting
+fs: 7 6
+hypo: appear
+
+w: spangle drf noun.artifact:spangle
+d: glitter as if covered with spangles
+fs: 1
+hypo: gleam 1
+
+w: speak
+d: make a characteristic or natural sound
+e: The drums spoke
+fs: 1
+hypo: sound 3
+
+w: spectate drf noun.person:spectator
+d: be a spectator in a sports event
+fs: 2
+hypo: catch 2
+
+w: spice drf noun.attribute:spice drf noun.attribute:spicery drf noun.food:spice drf noun.substance:spice
+w: spice_up
+w: zest drf noun.attribute:zest 1
+d: add herbs or spices to
+fs: 8
+hyper: ginger
+hyper: pepper
+hypo: flavor
+mt: noun.act:cookery
+
+w: splat drf noun.event:splat drf noun.event:splatter
+d: give off the sound of a bullet flattening on impact
+fs: 1
+hypo: go
+
+w: splurge drf noun.communication:splurge
+d: be showy or ostentatious
+fs: 2
+hypo: flash 1
+
+w: sputter drf noun.event:sputter drf noun.event:sputtering
+d: make an explosive sound
+e: sputtering engines
+fs: 1
+hypo: pop
+
+w: squelch
+d: make a sucking sound
+fs: 1 2
+hypo: go
+
+w: squint drf noun.state:squint
+d: be cross-eyed; have a squint or strabismus
+fs: 2
+hypo: look
+
+w: stamp drf noun.group:stamp drf noun.shape:stamp
+d: reveal clearly as having a certain character
+e: His playing stamps him as a Romantic
+fs: 21 20
+hypo: verb.communication:characterise
+
+w: stargaze drf noun.act:stargazing drf noun.person:stargazer
+d: observe the stars
+fs: 2
+hypo: gaze
+mt: noun.cognition:astronomy
+
+w: stow_away drf noun.person:stowaway
+d: hide aboard a ship or a plane to get free transportation
+e: The illegal immigrants stowed away on board the freighter
+fs: 2
+hypo: hide 1
+
+w: strum drf noun.event:strum
+w: thrum 2 drf noun.event:thrum
+d: sound the strings of (a string instrument)
+e: strum a guitar
+fs: 8
+hypo: sound 1
+
+w: subject 3
+d: cause to experience or suffer or make liable or vulnerable to
+e: He subjected me to his awful poetry
+e: The sergeant subjected the new recruits to many drills
+e: People in Chernobyl were subjected to radiation
+fs: 21 20
+cause: experience 1
+hyper: verb.change:bacterise
+hyper: expose 1
+hyper: expose 2
+hyper: put 13
+hyper: refract
+hyper: shipwreck
+hyper: vitriol
+hyper: verb.stative:incur
+hypo: verb.change:affect
+
+w: survey drf noun.act:survey 2
+d: look over carefully or inspect
+e: He surveyed his new classmates
+fs: 8
+entail: look
+hyper: overlook
+hypo: examine
+
+w: take
+d: experience or feel or submit to
+e: Take a test
+e: Take the plunge
+fs: 8
+hypo: experience
+vg: verb.cognition:submit 12
+
+w: take_notice
+d: observe with special attention
+e: Take notice of the great architecture
+fs: 22
+hypo: mark
+
+w: taste drf noun.act:taste drf noun.act:tasting drf noun.cognition:taste 2 drf noun.cognition:taste 4
+d: perceive by the sense of taste
+e: Can you taste the garlic?
+fs: 2 8
+hyper: savor
+hypo: comprehend
+
+w: taste 1 drf noun.act:taste drf noun.cognition:taste 2 drf noun.cognition:taste 4 drf noun.person:taster
+d: distinguish flavors
+e: We tasted wines last night
+fs: 8
+entail: taste
+hypo: verb.cognition:identify 2
+
+w: thirst drf noun.state:thirst
+d: feel the need to drink
+fs: 2
+hypo: ache
+
+w: thrill drf noun.communication:thriller drf noun.feeling:thrill
+d: cause to be thrilled by some perceptual input
+e: The men were thrilled by a loud whistle blow
+fs: 10 9
+hypo: excite
+
+w: throb drf noun.event:throb drf noun.event:throbbing drf noun.state:throb
+d: pulsate or pound with abnormal force
+e: my head is throbbing
+e: Her heart was throbbing
+fs: 1 23
+hyper: twang 2
+hypo: ache
+
+w: thud drf noun.event:thud
+w: thump drf noun.event:thump 1 drf noun.event:thumping
+d: make a dull sound
+e: the knocker thudded against the front door
+fs: 1
+hypo: go
+
+w: tickle drf noun.act:tickle drf noun.act:tickling drf noun.cognition:tickle
+w: titillate drf noun.act:titillation
+w: vellicate drf noun.state:vellication
+d: touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements
+fs: 10 11 9
+hypo: itch
+
+w: ting drf noun.event:ting
+d: make a light, metallic sound; go `ting'
+fs: 1
+hypo: go
+
+w: ting 1 drf noun.event:ting
+d: cause to make a ting
+fs: 8
+hypo: sound 1
+
+w: tintinnabulate drf noun.event:tintinnabulation
+d: ring or sound like a small bell
+fs: 1
+hypo: peal 1
+
+w: tolerate
+d: have a tolerance for a poison or strong drug or pathogen or environmental condition
+e: The patient does not tolerate the anti-inflammatory drugs we gave him
+fs: 8
+hypo: endure
+mt: noun.cognition:medical_specialty
+
+w: toll drf noun.event:toll drf noun.person:toller 1
+d: ring slowly
+e: For whom the bell tolls
+fs: 8
+hypo: knell 1
+
+w: tootle drf noun.event:tootle
+d: play (a musical instrument) casually
+e: the saxophone player was tootling a sad melody
+fs: 2 1 8
+hypo: beep
+
+w: touch drf noun.cognition:touch 1 drf noun.cognition:touch 2 drf noun.event:touch drf noun.event:touching
+d: perceive via the tactile sense
+e: Helen Keller felt the physical world by touching people and objects around her
+fs: 8 9
+hypo: comprehend
+
+w: trace drf noun.communication:trace 2 drf noun.quantity:trace
+d: discover traces of
+e: She traced the circumstances of her birth
+fs: 8
+hypo: detect
+
+w: track drf noun.object:track
+d: observe or plot the moving path of something
+e: track a missile
+fs: 8 9
+hypo: observe
+
+w: trot_out
+d: bring out and show for inspection and admiration
+e: His novel trots out a rich heiress
+e: always able to trot out some new excuse
+fs: 8
+hypo: bring_out
+
+w: trump drf noun.artifact:trump 1
+d: produce a sound as if from a trumpet
+fs: 2 1
+hypo: go
+
+w: tune_in
+d: regulate (a radio or television set) in order to receive a certain station or program
+fs: 8
+hypo: verb.change:tune 1
+
+w: turn_on
+d: produce suddenly or automatically
+e: Turn on the charm
+e: turn on the waterworks
+fs: 8
+hypo: bring_forth
+
+w: twang drf noun.event:twang
+d: sound with a twang
+e: the bowstring was twanging
+fs: 1
+hypo: go
+
+w: twang 1 drf noun.event:twang
+d: cause to sound with a twang
+e: He twanged the guitar string
+fs: 8 11
+hypo: sound 1
+
+w: twang 2
+d: twitch or throb with pain
+fs: 1
+hypo: throb
+
+w: tweet drf noun.artifact:tweeter drf noun.event:tweet
+w: twirp
+d: make a weak, chirping sound
+e: the small bird was tweeting in the tree
+fs: 1 2
+hypo: go
+
+w: twinge 1 drf noun.cognition:twinge
+d: feel a sudden sharp, local pain
+fs: 1
+hypo: ache 1
+
+w: underdevelop drf noun.process:underdevelopment
+d: process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature
+e: These photos are underdeveloped
+fs: 8
+hypo: develop
+mt: noun.act:photography
+mt: noun.process:photography
+
+w: underexpose ant overexpose
+d: expose insufficiently
+e: The child was underexposed to language
+fs: 9 10
+hypo: expose 2
+mt: noun.act:photography
+
+w: underexpose 1 ant overexpose 1 drf noun.act:underexposure
+d: expose to too little light
+e: The film is underexposed, so the image is very dark
+fs: 8
+hypo: expose 1
+mt: noun.act:photography
+
+w: undergo 4
+d: pass through
+e: The chemical undergoes a sudden change
+e: The fluid undergoes shear
+e: undergo a strange sensation
+fs: 8 11
+hyper: verb.body:labor
+hyper: verb.body:respire 1
+hyper: verb.cognition:submit 12
+hyper: experience
+hyper: experience 1
+hypo: verb.change:change
+
+w: unfold
+d: open to the view
+e: A walk through town will unfold many interesting buildings
+fs: 11
+hypo: bring_out
+
+w: urticate 1
+d: whip with or as with nettles
+fs: 10 8 9 11
+hypo: verb.contact:lash
+vg: nettle
+
+w: ventilate drf noun.artifact:ventilation drf noun.artifact:ventilator
+d: expose to the circulation of fresh air so as to retard spoilage
+e: Wheat should be well ventilated
+fs: 8
+hypo: expose 2
+
+w: vet
+d: examine carefully
+e: Someone should vet this report before it goes out
+fs: 8
+hypo: inspect
+
+w: visualise
+w: visualize
+d: view the outline of by means of an X-ray
+e: The radiologist can visualize the cancerous liver
+fs: 8
+hyper: image 3
+hypo: catch 2
+mt: noun.cognition:medical_specialty
+
+w: vitriol
+d: expose to the effects of vitriol or injure with vitriol
+fs: 8 9
+hypo: subject 3
+
+w: watch drf noun.act:watch drf noun.person:watcher 2
+d: look attentively
+e: watch a basketball game
+fs: 8 9 2
+entail: look
+hyper: catch 2
+hyper: observe
+hyper: rubberneck
+hyper: witness
+
+w: watch 3 drf noun.act:watch
+d: observe or determine by looking
+e: Watch how the dog chases the cats away
+fs: 29
+
+w: whish
+d: make a sibilant sound
+fs: 2 1
+hypo: go
+
+w: whistle drf noun.event:whistling drf noun.person:whistler
+d: make whistling sounds
+e: He lay there, snoring and whistling
+fs: 2
+hypo: go
+
+w: witness drf noun.person:witness drf noun.person:witness 2 drf noun.person:witness 3 drf noun.person:witnesser
+d: be a witness to
+e: She witnessed the accident and had to testify in court
+fs: 8
+hyper: eyewitness
+hypo: watch
+
+w: work 10
+d: provoke or excite
+e: The rock musician worked the crowd of young girls into a frenzy
+fs: 10 9
+hypo: excite
+vg: verb.consumption:exploit
+vg: verb.emotion:work 10
+
+w: x-ray drf noun.act:X-raying
+d: examine by taking x-rays
+fs: 8 9
+hypo: examine
+
+w: zoom_in
+d: examine closely; focus one's attention on
+e: He zoomed in on the book
+fs: 22
+hypo: verb.cognition:center
+

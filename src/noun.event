@@ -1,0 +1,6815 @@
+noun.event
+
+w: Advent
+w: Parousia
+w: Second_Advent
+w: Second_Coming
+w: Second_Coming_of_Christ
+d: (Christian theology) the reappearance of Jesus as judge for the Last Judgment
+ihyper: manifestation
+mt: noun.cognition:Christian_theology
+
+w: Ascension 2
+w: Ascension_of_Christ
+d: (New Testament) the rising of the body of Jesus into heaven on the 40th day after his Resurrection
+ihyper: miracle 1
+mt: noun.communication:New_Testament
+
+w: Assumption drf verb.contact:assume
+d: (Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended
+hypo: miracle 1
+mt: noun.cognition:Christian_religion
+
+w: Belmont_Stakes
+d: an annual race for three-year-old horses; held on Long Island at Elmont, New York
+hypo: thoroughbred_race
+
+w: Carnot's_ideal_cycle
+w: Carnot_cycle
+d: a cycle (of expansion and compression) of an idealized reversible heat engine that does work without loss of heat
+hypo: cycle 1
+
+w: Charybdis
+d: (Greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from Scylla
+hypo: maelstrom
+mt: noun.group:Greek_mythology
+
+w: Christ's_Resurrection
+w: Resurrection
+w: Resurrection_of_Christ
+d: (New Testament) the rising of Christ on the third day after the Crucifixion
+ihyper: miracle 1
+mt: noun.communication:New_Testament
+
+w: Christianisation drf verb.change:Christianise
+w: Christianization drf verb.change:Christianize
+d: conversion to Christianity
+hypo: conversion 1
+
+w: Crucifixion
+d: the death of Jesus by crucifixion
+ihyper: death
+
+w: Cultural_Revolution
+w: Great_Proletarian_Cultural_Revolution
+d: a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos
+hypo: revolution 1
+mr: noun.location:Cathay
+
+w: Diaspora
+d: the dispersion of the Jews outside Israel; from the destruction of the temple in Jerusalem in 587-86 BC when they were exiled to Babylonia up to the present time
+hypo: dispersion
+
+w: English
+w: side
+d: (sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist
+hypo: spin
+mt: noun.act:athletics
+
+w: Fall 3 drf verb.social:fall 1
+d: the lapse of mankind into sinfulness because of the sin of Adam and Eve
+e: women have been blamed ever since the Fall
+ihyper: noun.Tops:event
+
+w: Fall_of_Man
+d: (Judeo-Christian mythology) when Adam and Eve ate of the fruit of the tree of knowledge of good and evil in the Garden of Eden, God punished them by driving them out of the Garden of Eden and into the world where they would be subject to sickness and pain and eventual death
+hypo: landmark
+mt: noun.communication:Old_Testament
+
+w: Godspeed
+d: a successful journey
+e: they wished him Godspeed
+hypo: success
+
+w: Grand_National
+d: an annual steeplechase run in Liverpool, England
+hypo: steeplechase 1
+
+w: Grand_Prix
+d: one of several international races
+hypo: auto_race
+
+w: Iditarod
+w: Iditarod_Trail_Dog_Sled_Race
+d: an important dogsled race run annually on the Iditarod Trail
+hypo: cross_country
+
+w: Kentucky_Derby
+d: an annual race for three-year-old horses; held at Churchill Downs in Louisville, Kentucky
+hypo: thoroughbred_race
+
+w: Maundy
+d: a public ceremony on Maundy Thursday when the monarch distributes Maundy money
+hypo: ceremonial
+mr: noun.location:Britain
+
+w: Olympiad
+w: Olympic_Games
+w: Olympics
+d: the modern revival of the ancient games held once every 4 years in a selected country
+hyper: Winter_Olympic_Games
+hypo: athletic_competition
+
+w: Plinian_eruption
+d: a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles
+hypo: eruption
+
+w: Preakness
+d: an annual race for three-year-old horses; held at Pimlico in Baltimore, Maryland
+hypo: thoroughbred_race
+
+w: Pyrrhic_victory
+d: a victory that is won by incurring terrible losses
+hypo: triumph
+
+w: Special_Olympics
+d: an athletic contest modeled after the Olympic Games but intended for mentally or physically handicapped persons
+hypo: athletic_competition
+
+w: Teapot_Dome
+w: Teapot_Dome_scandal
+d: a government scandal involving a former United States Navy oil reserve in Wyoming that was secretly leased to a private oil company in 1921; became symbolic of the scandals of the Harding administration
+ihyper: outrage
+
+w: Tour_de_France
+d: a French bicycle race for professional cyclists that lasts three weeks and covers about 3,000 miles
+hypo: bicycle_race
+
+w: Transfiguration drf verb.change:transfigure 2
+w: Transfiguration_of_Jesus
+d: (New Testament) the sudden emanation of radiance from the person of Jesus
+hypo: miracle 1
+mt: noun.communication:New_Testament
+
+w: Watergate
+w: Watergate_scandal
+d: a political scandal involving abuse of power and bribery and obstruction of justice; led to the resignation of Richard Nixon in 1974
+ihyper: outrage
+
+w: Winter_Olympic_Games
+w: Winter_Olympics
+d: an Olympics for winter sports
+hypo: Olympiad
+
+w: Word_of_God
+d: a manifestation of the mind and will of God
+hypo: manifestation
+
+w: World_Cup
+d: a soccer tournament held every four years between national soccer teams to determine a world champion
+hypo: tournament
+
+w: World_Series
+d: series that constitutes the playoff for the baseball championship
+e: we watched the World Series on TV
+hypo: playoff
+hypo: series
+
+w: XT
+w: crosstalk
+d: the presence of an unwanted signal via an accidental coupling
+hypo: disturbance 1
+
+w: Z
+w: omega
+d: the ending of a series or sequence
+e: "the Alpha and the Omega, the first and the last, the beginning and the end"--Revelation
+hypo: conclusion
+
+w: abatement 1 drf verb.change:abate
+w: hiatus
+w: reprieve
+w: respite
+w: suspension drf verb.change:suspend
+d: an interruption in the intensity or amount of something
+hyper: defervescence
+hyper: remission
+hypo: break
+
+w: abiotrophy
+d: a loss of vitality and a degeneration of cells and tissues not due to any apparent injury
+hypo: degeneration
+
+w: abortion drf verb.change:abort
+w: miscarriage drf verb.social:miscarry
+d: failure of a plan
+hypo: failure
+
+w: accident drf adjs.all:accidental
+w: chance_event
+w: fortuity
+w: stroke 2
+d: anything that happens suddenly or by chance without an apparent cause
+e: winning the lottery was a happy accident
+e: the pregnancy was a stroke of bad luck
+e: it was due to an accident or fortuity
+hyper: break 1
+hyper: coincidence
+hyper: hap
+hyper: lottery
+hypo: happening
+
+w: accident 1
+d: an unfortunate mishap; especially one causing damage or injury
+hyper: accidental_injury
+hyper: casualty 2
+hyper: collision
+hyper: crash
+hyper: shipwreck
+hypo: misadventure
+
+w: accidental_injury
+w: injury drf verb.body:injure
+d: an accident that results in physical damage or hurt
+hyper: concussion
+hyper: mutilation
+hypo: accident 1
+
+w: accommodation drf verb.change:accommodate drf verb.change:accommodate 1 drf verb.stative:accommodate
+w: adjustment drf verb.change:adjust 1
+w: fitting drf verb.change:fit drf verb.change:fit 1
+d: making or becoming suitable; adjusting to circumstances
+hyper: noun.act:domestication
+hyper: noun.act:habituation
+hyper: noun.act:readjustment
+hyper: shakedown
+hypo: advance 1
+
+w: accompaniment drf verb.stative:accompany
+w: attendant drf adjs.all:attendant
+w: co-occurrence drf adjs.all:co-occurrent drf verb.stative:cooccur
+w: concomitant
+d: an event or situation that happens at the same time as or in connection with another
+hyper: associate
+hyper: background 1
+hypo: happening
+
+w: acoustic_wave
+w: sound_wave
+d: (acoustics) a wave that transmits sound
+hyper: air_wave
+hypo: undulation
+mt: noun.cognition:acoustics
+
+w: act_of_God
+w: force_majeure
+w: inevitable_accident
+w: unavoidable_casualty
+w: vis_major
+d: a natural and unavoidable catastrophe that interrupts the expected course of events
+e: he discovered that his house was not insured against acts of God
+hypo: calamity
+
+w: action_potential
+d: the local voltage change across the cell wall as a nerve impulse is transmitted
+hypo: impulse
+
+w: adaptive_radiation
+d: the development of many different forms from an originally homogeneous group of organisms as they fill different ecological niches
+hypo: radiation
+
+w: adrenarche
+d: the increase in activity of the adrenal glands just before puberty
+hypo: start
+
+w: advance drf adjs.all:advance drf verb.motion:advance
+w: progress drf verb.motion:progress
+w: progression
+d: a movement forward
+e: he listened for the progress of the troops
+hyper: head
+hypo: change_of_location
+
+w: advance 1 drf verb.change:advance drf verb.social:advance 1
+w: betterment drf verb.change:better
+w: improvement drf verb.change:improve
+d: a change for the better; progress in development
+hyper: noun.act:resurgence
+hyper: accommodation
+hyper: conservation
+hyper: elaboration
+hyper: recovery
+hypo: shift 1
+
+w: adversity drf adjs.all:adverse
+d: a stroke of ill fortune; a calamitous event
+e: a period marked by adversities
+hypo: bad_luck
+
+w: aegir
+w: bore
+w: eager
+w: eagre
+w: tidal_bore
+d: a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)
+hypo: tidal_current
+
+w: aetiology drf adj.pert:aetiologic drf adj.pert:aetiological drf noun.person:aetiologist
+w: etiology drf adj.pert:etiologic drf adj.pert:etiological drf noun.person:etiologist
+d: the cause of a disease
+hypo: cause
+
+w: affair
+w: function
+w: occasion 1
+w: social_function
+w: social_occasion
+d: a vaguely specified social event
+e: the party was quite an affair
+e: an occasion arranged to honor the president
+e: a seemingly endless round of social functions
+hyper: celebration
+hyper: ceremonial
+hyper: fundraiser
+hyper: party
+hyper: photo_op
+hyper: sleepover
+hypo: social_event
+
+w: affliction drf verb.emotion:afflict
+d: a cause of great suffering and distress
+hyper: calvary
+hyper: curse
+hyper: trial
+hyper: noun.state:attack
+hyper: noun.state:bane
+hypo: trouble
+
+w: aftermath
+w: consequence
+d: the outcome of an event especially as relative to an individual
+hyper: comeupance
+hyper: corollary
+hyper: fruit
+hyper: payoff
+hyper: sequella
+hyper: train
+hypo: final_result
+
+w: aftershock
+d: a tremor (or one of a series of tremors) occurring after the main shock of an earthquake
+hypo: earth_tremor
+
+w: air_flow
+w: airflow
+w: flow_of_air
+d: the flow of air
+e: she adjusted the fan so that the airflow was directed right at her
+hypo: flow
+
+w: air_wave
+d: a sound wave that is transmitted via air
+hypo: acoustic_wave
+
+w: airburst
+d: an explosion in the atmosphere
+hypo: blowup
+
+w: algorithm_error
+d: error resulting from the choice of the wrong algorithm or method for achieving the intended result
+hypo: computer_error
+mt: noun.cognition:computer_science
+
+w: alignment
+w: conjunction
+d: (astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac
+hyper: inferior_conjunction
+hyper: superior_conjunction
+hypo: encounter
+mt: noun.cognition:astronomy
+
+w: allogamy ant autogamy drf adj.pert:allogamous
+d: cross-fertilization in plants
+hypo: cross-fertilisation
+
+w: allomerism drf adj.pert:allomerous
+d: (chemistry) variability in chemical composition without variation in crystalline form
+hypo: fluctuation
+mt: noun.cognition:chemical_science
+
+w: alpha drf adjs.all:alpha
+d: the beginning of a series or sequence
+e: "the Alpha and Omega, the first and the last, the beginning and the end"--Revelations
+hypo: start
+
+w: alteration drf verb.change:alter 1
+w: change drf verb.change:change drf verb.change:change 1 drf verb.change:change 2
+w: modification drf verb.change:modify
+d: an event that occurs when something passes from one state or phase to another
+e: the change was intended to increase sales
+e: this storm is certainly a change for the worse
+e: the neighborhood had undergone few modifications since his last visit years ago
+hyper: noun.attribute:acceleration
+hyper: noun.attribute:deceleration
+hyper: avulsion
+hyper: birth
+hyper: break 4
+hyper: breakup
+hyper: chromosomal_mutation
+hyper: conversion 1
+hyper: damage
+hyper: death
+hyper: decrease
+hyper: deformation 1
+hyper: destabilization
+hyper: development 1
+hyper: easing
+hyper: fluctuation
+hyper: increase
+hyper: loss_of_consciousness
+hyper: mutation 1
+hyper: play
+hyper: revolution 1
+hyper: scintillation
+hyper: sex_change
+hyper: shift 1
+hyper: sublimation 1
+hyper: surprise
+hyper: transition 1
+hyper: transmutation 1
+hyper: vagary
+hypo: happening
+
+w: amphimixis
+d: union of sperm and egg in sexual reproduction
+hm: noun.process:amphimixis
+hypo: union
+
+w: amplitude
+d: (physics) the maximum displacement of a periodic wave
+hypo: displacement
+mt: noun.cognition:natural_philosophy
+
+w: angelus
+w: angelus_bell
+d: the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
+hypo: bell
+
+w: annihilation drf verb.change:annihilate
+w: disintegration 1
+d: total destruction
+e: bomb tests resulted in the annihilation of the atoll
+hyper: extermination
+hypo: demolition
+
+w: annular_eclipse
+d: only a thin outer disk of the sun can be seen
+hypo: solar_eclipse
+
+w: antecedent drf adj.all:antecedent drf verb.stative:antecede
+d: a preceding occurrence or cause or event
+hypo: cause
+
+w: anticlimax drf adj.all:anticlimactic
+d: a disappointing decline after a previous rise
+e: the anticlimax of a brilliant career
+hypo: downfall
+
+w: apocalypse drf adj.pert:apocalyptic drf adjs.all:apocalyptical
+d: a cosmic cataclysm in which God destroys the ruling powers of evil
+hypo: calamity
+
+w: appalling
+d: an experience that appalls
+e: is it better to view the appalling or merely hear of it?
+hypo: experience
+
+w: apparition
+d: the appearance of a ghostlike figure
+e: I was recalled to the present by the apparition of a frightening specter
+hypo: appearance
+
+w: appearance ant disappearance drf verb.change:appear
+d: the event of coming into sight
+hyper: apparition
+hyper: manifestation
+hyper: manifestation 1
+hyper: reappearance
+hypo: happening
+
+w: approach drf verb.motion:approach
+w: approaching
+d: the event of one object coming closer to another
+hypo: motion
+
+w: arms_race
+d: a competition between nations to have the most powerful armaments
+hypo: race 1
+
+w: ascension drf adj.pert:ascensional drf verb.motion:ascend 2
+w: ascent drf verb.motion:ascend 2
+w: rise 2 ant fall 4 drf verb.motion:rise drf verb.motion:rise 8
+w: rising drf verb.motion:rise
+d: a movement upward
+e: they cheered the rise of the hot-air balloon
+hyper: climb
+hyper: elevation
+hyper: heave 1
+hyper: liftoff
+hyper: rapid_climb
+hyper: takeoff
+hyper: upheaval
+hyper: uplifting
+hypo: change_of_location
+
+w: ascension 1 drf adj.pert:ascensional drf verb.motion:ascend 3
+d: (astronomy) the rising of a star above the horizon
+hypo: change_of_location
+mt: noun.cognition:astronomy
+
+w: associate
+d: any event that usually accompanies or is closely connected with another
+e: first was the lightning and then its thunderous associate
+hypo: accompaniment
+
+w: atavism drf noun.person:atavist
+w: reversion 1
+w: throwback
+d: a reappearance of an earlier characteristic
+hypo: recurrence
+
+w: athletic_competition
+w: athletic_contest
+w: athletics
+d: a contest between athletes
+hyper: Olympiad
+hyper: Special_Olympics
+hyper: decathlon
+hyper: hop-step-and-jump
+hyper: meet
+hyper: pentathlon
+hyper: prelim
+hyper: tug-of-war
+hypo: competition
+
+w: atmospheric_static
+w: atmospherics
+w: static
+d: a crackling or hissing noise caused by electrical interference
+hyper: radio_noise
+hypo: disturbance 1
+
+w: atomic_explosion
+w: nuclear_explosion
+d: the explosion of an atomic bomb
+hypo: bomb_blast
+mp: noun.object:fireball 2
+
+w: atrophy drf verb.body:atrophy
+w: withering drf verb.change:wither 1
+d: any weakening or degeneration (especially through lack of use)
+hypo: weakening
+
+w: attenuation drf verb.change:attenuate
+w: fading drf verb.body:fade drf verb.change:fade 1
+d: weakening in force or intensity
+e: attenuation in the volume of the sound
+hypo: weakening
+
+w: attrition drf adj.pert:attritional
+d: a wearing down to weaken or destroy
+e: a war of attrition
+hypo: decrease
+
+w: augmentation drf verb.change:augment drf verb.change:augment 1
+d: the amount by which something increases
+hypo: increase
+
+w: augury drf verb.change:inaugurate
+w: foretoken
+w: preindication
+w: sign
+d: an event that is experienced as indicating important things to come
+e: he hoped it was an augury
+e: it was a sign from God
+hyper: omen
+hyper: war_cloud
+hypo: experience
+
+w: auspice drf verb.change:auspicate drf verb.communication:auspicate
+d: a favorable omen
+hypo: omen
+
+w: auto_race
+w: automobile_race
+w: car_race
+d: a race between (usually high-performance) automobiles
+hyper: Grand_Prix
+hyper: rally 1
+hypo: race
+
+w: autogamy ant allogamy drf adj.all:autogamic drf adj.all:autogamous
+d: self-fertilization in plants
+hypo: self-fertilisation
+
+w: avalanche drf verb.motion:avalanche
+d: a slide of large masses of snow and ice and mud down a mountain
+hyper: lahar
+hypo: slide
+
+w: avalanche 1
+d: a sudden appearance of an overwhelming number of things
+e: the program brought an avalanche of mail
+hypo: happening
+
+w: avulsion
+d: an abrupt change in the course of a stream that forms the boundary between two parcels of land resulting in the loss of part of the land of one landowner and a consequent increase in the land of another
+hypo: alteration
+
+w: axial_motion
+w: axial_rotation
+w: roll 2 drf verb.body:roll 6 drf verb.change:roll 10 drf verb.contact:roll drf verb.motion:roll drf verb.motion:roll 1 drf verb.motion:roll 11
+d: rotary motion of an object around its own axis
+e: wheels in axial rotation
+hyper: wallow
+hypo: gyration
+
+w: baa drf verb.communication:baa
+d: the cry made by sheep
+hypo: cry
+
+w: back-blast
+w: backblast
+d: backfire from a recoilless weapon
+hypo: backfire 1
+
+w: backfire drf verb.perception:backfire
+d: a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine
+hypo: blowup
+
+w: backfire 1
+w: blowback
+d: the backward escape of gases and unburned gunpowder after a gun is fired
+hyper: back-blast
+hypo: blowup
+
+w: backfire 3
+d: a fire that is set intentionally in order to slow an approaching forest fire or grassfire by clearing a burned area in its path
+hypo: fire
+
+w: backflow
+w: backflowing
+d: a flow that returns toward its source
+hyper: regurgitation
+hypo: flow
+
+w: background
+w: background_signal
+d: extraneous signals that can be confused with the phenomenon to be observed or measured
+e: they got a bad connection and could hardly hear one another over the background signals
+hyper: background_noise
+hyper: background_radiation
+hypo: disturbance 1
+
+w: background 1 drf verb.change:background
+d: relatively unimportant or inconspicuous accompanying situation
+e: when the rain came he could hear the sound of thunder in the background
+hypo: accompaniment
+
+w: background_noise
+w: ground_noise
+d: extraneous noise contaminating sound measurements that cannot be separated from the desired signal
+hyper: surface_noise
+hypo: background
+
+w: background_radiation
+d: radiation coming from sources other than those being observed
+hypo: background
+
+w: backlash
+w: rebound drf verb.motion:rebound
+w: recoil drf verb.motion:recoil 1
+w: repercussion
+d: a movement back from an impact
+hyper: bounce
+hyper: carom
+hyper: resilience
+hypo: motion
+
+w: backspin
+d: spin (usually of a moving ball) that retards or reverses the forward motion
+hypo: spin
+
+w: backwash
+w: wake
+d: the wave that spreads behind a boat as it moves forward
+e: the motorboat's wake capsized the canoe
+hypo: moving_ridge
+
+w: bad_luck
+w: misfortune
+d: unnecessary and unforeseen trouble resulting from an unfortunate event
+hyper: adversity
+hyper: calamity
+hyper: hardship
+hyper: knock 2
+hyper: misadventure
+hyper: pity
+hypo: trouble
+
+w: balefire
+w: bonfire
+d: a large outdoor fire that is lighted as a signal or in celebration
+hypo: fire
+
+w: ball
+w: formal
+d: a lavish dance requiring formal attire
+hyper: cotilion
+hyper: fancy-dress_ball
+hyper: prom
+hypo: dance
+
+w: bam
+w: bang drf verb.motion:bang drf verb.perception:bang
+w: blast 1 drf verb.perception:blast
+w: clap drf verb.contact:clap
+w: eruption 1
+d: a sudden very loud noise
+hyper: water_hammer
+hypo: noise
+
+w: bang 1 drf verb.contact:bang
+w: bash drf verb.contact:bash
+w: belt drf verb.contact:belt
+w: knock drf verb.contact:knock 4
+w: smash 1 drf verb.change:smash drf verb.contact:smash drf verb.contact:smash 8
+d: a vigorous blow
+e: the sudden knock floored him
+e: he took a bash right in his face
+e: he got a bang on the head
+hypo: blow
+
+w: banging
+d: a continuing very loud noise
+hypo: noise
+
+w: bar_mitzvah drf verb.social:bar_mitzvah
+d: (Judaism) an initiation ceremony marking the 13th birthday of a Jewish boy and signifying the beginning of religious responsibility
+e: a bar mitzvah is an important social event
+hypo: induction
+mt: noun.cognition:Judaism
+
+w: bark drf verb.communication:bark
+d: the sound made by a dog
+hyper: bow-wow
+hypo: cry
+
+w: bark 2 drf verb.communication:bark 1
+d: a noise resembling the bark of a dog
+hypo: noise
+
+w: barn_dance
+d: a dance party featuring country dancing
+hypo: dance
+
+w: barnburner
+d: an impressively successful event
+e: the rock concert was a real barnburner
+hypo: success
+mu: noun.communication:colloquialism
+
+w: bas_mitzvah
+w: bat_mitzvah drf verb.social:bat_mitzvah
+w: bath_mitzvah
+d: (Judaism) an initiation ceremony marking the 12th birthday of a Jewish girl and signifying the beginning of religious responsibility
+hypo: induction
+mt: noun.cognition:Judaism
+
+w: bash 1
+w: brawl
+w: do
+d: an uproarious party
+hypo: party
+
+w: battle_damage
+w: combat_casualty
+d: loss of military equipment in battle
+hypo: damage 1
+mt: noun.group:armed_forces
+
+w: bay drf verb.communication:bay
+d: the sound of a hound on the scent
+hypo: cry
+
+w: beat drf verb.motion:beat
+w: heartbeat
+w: pulsation 2 drf verb.motion:pulsate
+w: pulse drf verb.motion:pulsate drf verb.motion:pulse
+d: the rhythmic contraction and expansion of the arteries with each beat of the heart
+e: he could feel the beat of her heart
+hyper: diastole
+hyper: pounding 1
+hyper: systole
+hypo: periodic_event
+
+w: beat 1 drf verb.contact:beat drf verb.perception:beat 1
+d: the sound of stroke or blow
+e: he heard the beat of a drum
+hypo: sound
+
+w: beep drf verb.communication:beep 1 drf verb.perception:beep
+w: bleep drf verb.perception:bleep
+d: a short high tone produced as a signal or warning
+hypo: sound
+
+w: beginning ant ending drf verb.change:begin 1
+d: the event consisting of the start of something
+e: the beginning of the war
+hyper: casus_belli
+hyper: conception
+hyper: egress 1
+hyper: emergence 1
+hyper: generation
+hyper: ground_floor
+hyper: inception
+hyper: start
+hypo: happening
+
+w: bell drf verb.contact:bell
+w: toll drf verb.perception:toll
+d: the sound of a bell being struck
+e: saved by the bell
+e: she heard the distant toll of church bells
+hyper: angelus
+hyper: knell
+hypo: sound
+
+w: bell_ringing
+d: the sound of someone playing a set of bells
+hypo: ring
+
+w: bend
+w: bending
+d: movement that causes the formation of a curve
+hyper: deflection
+hypo: motion
+
+w: bicycle_race
+d: a race between people riding bicycles
+hyper: Tour_de_France
+hypo: race
+
+w: big_bang
+d: (cosmology) the cosmic explosion that is hypothesized to have marked the origin of the universe
+hypo: blowup
+mt: noun.cognition:cosmogeny
+
+w: billow drf adjs.all:billowy drf verb.motion:billow
+w: surge 1 drf verb.motion:surge 3 drf verb.motion:surge 4
+d: a large sea wave
+hypo: moving_ridge
+
+w: birr drf verb.perception:birr
+w: whir drf verb.perception:whir
+w: whirr drf verb.perception:whirr
+w: whirring drf verb.perception:whir
+d: sound of something in rapid motion
+e: whir of a bird's wings
+e: the whir of the propellers
+hypo: sound
+
+w: birth ant death drf verb.body:birth drf verb.change:be_born
+w: nascence
+w: nascency drf adj.all:nascent
+w: nativity
+d: the event of being born
+e: they celebrated the birth of their first child
+hyper: delivery
+hyper: live_birth
+hyper: posthumous_birth
+hyper: posthumous_birth 1
+hyper: rebirth
+hypo: alteration
+
+w: birthday_party
+d: a party held on the anniversary of someone's birth
+hypo: party
+
+w: bit
+w: piece
+d: an instance of some kind
+e: it was a nice piece of work
+e: he had a bit of good luck
+hypo: case
+
+w: bite
+d: (angling) an instance of a fish taking the bait
+e: after fishing for an hour he still had not had a bite
+hypo: success
+mt: noun.act:fishing
+
+w: black_eye
+w: blow 2
+w: reversal 2
+w: reverse 1
+w: setback 1 drf verb.social:set_back
+d: an unfortunate happening that hinders or impedes; something that is thwarting or frustrating
+hyper: whammy
+hypo: happening
+
+w: blackout drf verb.change:black_out 1
+d: the failure of electric power for a general region
+hypo: power_failure
+
+w: blare drf verb.perception:blare 1
+w: blaring
+w: cacophony drf adj.all:cacophonic drf adj.all:cacophonous
+w: clamor drf adjs.all:clamorous
+w: din drf verb.perception:din
+d: a loud harsh or strident noise
+hypo: noise
+
+w: blast drf verb.competition:blast
+d: an explosion (as of dynamite)
+hyper: bomb_blast
+hypo: blowup
+
+w: blast 2
+w: good_time
+d: a highly pleasurable or exciting experience
+e: we had a good time at the party
+e: celebrating after the game was a blast
+hypo: experience
+
+w: blast_wave
+w: shock_wave
+d: a region of high pressure travelling through a gas at a high velocity
+e: the explosion created a shock wave
+hyper: sonic_boom
+hypo: undulation
+
+w: blaze
+w: hell
+d: a cause of difficulty and suffering
+e: war is hell
+e: go to blazes
+hypo: trouble
+
+w: bleat drf verb.communication:bleat
+d: the sound of sheep or goats (or any sound resembling this)
+hypo: cry
+
+w: blend drf verb.change:blend drf verb.contact:blend
+d: an occurrence of thorough mixing
+hypo: mix
+
+w: blessed_event
+w: happy_event
+d: the live birth of a child
+hypo: live_birth
+mu: noun.communication:colloquialism
+
+w: blighty_wound
+d: a wound that would cause an English soldier to be sent home from service abroad
+hypo: combat_injury
+
+w: blip
+d: a sudden minor shock or meaningless interruption
+e: the market had one bad blip today
+e: you can't react to the day-to-day blips
+e: renewed jitters in the wake of a blip in retail sales
+hypo: blow 1
+
+w: blow
+w: bump drf adj.all:bumpy drf verb.contact:bump
+d: an impact (as from a collision)
+e: the bump threw him off the bicycle
+hyper: bang 1
+hyper: buffeting
+hyper: concussion 1
+hyper: jar
+hyper: rap 1
+hyper: sideswipe
+hyper: slap
+hypo: impact
+
+w: blow 1
+w: shock 1 drf verb.body:shock drf verb.emotion:shock drf verb.emotion:shock 1
+d: an unpleasant or disappointing surprise
+e: it came as a shock to learn that he was injured
+hyper: blip
+hypo: surprise
+
+w: blowout drf verb.change:blow_out
+d: a sudden malfunction of a part or apparatus
+e: the right front tire had a blowout
+e: as a result of the blowout we lost all the lights
+hypo: malfunction
+
+w: blowout 1
+w: laugher
+w: romp drf verb.competition:romp
+w: runaway
+w: shoo-in
+w: walkaway
+d: an easy victory
+hypo: triumph
+
+w: blowup drf verb.change:blow_up 3
+w: detonation drf verb.change:detonate 1
+w: explosion drf verb.change:explode 1
+d: a violent release of energy caused by a chemical or nuclear reaction
+hyper: airburst
+hyper: backfire
+hyper: backfire 1
+hyper: big_bang
+hyper: blast
+hyper: fragmentation
+hyper: inflation
+hypo: discharge
+
+w: boat_race
+d: a race between people rowing or driving boats
+hyper: sailing-race
+hypo: race
+
+w: bomb drf verb.social:bomb
+w: dud
+w: turkey
+d: an event that fails badly or is totally ineffectual
+e: the first experiment was a real turkey
+e: the meeting was a dud as far as new business was concerned
+hypo: bust
+
+w: bomb_blast
+d: the explosion of a bomb
+hyper: atomic_explosion
+hypo: blast
+
+w: bombilation drf verb.perception:bombilate
+w: bombination drf verb.perception:bombinate
+w: buzz drf verb.communication:buzz drf verb.perception:buzz
+d: sound of rapid vibration
+e: the buzz of a bumble bee
+hypo: sound
+
+w: bombshell
+w: thunderbolt
+w: thunderclap 1
+d: a shocking surprise
+e: news of the attack came like a bombshell
+hypo: surprise
+
+w: bonanza
+w: boom 2
+w: bunce
+w: godsend
+w: gold_rush
+w: gravy
+w: manna_from_heaven
+w: windfall
+d: a sudden happening that brings good fortune (as a sudden opportunity to make money)
+e: the demand for testing has created a boom for those unregulated laboratories where boxes of specimen jars are processed like an assembly line
+hypo: happening
+
+w: bong
+d: a dull resonant sound as of a bell
+hypo: sound
+
+w: boom 1 drf verb.perception:boom drf verb.perception:boom 1
+w: roar drf verb.communication:roar 1
+w: roaring drf verb.communication:roar 1
+w: thunder drf adjs.all:thunderous drf verb.communication:thunder drf verb.communication:thunder 1 drf verb.motion:thunder
+d: a deep prolonged loud noise
+hypo: noise
+
+w: bother drf verb.social:bother 1
+w: fuss
+w: hassle drf verb.emotion:hassle
+w: trouble 1
+d: an angry disturbance
+e: he didn't want to make a fuss
+e: they had labor trouble
+e: a spot of bother
+hypo: disturbance
+
+w: bounce drf adjs.all:bouncy 1 drf verb.motion:bounce drf verb.motion:bounce 2
+w: bouncing
+d: rebounding from an impact (or series of impacts)
+hypo: backlash
+
+w: bout
+d: a contest or fight (especially between boxers or wrestlers)
+hypo: competition
+
+w: bow-wow
+d: the bark of a dog
+hypo: bark
+
+w: boxing_match
+d: a match between boxers; usually held in a boxing ring
+hyper: prize_fight
+hyper: sparring_match
+hypo: match
+
+w: brake_failure
+d: brakes fail to stop a vehicle
+hypo: breakdown 1
+
+w: bray drf verb.body:bray drf verb.communication:bray
+d: the cry of an ass
+hypo: cry
+
+w: breach
+w: break 3 drf verb.social:break 13
+w: falling_out
+w: rift
+w: rupture
+w: severance drf verb.contact:sever 1
+d: a personal or social separation (as between opposing factions)
+e: they hoped to avoid a break in relations
+hyper: schism
+hypo: breakup
+
+w: break drf verb.stative:break 5
+w: interruption
+d: some abrupt occurrence that interrupts an ongoing activity
+e: the telephone is an annoying interruption
+e: there was a break in the action when a player was hurt
+hyper: abatement 1
+hyper: dislocation
+hyper: eclipse
+hyper: punctuation
+hypo: happening
+
+w: break 1
+w: good_luck
+w: happy_chance
+d: an unexpected piece of good luck
+e: he finally got his big break
+hypo: accident
+
+w: break 2 drf verb.change:break
+d: the occurrence of breaking
+e: the break in the dam threatened the valley
+hyper: snap 1
+hypo: breakup
+
+w: break 4
+d: an abrupt change in the tone or register of the voice (as at puberty or due to emotion)
+e: then there was a break in her voice
+hypo: alteration
+
+w: breakdown 1 drf verb.change:break_down
+w: equipment_failure
+d: a cessation of normal operation
+e: there was a power breakdown
+hyper: brake_failure
+hyper: dud 1
+hyper: engine_failure
+hyper: fault
+hyper: outage
+hyper: power_failure
+hypo: failure
+
+w: breaker drf verb.motion:break 1
+w: breakers
+w: surf drf verb.motion:surf
+d: waves breaking on the shore
+hypo: moving_ridge
+
+w: breakup drf verb.motion:break_up drf verb.social:break_up
+w: detachment drf verb.contact:detach
+w: separation drf verb.contact:separate
+d: coming apart
+hyper: breach
+hyper: break 2
+hypo: alteration
+
+w: breath_of_fresh_air
+d: a welcome relief
+e: the new management was like a breath of fresh air
+hypo: easing
+
+w: broad_jump
+w: long_jump
+d: a competition that involves jumping as far as possible from a running start
+hypo: field_event
+mp: noun.act:run-up
+
+w: brouhaha
+w: hubbub
+w: katzenjammer
+w: uproar drf adjs.all:uproarious 1
+d: loud confused noise from many sources
+hypo: noise
+
+w: brush drf verb.contact:brush
+w: light_touch
+d: momentary contact
+hypo: touch
+
+w: brush_fire
+d: an uncontrolled fire that consumes brush and shrubs and bushes
+hypo: fire
+
+w: buffeting
+w: pounding
+d: repeated heavy blows
+hypo: blow
+
+w: bun-fight
+w: bunfight
+d: (Briticism) a grand formal party on an important occasion
+hypo: party
+mr: noun.location:Britain
+mu: noun.communication:argot
+
+w: burial drf verb.social:bury
+w: entombment drf verb.social:entomb
+w: inhumation drf verb.social:inhume
+w: interment drf verb.social:inter
+w: sepulture
+d: the ritual placing of a corpse in a grave
+hypo: funeral
+
+w: burnup
+d: a high-speed motorcycle race on a public road
+hypo: race
+mr: noun.location:Britain
+mu: noun.communication:argot
+
+w: burst
+w: flare-up 1 drf verb.change:flare_up
+w: outburst
+d: a sudden intense happening
+e: an outburst of heavy rain
+e: a burst of lightning
+hyper: rush 1
+hyper: salvo
+hypo: happening
+
+w: business_cycle
+w: trade_cycle
+d: recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
+hypo: fluctuation
+
+w: bust drf verb.contact:bust 1
+w: fizzle
+w: flop drf verb.social:flop
+d: a complete failure
+e: the play was a dismal flop
+hyper: bomb
+hypo: failure
+
+w: cackle drf adjs.all:cackly drf verb.communication:cackle
+d: the sound made by a hen after laying an egg
+hypo: cry
+
+w: calamity drf adjs.all:calamitous
+w: cataclysm drf adjs.all:cataclysmal drf adjs.all:cataclysmic
+w: catastrophe
+w: disaster drf adjs.all:disastrous
+w: tragedy drf adjs.all:tragic drf adjs.all:tragical
+d: an event resulting in great loss and misfortune
+e: the whole city was affected by the irremediable calamity
+e: the earthquake was a disaster
+hyper: act_of_God
+hyper: apocalypse
+hyper: famine
+hyper: kiss_of_death
+hyper: meltdown
+hyper: plague
+hyper: tidal_wave 1
+hyper: tsunami
+hyper: visitation 1
+hypo: bad_luck
+
+w: calvary
+w: martyrdom 1 drf noun.person:martyr
+d: any experience that causes intense suffering
+hypo: affliction
+
+w: cam_stroke
+w: stroke
+w: throw
+d: the maximum movement available to a pivoted or reciprocating piece by a cam
+hyper: instroke
+hyper: outstroke
+hypo: motion
+
+w: campaign drf verb.competition:campaign 1
+w: political_campaign
+w: run 3 drf verb.competition:run 6
+d: a race between candidates for elective office
+e: I managed his campaign for governor
+e: he is raising money for a Senate run
+hyper: campaign_for_governor
+hyper: senate_campaign
+hypo: race 1
+
+w: campaign_for_governor
+w: governor's_race
+d: a race for election to the governorship
+hypo: campaign
+
+w: campfire
+d: a small outdoor fire for warmth or cooking (as at a camp)
+hypo: fire
+
+w: capsizing
+d: (nautical) the event of a boat accidentally turning over in the water
+hypo: shipwreck
+mt: noun.act:navigation 1
+
+w: cardiac_cycle
+d: the complete cycle of events in the heart from the beginning of one heart beat to the beginning of the next; an electrical impulse conducted through the heart muscle that constricts the atria which is followed by constriction of the ventricles
+e: the cardiac cycle can be shown on an electrocardiogram
+hypo: cycle 1
+
+w: carom drf verb.motion:carom
+w: ricochet drf verb.motion:ricochet
+d: a glancing rebound
+hypo: backlash
+
+w: cascade
+w: shower drf verb.weather:shower
+d: a sudden downpour (as of tears or sparks etc) likened to a rain shower
+e: a little shower of rose petals
+e: a sudden cascade of sparks
+hypo: descent
+
+w: case
+w: example drf verb.communication:exemplify
+w: instance drf verb.perception:instantiate drf verb.perception:instantiate 1
+d: an occurrence of something
+e: it was a case of bad judgment
+e: another instance occurred yesterday
+e: but there is always the famous example of the Smiths
+hyper: bit
+hyper: clip
+hyper: humiliation
+hypo: happening
+
+w: casualty 1
+d: a decrease of military personnel or equipment
+hyper: damage 1
+hyper: loss
+hypo: decrease
+mt: noun.group:armed_forces
+
+w: casualty 2
+w: fatal_accident
+d: an accident that causes someone to die
+hyper: collateral_damage
+hypo: accident 1
+hypo: fatality
+
+w: casus_belli
+d: an event used to justify starting a war
+hypo: beginning
+
+w: cataplasia drf adj.pert:cataplastic
+d: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form
+hypo: degeneration
+mt: noun.cognition:biological_science
+
+w: caterwaul drf verb.communication:caterwaul
+d: the yowling sound made by a cat in heat
+hypo: cry
+
+w: cause drf adjs.all:causal drf verb.communication:cause drf verb.creation:cause
+d: events that provide the generative force that is the origin of something
+e: they are trying to determine the cause of the crash
+hyper: aetiology
+hyper: antecedent
+hyper: factor
+hyper: mutagenesis
+hyper: producer
+hypo: inception
+
+w: cause_celebre
+d: an incident that attracts great public attention
+hypo: incident
+
+w: cave_in drf verb.motion:cave_in
+w: subsidence 1 drf verb.motion:subside 2
+d: the sudden collapse of something into a hollow beneath it
+hypo: collapse
+
+w: caw drf verb.communication:caw
+d: the sound made by corvine birds
+hypo: cry
+
+w: ceilidh
+d: an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling
+hypo: party
+mr: noun.location:Emerald_Isle
+mr: noun.location:Scotland
+
+w: celebration drf verb.social:celebrate drf verb.social:celebrate 1
+w: jubilation drf verb.social:jubilate
+d: a joyful occasion for special festivities to mark some happy event
+hypo: affair
+
+w: ceremonial drf adjs.all:ceremonial
+w: ceremonial_occasion
+w: ceremony drf adjs.all:ceremonial
+w: observance 1 drf verb.social:observe 2
+d: a formal event performed on a special occasion
+e: a ceremony commemorating Pearl Harbor
+hyper: Maundy
+hyper: circumstance
+hyper: commemoration
+hyper: dedication
+hyper: exercise 1
+hyper: fire_walking
+hyper: formalities
+hyper: funeral
+hyper: hymeneals
+hyper: induction
+hyper: military_ceremony
+hyper: opening 1
+hyper: pageant
+hyper: potlatch
+hypo: affair
+
+w: cessation drf verb.stative:cease
+w: surcease
+d: a stopping
+e: a cessation of the thunder
+hyper: noun.act:legal_separation
+hypo: halt
+
+w: championship
+d: a competition at which a champion is chosen
+hypo: competition
+
+w: change_of_location
+w: travel drf verb.motion:travel drf verb.motion:travel 3
+d: a movement through space that changes the location of something
+hyper: advance
+hyper: ascension
+hyper: ascension 1
+hyper: circulation
+hyper: creep
+hyper: descent
+hyper: entering
+hyper: fall 4
+hyper: flow
+hyper: gravitation
+hyper: levitation
+hyper: spread
+hyper: stampede
+hyper: translation
+hypo: motion
+
+w: changeover drf verb.change:change_over 2
+w: conversion drf verb.change:convert
+w: transition drf verb.change:transition 1
+d: an event that results in a transformation
+hyper: glycogenesis
+hyper: isomerisation
+hyper: rectification
+hypo: shift 1
+
+w: chapter
+d: a series of related events forming an episode
+e: a chapter of disasters
+hypo: episode
+
+w: chariot_race
+d: a race between ancient chariots
+hypo: race
+
+w: chatter drf verb.communication:chatter 2
+w: chattering drf verb.communication:chatter 2
+d: the high-pitched continuing noise made by animals (birds or monkeys)
+hypo: noise
+
+w: chatter 1
+w: chattering 1 drf verb.contact:chatter
+d: the rapid series of noises made by the parts of a machine
+hypo: noise
+
+w: checkmate
+d: complete victory
+hypo: triumph
+
+w: cheep drf verb.communication:cheep
+w: peep drf verb.communication:peep
+d: the short weak cry of a young bird
+hypo: cry
+
+w: chess_match
+d: a match between chess players
+hypo: match
+
+w: chicken
+d: a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops
+hypo: competition
+
+w: chink drf verb.perception:chink
+w: click drf verb.motion:click drf verb.perception:click
+w: clink drf verb.perception:clink drf verb.perception:clink 1
+d: a short light metallic sound
+hypo: sound
+
+w: chirp drf adj.pert:chirpy drf verb.communication:chirp drf verb.creation:chirp
+d: a sharp sound made by small birds or insects
+hyper: tweet
+hypo: sound
+
+w: chirrup drf verb.communication:chirrup
+w: twitter drf verb.communication:twitter
+d: a series of chirps
+hypo: sound
+
+w: chorus drf adj.pert:choral 1 drf verb.communication:chorus
+d: any utterance produced simultaneously by a group
+e: a chorus of boos
+hypo: sound
+
+w: chromosomal_mutation
+w: genetic_mutation
+w: mutation drf adj.pert:mutational drf verb.change:mutate
+d: (genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism
+hyper: deletion
+hyper: gene_mutation
+hyper: inversion
+hyper: reversion
+hyper: saltation
+hyper: transposition
+hypo: alteration
+mp: mutagenesis
+mt: noun.cognition:genetic_science
+
+w: chug drf verb.perception:chug
+d: the dull explosive noise made by an engine
+hypo: noise
+
+w: circulation drf verb.change:circulate drf verb.motion:circulate 4
+d: free movement or passage (as of cytoplasm within a cell or sap through a plant)
+e: ocean circulation is an important part of global climate
+e: a fan aids air circulation
+hypo: change_of_location
+mt: noun.Tops:flora
+
+w: circumstance
+d: formal ceremony about important occasions
+e: pomp and circumstance
+hypo: ceremonial
+
+w: clack drf verb.communication:clack 1 drf verb.perception:clack
+w: clap 1 drf verb.contact:clap
+d: a sharp abrupt noise as if two objects hit together; may be repeated
+hypo: noise
+
+w: claiming_race
+d: a horse race in which each owner declares before the race at what price his horse will be offered for sale after the race
+hypo: horse_race
+
+w: clang drf verb.perception:clang
+w: clangor drf adjs.all:clangorous drf verb.perception:clang drf verb.perception:clangor drf verb.perception:clangor 1
+w: clangoring
+w: clangour drf verb.perception:clangour
+w: clank drf verb.perception:clank
+w: clash
+w: crash 1 drf verb.motion:crash 1
+d: a loud resonant repeating noise
+e: he could hear the clang of distant bells
+hypo: noise
+
+w: clatter drf verb.perception:clatter
+d: a rattling noise (often produced by rapid movement)
+e: the shutters clattered against the house
+e: the clatter of iron wheels on cobblestones
+hypo: noise
+
+w: cleistogamy
+d: the production of small nonopening self-pollinating flowers
+hypo: self-pollination
+
+w: click-clack
+d: a succession of clicks
+hyper: clickety-clack
+hypo: sound
+
+w: clickety-clack
+w: clickety-click
+d: a fast and rhythmic click-clack
+e: the clickety-clack of the typewriters
+hypo: click-clack
+
+w: cliffhanger
+d: a contest whose outcome is uncertain up to the very end
+hypo: competition
+
+w: climax drf adj.all:climactic drf verb.change:climax
+w: flood_tide 1
+d: the highest point of anything conceived of as growing or developing or unfolding
+e: the climax of the artist's career
+e: in the flood tide of his success
+hypo: juncture
+
+w: climb drf verb.change:climb
+w: climbing drf verb.change:climb 1 drf verb.motion:climb
+w: mounting drf verb.change:mount drf verb.motion:mount
+d: an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
+hypo: ascension
+
+w: clip
+w: time
+d: an instance or single occasion for some event
+e: this time he succeeded
+e: he called four times
+e: he could do ten at a clip
+hypo: case
+
+w: clip-clop
+w: clippety-clop
+w: clop
+w: clopping
+w: clumping
+w: clunking
+d: the sound of a horse's hoofs hitting on a hard surface
+hypo: sound
+
+w: clockwise_rotation
+w: dextrorotation ant levorotation
+d: rotation to the right
+hypo: gyration
+
+w: cluck drf verb.communication:cluck
+w: clucking
+d: the sound made by a hen (as in calling her chicks)
+hypo: cry
+
+w: clump drf verb.perception:clump
+w: clunk drf adjs.all:clunky 1 drf verb.perception:clunk
+w: thud drf verb.contact:thud drf verb.perception:thud drf verb.perception:thud 1
+w: thump 1 drf verb.perception:thump
+w: thumping drf verb.perception:thump
+d: a heavy dull sound (as made by impact of heavy objects)
+hypo: sound
+
+w: coarctation
+w: constriction drf verb.change:constrict
+d: tight or narrow compression
+hypo: compression
+
+w: cock-a-doodle-doo
+d: an imitation of the crow of a cock
+hypo: crow
+
+w: cockfight
+d: a match in a cockpit between two fighting cocks heeled with metal gaffs
+hypo: match
+
+w: cocktail_party
+d: an afternoon party at which cocktails are served
+hypo: party
+
+w: coincidence
+w: happenstance
+d: an event that might have been arranged although it was really accidental
+hypo: accident
+
+w: collapse drf verb.motion:collapse
+d: a natural event caused by something suddenly falling down or caving in
+e: the roof is in danger of collapse
+e: the collapse of the old star under its own gravity
+hyper: cave_in
+hyper: debacle 2
+hyper: implosion
+hypo: happening
+
+w: collapse 1 drf verb.change:collapse drf verb.motion:collapse
+w: crash 2 drf verb.change:crash 11
+d: a sudden large decline of business or the prices of stocks (especially one that causes additional failures)
+hypo: happening
+
+w: collateral_damage
+d: (euphemism) inadvertent casualties and destruction inflicted on civilians in the course of military operations
+hypo: casualty 2
+mt: noun.group:armed_forces
+mu: noun.communication:euphemism
+
+w: collision drf verb.contact:collide
+d: an accident resulting from violent impact of a moving object
+e: three passengers were killed in the collision
+e: the collision of the two ships resulted in a serious oil spill
+hyper: fender-bender
+hyper: pileup
+hyper: smash
+hypo: accident 1
+
+w: collision 1 drf verb.contact:collide drf verb.contact:collide 1
+w: hit 1 drf verb.contact:hit 1
+d: (physics) a brief event in which two or more bodies come together
+e: the collision of the particles resulted in an exchange of energy and a change of direction
+hypo: contact
+mt: noun.cognition:natural_philosophy
+
+w: combat_injury
+w: injury 1
+w: wound drf verb.body:wound
+d: a casualty to military personnel resulting from combat
+hyper: blighty_wound
+hyper: flesh_wound
+hypo: loss
+mt: noun.group:armed_forces
+
+w: comber
+d: a long curling sea wave
+hypo: moving_ridge
+
+w: combine drf verb.change:combine drf verb.change:combine 2 drf verb.contact:combine 1 drf verb.contact:combine 3 drf verb.possession:combine drf verb.stative:combine
+w: combining drf verb.contact:combine 3 drf verb.stative:combine
+d: an occurrence that results in things being united
+hyper: conglobation
+hyper: consolidation
+hyper: mix
+hyper: recombination
+hyper: recombination 1
+hypo: union
+
+w: comeupance
+w: comeuppance
+w: deserts
+d: an outcome (good or bad) that is well deserved
+hypo: aftermath
+
+w: coming_back
+w: return 2 drf verb.change:return
+d: the occurrence of a change in direction back in the opposite direction
+hypo: turn
+
+w: commemoration drf verb.cognition:commemorate drf verb.cognition:commemorate 2
+w: memorialisation drf verb.communication:memorialise
+w: memorialization drf verb.communication:memorialize
+d: a ceremony to honor the memory of someone or something
+hypo: ceremonial
+
+w: commencement 2
+w: commencement_ceremony
+w: commencement_exercise
+w: graduation 1 drf verb.possession:graduate drf verb.possession:graduate 1
+w: graduation_exercise
+d: an academic exercise in which diplomas are conferred
+hypo: exercise 1
+mp: noun.communication:baccalaureate 1
+
+w: commotion
+w: whirl drf verb.motion:whirl drf verb.motion:whirl 1 drf verb.motion:whirl 3
+d: confused movement
+e: he was caught up in a whirl of work
+e: a commotion of people fought for the exits
+hypo: motion
+
+w: compaction drf verb.contact:compact 9
+w: compression 2
+w: concretion drf verb.change:concrete
+w: densification
+d: an increase in the density of something
+hypo: concentration
+
+w: competition
+w: contest
+d: an occasion on which a winner is selected from among two or more contestants
+hyper: noun.act:game 3
+hyper: athletic_competition
+hyper: bout
+hyper: championship
+hyper: chicken
+hyper: cliffhanger
+hyper: dogfight
+hyper: field_trial
+hyper: match
+hyper: playoff
+hyper: race
+hyper: race 1
+hyper: series
+hyper: spelldown
+hyper: tournament
+hyper: tournament 1
+hyper: trial 1
+hypo: social_event
+
+w: complication drf verb.change:complicate
+w: ramification drf verb.change:ramify 4
+d: a development that complicates a situation
+e: the court's decision had many unforeseen ramifications
+hypo: development 1
+
+w: compression drf verb.contact:compress
+w: condensation drf verb.change:condense 4 drf verb.change:condense 5 drf verb.change:condense 6
+w: contraction 2
+d: the process or result of becoming smaller or pressed together
+e: the contraction of a gas on cooling
+hyper: coarctation
+hypo: shrinkage
+
+w: computer_error
+w: error
+d: (computer science) the occurrence of an incorrect result produced by a computer
+hyper: algorithm_error
+hyper: hardware_error
+hyper: programming_error
+hypo: happening
+mt: noun.cognition:computer_science
+
+w: concentration drf verb.change:concentrate drf verb.change:concentrate 1 drf verb.change:concentrate 3
+d: increase in density
+hyper: compaction
+hyper: rarefaction
+hypo: increase
+
+w: conception
+w: creation drf verb.creation:create 2 drf verb.creation:create 13
+d: the event that occurred at the beginning of something
+e: from its creation the plan was doomed to failure
+hyper: fecundation
+hypo: beginning
+
+w: conclusion
+w: ending ant beginning drf verb.creation:end 13 drf verb.stative:end 1
+w: finish 2 drf verb.change:finish 2 drf verb.change:finish 3 drf verb.stative:finish
+d: event whose occurrence ends something
+e: his death marked the ending of an era
+e: when these final episodes are broadcast it will be the finish of the show
+hyper: Z
+hyper: defeat
+hyper: demolition
+hyper: end
+hyper: final_result
+hyper: foregone_conclusion
+hyper: halt
+hyper: triumph
+hypo: happening
+
+w: concoction drf verb.contact:concoct
+d: an occurrence of an unusual mixture
+e: it suddenly spewed out a thick green concoction
+hypo: mix
+
+w: concussion drf verb.motion:concuss
+d: injury to the brain caused by a blow; usually resulting in loss of consciousness
+hypo: accidental_injury
+
+w: concussion 1 drf verb.motion:concuss
+d: any violent blow
+hypo: blow
+
+w: conflagration
+w: inferno drf adj.pert:infernal 1
+d: a very intense and uncontrolled fire
+hyper: wildfire
+hypo: fire
+
+w: conglobation drf verb.change:conglobe
+w: conglomeration drf verb.change:conglomerate
+d: an occurrence combining miscellaneous things into a (more or less) rounded mass
+hypo: combine
+
+w: conjuncture
+d: a critical combination of events or circumstances
+hypo: juncture
+
+w: conservation drf noun.person:conservationist drf verb.possession:conserve 2
+w: preservation
+d: an occurrence of improvement by virtue of preventing loss or injury or other change
+hypo: advance 1
+
+w: consolidation drf verb.change:consolidate 3 drf verb.change:consolidate 4
+d: combining into a solid mass
+hypo: combine
+
+w: contact drf verb.contact:contact 3
+w: impinging drf verb.social:impinge 10
+w: striking drf verb.contact:strike 1
+d: the physical coming together of two or more things
+e: contact with the pier scraped paint from the hull
+hyper: collision 1
+hyper: engagement
+hyper: flick
+hyper: impact
+hyper: touch
+hypo: happening
+
+w: contagion drf adjs.all:contagious
+w: infection drf verb.body:infect 1
+w: transmission drf verb.possession:transmit 10
+d: an incident in which an infectious disease is transmitted
+hypo: incident
+
+w: contingence
+w: contingency drf adjs.all:contingent 1
+w: eventuality
+d: a possible event or occurrence or result
+hypo: happening
+
+w: convergence drf adj.all:convergent drf verb.motion:converge drf verb.stative:converge
+d: the occurrence of two or more things coming together
+hyper: encounter
+hypo: happening
+
+w: conversion 1 drf verb.change:convert 1
+d: a change of religion
+e: his conversion to the Catholic faith
+hyper: Christianisation
+hypo: alteration
+
+w: convulsion
+d: a physical disturbance such as an earthquake or upheaval
+hypo: trouble
+
+w: coo drf verb.communication:coo
+d: the sound made by a pigeon
+hypo: cry
+
+w: corollary
+d: a practical consequence that follows naturally
+e: blind jealousy is a frequent corollary of passionate love
+hypo: aftermath
+
+w: coronation drf verb.social:coronate
+w: enthronement drf verb.social:enthrone drf verb.social:enthrone 1
+w: enthronisation drf verb.social:enthrone
+w: enthronization drf verb.social:enthrone
+w: investiture 1 drf verb.social:invest drf verb.social:invest 2
+d: the ceremony of installing a new monarch
+hypo: induction
+
+w: coruscation drf verb.weather:coruscate
+w: glitter drf adjs.all:glittery
+w: sparkle drf adjs.all:sparkly drf verb.weather:sparkle drf verb.weather:sparkle 2
+d: the occurrence of a small flash or spark
+hypo: flash
+
+w: cotilion
+w: cotillion
+d: a ball at which young ladies are presented to society
+hypo: ball
+
+w: counterclockwise_rotation
+w: levorotation ant dextrorotation
+d: rotation to the left
+hypo: gyration
+
+w: countercurrent
+w: crosscurrent
+w: rip
+w: riptide 1
+w: tide_rip
+d: a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current
+hypo: noun.phenomenon:turbulence
+
+w: coup_de_theatre
+d: a dramatic surprise
+hypo: surprise
+
+w: crack
+w: cracking drf verb.perception:crack 1
+w: snap drf verb.change:snap 1 drf verb.motion:snap drf verb.motion:snap 1
+d: a sudden sharp noise
+e: the crack of a whip
+e: he heard the cracking of the ice
+e: he can hear the snap of a twig
+hypo: noise
+
+w: crackle drf verb.perception:crackle
+w: crackling drf verb.perception:crackle
+w: crepitation drf verb.perception:crepitate
+d: the sharp sound of snapping noises
+hyper: decrepitation
+hypo: noise
+
+w: crash drf verb.contact:crash
+w: wreck
+d: a serious accident (usually involving one or more vehicles)
+e: they are still investigating the crash of the TWA plane
+hyper: prang
+hypo: accident 1
+
+w: crash 3 drf verb.change:crash 10
+d: (computer science) an event that causes a computer system to become inoperative
+e: the crash occurred during a thunderstorm and the system has been down ever since
+hyper: head_crash
+hypo: misadventure
+mt: noun.cognition:computer_science
+
+w: creak drf adjs.all:creaky 1 drf verb.perception:creak
+w: creaking drf verb.perception:creak
+d: a squeaking sound
+e: the creak of the floorboards gave him away
+hypo: noise
+
+w: creep drf verb.motion:creep
+d: a slow longitudinal movement or deformation
+hypo: change_of_location
+
+w: crepitation_rale
+d: the crackling sound heard on auscultation when patients with respiratory diseases inhale; associated with tuberculosis and pneumonia and congestive heart failure
+hypo: rale
+hypo: noun.state:symptom
+
+w: crestless_wave
+w: swell
+d: the undulating movement of the surface of the open sea
+hyper: ground_swell
+hypo: moving_ridge
+
+w: cricket_match
+d: a match between two cricket teams
+hypo: match
+
+w: crime_wave
+d: a sudden rise in the crime rate
+hypo: rise
+
+w: crisis drf adjs.all:critical
+d: a crucial stage or turning point in the course of something
+e: after the crisis the patient either dies or gets better
+hyper: emergency
+hypo: juncture
+
+w: cross-fertilisation drf verb.body:cross-fertilise drf verb.body:cross-fertilise 1
+w: cross-fertilization ant self-fertilization drf verb.body:cross-fertilize drf verb.body:cross-fertilize 1
+d: fertilization by the union of male and female gametes from different individual of the same species
+hyper: allogamy
+hypo: fecundation
+
+w: cross-pollination ant self-pollination drf verb.body:cross-pollinate
+d: fertilization by transfer of pollen from the anthers of one flower to the stigma of another
+hypo: pollenation
+
+w: cross_country
+d: a long race run over open country
+hyper: Iditarod
+hypo: race
+
+w: crow drf verb.communication:crow 2
+d: the cry of a cock (or an imitation of it)
+hyper: cock-a-doodle-doo
+hypo: cry
+
+w: crown_fire
+d: a forest fire that advances with great speed jumping from crown to crown ahead of the ground fire
+hypo: forest_fire
+
+w: crunch drf verb.communication:crunch
+d: the sound of something crunching
+e: he heard the crunch of footsteps on the gravel path
+hypo: noise
+
+w: crustal_movement
+w: tectonic_movement
+d: movement resulting from or causing deformation of the earth's crust
+hypo: motion
+mt: noun.cognition:geology
+
+w: cry drf verb.communication:cry 3
+d: the characteristic utterance of an animal
+e: animal cries filled the night
+hyper: baa
+hyper: bark
+hyper: bay
+hyper: bleat
+hyper: bray
+hyper: cackle
+hyper: caterwaul
+hyper: caw
+hyper: cheep
+hyper: cluck
+hyper: coo
+hyper: crow
+hyper: gobble
+hyper: growl
+hyper: honk
+hyper: howl 2
+hyper: meow
+hyper: moo
+hyper: neigh
+hyper: roar 1
+hyper: yelp
+hypo: sound
+
+w: cup_final
+d: the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)
+hypo: final
+mt: noun.act:association_football
+
+w: current
+w: stream drf verb.motion:stream
+d: a steady flow of a fluid (usually from natural causes)
+e: the raft floated downstream on the current
+e: he felt a stream of air
+e: the hose ejected a stream of water
+hyper: eddy
+hyper: maelstrom
+hyper: rip_current
+hyper: tidal_current
+hyper: torrent
+hyper: undercurrent
+hyper: noun.phenomenon:ocean_current
+hypo: flow
+
+w: curse
+w: torment
+d: a severe affliction
+hypo: affliction
+
+w: curtain_raising
+w: opening drf adj.all:opening
+w: opening_night
+d: the first performance (as of a theatrical production)
+e: the opening received good critical reviews
+hypo: start
+
+w: cycle 1
+w: oscillation 1 drf verb.motion:oscillate
+d: a single complete execution of a periodically repeated phenomenon
+e: a year constitutes a cycle of the seasons
+hyper: Carnot's_ideal_cycle
+hyper: cardiac_cycle
+hyper: pass 1
+hyper: noun.time:menstrual_cycle
+hypo: periodic_event
+
+w: cycle 2 drf adj.all:cyclic 1 drf adj.all:cyclical drf adjs.all:cyclic drf verb.change:cycle drf verb.motion:cycle 2 drf verb.motion:cycle 3
+d: a periodically repeated sequence of events
+e: a cycle of reprisal and retaliation
+hyper: merry-go-round
+hyper: samsara
+hypo: repeat
+
+w: cycle_of_rebirth
+d: (Hinduism) repeated rebirth in new forms
+hyper: moksa
+hypo: rebirth
+mt: noun.cognition:Hindooism
+
+w: daily_variation
+d: fluctuations that occur between one day and the next
+hypo: fluctuation
+
+w: damage drf verb.change:damage
+w: harm 1 drf verb.body:harm
+w: impairment drf verb.change:impair
+d: the occurrence of a change for the worse
+hyper: deformation
+hyper: detriment
+hyper: ladder
+hypo: alteration
+
+w: damage 1
+w: equipment_casualty
+d: loss of military equipment
+hyper: battle_damage
+hyper: operational_casualty
+hypo: casualty 1
+mt: noun.group:armed_forces
+
+w: dance drf verb.creation:dance
+d: a party for social dancing
+hyper: ball
+hyper: barn_dance
+hyper: hop
+hyper: rave
+hypo: party
+
+w: dash
+d: a footrace run at top speed
+e: he is preparing for the 100-yard dash
+hypo: track_event
+
+w: dawn 1 drf verb.stative:dawn 1
+w: morning
+d: the earliest period
+e: the dawn of civilization
+e: the morning of the world
+hypo: start
+
+w: day_of_reckoning
+w: doom drf verb.communication:doom 4
+w: doomsday
+w: end_of_the_world
+d: an unpleasant or disastrous destiny
+e: everyone was aware of the approaching doom but was helpless to avoid it
+e: that's unfortunate but it isn't the end of the world
+hypo: destiny
+
+w: dead_heat
+d: a tie in a race
+hypo: draw
+
+w: deal drf verb.social:deal 2
+d: the type of treatment received (especially as the result of an agreement)
+e: he got a good deal on his car
+hyper: fair_deal
+hyper: raw_deal
+hypo: final_result
+
+w: death ant birth drf verb.change:die drf verb.perception:die
+w: decease drf verb.change:decease
+w: expiry
+d: the event of dying or departure from life
+e: her death came as a terrible shock
+e: upon your decease the capital will pass to your grandchildren
+hyper: departure
+hyper: fatality
+hyper: martyrdom
+hyper: megadeath
+hyper: wrongful_death
+hypo: alteration
+ihypo: Crucifixion
+
+w: death_knell
+d: an omen of death or destruction
+hypo: omen
+
+w: debacle
+w: drubbing drf verb.contact:drub
+w: slaughter
+w: thrashing drf verb.contact:thrash 2
+w: trouncing drf verb.competition:trounce
+w: walloping drf verb.competition:wallop
+w: whipping drf verb.competition:whip
+d: a sound defeat
+hypo: defeat
+
+w: debacle 2
+w: fiasco 2
+d: a sudden and violent collapse
+hypo: collapse
+
+w: debilitation drf verb.change:debilitate
+w: enervation drf verb.change:enervate
+w: enfeeblement drf verb.change:enfeeble
+w: exhaustion
+d: serious weakening and loss of energy
+hypo: weakening
+
+w: debris_storm
+w: debris_surge
+d: the sudden spread of dust and debris from a collapsing building
+e: the destruction of the building produced an enormous debris surge
+hypo: rush
+
+w: decathlon
+d: an athletic contest consisting of ten different events
+hypo: athletic_competition
+
+w: decision 1
+d: the outcome of a game or contest
+e: the team dropped three decisions in a row
+hypo: final_result
+
+w: decision 2
+d: (boxing) a victory won on points when no knockout has occurred
+e: had little trouble in taking a unanimous decision over his opponent
+hyper: split_decision
+hypo: final_result
+mt: noun.act:boxing
+
+w: decrease ant increase drf verb.change:decrease drf verb.change:decrease 1
+w: drop-off drf verb.change:drop_off 1
+w: lessening
+d: a change downward
+e: there was a decrease in his temperature as the fever subsided
+e: there was a sharp drop-off in sales
+hyper: attrition
+hyper: casualty 1
+hyper: dwindling
+hyper: shrinkage
+hyper: sinking 1
+hyper: waning
+hypo: alteration
+
+w: decrepitation drf verb.change:decrepitate drf verb.change:decrepitate 1
+d: the crackling or breaking up of certain crystals when they are heated
+hypo: crackle
+
+w: dedication drf verb.cognition:dedicate drf verb.communication:dedicate drf verb.social:dedicate
+d: a ceremony in which something (as a building) is dedicated to some goal or purpose
+hyper: rededication
+hypo: ceremonial
+
+w: defeat ant victory drf noun.person:defeatist drf verb.social:defeat
+w: licking 1
+d: an unsuccessful ending to a struggle or contest
+e: it was a narrow defeat
+e: the army's only defeat
+e: they suffered a convincing licking
+hyper: debacle
+hyper: heartbreaker
+hyper: lurch
+hyper: rout
+hyper: shutout
+hyper: waterloo
+hyper: whitewash
+hypo: conclusion
+hypo: failure
+
+w: defervescence drf adj.pert:defervescent drf verb.change:defervesce
+d: abatement of a fever as indicated by a reduction in body temperature
+hypo: abatement 1
+
+w: deflection
+w: deflexion
+w: refraction
+d: the amount by which a propagating wave is bent
+hypo: bend
+
+w: deflection 1
+w: deflexion 1
+d: the movement of the pointer or pen of a measuring instrument from its zero position
+hypo: motion
+
+w: deformation drf verb.change:deform
+w: distortion
+d: a change for the worse
+hyper: warp
+hypo: damage
+
+w: deformation 1 drf adj.pert:deformational drf verb.change:deform drf verb.change:deform 1 drf verb.change:deform 2 drf verb.contact:deform drf verb.contact:deform 1 drf verb.contact:deform 2
+d: alteration in the shape or dimensions of an object as a result of the application of stress to it
+hyper: noun.phenomenon:shear
+hyper: noun.phenomenon:strain
+hypo: alteration
+
+w: degeneration
+w: retrogression
+d: passing from a more complex to a simpler biological form
+hyper: abiotrophy
+hyper: cataplasia
+hypo: shift 1
+
+w: deletion
+d: (genetics) the loss or absence of one or more nucleotides from a chromosome
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: deliquium
+w: faint drf adjs.all:faint 4 drf verb.body:faint
+w: swoon drf verb.body:swoon
+w: syncope
+d: a spontaneous loss of consciousness caused by insufficient blood to the brain
+hypo: loss_of_consciousness
+
+w: delivery
+d: the event of giving birth
+e: she had a difficult delivery
+hypo: birth
+
+w: demolition drf verb.creation:demolish
+w: destruction drf verb.contact:destroy
+w: wipeout drf verb.change:wipe_out drf verb.change:wipe_out 2 drf verb.change:wipe_out 3 drf verb.change:wipe_out 4 drf verb.creation:wipe_out
+d: an event (or the result of an event) that completely destroys something
+hyper: annihilation
+hyper: depredation
+hyper: eradication
+hyper: rack
+hyper: razing
+hyper: ruin
+hypo: conclusion
+
+w: denouement
+d: the outcome of a complex sequence of events
+hypo: final_result
+
+w: departure drf verb.motion:depart drf verb.motion:depart 1 drf verb.motion:depart 4
+w: exit drf verb.change:exit
+w: expiration drf verb.change:expire
+w: going drf verb.change:go
+w: loss 2
+w: passing drf verb.change:pass 11
+w: release
+d: euphemistic expressions for death
+e: thousands mourned his passing
+hypo: death
+mu: noun.communication:euphemism
+
+w: departure 1 drf verb.stative:depart
+w: deviation drf verb.stative:deviate
+w: difference drf verb.change:differentiate drf verb.cognition:differentiate 1 drf verb.cognition:differentiate 2
+w: divergence drf verb.stative:diverge 1
+d: a variation that deviates from the standard or norm
+e: the deviation from the mean
+hyper: discrepancy
+hyper: driftage
+hyper: flection
+hypo: fluctuation
+
+w: depredation
+w: ravage drf verb.change:ravage drf verb.change:ravage 1
+d: (usually plural) a destructive action
+e: the ravages of time
+e: the depredations of age and disease
+hypo: demolition
+mu: noun.communication:plural
+
+w: derailment drf verb.motion:derail drf verb.motion:derail 1
+d: an accident in which a train runs off its track
+hypo: misadventure
+
+w: descent drf verb.motion:descend
+d: a movement downward
+hyper: cascade
+hyper: drop
+hyper: lightening
+hyper: set
+hyper: sinking
+hyper: slide
+hypo: change_of_location
+
+w: desolation drf verb.change:desolate drf verb.change:desolate 1
+w: devastation drf verb.change:devastate
+d: an event that results in total destruction
+hypo: ruin
+
+w: destabilization drf verb.change:destabilize
+d: an event that causes a loss of equilibrium (as of a ship or aircraft)
+hypo: alteration
+mt: noun.artifact:aircraft
+mt: noun.artifact:ship
+
+w: destiny
+w: fate drf verb.communication:fate
+d: an event (or a course of events) that will inevitably happen in the future
+hyper: day_of_reckoning
+hyper: inevitable
+hyper: karma
+hyper: kismat
+hyper: predestination
+hypo: happening
+
+w: detriment drf adjs.all:detrimental
+w: hurt 1 drf verb.change:hurt 4
+d: a damage or loss
+hyper: expense
+hypo: damage
+
+w: development 1 drf verb.change:develop 3
+d: a recent event that has some relevance for the present situation
+e: recent developments in Iraq
+e: what a revolting development!
+hyper: complication
+hyper: phenomenon
+hyper: turn 1
+hypo: alteration
+
+w: diastole drf adj.pert:diastolic
+d: the widening of the chambers of the heart between two contractions when the chambers fill with blood
+hypo: beat
+
+w: diffusion
+d: the spread of social institutions (and myths and skills) from one society to another
+hypo: spread
+mt: noun.group:mythology
+
+w: ding
+d: a ringing sound
+hypo: sound
+
+w: ding-dong
+d: the noise made by a bell
+hypo: noise
+
+w: dip drf verb.change:dip drf verb.consumption:dip drf verb.contact:dip drf verb.contact:dip 11
+d: a brief immersion
+hypo: immersion
+
+w: direct_tide
+d: the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side
+hypo: high_tide
+
+w: disappearance ant appearance drf verb.perception:disappear
+d: the event of passing out of sight
+hyper: evanescence
+hyper: fadeout
+hyper: immersion 1
+hyper: vanishing
+hypo: happening
+
+w: disappearance 1
+d: ceasing to exist
+e: he regretted the disappearance of Greek from school curricula
+e: what was responsible for the disappearance of the rainforest?
+e: the disappearance of resistance at very low temperatures
+hypo: happening
+
+w: discharge
+d: the sudden giving off of energy
+hyper: blowup
+hyper: electrical_discharge
+hyper: eruption
+hypo: happening
+
+w: discharge 1 drf verb.contact:discharge
+w: outpouring
+w: run drf adjs.all:runny drf verb.motion:run 1
+d: the pouring forth of a fluid
+hyper: escape
+hyper: jet
+hypo: flow
+
+w: discrepancy drf adjs.all:discrepant
+w: variance
+w: variant drf adjs.all:variant 1 drf verb.stative:vary
+d: an event that departs from expectations
+hypo: departure 1
+
+w: discus
+d: an athletic competition in which a disk-shaped object is thrown as far as possible
+hypo: field_event
+
+w: disembarrassment ant embarrassment drf verb.possession:disembarrass
+d: something that extricates you from embarrassment
+hypo: easing
+
+w: disk_error
+d: error resulting from malfunction of a magnetic disk
+hypo: hardware_error
+mt: noun.cognition:computer_science
+
+w: dislocation drf verb.change:dislocate drf verb.change:dislocate 1
+w: disruption
+d: an event that results in a displacement or discontinuity
+hypo: break
+
+w: dismemberment drf verb.contact:dismember
+w: taking_apart
+d: the removal of limbs; being cut to pieces
+hypo: noun.act:torture
+hypo: mutilation
+
+w: dispersion drf verb.motion:disperse
+w: scattering drf verb.motion:scatter 1
+d: spreading widely or driving off
+hyper: Diaspora
+hyper: dissipation
+hypo: spread
+
+w: displacement
+w: shift drf verb.change:shift drf verb.change:shift 1 drf verb.change:shift 2
+d: an event in which something is displaced without rotation
+hyper: amplitude
+hyper: luxation
+hypo: translation
+
+w: dissilience drf adjs.all:dissilient
+d: the emergence of seeds as seed pods burst open when they are ripe
+hypo: egress 1
+mt: noun.cognition:botany
+
+w: dissipation drf verb.motion:dissipate drf verb.motion:dissipate 1
+d: breaking up and scattering by dispersion
+e: the dissipation of the mist
+hypo: dispersion
+
+w: disturbance
+w: perturbation
+d: activity that is a malfunction, intrusion, or interruption
+e: the term `distress' connotes some degree of perturbation and emotional upset
+e: he looked around for the source of the disturbance
+e: there was a disturbance of neural function
+hyper: bother
+hyper: magnetic_storm
+hypo: noun.act:activity
+
+w: disturbance 1
+w: interference
+w: noise 1
+d: electrical or acoustic activity that can disturb communication
+hyper: noun.communication:clutter
+hyper: XT
+hyper: atmospheric_static
+hyper: background
+hyper: fadeout 1
+hyper: jitter
+hyper: white_noise
+hypo: trouble
+
+w: diurnal_variation
+d: fluctuations that occur during each day
+hypo: fluctuation
+
+w: diving
+w: diving_event
+d: an athletic competition that involves diving into water
+hp: swim_meet
+hypo: match
+
+w: dog_racing
+d: a race between dogs; usually an occasion for betting on the outcome
+hypo: race
+
+w: dogfight
+d: a fiercely disputed contest
+e: their rancor dated from a political dogfight between them
+e: a real dogfight for third place
+e: a prolonged dogfight over their rival bids for the contract
+hypo: competition
+
+w: downfall
+w: fall 1 ant rise drf verb.social:fall drf verb.social:fall 2
+d: a sudden decline in strength or number or importance
+e: the fall of the House of Hapsburg
+hyper: anticlimax
+hypo: weakening
+
+w: downfall 1
+w: ruin 1 drf verb.social:ruin
+w: ruination 1
+d: failure that results in a loss of position or reputation
+hyper: finish 1
+hypo: failure
+
+w: downhill
+d: a ski race down a trail
+hypo: ski_race
+
+w: drama drf adj.all:dramatic drf adjs.all:dramatic drf verb.communication:dramatise 1 drf verb.communication:dramatize drf verb.communication:dramatize 1
+w: dramatic_event
+d: an episode that is turbulent or highly emotional
+hyper: night_terror
+hypo: episode
+
+w: draw drf verb.competition:draw
+w: standoff
+w: tie drf verb.competition:tie
+d: the finish of a contest in which the score is tied and the winner is undecided
+e: the game ended in a draw
+e: their record was 3 wins, 6 losses and a tie
+hyper: dead_heat
+hyper: stalemate
+hypo: finish
+
+w: dressing
+w: fecundation 1 drf verb.change:fecundate
+w: fertilisation 1
+w: fertilization 1 drf verb.change:fertilize
+d: making fertile as by applying fertilizer or manure
+hyper: top_dressing
+hypo: noun.act:enrichment
+
+w: dribble drf verb.contact:dribble 10
+w: drip drf adjs.all:drippy 1 drf verb.contact:drip 10 drf verb.motion:drip
+w: trickle drf verb.motion:trickle
+d: flowing in drops; the formation and falling of drops of liquid
+e: there's a drip through the roof
+hyper: intravenous_drip
+hypo: flow
+
+w: driftage drf verb.motion:drift 4
+d: the deviation (by a vessel or aircraft) from its intended course due to drifting
+hypo: departure 1
+mt: noun.artifact:aircraft
+
+w: drip 1
+w: dripping 1
+d: the sound of a liquid falling drop by drop
+e: the constant sound of dripping irritated him
+hypo: sound
+
+w: drippage
+w: dripping
+d: a liquid (as water) that flows in drops (as from the eaves of house)
+hypo: flow
+
+w: drop drf verb.motion:drop drf verb.motion:drop 1
+w: fall drf verb.motion:fall 3 drf verb.motion:fall 15
+d: a free and rapid descent by the force of gravity
+e: it was a miracle that he survived the drop from that height
+hyper: free_fall
+hyper: plunge
+hyper: precipitation
+hypo: descent
+hypo: gravitation
+
+w: drum drf verb.creation:drum
+d: the sound of a drum
+e: he could hear the drums before he heard the fifes
+hypo: sound
+
+w: drum_roll
+w: paradiddle
+w: roll 3 drf verb.perception:roll
+d: the sound of a drum (especially a snare drum) beaten rapidly and continuously
+hypo: sound
+
+w: drumbeat
+w: rataplan
+w: rub-a-dub
+d: the sound made by beating a drum
+hypo: sound
+
+w: dud 1
+w: misfire drf verb.competition:misfire
+d: an explosion that fails to occur
+hypo: breakdown 1
+
+w: dwindling drf verb.change:dwindle
+w: dwindling_away
+d: a becoming gradually less
+e: there is no greater sadness that the dwindling away of a family
+hyper: fading_away
+hypo: decrease
+
+w: earth_tremor
+w: microseism
+w: tremor drf verb.motion:tremor
+d: a small earthquake
+hyper: aftershock
+hyper: foreshock
+hypo: earthquake
+
+w: earthquake
+w: quake drf verb.motion:quake 2
+w: seism drf adjs.all:seismal drf adjs.all:seismic
+w: temblor
+d: shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
+hyper: earth_tremor
+hyper: seaquake
+hyper: seismic_disturbance
+hypo: noun.phenomenon:geological_phenomenon
+
+w: easing drf verb.change:ease
+w: moderation
+w: relief
+d: a change for the better
+hyper: breath_of_fresh_air
+hyper: disembarrassment
+hypo: alteration
+
+w: ebb drf verb.motion:ebb
+w: reflux
+d: the outward flow of the tide
+hp: ebbtide
+hypo: flow
+
+w: ebbtide ant flood_tide
+d: the tide while water is flowing out
+hypo: tide
+mp: ebb
+
+w: eclipse drf verb.perception:eclipse
+w: occultation
+d: one celestial body obscures another
+hyper: lunar_eclipse
+hyper: partial_eclipse
+hyper: solar_eclipse
+hyper: total_eclipse
+hypo: break
+mp: egress
+mp: immersion 1
+
+w: eddy drf verb.motion:eddy
+w: twist 1
+d: a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
+hypo: current
+
+w: egress ant ingress
+w: emersion ant immersion 1
+d: (astronomy) the reappearance of a celestial body after an eclipse
+hp: eclipse
+hypo: reappearance
+mt: noun.cognition:astronomy
+
+w: egress 1 drf verb.change:egress
+w: emergence drf verb.change:emerge
+w: issue
+d: the becoming visible
+e: not a day's difference between the emergence of the andrenas and the opening of the willow catkins
+hyper: dissilience
+hyper: eruption 2
+hypo: beginning
+
+w: elaboration drf verb.change:elaborate
+w: refinement drf verb.change:refine 1
+d: the result of improving something
+e: he described a refinement of this technique
+hypo: advance 1
+
+w: electrical_discharge
+d: a discharge of electricity
+hyper: impulse
+hyper: spike
+hyper: noun.phenomenon:atmospheric_electricity
+hypo: discharge
+
+w: elevation drf verb.motion:elevate
+w: lift drf verb.motion:lift drf verb.motion:lift 3
+w: raising drf verb.motion:raise 2
+d: the event of something being raised upward
+e: an elevation of the temperature in the afternoon
+e: a raising of the land resulting from volcanic activity
+hypo: ascension
+
+w: elimination_tournament
+d: a tournament in which losers are eliminated in successive rounds
+hypo: tournament
+mp: final
+mp: quarterfinal
+mp: semi
+
+w: emanation
+w: procession
+w: rise 3 drf verb.body:rise
+d: (theology) the origination of the Holy Spirit at Pentecost
+e: the emanation of the Holy Spirit
+e: the rising of the Holy Ghost
+e: the doctrine of the procession of the Holy Spirit from the Father and the Son
+hypo: inception
+mt: noun.cognition:theological_system
+
+w: embarrassment ant disembarrassment drf verb.emotion:embarrass
+d: some event that causes someone to be embarrassed
+e: the outcome of the vote was an embarrassment for the liberals
+hypo: trouble
+
+w: emergence 1 drf verb.change:emerge 1
+w: growth 1 drf verb.change:grow 3 drf verb.stative:grow
+w: outgrowth
+d: the gradual beginning or coming forth
+e: figurines presage the emergence of sculpture in Greece
+hyper: rise
+hypo: beginning
+
+w: emergency drf adjs.all:emergent
+w: exigency drf adjs.all:exigent
+w: pinch 1
+d: a sudden unforeseen crisis (usually involving danger) that requires immediate action
+e: he never knew what to do in an emergency
+hypo: crisis
+
+w: emission
+d: the occurrence of a flow of water (as from a pipe)
+hypo: flow
+
+w: encounter drf verb.possession:encounter
+w: meeting drf verb.motion:meet 1
+d: a casual or unexpected convergence
+e: he still remembers their meeting in Paris
+e: there was a brief encounter in the hallway
+hyper: alignment
+hypo: convergence
+
+w: encroachment drf verb.motion:encroach
+w: intrusion
+w: invasion drf verb.motion:invade drf verb.stative:invade
+d: any entry into an area not previously occupied
+e: an invasion of tourists
+e: an invasion of locusts
+hypo: entering
+
+w: end drf verb.change:end 1 drf verb.creation:end 13 drf verb.stative:end drf verb.stative:end 1
+w: final_stage
+w: last
+d: the concluding parts of an event or occurrence
+e: the end was exciting
+e: I had to miss the last of the movie
+hyper: end_game
+hyper: end_game 1
+hyper: homestretch
+hyper: passing 2
+hypo: conclusion
+
+w: end_game
+w: endgame
+d: the final stages of a chess game after most of the pieces have been removed from the board
+hypo: end
+
+w: end_game 1
+w: endgame 1
+d: the final stages of an extended process of negotiation
+e: the diplomatic endgame
+hypo: end
+
+w: engagement drf verb.change:engage drf verb.contact:engage
+w: interlocking
+w: mesh drf verb.contact:mesh 1
+w: meshing drf verb.contact:mesh 1
+d: contact by fitting together
+e: the engagement of the clutch
+e: the meshing of gears
+hypo: contact
+
+w: engine_failure
+d: engine does not run
+hypo: breakdown 1
+
+w: entering drf verb.motion:enter
+w: entrance drf verb.motion:enter
+d: a movement into or inward
+hyper: encroachment
+hypo: change_of_location
+
+w: epidemic drf adj.all:epidemic
+d: a widespread outbreak of an infectious disease; many people are infected at the same time
+hyper: pandemic
+hypo: eruption 3
+
+w: epiphany
+d: a divine manifestation
+hypo: manifestation
+
+w: episode
+d: a happening that is distinctive in a series of related events
+hyper: chapter
+hyper: drama
+hyper: idyll
+hypo: happening
+mp: incident
+
+w: eradication drf verb.creation:eradicate
+w: obliteration drf verb.change:obliterate drf verb.change:obliterate 2 drf verb.change:obliterate 3
+d: the complete destruction of every trace of something
+hypo: demolition
+
+w: eruption drf verb.change:erupt
+w: volcanic_eruption
+d: the sudden occurrence of a violent discharge of steam and volcanic material
+hyper: Plinian_eruption
+hypo: discharge
+
+w: eruption 2 drf verb.change:erupt 4
+d: the emergence of a tooth as it breaks through the gum
+hypo: egress 1
+
+w: eruption 3 drf verb.change:erupt 2
+w: irruption drf verb.change:irrupt 3
+w: outbreak
+d: a sudden violent spontaneous occurrence (usually of some undesirable condition)
+e: the outbreak of hostilities
+hyper: epidemic
+hyper: recrudescence
+hypo: happening
+
+w: escape drf verb.change:escape 4
+w: leak drf adj.all:leaky drf verb.change:leak drf verb.change:leak 4
+w: leakage drf verb.change:leak drf verb.change:leak 4
+w: outflow
+d: the discharge of a fluid from some container
+e: they tried to stop the escape of gas from the damaged pipe
+e: he had to clean up the leak
+hypo: discharge 1
+
+w: evanescence drf adjs.all:evanescent drf verb.change:evanesce
+d: the event of fading and gradually vanishing from sight
+e: the evanescence of the morning mist
+hypo: disappearance
+
+w: exercise 1
+d: (usually plural) a ceremony that involves processions and speeches
+e: academic exercises
+hyper: commencement 2
+hypo: ceremonial
+mu: noun.communication:plural
+
+w: expense
+d: a detriment or sacrifice
+e: at the expense of
+hypo: detriment
+
+w: experience drf verb.change:experience drf verb.emotion:experience drf verb.perception:experience drf verb.perception:experience 1
+d: an event as apprehended
+e: a surprising experience
+e: that painful experience certainly got our attention
+hyper: appalling
+hyper: augury
+hyper: blast 2
+hyper: flash 1
+hyper: head_trip
+hyper: loss 1
+hyper: near-death_experience
+hyper: ordeal
+hyper: out-of-body_experience
+hyper: taste
+hyper: time 1
+hyper: vision
+hypo: happening
+mp: noun.cognition:high_point
+
+w: explosion 1 drf verb.change:explode 2
+d: a sudden great increase
+e: the population explosion
+e: the information explosion
+hypo: increase
+
+w: explosion 2
+d: the noise caused by an explosion
+e: the explosion was heard a mile away
+hypo: noise
+
+w: extermination
+w: extinction drf verb.change:extinguish 1
+d: complete annihilation
+e: they think a meteor cause the extinction of the dinosaurs
+hypo: annihilation
+
+w: extrasystole
+d: a premature systole resulting in a momentary cardiac arrhythmia
+hypo: systole
+
+w: exudation drf verb.body:exude
+w: transudation drf verb.body:transude
+d: the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes
+hypo: ooze
+
+w: eye_opener
+d: something surprising and revealing
+hypo: surprise
+
+w: factor
+d: anything that contributes causally to a result
+e: a number of factors determined the outcome
+hyper: fundamental
+hyper: parameter
+hyper: unknown_quantity
+hyper: wild_card
+hyper: noun.substance:RF 1
+hyper: noun.substance:intrinsic_factor
+hypo: cause
+
+w: fadeout drf verb.change:fade_out
+w: receding drf verb.change:recede
+d: a slow or gradual disappearance
+hypo: disappearance
+
+w: fadeout 1
+d: a gradual temporary loss of a transmitted signal due to electrical disturbances
+hypo: disturbance 1
+
+w: fading_away
+d: gradually diminishing in brightness or loudness or strength
+hypo: dwindling
+
+w: failure ant success drf verb.social:fail drf verb.social:fail 12
+d: an event that does not accomplish its intended purpose
+e: the surprise party was a complete failure
+hyper: abortion
+hyper: breakdown 1
+hyper: bust
+hyper: defeat
+hyper: downfall 1
+hyper: flame-out 1
+hyper: malformation
+hyper: malfunction
+hyper: misfire 1
+hypo: happening
+
+w: fair_deal
+w: square_deal
+d: fair treatment
+hypo: deal
+
+w: fall 2
+w: pin
+d: when a wrestler's shoulders are forced to the mat
+hp: wrestling_match
+hyper: takedown 1
+hypo: triumph
+
+w: fall 4 ant rise 2 drf verb.motion:fall
+d: a movement downward
+e: the rise and fall of the tides
+hypo: change_of_location
+
+w: famine
+d: a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death
+hyper: the_Great_Calamity
+hypo: calamity
+
+w: fancy-dress_ball
+w: masked_ball
+w: masquerade_ball
+d: a ball at which guests wear costumes and masks
+hypo: ball
+hypo: noun.group:mask
+
+w: fatality
+w: human_death
+d: a death resulting from an accident or a disaster
+e: a decrease in the number of automobile fatalities
+hyper: casualty 2
+hyper: killing
+hypo: death
+
+w: fault
+d: (electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.)
+e: it took much longer to find the fault than to fix it
+hypo: breakdown 1
+mt: noun.cognition:electronics
+
+w: feast drf verb.consumption:feast 2
+d: something experienced with great delight
+e: a feast for the eyes
+hypo: thing
+
+w: feast 1 drf verb.consumption:feast drf verb.consumption:feast 1
+w: fete drf verb.social:fete
+w: fiesta
+d: an elaborate party (often outdoors)
+hyper: luau
+hyper: potlatch
+hypo: party
+
+w: fecundation drf verb.body:fecundate
+w: fertilisation
+w: fertilization drf verb.body:fertilize
+w: impregnation drf verb.body:impregnate drf verb.body:impregnate 1
+d: creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant
+hyper: cross-fertilisation
+hyper: pollenation
+hyper: self-fertilisation
+hyper: superfecundation
+hyper: superfetation
+hypo: conception
+
+w: fender-bender
+d: a collision between motor vehicles that produces minor damage
+hypo: collision
+
+w: field_event
+d: a competition that takes place on a field rather than on a running track
+hp: track_meet
+hyper: broad_jump
+hyper: discus
+hyper: hammer_throw
+hyper: high_jump
+hyper: javelin
+hyper: pole_jump
+hyper: shot_put
+hypo: match
+
+w: field_trial
+d: a contest between gun dogs to determine their proficiency in pointing and retrieving
+hypo: competition
+
+w: final drf adjs.all:final
+d: the final match between the winners of all previous matches in an elimination tournament
+hp: elimination_tournament
+hyper: cup_final
+hypo: match
+
+w: final_result
+w: outcome
+w: result drf verb.stative:result
+w: resultant drf adjs.all:resultant drf verb.stative:result 2
+w: termination
+d: something that results
+e: he listened for the results on the radio
+hyper: aftermath
+hyper: deal
+hyper: decision 1
+hyper: decision 2
+hyper: denouement
+hyper: just_deserts
+hyper: separation 1
+hyper: sequel
+hyper: worst
+hypo: conclusion
+
+w: finish
+d: designated event that concludes a contest (especially a race)
+e: excitement grew as the finish neared
+e: my horse was several lengths behind at the finish
+e: the winner is the team with the most points at the finish
+hyper: draw
+hyper: photo_finish
+hyper: runner-up_finish
+hyper: third-place_finish
+hypo: happening
+
+w: finish 1
+d: the downfall of someone (as of persons on one side of a conflict)
+e: booze will be the finish of him
+e: it was a fight to the finish
+hypo: downfall 1
+
+w: fire drf verb.change:fire 1
+d: the event of something burning (often destructive)
+e: they lost everything in the fire
+hyper: backfire 3
+hyper: balefire
+hyper: brush_fire
+hyper: campfire
+hyper: conflagration
+hyper: forest_fire
+hyper: grassfire
+hyper: smolder
+hyper: smudge
+hypo: happening
+
+w: fire 1
+d: a severe trial
+e: he went through fire and damnation
+hypo: trial
+
+w: fire_walking
+d: the ceremony of walking barefoot over hot stones or a bed of embers
+hypo: ceremonial
+
+w: first-place_finish
+d: a finish in first place (as in a race)
+hypo: win
+
+w: fizzle 1
+w: hiss drf verb.communication:hiss drf verb.communication:hiss 1 drf verb.communication:hiss 2
+w: hissing drf verb.communication:hiss drf verb.communication:hiss 1 drf verb.communication:hiss 2
+w: hushing
+w: sibilation drf verb.communication:sibilate
+d: a fricative sound (especially as an expression of disapproval)
+e: the performers could not be heard over the hissing of the audience
+hypo: noise
+
+w: flame-out
+d: the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion
+hypo: power_failure
+mt: noun.artifact:jet_engine
+
+w: flame-out 1
+d: a complete or conspicuous failure
+e: the spectacular flame-out of the company's stock cost many people their life savings
+hypo: failure
+
+w: flap 1 drf verb.motion:flap drf verb.motion:flap 1 drf verb.motion:flap 2 drf verb.motion:flap 3
+w: flapping drf verb.motion:flap drf verb.motion:flap 1 drf verb.motion:flap 2 drf verb.motion:flap 3
+w: flutter 1
+w: fluttering drf verb.motion:flutter 1
+d: the motion made by flapping up and down
+hypo: undulation
+
+w: flash drf verb.change:flash 4
+d: a sudden intense burst of radiant energy
+hyper: coruscation
+hyper: flicker
+hyper: gleam
+hyper: heat_flash
+hyper: lightning
+hyper: streak
+hypo: happening
+
+w: flash 1 drf verb.change:flash 3
+w: flashing drf verb.change:flash 3
+d: a short vivid experience
+e: a flash of emotion swept over him
+e: the flashings of pain were a warning
+hypo: experience
+
+w: flashback
+d: an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)
+hypo: recurrence
+
+w: flection
+w: flexion
+w: inflection
+d: deviation from a straight or normal course
+hypo: departure 1
+
+w: flesh_wound
+d: a wound that does not damage important internal organs or shatter any bones
+hypo: combat_injury
+
+w: flick drf verb.contact:flick 3
+d: a light sharp contact (usually with something flexible)
+e: he gave it a flick with his finger
+e: he felt the flick of a whip
+hypo: contact
+
+w: flicker drf verb.perception:flicker drf verb.weather:flicker
+w: glint drf verb.perception:glint
+w: spark 1 drf verb.weather:spark
+d: a momentary flash of light
+hypo: flash
+
+w: flood
+w: flood_tide ant ebbtide
+w: rising_tide
+d: the occurrence of incoming water (between a low tide and the following high tide)
+e: "a tide in the affairs of men which, taken at the flood, leads on to fortune" -Shakespeare
+hypo: tide
+
+w: flow drf verb.motion:flow drf verb.motion:flow 2 drf verb.stative:flow
+w: flowing drf verb.motion:flow
+d: the motion characteristic of fluids (liquids or gases)
+hyper: noun.artifact:fountain 1
+hyper: air_flow
+hyper: backflow
+hyper: current
+hyper: discharge 1
+hyper: dribble
+hyper: drippage
+hyper: ebb
+hyper: emission
+hyper: flush
+hyper: flux
+hyper: freshet
+hyper: ooze
+hyper: overflow
+hyper: rush
+hypo: change_of_location
+
+w: fluctuation drf verb.motion:fluctuate
+w: variation 1 drf verb.stative:vary 1
+d: an instance of change; the rate or magnitude of change
+hyper: allomerism
+hyper: business_cycle
+hyper: daily_variation
+hyper: departure 1
+hyper: diurnal_variation
+hyper: permutation
+hyper: tide 1
+hyper: vicissitude
+hypo: alteration
+
+w: fluctuation 1 drf verb.motion:fluctuate drf verb.motion:fluctuate 3
+d: a wave motion
+e: the fluctuations of the sea
+hypo: undulation
+
+w: flush drf verb.change:flush drf verb.change:flush 2 drf verb.change:flush 3
+w: gush drf verb.motion:gush
+w: outpouring 1
+d: a sudden rapid flow (as of water)
+e: he heard the flush of a toilet
+e: there was a little gush of blood
+e: she attacked him with an outpouring of words
+hyper: springtide 1
+hypo: flow
+
+w: flux drf verb.change:flux 1
+w: fluxion drf verb.motion:flux
+d: a flow or discharge
+hypo: flow
+
+w: flying_start
+w: running_start
+d: a quick and auspicious beginning
+hypo: start
+
+w: flying_start 1
+w: running_start 1
+d: a racing start in which the contestants are already in full motion when they pass the starting line
+hypo: racing_start
+
+w: foot_race
+w: footrace
+w: run 2 drf verb.competition:run 1 drf verb.motion:run drf verb.motion:run 5 drf verb.motion:run 10
+d: a race run on foot
+e: she broke the record for the half-mile run
+hyper: fun_run
+hyper: marathon
+hyper: obstacle_race
+hyper: steeplechase 2
+hyper: track_event
+hypo: race
+
+w: footfall
+w: footstep
+w: step drf verb.motion:step drf verb.motion:step 4
+d: the sound of a step of someone walking
+e: he heard footsteps on the porch
+hyper: tramp
+hypo: sound
+
+w: foreboding drf verb.communication:forebode
+d: an unfavorable omen
+hypo: omen
+
+w: foregone_conclusion
+w: matter_of_course
+d: an inevitable ending
+hypo: conclusion
+
+w: foreshock
+d: a tremor preceding an earthquake
+hypo: earth_tremor
+
+w: forest_fire
+d: an uncontrolled fire in a wooded area
+hyper: crown_fire
+hyper: ground_fire
+hyper: surface_fire
+hypo: fire
+
+w: formalities
+w: formality drf adjs.all:formal 3
+d: a requirement of etiquette or custom
+e: a mere formality
+hypo: ceremonial
+
+w: foundering drf verb.motion:founder 1
+w: going_under
+d: (of a ship) sinking
+hypo: sinking
+mt: noun.artifact:ship
+
+w: fragmentation drf verb.change:fragment
+d: the scattering of bomb fragments after the bomb explodes
+hypo: blowup
+
+w: free_fall
+d: the ideal falling motion of something subject only to a gravitational field
+hypo: drop
+
+w: freestyle
+d: a race (as in swimming) in which each contestant has a free choice of the style to use
+hypo: race
+
+w: freshet
+w: spate
+d: the occurrence of a water flow resulting from sudden rain or melting snow
+hypo: flow
+
+w: fruit
+d: the consequence of some effort or action
+e: he lived long enough to see the fruit of his policies
+hypo: aftermath
+
+w: fun_run
+w: funrun
+d: a footrace run for fun (often including runners who are sponsored for a charity)
+hypo: foot_race
+
+w: fundamental
+d: any factor that could be considered important to the understanding of a particular business
+e: fundamentals include a company's growth, revenues, earnings, management, and capital structure
+hypo: factor
+
+w: fundraiser
+d: a social function that is held for the purpose of raising money
+hypo: affair
+
+w: funeral drf adj.pert:funerary drf adjs.all:funereal
+d: a ceremony at which a dead person is buried or cremated
+e: hundreds of people attended his funeral
+hyper: burial
+hyper: sky_burial
+hypo: ceremonial
+
+w: fusion drf verb.change:fuse
+w: merger drf verb.change:merge 2
+w: unification drf verb.change:unify drf verb.change:unify 1
+d: an occurrence that involves the production of a union
+hypo: union
+
+w: gargle drf verb.communication:gargle
+d: the sound produced while gargling
+hypo: sound
+
+w: gene_mutation
+w: point_mutation
+d: (genetics) a mutation due to an intramolecular reorganization of a gene
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: generation drf verb.body:generate drf verb.creation:generate
+w: genesis
+d: a coming into being
+hypo: beginning
+
+w: germination drf verb.change:germinate 1
+d: the origin of some development
+e: the germination of their discontent
+hypo: inception
+
+w: gleam drf verb.perception:gleam
+w: gleaming drf verb.perception:gleam
+w: glimmer drf adjs.all:glimmery drf verb.perception:glimmer
+d: a flash of light (especially reflected light)
+hypo: flash
+
+w: glycogenesis
+d: the conversion of glucose to glycogen when the glucose in the blood exceeds the demand
+hypo: changeover
+
+w: gobble drf verb.communication:gobble
+d: the characteristic sound made by a turkey cock
+hypo: cry
+
+w: grand_slam
+d: winning all of the tricks in a hand of bridge
+hypo: slam
+
+w: grassfire
+w: prairie_fire
+d: an uncontrolled fire in a grassy area
+hypo: fire
+
+w: grate
+d: a harsh rasping sound made by scraping something
+hypo: noise
+
+w: gravitation ant levitation drf adj.pert:gravitational drf verb.motion:gravitate
+d: movement downward resulting from gravitational attraction
+e: irrigation by gravitation rather than by pumps
+hyper: drop
+hypo: change_of_location
+
+w: gravitation_wave
+w: gravity_wave
+d: (physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
+hypo: undulation
+mt: noun.cognition:natural_philosophy
+
+w: gravitational_collapse
+d: the implosion of a star resulting from its own gravity; the result is a smaller and denser celestial object
+hypo: implosion
+
+w: green_revolution
+d: the introduction of pesticides and high-yield grains and better management during the 1960s and 1970s which greatly increased agricultural productivity
+hypo: revolution 1
+
+w: grinding drf verb.contact:grind
+d: a harsh and strident sound (as of the grinding of gears)
+hypo: noise
+
+w: ground_fire
+d: a forest fire that burns the humus; may not appear on the surface
+hypo: forest_fire
+
+w: ground_floor
+d: becoming part of a venture at the beginning (regarded as position of advantage)
+e: he got in on the ground floor
+hypo: beginning
+
+w: ground_loop
+d: a sharp uncontrollable turn made by an airplane while moving along the ground
+hypo: misadventure
+
+w: ground_swell
+w: heavy_swell
+d: a broad and deep undulation of the ocean
+hypo: crestless_wave
+
+w: ground_swell 1
+d: an obvious change of public opinion or political sentiment that occurs without leadership or overt expression
+e: there was a ground swell of antiwar sentiment
+hypo: transition 1
+
+w: growl drf verb.communication:growl
+w: growling drf verb.communication:growl
+d: the sound of growling (as made by animals)
+hypo: cry
+
+w: grumble drf verb.communication:grumble 2 drf verb.perception:grumble
+w: grumbling drf verb.communication:grumble 2 drf verb.perception:grumble
+w: rumble drf verb.communication:rumble drf verb.perception:rumble
+w: rumbling drf verb.communication:rumble drf verb.perception:rumble
+d: a loud low dull continuous noise
+e: they heard the rumbling of thunder
+hypo: noise
+
+w: grunt drf verb.communication:grunt
+w: oink
+d: the short low gruff noise of the kind made by hogs
+hypo: noise
+
+w: gurgle drf verb.perception:gurgle drf verb.perception:gurgle 2
+d: the bubbling sound of water flowing from a bottle with a narrow neck
+hypo: sound
+
+w: gymkhana
+d: a meet at which riders and horses display a range of skills and aptitudes
+hypo: meet
+
+w: gyration drf verb.motion:gyrate 1
+w: revolution drf adj.pert:revolutionary 2 drf verb.motion:revolve drf verb.motion:revolve 1
+w: rotation
+d: a single complete turn (axial or orbital)
+e: the plane made three rotations before it crashed
+e: the revolution of the earth about the sun takes one year
+hyper: axial_motion
+hyper: clockwise_rotation
+hyper: counterclockwise_rotation
+hyper: orbital_motion
+hyper: spin
+hypo: turn
+
+w: halt drf verb.change:halt 2 drf verb.motion:halt 1 drf verb.motion:halt 5 drf verb.social:halt
+w: stop drf verb.motion:stop drf verb.motion:stop 1 drf verb.stative:stop
+d: the event of something ending
+e: it came to a stop at the bottom of the hill
+hyper: cessation
+hyper: stand
+hypo: conclusion
+
+w: hammer_throw
+d: an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
+hypo: field_event
+
+w: hap drf verb.change:hap
+d: an accidental happening
+e: he recorded all the little haps and mishaps of his life
+hypo: accident
+
+w: happening drf verb.change:happen
+w: natural_event
+w: occurrence drf adjs.all:occurrent
+w: occurrent
+d: an event that happens
+hyper: accident
+hyper: accompaniment
+hyper: alteration
+hyper: appearance
+hyper: avalanche 1
+hyper: beginning
+hyper: black_eye
+hyper: bonanza
+hyper: break
+hyper: burst
+hyper: case
+hyper: collapse
+hyper: collapse 1
+hyper: computer_error
+hyper: conclusion
+hyper: contact
+hyper: contingence
+hyper: convergence
+hyper: destiny
+hyper: disappearance
+hyper: disappearance 1
+hyper: discharge
+hyper: episode
+hyper: eruption 3
+hyper: experience
+hyper: failure
+hyper: finish
+hyper: fire
+hyper: flash
+hyper: incident
+hyper: juncture
+hyper: marvel
+hyper: miracle
+hyper: motion
+hyper: news_event
+hyper: one-off
+hyper: periodic_event
+hyper: sound
+hyper: success
+hyper: supervention
+hyper: thing
+hyper: treat
+hyper: trouble
+hyper: union
+hypo: noun.Tops:event
+
+w: hardship
+d: something that causes or entails suffering
+e: "I cannot think it a hardship that more indulgence is allowed to men than to women"- James Boswell
+e: the many hardships of frontier life
+hypo: bad_luck
+
+w: hardware_error
+d: error resulting from a malfunction of some physical component of the computer
+hyper: disk_error
+hypo: computer_error
+mt: noun.cognition:computer_science
+
+w: harmonic_motion
+d: a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions
+hyper: simple_harmonic_motion
+hypo: periodic_motion
+
+w: harness_race
+w: harness_racing
+d: a horse race between people riding in sulkies behind horses that are trotting or pacing
+hypo: horse_race
+
+w: head drf verb.motion:head drf verb.motion:head 1 drf verb.motion:head 2
+w: headway
+d: forward movement
+e: the ship made little headway against the gale
+hypo: advance
+
+w: head 1
+w: pass
+w: straits
+d: a difficult juncture
+e: a pretty pass
+e: matters came to a head yesterday
+hypo: juncture
+
+w: head_crash
+d: (computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
+hypo: crash 3
+mt: noun.cognition:computer_science
+
+w: head_trip
+w: trip 1
+d: an exciting or stimulating experience
+hypo: experience
+
+w: heartbreaker
+d: a narrow defeat or a defeat at the last minute
+hypo: defeat
+
+w: heat
+d: a preliminary race in which the winner advances to a more important race
+hypo: race
+
+w: heat_flash
+d: a flash of intense heat (as released by an atomic explosion)
+hypo: flash
+
+w: heat_lightning
+d: bright flashes of light near the horizon without thunder (especially on hot evenings); usually attributed to distant lightning that is reflected by clouds
+hypo: lightning
+
+w: heave drf verb.change:heave
+d: (geology) a horizontal dislocation
+hypo: motion
+mt: noun.cognition:geology
+
+w: heave 1 drf verb.motion:heave
+w: heaving 1 drf verb.motion:heave
+d: an upward movement (especially a rhythmical rising and falling)
+e: the heaving of waves on a rough sea
+hypo: ascension
+
+w: high_jump
+d: a competition that involves jumping as high as possible over a horizontal bar
+hypo: field_event
+
+w: high_tide ant low_tide
+w: high_water
+w: highwater
+d: the tide when the water is highest
+hyper: direct_tide
+hyper: neap
+hyper: springtide
+hypo: tide
+
+w: home_stand
+d: a series of successive games played at a team's home field or court
+hypo: series
+
+w: homestretch
+d: the end of an enterprise
+e: they were on the homestretch when the computer crashed
+hypo: end
+mu: noun.communication:colloquialism
+
+w: honk drf verb.communication:honk
+d: the cry of a goose (or any sound resembling this)
+hypo: cry
+
+w: hop drf verb.motion:hop
+w: record_hop
+d: an informal dance where popular music is played
+hypo: dance
+
+w: hop-step-and-jump
+w: triple_jump
+d: an athletic contest in which a competitor must perform successively a hop and a step and a jump in continuous movement
+hypo: athletic_competition
+
+w: horse_race
+d: a contest of speed between horses; usually held for the purpose of betting
+hyper: claiming_race
+hyper: harness_race
+hyper: selling_race
+hyper: stake_race
+hyper: steeplechase 1
+hyper: thoroughbred_race
+hypo: race
+
+w: house_party
+d: a party lasting over one or more nights at a large house
+hypo: party
+
+w: howl drf verb.communication:howl 1
+d: a loud sustained noise resembling the cry of a hound
+e: the howl of the wind made him restless
+hyper: squeal
+hypo: noise
+
+w: howl 2 drf verb.communication:howl 3
+d: the long plaintive cry of a hound or a wolf
+hypo: cry
+
+w: hum drf verb.communication:hum 1 drf verb.perception:hum drf verb.stative:hum
+w: humming drf verb.communication:hum 1 drf verb.stative:hum
+d: a humming noise
+e: the hum of distant traffic
+hypo: noise
+
+w: humiliation drf verb.emotion:humiliate
+w: mortification drf verb.emotion:mortify 1
+d: an instance in which you are caused to lose your prestige or self-respect
+e: he had to undergo one humiliation after another
+hypo: case
+
+w: hurdle_race
+w: hurdles
+w: hurdling drf verb.motion:hurdle
+d: a footrace in which contestants must negotiate a series of hurdles
+hypo: track_event
+
+w: hymeneals
+w: nuptials
+w: wedding drf verb.social:wed 1
+w: wedding_ceremony
+d: the social event at which the ceremony of marriage is performed
+hypo: ceremonial
+
+w: idyll drf adjs.all:idyllic drf adjs.all:idyllic 1
+d: an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
+hypo: episode
+
+w: immersion
+w: submergence drf verb.change:submerge 2 drf verb.contact:submerge 1 drf verb.motion:submerge
+w: submerging drf verb.change:submerge 2 drf verb.contact:submerge 1 drf verb.motion:submerge
+w: submersion drf verb.contact:submerse drf verb.motion:submerge drf verb.motion:submerse
+d: sinking until covered completely with water
+hyper: dip
+hypo: sinking
+
+w: immersion 1 ant emersion
+w: ingress ant egress
+d: (astronomy) the disappearance of a celestial body prior to an eclipse
+hp: eclipse
+hypo: disappearance
+mt: noun.cognition:astronomy
+
+w: impact
+d: the striking of one body against another
+hyper: blow
+hyper: slam 1
+hypo: contact
+
+w: implosion drf verb.change:implode
+d: a sudden inward collapse
+e: the implosion of a light bulb
+hyper: gravitational_collapse
+hypo: collapse
+
+w: impulse
+w: nerve_impulse
+w: nervous_impulse
+w: neural_impulse
+d: the electrical discharge that travels along a nerve fiber
+e: they demonstrated the transmission of impulses from the cortex to the hypothalamus
+hyper: action_potential
+hypo: electrical_discharge
+
+w: impulse 1
+w: pulsation drf verb.creation:pulsate
+w: pulse 1 drf verb.creation:pulsate drf verb.creation:pulse
+w: pulsing drf verb.creation:pulse
+d: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients)
+e: the pulsations seemed to be coming from a star
+hypo: undulation
+mt: noun.cognition:electronics
+
+w: inception
+w: origin drf verb.creation:originate drf verb.stative:originate drf verb.stative:originate 2
+w: origination drf verb.stative:originate drf verb.stative:originate 2
+d: an event that is a beginning; a first part or stage of subsequent events
+hyper: cause
+hyper: emanation
+hyper: germination
+hyper: overture
+hypo: beginning
+
+w: incident
+d: a single distinct event
+hp: episode
+hyper: cause_celebre
+hyper: contagion
+hyper: scene
+hyper: sideshow
+hypo: happening
+
+w: increase ant decrease drf verb.change:increase drf verb.change:increase 2
+d: a change resulting in an increase
+e: the increase is scheduled for next month
+hyper: augmentation
+hyper: concentration
+hyper: explosion 1
+hyper: jump 1
+hyper: run-up
+hyper: waxing
+hypo: alteration
+
+w: independence
+d: the successful ending of the American Revolution
+e: they maintained close relations with England even after independence
+hypo: triumph
+
+w: induction drf verb.social:induct drf verb.social:induct 1
+w: initiation drf verb.social:initiate 1
+w: installation drf verb.social:install
+d: a formal entry into an organization or position or office
+e: his initiation into the club
+e: he was ordered to report for induction into the army
+e: he gave a speech as part of his installation into the hall of fame
+hyper: noun.act:inaugural
+hyper: bar_mitzvah
+hyper: bas_mitzvah
+hyper: coronation
+hypo: ceremonial
+
+w: inevitable
+d: an unavoidable event
+e: don't argue with the inevitable
+hypo: destiny
+
+w: inferior_conjunction
+d: (astronomy) the alignment of the Earth and a planet on the same side of the sun
+hypo: alignment
+mt: noun.cognition:astronomy
+
+w: inflation
+d: (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang
+hypo: blowup
+mt: noun.cognition:cosmogeny
+
+w: insertional_mutagenesis
+d: (genetics) a mutation caused by the insertion of exogenous DNA into a genome
+hypo: mutagenesis
+mt: noun.cognition:genetic_science
+
+w: instroke
+d: the stroke of an engine piston moving away from the crankshaft
+hypo: cam_stroke
+
+w: intravenous_drip
+d: slow continuous drip introducing solutions intravenously (a drop at a time)
+hypo: dribble
+
+w: invasion 1 drf verb.contact:invade
+d: (pathology) the spread of pathogenic microorganisms or malignant cells to new sites in the body
+e: the tumor's invasion of surrounding structures
+hypo: spread
+mt: noun.cognition:medical_specialty
+
+w: inversion
+d: (genetics) a kind of mutation in which the order of the genes in a section of a chromosome is reversed
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: irradiation
+d: (physiology) the spread of sensory neural impulses in the cortex
+hypo: spread
+mt: noun.cognition:physiology
+
+w: isomerisation drf verb.change:isomerise drf verb.change:isomerise 1
+w: isomerization drf verb.change:isomerize drf verb.change:isomerize 1
+d: the conversion of a compound into an isomer of itself
+hypo: changeover
+
+w: jangle drf adjs.all:jangly drf verb.perception:jangle
+w: jingle drf adjs.all:jingly drf verb.perception:jingle
+d: a metallic sound
+e: the jingle of coins
+e: the jangle of spurs
+hypo: sound
+
+w: jar drf verb.motion:jar
+w: jolt drf verb.motion:jolt
+w: jounce
+w: shock 2
+d: a sudden jarring impact
+e: the door closed with a jolt
+e: all the jars and jolts were smoothed out by the shock absorbers
+hypo: blow
+
+w: javelin
+d: an athletic competition in which a javelin is thrown as far as possible
+hypo: field_event
+
+w: jet drf verb.contact:jet
+w: spirt drf verb.motion:spirt 1
+w: spurt drf verb.motion:spurt 1
+w: squirt drf verb.contact:squirt drf verb.contact:squirt 10
+d: the occurrence of a sudden discharge (as of liquid)
+hyper: spray
+hyper: spritz
+hypo: discharge 1
+
+w: jitter
+d: small rapid variations in a waveform resulting from fluctuations in the voltage supply or mechanical vibrations or other sources
+hypo: disturbance 1
+
+w: jitter 1 drf adj.pert:jittery
+d: a small irregular movement
+hypo: motion
+
+w: jolly drf adjs.all:jolly drf verb.communication:jolly
+d: a happy party
+hypo: party
+mr: noun.location:Britain
+
+w: joust drf verb.competition:joust
+w: tilt 1 drf verb.competition:tilt
+d: a combat between two mounted knights tilting against each other with blunted lances
+hp: tournament 1
+hypo: noun.act:battle 1
+
+w: jump drf verb.change:jump 1
+w: leap drf verb.change:leap
+w: saltation 1
+d: an abrupt transition
+e: a successful leap from college to the major leagues
+hyper: quantum_jump
+hypo: transition 1
+
+w: jump 1 drf verb.change:jump
+w: leap 1
+d: a sudden and decisive increase
+e: a jump in attendance
+hyper: quantum_jump 1
+hypo: increase
+
+w: juncture
+w: occasion
+d: an event that occurs at a critical time
+e: at such junctures he always had an impulse to leave
+e: it was needed only on special occasions
+hyper: climax
+hyper: conjuncture
+hyper: crisis
+hyper: head 1
+hyper: landmark
+hyper: milestone
+hyper: reality_check
+hypo: happening
+
+w: just_deserts
+w: poetic_justice
+d: an outcome in which virtue triumphs over vice (often ironically)
+hypo: final_result
+
+w: karma
+d: (Hinduism and Buddhism) the effects of a person's actions that determine his destiny in his next incarnation
+hypo: destiny
+mt: noun.cognition:Buddhism
+mt: noun.cognition:Hindooism
+
+w: kick drf verb.contact:kick 8
+w: recoil 1 drf verb.contact:recoil
+d: the backward jerk of a gun when it is fired
+hypo: motion
+
+w: kickoff drf verb.social:kick_off
+w: send-off
+w: start-off
+d: a start given to contestants
+e: I was there with my parents at the kickoff
+hypo: start
+
+w: killing drf verb.contact:kill drf verb.contact:kill 1
+w: violent_death
+d: an event that causes someone to die
+hypo: fatality
+
+w: kismat
+w: kismet
+d: (Islam) the will of Allah
+hypo: destiny
+mt: noun.cognition:Islam
+
+w: kiss_of_death
+d: something that is ruinous
+e: if this were known it would be the kiss of death for my political career
+hypo: calamity
+
+w: knell drf verb.perception:knell drf verb.perception:knell 1
+d: the sound of a bell rung slowly to announce a death or a funeral or the end of something
+hypo: bell
+
+w: knock 1 drf verb.contact:knock 1 drf verb.perception:knock drf verb.perception:knock 1
+w: knocking drf verb.contact:knock 1 drf verb.perception:knock 1
+d: the sound of knocking (as on a door or in an engine or bearing)
+e: the knocking grew louder
+hypo: sound
+
+w: knock 2
+d: a bad experience
+e: the school of hard knocks
+hypo: bad_luck
+
+w: ladder drf verb.change:ladder
+w: ravel drf verb.contact:ravel drf verb.contact:ravel 1
+w: run 1 drf verb.change:run 1
+d: a row of unravelled stitches
+e: she got a run in her stocking
+hypo: damage
+
+w: lahar
+d: an avalanche of volcanic water and mud down the slopes of a volcano
+hypo: avalanche
+
+w: landmark
+w: turning_point
+w: watershed
+d: an event marking a unique or important historical change of course or one on which important developments depend
+e: the agreement was a watershed in the history of both nations
+hyper: Fall_of_Man
+hyper: road_to_Damascus
+hypo: juncture
+
+w: landslide
+w: landslip
+d: a slide of a large mass of dirt and rock down a mountain or cliff
+hyper: mudslide
+hyper: rockslide
+hypo: slide
+
+w: landslide 1
+d: an overwhelming electoral victory
+e: Roosevelt defeated Hoover in a landslide
+hypo: triumph
+
+w: last_laugh
+d: ultimate success achieved after a near failure (inspired by the saying `he laughs best who laughs last')
+e: we had the last laugh after the votes were counted
+hypo: triumph
+
+w: lee_tide
+w: leeward_tide
+d: a tide that runs in the same direction as the wind is blowing
+e: a leeward tide is dangerous for small boats
+hypo: tide
+
+w: levitation ant gravitation
+d: movement upward in virtue of lightness
+hypo: change_of_location
+
+w: lift 1 drf verb.motion:lift
+w: rise 1 drf verb.motion:rise 4
+d: a wave that lifts the surface of the water or ground
+hypo: moving_ridge
+
+w: liftoff drf verb.motion:lift_off
+d: the initial ascent of a rocket from its launching pad
+hypo: ascension
+
+w: lightening
+d: descent of the uterus into the pelvic cavity that occurs late in pregnancy; the fetus is said to have dropped
+hypo: descent
+
+w: lightning
+d: the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more
+hyper: heat_lightning
+hyper: sheet_lighting
+hypo: flash
+
+w: little_slam
+w: small_slam
+d: winning all but one of the tricks in a hand of bridge
+hypo: slam
+
+w: live_birth ant noun.act:stillbirth
+d: the birth of a living fetus (regardless of the length of gestation)
+hyper: blessed_event
+hypo: birth
+
+w: loosening drf verb.change:loosen drf verb.change:loosen 1
+w: relaxation drf verb.change:relax 2 drf verb.change:relax 5
+w: slackening drf verb.change:slacken 1
+d: an occurrence of control or strength weakening
+e: the relaxation of requirements
+e: the loosening of his grip
+e: the slackening of the wind
+hyper: thaw
+hypo: weakening
+
+w: loss
+w: personnel_casualty
+d: military personnel lost by death or capture
+hyper: combat_injury
+hyper: sacrifice
+hypo: casualty 1
+mt: noun.group:armed_forces
+
+w: loss 1
+d: the experience of losing a loved one
+e: he sympathized on the loss of their grandfather
+hypo: experience
+
+w: loss_of_consciousness
+d: the occurrence of a loss of the ability to perceive and respond
+hyper: deliquium
+hypo: alteration
+
+w: lottery
+d: something that is regarded as a chance event
+e: the election was just a lottery to them
+hypo: accident
+
+w: low_tide ant high_tide
+w: low_water
+d: the lowest (farthest) ebb of the tide
+hypo: tide
+
+w: luau
+d: an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)
+hypo: feast 1
+mr: noun.location:Aloha_State
+
+w: lunar_eclipse
+d: the earth interrupts light shining on the moon
+hypo: eclipse
+
+w: lurch drf verb.competition:lurch
+d: a decisive defeat in a game (especially in cribbage)
+hypo: defeat
+
+w: luxation drf verb.change:luxate
+d: displacement or misalignment of a joint or organ
+hyper: subluxation
+hypo: displacement
+
+w: maelstrom
+w: vortex
+w: whirlpool drf verb.motion:whirlpool
+d: a powerful circular current of water (usually the result of conflicting tides)
+hyper: Charybdis
+hypo: current
+
+w: magnetic_storm
+d: a sudden disturbance of the earth's magnetic field; caused by emission of particles from the sun
+hypo: disturbance
+
+w: make-up drf verb.social:make_up
+w: makeup drf verb.social:make_up
+d: an event that is substituted for a previously cancelled event
+e: he missed the test and had to take a makeup
+e: the two teams played a makeup one week later
+hypo: noun.Tops:event
+
+w: malformation
+w: miscreation drf verb.cognition:miscreate
+d: something abnormal or anomalous
+hyper: monstrosity
+hypo: failure
+
+w: malfunction drf verb.contact:malfunction
+d: a failure to function normally
+hyper: blowout
+hyper: stall
+hypo: failure
+
+w: manifestation
+d: a clear appearance
+e: a manifestation of great emotion
+hyper: Word_of_God
+hyper: epiphany
+hyper: theophany
+hyper: tidal_wave 2
+hypo: appearance
+ihypo: Advent
+
+w: manifestation 1 drf verb.change:manifest
+w: materialisation drf verb.change:materialise
+w: materialization drf verb.change:materialize
+d: an appearance in bodily form (as of a disembodied spirit)
+hypo: appearance
+
+w: marathon drf noun.person:marathoner
+d: a footrace of 26 miles 385 yards
+hypo: foot_race
+
+w: martyrdom drf noun.person:martyr 1
+d: death that is imposed because of the person's adherence of a religious faith or cause
+hypo: death
+
+w: marvel drf adjs.all:marvellous 2 drf adjs.all:marvelous 2 drf verb.communication:marvel drf verb.communication:marvel 12
+w: wonder drf adjs.all:wondrous drf verb.communication:wonder 12
+d: something that causes feelings of wonder
+e: the wonders of modern science
+hypo: happening
+
+w: match drf verb.competition:match
+d: a formal contest in which two or more persons or teams compete
+hyper: boxing_match
+hyper: chess_match
+hyper: cockfight
+hyper: cricket_match
+hyper: diving
+hyper: field_event
+hyper: final
+hyper: match_game
+hyper: quarterfinal
+hyper: semi
+hyper: swimming_event
+hyper: tennis_match
+hyper: wrestling_match
+hypo: competition
+
+w: match_game
+w: matched_game
+w: test_match
+d: an international championship match
+hypo: match
+
+w: materialisation 1 drf verb.change:materialise
+w: materialization 1 drf verb.change:materialize
+w: offspring
+d: something that comes into existence as a result
+e: industrialism prepared the way for acceptance of the French Revolution's various socialistic offspring
+e: this skyscraper is the solid materialization of his efforts
+hypo: noun.phenomenon:consequence
+
+w: meet drf verb.competition:meet drf verb.social:meet 1
+w: sports_meeting
+d: a meeting at which a number of athletic contests are held
+hyper: gymkhana
+hyper: race_meeting
+hyper: regatta
+hyper: swim_meet
+hyper: track_meet
+hypo: athletic_competition
+mp: noun.act:track_and_field
+
+w: megadeath
+d: the death of a million people
+e: they calibrate the effects of atom bombs in megadeaths
+hypo: death
+
+w: meltdown
+d: a disaster comparable to a nuclear meltdown
+e: there is little likelihood of a meltdown comparable to the American banking collapse in March 1933
+hypo: calamity
+
+w: menarche
+d: the first occurrence of menstruation in a woman
+hypo: start
+
+w: meow drf verb.communication:meow
+w: mew drf verb.communication:mew
+w: miaou drf verb.communication:miaou
+w: miaow drf verb.communication:miaow
+w: miaul
+d: the sound made by a cat (or any sound resembling this)
+hypo: cry
+
+w: merry-go-round
+d: a never-ending cycle of activities and events (especially when they seem to have little purpose)
+e: if we lose the election the whole legislative merry-go-round will have to start over
+hypo: cycle 2
+
+w: might-have-been
+d: an event that could have occurred but never did
+hypo: noun.Tops:event
+
+w: migration drf adj.pert:migrational drf verb.motion:migrate 1
+d: the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding
+hypo: periodic_event
+
+w: migration 1
+d: (chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule
+hypo: noun.Tops:event
+mt: noun.cognition:chemical_science
+
+w: mile drf noun.person:miler drf noun.quantity:miler
+d: a footrace extending one mile
+e: he holds the record in the mile
+hypo: track_event
+
+w: milestone
+d: a significant event in your life (or in a project)
+hypo: juncture
+
+w: military_ceremony
+d: a formal ceremony performed by military personnel
+hypo: ceremonial
+mt: noun.group:armed_forces
+
+w: miracle drf adjs.all:miraculous 1
+d: any amazing or wonderful occurrence
+hypo: happening
+
+w: miracle 1 drf adjs.all:miraculous
+d: a marvellous event manifesting a supernatural act of a divine agent
+hyper: Assumption
+hyper: Transfiguration
+hypo: noun.Tops:event
+ihypo: Ascension 2
+ihypo: Christ's_Resurrection
+
+w: misadventure
+w: mischance
+w: mishap
+d: an instance of misfortune
+hyper: accident 1
+hyper: crash 3
+hyper: derailment
+hyper: ground_loop
+hyper: near_miss
+hyper: puncture
+hyper: slip
+hypo: bad_luck
+
+w: misfire 1
+w: miss drf verb.contact:miss drf verb.motion:miss
+d: a failure to hit (or meet or find etc)
+hypo: failure
+
+w: mix drf verb.change:mix drf verb.change:mix 1 drf verb.change:mix 2 drf verb.contact:mix drf verb.contact:mix 2
+w: mixture drf verb.change:mix 1 drf verb.contact:mix
+d: an event that combines things in a mixture
+e: a gradual mixture of cultures
+hyper: blend
+hyper: concoction
+hypo: combine
+
+w: moksa
+d: (Hinduism) release from the cycle of rebirth
+hypo: cycle_of_rebirth
+mt: noun.cognition:Hindooism
+
+w: monstrosity drf adjs.all:monstrous
+d: something hideous or frightful
+e: they regarded the atom bomb as a monstrosity
+hypo: malformation
+
+w: moo drf verb.communication:moo
+d: the sound made by a cow or bull
+hypo: cry
+
+w: motion
+w: movement drf verb.motion:move 3
+d: a natural event that involves a change in the position or location of something
+hyper: approach
+hyper: backlash
+hyper: bend
+hyper: cam_stroke
+hyper: change_of_location
+hyper: commotion
+hyper: crustal_movement
+hyper: deflection 1
+hyper: heave
+hyper: jitter 1
+hyper: kick
+hyper: moving_ridge
+hyper: passage
+hyper: periodic_motion
+hyper: seek
+hyper: squeeze
+hyper: turn
+hyper: twist 2
+hyper: undulation
+hyper: undulation 1
+hyper: wobble
+hyper: noun.phenomenon:Brownian_motion
+hypo: happening
+
+w: moving_ridge
+w: wave 1 drf wavelet
+d: one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
+hyper: backwash
+hyper: billow
+hyper: breaker
+hyper: comber
+hyper: crestless_wave
+hyper: lift 1
+hyper: riffle
+hyper: roll 1
+hyper: swash
+hyper: tidal_wave
+hyper: tidal_wave 1
+hyper: tsunami
+hyper: white_horse
+hypo: motion
+
+w: mudslide
+d: a landslide of mud
+hypo: landslide
+
+w: murmur drf adjs.all:murmurous drf noun.person:murmurer drf verb.communication:murmur
+w: murmuration drf verb.communication:murmur
+w: murmuring drf verb.communication:murmur
+w: mussitation drf verb.communication:mussitate
+w: mutter drf noun.person:mutterer drf verb.communication:mutter 1
+w: muttering drf verb.communication:mutter 1
+d: a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech
+hypo: sound
+
+w: mutagenesis
+d: an event capable of causing a mutation
+hp: chromosomal_mutation
+hyper: insertional_mutagenesis
+hypo: cause
+
+w: mutation 1 drf adj.pert:mutational
+d: a change or alteration in form or qualities
+hypo: alteration
+
+w: mutilation drf verb.body:mutilate drf verb.change:mutilate
+d: an injury that causes disfigurement or that deprives you of a limb or other important body part
+hyper: dismemberment
+hypo: accidental_injury
+
+w: neap
+w: neap_tide ant springtide
+d: a less than average tide occurring at the first and third quarters of the moon
+hypo: high_tide
+
+w: near-death_experience
+d: the experience of being close to death but surviving
+hypo: experience
+
+w: near_miss
+d: an accidental collision that is narrowly avoided
+hypo: misadventure
+
+w: neigh drf verb.communication:neigh
+w: nicker drf verb.communication:nicker
+w: whicker drf verb.communication:whicker
+w: whinny drf verb.communication:whinny
+d: the characteristic sounds made by a horse
+hypo: cry
+
+w: news_event
+d: a newsworthy event
+hypo: happening
+
+w: night_terror
+d: an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings
+hypo: drama
+
+w: noise drf verb.perception:noise
+d: sound of any kind (especially unintelligible or dissonant sound)
+e: he enjoyed the street noises
+e: they heard indistinct noises of people talking
+e: during the firework display that ended the gala the noise reached 98 decibels
+hyper: bam
+hyper: banging
+hyper: bark 2
+hyper: blare
+hyper: boom 1
+hyper: brouhaha
+hyper: chatter
+hyper: chatter 1
+hyper: chug
+hyper: clack
+hyper: clang
+hyper: clatter
+hyper: crack
+hyper: crackle
+hyper: creak
+hyper: crunch
+hyper: ding-dong
+hyper: explosion 2
+hyper: fizzle 1
+hyper: grate
+hyper: grinding
+hyper: grumble
+hyper: grunt
+hyper: howl
+hyper: hum
+hyper: pant
+hyper: plash
+hyper: plonk
+hyper: plop
+hyper: plump
+hyper: racket
+hyper: rale
+hyper: report
+hyper: rhonchus
+hyper: rustle
+hyper: scrape
+hyper: scream
+hyper: scrunch
+hyper: shrilling
+hyper: sizzle
+hyper: slam 2
+hyper: snap 2
+hyper: snore
+hyper: spatter
+hyper: squawk
+hyper: squeak
+hyper: squish
+hyper: stridulation
+hyper: swoosh
+hyper: thunder 1
+hypo: sound
+
+w: nonevent
+d: an anticipated event that turns out to be far less significant than was expected
+hypo: noun.Tops:event
+
+w: obstacle_race
+d: a race in which competitors must negotiate obstacles
+hypo: foot_race
+
+w: omen drf adjs.all:ominous drf adjs.all:ominous 1 drf verb.communication:omen
+w: portent drf adjs.all:portentous drf adjs.all:portentous 2 drf verb.communication:portend
+w: presage drf verb.communication:presage
+w: prodigy drf adjs.all:prodigious 2
+w: prognostic drf adjs.all:prognostic
+w: prognostication drf verb.communication:prognosticate 1
+d: a sign of something about to happen
+e: he looked for an omen before going into battle
+hyper: auspice
+hyper: death_knell
+hyper: foreboding
+hypo: augury
+
+w: oncoming
+w: onset
+d: the beginning or early stages
+e: the onset of pneumonia
+hypo: start
+
+w: one-off
+d: a happening that occurs only once and is not repeated
+hypo: happening
+
+w: onrush
+d: a forceful forward rush or flow
+e: from the bow she stared at the mesmerising onrush of the sea where it split and foamed
+e: the explosion interrupted the wild onrush of her thoughts
+hypo: rush
+
+w: onslaught
+d: a sudden and severe onset of trouble
+hypo: trouble
+
+w: ooze drf adjs.all:oozy drf verb.body:ooze drf verb.motion:ooze
+w: oozing drf verb.body:ooze drf verb.motion:ooze
+w: seepage drf verb.motion:seep
+d: the process of seeping
+hyper: exudation
+hypo: flow
+
+w: open drf adjs.all:open 14
+d: a tournament in which both professionals and amateurs may play
+hypo: tournament
+
+w: opener drf verb.social:open 1
+d: the first event in a series
+e: she played Chopin for her opener
+e: the season's opener was a game against the Yankees
+hypo: start
+
+w: opening 1 drf verb.social:open drf verb.social:open 1
+d: a ceremony accompanying the start of some enterprise
+hypo: ceremonial
+
+w: operational_casualty
+w: operational_damage
+d: loss of military equipment in field operations
+hypo: damage 1
+mt: noun.group:armed_forces
+
+w: orbital_motion
+w: orbital_rotation
+d: motion of an object in an orbit around a fixed point
+e: satellites in orbital rotation
+hypo: gyration
+
+w: ordeal
+d: a severe or trying experience
+hypo: experience
+
+w: oscillation drf verb.motion:oscillate
+w: vibration drf verb.motion:vibrate 1
+d: (physics) a regular periodic variation in value about a mean
+hyper: ripple 1
+hyper: transient
+hyper: noun.phenomenon:beat
+hyper: noun.phenomenon:resonance
+hyper: noun.phenomenon:sympathetic_vibration
+hypo: undulation
+mt: noun.cognition:natural_philosophy
+
+w: out-of-body_experience
+d: the dissociative experience of observing yourself from an external perspective as though your mind or soul had left and was observing your body
+hypo: experience
+
+w: outage
+d: a temporary suspension of operation (as of computers)
+e: there will be a network outage from 8 to 10 a.m.
+hypo: breakdown 1
+mt: noun.artifact:computer
+
+w: outrage drf adjs.all:outrageous 1 drf verb.emotion:outrage 1
+w: scandal drf adjs.all:scandalous drf verb.emotion:scandalise drf verb.emotion:scandalize
+d: a disgraceful event
+hyper: skeleton
+hypo: trouble
+ihypo: Teapot_Dome
+ihypo: Watergate
+
+w: outstroke
+d: the stroke of an engine piston moving toward the crankshaft
+hypo: cam_stroke
+
+w: overflow drf verb.motion:overflow
+w: overspill
+w: runoff drf verb.motion:run_off 4
+d: the occurrence of surplus liquid (as water) exceeding the limit or capacity
+hypo: flow
+
+w: overture
+w: preliminary 2 drf adjs.all:preliminary
+w: prelude drf verb.stative:prelude
+d: something that serves as a preceding event or introduces what follows
+e: training is a necessary preliminary to employment
+e: drinks were the overture to dinner
+hypo: inception
+
+w: pageant
+w: pageantry
+d: a rich and spectacular ceremony
+hypo: ceremonial
+
+w: pandemic drf adjs.all:pandemic 1
+d: an epidemic that is geographically widespread; occurring throughout a region or even throughout the world
+hypo: epidemic
+
+w: pant
+d: the noise made by a short puff of steam (as from an engine)
+hypo: noise
+
+w: parameter
+d: any factor that defines a system and determines (or limits) its performance
+hypo: factor
+
+w: partial_eclipse
+d: an eclipse in which the eclipsed body is only partially obscured
+hypo: eclipse
+
+w: party drf verb.social:party
+d: an occasion on which people can assemble for social interaction and entertainment
+e: he planned a party to celebrate Bastille Day
+hyper: bash 1
+hyper: birthday_party
+hyper: bun-fight
+hyper: ceilidh
+hyper: cocktail_party
+hyper: dance
+hyper: feast 1
+hyper: house_party
+hyper: jolly
+hyper: tea_party
+hyper: whist_drive
+hypo: affair
+
+w: pass 1
+d: one complete cycle of operations (as by a computer)
+e: it was not possible to complete the computation in a single pass
+hypo: cycle 1
+mt: noun.artifact:computer
+
+w: passage drf verb.motion:pass 1
+w: passing 1 drf verb.motion:pass 1
+d: the motion of one object relative to another
+e: stellar passings can perturb the orbits of comets
+hypo: motion
+
+w: passing 2 drf verb.change:pass 1
+d: the end of something
+e: the passing of winter
+hypo: end
+
+w: pat drf verb.contact:pat
+w: rap
+w: tap drf verb.contact:tap drf verb.motion:tap drf verb.perception:tap 1
+d: the sound made by a gentle blow
+hyper: pitter-patter
+hypo: sound
+
+w: patter drf verb.perception:patter
+d: a quick succession of light rapid sounds
+e: the patter of mice
+e: the patter of tiny feet
+hypo: sound
+
+w: payoff
+w: reward drf verb.possession:reward drf verb.social:reward 1
+w: wages
+d: a recompense for worthy acts or retribution for wrongdoing
+e: the wages of sin is death
+e: virtue is its own reward
+hypo: aftermath
+
+w: peal drf verb.perception:peal drf verb.perception:peal 1
+w: pealing drf verb.perception:peal drf verb.perception:peal 1
+w: roll drf verb.perception:roll
+w: rolling drf verb.perception:roll
+d: a deep prolonged sound (as of thunder or large bells)
+hypo: sound
+
+w: pentathlon
+d: an athletic contest consisting of five different events
+hypo: athletic_competition
+
+w: periodic_event
+w: recurrent_event
+d: an event that recurs at intervals
+hyper: beat
+hyper: cycle 1
+hyper: migration
+hyper: repeat
+hyper: sunrise
+hyper: sunset
+hyper: tide
+hypo: happening
+
+w: periodic_motion
+w: periodic_movement
+d: motion that recurs over and over and the period of time required for each recurrence remains the same
+hyper: harmonic_motion
+hypo: motion
+
+w: peripeteia
+w: peripetia
+w: peripety
+d: a sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work)
+e: a peripeteia swiftly turns a routine sequence of events into a story worth telling
+hypo: surprise
+
+w: permutation
+w: replacement drf verb.change:replace
+w: substitution drf verb.possession:substitute drf verb.possession:substitute 1
+w: switch drf verb.change:switch drf verb.change:switch 3 drf verb.possession:switch
+w: transposition 1
+d: an event in which one thing is substituted for another
+e: the replacement of lost blood by a transfusion of donor blood
+hypo: fluctuation
+
+w: phenomenon
+d: a remarkable development
+hypo: development 1
+
+w: photo_finish
+d: in general, any very close finish; in particular, a finish of a race in which the contestants are so close together that the winner must be determined from a photograph taken at the instant of finishing
+hypo: finish
+
+w: photo_op
+w: photo_opportunity
+d: an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed
+hypo: affair
+
+w: pileup
+d: multiple collisions of vehicles
+hypo: collision
+
+w: ping drf verb.contact:ping drf verb.perception:ping drf verb.perception:ping 1
+d: a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)
+hypo: sound
+
+w: pitter-patter drf verb.perception:pitter-patter
+d: a series of rapid tapping sounds
+e: she missed the pitter-patter of little feet around the house
+hypo: pat
+
+w: pity drf adjs.all:piteous
+w: shame
+d: an unfortunate development
+e: it's a pity he couldn't do it
+hypo: bad_luck
+
+w: plague
+d: any large scale calamity (especially when thought to be sent by God)
+hypo: calamity
+
+w: plash drf verb.contact:plash
+w: splash drf adj.pert:splashy drf verb.contact:splash drf verb.contact:splash 1 drf verb.perception:splash
+d: the sound like water splashing
+hyper: splat
+hypo: noise
+
+w: play drf verb.motion:play
+w: shimmer drf adjs.all:shimmery drf verb.stative:shimmer drf verb.weather:shimmer
+d: a weak and tremulous light
+e: the shimmer of colors on iridescent feathers
+e: the play of light on the water
+hypo: alteration
+
+w: playoff drf verb.competition:play_off
+d: any final competition to determine a championship
+hyper: World_Series
+hypo: competition
+mp: noun.act:playoff_game
+
+w: plonk drf verb.contact:plonk
+d: the noise of something dropping (as into liquid)
+hypo: noise
+
+w: plop drf verb.motion:plop drf verb.motion:plop 1
+d: the noise of a rounded object dropping into a liquid without a splash
+hypo: noise
+
+w: plump drf verb.motion:plump 1
+d: the sound of a sudden heavy fall
+hypo: noise
+
+w: plunge drf verb.motion:plunge drf verb.motion:plunge 1
+d: a steep and rapid fall
+hypo: drop
+
+w: plunk drf verb.perception:plunk
+d: a hollow twanging sound
+hypo: sound
+
+w: pole_jump
+w: pole_jumping
+w: pole_vault
+w: pole_vaulting
+d: a competition that involves jumping over a high crossbar with the aid of a long pole
+hypo: field_event
+mp: noun.act:run-up
+
+w: pollenation drf verb.body:pollenate
+w: pollination drf verb.body:pollinate
+d: transfer of pollen from the anther to the stigma of a plant
+hyper: cross-pollination
+hyper: self-pollination
+hypo: fecundation
+
+w: pop drf verb.change:pop 3 drf verb.change:pop 4 drf verb.competition:pop drf verb.perception:pop drf verb.perception:pop 6
+w: popping drf verb.competition:pop drf verb.perception:pop
+d: a sharp explosive sound as from a gunshot or drawing a cork
+hypo: sound
+
+w: population_shift
+d: a change in the relative numbers of the different groups of individuals making up a population
+hypo: shift 1
+
+w: posthumous_birth
+d: birth of a child by Caesarean section after the death of the mother
+hypo: birth
+
+w: posthumous_birth 1
+d: birth of a child after the father has died
+hypo: birth
+
+w: potato_race
+d: a novelty race in which competitors move potatoes from one place to another one at a time
+hypo: race
+
+w: potlatch
+d: a ceremonial feast held by some Indians of the northwestern coast of North America (as in celebrating a marriage or a new accession) in which the host gives gifts to tribesmen and others to display his superior wealth (sometimes, formerly, to his own impoverishment)
+hypo: ceremonial
+hypo: feast 1
+
+w: pounding 1 drf verb.motion:pound
+w: throb drf verb.motion:throb 1 drf verb.perception:throb
+w: throbbing drf verb.perception:throb
+d: an instance of rapid strong pulsation (of the heart)
+e: he felt a throbbing in his head
+hypo: beat
+
+w: power_failure
+w: power_outage
+d: equipment failure resulting when the supply of power fails
+e: the ice storm caused a power outage
+hyper: blackout
+hyper: flame-out
+hypo: breakdown 1
+
+w: prang
+d: a crash involving a car or plane
+hypo: crash
+mr: noun.location:Britain
+
+w: precipitation drf verb.contact:precipitate drf verb.motion:precipitate 1
+d: the act of casting down or falling headlong from a height
+hypo: drop
+
+w: predestination drf noun.person:predestinationist drf verb.cognition:predestine drf verb.communication:predestine
+d: previous determination as if by destiny or fate
+hypo: destiny
+
+w: prelim
+w: preliminary drf adjs.all:preliminary
+d: a minor match preceding the main event
+hypo: athletic_competition
+
+w: prize_fight drf verb.contact:prizefight
+w: prizefight drf verb.contact:prizefight
+d: a boxing match between professional boxers for a cash prize
+hypo: boxing_match
+
+w: producer drf verb.creation:produce 2
+d: something that produces
+e: Maine is a leading producer of potatoes
+e: this microorganism is a producer of disease
+hypo: cause
+
+w: programming_error
+w: software_error
+d: error resulting from bad code in some program involved in producing the erroneous result
+hyper: run-time_error
+hyper: syntax_error
+hypo: computer_error
+mt: noun.cognition:computer_science
+
+w: prom
+w: promenade
+d: a formal ball held for a school class toward the end of the academic year
+hypo: ball
+
+w: punctuation
+d: something that makes repeated and regular interruptions or divisions
+hypo: break
+
+w: puncture drf verb.change:puncture drf verb.change:puncture 3 drf verb.contact:puncture
+d: loss of air pressure in a tire when a hole is made by some sharp object
+hypo: misadventure
+
+w: purr drf verb.communication:purr
+d: a low vibrating sound typical of a contented cat
+hypo: sound
+
+w: pyrolysis drf adj.pert:pyrolytic
+d: transformation of a substance produced by the action of heat
+hypo: shift 1
+
+w: quack drf verb.communication:quack
+d: the harsh sound of a duck
+hypo: sound
+
+w: quantum_jump
+d: (physics) an abrupt transition of an electron or atom or molecule from one quantum state to another with the emission or absorption of a quantum
+hypo: jump
+mt: noun.cognition:natural_philosophy
+
+w: quantum_jump 1
+w: quantum_leap
+d: a sudden large increase or advance
+e: this may not insure success but it will represent a quantum leap from last summer
+hypo: jump 1
+
+w: quarterfinal
+d: one of the four competitions in an elimination tournament whose winners go on to play in the semifinals
+hp: elimination_tournament
+hypo: match
+
+w: quaver drf verb.communication:quaver 1
+d: a tremulous sound
+hypo: sound
+
+w: race drf adjs.all:racy 3 drf verb.competition:race
+d: a contest of speed
+e: the race is to the swift
+hyper: auto_race
+hyper: bicycle_race
+hyper: boat_race
+hyper: burnup
+hyper: chariot_race
+hyper: cross_country
+hyper: dog_racing
+hyper: foot_race
+hyper: freestyle
+hyper: heat
+hyper: horse_race
+hyper: potato_race
+hyper: relay
+hyper: repechage
+hyper: sack_race
+hyper: scratch_race
+hyper: ski_race
+hypo: competition
+
+w: race 1 drf verb.competition:race
+d: any competition
+e: the race for the presidency
+hyper: arms_race
+hyper: campaign
+hypo: competition
+
+w: race_meeting
+d: a regular occasion on which a number of horse races are held on the same track
+e: the Epsom race meeting was an important social event
+hypo: meet
+mr: noun.location:Britain
+
+w: racing_start
+d: the start of a race
+hyper: flying_start 1
+hypo: start
+
+w: rack
+w: wrack drf verb.contact:wrack
+d: the destruction or collapse of something
+e: wrack and ruin
+hypo: demolition
+
+w: racket drf adjs.all:rackety drf verb.perception:racket drf verb.social:racket
+d: a loud and disturbing noise
+hypo: noise
+
+w: radiation drf verb.change:radiate 5
+d: the spread of a group of organisms into new habitats
+hyper: adaptive_radiation
+hypo: spread
+hypo: noun.process:action
+
+w: radio_noise
+d: static at radio wavelengths
+hypo: atmospheric_static
+
+w: rale
+w: rattle drf verb.perception:rattle
+w: rattling drf verb.motion:rattle drf verb.perception:rattle
+d: a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders)
+e: the death rattle
+hyper: crepitation_rale
+hypo: noise
+
+w: rally 1
+d: an automobile race run over public roads
+hypo: auto_race
+
+w: rap 1 drf verb.contact:rap drf verb.perception:rap
+w: strike drf verb.contact:strike drf verb.contact:strike 1
+w: tap 1 drf verb.contact:tap drf verb.perception:tap 1
+d: a gentle blow
+hypo: blow
+
+w: rapid_climb
+w: rapid_growth
+w: zoom drf verb.motion:zoom 3
+d: a rapid rise
+hypo: ascension
+
+w: rarefaction drf verb.change:rarefy drf verb.change:rarefy 3
+d: a decrease in the density of something
+e: a sound wave causes periodic rarefactions in its medium
+hypo: concentration
+
+w: rat-a-tat
+w: rat-a-tat-tat
+w: rat-tat
+d: a series of short sharp taps (as made by strokes on a drum or knocks on a door)
+hypo: tapping
+
+w: rave drf verb.social:rave
+d: a dance party that lasts all night and electronically synthesized music is played
+e: raves are very popular in Berlin
+hypo: dance
+
+w: raw_deal
+d: unfair treatment
+hypo: deal
+
+w: razing drf verb.creation:raze
+w: wrecking
+d: the event of a structure being completely demolished and leveled
+hypo: demolition
+
+w: reality_check
+d: an occasion on which one is reminded of the nature of things in the real world
+e: this program is intended as a reality check for CEOs
+e: after all those elaborate productions, I felt in need of a reality check
+hypo: juncture
+
+w: reappearance drf verb.change:reappear
+d: the event of something appearing again
+e: the reappearance of Halley's comet
+hyper: egress
+hypo: appearance
+
+w: rebirth
+w: reincarnation
+w: renascence
+d: a second or new birth
+hyper: cycle_of_rebirth
+hyper: transmigration
+hypo: birth
+
+w: recombination drf verb.change:recombine drf verb.change:recombine 1
+d: (genetics) a combining of genes or characters different from what they were in the parents
+hypo: combine
+mt: noun.cognition:genetic_science
+
+w: recombination 1 drf verb.change:recombine 3
+d: (physics) a combining of charges or transfer of electrons in a gas that results in the neutralization of ions; important for ions arising from the passage of high-energy particles
+hypo: combine
+mt: noun.cognition:natural_philosophy
+
+w: recovery drf verb.change:recover
+d: return to an original state
+e: the recovery of the forest after the fire was surprisingly rapid
+hypo: advance 1
+
+w: recrudescence drf adjs.all:recrudescent drf verb.change:recrudesce 1
+d: a return of something after a period of abatement
+e: a recrudescence of racism
+e: a recrudescence of the symptoms
+hypo: eruption 3
+
+w: rectification drf verb.change:rectify 6
+d: the conversion of alternating current to direct current
+hypo: changeover
+
+w: recurrence drf adjs.all:recurrent drf verb.change:recur
+w: return 1
+d: happening again (especially at regular intervals)
+e: the return of spring
+hyper: atavism
+hyper: flashback
+hypo: repeat
+
+w: rededication drf verb.communication:rededicate
+d: a new dedication
+e: the rededication of the Temple of Jerusalem
+hypo: dedication
+
+w: regatta
+d: a meeting for boat races
+hypo: meet
+
+w: regurgitation drf verb.motion:regurgitate
+d: backflow of blood through a defective heart valve
+hypo: backflow
+
+w: relay
+w: relay_race
+d: a race between teams; each member runs or swims part of the distance
+hyper: torch_race
+hypo: race
+
+w: rematch
+w: replay drf verb.competition:replay drf verb.competition:replay 1
+d: something (especially a game) that is played again
+hypo: repeat
+mt: noun.act:game
+
+w: remission drf verb.change:remit 2
+w: remittal drf verb.change:remit 2
+w: subsidence 2 drf verb.change:subside
+d: an abatement in intensity or degree (as in the manifestations of a disease)
+e: his cancer is in remission
+hyper: resolution
+hypo: abatement 1
+
+w: repeat drf verb.change:repeat drf verb.communication:repeat drf verb.creation:repeat drf verb.creation:repeat 1 drf verb.social:repeat
+w: repetition drf adj.all:repetitious drf verb.change:repeat
+d: an event that repeats
+e: the events today were a repeat of yesterday's
+hyper: cycle 2
+hyper: recurrence
+hyper: rematch
+hyper: sequence
+hypo: periodic_event
+
+w: repechage
+d: a race (especially in rowing) in which runners-up in the eliminating heats compete for a place in the final race
+hypo: race
+
+w: report
+d: a sharp explosive sound (especially the sound of a gun firing)
+e: they heard a violent report followed by silence
+hypo: noise
+
+w: resilience drf adjs.all:resilient drf verb.change:resile 2
+w: resiliency drf adjs.all:resilient drf verb.motion:resile
+d: an occurrence of rebounding or springing back
+hypo: backlash
+
+w: resolution
+d: the subsidence of swelling or other signs of inflammation (especially in a lung)
+hypo: remission
+
+w: reversal drf verb.change:reverse 1
+w: turn_around drf verb.motion:turn_around
+d: turning in an opposite direction or position
+e: the reversal of the image in the lens
+hypo: turn
+
+w: reversion
+d: (genetics) a return to a normal phenotype (usually resulting from a second mutation)
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: revolution 1 drf adjs.all:revolutionary drf noun.person:revolutionist drf verb.change:revolutionise drf verb.change:revolutionize drf verb.cognition:revolutionise drf verb.cognition:revolutionize
+d: a drastic and far-reaching change in ways of thinking and behaving
+e: the industrial revolution was also a cultural revolution
+hyper: Cultural_Revolution
+hyper: green_revolution
+hypo: alteration
+
+w: rhonchus
+d: a sound like whistling or snoring that is heard with a stethoscope during expiration as air passes through obstructed channels
+hypo: noise
+
+w: riffle drf verb.motion:riffle
+w: ripple drf verb.motion:ripple drf verb.perception:ripple
+w: rippling drf verb.motion:ripple
+w: wavelet drf wave 1
+d: a small wave on the surface of a liquid
+hypo: moving_ridge
+
+w: ring drf verb.communication:ring drf verb.perception:ring drf verb.perception:ring 1
+w: ringing drf verb.perception:ring drf verb.perception:ring 1
+w: tintinnabulation drf verb.perception:tintinnabulate
+d: the sound of a bell ringing
+e: the distinctive ring of the church bell
+e: the ringing of the telephone
+e: "the tintinnabulation that so voluminously swells from the ringing and the dinging of the bells"--E. A. Poe
+hyper: bell_ringing
+hypo: sound
+
+w: rip_current
+w: riptide
+d: a strong surface current flowing outwards from a shore
+hp: tide
+hypo: current
+
+w: ripple 1
+d: (electronics) an oscillation of small amplitude imposed on top of a steady value
+hypo: oscillation
+mt: noun.cognition:electronics
+
+w: rise ant fall 1 drf verb.change:rise 2
+d: a growth in strength or number or importance
+hyper: crime_wave
+hyper: spike 1
+hyper: wave 2
+hypo: emergence 1
+
+w: road_to_Damascus
+d: a sudden turning point in a person's life (similar to the sudden conversion of the Apostle Paul on the road from Jerusalem to Damascus of arrest Christians)
+hypo: landmark
+
+w: roar 1 drf verb.communication:roar 5
+d: the sound made by a lion
+hypo: cry
+
+w: rockslide
+d: a landslide of rocks
+hypo: landslide
+
+w: roll 1
+w: roller drf verb.motion:roll 10
+w: rolling_wave
+d: a long heavy sea wave as it advances towards the shore
+hypo: moving_ridge
+
+w: round_robin
+d: a tournament in which every contestant plays every other contestant
+hypo: tournament
+
+w: rout drf verb.competition:rout 1
+d: an overwhelming defeat
+hypo: defeat
+
+w: ruin drf adjs.all:ruinous 1 drf verb.contact:ruin
+w: ruination
+d: an event that results in destruction
+hyper: desolation
+hyper: shipwreck 1
+hypo: demolition
+
+w: run-time_error
+w: runtime_error
+w: semantic_error
+d: an error in logic or arithmetic that must be detected at run time
+hypo: programming_error
+mt: noun.cognition:computer_science
+
+w: run-up
+w: runup
+d: a substantial increase over a relatively short period of time
+e: a runup in interest rates
+e: market runups are followed by corrections
+hypo: increase
+
+w: runner-up_finish
+w: second-place_finish
+d: a finish in second place (as in a race)
+hypo: finish
+
+w: rush
+w: spate 2
+w: surge drf verb.motion:surge 1 drf verb.motion:surge 3
+w: upsurge
+d: a sudden forceful flow
+hyper: debris_storm
+hyper: onrush
+hypo: flow
+
+w: rush 1 drf verb.change:rush
+d: a sudden burst of activity
+e: come back after the rush
+hypo: burst
+
+w: rustle drf verb.perception:rustle
+w: rustling drf verb.perception:rustle
+w: whisper
+w: whispering
+d: a light noise, like the noise of silk clothing or leaves blowing in the wind
+hypo: noise
+
+w: sack_race
+d: a novelty race in which competitors jump ahead with their feet confined in a sack
+hypo: race
+
+w: sacrifice
+d: personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)
+hypo: loss
+
+w: sailing-race
+w: yacht_race
+d: a race between crews of people in yachts
+hypo: boat_race
+
+w: saltation
+d: (genetics) a mutation that drastically changes the phenotype of an organism or species
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: salvo
+d: an outburst resembling the discharge of firearms or the release of bombs
+hypo: burst
+
+w: samsara
+d: (Hinduism and Buddhism) the endless cycle of birth and suffering and death and rebirth
+hypo: cycle 2
+mt: noun.cognition:Buddhism
+mt: noun.cognition:Hindooism
+
+w: scene
+d: an incident (real or imaginary)
+e: their parting was a sad scene
+hypo: incident
+
+w: schism drf adj.pert:schismatic
+d: the formal separation of a church into two churches or the withdrawal of one group over doctrinal differences
+hypo: breach
+ihypo: noun.time:Great_Schism
+
+w: scintillation drf verb.weather:scintillate 1
+w: sparkling drf verb.weather:sparkle
+w: twinkle drf verb.perception:twinkle drf verb.weather:twinkle
+d: a rapid change in brightness; a brief spark or flash
+hypo: alteration
+
+w: scrape
+w: scraping
+w: scratch drf adjs.all:scratchy 2
+w: scratching
+d: a harsh noise made by scraping
+e: the scrape of violin bows distracted her
+hypo: noise
+
+w: scratch_race
+d: a race in which all contestants start from scratch (on equal terms)
+hypo: race
+
+w: scream drf verb.perception:scream
+w: screaming drf verb.perception:scream
+w: screech drf adjs.all:screechy drf verb.perception:screech
+w: screeching drf verb.perception:screech
+w: shriek drf verb.communication:shriek
+w: shrieking
+d: a high-pitched noise resembling a human cry
+e: he ducked at the screechings of shells
+e: he heard the scream of the brakes
+hypo: noise
+
+w: scrunch drf verb.perception:scrunch
+d: a crunching noise
+hypo: noise
+
+w: sea-poose
+w: sea-purse
+w: sea-puss
+w: sea_purse
+w: sea_puss
+w: undertow
+d: the seaward undercurrent created after waves have broken on the shore
+hypo: undercurrent
+
+w: sea_change
+d: a profound transformation
+hypo: shift 1
+
+w: seaquake
+w: submarine_earthquake
+d: an earthquake at the sea bed
+hypo: earthquake
+
+w: seek
+d: the movement of a read/write head to a specific data track on a disk
+hypo: motion
+mt: noun.cognition:computer_science
+
+w: seiche
+d: a wave on the surface of a lake or landlocked bay; caused by atmospheric or seismic disturbances
+hypo: undulation
+
+w: seismic_disturbance
+w: shock
+d: an instance of agitation of the earth's crust
+e: the first shock of the earthquake came shortly after noon while workers were at lunch
+hypo: earthquake
+
+w: self-fertilisation
+w: self-fertilization ant cross-fertilization
+d: fertilization by the union of male and female gametes from the same individual
+hyper: autogamy
+hypo: fecundation
+
+w: self-pollination ant cross-pollination
+d: fertilization by transfer of pollen from the anthers to the stigma of the same flower
+hyper: cleistogamy
+hypo: pollenation
+
+w: selling_race
+d: a horse race in which the winning horse must be put up for auction
+hypo: horse_race
+
+w: semi
+w: semifinal drf noun.person:semifinalist
+d: one of the two competitions in the next to the last round of an elimination tournament
+hp: elimination_tournament
+hypo: match
+
+w: senate_campaign
+w: senate_race
+d: a race for election to the senate
+hypo: campaign
+
+w: separation 1
+d: the termination of employment (by resignation or dismissal)
+hypo: final_result
+
+w: sequel
+w: subsequence drf adj.all:subsequent
+d: something that follows something else
+hypo: final_result
+
+w: sequella
+d: a secondary consequence
+hypo: aftermath
+
+w: sequence
+d: several repetitions of a melodic phrase in different keys
+hypo: repeat
+
+w: series
+d: (sports) several contests played successively by the same teams
+e: the visiting team swept the series
+hyper: World_Series
+hyper: home_stand
+hypo: competition
+mt: noun.act:athletics
+
+w: service_break
+d: a tennis game won on the opponent's service
+hp: noun.act:lawn_tennis
+hypo: triumph
+
+w: set
+d: the descent of a heavenly body below the horizon
+e: before the set of sun
+hypo: descent
+
+w: settling drf verb.motion:settle 4
+w: subsidence drf verb.motion:subside 2
+w: subsiding drf verb.motion:subside 2
+d: a gradual sinking to a lower level
+hypo: sinking
+
+w: sex_change
+d: a change in a person's physical sexual characteristics (as by surgery and hormone treatments)
+hypo: alteration
+
+w: shakedown
+d: initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state
+e: the new industry's economic shakedown
+hypo: accommodation
+
+w: sheet_lighting
+d: lightning that appears as a broad sheet; due to reflections of more distant lightning and to diffusion by the clouds
+hypo: lightning
+
+w: shift 1 drf verb.change:shift 3 drf verb.change:shift 4
+w: transformation
+w: transmutation
+d: a qualitative change
+hyper: advance 1
+hyper: changeover
+hyper: degeneration
+hyper: population_shift
+hyper: pyrolysis
+hyper: sea_change
+hyper: strengthening
+hyper: sublimation 2
+hyper: tin_disease
+hyper: weakening
+hypo: alteration
+
+w: shimmy
+d: an abnormal wobble in a motor vehicle (especially in the front wheels)
+e: he could feel the shimmy in the steering wheel
+hypo: wobble
+
+w: shipwreck drf verb.contact:shipwreck
+w: wreck 1 drf verb.contact:wreck
+d: an accident that destroys a ship at sea
+hyper: capsizing
+hypo: accident 1
+
+w: shipwreck 1 drf verb.social:shipwreck drf verb.social:shipwreck 1
+d: an irretrievable loss
+e: that was the shipwreck of their romance
+hypo: ruin
+
+w: shot_put
+d: an athletic competition in which a heavy metal ball is hurled as far as possible
+hypo: field_event
+
+w: shrilling drf verb.communication:shrill
+d: a continuing shrill noise
+e: "the clash of swords and the shrilling of trumpets"--P. J. Searles
+hypo: noise
+
+w: shrinkage drf verb.change:shrink drf verb.change:shrink 1
+w: shrinking drf verb.change:shrink 1
+d: process or result of becoming less or smaller
+e: the material lost 2 inches per yard in shrinkage
+hyper: compression
+hypo: decrease
+
+w: shutout
+w: skunk drf verb.competition:skunk
+d: a defeat in a game where one side fails to score
+hypo: defeat
+
+w: sideshow
+d: a subordinate incident of little importance relative to the main event
+e: instruction is not an educational sideshow
+hypo: incident
+
+w: sideswipe
+d: a glancing blow from or on the side of something (especially motor vehicles)
+hypo: blow
+
+w: sigh drf verb.body:sigh drf verb.communication:sigh 1
+d: a sound like a person sighing
+e: she heard the sigh of the wind in the trees
+hypo: sound
+
+w: simple_harmonic_motion
+d: periodic motion in which the restoring force is proportional to the displacement
+hypo: harmonic_motion
+
+w: sine_wave
+d: a wave whose waveform resembles a sine curve
+hypo: undulation
+
+w: sinking drf verb.motion:sink
+d: a descent as through liquid (especially through water)
+e: they still talk about the sinking of the Titanic
+hyper: foundering
+hyper: immersion
+hyper: settling
+hypo: descent
+
+w: sinking 1
+d: a slow fall or decline (as for lack of strength)
+e: after several hours of sinking an unexpected rally rescued the market
+e: he could not control the sinking of his legs
+hypo: decrease
+
+w: sizzle
+d: a sizzling noise
+hypo: noise
+
+w: skeleton
+w: skeleton_in_the_closet
+w: skeleton_in_the_cupboard
+d: a scandal that is kept secret
+e: there must be a skeleton somewhere in that family's closet
+hypo: outrage
+
+w: ski_race
+w: skiing_race
+d: a race between people wearing skis
+hyper: downhill
+hyper: slalom
+hypo: race
+
+w: skirl drf verb.creation:skirl drf verb.perception:skirl
+d: the sound of (the chanter of) a bagpipe
+hypo: sound
+
+w: sky_burial
+d: a traditional Tibetan funeral ritual in which the corpse is exposed to the open air to be eaten by sacred vultures
+hypo: funeral
+
+w: slack_tide
+w: slack_water
+d: the occurrence of relatively still water at the turn of the (low) tide
+hypo: tide
+
+w: slalom drf verb.motion:slalom
+d: a downhill race over a winding course defined by upright poles
+hypo: ski_race
+
+w: slam
+w: sweep
+d: winning all or all but one of the tricks in bridge
+hp: noun.act:bridge
+hyper: grand_slam
+hyper: little_slam
+hypo: triumph
+
+w: slam 1 drf verb.contact:slam drf verb.contact:slam 2
+d: a forceful impact that makes a loud noise
+hypo: impact
+
+w: slam 2 drf verb.contact:slam 1
+d: the noise made by the forceful impact of two objects
+hypo: noise
+
+w: slap drf verb.contact:slap
+w: smack drf verb.contact:smack 2
+d: a blow from a flat object (as an open hand)
+hypo: blow
+
+w: sleepover drf verb.stative:sleep_over
+d: an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)
+hypo: affair
+
+w: slide drf verb.motion:slide 1
+d: (geology) the descent of a large mass of earth or rocks or snow etc.
+hyper: avalanche
+hyper: landslide
+hypo: descent
+mt: noun.cognition:geology
+
+w: slip
+w: trip drf verb.motion:trip drf verb.motion:trip 1
+d: an accidental misstep threatening (or causing) a fall
+e: he blamed his slip on the ice
+e: the jolt caused many slips and a few spills
+hyper: noun.act:fall 1
+hypo: misadventure
+
+w: smash drf verb.contact:smash 5
+w: smash-up
+d: a serious collision (especially of motor vehicles)
+hypo: collision
+mt: noun.artifact:automotive_vehicle
+
+w: smolder
+w: smoulder drf verb.change:smoulder
+d: a fire that burns with thick smoke but no flame
+e: the smoulder suddenly became a blaze
+hypo: fire
+
+w: smudge
+d: a smoky fire to drive away insects
+hypo: fire
+
+w: snap 1 drf verb.change:snap drf verb.contact:snap 1
+d: a sudden breaking
+hypo: break 2
+
+w: snap 2 drf verb.contact:snap 2 drf verb.perception:snap
+d: the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand
+e: servants appeared at the snap of his fingers
+hypo: noise
+
+w: snore drf verb.body:snore
+d: the rattling noise produced when snoring
+hypo: noise
+
+w: social_event
+d: an event characteristic of persons forming groups
+hyper: noun.communication:show
+hyper: affair
+hyper: competition
+hypo: noun.Tops:event
+
+w: solar_eclipse
+d: the moon interrupts light from the sun
+hyper: annular_eclipse
+hypo: eclipse
+
+w: solitary_wave
+w: soliton
+w: soliton_wave
+d: (physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate
+e: soliton waves can travel long distances with little loss of energy or structure
+hypo: traveling_wave
+mt: noun.cognition:natural_philosophy
+
+w: song drf verb.communication:sing
+d: a distinctive or characteristic sound
+e: the song of bullets was in the air
+e: the song of the wind
+e: the wheels sang their song as the train rocketed ahead
+hypo: sound
+
+w: sonic_boom
+d: an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound
+e: a sonic boom follows an aircraft as a wake follows a ship
+hypo: blast_wave
+
+w: sound drf verb.perception:sound drf verb.perception:sound 1 drf verb.perception:sound 2 drf verb.perception:sound 3
+d: the sudden occurrence of an audible event
+e: the sound awakened them
+hyper: beat 1
+hyper: beep
+hyper: bell
+hyper: birr
+hyper: bombilation
+hyper: bong
+hyper: chink
+hyper: chirp
+hyper: chirrup
+hyper: chorus
+hyper: click-clack
+hyper: clip-clop
+hyper: clump
+hyper: cry
+hyper: ding
+hyper: drip 1
+hyper: drum
+hyper: drum_roll
+hyper: drumbeat
+hyper: footfall
+hyper: gargle
+hyper: gurgle
+hyper: jangle
+hyper: knock 1
+hyper: murmur
+hyper: noise
+hyper: pat
+hyper: patter
+hyper: peal
+hyper: ping
+hyper: plunk
+hyper: pop
+hyper: purr
+hyper: quack
+hyper: quaver
+hyper: ring
+hyper: sigh
+hyper: skirl
+hyper: song
+hyper: strum
+hyper: susurration
+hyper: swish
+hyper: tapping
+hyper: throbbing 1
+hyper: thrum
+hyper: thunk
+hyper: tick
+hyper: ting
+hyper: toot
+hyper: tootle
+hyper: trample
+hyper: twang
+hyper: vibrato
+hyper: voice
+hyper: vroom
+hyper: whack
+hyper: whistle
+hyper: whiz
+hyper: zing
+hyper: zizz
+hypo: happening
+
+w: sparring_match
+d: a practice or exhibition boxing match
+hypo: boxing_match
+
+w: spatter
+w: spattering
+w: splatter drf verb.perception:splat
+w: splattering
+w: splutter drf verb.communication:splutter
+w: sputter drf verb.perception:sputter
+w: sputtering drf verb.perception:sputter
+d: the noise of something spattering or sputtering explosively
+e: he heard a spatter of gunfire
+hypo: noise
+
+w: spelldown
+w: spelling_bee
+w: spelling_contest
+d: a contest in which you are eliminated if you fail to spell a word correctly
+hypo: competition
+
+w: spike drf verb.change:spike 4
+d: a transient variation in voltage or current
+hypo: electrical_discharge
+
+w: spike 1
+d: a sharp rise followed by a sharp decline
+e: the seismograph showed a sharp spike in response to the temblor
+hypo: rise
+
+w: spin
+d: a swift whirling motion (usually of a missile)
+hyper: English
+hyper: backspin
+hyper: topspin
+hypo: gyration
+
+w: splat drf verb.change:splat 1 drf verb.perception:splat
+d: a single splash
+e: he heard a splat as it hit the floor
+hypo: plash
+
+w: split_decision
+d: a boxing decision in which the judges are not unanimous
+hypo: decision 2
+
+w: spray
+d: a jet of vapor
+hypo: jet
+
+w: spread drf verb.communication:spread drf verb.communication:spread 2 drf verb.contact:spread drf verb.contact:spread 7 drf verb.motion:spread drf verb.motion:spread 2 drf verb.stative:spread
+w: spreading drf verb.stative:spread
+d: process or result of distributing or extending over a wide expanse of space
+hyper: diffusion
+hyper: dispersion
+hyper: invasion 1
+hyper: irradiation
+hyper: radiation
+hypo: change_of_location
+
+w: springtide ant neap_tide
+d: a greater than average tide occurring during the new and full moons
+hypo: high_tide
+
+w: springtide 1
+d: a swelling rush of anything
+e: he rose on the springtide of prosperity
+hypo: flush
+
+w: spritz drf verb.contact:spritz drf verb.contact:spritz 2
+d: a quick squirt of some liquid (usually carbonated water)
+hypo: jet
+
+w: squawk drf adjs.all:squawky drf verb.communication:squawk 1
+d: the noise of squawking
+e: she awoke to the squawk of chickens
+e: the squawk of car horns
+hypo: noise
+
+w: squeak drf adjs.all:squeaky drf verb.perception:squeak
+d: a short high-pitched noise
+e: the squeak of shoes on powdery snow
+hypo: noise
+
+w: squeal drf verb.communication:squeal 1
+d: a high-pitched howl
+hypo: howl
+
+w: squeeze drf verb.contact:squeeze 2 drf verb.contact:squeeze 5
+w: wring drf verb.contact:wring 2
+d: a twisting squeeze
+e: gave the wet cloth a wring
+hypo: motion
+
+w: squish
+d: the noise of soft mud being walked on
+hypo: noise
+
+w: stake_race
+d: a horse race in which part of the prize is put up by the owners of the horses in the race
+hypo: horse_race
+
+w: stalemate drf verb.competition:stalemate
+d: drawing position in chess: any of a player's possible moves would place his king in check
+hypo: draw
+
+w: stall drf verb.motion:stall drf verb.motion:stall 2 drf verb.motion:stall 4
+d: a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge
+e: the plane went into a stall and I couldn't control it
+hypo: malfunction
+
+w: stampede drf verb.motion:stampede 1
+d: a wild headlong rush of frightened animals (horses or cattle)
+hypo: change_of_location
+
+w: stand drf verb.stative:stand 6
+w: standstill
+w: tie-up drf verb.contact:tie_up 4
+d: an interruption of normal activity
+hypo: halt
+
+w: standing_wave
+w: stationary_wave
+d: a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
+hypo: undulation
+
+w: start drf verb.change:start drf verb.change:start 1 drf verb.creation:start drf verb.creation:start 1 drf verb.social:start drf verb.social:start 4 drf verb.stative:start drf verb.stative:start 3
+d: the beginning of anything
+e: it was off to a good start
+hyper: adrenarche
+hyper: alpha
+hyper: curtain_raising
+hyper: dawn 1
+hyper: flying_start
+hyper: kickoff
+hyper: menarche
+hyper: oncoming
+hyper: opener
+hyper: racing_start
+hyper: thelarche
+hypo: beginning
+
+w: steeplechase 1
+d: a horse race over an obstructed course
+hyper: Grand_National
+hypo: horse_race
+
+w: steeplechase 2
+d: a footrace of usually 3000 meters over a closed track with hurdles and a water jump
+hypo: foot_race
+
+w: streak
+d: a sudden flash (as of lightning)
+hypo: flash
+
+w: strengthening ant weakening drf verb.change:strengthen
+d: becoming stronger
+hypo: shift 1
+
+w: stridulation drf verb.perception:stridulate
+d: a shrill grating or chirping noise made by some insects by rubbing body parts together
+hypo: noise
+
+w: stroke 1 drf verb.contact:stroke
+d: a light touch
+hypo: touch
+
+w: strum drf verb.perception:strum
+d: sound of strumming
+e: the strum of a guitar
+hypo: sound
+
+w: stunner
+d: an unexpected and amazing event
+e: the stunner was what happened on Saturday
+hypo: surprise
+
+w: sublimation 1 drf verb.motion:sublimate
+d: (psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable
+hypo: alteration
+mt: noun.cognition:psychological_science
+
+w: sublimation 2 drf verb.change:sublimate 5
+d: (chemistry) a change directly from the solid to the gaseous state without becoming liquid
+hypo: shift 1
+mt: noun.cognition:chemical_science
+
+w: subluxation drf verb.body:subluxate
+d: partial displacement of a joint or organ
+hypo: luxation
+
+w: success ant failure
+d: an event that accomplishes its intended purpose
+e: let's call heads a success and tails a failure
+e: the election was a remarkable success for the Whigs
+hyper: Godspeed
+hyper: barnburner
+hyper: bite
+hyper: triumph
+hypo: happening
+
+w: sunrise
+d: the daily event of the sun rising above the horizon
+hypo: periodic_event
+
+w: sunset
+d: the daily event of the sun sinking below the horizon
+hypo: periodic_event
+
+w: superfecundation
+d: fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)
+hypo: fecundation
+
+w: superfetation drf verb.body:superfetate
+d: fertilization of a second ovum after a pregnancy has begun; results in two fetuses of different ages in the uterus at the same time
+e: superfetation is normal in some animal species
+hypo: fecundation
+
+w: superior_conjunction
+d: (astronomy) the alignment of the Earth and a planet on the opposite side of the sun
+hypo: alignment
+mt: noun.cognition:astronomy
+
+w: supervention drf verb.change:supervene
+d: a following on in addition
+hypo: happening
+
+w: surface_fire
+d: a forest fire that burns only the surface litter and undergrowth
+hypo: forest_fire
+
+w: surface_noise
+d: noise produced by the friction of the stylus of a record player moving over the rotating record
+hypo: background_noise
+
+w: surprise drf verb.cognition:surprise drf verb.competition:surprise drf verb.social:surprise
+d: a sudden unexpected event
+hyper: blow 1
+hyper: bombshell
+hyper: coup_de_theatre
+hyper: eye_opener
+hyper: peripeteia
+hyper: stunner
+hypo: alteration
+
+w: susurration drf verb.communication:susurrate
+w: susurrus drf verb.communication:susurrate
+d: the indistinct sound of people whispering
+e: a soft susurrus of conversation
+hypo: sound
+
+w: swash drf verb.contact:swash
+d: the movement or sound of water
+e: the swash of waves on the beach
+hypo: moving_ridge
+
+w: swerve drf verb.motion:swerve
+w: yaw drf verb.motion:yaw
+d: an erratic deflection from an intended course
+hypo: turn
+
+w: swim_meet
+w: swimming_meet
+d: a swimming competition between two or more teams
+hypo: meet
+mp: diving
+mp: swimming_event
+
+w: swimming_event
+d: an athletic competition that involves swimming
+hp: swim_meet
+hypo: match
+
+w: swish drf adjs.all:swishy drf verb.perception:swish
+d: a brushing or rustling sound
+hypo: sound
+
+w: swoosh
+w: whoosh
+d: the noise produced by the sudden rush of a fluid (a gas or liquid)
+hypo: noise
+
+w: syntax_error
+d: an error of language resulting from code that does not conform to the syntax of the programming language
+e: syntax errors can be recognized at compilation time
+e: a common syntax error is to omit a parenthesis
+hypo: programming_error
+mt: noun.cognition:computer_science
+
+w: systole
+d: the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery
+hyper: extrasystole
+hypo: beat
+
+w: takedown 1
+d: (amateur wrestling) being brought to the mat from a standing position
+e: a takedown counts two points
+hp: wrestling_match
+hypo: fall 2
+mt: noun.act:grappling 1
+
+w: takeoff drf verb.motion:take_off drf verb.motion:take_off 2
+d: the initial ascent of an airplane as it becomes airborne
+hypo: ascension
+
+w: tapping drf verb.perception:tap 1
+d: the sound of light blow or knock
+e: he heard the tapping of the man's cane
+hyper: rat-a-tat
+hypo: sound
+
+w: taste drf verb.cognition:taste 5
+d: a brief experience of something
+e: he got a taste of life on the wild side
+e: she enjoyed her brief taste of independence
+hypo: experience
+
+w: tea_party
+d: a party at which tea is served
+hypo: party
+
+w: tennis_match
+d: a match between tennis players
+hypo: match
+
+w: thaw
+d: a relaxation or slackening of tensions or reserve; becoming less hostile
+e: the thaw between the United States and Russia has led to increased cooperation in world affairs
+hypo: loosening
+
+w: the_Great_Calamity
+w: the_Great_Hunger
+w: the_Great_Starvation
+w: the_Irish_Famine
+d: a famine in Ireland resulting from a potato blight; between 1846 and 1851 a million people starved to death and 1.6 million emigrated (most to America)
+hypo: famine
+
+w: thelarche
+d: the start of breast development in a woman at the beginning of puberty
+hypo: start
+
+w: theophany
+d: a visible (but not necessarily material) manifestation of a deity to a human person
+hypo: manifestation
+
+w: thing
+d: an event
+e: a funny thing happened on the way to the...
+hyper: feast
+hypo: happening
+
+w: third-place_finish
+d: a finish in third place (as in a race)
+hypo: finish
+
+w: thoroughbred_race
+d: a race between thoroughbred horses
+hyper: Belmont_Stakes
+hyper: Kentucky_Derby
+hyper: Preakness
+hypo: horse_race
+
+w: three-day_event
+d: an equestrian competition; the first day is dressage; the second is cross-country jumping; the third is stadium jumping
+hypo: noun.act:equestrian_sport
+mp: noun.act:cross-country_jumping
+mp: noun.act:dressage
+mp: noun.act:showjumping
+
+w: throbbing 1
+d: a sound with a strong rhythmic beat
+e: the throbbing of the engines
+hypo: sound
+
+w: thrum drf verb.perception:thrum 2
+d: a thrumming sound
+e: he could hear the thrum of a banjo
+hypo: sound
+
+w: thunder 1 drf adjs.all:thundery 1 drf verb.weather:thunder
+d: a booming or crashing noise caused by air expanding along the path of a bolt of lightning
+hyper: thunderclap
+hypo: noise
+
+w: thunderclap
+d: a single sharp crash of thunder
+hypo: thunder 1
+
+w: thunk
+d: a dull hollow sound
+e: the basketball made a thunk as it hit the rim
+hypo: sound
+
+w: tick drf verb.perception:tick
+w: ticking drf verb.perception:tick drf verb.perception:tick 1
+d: a metallic tapping sound
+e: he counted the ticks of the clock
+hyper: ticktock
+hypo: sound
+
+w: ticktock drf verb.perception:ticktock
+w: tictac
+w: tocktact
+d: steady recurrent ticking sound as made by a clock
+hypo: tick
+
+w: tidal_current
+w: tidal_flow
+d: the water current caused by the tides
+hp: tide
+hyper: aegir
+hypo: current
+
+w: tidal_wave
+d: a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun
+hypo: moving_ridge
+
+w: tidal_wave 1
+d: an unusual (and often destructive) rise of water along the seashore caused by a storm or a combination of wind and high tide
+hypo: calamity
+hypo: moving_ridge
+
+w: tidal_wave 2
+d: an overwhelming manifestation of some emotion or phenomenon
+e: a tidal wave of nausea
+e: the flood of letters hit him with the force of a tidal wave
+e: a tidal wave of crime
+hypo: manifestation
+
+w: tide drf adj.pert:tidal drf verb.motion:tide 2 drf verb.motion:tide 3
+d: the periodic rise and fall of the sea level under the gravitational pull of the moon
+hyper: ebbtide
+hyper: flood
+hyper: high_tide
+hyper: lee_tide
+hyper: low_tide
+hyper: slack_tide
+hypo: periodic_event
+mp: rip_current
+mp: tidal_current
+mp: undercurrent
+
+w: tide 1 drf verb.motion:tide 1
+d: something that may increase or decrease (like the tides of the sea)
+e: a rising tide of popular interest
+hypo: fluctuation
+
+w: time 1
+d: a person's experience on a particular occasion
+e: he had a time holding back the tears
+e: they had a good time together
+hypo: experience
+
+w: tin_disease
+w: tin_pest
+w: tin_plague
+d: the transformation of ordinary white tin into powdery grey tin at very cold temperatures
+hypo: shift 1
+
+w: ting drf verb.perception:ting drf verb.perception:ting 1
+w: tinkle drf adjs.all:tinkly drf verb.perception:tinkle
+d: a light clear metallic sound as of a small bell
+hypo: sound
+
+w: toot drf verb.perception:toot
+d: a blast of a horn
+hypo: sound
+
+w: tootle drf verb.perception:tootle
+d: the sound of casual playing on a musical instrument
+e: he enjoyed hearing the tootles of their horns as the musicians warmed up
+hypo: sound
+
+w: top_dressing
+d: a layer of fertilizer or manure not plowed in
+hypo: dressing
+
+w: topspin
+d: forward spin (usually of a moving ball) that is imparted by an upward stroke
+hypo: spin
+
+w: torch_race
+d: (ancient Greece) in which a torch is passed from one runner to the next
+hypo: relay
+mr: noun.location:Ellas
+mt: noun.time:antiquity
+
+w: torrent drf adj.pert:torrential
+w: violent_stream
+d: a violently fast stream of water (or other liquid)
+e: the houses were swept away in the torrent
+hypo: current
+
+w: total_eclipse
+d: an eclipse as seen from a place where the eclipsed body is completely obscured
+hypo: eclipse
+
+w: touch drf verb.contact:touch drf verb.contact:touch 1 drf verb.contact:touch 4 drf verb.perception:touch drf verb.stative:touch 1
+w: touching drf verb.perception:touch
+d: the event of something coming in contact with the body
+e: he longed for the touch of her hand
+e: the cooling touch of the night air
+hyper: brush
+hyper: stroke 1
+hypo: contact
+
+w: tournament
+w: tourney drf verb.competition:tourney
+d: a sporting competition in which contestants play a series of games to decide the winner
+hyper: World_Cup
+hyper: elimination_tournament
+hyper: open
+hyper: round_robin
+hypo: competition
+
+w: tournament 1
+d: a series of jousts between knights contesting for a prize
+hypo: competition
+mp: joust
+
+w: track_event
+d: a footrace performed on a track (indoor or outdoor)
+hp: track_meet
+hyper: dash
+hyper: hurdle_race
+hyper: mile
+hypo: foot_race
+
+w: track_meet
+d: a track and field competition between two or more teams
+hypo: meet
+mp: noun.act:running
+mp: field_event
+mp: track_event
+
+w: train
+d: a series of consequences wrought by an event
+e: it led to a train of disasters
+hypo: aftermath
+
+w: tramp
+d: a heavy footfall
+e: the tramp of military boots
+hypo: footfall
+
+w: trample drf verb.body:trample drf verb.motion:trample drf verb.motion:trample 4
+w: trampling drf verb.motion:trample
+d: the sound of heavy treading or stomping
+e: he heard the trample of many feet
+hypo: sound
+
+w: transient drf adjs.all:transient
+d: (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
+hypo: oscillation
+mt: noun.cognition:natural_philosophy
+
+w: transition 1 drf verb.change:transition drf verb.change:transition 1
+d: a change from one place or state or subject or stage to another
+hyper: ground_swell 1
+hyper: jump
+hypo: alteration
+
+w: translation drf verb.change:translate
+d: a uniform movement without rotation
+hyper: displacement
+hypo: change_of_location
+
+w: transmigration drf verb.stative:transmigrate
+d: the passing of a soul into another body after death
+hypo: rebirth
+
+w: transmutation 1 drf verb.change:transmute 1
+d: (physics) the change of one chemical element into another (as by nuclear decay or radioactive bombardment)
+e: the transmutation of base metals into gold proved to be impossible
+hypo: alteration
+mt: noun.cognition:natural_philosophy
+
+w: transposition
+d: (genetics) a kind of mutation in which a chromosomal segment is transfered to a new position on the same or another chromosome
+hypo: chromosomal_mutation
+mt: noun.cognition:genetic_science
+
+w: traveling_wave
+w: travelling_wave
+d: a wave in which the medium moves in the direction of propagation of the wave
+hyper: solitary_wave
+hypo: undulation
+
+w: treat drf verb.possession:treat
+d: an occurrence that causes special pleasure or delight
+hypo: happening
+
+w: tremolo
+d: vocal vibrato especially an excessive or poorly controlled one
+hypo: vibrato
+
+w: trial drf verb.emotion:try 1
+w: tribulation drf verb.emotion:tribulate
+w: visitation drf verb.communication:visit 1
+d: an annoying or frustrating or catastrophic event
+e: his mother-in-law's visits were a great trial for him
+e: life is full of tribulations
+e: a visitation of the plague
+hyper: fire 1
+hypo: affliction
+
+w: trial 1
+d: (sports) a preliminary competition to determine qualifications
+e: the trials for the semifinals began yesterday
+hypo: competition
+mt: noun.act:athletics
+
+w: triumph drf verb.competition:triumph
+w: victory ant defeat drf adjs.all:victorious drf adjs.all:victorious 1
+d: a successful ending of a struggle or contest
+e: a narrow victory
+e: the general always gets credit for his army's victory
+e: clinched a victory
+e: convincing victory
+e: the agreement was a triumph for common sense
+hyper: Pyrrhic_victory
+hyper: blowout 1
+hyper: checkmate
+hyper: fall 2
+hyper: independence
+hyper: landslide 1
+hyper: last_laugh
+hyper: service_break
+hyper: slam
+hyper: walk-in
+hyper: win
+hypo: conclusion
+hypo: success
+
+w: trouble drf adjs.all:troublous drf verb.body:trouble drf verb.emotion:trouble drf verb.emotion:trouble 1
+d: an event causing distress or pain
+e: what is the trouble?
+e: heart trouble
+hyper: affliction
+hyper: bad_luck
+hyper: blaze
+hyper: convulsion
+hyper: disturbance 1
+hyper: embarrassment
+hyper: onslaught
+hyper: outrage
+hypo: happening
+
+w: tsunami
+d: a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption
+e: a colossal tsunami destroyed the Minoan civilization in minutes
+hypo: calamity
+hypo: moving_ridge
+
+w: tug-of-war
+d: a contest in which teams pull of opposite ends of a rope; the team dragged across a central line loses
+hypo: athletic_competition
+
+w: turn drf verb.change:turn drf verb.motion:turn drf verb.motion:turn 2 drf verb.motion:turn 3
+w: turning drf verb.motion:turn
+d: a movement in a new direction
+e: the turning of the wind
+hyper: coming_back
+hyper: gyration
+hyper: reversal
+hyper: swerve
+hyper: volution
+hypo: motion
+
+w: turn 1 drf verb.change:turn 3 drf verb.change:turn 4 drf verb.stative:turn
+w: turn_of_events
+w: twist
+d: an unforeseen development
+e: events suddenly took an awkward turn
+hypo: development 1
+
+w: twang drf verb.contact:twang drf verb.perception:twang drf verb.perception:twang 1
+d: a sharp vibrating sound (as of a plucked string)
+hypo: sound
+
+w: tweet drf verb.perception:tweet
+d: a weak chirping sound as of a small bird
+hypo: chirp
+
+w: twist 2 drf verb.contact:twist 6 drf verb.motion:twist 1
+w: wrench drf verb.motion:wrench
+d: a jerky pulling movement
+hypo: motion
+
+w: undercurrent
+w: undertide
+d: a current below the surface of a fluid
+hp: tide
+hyper: sea-poose
+hypo: current
+
+w: undulation drf verb.motion:undulate
+w: wave
+d: (physics) a movement up and down or back and forth
+hyper: acoustic_wave
+hyper: blast_wave
+hyper: flap 1
+hyper: fluctuation 1
+hyper: gravitation_wave
+hyper: impulse 1
+hyper: oscillation
+hyper: seiche
+hyper: sine_wave
+hyper: standing_wave
+hyper: traveling_wave
+hyper: wave_form
+hypo: motion
+mt: noun.cognition:natural_philosophy
+
+w: undulation 1 drf verb.motion:undulate
+d: wavelike motion; a gentle rising and falling in the manner of waves
+hypo: motion
+
+w: union
+d: the occurrence of a uniting of separate parts
+e: lightning produced an unusual union of the metals
+hyper: amphimixis
+hyper: combine
+hyper: fusion
+hypo: happening
+
+w: unknown_quantity
+d: a factor in a given situation whose bearing and importance is not apparent
+e: I don't know what the new man will do; he's still an unknown quantity
+hypo: factor
+
+w: upheaval drf verb.contact:upheave
+w: uplift drf verb.motion:uplift 2
+w: upthrow
+w: upthrust
+d: (geology) a rise of land to a higher elevation (as in the process of mountain building)
+hypo: ascension
+mt: noun.cognition:geology
+
+w: uplifting drf verb.motion:uplift
+d: the rise of something
+e: the uplifting of the clouds revealed the blue of a summer sky
+hypo: ascension
+
+w: vagary
+d: an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)
+e: the vagaries of the weather
+e: his wealth fluctuates with the vagaries of the stock market
+e: he has dealt with human vagaries for many years
+hypo: alteration
+
+w: vanishing drf verb.change:vanish
+d: a sudden or mysterious disappearance
+hypo: disappearance
+
+w: vibrato
+d: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
+hyper: tremolo
+hypo: sound
+mt: noun.communication:music
+
+w: vicissitude
+d: a variation in circumstances or fortune at different times in your life or in the development of something
+e: the project was subject to the usual vicissitudes of exploratory research
+hypo: fluctuation
+
+w: vision
+d: a religious or mystical experience of a supernatural appearance
+e: he had a vision of the Virgin Mary
+hypo: experience
+
+w: visitation 1 drf verb.change:visit
+d: any disaster or catastrophe
+e: a visitation of the plague
+hypo: calamity
+
+w: voice
+d: a sound suggestive of a vocal utterance
+e: the noisy voice of the waterfall
+e: the incessant voices of the artillery
+hypo: sound
+
+w: volution
+d: a rolling or revolving motion
+hypo: turn
+
+w: vroom
+d: the roaring sound made by a motor that is running at high speed
+hypo: sound
+
+w: walk-in
+w: waltz
+d: an assured victory (especially in an election)
+hypo: triumph
+
+w: wallow drf verb.motion:wallow
+d: an indolent or clumsy rolling about
+e: a good wallow in the water
+hypo: axial_motion
+
+w: waning ant waxing drf verb.change:wane drf verb.change:wane 1 drf verb.change:wane 2
+d: a gradual decrease in magnitude or extent
+e: the waning of his enthusiasm was obvious
+e: the waxing and waning of the moon
+hypo: decrease
+
+w: war_cloud
+d: an ominous sign that war threatens
+hypo: augury
+
+w: warp
+w: warping drf verb.communication:warp
+d: a moral or mental distortion
+hypo: deformation
+
+w: water_hammer
+d: the banging sound of steam in pipes
+hypo: bam
+
+w: waterloo
+d: a final crushing defeat
+e: he met his waterloo
+hypo: defeat
+
+w: wave 2
+d: something that rises rapidly
+e: a wave of emotion swept over him
+e: there was a sudden wave of buying before the market closed
+e: a wave of conservatism in the country led by the hard right
+hypo: rise
+
+w: wave_form
+w: wave_shape
+w: waveform
+d: the shape of a wave illustrated graphically by plotting the values of the period quantity against time
+hypo: undulation
+
+w: waxing ant waning drf verb.change:wax drf verb.change:wax 1
+d: a gradual increase in magnitude or extent
+e: the waxing of the moon
+hypo: increase
+
+w: weakening ant strengthening drf verb.change:weaken
+d: becoming weaker
+hyper: atrophy
+hyper: attenuation
+hyper: debilitation
+hyper: downfall
+hyper: loosening
+hypo: shift 1
+
+w: whack
+d: the sound made by a sharp swift blow
+hypo: sound
+
+w: whammy
+d: a serious or devastating setback
+hypo: black_eye
+
+w: whist_drive
+d: a progressive whist party
+hypo: party
+mr: noun.location:Britain
+
+w: whistle drf verb.communication:whistle 1
+w: whistling drf verb.communication:whistle 1 drf verb.perception:whistle
+d: the sound made by something moving rapidly or by steam coming out of a small aperture
+hypo: sound
+
+w: white_horse
+w: whitecap
+d: a wave that is blown by the wind so its crest is broken and appears white
+hypo: moving_ridge
+
+w: white_noise
+d: a noise produced by a stimulus containing all of the audible frequencies of vibration
+e: white noise is a good masking agent
+hypo: disturbance 1
+
+w: whitewash
+d: a defeat in which the losing person or team fails to score
+hypo: defeat
+
+w: whiz drf verb.perception:whiz
+d: a buzzing or hissing sound as of something traveling rapidly through the air
+e: he heard the whiz of bullets near his head
+hypo: sound
+
+w: wild_card
+d: an unpredictable factor
+e: the weather was a wild card
+hypo: factor
+
+w: wildfire
+d: a raging and rapidly spreading conflagration
+hypo: conflagration
+
+w: win drf verb.competition:win drf verb.competition:win 1
+d: a victory (as in a race or other competition)
+e: he was happy to get the win
+hyper: first-place_finish
+hypo: triumph
+
+w: wobble drf adjs.all:wobbly drf verb.motion:wobble drf verb.motion:wobble 2
+d: an unsteady rocking motion
+hyper: shimmy
+hypo: motion
+
+w: worst drf adj.all:worst
+d: the least favorable outcome
+e: the worst that could happen
+hypo: final_result
+
+w: wrestling_match
+d: a match between wrestlers
+hypo: match
+mp: fall 2
+mp: takedown 1
+
+w: wrongful_death
+d: a death that results from a wrongful act or from negligence; a death that can serve as the basis for a civil action for damages on behalf of the dead person's family or heirs
+hypo: death
+
+w: yelp drf verb.communication:yelp
+w: yelping drf verb.communication:yelp
+w: yip
+d: a sharp high-pitched cry (especially by a dog)
+hypo: cry
+
+w: zap
+d: a sudden event that imparts energy or excitement, usually with a dramatic impact
+e: they gave it another zap of radiation
+hypo: noun.Tops:event
+
+w: zing
+d: a brief high-pitched buzzing or humming sound
+e: the zing of the passing bullet
+hypo: sound
+
+w: zizz
+d: a buzzing or whizzing sound
+e: a nasty zizz in the engine
+hypo: sound
+mr: noun.location:Britain
+
