@@ -1,0 +1,7101 @@
+noun.time
+
+w: 11_November
+w: Martinmas
+w: St_Martin's_Day
+d: the feast of Saint Martin; a quarter day in Scotland
+hp: Nov
+hypo: quarter_day
+
+w: 14_July
+w: Bastille_Day
+d: a legal holiday in France celebrating the storming of the Paris bastille in 1789
+hp: July
+hypo: legal_holiday
+
+w: 1530s
+d: the decade from 1530 to 1539
+hypo: decade
+
+w: 15_August_1945
+w: V-J_Day
+d: the date of Allied victory over Japan, World War II
+ihyper: V-day
+
+w: 15_minutes
+w: quarter-hour
+d: a quarter of an hour
+hp: 60_minutes
+hypo: time_unit
+
+w: 1750s
+d: the decade from 1750 to 1759
+hypo: decade
+
+w: 1760s
+d: the decade from 1760 to 1769
+hypo: decade
+
+w: 1770s
+d: the decade from 1770 to 1779
+hypo: decade
+
+w: 1780s
+d: the decade from 1780 to 1789
+hypo: decade
+
+w: 1790s
+d: the decade from 1790 to 1799
+hypo: decade
+
+w: 1820s
+d: the decade from 1820 to 1829
+hypo: decade
+
+w: 1830s
+d: the decade from 1830 to 1839
+hypo: decade
+
+w: 1840s
+d: the decade from 1840 to 1849
+hypo: decade
+
+w: 1850s
+d: the decade from 1850 to 1859
+hypo: decade
+
+w: 1860s
+d: the decade from 1860 to 1869
+hypo: decade
+
+w: 1870s
+d: the decade from 1870 to 1879
+hypo: decade
+
+w: 1880s
+w: eighties 2
+d: the decade from 1880 to 1889
+hypo: decade
+
+w: 1890s
+w: nineties 2
+d: the decade from 1890 to 1899
+hypo: decade
+
+w: 1900s
+d: the decade from 1900 to 1909
+hypo: decade
+
+w: 1920s
+w: twenties 1
+d: the decade from 1920 to 1929
+hypo: decade
+
+w: 1930s
+w: thirties 1
+d: the decade from 1930 to 1939
+hypo: decade
+
+w: 1940s
+w: forties 1
+d: the decade from 1940 to 1949
+hypo: decade
+
+w: 1950s
+w: fifties 1
+d: the decade from 1950 to 1959
+hypo: decade
+
+w: 1960s
+w: sixties 1
+d: the decade from 1960 to 1969
+hypo: decade
+
+w: 1970s
+w: seventies 1
+d: the decade from 1970 to 1979
+hypo: decade
+
+w: 1980s
+w: eighties 1
+d: the decade from 1980 to 1989
+hypo: decade
+
+w: 1990s
+w: nineties 1
+d: the decade from 1990 to 1999
+hypo: decade
+
+w: 24-hour_interval
+w: day drf adjs.all:daily 1
+w: mean_solar_day
+w: solar_day
+w: twenty-four_hour_period
+w: twenty-four_hours
+d: time for Earth to make a complete rotation on its axis
+e: two days later they left
+e: they put on two performances every day
+e: there are 30,000 passengers per day
+hyper: date
+hyper: date 5
+hyper: eve 1
+hyper: morrow
+hyper: today 1
+hyper: tomorrow 1
+hyper: yesterday 1
+hypo: time_unit
+mp: 60_minutes
+mp: dark
+mp: day 2
+mp: high_noon
+
+w: 24/7
+d: uptime is 24 hours a day 7 days a week
+hypo: uptime
+
+w: 30_minutes
+w: half-hour
+d: a half of an hour
+hp: 60_minutes
+hypo: time_unit
+
+w: 365_days
+w: common_year
+d: a year that is not a leap year
+hypo: twelvemonth
+
+w: 366_days
+w: bissextile_year
+w: intercalary_year
+w: leap_year
+d: a calendar year with an extra day added in February
+hypo: twelvemonth
+
+w: 60_minutes
+w: hour drf adj.pert:horary drf adjs.all:hourly
+w: hr
+d: a period of time equal to 1/24th of a day
+e: the job will take more than an hour
+hp: 24-hour_interval
+hyper: man_hour
+hyper: sidereal_hour
+hypo: time_unit
+mp: 15_minutes
+mp: 30_minutes
+mp: min
+mp: quarter 3
+
+w: 6_June_1944
+w: D-day
+d: date of the Allied landing in France, World War II
+ihyper: date
+
+w: 8_May_1945
+w: V-E_Day
+d: the date of Allied victory in Europe, World War II
+ihyper: V-day
+
+w: 9-11
+w: 9/11
+w: Sep_11
+w: Sept._11
+w: September_11
+d: the day in 2001 when Arab suicide bombers hijacked United States airliners and used them as bombs
+hp: Sep
+ihyper: noun.act:terrorist_attack
+mt: noun.act:act_of_terrorism
+
+w: Ab
+w: Av
+d: the eleventh month of the civil year; the fifth month of the ecclesiastical year in the Jewish calendar (in July and August)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Adar
+d: the sixth month of the civil year; the twelfth month of the ecclesiastic year in the Jewish calendar (in February and March)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+mp: Purim
+
+w: Adar_Sheni
+w: Veadar
+d: included seven times in every 19 years
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Admission_Day
+d: in some states of the United States: a legal holiday commemorating the day the state was admitted to the Union
+hypo: day 1
+
+w: Advent 1
+d: the season including the four Sundays preceding Christmas
+hp: church_calendar
+hypo: season 1
+mp: Advent_Sunday
+
+w: Advent_Sunday
+d: the first of the four Sundays during Advent
+hp: Advent 1
+hypo: Christian_holy_day
+
+w: Age_of_Fishes
+w: Devonian
+w: Devonian_period
+d: from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites
+hp: Paleozoic
+ihyper: geological_period
+
+w: Age_of_Mammals
+w: Cenozoic
+w: Cenozoic_era
+d: approximately the last 63 million years
+hp: Phanerozoic
+ihyper: era 1
+mp: Age_of_Man
+mp: Tertiary
+
+w: Age_of_Man
+w: Quaternary
+w: Quaternary_period
+d: last 2 million years
+hp: Age_of_Mammals
+ihyper: geological_period
+mp: Glacial_epoch
+mp: Holocene
+
+w: Age_of_Reptiles
+w: Mesozoic
+w: Mesozoic_era
+d: from 230 million to 63 million years ago
+ihyper: era 1
+mp: Cretaceous
+mp: Jurassic
+mp: Triassic
+
+w: Aghan
+w: Margasivsa
+d: the ninth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Alaska_Standard_Time
+w: Yukon_Time
+d: standard time in the 9th time zone west of Greenwich, reckoned at the 135th meridian west; used in Hawaii and most of Alaska
+hypo: civil_time
+
+w: All_Fools'_day
+w: April_Fools'
+w: April_Fools'_day
+d: the first day of April which is celebrated by playing practical jokes
+hp: Apr
+hypo: day 1
+
+w: All_Saints'_Day
+w: Allhallows
+w: Hallowmas
+w: Hallowmass
+w: November_1
+d: a Christian feast day honoring all the saints; first observed in 835
+hp: Nov
+hypo: holy_day_of_obligation
+
+w: All_Souls'_Day
+w: November_2
+d: a day of supplication for all the souls in purgatory
+hp: Nov
+hypo: Christian_holy_day
+
+w: Allhallows_Eve
+w: Hallowe'en
+w: Halloween
+d: the evening before All Saints' Day; often devoted to pranks played by young people
+hypo: day 1
+
+w: Allhallowtide
+d: the season of All Saints' Day
+hypo: season 1
+
+w: American_Indian_Day
+d: US: the 4th Friday in September
+hp: Sep
+hypo: day 1
+
+w: Annunciation
+w: Annunciation_Day
+w: Lady_Day
+w: March_25
+d: a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England, Wales, and Ireland
+hp: Mar
+hypo: quarter_day
+
+w: Apr
+w: April
+d: the month following March and preceding May
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: All_Fools'_day
+mp: April_14
+mp: Patriot's_Day
+mp: mid-April
+
+w: April_14
+w: Pan_American_Day
+d: a day celebrating political and economic unity among American countries
+hp: Apr
+hypo: day 1
+
+w: Arbor_Day
+d: a day designated for planting trees
+hypo: day 1
+
+w: Archaeozoic drf adjs.all:archaeozoic
+w: Archaeozoic_aeon
+w: Archean drf adjs.all:archean
+w: Archean_aeon
+w: Archean_eon
+w: Archeozoic drf adjs.all:archeozoic
+w: Archeozoic_eon
+d: the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
+hp: Precambrian
+ihyper: aeon 1
+
+w: Armed_Forces_Day
+d: the 3rd Saturday in May
+hp: May
+hypo: day 1
+
+w: Armistice_Day
+w: November_11
+w: Veterans'_Day
+w: Veterans_Day
+d: a legal holiday in the United States; formerly Armistice Day but called Veterans' Day since 1954
+hp: Nov
+hypo: legal_holiday
+
+w: Asadha
+w: Asarh
+d: the fourth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Ascension
+w: Ascension_Day
+w: Ascension_of_the_Lord
+d: (Christianity) celebration of the Ascension of Christ into heaven; observed on the 40th day after Easter
+hypo: holy_day_of_obligation
+mt: noun.cognition:Christian_religion
+
+w: Ash_Wednesday
+d: the 7th Wednesday before Easter; the first day of Lent; the day following Mardi Gras (`Fat Tuesday'); a day of fasting and repentance
+hp: Lent
+hypo: Christian_holy_day
+
+w: Asin
+w: Asvina
+d: the seventh month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Assumption
+w: Assumption_of_Mary
+w: August_15
+d: celebration in the Roman Catholic Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Dormition in the Eastern Orthodox Church
+hp: Aug
+hypo: holy_day_of_obligation
+
+w: Atlantic_Standard_Time
+w: Atlantic_Time
+d: standard time in the 4th time zone west of Greenwich, reckoned at the 60th meridian; used in Puerto Rico and the Virgin Islands and Bermuda and the Canadian Maritime Provinces
+hypo: civil_time
+
+w: Aug
+w: August
+d: the month following July and preceding September
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Assumption
+mp: Dormition
+mp: mid-August
+
+w: August_1
+w: Lammas
+w: Lammas_Day
+d: commemorates Saint Peter's miraculous deliverance from prison; a quarter day in Scotland; a harvest festival in England
+hypo: quarter_day
+
+w: August_6
+w: Transfiguration drf verb.change:transfigure 2
+w: Transfiguration_Day
+d: (Christianity) a church festival held in commemoration of the Transfiguration of Jesus
+hypo: Christian_holy_day
+mt: noun.cognition:Christian_religion
+
+w: Baisakh
+w: Vaisakha
+d: the second month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Baroque
+w: Baroque_era
+w: Baroque_period
+d: the historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in Europe
+ihyper: age 2
+
+w: Bering_Standard_Time
+w: Bering_Time
+d: standard time in the 11th time zone west of Greenwich, reckoned at the 165th meridian west; used in the Midway Islands
+hypo: civil_time
+
+w: Bhadon
+w: Bhadrapada
+d: the sixth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Bonfire_Night
+w: Guy_Fawkes_Night
+d: effigies of Guy Fawkes are burned on this night
+hypo: November_5
+
+w: Boxing_Day
+d: first weekday after Christmas
+hp: Christmas 1
+hypo: legal_holiday
+mr: noun.location:Britain
+
+w: Bronze_Age 1
+d: (archeology) a period between the Stone and Iron Ages, characterized by the manufacture and use of bronze tools and weapons
+hp: prehistoric_culture
+ihyper: period
+mt: noun.cognition:archaeology
+
+w: Brumaire
+d: second month of the Revolutionary calendar (October and November); the month of mist
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: CST
+w: Central_Standard_Time
+w: Central_Time
+d: standard time in the 6th time zone west of Greenwich, reckoned at the 90th meridian; used in the central United States
+hypo: civil_time
+
+w: Caitra
+w: Chait
+d: the first Hindu calendar month (corresponding to March in the Gregorian calendar)
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+mp: Ramanavami
+
+w: Caliphate
+d: the era of Islam's ascendancy from the death of Mohammed until the 13th century; some Moslems still maintain that the Moslem world must always have a calif as head of the community
+e: their goal was to reestablish the Caliphate
+ihyper: epoch
+
+w: Cambrian
+w: Cambrian_period
+d: from 544 million to about 500 million years ago; marine invertebrates
+hp: Paleozoic
+ihyper: geological_period
+
+w: Candlemas
+w: Candlemas_Day
+w: Feb_2
+d: feast day commemorating the presentation of Christ in the temple; a quarter day in Scotland
+hp: Feb
+hypo: quarter_day
+
+w: Carboniferous drf adj.pert:carboniferous 2
+w: Carboniferous_period
+d: from 345 million to 280 million years ago
+hp: Paleozoic
+ihyper: geological_period
+mp: Lower_Carboniferous
+mp: Pennsylvanian
+
+w: Channukah
+w: Channukkah
+w: Chanukah
+w: Chanukkah
+w: Feast_of_Dedication
+w: Feast_of_Lights
+w: Feast_of_the_Dedication
+w: Festival_of_Lights
+w: Hannukah
+w: Hanukah
+w: Hanukkah
+d: (Judaism) an eight-day Jewish holiday commemorating the rededication of the Temple of Jerusalem in 165 BC
+hp: Chislev
+hp: Tebet
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: Chislev
+w: Kislev
+d: the third month of the civil year; the ninth month of the ecclesiastical year in the Jewish calendar (in November and December)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+mp: Channukah
+
+w: Christian_era
+w: Common_era
+d: the time period beginning with the supposed year of Christ's birth
+ihyper: epoch
+
+w: Christian_holy_day
+d: a religious holiday for Christians
+hyper: Advent_Sunday
+hyper: All_Souls'_Day
+hyper: Ash_Wednesday
+hyper: August_6
+hyper: Corpus_Christi
+hyper: Easter_Day
+hyper: Ember_Day
+hyper: Epiphany
+hyper: Fat_Tuesday
+hyper: Good_Friday
+hyper: Holy_Innocents'_Day
+hyper: Holy_Saturday
+hyper: Holy_Thursday
+hyper: January_20 1
+hyper: June_29
+hyper: Low_Sunday
+hyper: March_19
+hyper: Palm_Sunday
+hyper: Passion_Sunday
+hyper: Quadragesima
+hyper: Quinquagesima
+hyper: Rogation_Day
+hyper: Septuagesima
+hyper: Trinity_Sunday
+hyper: Twelfth_night
+hyper: holy_day_of_obligation
+hyper: quarter_day
+hypo: holy_day 1
+
+w: Christian_year
+w: church_year
+d: the year in the ecclesiastical calendar; especially feast days and special seasons
+hypo: twelvemonth
+mp: holy_day 1
+mp: saint's_day
+
+w: Christmas
+w: Christmas_Day
+w: Dec_25
+w: Xmas
+d: a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland
+hp: Dec
+hypo: feast_day
+hypo: holy_day_of_obligation
+hypo: legal_holiday
+hypo: quarter_day
+
+w: Christmas 1
+w: Christmastide
+w: Christmastime
+w: Noel
+w: Yule
+w: Yuletide
+d: period extending from Dec. 24 to Jan. 6
+hp: Dec
+hp: Jan
+hypo: season 1
+mp: Boxing_Day
+
+w: Christmas_Eve
+w: Dec_24
+d: the day before Christmas
+hypo: holiday 1
+
+w: Cinco_de_Mayo
+d: the fifth of May which is observed in Mexico and Mexican-American communities in the United States to commemorate the Mexican victory over the French in the Battle of Puebla in 1862
+hypo: day 1
+
+w: Circumcision
+w: Feast_of_the_Circumcision
+w: January_1 2
+d: (Roman Catholic Church and Anglican Church) feast day celebrating the circumcision of Jesus; celebrated on January 1st
+hypo: feast_day
+mt: noun.group:Anglican_Church
+mt: noun.group:Church_of_Rome
+
+w: Citizenship_Day
+w: September_17
+d: celebrated in the United States
+hp: Sep
+hypo: day 1
+
+w: Columbus_Day
+w: Discovery_Day
+w: October_12
+d: a legal holiday commemorating the discovery of America by Christopher Columbus
+hp: Oct
+hypo: legal_holiday
+
+w: Commonwealth_Day
+w: Empire_day
+w: May_24
+d: British, anniversary of Queen Victoria's birth
+hp: May
+hypo: legal_holiday
+
+w: Corpus_Christi
+d: Thursday after Trinity Sunday; first celebrated in 1246
+hypo: Christian_holy_day
+
+w: Cretaceous drf adj.pert:Cretaceous
+w: Cretaceous_period
+d: from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants
+hp: Age_of_Reptiles
+ihyper: geological_period
+
+w: Dark_Ages
+w: Middle_Ages
+d: the period of history between classical antiquity and the Italian Renaissance
+dt: noun.act:bloodletting
+dt: noun.artifact:cannon 2
+dt: noun.artifact:chain_armor
+dt: noun.artifact:habergeon
+dt: noun.artifact:illumination
+dt: noun.artifact:pavis
+dt: noun.body:humor 1
+dt: noun.cognition:Cockaigne
+dt: noun.cognition:courtly_love
+dt: noun.cognition:knight_errantry
+dt: noun.cognition:quadrivium
+dt: noun.cognition:trivium
+dt: noun.person:Iseult
+dt: noun.person:Oberson
+dt: noun.person:Titania
+dt: noun.person:Tristan
+dt: noun.person:esquire
+dt: noun.person:helot
+dt: noun.person:palatine
+hp: history
+ihyper: age 2
+
+w: Davis'_Birthday
+w: Jefferson_Davis'_Birthday
+w: June_3
+d: celebrated in southern United States
+hp: June
+hypo: day 1
+
+w: Day_of_Atonement
+w: Yom_Kippur
+d: (Judaism) a solemn and major fast day on the Jewish calendar; 10th of Tishri; its observance is one of the requirements of the Mosaic law
+hypo: High_Holiday
+hypo: major_fast_day
+mt: noun.cognition:Judaism
+
+w: Day_of_Judgement
+w: Day_of_Judgment
+w: Doomsday
+w: Judgement_Day
+w: Judgment_Day
+w: Last_Day
+w: Last_Judgement
+w: Last_Judgment
+w: crack_of_doom
+w: day_of_reckoning
+w: doomsday
+w: end_of_the_world
+w: eschaton
+d: (New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives
+hypo: day 3
+mt: noun.communication:New_Testament
+
+w: Dec
+w: December
+d: the last (12th) month of the year
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Christmas
+mp: Christmas 1
+mp: December_31
+mp: mid-December
+
+w: December_31
+w: New_Year's_Eve
+d: the last day of the year
+hp: Dec
+hyper: Hogmanay
+hypo: day 1
+
+w: December_8
+w: Immaculate_Conception
+d: Roman Catholic holy day first celebrated in 1854
+hypo: holy_day_of_obligation
+
+w: Decoration_Day
+w: Memorial_Day
+d: legal holiday in the United States, last Monday in May; commemorates the members of the United States armed forces who were killed in war
+hp: May
+hypo: legal_holiday
+
+w: Depression
+w: Great_Depression
+d: a period during the 1930s when there was a worldwide economic depression and mass unemployment
+ihyper: age 2
+
+w: Dhu'l-Hijja
+w: Dhu'l-Hijjah
+w: Dhu_al-Hijja
+w: Dhu_al-Hijjah
+d: the twelfth month of the Islamic calendar and the season of the hajj; has one extra day in leap years
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Dhu'l-Qa'dah
+w: Dhu_al-Qadah
+d: the eleventh month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Dominicus
+w: Lord's_Day
+w: Sun
+w: Sunday
+d: first day of the week; observed as a day of rest and worship by most Christians
+hp: weekend
+hypo: day_of_rest
+
+w: Dominion_Day
+w: July_1
+d: a legal holiday in Canada commemorating receiving Dominion status in 1867
+hp: July
+hypo: legal_holiday
+mr: noun.location:Canada
+
+w: Dormition
+w: Feast_of_Dormition
+d: celebration in the Eastern Orthodox Church of the Virgin Mary's being taken up into heaven when her earthly life ended; corresponds to the Assumption in the Roman Catholic Church and is also celebrated on August 15th
+hp: Aug
+hypo: holy_day 1
+
+w: ERT
+w: Earth-received_time
+d: the coordinated universal time when an event is received on Earth
+hypo: UTC
+
+w: ESR
+w: erythrocyte_sedimentation_rate
+w: sed_rate
+w: sedimentation_rate
+d: the rate at which red blood cells settle out in a tube of blood under standardized conditions; a high rate usually indicates the presence of inflammation
+hypo: rate
+
+w: EST
+w: Eastern_Standard_Time
+w: Eastern_Time
+d: standard time in the 5th time zone west of Greenwich, reckoned at the 75th meridian; used in the eastern United States
+hypo: civil_time
+
+w: Easter
+d: a Christian celebration of the Resurrection of Christ; celebrated on the Sunday following the first full moon after the vernal equinox
+hyper: Pasch
+hypo: movable_feast
+
+w: Easter_Day
+w: Easter_Sunday
+d: the day (in March or April) on which the festival of Easter is celebrated
+hypo: Christian_holy_day
+
+w: Eastertide
+d: the Easter season
+hypo: season 1
+
+w: Elizabethan_age
+d: a period in British history during the reign of Elizabeth I in the 16th century; an age marked by literary achievement and domestic prosperity
+ihyper: age 2
+
+w: Ellul
+w: Elul
+d: the twelfth month of the civil year; the sixth month of the ecclesiastical year in the Jewish calendar (in August and September)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Ember_Day
+d: a day set aside for fasting and prayer
+hypo: Christian_holy_day
+
+w: Eocene
+w: Eocene_epoch
+d: from 58 million to 40 million years ago; presence of modern mammals
+hp: Tertiary
+ihyper: epoch 1
+
+w: Eolithic
+w: Eolithic_Age
+d: the earliest part of the Stone Age marked by the earliest signs of human culture
+hp: Stone_Age
+ihyper: period
+
+w: Epipaleolithic
+w: Mesolithic
+w: Mesolithic_Age
+d: middle part of the Stone Age beginning about 15,000 years ago
+hp: Stone_Age
+ihyper: period
+
+w: Epiphany
+w: Epiphany_of_Our_Lord
+w: January_6
+w: Three_Kings'_Day
+w: Twelfth_day
+d: twelve days after Christmas; celebrates the visit of the three wise men to the infant Jesus
+hp: Jan
+hypo: Christian_holy_day
+
+w: Fast_of_Ab
+w: Fast_of_Av
+w: Ninth_of_Ab
+w: Ninth_of_Av
+w: Tisha_b'Ab
+w: Tisha_b'Av
+w: Tishah_b'Ab
+w: Tishah_b'Av
+d: (Judaism) a major fast day on the Jewish calendar commemorating the destruction of the temples in Jerusalem
+hypo: Jewish_holy_day
+hypo: major_fast_day
+mt: noun.cognition:Judaism
+
+w: Fast_of_Esther
+d: (Judaism) a minor fast day on Adar 13 commemorates three days that Esther fasted before approaching the Persian king on behalf of the Jewish people; the fast is connected with Purim
+hypo: minor_fast_day
+mt: noun.cognition:Judaism
+
+w: Fast_of_Gedaliah
+d: (Judaism) a minor fast day on Tishri 3 that commemorates the killing of the Jewish governor of Judah
+hypo: minor_fast_day
+mt: noun.cognition:Judaism
+
+w: Fast_of_Tammuz
+d: (Judaism) a minor fast day on Tammuz 17 when the walls of Jerusalem were breached
+hypo: minor_fast_day
+mt: noun.cognition:Judaism
+
+w: Fast_of_Tevet
+d: (Judaism) a minor fast day on Tevet 10 commemorates the beginning of the siege of Jerusalem and has also been proclaimed a memorial day for the six million Jews who died in the Holocaust
+hypo: minor_fast_day
+mt: noun.cognition:Judaism
+
+w: Fast_of_the_Firstborn
+d: (Judaism) a minor fast day on Nissan 14 that is observed only by firstborn males; it is observed on the day before Passover
+hypo: minor_fast_day
+mt: noun.cognition:Judaism
+
+w: Fat_Tuesday
+w: Mardi_Gras
+w: Shrove_Tuesday
+w: pancake_day
+d: the last day before Lent
+hp: Shrovetide
+hypo: Christian_holy_day
+
+w: Father's_Day
+d: US: third Sunday in June
+hp: June
+hypo: day 1
+
+w: Feast_of_Booths
+w: Feast_of_Tabernacles
+w: Succos
+w: Succoth
+w: Sukkoth
+w: Tabernacles
+d: a major Jewish festival beginning on the eve of the 15th of Tishri and commemorating the shelter of the Israelites during their 40 years in the wilderness
+hp: Tishri
+hypo: Jewish_holy_day
+hypo: church_festival
+mt: noun.cognition:Judaism
+
+w: Feast_of_Sacrifice
+w: Id_al-Adha
+d: the 10th day of Dhu'l-Hijja; all Muslims attend a service in the mosques and those who are not pilgrims perform a ritual slaughter of a sheep (commemorating God's ransom of Abraham's son from sacrifice) and give at least a third of the meat to charity
+hypo: feast_day
+
+w: Feast_of_Weeks
+w: Pentecost 2 drf adj.pert:pentecostal
+w: Shabuoth
+w: Shavous
+w: Shavuot
+w: Shavuoth
+d: (Judaism) Jewish holy day celebrated on the sixth of Sivan to celebrate Moses receiving the Ten Commandments
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: Feast_of_the_Unleavened_Bread
+w: Passover
+w: Pesach
+w: Pesah
+d: (Judaism) a Jewish festival (traditionally 8 days from Nissan 15) celebrating the exodus of the Israelites from Egypt
+hyper: Pasch 1
+hypo: movable_feast
+mt: noun.cognition:Judaism
+
+w: Feb
+w: February
+d: the month following January and preceding March
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Candlemas
+mp: February_12
+mp: February_14
+mp: February_2
+mp: February_22
+mp: February_29
+mp: Presidents'_Day
+mp: mid-February
+
+w: February_12
+w: Lincoln's_Birthday
+d: the day on which President Abraham Lincoln is remembered
+hp: Feb
+hypo: day 1
+mr: noun.location:America
+
+w: February_14
+w: Saint_Valentine's_Day
+w: St_Valentine's_Day
+w: Valentine's_Day
+w: Valentine_Day
+d: a day for the exchange of tokens of affection
+hp: Feb
+hypo: day 1
+
+w: February_2
+w: Groundhog_Day
+d: if the ground hog emerges and sees his shadow on this day, there will be 6 more weeks of winter
+hp: Feb
+hypo: day 1
+mr: noun.location:America
+
+w: February_22
+w: Washington's_Birthday
+d: the day on which George Washington is remembered
+hp: Feb
+hypo: day 1
+mr: noun.location:America
+
+w: February_29
+w: bissextile_day
+w: leap_day
+d: the name of the day that is added during a leap year
+hp: Feb
+hypo: day 1
+
+w: First_of_May
+w: May_1
+w: May_Day
+d: observed in many countries to celebrate the coming of spring; observed in Russia and related countries in honor of labor
+hp: May
+hypo: day 1
+
+w: Flag_Day
+w: June_14
+d: commemorating the adoption of the United States flag in 1777
+hp: June
+hypo: day 1
+
+w: Floreal
+d: eighth month of the Revolutionary calendar (April and May); the month of flowers
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Fourth_of_July
+w: Independence_Day
+w: July_4
+d: a legal holiday in the United States
+hp: July
+hypo: legal_holiday
+
+w: Fri
+w: Friday
+d: the sixth day of the week; the fifth working day
+hypo: weekday
+
+w: Frimaire
+d: third month of the Revolutionary calendar (November and December); the frosty month
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Fructidor
+d: twelfth month of the Revolutionary calendar (August and September); the month of fruit
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: GHz
+w: Gc
+w: gigacycle
+w: gigacycle_per_second
+w: gigahertz
+d: 1,000,000,000 periods per second
+hypo: rate
+
+w: GMT
+w: Greenwich_Mean_Time
+w: Greenwich_Time
+w: UT
+w: UT1
+w: universal_time
+d: the local time at the 0 meridian passing through Greenwich, England; it is the same everywhere
+hyper: UTC
+hypo: noun.Tops:time
+
+w: Germinal
+d: seventh month of the Revolutionary calendar (March and April); the month of buds
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Glacial_epoch
+w: Pleistocene
+w: Pleistocene_epoch
+d: from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution
+hp: Age_of_Man
+ihyper: epoch 1
+
+w: Golden_Age
+d: (classical mythology) the first and best age of the world, a time of ideal happiness, prosperity, and innocence; by extension, any flourishing and outstanding period
+hypo: period
+mt: noun.group:classical_mythology
+
+w: Good_Friday
+d: Friday before Easter
+hp: Lent
+hypo: Christian_holy_day
+
+w: Great_Schism
+d: the period from 1378 to 1417 during which there were two papacies in the Roman Catholic Church, one in Rome and one in Avignon
+ihyper: noun.event:schism
+ihyper: period
+mt: noun.group:Church_of_Rome
+
+w: Gregorian_calendar
+w: New_Style_calendar
+d: the solar calendar now in general use, introduced by Gregory XIII in 1582 to correct an error in the Julian calendar by suppressing 10 days, making Oct 5 be called Oct 15, and providing that only centenary years divisible by 400 should be leap years; it was adopted by Great Britain and the American colonies in 1752
+hyper: church_calendar
+hypo: solar_calendar
+mp: Apr
+mp: Aug
+mp: Dec
+mp: Feb
+mp: Gregorian_calendar_month
+mp: Jan
+mp: July
+mp: June
+mp: Mar
+mp: May
+mp: Nov
+mp: Oct
+mp: Sep
+
+w: Gregorian_calendar_month
+d: a month in the Gregorian calendar
+hp: Gregorian_calendar
+hyper: Apr
+hyper: Aug
+hyper: Dec
+hyper: Feb
+hyper: Jan
+hyper: July
+hyper: June
+hyper: Mar
+hyper: May
+hyper: Nov
+hyper: Oct
+hyper: Sep
+hypo: calendar_month
+
+w: Guy_Fawkes_Day
+d: day for the celebration of the discovery of the Gunpowder Plot
+hypo: November_5
+mr: noun.location:Britain
+
+w: Hadean
+w: Hadean_aeon
+w: Hadean_eon
+w: Hadean_time
+w: Priscoan
+w: Priscoan_aeon
+w: Priscoan_eon
+d: the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
+ihyper: aeon 1
+
+w: Harlem_Renaissance
+d: a period in the 1920s when African-American achievements in art and music and literature flourished
+ihyper: age 2
+
+w: Hawaii_Standard_Time
+w: Hawaii_Time
+d: standard time in the 10th time zone west of Greenwich, reckoned at the 150th meridian west; used in Hawaii and the western Aleutian Islands
+hypo: civil_time
+
+w: Hebrew_calendar
+w: Jewish_calendar
+d: (Judaism) the calendar used by the Jews; dates from 3761 BC (the assumed date of the Creation of the world); a lunar year of 354 days is adjusted to the solar year by periodic leap years
+hypo: lunisolar_calendar
+mp: Ab
+mp: Adar
+mp: Adar_Sheni
+mp: Chislev
+mp: Ellul
+mp: Heshvan
+mp: Iyar
+mp: Jewish_calendar_month
+mp: Nisan
+mp: Shebat
+mp: Sivan
+mp: Tammuz
+mp: Tebet
+mp: Tishri
+mt: noun.cognition:Judaism
+
+w: Heshvan
+d: the second month of the civil year; the eighth month of the ecclesiastical year in the Jewish calendar (in October and November)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: High_Holiday
+w: High_Holy_Day
+d: Jewish holy days observed with particular solemnity
+hyper: Day_of_Atonement
+hyper: Jewish_New_Year
+hypo: Jewish_holy_day
+
+w: Hindu_calendar
+d: the lunisolar calendar governing the religious life of Hindus; an extra month is inserted after every month in which there are two new moons (once every three years)
+hypo: lunisolar_calendar
+mp: Aghan
+mp: Asadha
+mp: Asin
+mp: Baisakh
+mp: Bhadon
+mp: Caitra
+mp: Hindu_calendar_month
+mp: Jeth
+mp: Kartik
+mp: Magh
+mp: Pansa
+mp: Phagun
+mp: Sawan
+
+w: Hindu_calendar_month
+d: any lunisolar month in the Hindu calendar
+hp: Hindu_calendar
+hyper: Aghan
+hyper: Asadha
+hyper: Asin
+hyper: Baisakh
+hyper: Bhadon
+hyper: Caitra
+hyper: Jeth
+hyper: Kartik
+hyper: Magh
+hyper: Pansa
+hyper: Phagun
+hyper: Sawan
+hypo: calendar_month
+
+w: Hogmanay
+d: New Year's Eve in Scotland
+hypo: December_31
+
+w: Holocene
+w: Holocene_epoch
+w: Recent
+w: Recent_epoch
+d: approximately the last 10,000 years
+hp: Age_of_Man
+ihyper: epoch 1
+
+w: Holy_Innocents'_Day
+w: Innocents'_Day
+d: December 28, commemorating Herod's slaughter of the children of Bethlehem
+hypo: Christian_holy_day
+
+w: Holy_Saturday
+d: the Saturday before Easter; the last day of Lent
+hypo: Christian_holy_day
+
+w: Holy_Thursday
+w: Maundy_Thursday
+d: the Thursday before Easter; commemorates the Last Supper
+hypo: Christian_holy_day
+
+w: Holy_Week
+w: Passion_Week
+d: the week before Easter
+hp: church_calendar
+hypo: hebdomad
+
+w: Holy_Year
+d: (Roman Catholic Church) a period of remission from sin (usually granted every 25 years)
+hypo: twelvemonth
+mt: noun.group:Church_of_Rome
+
+w: Hz
+w: cps
+w: cycle 2
+w: cycle_per_second
+w: cycles/second
+w: hertz
+d: the unit of frequency; one hertz has a periodic interval of one second (named for Heinrich Rudolph Hertz)
+hp: kHz
+hypo: rate
+
+w: Id_al-Fitr
+d: a Muslim day of feasting at the end of Ramadan
+hypo: feast_day
+
+w: Inauguration_Day
+w: January_20
+d: the day designated for inauguration of the United States President
+hp: Jan
+hypo: day 1
+
+w: Indian_summer
+w: Saint_Martin's_summer
+d: a period of unusually warm weather in the autumn
+hp: autumn
+hypo: period
+
+w: Industrial_Revolution
+w: technological_revolution
+d: the transformation from an agricultural to an industrial nation
+ihyper: age 2
+
+w: Iron_Age 1
+d: (archeology) the period following the Bronze Age; characterized by rapid spread of iron tools and weapons
+hp: prehistoric_culture
+ihyper: period
+mt: noun.cognition:archaeology
+
+w: Islamic_calendar
+w: Mohammedan_calendar
+w: Moslem_calendar
+w: Muhammadan_calendar
+w: Muslim_calendar
+d: the lunar calendar used by Muslims; dates from 622 AD (the year of the Hegira); the beginning of the Muslim year retrogresses through the solar year completing the cycle every 32 years
+hypo: lunar_calendar
+mp: Dhu'l-Hijja
+mp: Dhu'l-Qa'dah
+mp: Islamic_calendar_month
+mp: Jomada_I
+mp: Jomada_II
+mp: Moharram
+mp: Rabi_I
+mp: Rabi_II
+mp: Rajab
+mp: Ramadan
+mp: Safar
+mp: Sha'ban
+mp: Shawwal
+
+w: Islamic_calendar_month
+d: any lunar month in the Muslim calendar
+hp: Islamic_calendar
+hyper: Dhu'l-Hijja
+hyper: Dhu'l-Qa'dah
+hyper: Jomada_I
+hyper: Jomada_II
+hyper: Moharram
+hyper: Rabi_I
+hyper: Rabi_II
+hyper: Rajab
+hyper: Ramadan
+hyper: Safar
+hyper: Sha'ban
+hyper: Shawwal
+hypo: calendar_month
+
+w: Italian_Renaissance
+d: the early period when Italy was the center of the Renaissance
+hp: Renaissance
+ihyper: age 2
+
+w: Iyar
+w: Iyyar
+d: the eighth month of the civil year; the second month of the ecclesiastical year (in April and May)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+mp: Lag_b'Omer
+
+w: Jan
+w: January
+d: the first month of the year; begins 10 days after the winter solstice
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Christmas 1
+mp: Epiphany
+mp: Inauguration_Day
+mp: January_1
+mp: January_1 1
+mp: January_20 1
+mp: Martin_Luther_King_Day
+mp: Tet
+mp: Twelfth_night
+mp: mid-January
+
+w: January_1
+w: New_Year's
+w: New_Year's_Day
+d: the first day of the year
+hp: Jan
+hypo: legal_holiday
+
+w: January_1 1
+w: Solemnity_of_Mary
+d: (Roman Catholic Church) a holy day of obligation
+hp: Jan
+hypo: holy_day_of_obligation
+mt: noun.group:Church_of_Rome
+
+w: January_19
+w: Lee's_Birthday
+w: Robert_E_Lee's_Birthday
+w: Robert_E_Lee_Day
+d: celebrated in southern United States
+hypo: day 1
+
+w: January_20 1
+w: Saint_Agnes's_Eve
+d: a Christian holy day
+hp: Jan
+hypo: Christian_holy_day
+
+w: Jazz_Age
+d: the 1920s in the United States characterized in the novels of F. Scott Fitzgerald as a period of wealth, youthful exuberance, and carefree hedonism
+hypo: age 2
+
+w: Jeth
+w: Jyaistha
+d: the third month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Jewish_New_Year
+w: Rosh_Hashana
+w: Rosh_Hashanah
+w: Rosh_Hashona
+w: Rosh_Hashonah
+d: (Judaism) a solemn Jewish feast day celebrated on the 1st or 1st and 2nd of Tishri; noted for the blowing of the shofar
+hypo: High_Holiday
+hypo: feast_day
+mt: noun.cognition:Judaism
+
+w: Jewish_calendar_month
+d: a month in the Jewish calendar
+hp: Hebrew_calendar
+hyper: Ab
+hyper: Adar
+hyper: Adar_Sheni
+hyper: Chislev
+hyper: Ellul
+hyper: Heshvan
+hyper: Iyar
+hyper: Nisan
+hyper: Shebat
+hyper: Sivan
+hyper: Tammuz
+hyper: Tebet
+hyper: Tishri
+hypo: calendar_month
+
+w: Jewish_holy_day
+d: a religious holiday for Jews
+hyper: Channukah
+hyper: Fast_of_Ab
+hyper: Feast_of_Booths
+hyper: Feast_of_Weeks
+hyper: High_Holiday
+hyper: Lag_b'Omer
+hyper: Purim
+hyper: Rejoicing_in_the_Law
+hyper: Rosh_Chodesh
+hypo: holy_day 1
+
+w: Jomada_I
+w: Jumada_I
+d: the fifth month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Jomada_II
+w: Jumada_II
+d: the sixth month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Julian_calendar
+w: Old_Style_calendar
+d: the solar calendar introduced in Rome in 46 b.c. by Julius Caesar and slightly modified by Augustus, establishing the 12-month year of 365 days with each 4th year having 366 days and the months having 31 or 30 days except for February
+hypo: solar_calendar
+
+w: July
+d: the month following June and preceding August
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: 14_July
+mp: Dominion_Day
+mp: Fourth_of_July
+mp: mid-July
+
+w: June
+d: the month following May and preceding July
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Davis'_Birthday
+mp: Father's_Day
+mp: Flag_Day
+mp: June_21
+mp: June_23
+mp: June_24
+mp: June_29
+mp: mid-June
+
+w: June_21
+w: midsummer
+w: summer_solstice ant winter_solstice
+d: June 21, when the sun is at its northernmost point
+hp: June
+hp: summer
+hypo: solstice
+
+w: June_23
+w: Midsummer_Eve
+w: Midsummer_Night
+w: St_John's_Eve
+w: St_John's_Night
+d: the night before Midsummer Day
+hp: June
+hypo: day 1
+
+w: June_24
+w: Midsummer's_Day
+w: Midsummer_Day
+w: St_John's_Day
+d: a quarter day in England, Wales, and Ireland
+hp: June
+hypo: quarter_day
+
+w: June_29
+w: Saints_Peter_and_Paul
+d: first celebrated in the 3rd century
+hp: June
+hypo: Christian_holy_day
+
+w: Jurassic
+w: Jurassic_period
+d: from 190 million to 135 million years ago; dinosaurs; conifers
+hp: Age_of_Reptiles
+ihyper: geological_period
+
+w: Kartik
+w: Karttika
+d: the eighth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Labor_Day
+d: first Monday in September in the United States and Canada
+hp: Sep
+hypo: legal_holiday
+
+w: Lag_b'Omer
+d: (Judaism) Jewish holy day; the 33rd day after the 2nd day of Passover; the 18th day of Iyar
+hp: Iyar
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: Lammastide
+d: the season of Lammas
+hypo: season 1
+mr: noun.location:Scotland
+
+w: Lent
+w: Lententide
+d: a period of 40 weekdays from Ash Wednesday to Holy Saturday
+hp: church_calendar
+hypo: season 1
+mp: Ash_Wednesday
+mp: Good_Friday
+
+w: Low_Sunday
+d: the Sunday following Easter
+hypo: Christian_holy_day
+
+w: Lower_Carboniferous
+w: Lower_Carboniferous_period
+w: Missippian_period
+w: Mississippian
+d: from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects
+hp: Carboniferous
+ihyper: geological_period
+
+w: Lower_Paleolithic
+d: the oldest part of the Paleolithic Age with the emergence of the hand ax; ended about 120,000 years ago
+hp: Palaeolithic
+ihyper: period
+
+w: M.M.
+w: beats_per_minute
+w: bpm
+w: metronome_marking
+d: the pace of music measured by the number of beats occurring in 60 seconds
+hp: noun.act:music
+hypo: pace 1
+mt: noun.communication:music
+
+w: MHz
+w: Mc
+w: megacycle
+w: megacycle_per_second
+w: megahertz
+d: one million periods per second
+hypo: rate
+mp: kHz
+
+w: MST
+w: Mountain_Standard_Time
+w: Mountain_Time
+d: standard time in the 7th time zone west of Greenwich, reckoned at the 105th meridian west; used in the mountain states of the United States
+hypo: civil_time
+
+w: Magh
+w: Magha
+d: the eleventh month of the Hindu calendar; corresponds to January in the Gregorian calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+mp: Mesasamkranti
+
+w: Mar
+w: March
+d: the month following February and preceding April
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Annunciation
+mp: March_19
+mp: March_2
+mp: March_equinox
+mp: mid-March
+
+w: March_17
+w: Saint_Patrick's_Day
+w: St_Patrick's_Day
+d: a day observed by the Irish to commemorate the patron saint of Ireland
+hypo: day 1
+
+w: March_19
+w: Saint_Joseph
+w: St_Joseph
+d: a Christian holy day
+hp: Mar
+hypo: Christian_holy_day
+
+w: March_2
+w: Texas_Independence_Day
+d: Texans celebrate the anniversary of Texas' declaration of independence from Mexico in 1836
+hp: Mar
+hypo: day 1
+
+w: March_equinox
+w: spring_equinox
+w: vernal_equinox ant autumnal_equinox
+d: March 21
+hp: Mar
+hp: spring
+hyper: Noruz
+hypo: equinox
+
+w: Martin_Luther_King_Day
+w: Martin_Luther_King_Jr's_Birthday
+d: observed on the Monday closest to January 15
+hp: Jan
+hypo: legal_holiday
+
+w: May
+d: the month following April and preceding June
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Armed_Forces_Day
+mp: Commonwealth_Day
+mp: Decoration_Day
+mp: First_of_May
+mp: Mother's_Day
+mp: mid-May
+
+w: Mesasamkranti
+d: Hindu solar holiday at the beginning of the new astrological year when the sun enters the constellation Aries
+hp: Magh
+hypo: holiday 1
+
+w: Messidor
+d: tenth month of the Revolutionary calendar (June and July); the month of harvest
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Michaelmas
+w: Michaelmas_Day
+w: September_29
+d: honoring the archangel Michael; a quarter day in England, Wales, and Ireland
+hp: Sep
+hypo: quarter_day
+
+w: Michaelmastide
+d: the season of Michaelmas
+hypo: season 1
+
+w: Middle_Paleolithic
+d: the time period of Neanderthal man; ended about 35,000 years BC
+hp: Palaeolithic
+ihyper: period
+
+w: Midweek 1
+w: Wed
+w: Wednesday
+d: the fourth day of the week; the third working day
+hypo: weekday
+
+w: Miocene
+w: Miocene_epoch
+d: from 25 million to 13 million years ago; appearance of grazing mammals
+hp: Tertiary
+ihyper: epoch 1
+
+w: Moharram
+w: Muharram
+w: Muharrum
+d: the first month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Mon
+w: Monday
+d: the second day of the week; the first working day
+hyper: Whitmonday
+hypo: weekday
+
+w: Mother's_Day
+d: second Sunday in May
+hp: May
+hypo: day 1
+
+w: Neolithic
+w: Neolithic_Age
+w: New_Stone_Age
+d: latest part of the Stone Age beginning about 10,000 BC in the Middle East (but later elsewhere)
+hp: Stone_Age
+ihyper: period
+
+w: New_Deal
+d: the historic period (1933-1940) in the United States during which President Franklin Roosevelt's economic policies were implemented
+ihyper: age 2
+
+w: New_Year
+d: the calendar year just begun
+hypo: twelvemonth
+
+w: New_York_minute
+w: blink_of_an_eye
+w: flash drf verb.perception:flash 2
+w: heartbeat
+w: instant 1
+w: jiffy
+w: split_second
+w: trice
+w: twinkling
+w: wink
+d: a very short time (as the time it takes the eye to blink or the heart to beat)
+e: if I had the chance I'd do it in a flash
+hypo: bit
+
+w: Nisan
+w: Nissan
+d: the seventh month of the civil year; the first month of the ecclesiastic year (in March and April)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Nivose
+d: fourth month of the Revolutionary calendar (December and January); the snowy month
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Noruz
+w: Nowrooz
+w: Nowruz
+d: (Persian) the new year holiday in Iran and Azerbaijan and Afghanistan and Pakistan and parts of India and among the Kurds; comes at the vernal equinox
+hypo: March_equinox
+mt: noun.communication:Farsi
+
+w: Nov
+w: November
+d: the month following October and preceding December
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: 11_November
+mp: All_Saints'_Day
+mp: All_Souls'_Day
+mp: Armistice_Day
+mp: November_5
+mp: Thanksgiving
+mp: mid-November
+
+w: November_5
+d: anniversary of the discovery of the Gunpowder Plot
+hp: Nov
+hyper: Bonfire_Night
+hyper: Guy_Fawkes_Day
+hypo: day 1
+mr: noun.location:Britain
+
+w: Nyquist_frequency
+d: (telecommunication) twice the maximum frequency occurring in the transmitted signal
+hypo: sampling_frequency
+mt: noun.communication:telecom
+
+w: Nyquist_rate
+d: (telecommunication) the lowest sampling rate that will permit accurate reconstruction of a sampled analog signal
+hypo: sampling_rate
+mt: noun.communication:telecom
+
+w: OWLT
+w: one-way_light_time
+d: the elapsed time it takes for light (or radio signals) to travel between the Earth and a celestial object
+hypo: elapsed_time
+
+w: Oct
+w: October
+d: the month following September and preceding November
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: Columbus_Day
+mp: October_24
+mp: mid-October
+
+w: October_24
+w: United_Nations_Day
+d: a day for celebrating the founding of the United Nations
+hp: Oct
+hypo: day 1
+
+w: Oligocene
+w: Oligocene_epoch
+d: from 40 million to 25 million years ago; appearance of sabertoothed cats
+hp: Tertiary
+ihyper: epoch 1
+
+w: Olympiad
+d: one of the four-year intervals between Olympic Games; used to reckon time in ancient Greece for twelve centuries beginning in 776 BC
+hypo: period
+
+w: Ordovician
+w: Ordovician_period
+d: from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds
+hp: Paleozoic
+ihyper: geological_period
+
+w: PST
+w: Pacific_Standard_Time
+w: Pacific_Time
+d: standard time in the 8th time zone west of Greenwich, reckoned at the 120th meridian west; used in far western states of the United States
+hypo: civil_time
+
+w: Palaeolithic
+w: Paleolithic
+w: Paleolithic_Age
+d: second part of the Stone Age beginning about 750,000 to 500,000 years BC and lasting until the end of the last ice age about 8,500 years BC
+hp: Stone_Age
+ihyper: period
+mp: Lower_Paleolithic
+mp: Middle_Paleolithic
+mp: Upper_Paleolithic
+
+w: Paleocene
+w: Paleocene_epoch
+d: from 63 million to 58 million years ago; appearance of birds and earliest mammals
+hp: Tertiary
+ihyper: epoch 1
+
+w: Paleozoic
+w: Paleozoic_era
+d: from 544 million to about 230 million years ago
+ihyper: era 1
+mp: Age_of_Fishes
+mp: Cambrian
+mp: Carboniferous
+mp: Ordovician
+mp: Permian
+mp: Silurian
+
+w: Palm_Sunday
+d: Sunday before Easter
+hypo: Christian_holy_day
+
+w: Pansa
+w: Pus
+d: the tenth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Pasch
+w: Pascha
+d: the Christian festival of Easter
+hypo: Easter
+
+w: Pasch 1
+w: Pascha 1
+d: the Jewish feast of the Passover
+hypo: Feast_of_the_Unleavened_Bread
+
+w: Passion_Sunday
+d: second Sunday before Easter
+hypo: Christian_holy_day
+
+w: Patriot's_Day
+d: the 3rd Monday in April; Massachusetts and Maine celebrate the battle of Lexington and Concord in 1775
+hp: Apr
+hypo: day 1
+
+w: Pennsylvanian
+w: Pennsylvanian_period
+w: Upper_Carboniferous
+w: Upper_Carboniferous_period
+d: from 310 million to 280 million years ago; warm climate; swampy land
+hp: Carboniferous
+ihyper: geological_period
+
+w: Pentecost 1 drf adj.pert:pentecostal
+w: Whitsunday
+d: seventh Sunday after Easter; commemorates the emanation of the Holy Spirit to the Apostles; a quarter day in Scotland
+hp: Whitsun
+hypo: quarter_day
+
+w: Permian
+w: Permian_period
+d: from 280 million to 230 million years ago; reptiles
+hp: Paleozoic
+ihyper: geological_period
+
+w: Phagun
+w: Phalguna
+d: the twelfth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Phanerozoic
+w: Phanerozoic_aeon
+w: Phanerozoic_eon
+d: the period from about 540 million years ago until the present, a period when abundant life existed
+ihyper: aeon 1
+mp: Age_of_Mammals
+
+w: Platonic_year
+w: great_year
+d: time required for one complete cycle of the precession of the equinoxes, about 25,800 years
+hypo: period
+
+w: Pliocene
+w: Pliocene_epoch
+d: from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals
+hp: Tertiary
+ihyper: epoch 1
+
+w: Pluviose
+d: fifth month of the Revolutionary calendar (January and February); the rainy month
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Poppy_Day
+w: Remembrance_Day
+w: Remembrance_Sunday
+d: the Sunday nearest to November 11 when those who died in World War I and World War II are commemorated
+hypo: holiday 1
+mr: noun.location:Britain
+mr: noun.location:Canada
+
+w: Prairial
+d: ninth month of the Revolutionary calendar (May and June); the month of meadows
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Precambrian
+w: Precambrian_aeon
+w: Precambrian_eon
+w: Precambrian_period
+d: the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago
+ihyper: aeon 1
+mp: Archaeozoic
+mp: Proterozoic
+
+w: Presidents'_Day
+d: the third Monday in February; commemorates both presidents Lincoln and Washington
+hp: Feb
+hypo: legal_holiday
+mr: noun.location:America
+
+w: Proterozoic drf adjs.all:proterozoic
+w: Proterozoic_aeon
+w: Proterozoic_eon
+d: from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms
+hp: Precambrian
+ihyper: aeon 1
+
+w: Purim
+d: (Judaism) a Jewish holy day commemorating their deliverance from massacre by Haman
+hp: Adar
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: Quadragesima
+w: Quadrigesima_Sunday
+d: the first Sunday in Lent
+hypo: Christian_holy_day
+
+w: Quinquagesima
+w: Quinquagesima_Sunday
+d: the Sunday before Ash Wednesday (the beginning of Lent)
+hypo: Christian_holy_day
+
+w: ROI
+w: return_on_invested_capital
+w: return_on_investment
+d: (corporate finance) the amount, expressed as a percentage, that is earned on a company's total capital calculated by dividing the total capital into earnings before interest, taxes, or dividends are paid
+hypo: rate_of_return
+mt: noun.act:corporate_finance
+
+w: RTLT
+w: round-trip_light_time
+d: the elapsed time it takes for a signal to travel from Earth to a spacecraft (or other body) and back to the starting point
+hypo: elapsed_time
+
+w: Rabi_I
+d: the third month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Rabi_II
+d: the fourth month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Rajab
+d: the seventh month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Ramadan
+d: the ninth month of the Islamic calendar; the month of fasting; the holiest period for the Islamic faith
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Ramanavami
+d: Hindu lunar holiday (on the 9th day of Caitra) to celebrate the birth of Rama
+hp: Caitra
+hypo: holiday 1
+
+w: Reconstruction
+w: Reconstruction_Period
+d: the period after the American Civil War when the southern states were reorganized and reintegrated into the Union; 1865-1877
+ihyper: age 2
+
+w: Regency
+d: the period from 1811-1820 when the Prince of Wales was regent during George III's periods of insanity
+ihyper: rule
+mr: noun.location:England
+
+w: Reign_of_Terror
+d: the historic period (1793-94) during the French Revolution when thousands were executed
+e: the Reign of the Bourbons ended and the Reign of Terror began
+ihyper: age 2
+
+w: Rejoicing_in_the_Law
+w: Rejoicing_of_the_Law
+w: Rejoicing_over_the_Law
+w: Shimchath_Torah
+w: Simchas_Torah
+w: Simchat_Torah
+w: Simhat_Torah
+w: Simhath_Torah
+d: (Judaism) a Jewish holy day celebrated on the 22nd or 23rd of Tishri to celebrate the completion of the annual cycle of readings of the Torah
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: Renaissance
+w: Renascence
+d: the period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries
+hp: history
+ihyper: age 2
+mp: noun.attribute:High_Renaissance
+mp: Italian_Renaissance
+mp: quattrocento
+
+w: Restoration
+d: the reign of Charles II in England; 1660-1685
+ihyper: age 2
+
+w: Revolutionary_calendar
+d: the calendar adopted by the first French Republic in 1793 and abandoned in 1805; dates were calculated from Sept. 22, 1792
+hypo: solar_calendar
+mp: Brumaire
+mp: Floreal
+mp: Frimaire
+mp: Fructidor
+mp: Germinal
+mp: Messidor
+mp: Nivose
+mp: Pluviose
+mp: Prairial
+mp: Revolutionary_calendar_month
+mp: Thermidor
+mp: Vendemiaire
+mp: Ventose
+
+w: Revolutionary_calendar_month
+d: a month in the Revolutionary calendar
+hp: Revolutionary_calendar
+hyper: Brumaire
+hyper: Floreal
+hyper: Frimaire
+hyper: Fructidor
+hyper: Germinal
+hyper: Messidor
+hyper: Nivose
+hyper: Pluviose
+hyper: Prairial
+hyper: Thermidor
+hyper: Vendemiaire
+hyper: Ventose
+hypo: calendar_month
+
+w: Rogation_Day
+d: one of the three days before Ascension Day; observed by some Christians as days of supplication
+hypo: Christian_holy_day
+
+w: Roman_calendar
+d: the lunar calendar in use in ancient Rome; replaced by the Julian calendar in 46 BC
+hypo: lunar_calendar
+
+w: Roman_times
+d: the time period during which Rome dominated Europe
+hypo: times 1
+
+w: Rosh_Chodesh
+w: Rosh_Hodesh
+d: (Judaism) the beginning of each month in the Jewish calendar; marked by a special liturgy
+hypo: Jewish_holy_day
+mt: noun.cognition:Judaism
+
+w: SCET
+w: spacecraft_event_time
+d: the coordinated universal time on board the spacecraft
+e: SCET = TRM + OWLT
+hypo: UTC
+
+w: SCLK
+w: spacecraft_clock_time
+d: the clock time given by a clock carried on board a spacecraft
+hypo: clock_time
+
+w: Sabbath drf adj.pert:Sabbatarian drf adj.pert:sabbatical 1
+d: a day of rest and worship: Sunday for most Christians; Saturday for the Jews and a few Christians; Friday for Muslims
+hypo: day_of_rest
+
+w: Sabbatum
+w: Sat
+w: Saturday
+d: the seventh and last day of the week; observed as the Sabbath by Jews and some Christians
+hp: weekend
+hypo: weekday
+
+w: Safar
+w: Saphar
+d: the second month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Sawan
+w: Sravana
+d: the fifth month of the Hindu calendar
+hp: Hindu_calendar
+hypo: Hindu_calendar_month
+
+w: Sep
+w: Sept
+w: September
+d: the month following August and preceding October
+hp: Gregorian_calendar
+hypo: Gregorian_calendar_month
+mp: 9-11
+mp: American_Indian_Day
+mp: Citizenship_Day
+mp: Labor_Day
+mp: Michaelmas
+mp: September_equinox
+mp: mid-September
+
+w: September_equinox
+w: autumnal_equinox ant vernal_equinox
+w: fall_equinox
+d: September 22
+hp: Sep
+hp: autumn
+hypo: equinox
+
+w: Septuagesima
+w: Septuagesima_Sunday
+d: the 3rd Sunday before Lent (or the 9th before Easter)
+hypo: Christian_holy_day
+
+w: Sha'ban
+w: Shaaban
+d: the eighth month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Shawwal
+d: the tenth month of the Islamic calendar
+hp: Islamic_calendar
+hypo: Islamic_calendar_month
+
+w: Shebat
+w: Shevat
+d: the fifth month of the civil year: the eleventh month of the ecclesiastical year in the Jewish calendar (in January and February)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Shrovetide
+d: immediately preceding Lent
+hp: church_calendar
+hypo: season 1
+mp: Fat_Tuesday
+
+w: Silurian
+w: Silurian_period
+d: from 425 million to 405 million years ago; first air-breathing animals
+hp: Paleozoic
+ihyper: geological_period
+
+w: Sivan
+w: Siwan
+d: the ninth month of the civil year; the third month of the ecclesiastical year in the Jewish calendar (in May and June)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Stone_Age
+d: (archeology) the earliest known period of human culture, characterized by the use of stone implements
+hp: prehistoric_culture
+ihyper: period
+mp: Eolithic
+mp: Epipaleolithic
+mp: Neolithic
+mp: Palaeolithic
+mt: noun.cognition:archaeology
+
+w: TDT
+w: TT
+w: ephemeris_time
+w: terrestrial_dynamical_time
+w: terrestrial_time
+d: (astronomy) a measure of time defined by Earth's orbital motion; terrestrial time is mean solar time corrected for the irregularities of the Earth's motions
+hypo: time_unit
+mt: noun.cognition:astronomy
+
+w: THz
+w: terahertz
+d: one trillion periods per second
+hypo: rate
+
+w: TRM
+w: transmission_time
+d: the coordinated universal time when a transmission is sent from Earth to a spacecraft or other celestial body
+hypo: UTC
+
+w: Tammuz
+w: Thammuz
+d: the tenth month of the civil year; the fourth month of the ecclesiastic year (in June and July)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+
+w: Tebet
+w: Tevet
+d: the fourth month of the civil year; the tenth month of the ecclesiastical year (in December and January)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+mp: Channukah
+
+w: Tertiary
+w: Tertiary_period
+d: from 63 million to 2 million years ago
+hp: Age_of_Mammals
+ihyper: geological_period
+mp: Eocene
+mp: Miocene
+mp: Oligocene
+mp: Paleocene
+mp: Pliocene
+
+w: Tet
+d: the New Year in Vietnam; observed for three days after the first full moon after January 20th
+hp: Jan
+hypo: day 1
+
+w: Th
+w: Thursday
+d: the fifth day of the week; the fourth working day
+hypo: weekday
+
+w: Thanksgiving
+w: Thanksgiving_Day
+d: fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag
+hp: Nov
+hypo: feast_day
+hypo: legal_holiday
+
+w: Thermidor
+d: eleventh month of the Revolutionary calendar (July and August); the month of heat
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Tishri
+d: the first month of the civil year; the seventh month of the ecclesiastical year in the Jewish calendar (in September and October)
+hp: Hebrew_calendar
+hypo: Jewish_calendar_month
+mp: Feast_of_Booths
+
+w: Triassic
+w: Triassic_period
+d: from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity
+hp: Age_of_Reptiles
+ihyper: geological_period
+
+w: Trinity_Sunday
+d: eighth Sunday after Easter
+hypo: Christian_holy_day
+
+w: Tues
+w: Tuesday
+d: the third day of the week; the second working day
+hyper: Whit-Tuesday
+hypo: weekday
+
+w: Twelfth_night
+d: eve of Twelfth day; evening of January 5
+hp: Jan
+hypo: Christian_holy_day
+
+w: Twelfthtide
+d: the season of Epiphany
+hypo: season 1
+
+w: UTC
+w: coordinated_universal_time
+d: Greenwich Mean Time updated with leap seconds
+hyper: ERT
+hyper: SCET
+hyper: TRM
+hypo: GMT
+
+w: Upper_Paleolithic
+d: the time period during which only modern Homo sapiens was known to have existed; ended about 10,000 years BC
+hp: Palaeolithic
+ihyper: period
+
+w: V-day
+w: Victory_Day
+d: the day of a victory
+hypo: day 1
+ihypo: 15_August_1945
+ihypo: 8_May_1945
+
+w: Vendemiaire
+d: first month of the Revolutionary calendar (September and October); the month of the grape harvest
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Ventose
+d: sixth month of the Revolutionary calendar (February and March); the windy month
+hp: Revolutionary_calendar
+hypo: Revolutionary_calendar_month
+
+w: Victoria_Day
+d: a public holiday in Canada on the Monday on or before May 24th
+hypo: legal_holiday
+
+w: Victorian_age
+d: a period in British history during the reign of Queen Victoria in the 19th century; her character and moral standards restored the prestige of the British monarchy but gave the era a prudish reputation
+ihyper: age 2
+
+w: Walpurgis_Night
+d: eve of May Day
+hypo: day 1
+
+w: Whit-Tuesday
+w: Whitsun_Tuesday
+d: the day after Whitmonday
+hp: Whitsun
+hypo: Tues
+
+w: Whitmonday
+w: Whitsun_Monday
+d: the day after Whitsunday; a legal holiday in England and Wales and Ireland
+hp: Whitsun
+hypo: Mon
+
+w: Whitsun
+w: Whitsuntide
+w: Whitweek
+d: Christian holiday; the week beginning on Whitsunday (especially the first 3 days)
+hp: church_calendar
+hypo: season 2
+mp: Pentecost 1
+mp: Whit-Tuesday
+mp: Whitmonday
+
+w: Y2K
+d: the year 2000 in the Gregorian calendar
+hypo: twelvemonth
+
+w: absence
+d: the time interval during which something or somebody is away
+e: he visited during my absence
+hypo: interval
+
+w: academic_session
+w: academic_term
+w: school_term
+w: session
+d: the time during which a school holds classes
+e: they had to shorten the school term
+hp: academic_year
+hyper: quarter
+hyper: semester 1
+hyper: summer_school
+hyper: trimester 1
+hypo: term
+
+w: academic_year
+w: school_year
+d: the period of time each year when the school is open and people are studying
+hypo: year 2
+mp: academic_session
+mp: quarter
+mp: semester 1
+mp: trimester 1
+
+w: accelerando drf adjs.all:accelerando
+d: a gradually increasing tempo of music
+e: my ear will not accept such violent accelerandos
+hypo: pacing
+
+w: acceleration ant deceleration
+d: (physics) a rate of increase of velocity
+hyper: noun.phenomenon:angular_acceleration
+hyper: centripetal_acceleration
+hypo: rate
+mt: noun.cognition:natural_philosophy
+
+w: access_time
+d: (computer science) the interval between the time data is requested by the system and the time the data is provided by the drive
+e: access time is the sum of seek time and rotational latency and command processing overhead
+hypo: interval
+mp: command_overhead
+mp: latency 1
+mp: seek_time
+mt: noun.cognition:computer_science
+
+w: administration drf verb.social:administer
+w: presidency drf noun.act:President 4 drf noun.person:President 4 drf noun.person:president drf noun.person:president 1 drf noun.person:president 2 drf noun.person:president 3
+w: presidential_term
+d: the tenure of a president
+e: things were quiet during the Eisenhower administration
+hypo: incumbency
+
+w: adolescence drf adjs.all:adolescent drf adjs.all:adolescent 1 drf verb.change:adolesce
+d: the time period between the beginning of puberty and adulthood
+hp: youth
+hypo: time_of_life
+mp: genital_phase
+mp: puberty
+
+w: adulthood drf noun.animal:adult drf noun.person:adult
+w: maturity drf adj.all:mature 1
+d: the period of time in your life after your physical growth has stopped and you are fully developed
+hyper: prime
+hypo: time_of_life
+mp: drinking_age
+mp: fifties
+mp: forties
+mp: legal_age
+mp: mid-thirties
+mp: mid-twenties
+mp: middle_age
+mp: teens
+mp: voting_age
+
+w: aeon
+w: eon drf adjs.all:eonian
+d: an immeasurably long period of time
+e: oh, that happened eons ago
+hypo: age 3
+
+w: aeon 1 drf adj.pert:aeonian
+w: eon 1 drf adj.pert:eonian
+d: the longest division of geological time
+hypo: geologic_time
+ihypo: Archaeozoic
+ihypo: Hadean
+ihypo: Phanerozoic
+ihypo: Precambrian
+ihypo: Proterozoic
+mp: era 1
+
+w: afterlife
+w: hereafter 1
+d: life after death
+hyper: immortality 1
+hyper: kingdom_come 1
+hypo: life
+
+w: afternoon
+d: the part of the day between noon and evening
+e: he spent a quiet afternoon in the park
+hypo: day 2
+mp: midafternoon
+
+w: age drf verb.change:age
+w: eld 1
+d: a time of life (usually defined in years) at which some particular qualification or power arises
+e: she was now of school age
+e: tall for his eld
+hp: life
+hyper: age_of_consent
+hyper: drinking_age
+hyper: legal_age
+hyper: minority
+hyper: voting_age
+hypo: time_of_life
+
+w: age 1 drf verb.change:age drf verb.change:age 2
+w: eld
+w: geezerhood drf noun.person:geezer
+w: old_age
+w: years
+d: a late time of life
+e: old age is not for sissies
+e: he's showing his years
+e: age hasn't slowed him down at all
+e: a beard white with eld
+e: on the brink of geezerhood
+hyper: dotage
+hypo: time_of_life
+mp: eighties
+mp: mid-nineties
+mp: mid-seventies
+mp: mid-sixties
+
+w: age 2
+w: historic_period
+d: an era of history having some distinctive feature
+e: we live in a litigious age
+hp: history
+hyper: Jazz_Age
+hyper: antiquity
+hyper: golden_age 1
+hyper: reign
+hyper: turn_of_the_century
+hypo: epoch
+ihypo: noun.group:Age_of_Reason
+ihypo: Baroque
+ihypo: Dark_Ages
+ihypo: Depression
+ihypo: Elizabethan_age
+ihypo: Harlem_Renaissance
+ihypo: Industrial_Revolution
+ihypo: Italian_Renaissance
+ihypo: New_Deal
+ihypo: Reconstruction
+ihypo: Reign_of_Terror
+ihypo: Renaissance
+ihypo: Restoration
+ihypo: Victorian_age
+
+w: age 3
+w: long_time
+w: years 1
+d: a prolonged period of time
+e: we've known each other for ages
+e: I haven't been there for years and years
+hyper: aeon
+hyper: blue_moon
+hyper: month_of_Sundays
+hyper: year_dot
+hypo: period
+
+w: age_of_consent
+d: the minimum age for marrying without parental consent or the minimum age for consensual sexual relations; intercourse at an earlier age can result in a charge of assault or statutory rape; the age differs in different states of the Union
+hypo: age
+
+w: air_alert
+d: the time period during which military and civilian agencies are prepared for an enemy air attack
+hypo: period
+
+w: airspeed
+d: the speed of an aircraft relative to the air in which it is flying
+hypo: speed
+
+w: allegretto drf adjs.all:allegretto
+d: a quicker tempo than andante but not as fast as allegro
+hypo: pacing
+
+w: allegro drf adjs.all:allegro
+d: a brisk and lively tempo
+hyper: allegro_con_spirito
+hypo: pacing
+
+w: allegro_con_spirito
+d: lively with spirit
+hypo: allegro
+
+w: alpha_and_omega
+d: the first and last; signifies God's eternity
+hypo: eternity
+
+w: anachronism drf adjs.all:anachronic drf adjs.all:anachronistic
+w: misdating drf verb.cognition:misdate
+w: mistiming drf verb.change:mistime
+d: something located at a time when it could not have existed or occurred
+hypo: timekeeping
+
+w: anal_phase
+w: anal_stage
+d: (psychoanalysis) the second sexual and social stage of a child's development during which bowel control is learned
+hp: childhood
+hypo: phase
+mt: noun.act:analysis 1
+
+w: andante drf adjs.all:andante
+d: a moderately slow tempo (a walking pace)
+hypo: pacing
+
+w: anniversary
+w: day_of_remembrance
+d: the date on which an event occurred in some previous year (or the celebration of it)
+hyper: bicentenary
+hyper: bimillenary 1
+hyper: birthday
+hyper: centenary
+hyper: jubilee
+hyper: millenary 2
+hyper: quatercentenary
+hyper: quincentenary
+hyper: semicentenary
+hyper: sesquicentennial
+hyper: tercentenary
+hyper: wedding_anniversary
+hypo: day 1
+
+w: annum
+d: (Latin) year
+e: per annum
+hypo: twelvemonth
+mt: noun.communication:Latin
+
+w: anomalistic_month
+d: period between successive perigees; approximately 27.5546 days
+hypo: month
+
+w: anomalistic_year
+d: time of the earth's revolution from perihelion to perihelion again; 365 days and 6 hr and 13 min and 53.1 sec
+hypo: year
+
+w: antiquity drf adjs.all:antique
+d: the historic period preceding the Middle Ages in Europe
+dt: adj.pert:Roman 1
+dt: noun.act:lustrum
+dt: noun.artifact:bay_wreath
+dt: noun.artifact:catacomb
+dt: noun.artifact:circus 1
+dt: noun.artifact:galley 2
+dt: noun.artifact:pantheon
+dt: noun.artifact:toga_virilis
+dt: noun.body:humor 1
+dt: noun.communication:dithyramb
+dt: noun.communication:paean 1
+dt: noun.event:torch_race
+dt: noun.person:Ana
+dt: noun.person:Bacchus
+dt: noun.person:Chinese_deity
+dt: noun.person:Egyptian_deity
+dt: noun.person:Greek_deity
+dt: noun.person:Lug
+dt: noun.person:Norse_deity
+dt: noun.person:Persian_deity
+dt: noun.person:Phrygian_deity
+dt: noun.person:Ra
+dt: noun.person:Roman_deity
+dt: noun.person:Semitic_deity
+dt: noun.person:augur
+dt: noun.person:centurion
+dt: noun.person:choragus
+dt: noun.person:gladiator
+dt: noun.person:pontifex
+dt: noun.person:procurator
+dt: noun.person:sibyl
+dt: noun.person:tribune
+hp: history
+hypo: age 2
+
+w: apogee
+w: culmination drf verb.change:culminate drf verb.change:culminate 3 drf verb.social:culminate
+d: a final climactic stage
+e: their achievements stand as a culmination of centuries of development
+hypo: phase
+
+w: arrival_time
+w: time_of_arrival
+d: the time at which a public conveyance is scheduled to arrive at a given destination
+hypo: point
+
+w: astronomical_year
+w: equinoctial_year
+w: solar_year
+w: tropical_year
+d: the time for the earth to make one revolution around the sun, measured between two vernal equinoxes
+hypo: year
+
+w: attendance drf adjs.all:attendant 1
+d: the frequency with which a person is present
+e: a student's attendance is an important factor in her grade
+hypo: frequence
+
+w: attosecond
+d: one quintillionth (10^-18) of a second; one thousandth of a femtosecond
+hp: femtosecond
+hypo: time_unit
+
+w: attrition_rate
+w: rate_of_attrition
+d: the rate of shrinkage in size or number
+hypo: rate
+
+w: auld_langsyne
+w: good_old_days
+w: langsyne
+w: old_times
+d: past times remembered with nostalgia
+hypo: past
+
+w: aurora drf adj.pert:auroral 1 drf adj.pert:aurorean
+w: break_of_day
+w: break_of_the_day
+w: cockcrow
+w: dawn drf verb.change:dawn
+w: dawning drf verb.change:dawn
+w: daybreak
+w: dayspring
+w: first_light
+w: morning 1
+w: sunrise ant sunset
+w: sunup
+d: the first light of day
+e: we got up before dawn
+e: they talked until morning
+hypo: hour 1
+
+w: autumn drf adj.all:autumnal
+w: fall
+d: the season when the leaves fall from the trees
+e: in the fall of 1973
+hypo: season
+mp: Indian_summer
+mp: September_equinox
+
+w: babyhood drf noun.animal:baby drf noun.person:baby
+w: early_childhood
+w: infancy drf noun.person:infant
+d: the early stage of growth or development
+hypo: time_of_life
+mp: oral_phase
+
+w: bachelorhood drf noun.person:bachelor
+d: the time of a man's life prior to marriage
+hypo: time_of_life
+
+w: bank_holiday
+d: any of several weekdays when banks are closed; a legal holiday in Britain
+hypo: legal_holiday
+
+w: baseball_season
+d: the season when baseball is played
+hyper: triple-crown_season
+hypo: season 2
+
+w: basketball_season
+d: the season when basketball is played
+hypo: season 2
+
+w: beauty_sleep
+d: sleep before midnight
+hypo: nap
+
+w: bedtime
+d: the time you go to bed
+hyper: lights-out
+hypo: hour 1
+
+w: beginning ant end ant middle
+w: commencement
+w: first
+w: get-go
+w: kickoff drf verb.social:kick_off
+w: offset
+w: outset
+w: showtime
+w: start drf verb.change:start drf verb.change:start 1 drf verb.creation:start drf verb.creation:start 1 drf verb.social:start drf verb.stative:start
+w: starting_time
+d: the time at which something is supposed to begin
+e: they got an early start
+e: she knew from the get-go that he was the man for her
+hyper: birth
+hyper: incipience
+hyper: starting_point
+hyper: threshold
+hypo: point
+
+w: bell
+w: ship's_bell
+d: (nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.
+hypo: time_unit
+mt: noun.act:navigation 1
+
+w: bicentenary drf adj.pert:bicentenary
+w: bicentennial drf adj.pert:bicentennial
+d: the 200th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: bimester drf adjs.all:bimestrial drf adjs.all:bimestrial 1
+d: a period of 2 months
+hypo: period
+
+w: bimillenary
+w: bimillennium drf adj.pert:bimillenial
+d: a span of 2000 years
+hypo: period
+
+w: bimillenary 1
+w: bimillennium 1
+d: the 2000th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: biological_clock
+d: an innate mechanism in living organisms that controls the periodicity of many physiological functions
+hypo: noun.object:mechanism
+
+w: biological_time
+d: the time of various biological processes
+hyper: change_of_life
+hyper: circadian_rhythm
+hyper: climacteric 2
+hyper: gestation
+hyper: refractory_period
+hypo: noun.Tops:time
+
+w: birth ant death drf verb.body:birth drf verb.change:be_born
+d: the time when something begins (especially life)
+e: they divorced after the birth of the child
+e: his election signaled the birth of a new age
+hp: life
+hyper: cradle
+hypo: beginning
+
+w: birth_rate
+w: birthrate
+w: fertility
+w: fertility_rate
+w: natality
+d: the ratio of live births in an area to the population of that area; expressed per 1000 population per year
+hypo: rate
+
+w: birthday
+d: an anniversary of the day on which a person was born (or the celebration of it)
+hypo: anniversary
+
+w: birthday 1
+w: natal_day
+d: the date on which a person was born
+hypo: date
+
+w: bit
+w: minute 1
+w: mo mr noun.location:Britain
+w: moment 1 drf adjs.all:momentaneous drf adjs.all:momentary
+w: second 1
+d: an indefinitely short time
+e: wait just a moment
+e: in a mo
+e: it only takes a minute
+e: in just a bit
+hyper: New_York_minute
+hypo: time
+
+w: bits_per_second
+w: bps
+d: (computer science) the rate at which data is transferred (as by a modem)
+hypo: rate
+mt: noun.cognition:computer_science
+
+w: blackout drf verb.change:black_out
+d: a suspension of radio or tv broadcasting
+hypo: break
+
+w: bloom
+w: bloom_of_youth
+w: salad_days
+d: the best time of youth
+hp: youth
+hypo: time_of_life
+
+w: bloom 1
+w: blossom drf verb.change:blossom
+w: efflorescence
+w: flower
+w: flush drf adjs.all:flush
+w: heyday
+w: peak
+w: prime 2
+d: the period of greatest prosperity or productivity
+hyper: golden_age 2
+hypo: period
+
+w: blue_moon
+d: a long time
+e: something that happens once in blue moon almost never happens
+hypo: age 3
+mu: noun.communication:colloquialism
+
+w: bottom ant top
+w: bottom_of_the_inning
+d: the second half of an inning; while the home team is at bat
+hp: frame
+hypo: bout
+
+w: bout
+w: round
+w: turn
+d: (sports) a division during which one team is on the offensive
+hp: period_of_play
+hyper: bottom
+hyper: top
+hypo: noun.cognition:division
+mt: noun.act:athletics
+
+w: bout 1
+d: a period of illness
+e: a bout of fever
+e: a bout of depression
+hypo: period
+
+w: boyhood drf noun.person:boy
+d: the childhood of a boy
+hypo: childhood
+
+w: break drf verb.social:break 1
+w: intermission
+w: interruption
+w: pause drf verb.communication:pause 1 drf verb.stative:pause
+w: suspension drf verb.change:suspend
+d: a time interval during which there is a temporary cessation of something
+hyper: blackout
+hyper: caesura
+hyper: dead_air
+hyper: delay
+hyper: halftime
+hyper: lapse
+hyper: letup
+hyper: relief
+hyper: time-out
+hypo: interval
+
+w: breakfast_time
+d: the customary or habitual hour for eating breakfast
+hypo: mealtime
+
+w: breath
+w: breather drf verb.communication:breathe
+w: breathing_place
+w: breathing_space
+w: breathing_spell
+w: breathing_time
+d: a short respite
+hypo: relief
+
+w: bronze_age
+d: (classical mythology) the third age of the world, marked by war and violence
+hypo: period
+mt: noun.group:classical_mythology
+
+w: by-and-by
+d: an indefinite time in the future
+e: he'll get around to it in the sweet by-and-by
+hypo: future
+
+w: bygone drf adjs.all:bygone
+w: water_under_the_bridge
+d: past events to be put aside
+e: let bygones be bygones
+hypo: past
+
+w: c
+w: light_speed
+w: speed_of_light
+d: the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second
+hypo: noun.quantity:constant
+hypo: speed
+
+w: caesura drf adj.pert:caesural
+d: a pause or interruption (as in a conversation)
+e: after an ominous caesura the preacher continued
+hypo: break
+
+w: calendar drf adj.pert:calendric
+d: a system of timekeeping that defines the beginning and length and divisions of the year
+hyper: lunar_calendar
+hyper: lunisolar_calendar
+hyper: solar_calendar
+hypo: noun.cognition:arrangement
+mp: embolism
+
+w: calendar_day
+w: civil_day
+d: a day reckoned from midnight to midnight
+hp: hebdomad
+hyper: date 3
+hyper: day 1
+hyper: day_of_the_week
+hypo: period
+
+w: calendar_month
+w: month 1 drf adjs.all:monthly
+d: one of the twelve divisions of the calendar year
+e: he paid the bill last month
+hyper: Gregorian_calendar_month
+hyper: Hindu_calendar_month
+hyper: Islamic_calendar_month
+hyper: Jewish_calendar_month
+hyper: Revolutionary_calendar_month
+hyper: date 3
+hypo: period
+mp: calendar_week
+
+w: calendar_week
+w: week 2 drf adjs.all:weekly
+d: a period of seven consecutive days starting on Sunday
+hp: calendar_month
+hypo: period
+mp: midweek
+mp: week 1
+
+w: calendar_year
+w: civil_year
+d: the year (reckoned from January 1 to December 31) according to Gregorian calendar
+hyper: date 3
+hypo: twelvemonth
+
+w: canicular_days
+w: canicule drf adj.pert:canicular drf adj.pert:canicular 2
+w: dog_days
+d: the hot period between early July and early September; a period of inactivity
+hp: summer
+hypo: period
+
+w: canonical_hour
+d: (Roman Catholic Church) one of seven specified times for prayer
+hyper: complin
+hyper: evensong
+hyper: matins
+hyper: nones
+hyper: prime 1
+hyper: sext
+hyper: terce
+hypo: hour 1
+mt: noun.group:Church_of_Rome
+
+w: cardiac_output
+d: the amount of blood pumped out by the ventricles in a given period of time
+e: a resting adult has a cardiac output of about three quarts a minute
+hypo: flow
+
+w: cease drf verb.stative:cease
+d: (`cease' is a noun only in the phrase `without cease') end
+hypo: end
+
+w: centenary drf adj.pert:centenary
+w: centennial drf adj.pert:centennial
+d: the 100th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: centripetal_acceleration
+d: the acceleration toward the center that holds a satellite in elliptical orbit
+hypo: acceleration
+
+w: century
+d: a period of 100 years
+hp: millenary
+hyper: quattrocento
+hyper: twentieth_century
+hypo: period
+mp: decade
+mp: half-century
+mp: quarter-century
+
+w: change_of_life
+w: climacteric 1
+w: menopause drf adj.pert:menopausal
+d: the time in a woman's life in which the menstrual cycle ends
+hp: middle_age
+hypo: biological_time
+
+w: channel_capacity
+d: the maximum data rate that can be attained over a given channel
+hypo: data_rate
+
+w: chapter
+d: any distinct period in history or in a person's life
+e: the industrial revolution opened a new chapter in British history
+e: the divorce was an ugly chapter in their relationship
+hypo: phase
+
+w: checkout drf verb.communication:check_out
+w: checkout_time
+d: the latest time for vacating a hotel room
+e: the checkout here is 12 noon
+hypo: departure_time
+
+w: childhood drf noun.person:child
+d: the time of person's life when they are a child
+hyper: boyhood
+hyper: girlhood
+hypo: time_of_life
+mp: anal_phase
+mp: latency_period
+mp: phallic_phase
+mp: prepuberty
+
+w: chukka
+w: chukker
+d: (polo) one of six divisions into which a polo match is divided
+hp: period_of_play
+hypo: noun.cognition:division
+mt: noun.act:polo
+
+w: church_calendar
+w: ecclesiastical_calendar
+d: a calendar of the Christian year indicating the dates of fasts and festivals
+hypo: Gregorian_calendar
+mp: Advent 1
+mp: Holy_Week
+mp: Lent
+mp: Shrovetide
+mp: Whitsun
+
+w: church_festival
+w: religious_festival
+d: a festival having religious significance
+hyper: Feast_of_Booths
+hyper: octave
+hypo: festival
+mp: feast_day
+
+w: circadian_rhythm
+d: a daily cycle of activity observed in many living organisms
+hypo: biological_time
+
+w: civil_time
+w: local_time
+w: standard_time
+d: the official time in a local region (adjusted for location around the Earth); established by law or custom
+hyper: Alaska_Standard_Time
+hyper: Atlantic_Standard_Time
+hyper: Bering_Standard_Time
+hyper: CST
+hyper: EST
+hyper: Hawaii_Standard_Time
+hyper: MST
+hyper: PST
+hypo: noun.Tops:time
+
+w: climacteric 2
+d: a period in a man's life corresponding to menopause
+hp: middle_age
+hypo: biological_time
+
+w: clock_time
+w: time 3 drf verb.change:time 1
+d: a reading of a point in time as given by a clock
+e: do you know what time it is?
+e: the time is 10 o'clock
+attr: adj.all:antemeridian
+attr: adj.all:postmeridian
+hyper: SCLK
+hyper: hour 1
+hyper: prime_time
+hypo: noun.cognition:indication
+
+w: clocking drf verb.change:clock
+d: the time taken to traverse a measured course
+e: it was a world record clocking
+hypo: continuance 2
+
+w: close drf verb.social:close drf verb.social:close 1 drf verb.stative:close
+w: conclusion
+w: finale
+w: finis
+w: finish drf verb.change:finish 2 drf verb.change:finish 3 drf verb.stative:finish
+w: last
+w: stopping_point
+d: the temporal end; the concluding time
+e: the stopping point of each round was signaled by a bell
+e: the market was up at the finish
+e: they were playing better at the close of the season
+hypo: end
+
+w: closing_time
+d: the regular time of day when an establishment closes to the public
+hypo: hour 1
+
+w: clotting_time
+d: the time it takes for a sample of blood to clot; used to diagnose some clotting disorders
+hypo: period
+
+w: cold_snap
+w: cold_spell
+d: a spell of cold weather
+hypo: patch
+
+w: command_overhead
+w: command_processing_overhead
+w: command_processing_overhead_time
+w: overhead
+d: (computer science) the processing time required by a device prior to the execution of a command
+hp: access_time
+hypo: processing_time
+mt: noun.cognition:computer_science
+
+w: commencement_day
+w: degree_day
+d: the day on which university degrees are conferred
+hypo: day 1
+
+w: common_measure
+w: common_time
+w: four-four_time
+w: quadruple_time
+d: a time signature indicating four beats to the bar
+hypo: musical_time
+
+w: compassionate_leave
+d: (military) leave granted in an emergency such as family sickness or death
+hypo: leave
+mt: noun.group:armed_forces
+
+w: compensatory_time
+d: time off that is granted to a worker as compensation for working overtime
+hypo: time_off
+
+w: complin
+w: compline
+d: last of the seven canonical hours just before retiring
+hypo: canonical_hour
+
+w: contemporary_world
+w: modern_times
+w: modern_world
+w: present_times
+d: the circumstances and ideas of the present age
+e: in modern times like these
+hypo: times 1
+
+w: continuance drf adjs.all:continuant
+w: duration
+d: the property of enduring or continuing in time
+hypo: noun.Tops:time
+
+w: continuance 2 drf verb.change:continue 10
+w: duration 2
+d: the period of time during which something continues
+hyper: clocking
+hyper: longueur
+hyper: note_value
+hyper: residence_time
+hyper: rule
+hyper: span
+hyper: stint
+hyper: time_scale
+hypo: period
+
+w: continuum drf adj.all:continuous 1 drf adj.all:continuous 2
+d: a continuous nonspatial whole or extent or succession in which no part or portion is distinct or distinguishable from adjacent parts
+hyper: history 2
+hypo: noun.Tops:time
+
+w: cosmic_time
+d: the time covered by the physical formation and development of the universe
+hyper: equinox
+hyper: sidereal_time
+hyper: solstice
+hypo: noun.Tops:time
+
+w: count_per_minute
+w: counts/minute
+d: frequency per minute
+hypo: frequence
+
+w: cradle
+d: birth of a person
+e: he was taught from the cradle never to cry
+hypo: birth
+
+w: crepuscle drf adjs.all:crepuscular
+w: crepuscule drf adjs.all:crepuscular
+w: dusk drf adjs.all:dusky 1
+w: evenfall
+w: fall 1
+w: gloam
+w: gloaming
+w: nightfall
+w: twilight
+d: the time of day immediately following sunset
+e: he loved the twilight
+e: they finished before the fall of night
+hp: eve
+hyper: night 5
+hypo: hour 1
+
+w: crime_rate
+d: the ratio of crimes in an area to the population of that area; expressed per 1000 population per year
+hypo: rate
+
+w: curfew
+d: the time that the curfew signal is sounded
+hypo: deadline
+
+w: cycle drf adj.all:cyclic 1 drf verb.change:cycle drf verb.motion:cycle 2 drf verb.motion:cycle 3
+w: rhythm drf adj.all:rhythmic
+w: round 1
+d: an interval during which a recurring sequence of events occurs
+e: the never-ending cycle of the seasons
+hypo: interval
+mp: phase 1
+
+w: dark
+w: night ant day 2 drf adjs.all:nightly
+w: nighttime
+d: the time after sunset and before sunrise while it is dark outside
+hp: 24-hour_interval
+hyper: wedding_night
+hyper: weeknight
+hypo: period
+mp: evening 2
+mp: late-night_hour
+mp: lights-out
+mp: midnight
+mp: small_hours
+
+w: data_rate
+d: the rate at which circuits or other devices operate when handling digital information
+hyper: channel_capacity
+hypo: rate
+
+w: date drf verb.cognition:date drf verb.cognition:date 1 drf verb.cognition:date 2
+w: day_of_the_month
+d: the specified day of the month
+e: what is the date today?
+hyper: birthday 1
+hyper: due_date
+hypo: 24-hour_interval
+ihypo: 6_June_1944
+
+w: date 2
+d: the present
+e: they are up to date
+e: we haven't heard from them to date
+hypo: nowadays
+
+w: date 3 drf verb.cognition:date
+d: the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred
+e: he tried to memorizes all the dates for his history class
+hyper: date_of_reference
+hypo: calendar_day
+hypo: calendar_month
+hypo: calendar_year
+
+w: date 5 drf verb.cognition:date drf verb.cognition:date 1 drf verb.cognition:date 2
+d: a particular day specified as the time something happens
+e: the date of the election is set by law
+e: we hope to get together at an early date
+e: Mother's Day is always on the same date
+hyper: future_date
+hyper: rain_date
+hyper: sell-by_date
+hypo: 24-hour_interval
+
+w: date_of_reference
+w: epoch 2
+d: (astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded
+hypo: date 3
+mt: noun.cognition:astronomy
+
+w: dawn 1 drf verb.stative:dawn 1
+d: an opening time period
+e: it was the dawn of the Roman Empire
+hypo: period
+mu: noun.communication:figure 1
+
+w: day 1
+d: a day assigned to a particular purpose or observance
+e: Mother's Day
+hyper: Admission_Day
+hyper: All_Fools'_day
+hyper: Allhallows_Eve
+hyper: American_Indian_Day
+hyper: April_14
+hyper: Arbor_Day
+hyper: Armed_Forces_Day
+hyper: Cinco_de_Mayo
+hyper: Citizenship_Day
+hyper: Davis'_Birthday
+hyper: December_31
+hyper: Father's_Day
+hyper: February_12
+hyper: February_14
+hyper: February_2
+hyper: February_22
+hyper: February_29
+hyper: First_of_May
+hyper: Flag_Day
+hyper: Inauguration_Day
+hyper: January_19
+hyper: June_23
+hyper: March_17
+hyper: March_2
+hyper: Mother's_Day
+hyper: November_5
+hyper: October_24
+hyper: Patriot's_Day
+hyper: Tet
+hyper: V-day
+hyper: Walpurgis_Night
+hyper: anniversary
+hyper: commencement_day
+hyper: election_day
+hyper: field_day
+hyper: field_day 2
+hyper: holiday 1
+hyper: ides
+hyper: market_day
+hyper: payday
+hyper: rag_day
+hyper: red-letter_day
+hyper: saint's_day
+hyper: school_day
+hyper: speech_day
+hyper: washday
+hyper: wedding_day
+hypo: calendar_day
+
+w: day 2 ant night
+w: daylight
+w: daytime
+d: the time after sunrise and before sunset while it is light outside
+e: the dawn turned night into day
+e: it is easier to make the repairs in the daytime
+hp: 24-hour_interval
+hyper: afternoon
+hyper: eve
+hyper: midafternoon
+hypo: period
+mp: forenoon
+
+w: day 3
+d: some point or period in time
+e: it should arrive any day now
+e: after that day she never trusted him again
+e: those were the days
+e: these days it is not unusual
+hyper: Day_of_Judgement
+hyper: off-day
+hypo: time
+
+w: day 4
+d: the recurring hours when you are not sleeping (especially those when you are working)
+e: my day began early this morning
+e: it was a busy day on the stock exchange
+e: she called it a day and went to bed
+hyper: workday
+hypo: work_time
+
+w: day 5
+d: an era of existence or influence
+e: in the day of the dinosaurs
+e: in the days of the Roman Empire
+e: in the days of sailing ships
+e: he was a successful pianist in his day
+hypo: epoch
+
+w: day 6
+w: sidereal_day
+d: the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day
+hypo: sidereal_time
+hypo: time_unit
+
+w: day 7
+d: the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis
+e: how long is a day on Jupiter?
+hyper: lunar_day
+hypo: period
+
+w: day_of_rest
+w: rest_day ant workday 1
+d: a day set aside for rest
+hyper: Dominicus
+hyper: Sabbath
+hypo: day_of_the_week
+
+w: day_of_the_week
+d: any one of the seven days in a week
+hp: hebdomad
+hyper: day_of_rest
+hyper: weekday
+hypo: calendar_day
+
+w: day_off
+d: a day when you are not required to work
+e: Thursday is his day off
+hypo: time_off
+
+w: day_shift
+d: the work shift during the day (as 8 a.m. to 4 p.m.)
+hypo: duty_period
+
+w: daylight-saving_time
+w: daylight-savings_time
+w: daylight_saving
+w: daylight_savings
+d: time during which clocks are set one hour ahead of local standard time; widely adopted during summer to provide extra daylight in the evenings
+hypo: noun.Tops:time
+
+w: days
+w: years 2
+d: the time during which someone's life continues
+e: the monarch's last days
+e: in his final years
+hypo: life 2
+
+w: dead
+d: a time when coldness (or some other quality associated with death) is intense
+e: the dead of winter
+hypo: time
+
+w: dead_air
+d: an inadvertent interruption in a broadcast during which there is no sound
+hypo: break
+
+w: deadline
+d: the point in time at which something must be completed
+hyper: curfew
+hypo: point
+
+w: death ant birth drf verb.change:die 1
+w: demise
+w: dying drf verb.change:die 1
+d: the time when something ends
+e: it was the death of all his plans
+e: a dying of old hopes
+hp: life
+hyper: grave
+hypo: end
+
+w: death 1 drf verb.change:die drf verb.perception:die
+w: last 1
+d: the time at which life ends; continuing until dead
+e: she stayed until his death
+e: a struggle to the last
+hypo: end
+
+w: death_rate
+w: deathrate
+w: fatality_rate
+w: mortality
+w: mortality_rate
+d: the ratio of deaths in an area to the population of that area; expressed per 1000 per year
+hyper: infant_deathrate
+hyper: neonatal_mortality
+hypo: rate
+
+w: deathbed
+d: the last few hours before death
+hypo: time_of_life
+
+w: decade
+w: decennary
+w: decennium
+d: a period of 10 years
+hp: century
+hyper: 1530s
+hyper: 1750s
+hyper: 1760s
+hyper: 1770s
+hyper: 1780s
+hyper: 1790s
+hyper: 1820s
+hyper: 1830s
+hyper: 1840s
+hyper: 1850s
+hyper: 1860s
+hyper: 1870s
+hyper: 1880s
+hyper: 1890s
+hyper: 1900s
+hyper: 1920s
+hyper: 1930s
+hyper: 1940s
+hyper: 1950s
+hyper: 1960s
+hyper: 1970s
+hyper: 1980s
+hyper: 1990s
+hypo: period
+mp: twelvemonth
+
+w: deceleration ant acceleration
+d: (physics) a rate of decrease in velocity
+hypo: rate
+mt: noun.cognition:natural_philosophy
+
+w: deep drf adjs.all:deep 12
+d: the central and most intense or profound part
+e: in the deep of night
+e: in the deep of winter
+hypo: middle
+
+w: delay drf verb.change:delay 5 drf verb.stative:delay
+w: hold drf verb.motion:hold 5 drf verb.stative:hold 12
+w: postponement
+w: time_lag
+w: wait drf verb.stative:wait 1
+d: time during which some action is awaited
+e: instant replay caused too long a delay
+e: he ordered a hold in the action
+hyper: extension
+hyper: moratorium
+hyper: retardation
+hypo: break
+
+w: departure_time
+w: time_of_departure
+d: the time at which a public conveyance is scheduled to depart from a given point of origin
+hyper: checkout
+hypo: point
+
+w: diamond_jubilee
+d: an anniversary celebrating the passage of 60 years
+hypo: jubilee
+
+w: diamond_wedding
+w: diamond_wedding_anniversary
+d: the 60th wedding anniversary
+hypo: wedding_anniversary
+
+w: dinnertime
+w: suppertime
+d: the customary or habitual hour for the evening meal
+hypo: mealtime
+
+w: distance drf adjs.all:distant 2
+w: space drf verb.motion:space
+d: the interval between two times
+e: the distance from birth to death
+e: it all happened in the space of 10 minutes
+hypo: interval
+
+w: distance 1 drf adj.all:distant 1 drf adjs.all:distant 2
+d: a remote point in time
+e: if that happens it will be at some distance in the future
+e: at a distance of ten years he had forgotten many of the details
+hypo: point
+
+w: dogwatch
+d: either of two short watches: from 4-6 pm or 6-8 pm
+hypo: watch
+
+w: dose_rate
+d: the quantity of radiation absorbed per unit time
+hypo: rate
+
+w: dotage
+w: second_childhood
+w: senility drf adjs.all:senile
+d: mental infirmity as a consequence of old age; sometimes shown by foolish infatuations
+hypo: age 1
+
+w: double_time
+d: a fast marching pace (180 steps/min) or slow jog
+hypo: gait
+
+w: downtime ant uptime
+d: a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)
+hypo: period
+
+w: drinking_age
+d: the age at which is legal for a person to buy alcoholic beverages
+hp: adulthood
+hypo: age
+
+w: drought
+w: drouth
+d: a prolonged shortage
+e: when England defeated Pakistan it ended a ten-year drought
+hypo: period
+
+w: dry_season ant rainy_season
+d: one of the two seasons in tropical climates
+hypo: season
+
+w: due_date
+w: maturity 1
+w: maturity_date
+d: the date on which an obligation must be repaid
+hypo: date
+
+w: duple_time
+d: musical time with two beats in each bar
+hypo: musical_time
+
+w: duty_period
+w: shift
+w: work_shift
+d: the time period during which you are at work
+hp: workday
+hyper: day_shift
+hyper: evening_shift
+hyper: go
+hyper: graveyard_shift
+hyper: split_shift
+hyper: trick
+hyper: watch
+hypo: hours
+
+w: duty_tour
+w: enlistment drf verb.competition:enlist drf verb.competition:enlist 1
+w: hitch
+w: term_of_enlistment
+w: tour 1
+w: tour_of_duty
+d: a period of time spent in military service
+hypo: period
+
+w: early-morning_hour
+d: an hour early in the morning
+hp: forenoon
+hypo: hour 1
+
+w: early_days
+w: youth 1
+d: an early period of development
+e: during the youth of the project
+hypo: period
+
+w: eighties
+w: mid-eighties
+d: the time of life between 80 and 90
+hp: age 1
+hypo: time_of_life
+
+w: elapsed_time
+d: the time that elapses while some event is occurring
+hyper: OWLT
+hyper: RTLT
+hypo: period
+
+w: election_day
+w: polling_day
+d: the day appointed for an election; in the United States it is the 1st Tuesday after the 1st Monday in November
+hypo: day 1
+
+w: eleventh_hour
+w: last_minute
+d: the latest possible moment
+e: money became available at the eleventh hour
+e: at the last minute the government changed the rules
+hypo: instant
+
+w: embolism
+w: intercalation
+d: an insertion into a calendar
+hp: calendar
+hypo: interval
+
+w: end ant beginning ant middle drf verb.change:end 1 drf verb.creation:end 13 drf verb.stative:end drf verb.stative:end 1
+w: ending drf verb.stative:end 1
+d: the point in time at which something ends
+e: the end of the year
+e: the ending of warranty period
+hyper: cease
+hyper: close
+hyper: death
+hyper: death 1
+hyper: expiration
+hyper: fag_end
+hyper: fin_de_siecle
+hyper: last_gasp
+hyper: limit
+hyper: period 4
+hyper: year-end
+hypo: point
+
+w: entr'acte
+d: the interlude between two acts of a play
+hypo: interlude
+
+w: ephemera drf adjs.all:ephemeral
+d: something transitory; lasting a day
+hypo: time
+
+w: episcopate
+d: the term of office of a bishop
+hypo: incumbency
+
+w: epoch drf adjs.all:epochal
+w: era
+d: a period marked by distinctive character or reckoned from a fixed point or event
+hyper: age 2
+hyper: day 5
+hyper: modern_era
+hypo: period
+ihypo: Caliphate
+ihypo: Christian_era
+
+w: epoch 1
+d: a unit of geological time that is a subdivision of a period and is itself divided into ages
+hp: geological_period
+hypo: geologic_time
+ihypo: Eocene
+ihypo: Glacial_epoch
+ihypo: Holocene
+ihypo: Miocene
+ihypo: Oligocene
+ihypo: Paleocene
+ihypo: Pliocene
+
+w: equinox drf adj.pert:equinoctial
+d: either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length
+hyper: March_equinox
+hyper: September_equinox
+hypo: cosmic_time
+
+w: era 1
+w: geological_era
+d: a major division of geological time; an era is usually divided into two or more periods
+hp: aeon 1
+hypo: geologic_time
+ihypo: Age_of_Mammals
+ihypo: Age_of_Reptiles
+ihypo: Paleozoic
+mp: geological_period
+
+w: escape_velocity
+d: the minimum velocity needed to escape a gravitational field
+hypo: speed
+
+w: eternity
+w: infinity drf adj.all:infinite
+d: time without end
+hyper: alpha_and_omega
+hypo: noun.Tops:time
+
+w: eternity 1 drf adjs.all:eternal 1
+d: a seemingly endless time interval (waiting)
+hypo: interval
+
+w: eve
+w: even
+w: evening
+w: eventide
+d: the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)
+e: he enjoyed the evening light across the lake
+hyper: guest_night
+hypo: day 2
+mp: crepuscle
+mp: sundown
+
+w: eve 1
+d: the day before
+e: he always arrives on the eve of her departure
+hypo: 24-hour_interval
+
+w: eve 2
+d: the period immediately before something
+e: on the eve of the French Revolution
+hypo: period
+
+w: evening 1
+d: a later concluding time period
+e: it was the evening of the Roman Empire
+hypo: period
+mu: noun.communication:figure 1
+
+w: evening 2
+d: the early part of night (from dinner until bedtime) spent in a special way
+e: an evening at the opera
+hp: dark
+hypo: period
+
+w: evening_shift
+w: swing_shift
+d: the work shift during the evening (as 4 p.m. to midnight)
+hypo: duty_period
+
+w: evensong
+w: vespers
+d: the sixth of the seven canonical hours of the divine office; early evening; now often made a public service on Sundays
+hypo: canonical_hour
+
+w: exhibition_season
+d: the time before the regular games begin when football or baseball teams play practice games
+hypo: season 2
+
+w: expiration drf verb.stative:expire
+w: expiry
+w: termination
+d: a coming to an end of a contract period
+e: the expiry of his driver's license
+hypo: end
+
+w: extended_time_scale
+w: slow_time_scale
+d: (simulation) the time scale used in data processing when the time-scale factor is greater than one
+hypo: time_scale
+mt: noun.cognition:computer_simulation
+
+w: extension
+d: a mutually agreed delay in the date set for the completion of a job or payment of a debt
+e: they applied for an extension of the loan
+hypo: delay
+
+w: extra_innings
+d: overtime play until one team is ahead at the end of an inning; e.g. baseball
+hypo: extra_time
+
+w: extra_time
+w: overtime ant regulation_time
+d: playing time beyond regulation, to break a tie
+hp: noun.act:athletic_game
+hyper: extra_innings
+hyper: overtime_period
+hyper: sudden_death
+hyper: tiebreaker
+hypo: period
+
+w: face_time
+d: work time spent at the location of or in the presence of other people
+e: instead of working on the problem at home he devoted face time to it at the office
+hypo: work_time
+
+w: fag_end
+w: tail
+w: tail_end
+d: the time of the last part of something
+e: the fag end of this crisis-ridden century
+e: the tail of the storm
+hypo: end
+
+w: fast_day
+d: a day designated for fasting
+hyper: major_fast_day
+hyper: minor_fast_day
+hypo: holy_day 1
+
+w: fast_time_scale
+d: (simulation) the time scale used in data processing when the time-scale factor is less than one
+hypo: time_scale
+mt: noun.cognition:computer_simulation
+
+w: feast_day
+w: fete_day
+d: a day designated for feasting
+hp: church_festival
+hyper: Christmas
+hyper: Circumcision
+hyper: Feast_of_Sacrifice
+hyper: Id_al-Fitr
+hyper: Jewish_New_Year
+hyper: Thanksgiving
+hyper: movable_feast
+hypo: holiday 1
+
+w: femoral_pulse
+d: pulse of the femoral artery (felt in the groin)
+hypo: heart_rate
+
+w: femtosecond
+d: one quadrillionth (10^-15) of a second; one thousandth of a picosecond
+hp: picosecond
+hypo: time_unit
+mp: attosecond
+
+w: feria drf adj.pert:ferial
+d: a weekday on which no festival or holiday is celebrated
+e: in the middle ages feria was used with a prefixed ordinal number to designate the day of the week, so `secunda feria' meant Monday, but Sunday and Saturday were always called by their names, Dominicus and Sabbatum, and so feria came to mean an ordinary weekday
+hypo: weekday
+
+w: fertile_period
+w: fertile_phase
+d: the time in the menstrual cycle when fertilization is most likely to be possible (7 days before to 7 days after ovulation)
+hp: menstrual_cycle
+hypo: phase
+
+w: festival
+d: a day or period of time set aside for feasting and celebration
+hyper: church_festival
+hypo: period
+
+w: field_day
+d: a day for outdoor athletic competition
+hypo: day 1
+
+w: field_day 1
+w: outing
+w: picnic
+d: a day devoted to an outdoor social gathering
+hypo: holiday
+
+w: field_day 2
+d: (military) a day for military exercises and display
+hypo: day 1
+mt: noun.group:armed_forces
+
+w: field_day 3
+d: a time of unusual pleasure and success
+hypo: period
+
+w: fifties
+w: mid-fifties
+d: the time of life between 50 and 60
+hp: adulthood
+hypo: time_of_life
+
+w: fin_de_siecle
+d: the end of a century, especially the 19th century
+hypo: end
+mu: noun.communication:French
+
+w: final_period
+d: the final division into which the play of a game is divided
+hp: period_of_play
+hypo: noun.cognition:division
+
+w: financial_year
+w: fiscal_year
+d: any accounting period of 12 months
+hypo: twelvemonth
+
+w: first_half
+d: the first of two halves of play
+hypo: half
+
+w: first_period
+d: the first division into which the play of a game is divided
+hp: period_of_play
+hypo: noun.cognition:division
+
+w: first_quarter
+d: the first fourth of the Moon's period of revolution around the Earth
+hypo: half-moon
+
+w: first_trimester
+d: time period extending from the first day of the last menstrual period through 12 weeks of gestation
+hypo: trimester
+
+w: fishing_season
+d: the season during which it is legal to catch fish
+hypo: season 2
+
+w: float
+d: the time interval between the deposit of a check in a bank and its payment
+hypo: interval
+
+w: flow drf verb.motion:flow drf verb.motion:flow 2 drf verb.stative:flow
+w: flow_rate
+w: rate_of_flow
+d: the amount of fluid that flows in a given time
+hyper: cardiac_output
+hypo: rate
+
+w: flux
+d: the rate of flow of energy or particles across a given surface
+hyper: neutron_flux
+hyper: radiant_flux
+hypo: rate
+
+w: football_season
+d: the season when football is played
+hypo: season 2
+
+w: forenoon
+w: morn
+w: morning
+w: morning_time
+d: the time period between dawn and noon
+e: I spent the morning running errands
+hp: day 2
+hypo: period
+mp: early-morning_hour
+
+w: forties
+w: mid-forties
+d: the time of life between 40 and 50
+hp: adulthood
+hypo: time_of_life
+
+w: fortnight drf adjs.all:fortnightly
+w: two_weeks
+d: a period of fourteen consecutive days
+e: most major tennis tournaments last a fortnight
+hypo: period
+
+w: fourth_dimension
+w: time 4
+d: the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event
+hypo: noun.attribute:dimension
+
+w: frame
+w: inning
+d: (baseball) one of nine divisions of play during which each team has a turn at bat
+hp: period_of_play
+hypo: noun.cognition:division
+mp: bottom
+mp: top
+mt: noun.act:ball 1
+
+w: free_time
+w: spare_time
+d: time available for hobbies and other activities that you enjoy
+hypo: time_off
+
+w: frequence drf adj.all:frequent drf adjs.all:frequent
+w: frequency
+w: oftenness
+d: the number of occurrences within a given time period
+e: the frequency of modulation was 40 cycles per second
+e: the frequency of his seizures increased as he grew older
+hyper: noun.attribute:audio
+hyper: noun.attribute:infrared
+hyper: noun.attribute:radio_frequency
+hyper: noun.quantity:wave_number
+hyper: attendance
+hyper: count_per_minute
+hyper: sampling_frequency
+hypo: rate
+
+w: full
+w: full-of-the-moon
+w: full_moon
+w: full_phase_of_the_moon
+d: the time when the Moon is fully illuminated
+e: the moon is at the full
+hp: month
+hyper: harvest_moon
+hypo: phase_of_the_moon
+
+w: full_term
+w: term 1
+d: the end of gestation or point at which birth is imminent
+e: a healthy baby born at full term
+hp: gestation
+hypo: point
+
+w: furlough drf verb.communication:furlough
+d: a temporary leave of absence from military duty
+hypo: leave
+
+w: future ant past
+w: futurity drf adj.all:future drf adjs.all:future 1
+w: hereafter
+w: time_to_come
+d: the time yet to come
+hyper: by-and-by
+hyper: kingdom_come
+hyper: manana
+hyper: offing
+hyper: tomorrow
+hypo: noun.Tops:time
+
+w: future_date
+d: a particular day in the future that is specified as the time something will happen
+hypo: date 5
+
+w: gait
+w: pace drf verb.change:pace drf verb.motion:pace drf verb.motion:pace 1
+d: the rate of moving (especially walking or running)
+hyper: double_time
+hyper: quick_time
+hypo: rate
+
+w: game
+d: (tennis) a division of play during which one player serves
+hp: set
+hypo: noun.cognition:division
+mt: noun.act:lawn_tennis
+
+w: generation
+d: the normal time between successive generations
+e: they had to wait a generation for that prejudice to fade
+hypo: period
+
+w: generation 1 drf adj.pert:generational drf verb.creation:generate
+d: a stage of technological development or innovation
+e: the third generation of computers
+hypo: phase
+
+w: genital_phase
+w: genital_stage
+d: (psychoanalysis) the fifth sexual and social stage in a person's development occurring during adolescence; interest focuses on sexual activity
+hp: adolescence
+hypo: phase
+mt: noun.act:analysis 1
+
+w: geologic_time
+w: geological_time
+d: the time of the physical formation and development of the earth (especially prior to human history)
+hyper: aeon 1
+hyper: epoch 1
+hyper: era 1
+hyper: geological_period
+hypo: noun.Tops:time
+
+w: geological_period
+w: period 3
+d: a unit of geological time during which a system of rocks formed
+e: ganoid fishes swarmed during the earlier geological periods
+hp: era 1
+hyper: glacial_epoch 1
+hypo: geologic_time
+ihypo: Age_of_Fishes
+ihypo: Age_of_Man
+ihypo: Cambrian
+ihypo: Carboniferous
+ihypo: Cretaceous
+ihypo: Jurassic
+ihypo: Lower_Carboniferous
+ihypo: Ordovician
+ihypo: Pennsylvanian
+ihypo: Permian
+ihypo: Silurian
+ihypo: Tertiary
+ihypo: Triassic
+mp: epoch 1
+
+w: gestation drf adj.pert:gestational drf verb.body:gestate
+w: gestation_period
+d: the period during which an embryo develops (about 266 days in humans)
+hypo: biological_time
+mp: full_term
+mp: midterm 1
+mp: trimester
+
+w: girlhood drf noun.person:girl drf noun.person:girl 2
+w: maidenhood drf noun.person:maiden
+w: maidhood drf noun.person:maid
+d: the childhood of a girl
+hypo: childhood
+
+w: glacial_epoch 1
+w: glacial_period
+w: ice_age
+d: any period of time during which glaciers covered a large part of the earth's surface
+e: the most recent ice age was during the Pleistocene
+hp: prehistoric_culture
+hypo: geological_period
+
+w: go drf verb.competition:go
+w: spell
+w: tour
+w: turn 1
+d: a time period for working (after which you will be relieved by someone else)
+e: it's my go
+e: a spell of work
+hypo: duty_period
+
+w: golden_age 1
+d: any period (sometimes imaginary) of great peace and prosperity and happiness
+hypo: age 2
+
+w: golden_age 2
+d: a time period when some activity or skill was at its peak
+e: it was the golden age of cinema
+hypo: bloom 1
+
+w: golden_wedding_anniversary
+d: the 50th wedding anniversary
+hypo: wedding_anniversary
+
+w: golden_years
+d: the time of life after retirement from active work
+hypo: time_of_life
+
+w: grace
+w: grace_period
+d: a period of time past the deadline for fulfilling an obligation during which a penalty that would be imposed for being late is waived, especially an extended period granted as a special favor
+e: The payment had originally been due on April 1 but we had a grace period which expired in June.
+hypo: period
+
+w: grave
+d: death of a person
+e: he went to his grave without forgiving me
+e: from cradle to grave
+hypo: death
+
+w: graveyard_shift
+w: night_shift
+d: the work shift during the night (as midnight to 8 a.m.)
+hypo: duty_period
+
+w: graveyard_watch
+w: middle_watch
+w: midwatch
+w: night_watch
+d: a watch during the night (as from midnight to 8 a.m.)
+hypo: watch
+
+w: groundspeed
+d: the speed of an aircraft relative to the ground
+hypo: speed
+
+w: growing_season
+d: the season during which a crop grows best
+hypo: season 2
+
+w: growth_rate
+w: rate_of_growth
+d: the rate of increase in size per unit time
+hyper: isometry
+hypo: rate
+
+w: guest_night
+d: an evening when members of a club or college can bring their friends as guests
+hypo: eve
+mr: noun.location:Britain
+
+w: half
+d: one of two divisions into which some games or performances are divided: the two divisions are separated by an interval
+hp: noun.act:basketball
+hp: noun.act:football
+hp: period_of_play
+hyper: first_half
+hyper: last_half
+hypo: noun.cognition:division
+
+w: half-century
+d: a period of 50 years
+hp: century
+hypo: period
+
+w: half-holiday
+d: a day on which half is free from work or duty
+hypo: holiday 1
+
+w: half-life
+w: half_life
+d: the time required for something to fall to half its initial value (in particular, the time for half the atoms in a radioactive substance to disintegrate)
+hypo: period
+
+w: half-moon
+d: the time at which the Moon is at first or last quarter when half its face is illuminated
+hp: month
+hyper: first_quarter
+hyper: last_quarter
+hypo: phase_of_the_moon
+
+w: half-term
+d: a short vacation about halfway through a school term
+e: he came to visit at half-term
+hypo: holiday
+mr: noun.location:Britain
+
+w: halftime
+d: an intermission between the first and second half of a game
+hypo: break
+
+w: happy_hour
+d: the time of day when a bar sells alcoholic drinks at a reduced price
+hypo: hour 1
+
+w: hard_time
+d: a term served in a maximum security prison
+hypo: prison_term
+
+w: hard_times
+d: a time of difficulty
+hypo: time
+
+w: harvest_moon
+d: the full moon nearest the September equinox
+hypo: full
+
+w: heart_rate
+w: pulse drf verb.motion:pulsate drf verb.motion:pulse
+w: pulse_rate
+d: the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health
+hyper: femoral_pulse
+hyper: radial_pulse
+hypo: noun.state:vital_sign
+hypo: rate
+
+w: hebdomad drf adjs.all:hebdomadal drf adjs.all:hebdomadary
+w: week drf adjs.all:weekly
+d: any period of seven consecutive days
+e: it rained for a week
+hyper: Holy_Week
+hyper: rag
+hyper: shibah
+hyper: week_from_Monday
+hypo: period
+mp: calendar_day
+mp: day_of_the_week
+mp: weekend
+
+w: here_and_now
+w: moment 2
+w: present_moment
+d: at this time
+e: the disappointments of the here and now
+e: she is studying at the moment
+hypo: nowadays
+
+w: high_noon
+w: midday
+w: noon
+w: noonday
+w: noontide
+w: twelve_noon
+d: the middle of the day
+hp: 24-hour_interval
+hypo: hour 1
+
+w: high_season ant off-season
+w: peak_season
+d: the season when travel is most active and rates are highest
+e: they traveled to Europe in high season
+hypo: season 2
+
+w: high_time
+d: the latest possible moment
+e: it is high time you went to work
+hypo: time 6
+
+w: history drf adjs.all:historic 1
+d: the aggregate of past events
+e: a critical time in the school's history
+hypo: past
+mp: Dark_Ages
+mp: Renaissance
+mp: age 2
+mp: antiquity
+
+w: history 2
+d: the continuum of events occurring in succession leading from the past to the present and even into the future
+e: all of human history
+hypo: continuum
+
+w: hockey_season
+d: the season when hockey is played
+hypo: season 2
+
+w: holiday drf verb.stative:holiday
+w: vacation drf noun.person:vacationist drf verb.stative:vacation
+d: leisure time away from work devoted to rest or pleasure
+e: we get two weeks of vacation every summer
+e: we took a short holiday in Puerto Rico
+hyper: field_day 1
+hyper: half-term
+hyper: honeymoon
+hyper: paid_vacation
+hyper: vac
+hypo: leisure
+
+w: holiday 1
+d: a day on which work is suspended by law or custom
+e: no mail is delivered on federal holidays
+e: it's a good thing that New Year's was a holiday because everyone had a hangover
+hyper: Christmas_Eve
+hyper: Mesasamkranti
+hyper: Poppy_Day
+hyper: Ramanavami
+hyper: feast_day
+hyper: half-holiday
+hyper: holy_day 1
+hyper: legal_holiday
+hypo: day 1
+
+w: holiday_season
+d: a time when many people take holidays
+hypo: season 2
+
+w: holy_day 1
+w: religious_holiday
+d: a day specified for religious observance
+hp: Christian_year
+hyper: Christian_holy_day
+hyper: Dormition
+hyper: Jewish_holy_day
+hyper: fast_day
+hypo: holiday 1
+
+w: holy_day_of_obligation
+d: a day when Catholics must attend Mass and refrain from servile work, and Episcopalians must take Communion
+hyper: All_Saints'_Day
+hyper: Ascension
+hyper: Assumption
+hyper: Christmas
+hyper: December_8
+hyper: January_1 1
+hypo: Christian_holy_day
+
+w: honeymoon drf verb.stative:honeymoon
+d: a holiday taken by a newly married couple
+hypo: holiday
+
+w: honeymoon 1
+d: the early (usually calm and harmonious) period of a relationship; business or political
+hypo: period
+
+w: hospitalization drf verb.possession:hospitalize
+d: a period of time when you are confined to a hospital
+e: now they try to shorten the patient's hospitalization
+hypo: period
+
+w: hot_spell
+d: a spell of hot weather
+hypo: patch
+
+w: hour 1 drf adj.pert:horary
+w: time_of_day
+d: clock time
+e: the hour is getting late
+hyper: aurora
+hyper: bedtime
+hyper: canonical_hour
+hyper: closing_time
+hyper: crepuscle
+hyper: early-morning_hour
+hyper: happy_hour
+hyper: high_noon
+hyper: late-night_hour
+hyper: mealtime
+hyper: midnight
+hyper: none
+hyper: rush_hour
+hyper: small_hours
+hyper: sundown
+hyper: zero_hour
+hypo: clock_time
+
+w: hour 2
+d: a special and memorable period
+e: it was their finest hour
+hypo: period
+
+w: hours
+d: a period of time assigned for work
+e: they work long hours
+hyper: duty_period
+hypo: work_time
+
+w: hours 1
+d: an indefinite period of time
+e: they talked for hours
+hypo: period
+
+w: hunting_season
+d: the season during which it is legal to kill a particular species
+hypo: season 2
+
+w: hypervelocity
+d: excessive velocity
+e: the meteorites struck the earth with hypervelocity impacts
+hypo: speed
+
+w: ides
+d: in the Roman calendar: the 15th of March or May or July or October or the 13th of any other month
+hypo: day 1
+
+w: immortality 1
+d: perpetual life after death
+hypo: afterlife
+
+w: in_time
+d: in the correct rhythm
+e: the dancers moved in time with the music
+hypo: musical_time
+
+w: incarnation
+d: time passed in a particular bodily form
+e: he believes that his life will be better in his next incarnation
+hypo: time
+
+w: incipience drf adjs.all:incipient
+w: incipiency drf adjs.all:incipient
+d: beginning to exist or to be apparent
+e: he placed the incipience of democratic faith at around 1850
+e: it is designed to arrest monopolies in their incipiency
+hypo: beginning
+
+w: incubation drf verb.change:incubate 2
+d: (pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear
+hp: noun.state:infection
+hypo: phase
+mt: noun.cognition:pathology
+
+w: incubation_period
+d: the period between infection and the appearance of symptoms of the disease
+hypo: period
+
+w: incumbency drf adjs.all:incumbent 1
+w: tenure drf verb.social:tenure
+w: term_of_office
+d: the term during which some position is held
+hyper: administration
+hyper: episcopate
+hyper: vice-presidency
+hypo: term
+
+w: indiction
+d: a 15-year cycle used as a chronological unit in ancient Rome and adopted in some medieval kingdoms
+hypo: period
+
+w: infant_deathrate
+w: infant_mortality
+w: infant_mortality_rate
+d: the death rate during the first year of life
+hypo: death_rate
+
+w: inflation_rate
+w: rate_of_inflation
+d: the rate of change of prices (as indicated by a price index) calculated on a monthly or annual basis
+hypo: rate
+
+w: information_age
+d: a period beginning in the last quarter of the 20th century when information became easily accessible through publications and through the manipulation of information by computers and computer networks
+hypo: modern_era
+
+w: instant drf adjs.all:instantaneous
+w: minute 2
+w: moment
+w: second 2
+d: a particular point in time
+e: the moment he arrived the party began
+hyper: noun.communication:climax
+hyper: eleventh_hour
+hyper: moment_of_truth
+hyper: moment_of_truth 1
+hyper: pinpoint
+hyper: psychological_moment
+hyper: time 6
+hypo: point
+
+w: interim
+w: lag
+w: meantime
+w: meanwhile
+d: the time between one event, process, or period and another
+e: meanwhile the socialists are running the government
+hyper: interregnum
+hypo: interval
+
+w: interlude
+d: an intervening period or episode
+hyper: entr'acte
+hypo: interval
+
+w: interregnum
+d: the time between two reigns, governments, etc.
+hypo: interim
+
+w: interval
+w: time_interval
+d: a definite length of time marked off by two instants
+hyper: absence
+hyper: access_time
+hyper: break
+hyper: cycle
+hyper: distance
+hyper: embolism
+hyper: eternity 1
+hyper: float
+hyper: interim
+hyper: interlude
+hyper: latency
+hyper: latency 1
+hyper: latent_period
+hyper: lead_time
+hyper: lunitidal_interval
+hyper: period 2
+hyper: processing_time
+hyper: seek_time
+hyper: slot
+hyper: time_constant
+hypo: noun.Tops:amount
+
+w: iron_age
+d: (classical mythology) the last and worst age of the world
+hypo: period
+mt: noun.group:classical_mythology
+
+w: isometry
+d: the growth rates in different parts of a growing organism are the same
+hypo: growth_rate
+mt: noun.process:development 1
+
+w: jerk
+d: (mechanics) the rate of change of acceleration
+hypo: rate
+mt: noun.cognition:mechanics
+
+w: jubilee drf verb.social:jubilate
+d: a special anniversary (or the celebration of it)
+hyper: diamond_jubilee
+hyper: silver_jubilee
+hypo: anniversary
+
+w: kHz
+w: kc
+w: kilocycle
+w: kilocycle_per_second
+w: kilohertz
+d: one thousand periods per second
+hp: MHz
+hypo: rate
+mp: Hz
+
+w: kilometers_per_hour
+w: kilometres_per_hour mr noun.location:Britain mr noun.location:Canada
+w: km/h
+w: kph
+d: the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
+hypo: rate
+
+w: kingdom_come
+d: the end of time
+e: you can wet the bed till kingdom come, for all I care
+hypo: future
+
+w: kingdom_come 1
+d: the next world
+e: he nearly blew us to kingdom come
+hypo: afterlife
+
+w: kip drf verb.body:kip
+d: sleep
+e: roused him from his kip
+hypo: nap
+mr: noun.location:Britain
+
+w: knot
+d: (of ships and wind) a unit of speed equal to one nautical mile per hour or about 1.15 statute miles per hour
+hypo: rate
+
+w: lactation drf verb.consumption:lactate
+d: the period following birth during which milk is secreted
+e: lactation normally continues until weaning
+hypo: period
+
+w: lapse drf verb.change:lapse 1 drf verb.motion:lapse drf verb.possession:lapse
+d: a break or intermission in the occurrence of something
+e: a lapse of three weeks between letters
+hypo: break
+
+w: last_gasp
+d: the point of death or exhaustion or completion
+e: the last gasp of the cold war
+hypo: end
+
+w: last_half
+w: second_half
+d: the second of two halves of play
+hypo: half
+
+w: last_quarter
+d: the last fourth of the Moon's period of revolution around the Earth
+hypo: half-moon
+
+w: late-night_hour
+d: the latter part of night
+hp: dark
+hypo: hour 1
+
+w: latency
+w: latent_period 1
+w: reaction_time
+w: response_time
+d: the time that elapses between a stimulus and the response to it
+hypo: interval
+
+w: latency 1
+w: rotational_latency
+d: (computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+hp: access_time
+hypo: interval
+mt: noun.cognition:computer_science
+
+w: latency_period
+w: latency_phase
+w: latency_stage
+d: (psychoanalysis) the fourth period (from about age 5 or 6 until puberty) during which sexual interests are supposed to be sublimated into other activities
+hp: childhood
+hypo: phase
+mt: noun.act:analysis 1
+
+w: latent_period
+d: the time that elapses before the presence of a disease is manifested by symptoms
+hypo: interval
+
+w: lead_time
+d: the time interval between the initiation and the completion of a production process
+e: the lead times for many publications can vary tremendously
+e: planning is an area where lead time can be reduced
+hypo: interval
+
+w: leap_second
+d: a second (as measured by an atomic clock) added to or subtracted from Greenwich Mean Time in order to compensate for slowing in the Earth's rotation
+hypo: s
+
+w: lease drf verb.possession:lease drf verb.possession:lease 1 drf verb.social:lease drf verb.social:lease 1
+w: term_of_a_contract
+d: the period of time during which a contract conveying property to a person is in effect
+hypo: period
+
+w: leave
+w: leave_of_absence
+d: the period of time during which you are absent from work or duty
+e: a ten day's leave to visit his mother
+hyper: compassionate_leave
+hyper: furlough
+hyper: liberty
+hyper: pass
+hyper: sabbatical
+hyper: sick_leave
+hyper: terminal_leave
+hypo: time_off
+
+w: legal_age
+w: majority ant minority drf adj.all:major 3
+d: the age at which persons are considered competent to manage their own affairs
+hp: adulthood
+hypo: age
+
+w: legal_holiday
+w: national_holiday
+w: public_holiday
+d: authorized by law and limiting work or official business
+hyper: 14_July
+hyper: Armistice_Day
+hyper: Boxing_Day
+hyper: Christmas
+hyper: Columbus_Day
+hyper: Commonwealth_Day
+hyper: Decoration_Day
+hyper: Dominion_Day
+hyper: Fourth_of_July
+hyper: January_1
+hyper: Labor_Day
+hyper: Martin_Luther_King_Day
+hyper: Presidents'_Day
+hyper: Thanksgiving
+hyper: Victoria_Day
+hyper: bank_holiday
+hypo: holiday 1
+
+w: leisure drf adjs.all:leisurely
+w: leisure_time
+d: time available for ease and relaxation
+e: his job left him little leisure
+hyper: noun.act:free_time
+hyper: holiday
+hyper: playday
+hypo: time_off
+
+w: letup drf verb.change:let_up drf verb.change:let_up 1
+w: lull drf verb.change:lull drf verb.emotion:lull drf verb.emotion:lull 1
+d: a pause during which things are calm or activities are diminished
+e: there was never a letup in the noise
+hypo: break
+
+w: liberty
+w: shore_leave
+d: leave granted to a sailor or naval officer
+hypo: leave
+
+w: life drf noun.person:lifer
+w: life-time
+w: lifespan
+w: lifetime
+d: the period during which something is functional (as between birth and death)
+e: the battery had a short life
+e: he lived a long and happy life
+hyper: afterlife
+hypo: period
+mp: age
+mp: birth
+mp: death
+mp: time_of_life
+
+w: life 1
+d: the period between birth and the present time
+e: I have known him all his life
+hypo: period
+mp: past 1
+
+w: life 2 drf noun.person:lifer
+d: the period from the present until death
+e: he appointed himself emperor for life
+hyper: days
+hypo: period
+
+w: life 3 drf noun.person:lifer
+w: life_sentence
+d: a prison term lasting as long as the prisoner lives
+e: he got life for killing the guard
+hypo: prison_term
+
+w: life_expectancy
+d: an expected time to live as calculated on the basis of statistical probabilities
+hypo: noun.cognition:anticipation 1
+
+w: lights-out
+d: a prescribed bedtime
+hp: dark
+hypo: bedtime
+
+w: limit drf verb.communication:limit
+w: terminal_point
+w: terminus_ad_quem
+d: final or latest limiting point
+hypo: end
+
+w: limitation drf verb.change:limit drf verb.change:limit 1
+d: (law) a time period after which suits cannot be brought
+e: statute of limitations
+hypo: time_limit
+mt: noun.group:jurisprudence
+
+w: long_haul
+w: long_run
+d: a period of time sufficient for factors to work themselves out
+e: in the long run we will win
+e: in the long run we will all be dead
+e: he performed well over the long haul
+hypo: period
+
+w: longueur
+d: a period of dullness or boredom (especially in a work of literature or performing art)
+hypo: continuance 2
+mt: noun.act:art
+mt: noun.communication:literature
+
+w: luminous_flux
+d: the rate of flow of light energy
+hypo: radiant_flux
+
+w: lunar_calendar
+d: a calendar based on lunar cycles
+hyper: Islamic_calendar
+hyper: Roman_calendar
+hypo: calendar
+
+w: lunar_day
+d: the period of time taken for the moon to make one full rotation on its axis (about 27.3 sidereal days)
+hypo: day 7
+
+w: lunar_month
+w: lunation
+w: moon
+w: synodic_month
+d: the period between successive new moons (29.531 days)
+hp: lunar_year
+hypo: month
+
+w: lunar_time_period
+w: tide
+d: there are usually two high and two low tides each day
+hypo: period
+
+w: lunar_year
+d: a period of 12 lunar months
+hypo: year
+mp: lunar_month
+
+w: lunch_period
+w: lunchtime
+d: the customary or habitual hour for eating lunch
+e: he observed a regular lunchtime
+hypo: mealtime
+
+w: lunisolar_calendar
+d: a calendar based on both lunar and solar cycles
+hyper: Hebrew_calendar
+hyper: Hindu_calendar
+hypo: calendar
+
+w: lunitidal_interval
+d: interval between the moon's transit of a particular meridian and the next high tide at that meridian
+hypo: interval
+
+w: lustrum
+d: a period of five years
+hypo: period
+
+w: luteal_phase
+w: secretory_phase
+d: the second half of the menstrual cycle after ovulation; the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo; if fertilization does not occur then menstrual flow begins
+hp: menstrual_cycle
+hypo: phase
+
+w: maiden
+w: maiden_over
+d: (cricket) an over in which no runs are scored
+hypo: over
+mt: noun.act:cricket
+
+w: major_fast_day
+d: one of two major fast days on the Jewish calendar
+hyper: Day_of_Atonement
+hyper: Fast_of_Ab
+hypo: fast_day
+
+w: man_hour
+w: person_hour
+d: a time unit used in industry for measuring work
+hp: workday
+hypo: 60_minutes
+
+w: manana
+d: an indefinite time in the future
+hypo: future
+
+w: market_day
+d: a fixed day for holding a public market
+hypo: day 1
+
+w: matins
+w: morning_prayer
+d: the first canonical hour; at daybreak
+hypo: canonical_hour
+
+w: meal
+d: any of the occasions for eating food that occur by custom or habit at more or less fixed times
+hypo: occasion
+
+w: mealtime
+d: the hour at which a meal is habitually or customarily eaten
+hyper: breakfast_time
+hyper: dinnertime
+hyper: lunch_period
+hypo: hour 1
+
+w: mean_solar_time
+w: mean_time
+d: (astronomy) time based on the motion of the mean sun (an imaginary sun moving uniformly along the celestial equator)
+hypo: time_unit
+mt: noun.cognition:astronomy
+
+w: meno_mosso
+d: played at reduced speed; less rapid
+hypo: pacing
+
+w: menstrual_cycle
+d: a recurring cycle (beginning at menarche and ending at menopause) in which the endometrial lining of the uterus prepares for pregnancy; if pregnancy does not occur the lining is shed at menstruation
+e: the average menstrual cycle is 28 days
+hypo: noun.event:cycle 1
+mp: fertile_period
+mp: luteal_phase
+mp: menstrual_phase
+mp: safe_period
+
+w: menstrual_phase
+d: the phase of the menstrual cycle during which the lining of the uterus is shed (the first day of menstrual flow is considered day 1 of the menstrual cycle)
+hp: menstrual_cycle
+hypo: phase
+
+w: metabolic_rate
+d: rate of metabolism; the amount of energy expended in a give period
+hyper: noun.process:BMR
+hypo: rate
+
+w: microsecond
+d: one millionth (10^-6) of a second; one thousandth of a millisecond
+hp: millisecond
+hypo: time_unit
+mp: nanosecond
+
+w: mid-April
+d: the middle part of April
+hp: Apr
+hypo: period
+
+w: mid-August
+d: the middle part of August
+hp: Aug
+hypo: period
+
+w: mid-December
+d: the middle part of December
+hp: Dec
+hypo: period
+
+w: mid-February
+d: the middle part of February
+hp: Feb
+hypo: period
+
+w: mid-January
+d: the middle part of January
+hp: Jan
+hypo: period
+
+w: mid-July
+d: the middle part of July
+hp: July
+hypo: period
+
+w: mid-June
+d: the middle part of June
+hp: June
+hypo: period
+
+w: mid-March
+d: the middle part of March
+hp: Mar
+hypo: period
+
+w: mid-May
+d: the middle part of May
+hp: May
+hypo: period
+
+w: mid-November
+d: the middle part of November
+hp: Nov
+hypo: period
+
+w: mid-October
+d: the middle part of October
+hp: Oct
+hypo: period
+
+w: mid-September
+d: the middle part of September
+hp: Sep
+hypo: period
+
+w: mid-nineties
+w: nineties
+d: the time of life between 90 and 100
+hp: age 1
+hypo: time_of_life
+
+w: mid-seventies
+w: seventies
+d: the time of life between 70 and 80
+hp: age 1
+hypo: time_of_life
+
+w: mid-sixties
+w: sixties
+d: the time of life between 60 and 70
+hp: age 1
+hypo: time_of_life
+
+w: mid-thirties
+w: thirties
+w: thirty-something
+d: the time of life between 30 and 40
+hp: adulthood
+hypo: time_of_life
+
+w: mid-twenties
+w: twenties
+d: the time of life between 20 and 30
+hp: adulthood
+hypo: time_of_life
+
+w: midafternoon
+d: the middle part of the afternoon
+hp: afternoon
+hypo: day 2
+
+w: middle ant beginning ant end
+d: time between the beginning and the end of a temporal period
+e: the middle of the war
+e: rain during the middle of April
+hyper: deep
+hypo: point
+
+w: middle_age
+d: the time of life between youth and old age (e.g., between 40 and 60 years of age)
+hp: adulthood
+hypo: time_of_life
+mp: change_of_life
+mp: climacteric 2
+
+w: midnight
+d: 12 o'clock at night; the middle of the night
+e: young children should not be allowed to stay up until midnight
+hp: dark
+hypo: hour 1
+
+w: midterm
+d: middle of an academic term or a political term in office
+hp: term
+hypo: point
+
+w: midterm 1
+d: the middle of the gestation period
+hp: gestation
+hypo: point
+
+w: midweek drf adjs.all:midweekly
+d: the middle of a week
+hp: calendar_week
+hypo: period
+
+w: midwinter
+d: the middle of winter
+hp: winter
+hypo: period
+
+w: miles_per_hour
+w: mph
+d: a speedometer reading for the momentary rate of travel
+hypo: noun.cognition:indication
+
+w: miles_per_hour 1
+w: mph 1
+d: the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
+hypo: rate
+
+w: millenary
+w: millennium drf adj.pert:millenary drf adj.pert:millennial drf adj.pert:millennian
+d: a span of 1000 years
+hypo: period
+mp: century
+
+w: millenary 2
+w: millennium 2 drf adj.pert:millenary drf adj.pert:millennial
+d: the 1000th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: millennium 1 drf adj.pert:millenary 1
+d: (New Testament) in Revelations it is foretold that those faithful to Jesus will reign with Jesus over the earth for a thousand years; the meaning of these words have been much debated; some denominations (e.g. Jehovah's Witnesses) expect it to be a thousand years of justice and peace and happiness
+hypo: noun.cognition:doctrine
+mt: noun.communication:New_Testament
+
+w: millisecond
+w: msec
+d: one thousandth (10^-3) of a second
+hp: s
+hypo: time_unit
+mp: microsecond
+
+w: min
+w: minute
+d: a unit of time equal to 60 seconds or 1/60th of an hour
+e: he ran a 4 minute mile
+hp: 60_minutes
+hypo: time_unit
+mp: s
+
+w: minor_fast_day
+d: one of five minor fast days on the Jewish calendar
+hyper: Fast_of_Esther
+hyper: Fast_of_Gedaliah
+hyper: Fast_of_Tammuz
+hyper: Fast_of_Tevet
+hyper: Fast_of_the_Firstborn
+hypo: fast_day
+
+w: minority ant majority drf adj.all:minor 3
+w: nonage
+d: any age prior to the legal age
+hypo: noun.state:legal_status
+hypo: age
+
+w: modern_era
+d: the present or recent times
+hyper: information_age
+hypo: epoch
+
+w: moment_of_truth
+d: a crucial moment on which much depends
+hypo: instant
+
+w: moment_of_truth 1
+d: the moment in a bullfight when the matador kills the bull
+hp: noun.act:bullfighting
+hypo: instant
+
+w: monsoon
+d: rainy season in southern Asia when the southwestern monsoon blows, bringing heavy rains
+hypo: rainy_season
+
+w: month drf adjs.all:monthly
+d: a time unit of approximately 30 days
+e: he was given a month to pay the bill
+hp: year
+hyper: anomalistic_month
+hyper: lunar_month
+hyper: sidereal_month
+hyper: solar_month
+hypo: time_unit
+mp: full
+mp: half-moon
+mp: new_moon
+
+w: month_of_Sundays
+d: a time perceived as long
+e: I hadn't seen him in a month of Sundays
+hypo: age 3
+mu: noun.communication:colloquialism
+
+w: moratorium
+d: a legally authorized postponement before some obligation must be discharged
+hypo: delay
+
+w: morrow
+d: the next day
+e: whenever he arrives she leaves on the morrow
+hypo: 24-hour_interval
+
+w: movable_feast
+w: moveable_feast
+d: a religious holiday that falls on different dates in different years
+hyper: Easter
+hyper: Feast_of_the_Unleavened_Bread
+hypo: feast_day
+
+w: multistage
+d: occurring in more than one stage
+hypo: period
+
+w: musical_time
+d: (music) the beat of musical rhythm
+hyper: noun.communication:beat
+hyper: common_measure
+hyper: duple_time
+hyper: in_time
+hyper: pacing
+hyper: triple_time
+hypo: noun.Tops:time
+mt: noun.communication:music
+
+w: musth
+d: an annual phase of heightened sexual excitement in the males of certain large mammals (especially elephants); is associated with discharge from a gland between the eye and ear
+e: the frenzied elephant was in musth
+hypo: phase
+
+w: muzzle_velocity
+d: the velocity of a projectile as it leaves the muzzle of a gun
+hypo: speed
+
+w: name_day
+d: the feast day of a saint whose name one bears
+hypo: saint's_day
+
+w: nanosecond
+d: one billionth (10^-9) of a second; one thousandth of a microsecond
+hp: microsecond
+hypo: time_unit
+mp: picosecond
+
+w: nap drf verb.body:nap
+w: sleep drf verb.body:sleep drf verb.stative:sleep
+d: a period of time spent sleeping
+e: he felt better after a little sleep
+e: there wasn't time for a nap
+hyper: beauty_sleep
+hyper: kip
+hypo: period
+
+w: neonatal_mortality
+w: neonatal_mortality_rate
+d: the death rate during the first 28 days of life
+hypo: death_rate
+
+w: neonatal_period
+d: the first 28 days of life
+hypo: time_of_life
+
+w: neutron_flux
+d: the rate of flow of neutrons; the number of neutrons passing through a unit area in unit time
+hypo: flux
+
+w: new_moon
+w: new_phase_of_the_moon
+d: the time at which the Moon appears as a narrow waxing crescent
+hp: month
+hypo: phase_of_the_moon
+
+w: night 1
+d: a period of ignorance or backwardness or gloom
+hypo: period
+
+w: night 2
+d: the dark part of the diurnal cycle considered a time unit
+e: three nights later he collapsed
+hypo: time_unit
+
+w: night 3
+d: the time between sunset and midnight
+e: he watched television every night
+hypo: period
+
+w: night 4
+d: the period spent sleeping
+e: I had a restless night
+hypo: period
+
+w: night 5
+d: a shortening of nightfall
+e: they worked from morning to night
+hypo: crepuscle
+
+w: nonce
+w: time_being
+d: the present occasion
+e: for the nonce
+hypo: nowadays
+
+w: none
+d: a canonical hour that is the ninth hour of the day counting from sunrise
+hypo: hour 1
+
+w: nones
+d: the fifth of the seven canonical hours; about 3 p.m.
+hypo: canonical_hour
+
+w: note_value
+w: time_value
+w: value
+d: (music) the relative duration of a musical note
+hypo: continuance 2
+mt: noun.communication:music
+
+w: noviciate
+w: novitiate
+d: the period during which you are a novice (especially in a religious order)
+hypo: period
+mt: noun.cognition:faith
+
+w: now
+d: the momentary present
+e: Now is a good time to do it
+e: it worked up to right now
+hypo: nowadays
+
+w: nowadays
+w: present drf adj.all:present 1
+d: the period of time that is happening now; any continuous stretch of time including the moment of speech
+e: that is enough for the present
+e: he lives in the present with no thought of tomorrow
+hyper: date 2
+hyper: here_and_now
+hyper: nonce
+hyper: now
+hyper: today
+hyper: tonight
+hypo: noun.Tops:time
+
+w: occasion drf verb.creation:occasion
+d: the time of a particular event
+e: on the occasion of his 60th birthday
+hyper: meal
+hypo: time 6
+
+w: occupation drf verb.possession:occupy 8 drf verb.stative:occupy 1
+d: the period of time during which a place or position or nation is occupied
+e: during the German occupation of Paris
+hypo: period
+
+w: octave
+d: a feast day and the seven days following it
+hypo: church_festival
+
+w: off-day
+d: a day when things go poorly
+e: I guess this is one of my off-days
+hypo: day 3
+
+w: off-season ant high_season
+d: the season when travel is least active and rates are lowest
+hypo: season 2
+
+w: off_year
+d: a year in which no major political elections are held
+hypo: twelvemonth
+
+w: off_year 1
+d: a year in which productivity is low or inferior
+hypo: twelvemonth
+
+w: offing
+d: the near or foreseeable future
+e: there was a wedding in the offing
+hypo: future
+
+w: old
+d: past times (especially in the phrase `in days of old')
+hypo: past
+
+w: oral_phase
+w: oral_stage
+d: (psychoanalysis) the first sexual and social stage of an infant's development; the mouth is the focus of the libido and satisfaction comes from suckling and chewing and biting
+hp: babyhood
+hypo: phase
+mt: noun.act:analysis 1
+
+w: orbit_period
+d: the time it takes to complete one full orbit around a celestial body
+e: the orbit period depends on the altitude of the satellite
+hypo: period 2
+
+w: over
+d: (cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch
+hp: period_of_play
+hyper: maiden
+hypo: noun.cognition:division
+mt: noun.act:cricket
+
+w: overtime 1
+d: work done in addition to regular working hours
+hypo: work_time
+
+w: overtime_period
+d: a period of overtime play to resolve a tie; e.g. basketball
+hypo: extra_time
+
+w: pace 1 drf verb.cognition:pace
+w: tempo
+d: the rate of some repeating event
+hyper: M.M.
+hypo: rate
+
+w: pacing
+w: tempo 1
+d: (music) the speed at which a composition is to be played
+hyper: accelerando
+hyper: allegretto
+hyper: allegro
+hyper: andante
+hyper: meno_mosso
+hyper: rubato
+hypo: musical_time
+mt: noun.communication:music
+
+w: paid_vacation
+d: a vacation from work by an employee with pay granted
+hypo: holiday
+
+w: pass
+d: (military) a written leave of absence
+e: he had a pass for three days
+hypo: leave
+mt: noun.group:armed_forces
+
+w: past ant future
+w: past_times
+w: yesteryear
+d: the time that has elapsed
+e: forget the past
+hyper: auld_langsyne
+hyper: bygone
+hyper: history
+hyper: old
+hyper: time_immemorial
+hyper: yesterday
+hyper: yore
+hypo: noun.Tops:time
+
+w: past 1
+d: a earlier period in someone's life (especially one that they have reason to keep secret)
+e: reporters dug into the candidate's past
+hp: life 1
+hypo: period
+
+w: patch
+w: piece
+w: spell 1
+w: while
+d: a period of indeterminate length (usually short) marked by some action or condition
+e: he was here for a little while
+e: I need to rest for a piece
+e: a spell of good weather
+e: a patch of bad weather
+hyper: cold_snap
+hyper: hot_spell
+hyper: snap
+hypo: time
+
+w: payday
+d: the day on which you receive pay for your work
+hypo: day 1
+
+w: peacetime
+d: a period of time during which there is no war
+hypo: period
+
+w: peculiar_velocity
+d: velocity with respect to the local standard of rest
+hypo: speed
+
+w: period
+w: period_of_time
+w: time_period
+d: an amount of time
+e: a time period of 30 years
+e: hastened the period of time of his recovery
+e: Picasso's blue period
+hyper: Golden_Age
+hyper: Indian_summer
+hyper: Olympiad
+hyper: Platonic_year
+hyper: age 3
+hyper: air_alert
+hyper: bimester
+hyper: bimillenary
+hyper: bloom 1
+hyper: bout 1
+hyper: bronze_age
+hyper: calendar_day
+hyper: calendar_month
+hyper: calendar_week
+hyper: canicular_days
+hyper: century
+hyper: clotting_time
+hyper: continuance 2
+hyper: dark
+hyper: dawn 1
+hyper: day 2
+hyper: day 7
+hyper: decade
+hyper: downtime
+hyper: drought
+hyper: duty_tour
+hyper: early_days
+hyper: elapsed_time
+hyper: epoch
+hyper: eve 2
+hyper: evening 1
+hyper: evening 2
+hyper: extra_time
+hyper: festival
+hyper: field_day 3
+hyper: forenoon
+hyper: fortnight
+hyper: generation
+hyper: grace
+hyper: half-century
+hyper: half-life
+hyper: hebdomad
+hyper: honeymoon 1
+hyper: hospitalization
+hyper: hour 2
+hyper: hours 1
+hyper: incubation_period
+hyper: indiction
+hyper: iron_age
+hyper: lactation
+hyper: lease
+hyper: life
+hyper: life 1
+hyper: life 2
+hyper: long_haul
+hyper: lunar_time_period
+hyper: lustrum
+hyper: mid-April
+hyper: mid-August
+hyper: mid-December
+hyper: mid-February
+hyper: mid-January
+hyper: mid-July
+hyper: mid-June
+hyper: mid-March
+hyper: mid-May
+hyper: mid-November
+hyper: mid-October
+hyper: mid-September
+hyper: midweek
+hyper: midwinter
+hyper: millenary
+hyper: multistage
+hyper: nap
+hyper: night 1
+hyper: night 3
+hyper: night 4
+hyper: noviciate
+hyper: occupation
+hyper: past 1
+hyper: peacetime
+hyper: phase
+hyper: phase_of_the_moon
+hyper: prehistoric_culture
+hyper: prohibition
+hyper: puerperium
+hyper: quadrennium
+hyper: quarter 2
+hyper: quarter-century
+hyper: question_time
+hyper: quinquennium
+hyper: rainy_day
+hyper: real_time
+hyper: real_time 1
+hyper: regulation_time
+hyper: reign 1
+hyper: run
+hyper: running_time
+hyper: school
+hyper: season
+hyper: season 1
+hyper: season 2
+hyper: semester 2
+hyper: shelf_life
+hyper: silly_season
+hyper: silver_age
+hyper: study_hall
+hyper: term
+hyper: test_period
+hyper: time
+hyper: time 5
+hyper: time_frame
+hyper: time_limit
+hyper: time_of_life
+hyper: time_off
+hyper: times 1
+hyper: travel_time
+hyper: trimester
+hyper: twelvemonth
+hyper: uptime
+hyper: usance
+hyper: wartime
+hyper: watch 1
+hyper: weekend
+hyper: window
+hyper: work_time
+hyper: year
+hyper: year 2
+hypo: noun.quantity:fundamental_measure
+ihypo: Bronze_Age 1
+ihypo: Eolithic
+ihypo: Epipaleolithic
+ihypo: Great_Schism
+ihypo: Iron_Age 1
+ihypo: Lower_Paleolithic
+ihypo: Middle_Paleolithic
+ihypo: Neolithic
+ihypo: Palaeolithic
+ihypo: Stone_Age
+ihypo: Upper_Paleolithic
+
+w: period 2 drf adj.all:periodical
+d: the interval taken to complete one cycle of a regularly repeating phenomenon
+hyper: orbit_period
+hypo: interval
+
+w: period 4
+d: the end or completion of something
+e: death put a period to his endeavors
+e: a change soon put a period to my tranquility
+hypo: end
+mu: noun.communication:figure 1
+
+w: period 7
+d: (ice hockey) one of three divisions into which play is divided in hockey games
+hp: period_of_play
+hypo: noun.cognition:division
+mt: noun.act:hockey 1
+
+w: period_of_play
+w: play drf verb.competition:play drf verb.competition:play 2
+w: playing_period
+d: (in games or plays or other performances) the time during which play proceeds
+e: rain stopped play in the 4th inning
+hp: noun.act:athletic_game
+hyper: noun.artifact:golf_hole
+hyper: set
+hypo: noun.Tops:amount
+mp: bout
+mp: chukka
+mp: final_period
+mp: first_period
+mp: frame
+mp: half
+mp: over
+mp: period 7
+mp: quarter 1
+mp: second_period
+mt: noun.act:game
+
+w: phallic_phase
+w: phallic_stage
+d: (psychoanalysis) the third stage in a child's development when awareness of and manipulation of the genitals is supposed to be a primary source of pleasure
+hp: childhood
+hypo: phase
+mt: noun.act:analysis 1
+
+w: phase drf verb.creation:phase
+w: stage
+d: any distinct time period in a sequence of events
+e: we are in a transitional stage in which many former ideas must be revised or rejected
+hyper: noun.process:diakinesis
+hyper: noun.process:diplotene
+hyper: noun.process:leptotene
+hyper: noun.process:pachytene
+hyper: noun.process:phase_of_cell_division
+hyper: noun.process:zygotene
+hyper: anal_phase
+hyper: apogee
+hyper: chapter
+hyper: fertile_period
+hyper: generation 1
+hyper: genital_phase
+hyper: incubation
+hyper: latency_period
+hyper: luteal_phase
+hyper: menstrual_phase
+hyper: musth
+hyper: oral_phase
+hyper: phallic_phase
+hyper: safe_period
+hyper: seedtime 1
+hypo: period
+
+w: phase 1 drf verb.change:phase
+w: phase_angle
+d: a particular point in the time of a cycle; measured from some arbitrary zero and expressed as an angle
+hp: cycle
+hypo: point
+
+w: phase_of_the_moon
+d: a time when the Moon presents a particular recurring appearance
+hyper: full
+hyper: half-moon
+hyper: new_moon
+hypo: noun.attribute:phase
+hypo: period
+
+w: picosecond
+d: one trillionth (10^-12) of a second; one thousandth of a nanosecond
+hp: nanosecond
+hypo: time_unit
+mp: femtosecond
+
+w: pinpoint
+d: a very brief moment
+e: they were strangers sharing a pinpoint of time together
+hypo: instant
+
+w: playday
+w: playtime
+d: time for play or diversion
+hypo: leisure
+
+w: point
+w: point_in_time
+d: an instant of time
+e: at that point I had to leave
+hyper: arrival_time
+hyper: beginning
+hyper: deadline
+hyper: departure_time
+hyper: distance 1
+hyper: end
+hyper: full_term
+hyper: instant
+hyper: middle
+hyper: midterm
+hyper: midterm 1
+hyper: phase 1
+hyper: run-time 1
+hyper: show_time 1
+hyper: then
+hypo: noun.Tops:amount
+
+w: prehistoric_culture
+w: prehistory drf adj.pert:prehistoric drf adjs.all:prehistoric
+d: the time during the development of human culture before the appearance of the written word
+hypo: period
+mp: Bronze_Age 1
+mp: Iron_Age 1
+mp: Stone_Age
+mp: glacial_epoch 1
+
+w: prepuberty drf adjs.all:prepubertal
+d: a period of two years immediately prior to the onset of puberty when growth and changes leading to sexual maturity occur
+hp: childhood
+hypo: time_of_life
+
+w: preseason
+d: a period prior to the beginning of the regular season which is devoted to training and preparation
+hyper: spring_training
+hypo: season 2
+
+w: press_run
+w: print_run
+d: the period that presses run to produce an issue of a newspaper
+hyper: split_run
+hypo: run
+
+w: prime
+w: prime_of_life
+d: the time of maturity when power and vigor are greatest
+hypo: adulthood
+
+w: prime 1
+d: the second canonical hour; about 6 a.m.
+hypo: canonical_hour
+
+w: prime_time
+d: the hours between 7 and 11 p.m. when the largest tv audience is available
+hypo: clock_time
+
+w: prison_term
+w: sentence drf verb.communication:sentence
+w: time 1
+d: the period of time a prisoner is imprisoned
+e: he served a prison term of 15 months
+e: his sentence was 5 to 10 years
+e: he is doing time in the county jail
+hyper: hard_time
+hyper: life 3
+hypo: term
+
+w: probation drf adjs.all:probationary drf verb.stative:probate
+d: a trial period during which an offender has time to redeem himself or herself
+hypo: test_period
+
+w: probation 1 drf adjs.all:probationary
+d: a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership
+hypo: test_period
+
+w: processing_time
+d: the time it takes to complete a prescribed procedure
+e: they increased output by decreasing processing time
+hyper: command_overhead
+hypo: interval
+
+w: prohibition drf noun.person:prohibitionist
+w: prohibition_era
+d: the period from 1920 to 1933 when the sale of alcoholic beverages was prohibited in the United States by a constitutional amendment
+hypo: period
+
+w: psychological_moment
+d: the most appropriate time for achieving a desired effect
+hypo: instant
+
+w: puberty drf adj.pert:pubertal
+w: pubescence drf adjs.all:pubescent 1
+d: the time of life when sex glands become functional
+hp: adolescence
+hypo: time_of_life
+
+w: puerperium drf adj.pert:puerperal
+d: time period following childbirth when the mother's uterus shrinks and the other functional and anatomic changes of pregnancy are resolved
+e: a perinatologist cared for her during the puerperium
+hypo: period
+
+w: quadrennium
+d: a period of four years
+hypo: period
+
+w: quarter
+d: one of four periods into which the school year is divided
+e: the fall quarter ends at Christmas
+hp: academic_year
+hypo: academic_session
+
+w: quarter 1
+d: (football, professional basketball) one of four divisions into which some games are divided
+e: both teams scored in the first quarter
+hp: period_of_play
+hypo: noun.cognition:division
+mt: noun.act:football
+mt: noun.act:professional_basketball
+
+w: quarter 2 drf adj.pert:quarterly
+d: a fourth part of a year; three months
+e: unemployment fell during the last quarter
+hypo: period
+
+w: quarter 3
+d: a unit of time equal to 15 minutes or a quarter of an hour
+e: it's a quarter til 4
+e: a quarter after 4 o'clock
+hp: 60_minutes
+hypo: time_unit
+
+w: quarter-century
+d: a period of 25 years
+hp: century
+hypo: period
+
+w: quarter_day
+d: a Christian holy day; one of four specified days when certain payments are due
+hyper: 11_November
+hyper: Annunciation
+hyper: August_1
+hyper: Candlemas
+hyper: Christmas
+hyper: June_24
+hyper: Michaelmas
+hyper: Pentecost 1
+hypo: Christian_holy_day
+mr: noun.location:Britain
+
+w: quatercentenary
+w: quatercentennial
+d: the 400th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: quattrocento
+d: the 15th century in Italian art and literature
+hp: Renaissance
+hypo: century
+
+w: question_time
+d: a period during a parliamentary session when members of British Parliament may ask questions of the ministers
+hypo: period
+mr: noun.location:Britain
+
+w: quick_time
+d: a normal marching pace of 120 steps per minute
+hypo: gait
+
+w: quincentenary
+w: quincentennial
+d: the 500th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: quinquennium
+d: a period of five years
+hypo: period
+
+w: radial_pulse
+d: pulse of the radial artery (felt in the wrist)
+hypo: heart_rate
+
+w: radial_velocity
+d: velocity along the line of sight toward or away from the observer
+hypo: speed
+
+w: radiant_flux
+d: the rate of flow of radiant energy (electromagnetic waves)
+hyper: luminous_flux
+hypo: flux
+
+w: rag
+w: rag_week
+d: a week at British universities during which side-shows and processions of floats are organized to raise money for charities
+hypo: hebdomad
+mp: rag_day
+mr: noun.location:Britain
+
+w: rag_day
+d: a day on which university students hold a rag
+hp: rag
+hypo: day 1
+mr: noun.location:Britain
+
+w: rain_date
+d: an alternative date set for some outdoor event in case it rains on the appointed date
+e: the rain date for the picnic will be the following Sunday
+hypo: date 5
+
+w: rainy_day
+d: a (future) time of financial need
+e: I am saving for a rainy day
+hypo: period
+mu: noun.communication:figure 1
+
+w: rainy_season ant dry_season
+d: one of the two seasons in tropical climates
+hyper: monsoon
+hypo: season
+
+w: rate
+d: a magnitude or frequency relative to a time unit
+e: they traveled at a rate of 55 miles per hour
+e: the rate of change was faster than expected
+hyper: ESR
+hyper: GHz
+hyper: Hz
+hyper: MHz
+hyper: THz
+hyper: acceleration
+hyper: attrition_rate
+hyper: birth_rate
+hyper: bits_per_second
+hyper: crime_rate
+hyper: data_rate
+hyper: death_rate
+hyper: deceleration
+hyper: dose_rate
+hyper: flow
+hyper: flux
+hyper: frequence
+hyper: gait
+hyper: growth_rate
+hyper: heart_rate
+hyper: inflation_rate
+hyper: jerk
+hyper: kHz
+hyper: kilometers_per_hour
+hyper: knot
+hyper: metabolic_rate
+hyper: miles_per_hour 1
+hyper: pace 1
+hyper: rate_of_respiration
+hyper: rate_of_return
+hyper: rev
+hyper: sampling_rate
+hyper: solar_constant
+hyper: spacing
+hyper: speed
+hyper: words_per_minute
+hypo: noun.relation:magnitude_relation
+
+w: rate_of_respiration
+w: respiratory_rate
+d: the rate at which a person inhales and exhales; usually measured to obtain a quick evaluation of a person's health
+hypo: noun.state:vital_sign
+hypo: rate
+
+w: rate_of_return
+d: the amount returned per unit of time expressed as a percentage of the cost
+hyper: ROI
+hypo: rate
+
+w: real_time
+d: (computer science) the time it takes for a process under computer control to occur
+hypo: period
+mt: noun.cognition:computer_science
+
+w: real_time 1
+d: the actual time that it takes a process to occur
+e: information is updated in real time
+hypo: period
+
+w: red-letter_day
+d: a memorably happy or noteworthy day (from the custom of marking holy days in red on church calendars)
+hypo: day 1
+
+w: refractory_period
+d: (neurology) the time after a neuron fires or a muscle fiber contracts during which a stimulus will not evoke a response
+hypo: biological_time
+mt: noun.cognition:neurology 1
+
+w: regency 1
+d: the period of time during which a regent governs
+hypo: rule
+
+w: regulation_time ant overtime
+d: (sports) the normal prescribed duration of a game
+e: the game was finished in regulation time
+hp: noun.act:athletic_game
+hypo: period
+mt: noun.act:athletics
+
+w: reign drf verb.social:reign
+d: the period during which a monarch is sovereign
+e: during the reign of Henry VIII
+hypo: age 2
+
+w: reign 1 drf verb.stative:reign
+d: a period during which something or somebody is dominant or powerful
+e: he was helpless under the reign of his egotism
+hyper: reign_of_terror 1
+hypo: period
+
+w: reign_of_terror 1
+d: any period of brutal suppression thought to resemble the Reign of Terror in France
+hypo: reign 1
+mt: noun.act:act_of_terrorism
+
+w: relaxation_time
+d: the time constant of an exponential return of a system to equilibrium after a disturbance
+hypo: time_constant
+
+w: relief
+w: respite
+w: rest drf verb.communication:rest drf verb.communication:rest 1
+w: rest_period
+d: a pause for relaxation
+e: people actually accomplish more when they take time for short rests
+hyper: breath
+hypo: break
+
+w: residence_time
+d: the period of time spent in a particular place
+hypo: continuance 2
+
+w: retardation drf verb.stative:retard
+d: the extent to which something is delayed or held back
+hypo: delay
+
+w: rev drf verb.change:rev
+w: revolutions_per_minute
+w: rpm
+d: rate of revolution of a motor
+e: the engine was doing 6000 revs
+hypo: rate
+
+w: rubato
+d: a flexible tempo; not strictly on the beat
+hypo: pacing
+
+w: rule drf verb.social:rule
+d: the duration of a monarch's or government's power
+e: during the rule of Elizabeth
+hyper: regency 1
+hypo: continuance 2
+ihypo: Regency
+
+w: run
+d: the continuous period of time during which something (a machine or a factory) operates or continues in operation
+e: the assembly line was on a 12-hour run
+hyper: press_run
+hyper: run-time
+hypo: period
+
+w: run-time
+d: (computer science) the length of time it takes to execute a software program
+hypo: run
+mt: noun.cognition:computer_science
+
+w: run-time 1
+d: the time at which a (software or multimedia) program is run
+hypo: point
+
+w: running_time
+d: the length of time that a movie or tv show runs
+hypo: period
+
+w: rush_hour
+d: the times at the beginning and end of the working day when many people are traveling to or from work
+hypo: hour 1
+
+w: s
+w: sec
+w: second
+d: 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites
+hp: min
+hyper: leap_second
+hypo: time_unit
+mp: millisecond
+
+w: sabbatical
+w: sabbatical_leave
+d: a leave usually taken every seventh year
+hyper: sabbatical_year
+hypo: leave
+
+w: sabbatical_year
+d: a sabbatical leave lasting one year
+hypo: sabbatical
+
+w: safe_period
+d: that time during a woman's menstrual cycle during which conception is least likely to occur (usually immediately before of after menstruation)
+hp: menstrual_cycle
+hypo: phase
+
+w: saint's_day
+d: a day commemorating a saint
+hp: Christian_year
+hyper: name_day
+hypo: day 1
+
+w: sampling_frequency
+d: (telecommunication) the frequency of sampling a continuously varying signal
+hyper: Nyquist_frequency
+hypo: frequence
+mt: noun.communication:telecom
+
+w: sampling_rate
+d: (telecommunication) the frequency of sampling per unit time
+hyper: Nyquist_rate
+hypo: rate
+mt: noun.communication:telecom
+
+w: school drf adj.pert:scholastic drf verb.social:school 1
+w: school_day 1
+w: schooltime
+d: the period of instruction in a school; the time period when school is in session
+e: stay after school
+e: he didn't miss a single day of school
+e: when the school day was done we would walk home together
+hypo: period
+mp: study_hall
+
+w: school_day
+d: any day on which school is in session
+e: go to bed early because tomorrow is a school day
+hypo: day 1
+
+w: schooldays
+w: schooltime 2
+d: the time of life when you are going to school
+hypo: time_of_life
+
+w: season
+w: time_of_year
+d: one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions
+e: the regular sequence of the seasons
+hp: year
+hyper: noun.act:harvest
+hyper: noun.act:haying
+hyper: autumn
+hyper: dry_season
+hyper: rainy_season
+hyper: spring
+hyper: summer
+hyper: winter
+hypo: period
+
+w: season 1
+d: a recurrent time marked by major holidays
+e: it was the Christmas season
+hyper: Advent 1
+hyper: Allhallowtide
+hyper: Christmas 1
+hyper: Eastertide
+hyper: Lammastide
+hyper: Lent
+hyper: Michaelmastide
+hyper: Shrovetide
+hyper: Twelfthtide
+hypo: period
+
+w: season 2
+d: a period of the year marked by special events or activities in some field
+e: he celebrated his 10th season with the ballet company
+e: she always looked forward to the avocado season
+hyper: Whitsun
+hyper: baseball_season
+hyper: basketball_season
+hyper: exhibition_season
+hyper: fishing_season
+hyper: football_season
+hyper: growing_season
+hyper: high_season
+hyper: hockey_season
+hyper: holiday_season
+hyper: hunting_season
+hyper: off-season
+hyper: preseason
+hyper: seedtime
+hyper: sheepshearing
+hyper: social_season
+hyper: theatrical_season
+hypo: period
+
+w: second_period
+d: the second division into which the play of a game is divided
+hp: period_of_play
+hypo: noun.cognition:division
+
+w: second_trimester
+d: time period extending from the 13th to the 27th week of gestation
+hypo: trimester
+
+w: seedtime
+d: the time during which seeds should be planted
+hypo: season 2
+
+w: seedtime 1
+d: any time of new development
+hypo: phase
+
+w: seek_time
+d: (computer science) the time it takes for a read/write head to move to a specific data track
+hp: access_time
+hyper: track-to-track_seek_time
+hypo: interval
+mt: noun.cognition:computer_science
+
+w: sell-by_date
+d: a date stamped on perishable produce indicating the date by which it should be sold
+hypo: date 5
+mr: noun.location:Britain
+
+w: semester 1 drf adjs.all:semestral
+d: one of two divisions of an academic year
+hp: academic_year
+hypo: academic_session
+
+w: semester 2 drf adjs.all:semestral drf adjs.all:semestrial
+d: half a year; a period of 6 months
+hypo: period
+
+w: semicentenary
+w: semicentennial
+d: the 50th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: sesquicentennial
+d: the 150th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: set
+d: a unit of play in tennis or squash
+e: they played two sets of tennis after dinner
+hypo: period_of_play
+mp: game
+
+w: sext
+d: the fourth of the seven canonical hours; about noon
+hypo: canonical_hour
+
+w: sheepshearing
+d: the time or season when sheep are sheared
+hypo: season 2
+
+w: shelf_life
+d: the length of time a packaged food or drug will last without deteriorating
+hypo: period
+
+w: shibah
+w: shiva
+w: shivah
+d: (Judaism) a period of seven days of mourning after the death of close relative
+e: the family is sitting shiva
+hypo: hebdomad
+mt: noun.cognition:Judaism
+
+w: show_time 1
+d: the point in time at which an entertainment (a movie or television show etc.) is scheduled to begin
+hypo: point
+
+w: sick_leave
+d: a leave of absence from work because of illness
+hypo: leave
+
+w: sidereal_hour
+d: 1/24 of a sidereal day
+hypo: 60_minutes
+hypo: sidereal_time
+
+w: sidereal_month
+d: period between successive conjunctions with a star, 27.322 days
+hypo: month
+hypo: sidereal_time
+
+w: sidereal_time
+d: measured by the diurnal motion of stars
+hyper: day 6
+hyper: sidereal_hour
+hyper: sidereal_month
+hyper: sidereal_year
+hypo: cosmic_time
+
+w: sidereal_year
+d: the time for the earth to make one complete revolution around the sun, relative to the fixed stars
+hypo: sidereal_time
+hypo: year
+
+w: silly_season
+d: a time usually late summer characterized by exaggerated news stories about frivolous matters for want of real news
+hypo: period
+
+w: silver_age
+d: (classical mythology) the second age of the world, characterized by opulence and irreligion; by extension, a period secondary in achievement to a golden age
+hypo: period
+mt: noun.group:classical_mythology
+
+w: silver_jubilee
+d: an anniversary celebrating the passage of 25 years
+hypo: jubilee
+
+w: silver_wedding_anniversary
+d: the 25th wedding anniversary
+hypo: wedding_anniversary
+
+w: slot drf verb.cognition:slot
+w: time_slot
+d: a time assigned on a schedule or agenda
+e: the TV program has a new time slot
+e: an aircraft landing slot
+hypo: interval
+
+w: small_hours
+d: the hours just after midnight
+hp: dark
+hypo: hour 1
+
+w: snap drf adjs.all:snappy 1
+d: a spell of cold weather
+e: a cold snap in the middle of May
+hypo: patch
+
+w: social_season
+d: the season for major social events
+hypo: season 2
+
+w: solar_calendar
+d: a calendar based on solar cycles
+hyper: Gregorian_calendar
+hyper: Julian_calendar
+hyper: Revolutionary_calendar
+hypo: calendar
+
+w: solar_constant
+d: the rate at which radiant solar energy is received at the outer layer of the earth's atmosphere
+hypo: rate
+
+w: solar_month
+d: one-twelfth of a solar or tropical year
+hypo: month
+
+w: solstice
+d: either of the two times of the year when the sun is at its greatest distance from the celestial equator
+hyper: June_21
+hyper: winter_solstice
+hypo: cosmic_time
+
+w: space_age
+d: the age beginning with the first space travel; from 1957 to the present
+hypo: time
+
+w: spacing
+d: the time between occurrences of a repeating event
+e: some women do not control the spacing of their children
+hypo: rate
+
+w: span
+d: the complete duration of something
+e: the job was finished in the span of an hour
+hyper: noun.cognition:attention_span
+hypo: continuance 2
+
+w: speech_day
+d: an annual day in the schools when speeches are made and prizes are distributed
+hypo: day 1
+mr: noun.location:Britain
+
+w: speed drf adjs.all:speedy 1 drf verb.change:speed drf verb.change:speed 2 drf verb.motion:speed drf verb.motion:speed 1 drf verb.motion:speed 3
+w: velocity
+d: distance travelled per unit time
+hyper: noun.phenomenon:angular_velocity
+hyper: airspeed
+hyper: c
+hyper: escape_velocity
+hyper: groundspeed
+hyper: hypervelocity
+hyper: muzzle_velocity
+hyper: peculiar_velocity
+hyper: radial_velocity
+hyper: steerageway
+hyper: terminal_velocity
+hypo: rate
+
+w: split_run
+d: a print run of a newspaper during which some articles or advertisements are changed to produce a different edition
+hypo: press_run
+
+w: split_shift
+d: a working shift divided into two periods of time with several hours in between
+hypo: duty_period
+
+w: spring
+w: springtime
+d: the season of growth
+e: the emerging buds were a sure sign of spring
+e: he will hold office until the spring of next year
+hypo: season
+mp: March_equinox
+
+w: spring_training
+d: preseason training during the spring
+hypo: preseason
+
+w: starting_point
+w: terminus_a_quo
+d: earliest limiting point
+hypo: beginning
+
+w: steerageway
+d: (nautical) the minimum rate of motion needed for a vessel to be maneuvered
+hypo: speed
+mt: noun.act:navigation 1
+
+w: stint
+w: stretch
+d: an unbroken period of time during which you do something
+e: there were stretches of boredom
+e: he did a stretch in the federal penitentiary
+hypo: continuance 2
+
+w: study_hall
+d: a period of time during the school day that is set aside for study
+hp: school
+hypo: period
+
+w: sudden_death
+d: (sports) overtime in which play is stopped as soon as one contestant scores; e.g. football and golf
+hypo: extra_time
+mt: noun.act:athletics
+
+w: summer drf adj.all:summery drf verb.change:summerize drf verb.stative:summer
+w: summertime
+d: the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox
+e: they spent a lazy summer at the shore
+hypo: season
+mp: June_21
+mp: canicular_days
+
+w: summer 1
+d: the period of finest development, happiness, or beauty
+e: the golden summer of his life
+hypo: time_of_life
+mu: noun.communication:figure 1
+
+w: summer_school
+d: an academic session during the summer; usually for remedial or supplementary study
+hypo: academic_session
+
+w: sundown
+w: sunset ant sunrise
+d: the time in the evening at which the sun begins to fall below the horizon
+hp: eve
+hypo: hour 1
+
+w: teens
+d: the time of life between the ages of 12 and 20
+hp: adulthood
+hypo: time_of_life
+
+w: terce
+w: tierce
+d: the third canonical hour; about 9 a.m.
+hypo: canonical_hour
+
+w: tercentenary
+w: tercentennial
+w: triennial
+d: the 300th anniversary (or the celebration of it)
+hypo: anniversary
+
+w: term
+d: a limited period of time
+e: a prison term
+e: he left school before the end of term
+hyper: academic_session
+hyper: incumbency
+hyper: prison_term
+hypo: period
+mp: midterm
+
+w: terminal_leave
+d: final leave before discharge from military service
+hypo: leave
+
+w: terminal_velocity
+d: the constant maximum velocity reached by a body falling through the atmosphere under the attraction of gravity
+hypo: speed
+
+w: test_period
+w: trial_period
+d: a period of time during which someone or something is tested
+hyper: probation
+hyper: probation 1
+hypo: period
+
+w: theatrical_season
+d: the season when new plays are produced
+hypo: season 2
+
+w: then
+d: that time; that moment
+e: we will arrive before then
+e: we were friends from then on
+hypo: point
+
+w: third_trimester
+d: time period extending from the 28th week of gestation until delivery
+hypo: trimester
+
+w: threshold
+d: the starting point for a new state or experience
+e: on the threshold of manhood
+hypo: beginning
+
+w: tiebreaker
+d: overtime play in order to break a tie; e.g. tennis and soccer
+hypo: extra_time
+
+w: time drf verb.change:time drf verb.change:time 1
+d: an indefinite period (usually marked by specific attributes or activities)
+e: the time of year for planting
+e: he was a great actor in his time
+hyper: bit
+hyper: day 3
+hyper: dead
+hyper: ephemera
+hyper: hard_times
+hyper: incarnation
+hyper: patch
+hyper: space_age
+hyper: wee
+hypo: period
+
+w: time 5 drf verb.change:time
+d: a period of time considered as a resource under your control and sufficient to accomplish something
+e: take time to smell the roses
+e: I didn't have time to finish
+e: it took more than half my time
+e: he waited for a long time
+hypo: period
+
+w: time 6 drf adjs.all:timely drf verb.change:time 6 drf verb.cognition:time drf verb.cognition:time 1
+d: a suitable moment
+e: it is time to go
+hyper: high_time
+hyper: occasion
+hypo: instant
+
+w: time-out
+d: a brief suspension of play
+e: each team has two time-outs left
+hp: noun.act:athletic_game
+hypo: break
+
+w: time_constant
+d: (electronics) the time required for the current or voltage in a circuit to rise or fall exponentially through approximately 63 per cent of its amplitude
+hyper: relaxation_time
+hypo: interval
+mt: noun.cognition:electronics
+
+w: time_frame
+d: a time period during which something occurs or is expected to occur
+e: an agreement can be reached in a reasonably short time frame
+hypo: period
+
+w: time_immemorial
+w: time_out_of_mind
+d: the distant past beyond memory
+hypo: past
+
+w: time_limit
+d: a time period within which something must be done or completed
+hyper: limitation
+hypo: period
+
+w: time_of_life
+d: a period of time during which a person is normally in a particular life state
+hp: life
+hyper: adolescence
+hyper: adulthood
+hyper: age
+hyper: age 1
+hyper: babyhood
+hyper: bachelorhood
+hyper: bloom
+hyper: childhood
+hyper: deathbed
+hyper: eighties
+hyper: fifties
+hyper: forties
+hyper: golden_years
+hyper: mid-nineties
+hyper: mid-seventies
+hyper: mid-sixties
+hyper: mid-thirties
+hyper: mid-twenties
+hyper: middle_age
+hyper: neonatal_period
+hyper: prepuberty
+hyper: puberty
+hyper: schooldays
+hyper: summer 1
+hyper: teens
+hyper: widowhood
+hyper: youth
+hypo: period
+
+w: time_off ant work_time
+d: a time period when you are not required to work
+e: he requested time off to attend his grandmother's funeral
+hyper: compensatory_time
+hyper: day_off
+hyper: free_time
+hyper: leave
+hyper: leisure
+hypo: period
+
+w: time_scale
+d: an arrangement of events used as a measure of duration
+e: on the geological time scale mankind has existed but for a brief moment
+hyper: extended_time_scale
+hyper: fast_time_scale
+hypo: continuance 2
+
+w: time_unit
+w: unit_of_time
+d: a unit for measuring time periods
+hyper: 15_minutes
+hyper: 24-hour_interval
+hyper: 30_minutes
+hyper: 60_minutes
+hyper: TDT
+hyper: attosecond
+hyper: bell
+hyper: day 6
+hyper: femtosecond
+hyper: mean_solar_time
+hyper: microsecond
+hyper: millisecond
+hyper: min
+hyper: month
+hyper: nanosecond
+hyper: night 2
+hyper: picosecond
+hyper: quarter 3
+hyper: s
+hypo: noun.Tops:amount
+
+w: timekeeping
+d: the act or process of determining the time
+hyper: anachronism
+hypo: noun.act:activity
+
+w: times 1
+d: a more or less definite period of time now or previously present
+e: it was a sign of the times
+hyper: Roman_times
+hyper: contemporary_world
+hypo: period
+
+w: today
+d: the present time or age
+e: the world of today
+e: today we have computers
+hypo: nowadays
+
+w: today 1
+d: the day that includes the present moment (as opposed to yesterday or tomorrow)
+e: Today is beautiful
+e: did you see today's newspaper?
+hypo: 24-hour_interval
+
+w: tomorrow
+d: the near future
+e: tomorrow's world
+e: everyone hopes for a better tomorrow
+hypo: future
+
+w: tomorrow 1
+d: the day after today
+e: what are our tasks for tomorrow?
+hypo: 24-hour_interval
+
+w: tonight
+d: the present or immediately coming night
+hypo: nowadays
+
+w: top ant bottom
+w: top_of_the_inning
+d: the first half of an inning; while the visiting team is at bat
+e: a relief pitcher took over in the top of the fifth
+hp: frame
+hypo: bout
+
+w: track-to-track_seek_time
+d: (computer science) the time it takes for a read/write head to move to an adjacent data track
+hypo: seek_time
+mt: noun.cognition:computer_science
+
+w: travel_time
+d: a period of time spent traveling
+e: workers were not paid for their travel time between home and factory
+hypo: period
+
+w: trick
+d: a period of work or duty
+hypo: duty_period
+
+w: trimester
+d: a period of three months; especially one of the three three-month periods into which human pregnancy is divided
+hp: gestation
+hyper: first_trimester
+hyper: second_trimester
+hyper: third_trimester
+hypo: period
+
+w: trimester 1
+d: one of three divisions of an academic year
+hp: academic_year
+hypo: academic_session
+
+w: triple-crown_season
+d: a season of baseball during which a player wins the triple crown
+hypo: baseball_season
+
+w: triple_time
+d: musical time with three beats in each bar
+hypo: musical_time
+
+w: turn_of_the_century
+d: the period from about ten years before to ten years after a new century
+hypo: age 2
+
+w: turnaround
+w: turnaround_time
+d: time need to prepare a vessel or ship for a return trip
+hypo: work_time
+
+w: twelvemonth
+w: year 1 drf adjs.all:yearly
+w: yr
+d: a period of time containing 365 (or 366) days
+e: she is 4 years old
+e: in the year 1920
+hp: decade
+hyper: 365_days
+hyper: 366_days
+hyper: Christian_year
+hyper: Holy_Year
+hyper: New_Year
+hyper: Y2K
+hyper: annum
+hyper: calendar_year
+hyper: financial_year
+hyper: off_year
+hyper: off_year 1
+hyper: year_of_grace
+hypo: period
+
+w: twentieth_century
+d: the century from 1901 to 2000
+hypo: century
+
+w: uptime ant downtime
+d: a period of time when something (as a machine or factory) is functioning and available for use
+hyper: 24/7
+hypo: period
+mt: noun.artifact:factory
+
+w: usance
+d: the period of time permitted by commercial usage for the payment of a bill of exchange (especially a foreign bill of exchange)
+hypo: period
+mt: noun.act:commerce
+
+w: vac mr noun.location:Britain
+w: vacay
+d: informal term for vacation
+hypo: holiday
+
+w: vice-presidency
+w: vice-presidential_term
+d: the tenure of a vice president
+hypo: incumbency
+
+w: voting_age
+d: the age at which a person is old enough to vote in public elections
+hp: adulthood
+hypo: age
+
+w: wartime
+d: a period of time during which there is armed conflict
+hypo: period
+
+w: washday
+w: washing_day
+d: a day set aside for doing household laundry
+hypo: day 1
+
+w: watch
+d: a period of time (4 or 2 hours) during which some of a ship's crew are on duty
+hyper: dogwatch
+hyper: graveyard_watch
+hypo: duty_period
+
+w: watch 1
+d: the period during which someone (especially a guard) is on duty
+hypo: period
+
+w: wedding_anniversary
+d: the anniversary of the day on which you were married (or the celebration of it)
+hyper: diamond_wedding
+hyper: golden_wedding_anniversary
+hyper: silver_wedding_anniversary
+hypo: anniversary
+
+w: wedding_day
+d: the day of a wedding
+hypo: day 1
+mp: wedding_night
+
+w: wedding_night
+d: the night after the wedding when bride and groom sleep together
+hp: wedding_day
+hypo: dark
+
+w: wee
+d: a short time
+e: bide a wee
+hypo: time
+mr: noun.location:Scotland
+
+w: week 1
+w: workweek
+d: hours or days of work in a calendar week
+e: they worked a 40-hour week
+hp: calendar_week
+hypo: work_time
+
+w: week_from_Monday
+d: a time period of a week or more
+e: a week from Monday will be too soon!
+hypo: hebdomad
+mu: noun.communication:colloquialism
+
+w: weekday
+d: any day except Sunday (and sometimes except Saturday)
+hyper: Fri
+hyper: Midweek 1
+hyper: Mon
+hyper: Sabbatum
+hyper: Th
+hyper: Tues
+hyper: feria
+hyper: work_day 1
+hypo: day_of_the_week
+
+w: weekend drf verb.stative:weekend
+d: a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday
+hp: hebdomad
+hypo: period
+mp: Dominicus
+mp: Sabbatum
+
+w: weeknight
+d: any night of the week except Saturday or Sunday
+hypo: dark
+
+w: widowhood drf noun.person:widow
+d: the time of a woman's life when she is a widow
+hypo: time_of_life
+
+w: window
+d: the time period that is considered best for starting or finishing something
+e: the expanded window will give us time to catch the thieves
+e: they had a window of less than an hour when an attack would have succeeded
+hypo: period
+
+w: winter drf adj.all:wintery drf adj.all:wintry drf verb.change:winterize drf verb.stative:winter
+w: wintertime
+d: the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox
+hypo: season
+mp: midwinter
+mp: winter_solstice
+
+w: winter_solstice ant summer_solstice
+d: December 22, when the sun is at its southernmost point
+hp: winter
+hypo: solstice
+
+w: words_per_minute
+w: wpm
+d: the rate at which words are produced (as in speaking or typing)
+hypo: rate
+
+w: work_day 1
+w: workday 1 ant rest_day
+w: working_day 1
+d: a day on which work is done
+hypo: weekday
+
+w: work_time ant time_off
+d: a time period when you are required to work
+hyper: day 4
+hyper: face_time
+hyper: hours
+hyper: overtime 1
+hyper: turnaround
+hyper: week 1
+hypo: period
+
+w: workday
+w: working_day
+d: the amount of time that a worker must work for an agreed daily wage
+e: they work an 8-hour day
+hypo: day 4
+mp: duty_period
+mp: man_hour
+
+w: year
+d: the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun
+e: a Martian year takes 687 of our days
+hyper: anomalistic_year
+hyper: astronomical_year
+hyper: lunar_year
+hyper: sidereal_year
+hypo: period
+mp: month
+mp: season
+
+w: year 2
+d: a period of time occupying a regular part of a calendar year that is used for some particular activity
+e: a school year
+hyper: academic_year
+hypo: period
+
+w: year-end
+d: the end of a calendar year
+e: he had to unload the merchandise before the year-end
+hypo: end
+
+w: year_dot
+d: as long ago as anyone can remember
+e: he has been a conductor since the year dot
+hypo: age 3
+mr: noun.location:Britain
+
+w: year_of_grace
+d: any year of the Christian era
+hypo: twelvemonth
+
+w: yesterday
+d: the recent past
+e: yesterday's solutions are not good enough
+e: we shared many yesterdays
+hypo: past
+
+w: yesterday 1
+d: the day immediately before today
+e: it was in yesterday's newspapers
+hypo: 24-hour_interval
+
+w: yore
+d: time long past
+hypo: past
+
+w: youth
+d: the time of life between childhood and maturity
+hypo: time_of_life
+mp: adolescence
+mp: bloom
+
+w: zero_hour
+d: the time set for the start of an action or operation
+hypo: hour 1
+

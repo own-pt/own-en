@@ -1,0 +1,3439 @@
+verb.competition
+
+w: abnegate drf noun.person:abnegator
+d: surrender (power or a position)
+e: The King abnegated his power to the ministers
+fs: 8 15
+hypo: give_up 1
+
+w: ace
+d: score an ace against
+e: He aced his opponents
+fs: 9
+hypo: hit 2
+
+w: ace 1 drf noun.act:ace
+d: serve an ace against (someone)
+fs: 9
+hypo: serve 1
+mt: noun.act:lawn_tennis
+
+w: ace 2
+d: play (a hole) in one stroke
+fs: 8
+hypo: play
+mt: noun.act:golf
+
+w: act drf noun.person:actor 1
+d: discharge one's duties
+e: She acts as the chair
+e: In what capacity are you acting?
+fs: 22
+hyper: criticise
+hyper: verb.possession:bank 3
+hypo: serve
+
+w: address drf noun.communication:address 3 drf noun.person:addressee
+d: direct a question at someone
+fs: 21
+hypo: aim 10
+
+w: advance
+w: gain ant fall_back drf noun.person:gainer
+w: gain_ground
+w: get_ahead
+w: make_headway
+w: pull_ahead
+w: win 1 drf noun.event:win
+d: obtain advantages, such as points, etc.
+e: The home team was gaining ground
+e: After defeating the Knicks, the Blazers pulled ahead of the Lakers in the battle for the number-one playoff berth in the Western Conference
+e: win points
+fs: 2 1
+hyper: hit 2
+hyper: steal
+
+w: aggress drf adjs.all:aggressive drf noun.act:aggression drf noun.act:aggression 2 drf noun.person:aggressor
+w: attack 1 fs 8 9 drf noun.act:attack drf noun.person:attacker
+d: take the initiative and go on the offensive
+e: The Serbs attacked the village at night
+e: The visiting team started to attack
+fs: 2 1
+hyper: check
+hyper: fork
+hyper: harass
+hyper: pin
+hyper: tackle 1
+hypo: verb.social:act
+vg: assail 1
+
+w: aggroup
+w: group drf noun.Tops:group drf noun.act:grouping
+d: form a group or group together
+fs: 8
+hyper: brigade
+hyper: embed
+hyper: gang
+hyper: pool
+hyper: team
+hypo: verb.social:assemble
+
+w: aim drf noun.act:aim
+w: direct
+w: take 9
+w: take_aim
+w: train
+d: point or cause to go (blows, weapons, or objects such as photographic equipment) towards
+e: Please don't aim at your little brother!
+e: He trained his gun on the burglar
+e: Don't train your camera on the women
+e: Take a swipe at one's opponent
+fs: 22 21 2
+hyper: aim 10
+hyper: charge 1
+hyper: draw_a_bead_on
+hyper: hold
+hyper: level 2
+hyper: swing
+hyper: turn 13
+hyper: verb.perception:sight 3
+hypo: verb.motion:position
+
+w: aim 10 fs 22 drf noun.act:aim
+w: direct 1
+w: place 3 drf noun.location:place
+w: point 10 fs 22
+w: target drf noun.cognition:target drf noun.person:target
+d: intend (something) to move towards a certain goal
+e: He aimed his fists towards his opponent's face
+e: criticism directed at her superior
+e: direct your anger towards others, not towards yourself
+fs: 9 8
+hyper: address
+hyper: home_in 12
+hypo: aim
+
+w: ambuscade drf noun.act:ambuscade
+w: ambush drf noun.act:ambush drf noun.person:ambusher
+w: bushwhack drf noun.person:bushwhacker 1
+w: lie_in_wait
+w: lurk drf noun.person:lurker
+w: scupper
+w: waylay
+d: wait in hiding to attack
+fs: 9
+hypo: verb.stative:wait
+
+w: ambush 1 drf noun.act:ambush drf noun.person:ambusher
+w: still-hunt
+d: hunt (quarry) by stalking and ambushing
+fs: 8 2
+hypo: hunt
+
+w: angle drf noun.animal:angler drf noun.person:angler
+d: fish with a hook
+fs: 2
+hyper: fly-fish
+hyper: troll
+hypo: fish
+
+w: ante drf noun.possession:ante
+d: place one's stake
+fs: 8
+hypo: back
+mt: noun.act:card_game
+
+w: arm ant disarm drf noun.act:armament drf noun.artifact:arm 1 drf noun.group:armor
+w: build_up
+w: fortify drf noun.artifact:fort 1 drf noun.cognition:fortification
+w: gird
+d: prepare oneself for a military confrontation
+e: The U.S. is girding for a conflict in the Middle East
+e: troops are building up on the Iraqi border
+fs: 2
+hyper: forearm
+hyper: re-arm
+
+w: arrest
+w: check 6
+w: contain drf noun.act:containment drf noun.cognition:containment
+w: hold_back
+w: stop drf noun.artifact:stop
+w: turn_back
+d: hold back, as of a danger or an enemy; check the expansion or influence of
+e: Arrest the downward trend
+e: Check the growth of communism in South East Asia
+e: Contain the rebel movement
+e: Turn back the tide of communism
+fs: 10 9 8 11
+hyper: cut_down
+hypo: defend
+
+w: assail drf noun.person:assailant
+w: assault drf adjs.all:assaultive drf noun.act:assault 1 drf noun.act:assault 2 drf noun.person:assaulter
+w: attack 2 drf noun.act:attack 2 drf noun.person:attacker
+w: set_on
+d: attack someone physically or emotionally
+e: The mugger assaulted the woman
+e: Nightmares assailed him regularly
+fs: 9 10 8
+hyper: bait
+hyper: beset
+hyper: blindside
+hyper: bulldog
+hyper: jump
+hyper: reassail
+hyper: rush
+hyper: savage
+hyper: set
+hyper: verb.social:assault 3
+hyper: verb.social:desecrate
+hyper: verb.social:molest
+
+w: assail 1 drf adjs.all:assailable drf noun.person:assailant
+w: attack ant defend drf noun.act:attack drf noun.person:attacker
+d: launch an attack or assault on; begin hostilities or start warfare with
+e: Hitler attacked Poland on September 1, 1939 and started World War II
+e: Serbian forces assailed Bosnian towns all week
+fs: 8 9
+hyper: beleaguer
+hyper: blitz
+hyper: bomb
+hyper: cannonade
+hyper: counterattack
+hyper: gas
+hyper: hit
+hyper: invade
+hyper: pelt
+hyper: storm
+hyper: strafe
+hyper: submarine
+hyper: torpedo
+hyper: verb.social:bust
+hypo: contend 1
+vg: aggress
+
+w: atom-bomb
+w: nuke 1 drf noun.artifact:nuke
+d: bomb with atomic weapons
+fs: 8
+hypo: bomb
+
+w: atomise drf noun.act:atomisation 1
+w: atomize drf noun.act:atomization 1
+w: nuke drf noun.artifact:nuke
+w: zap
+d: strike at with firepower or bombs
+e: zap the enemy
+fs: 8 9
+hypo: bomb
+
+w: avenge drf noun.person:avenger
+w: retaliate 1 drf adjs.all:retaliatory drf noun.act:retaliation drf noun.person:retaliator
+w: revenge drf noun.act:revenge
+d: take revenge for a perceived wrong
+e: He wants to avenge the murder of his brother
+fs: 8
+hyper: get_back
+hypo: verb.social:penalise
+
+w: back
+w: bet_on
+w: gage
+w: game drf noun.act:gaming
+w: punt drf noun.person:punter 1
+w: stake drf noun.possession:stake
+d: place a bet on
+e: Which horse are you backing?
+e: I'm betting on the new horse
+fs: 8 13
+hyper: ante
+hyper: double_up
+hypo: bet
+
+w: backstop drf noun.artifact:backstop
+d: act as a backstop
+fs: 2
+hypo: play
+mt: noun.act:ball 1
+
+w: bait
+d: attack with dogs or set dogs upon
+fs: 9
+hypo: assail
+
+w: bandy
+d: exchange blows
+fs: 2
+hypo: contend 1
+
+w: bandy 1
+d: toss or strike a ball back and forth
+fs: 2
+hyper: shuttlecock
+hypo: play
+mt: noun.act:athletics
+
+w: barnstorm
+d: tour the country making political speeches, giving lectures, or presenting plays
+e: The presidential candidates are busy barnstorming this month
+fs: 2 22
+hypo: verb.creation:perform 1
+vg: barnstorm 1
+
+w: barnstorm 1 drf noun.person:barnstormer
+d: appear at county fairs and carnivals as a stunt flier and parachute jumper
+fs: 22 2
+hypo: verb.creation:perform 1
+vg: barnstorm
+
+w: barricade drf noun.artifact:barricade drf noun.artifact:barricade 1
+w: barricado
+d: block off with barricades
+fs: 8
+hypo: verb.contact:block 12
+
+w: barricade 1 drf noun.artifact:barricade drf noun.artifact:barricade 1
+d: prevent access to by barricading
+e: The street where the President lives is always barricaded
+fs: 8
+hypo: verb.contact:block 12
+
+w: battle drf noun.act:battle drf noun.act:battle 2 drf noun.person:battler
+w: combat drf adjs.all:combatant drf adjs.all:combative 1 drf noun.act:combat drf noun.act:combat 1 drf noun.person:combatant
+d: battle or contend against in or as if in a battle
+e: The Kurds are combating Iraqi troops in Northern Iraq
+e: We must combat the prejudices against other races
+e: they battled over the budget
+fs: 2 9 8
+hyper: dogfight
+hyper: wrestle 1
+hypo: contend 1
+
+w: bear_down
+d: exert full strength
+e: The pitcher bore down
+fs: 2
+hypo: contend 1
+mt: noun.act:ball 1
+
+w: bear_down 3
+w: charge fs 2 drf noun.act:charge 1 drf noun.animal:charger
+d: to make a rush at or sudden attack upon, as in battle
+e: he saw Jess charging at him with a pitchfork
+fs: 8 9
+hypo: rush
+
+w: beat drf adjs.all:beatable drf noun.act:beating 1
+w: beat_out
+w: crush
+w: shell 3
+w: trounce drf noun.event:trouncing
+w: vanquish drf adjs.all:vanquishable drf noun.person:vanquisher
+d: come out better in a competition, race, or conflict
+e: Agassi beat Becker in the tennis championship
+e: We beat the competition
+e: Harvard defeated Yale in the last football game
+fs: 8 10 9
+entail: win
+hyper: best
+hyper: cheat
+hyper: checkmate
+hyper: eliminate
+hyper: exceed
+hyper: get_over
+hyper: get_the_best 2
+hyper: get_the_jump
+hyper: immobilise
+hyper: mop_up
+hyper: outfight
+hyper: outplay
+hyper: outpoint
+hyper: overmaster
+hyper: rout 1
+hyper: walk_over
+hyper: whomp
+hyper: verb.contact:bat
+hypo: defeat
+vg: beat 14
+
+w: beat 14 drf adjs.all:beatable
+w: circumvent
+w: outfox 1
+w: outsmart
+w: outwit
+w: overreach
+d: beat through cleverness and wit
+e: I beat the traffic
+e: She outfoxed her competitors
+fs: 8 9
+hypo: exceed
+vg: beat
+
+w: beleaguer
+w: besiege drf noun.person:besieger
+w: circumvent 1
+w: hem_in
+w: surround
+d: surround so as to force to give up
+e: The Turks besieged Vienna
+fs: 8
+hyper: blockade
+hyper: ebb
+hypo: assail 1
+
+w: beset
+w: set_upon
+d: assail or attack on all sides: "The zebra was beset by leopards"
+fs: 9 10
+hypo: assail
+
+w: best
+w: outdo 1
+w: outflank
+w: scoop
+w: trump
+d: get the better of
+e: the goal was to best the competition
+fs: 9
+hyper: outmaneuver
+hypo: beat
+
+w: bet drf noun.act:bet drf noun.person:better drf noun.person:bettor drf noun.possession:bet
+w: play 8 drf noun.act:play 2
+w: wager drf noun.act:wager drf noun.person:wagerer drf noun.possession:wager
+d: stake on the outcome of an issue
+e: I bet $100 on that new horse
+e: She played all her money on the dark horse
+fs: 8 2
+hyper: back
+hyper: play 7
+hyper: raise 8
+hyper: see
+hypo: gamble
+vg: play 7
+
+w: better drf noun.attribute:better 1
+w: break
+d: surpass in excellence
+e: She bettered her own record
+e: break a record
+fs: 8
+hypo: exceed
+
+w: bias drf noun.cognition:bias
+d: influence in an unfair way
+e: you are biasing my choice by telling me yours
+fs: 10 11 8 9
+hyper: handicap 1
+hypo: verb.cognition:prejudice
+
+w: bird drf noun.animal:bird drf noun.person:birder
+w: birdwatch drf noun.person:bird_watcher drf noun.person:bird_watcher 1
+d: watch and study birds in their natural habitat
+fs: 22 2
+hypo: verb.perception:observe
+
+w: blast drf noun.event:blast drf noun.person:blaster
+w: shell drf noun.act:shelling drf noun.artifact:shell
+d: use explosives on
+e: The enemy has been shelling us all day
+fs: 8
+hyper: crump
+hypo: bomb
+
+w: blast 1
+w: shoot drf noun.act:shoot drf noun.act:shooting drf noun.person:shooter
+d: fire a shot
+e: the gunman blasted away
+fs: 22 2 8
+hyper: blaze
+hyper: fire 1
+hyper: gun
+hyper: overshoot
+hyper: pump
+hyper: sharpshoot
+hypo: discharge 1
+vg: hit 1
+
+w: blaze
+w: blaze_away
+d: shoot rapidly and repeatedly
+e: He blazed away at the men
+fs: 2
+hypo: blast 1
+
+w: blindside
+d: attack or hit on or from the side where the attacked person's view is obstructed
+fs: 9
+hypo: assail
+
+w: blitz drf noun.act:blitz
+d: attack suddenly and without warning
+e: Hitler blitzed Poland
+fs: 8
+hypo: assail 1
+
+w: blitzkrieg
+d: fight a quick and surprising war
+fs: 2
+hypo: war
+
+w: block drf noun.act:block drf noun.act:blockage drf noun.act:blocking drf noun.person:blocker
+w: deflect
+w: parry drf noun.act:parry
+d: impede the movement of (an opponent or a ball)
+e: block an attack
+fs: 8
+hypo: fence 1
+
+w: block_off
+w: blockade 1 drf noun.artifact:blockade
+d: obstruct access to
+fs: 8
+hypo: verb.contact:block 12
+
+w: blockade drf noun.act:blockade
+w: seal_off
+d: impose a blockade on
+fs: 8
+hypo: beleaguer
+
+w: bluff drf noun.act:bluff drf noun.person:bluffer
+w: bluff_out
+d: deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand
+fs: 9 2
+hypo: go
+mt: noun.act:card_game
+
+w: boat-race
+d: participate in a boat race
+fs: 2
+entail: verb.motion:boat
+hypo: race
+
+w: bomb drf noun.act:bombing drf noun.artifact:bomb drf noun.artifact:bomber drf noun.person:bomber
+w: bombard drf noun.act:bombardment 1
+d: throw bombs at or attack with bombs
+e: The Americans bombed Dresden
+fs: 9 8
+hyper: atom-bomb
+hyper: atomise
+hyper: blast
+hyper: bomb_out
+hyper: carpet_bomb
+hyper: dive-bomb
+hyper: firebomb
+hyper: glide-bomb
+hyper: hydrogen-bomb
+hyper: letter_bomb
+hyper: pattern-bomb
+hyper: skip-bomb
+hypo: assail 1
+
+w: bomb_out
+d: make somebody homeless by destroying their houses with bombs
+fs: 9
+hypo: bomb
+
+w: bowl drf noun.artifact:bowl 4 drf noun.person:bowler
+d: engage in the sport of bowling
+e: My parents like to bowl on Friday nights
+fs: 2
+hyper: skittle
+hypo: play
+
+w: brail
+d: haul fish aboard with brails
+fs: 8
+hypo: fish
+
+w: break_down drf noun.act:breakdown 2
+w: crush 1
+d: make ineffective
+e: Martin Luther King tried to break down racial discrimination
+fs: 11 8
+hypo: verb.change:alter 1
+
+w: breast
+w: front drf noun.artifact:front drf noun.location:front
+d: confront bodily
+e: breast the storm
+fs: 11 8 9 10
+hypo: confront
+
+w: brigade drf noun.group:brigade
+d: form or unite into a brigade
+fs: 9 2
+hypo: aggroup
+
+w: bulldog drf noun.animal:bulldog
+d: attack viciously and ferociously
+fs: 9 8 11 10
+hypo: assail
+
+w: bulldog 1
+d: throw a steer by seizing the horns and twisting the neck, as in a rodeo
+fs: 8
+hypo: get_over
+
+w: bully_off
+w: face_off drf noun.act:face-off
+d: start a game by a face-off
+fs: 2
+hypo: play
+
+w: bulwark drf noun.artifact:bulwark drf noun.artifact:bulwark 1
+d: defend with a bulwark
+fs: 8
+hypo: defend
+
+w: caddie drf noun.person:caddie
+w: caddy drf noun.artifact:caddy
+d: act as a caddie and carry clubs for a player
+fs: 2
+hypo: serve
+mt: noun.act:golf
+
+w: call_up drf noun.communication:call_up
+w: mobilise 1 drf noun.act:mobilisation drf noun.act:mobilisation 1
+w: mobilize 1 ant demobilize 3 drf noun.act:mobilization 1
+w: rally drf noun.act:rallying 1
+d: call to arms; of military personnel
+fs: 8 9
+hypo: verb.communication:call 5
+
+w: campaign drf noun.act:campaign
+w: take_the_field 1
+d: go on a campaign; go off to war
+fs: 22 2
+entail: war
+hyper: crusade
+
+w: campaign 1 drf noun.event:campaign drf noun.person:campaigner
+w: run 6 drf noun.event:run 3
+d: run, stand, or compete for an office or a position
+e: Who's running for treasurer this year?
+fs: 22 2
+hyper: rerun
+hyper: stump
+hyper: whistlestop
+hyper: verb.social:cross-file
+hypo: race
+
+w: cannon drf noun.artifact:cannon drf noun.artifact:cannon 1 drf noun.person:cannoneer
+d: fire a cannon
+fs: 2
+hypo: discharge
+
+w: cannon 1 drf noun.act:cannon
+d: make a cannon
+fs: 2
+hypo: verb.contact:hit 3
+mt: noun.act:billiards
+
+w: cannonade drf noun.act:cannonade
+d: attack with cannons or artillery
+fs: 2 8 9
+hypo: assail 1
+
+w: capitulate drf noun.act:capitulation
+d: surrender under agreed conditions
+fs: 2
+hypo: give_up 1
+
+w: carpet_bomb drf noun.act:carpet_bombing
+d: bomb a large area systematically and extensively
+e: The U.S. decided to carpet bomb Vietnam
+fs: 8 9
+hypo: bomb
+
+w: carry 1
+d: win in an election
+e: The senator carried his home state
+fs: 8
+hypo: win
+vg: carry 12
+vg: verb.social:carry 2
+
+w: carry 2
+d: secure the passage or adoption (of bills and motions)
+e: The motion carried easily
+fs: 8
+hypo: verb.possession:obtain
+vg: carry 12
+
+w: carry 3 drf noun.act:carry
+d: cover a certain distance or advance beyond
+e: The drive carried to the green
+fs: 1
+hypo: verb.motion:go
+mt: noun.act:golf
+vg: carry 4
+
+w: carry 4 drf noun.act:carry
+d: have a certain range
+e: This rifle carries for 3,000 feet
+fs: 1
+hypo: verb.stative:feature
+vg: carry 3
+
+w: carry 12
+d: be successful in
+e: She lost the game but carried the match
+fs: 8
+hypo: win
+vg: carry 1
+vg: carry 2
+
+w: cast drf noun.act:cast 1
+w: draw 1 drf noun.act:drawing 3 drf noun.artifact:draw drf noun.artifact:draw 1
+d: choose at random
+e: draw a card
+e: cast lots
+fs: 2
+hypo: go
+
+w: castle drf noun.act:castle drf noun.act:castling drf noun.artifact:castle 1
+d: move the king two squares toward a rook and in the same move the rook to the square next past the king
+fs: 8
+hypo: go
+mt: noun.act:chess
+
+w: catch drf noun.person:catcher
+d: be the catcher
+e: Who is catching?
+fs: 2
+hypo: play
+mt: noun.act:ball 1
+vg: verb.contact:catch
+
+w: catch 10
+w: catch_up_with
+w: overtake drf noun.act:overtaking
+d: catch up with and possibly overtake
+e: The Rolls Royce caught us near the exit ramp
+fs: 9 11
+entail: compete
+vg: verb.motion:catch
+
+w: champion drf noun.person:champion drf noun.person:champion 2
+w: defend 4 drf adjs.all:defensible drf noun.person:defender
+d: protect or fight for as a champion
+fs: 9 8
+hypo: verb.social:back
+
+w: charge 1
+w: level 1
+w: point
+d: direct into a position for use
+e: point a gun
+e: He charged his weapon at me
+fs: 2 22
+hypo: aim
+vg: point 2
+
+w: charm drf noun.artifact:charm drf noun.communication:charm
+d: protect through supernatural powers or charms
+fs: 10 9
+hypo: protect
+
+w: cheat drf noun.act:cheat 1 drf noun.person:cheater
+w: chicane drf noun.act:chicane drf noun.act:chicanery
+w: chouse
+w: jockey 1
+w: screw
+w: shaft
+d: defeat someone through trickery or deceit
+fs: 9 11
+hypo: beat
+
+w: check
+d: place into check
+e: He checked my kings
+fs: 9 8
+entail: go
+hypo: aggress
+mt: noun.act:chess
+
+w: check 2
+d: decline to initiate betting
+fs: 2
+hypo: go
+mt: noun.act:card_game
+
+w: checkmate drf noun.act:checkmate
+w: mate drf noun.act:mate
+d: place an opponent's king under an attack from which it cannot escape and thus ending the game
+e: Kasparov checkmated his opponent after only a few moves
+fs: 8 9
+hypo: beat
+mt: noun.act:chess
+
+w: chicken-fight
+w: chickenfight
+d: fight while sitting on somebody's shoulders
+fs: 2
+hypo: contend 1
+
+w: chop
+d: hit sharply
+fs: 8
+hypo: hit
+
+w: chuck_up_the_sponge
+w: drop_by_the_wayside
+w: drop_out ant enter
+w: fall_by_the_wayside
+w: give_up fs 8
+w: quit 5 fs 8 drf noun.person:quitter
+w: throw_in
+w: throw_in_the_towel
+d: give up in the face of defeat of lacking hope; admit defeat
+e: In the second round, the challenger gave up
+fs: 22 2
+
+w: circumvallate
+d: surround with or as if with a rampart or other fortification
+fs: 8 11
+hypo: fence
+
+w: compete fs 2 drf adj.all:competitive drf adj.all:competitory drf noun.act:competition drf noun.person:competitor
+w: contend drf noun.act:contention drf noun.person:contender
+w: vie
+d: compete for something; engage in a contest; measure oneself against others
+fs: 22
+hyper: emulate
+hyper: go_for
+hyper: play
+hyper: race
+hyper: rival
+hyper: run_off
+hyper: verb.stative:equal 1
+
+w: complete drf noun.act:completion 2
+w: nail
+d: complete a pass
+fs: 8
+hypo: play
+mt: noun.act:football
+
+w: concede drf noun.communication:conceding drf noun.communication:concession 2
+d: acknowledge defeat
+e: The candidate conceded after enough votes had come in to show that he would lose
+fs: 2
+hypo: give_up 1
+
+w: confront drf noun.act:confrontation drf noun.communication:confrontation 1
+w: face drf noun.attribute:face 2 see face_off
+d: oppose, as in hostility or a competition
+e: You must confront your opponent
+e: Jackson faced Smith in the boxing ring
+e: The two enemies finally confronted each other
+fs: 8 11 10 9
+hyper: breast
+hyper: match
+hyper: take_the_bull_by_the_horns
+hypo: encounter
+
+w: conquer drf noun.act:conquering drf noun.person:conqueror
+d: overcome by conquest
+e: conquer your fears
+e: conquer a country
+fs: 9 8
+hypo: defeat
+
+w: conscript drf noun.act:conscription drf noun.person:conscript
+d: enroll into service compulsorily
+e: The men were conscripted
+fs: 9
+hypo: enlist
+
+w: contend 1
+w: fight drf noun.act:fight 1 drf noun.act:fight 2 drf noun.act:fight 3 drf noun.act:fighting drf noun.artifact:fighter drf noun.person:fighter see fight_off
+w: struggle drf noun.act:struggle 2
+d: be engaged in a fight; carry on a fight
+e: the tribesmen fought each other
+e: Siblings are always fighting
+e: Militant groups are contending for control of the country
+fs: 22 9 2
+entail: compete
+hyper: assail 1
+hyper: bandy
+hyper: battle
+hyper: bear_down
+hyper: chicken-fight
+hyper: defend 5
+hyper: duel
+hyper: fence 1
+hyper: feud
+hyper: fight_back 1
+hyper: fistfight
+hyper: get_back 13
+hyper: join_battle
+hyper: joust
+hyper: skirmish
+hyper: tourney
+hyper: tug
+hyper: war
+hyper: verb.contact:box 1
+hyper: verb.contact:scuffle
+hyper: verb.contact:spar 1
+hyper: verb.contact:wrestle
+hyper: verb.social:engage 12
+
+w: convert
+d: score (a spare)
+fs: 8
+hypo: hit 2
+mt: noun.act:bowling
+vg: convert 1
+vg: convert 2
+
+w: convert 1
+d: complete successfully
+e: score a penalty shot or free throw
+fs: 8
+hypo: hit 2
+vg: convert
+
+w: convert 2 drf noun.act:conversion 2
+d: score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone
+e: Smith converted and his team won
+fs: 2
+hypo: hit 2
+vg: convert
+
+w: count_out
+d: declare the loser
+fs: 9
+hypo: verb.communication:declare
+mt: noun.act:boxing
+
+w: counterattack drf noun.act:counterattack
+w: counterstrike
+d: make a counterattack
+fs: 2
+hypo: assail 1
+
+w: countermine drf noun.act:countermine
+d: destroy enemy mines with one's own mines
+e: We countermined the banks of the river
+fs: 8
+hypo: mine
+
+w: course drf noun.act:coursing
+d: hunt with hounds
+e: He often courses hares
+fs: 8 2
+hypo: hunt
+mt: noun.act:game
+
+w: cover
+d: protect or defend (a position in a game)
+e: he covered left field
+fs: 8
+hyper: double-team
+hypo: protect
+vg: cover 13
+
+w: cover 1 drf noun.act:cover 1
+d: hold within range of an aimed firearm
+fs: 8
+hypo: protect
+vg: verb.stative:continue 6
+
+w: cover 7
+d: play a higher card than the one previously played
+e: Smith covered again
+fs: 2
+hypo: play 3
+mt: noun.act:card_game
+
+w: cover 13
+d: be responsible for guarding an opponent in a game
+fs: 8
+hypo: protect
+vg: cover
+
+w: crab drf noun.animal:crab drf noun.food:crab
+d: fish for crab
+fs: 2 22
+hypo: fish
+
+w: cradle
+d: run with the stick
+fs: 2
+hypo: play
+mt: noun.act:lacrosse
+
+w: crew drf noun.group:crew 1 drf noun.group:crew 2
+d: serve as a crew member on
+fs: 8
+hypo: man
+
+w: cricket drf noun.act:cricket drf noun.person:cricketer
+d: play cricket
+fs: 2
+hypo: play
+
+w: criticise
+w: criticize drf noun.person:critic drf noun.person:critic 1 drf noun.person:critic 2
+d: act as a critic
+e: Those who criticize others often are not perfect, either
+fs: 2
+hypo: act
+
+w: croquet drf noun.act:croquet
+d: play a game in which players hit a wooden ball through a series of hoops
+fs: 2
+hypo: play
+
+w: crossruff
+d: trump alternately in two hands
+fs: 2
+hypo: ruff
+mt: noun.act:card_game
+
+w: crump
+d: bombard with heavy shells
+fs: 8
+hypo: blast
+
+w: crusade drf noun.act:Crusade 1 drf noun.person:Crusader 1
+d: go on a crusade; fight a holy war
+fs: 22 2
+hypo: campaign
+
+w: curl drf noun.act:curling 1
+d: play the Scottish game of curling
+fs: 2
+hypo: play
+mt: noun.act:athletics
+
+w: cut_down
+w: cut_out
+d: intercept (a player)
+fs: 9
+hypo: arrest
+mt: noun.act:ball 1
+
+w: cut_to_ribbons
+d: defeat totally
+e: We must cut the other team to ribbons!
+fs: 9
+hypo: demolish
+
+w: defeat
+w: get_the_better_of
+w: overcome 3 drf noun.person:overcomer
+d: win a victory over
+e: You must overcome all difficulties
+e: defeat your enemies
+e: He overcame his shyness
+e: He overcame his infirmity
+e: Her anger got the better of her and she blew up
+fs: 8
+hyper: beat
+hyper: conquer
+hyper: demolish
+hyper: down
+hyper: expel
+hyper: lurch
+hyper: nose
+hyper: overrun 4
+hyper: upset
+hyper: wallop
+hyper: verb.stative:come_through
+
+w: defend ant attack drf adj.all:defensive drf adjs.all:defensible drf noun.group:defence 1
+d: be on the defensive; act against an attack
+fs: 8 9
+entail: contend 1
+hyper: arrest
+hyper: bulwark
+hyper: protect
+hyper: ward_off
+hypo: verb.social:keep 1
+
+w: defend 2 drf adj.all:defensive drf adjs.all:defensible drf noun.group:defence 3 drf noun.person:defender
+w: guard 3
+w: hold 5
+d: protect against a challenge or attack
+e: Hold that position behind the trees!
+e: Hold the bridge against the enemy's attacks
+fs: 8
+hypo: protect
+vg: verb.social:hold 14
+
+w: defend 5 drf adjs.all:defensive
+w: fight 1 drf noun.artifact:fighter drf noun.communication:fight drf noun.person:fighter
+w: fight_back
+w: fight_down
+w: oppose 1 drf adjs.all:opponent drf noun.act:opposition drf noun.person:opposer
+d: fight against or resist strongly
+e: The senator said he would oppose the bill
+e: Don't fight it!
+fs: 8 2 9
+hyper: drive_back
+hyper: fend
+hyper: hold_out
+hyper: recalcitrate
+hypo: contend 1
+
+w: defuse ant fuse drf noun.act:defusing
+d: remove the triggering device from
+fs: 8
+hypo: verb.change:remove
+
+w: demilitarise ant militarise
+w: demilitarize ant militarize
+d: do away with the military organization and potential of
+fs: 11 8
+hyper: neutralise
+hypo: disarm 1
+
+w: demilitarise 2
+w: demilitarize 2
+w: disarm ant arm drf noun.act:disarmament drf noun.act:disarming
+d: remove offensive capability from
+fs: 8 9
+
+w: demob
+w: demobilise ant mobilise drf noun.act:demobilisation
+w: demobilize ant mobilize drf noun.act:demobilization
+d: retire from military service
+fs: 2
+hypo: discharge
+
+w: demobilise 3 drf noun.act:demobilisation
+w: demobilize 3 ant mobilize 1 drf noun.act:demobilization
+w: inactivate drf noun.act:inactivation
+d: release from military service or remove from the active list of military service
+fs: 9
+hypo: discharge
+
+w: demolish drf noun.act:demolition
+w: destroy
+d: defeat soundly and humiliatingly
+e: The home team demolished the visitors
+fs: 9
+hyper: cut_to_ribbons
+hyper: smash
+hyper: swallow
+hypo: defeat
+
+w: deploy drf noun.act:deployment
+d: place troops or weapons in battle formation
+fs: 8
+hyper: play 3
+hypo: verb.motion:position
+
+w: develop 2 drf noun.state:development
+d: move into a strategically more advantageous position
+e: develop the rook
+fs: 8
+hypo: play
+mt: noun.act:chess
+vg: develop 3
+
+w: develop 3 drf noun.state:development
+d: move one's pieces into strategically more advantageous positions
+e: Spassky developed quickly
+fs: 2
+hypo: play
+mt: noun.act:chess
+vg: develop 2
+
+w: dice drf noun.artifact:dice
+d: play dice
+fs: 2
+hypo: gamble
+
+w: die
+d: to be on base at the end of an inning, of a player
+fs: 2
+hypo: play
+mt: noun.act:ball 1
+
+w: disarm 1 drf noun.act:disarmament drf noun.act:disarming drf noun.person:disarmer
+w: unarm
+d: take away the weapons from; render harmless
+fs: 9
+hyper: demilitarise
+hypo: verb.possession:deprive 1
+
+w: discharge ant enlist 1 drf noun.act:discharge 2
+w: muster_out
+d: release from military service
+fs: 9
+hyper: verb.change:deactivate 1
+hyper: cannon
+hyper: demob
+hyper: demobilise 3
+hypo: verb.contact:let_go
+
+w: discharge 1 drf noun.act:discharge
+w: fire drf noun.act:fire drf noun.act:firing 2
+d: cause to go off
+e: fire a gun
+e: fire a bullet
+fs: 8
+cause: discharge 2
+hyper: blast 1
+hyper: fusillade
+hyper: let_drive
+hyper: pop
+
+w: discharge 2 drf noun.act:discharge
+w: fire 2 drf noun.act:fire
+w: go_off
+d: go off or discharge
+e: The gun fired
+fs: 1
+
+w: dive-bomb drf noun.act:dive-bombing drf noun.artifact:dive_bomber
+d: bomb from a diving airplane
+fs: 8
+hypo: bomb
+
+w: dogfight drf noun.act:dogfight drf noun.act:dogfight 1
+d: engage in an aerial battle with another fighter plane
+fs: 2
+hypo: battle
+
+w: double-team
+d: cover with two defensive players
+fs: 9
+hypo: cover
+mt: noun.act:athletics
+
+w: double_up
+w: parlay
+d: stake winnings from one bet on a subsequent wager
+fs: 13 8
+hypo: back
+
+w: down
+d: bring down or defeat (an opponent)
+fs: 9 8
+hypo: defeat
+mt: noun.act:athletics
+
+w: draft drf noun.act:draft 3 drf noun.person:draftee
+w: enlist 1 ant discharge drf noun.act:enlisting drf noun.person:enlistee drf noun.time:enlistment
+w: muster_in
+d: engage somebody to enter the army
+fs: 9
+hyper: levy
+hypo: verb.social:enrol
+
+w: draw drf noun.event:draw
+w: tie drf noun.event:tie drf noun.person:tier 1
+d: finish a game with an equal number of points, goals, etc.
+e: The teams drew a tie
+fs: 2
+entail: play
+hypo: verb.change:equal
+
+w: draw_a_bead_on
+d: aim with a gun
+e: The hunter drew a bead on the rabbit
+fs: 8
+hypo: aim
+
+w: drive
+d: (hunting) chase from cover into more open ground
+e: drive the game
+fs: 8
+hypo: hunt
+mt: noun.act:hunt 1
+vg: drive 1
+
+w: drive 1
+d: (hunting) search for game
+e: drive the forest
+fs: 8
+hypo: hunt
+mt: noun.act:hunt 1
+vg: drive
+
+w: drive_back
+w: fight_off
+w: rebuff drf noun.communication:rebuff
+w: repel drf adj.all:repulsive
+w: repulse drf noun.act:repulsion drf noun.communication:repulse
+d: force or drive back
+e: repel the attacker
+e: fight off the onslaught
+e: rebuff the attack
+fs: 8 9
+hypo: defend 5
+
+w: drive_in
+d: cause a run or runner to be scored
+e: His line double drove in Jim Lemon with the winning run
+fs: 9 8
+cause: hit 2
+mt: noun.act:ball 1
+
+w: drop
+d: lose (a game)
+e: The Giants dropped 11 of their first 13
+fs: 8
+hypo: lose
+mt: noun.act:athletics
+
+w: drop_off
+w: fall_back ant gain
+w: fall_behind
+w: recede drf noun.act:receding drf noun.act:recession 1
+d: retreat
+fs: 2
+hypo: verb.change:regress
+
+w: drop_one's_serve
+d: lose a game in which one is serving
+fs: 2
+hypo: lose
+mt: noun.act:lawn_tennis
+
+w: duel drf noun.act:duel drf noun.person:dueler drf noun.person:duelist drf noun.person:dueller
+d: fight a duel, as over one's honor or a woman
+e: In the 19th century, men often dueled over small matters
+fs: 9 2
+hypo: contend 1
+
+w: eagle drf noun.quantity:eagle
+d: shoot in two strokes under par
+fs: 8
+hypo: hit 2
+mt: noun.act:golf
+
+w: ebb
+d: hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb
+fs: 8
+hypo: beleaguer
+
+w: eliminate
+d: remove from a contest or race
+e: The cyclist has eliminated all the competitors in the race
+fs: 9
+hypo: beat
+
+w: embed
+d: attach to, as a journalist to a military unit when reporting on a war
+e: The young reporter was embedded with the Third Division
+fs: 22
+hypo: aggroup
+
+w: emulate drf noun.act:emulation drf noun.feeling:emulation
+d: compete with successfully; approach or reach equality with
+e: This artist's drawings cannot emulate his water colors
+fs: 11 9
+hypo: compete
+
+w: encounter drf noun.act:encounter
+w: meet drf noun.event:meet
+w: play 2 drf noun.act:playing drf noun.time:play
+w: take_on 1
+d: contend against an opponent in a sport, game, or battle
+e: Princeton plays Yale this weekend
+e: Charlie likes to play Mary
+fs: 9
+entail: compete
+hyper: confront
+hyper: replay 1
+vg: play
+vg: play 9
+vg: play 12
+vg: play 13
+
+w: enlist drf noun.time:enlistment
+d: join the military
+fs: 2
+hyper: conscript
+hypo: sign_up
+
+w: enter ant drop_out drf noun.person:entrant
+w: participate drf adjs.all:participatory drf noun.act:participation drf noun.person:participant drf noun.state:participation
+d: become a participant; be involved in
+e: enter a race
+e: enter an agreement
+e: enter a drug treatment program
+e: enter negotiations
+fs: 8 22 2
+hyper: jump 3
+
+w: equalise drf noun.act:equalisation
+w: equalize drf noun.act:equalization drf noun.act:equalizer
+w: get_even
+d: compensate; make the score equal
+fs: 2
+hypo: hit 2
+
+w: exceed drf adjs.all:excessive
+w: outdo
+w: outgo
+w: outmatch
+w: outperform
+w: outstrip
+w: surmount 1
+w: surpass
+d: be or do something to a greater degree
+e: her performance surpasses that of any other student I know
+e: She outdoes all other athletes
+e: This exceeds all my expectations
+e: This car outperforms all others in its class
+fs: 10 11 8 9
+hyper: beat 14
+hyper: better
+hyper: out-herod
+hyper: outbrave
+hyper: outcry
+hyper: outdraw
+hyper: outfox
+hyper: outgrow
+hyper: outmarch
+hyper: outpace
+hyper: outrange
+hyper: outroar
+hyper: outsail
+hyper: outsell
+hyper: outsell 1
+hyper: outshine
+hyper: outweigh
+hyper: shame
+hyper: verb.stative:outwear
+hypo: beat
+
+w: exit
+d: lose the lead
+fs: 2
+hypo: play
+mt: noun.act:card_game
+
+w: expel
+w: rout
+w: rout_out
+d: cause to flee
+e: rout out the fighters from their caves
+fs: 9
+hypo: defeat
+
+w: extend_oneself
+d: strain to the utmost
+fs: 2
+hypo: reach
+
+w: falcon drf noun.animal:falcon drf noun.cognition:falconry drf noun.person:falconer
+d: hunt with falcons
+e: The tribes like to falcon in the desert
+fs: 2
+hypo: hunt
+
+w: feather drf noun.act:feather drf noun.act:feathering
+w: square
+d: turn the oar, while rowing
+fs: 2
+hypo: verb.motion:row
+
+w: feather 2 drf noun.act:feather
+w: square 1
+d: turn the paddle; in canoeing
+fs: 2
+hypo: verb.motion:paddle
+
+w: fence drf noun.artifact:fence
+w: fence_in
+w: palisade drf noun.artifact:palisade
+w: surround 1 drf noun.location:surround
+w: wall drf noun.artifact:wall drf noun.artifact:wall 1 drf noun.artifact:wall 2 see verb.contact:wall_in see verb.contact:wall_up
+d: surround with a wall in order to fortify
+fs: 8
+hyper: circumvallate
+hyper: stockade
+hypo: protect
+
+w: fence 1 drf noun.act:fencing drf noun.person:fencer
+d: fight with fencing swords
+fs: 2
+hyper: block
+hypo: contend 1
+
+w: fend drf noun.artifact:fender drf noun.artifact:fender 1 drf noun.artifact:fender 2 drf noun.artifact:fender 3
+w: resist 1 drf adjs.all:resistant 2
+w: stand drf noun.act:stand
+d: withstand the force of something
+e: The trees resisted her
+e: stand the test of time
+e: The mountain climbers had to fend against the ice and snow
+fs: 8 11
+hypo: defend 5
+vg: verb.stative:remain_firm
+
+w: ferret drf noun.animal:ferret 2
+d: hunt with ferrets
+fs: 8 2
+hypo: hunt
+
+w: feud drf noun.act:feud
+d: carry out a feud
+e: The two professors have been feuding for years
+fs: 2 22
+hypo: contend 1
+
+w: field drf noun.act:fielding drf noun.location:field 2 drf noun.person:fielder drf noun.person:fielder 1
+d: play as a fielder
+fs: 2
+hypo: play
+mt: noun.act:athletics
+
+w: field 1 drf noun.act:fielding drf noun.location:field 2 drf noun.person:fielder 1
+d: catch or pick up (balls) in baseball or cricket
+fs: 8
+hypo: verb.contact:handle
+
+w: fight_back 1
+d: defend oneself
+fs: 2
+hypo: contend 1
+
+w: fire 1 drf noun.act:fire drf noun.act:firing 3
+w: open_fire
+d: start firing a weapon
+fs: 22 2
+hypo: blast 1
+
+w: firebomb drf noun.artifact:firebomb
+d: attack with incendiary bombs
+e: The rioters fire-bombed the stores
+fs: 8 9
+hypo: bomb
+
+w: fish drf noun.act:fishing drf noun.act:fishing 1 drf noun.animal:fish drf noun.artifact:fishery drf noun.food:fish drf noun.person:fisher
+d: catch or try to catch fish or shellfish
+e: I like to go fishing on weekends
+fs: 2 22 8
+hyper: angle
+hyper: brail
+hyper: crab
+hyper: net_fish
+hyper: rail
+hyper: scallop
+hyper: seine
+hyper: shark
+hyper: shrimp
+hyper: still-fish
+hyper: trawl
+hyper: verb.contact:prawn
+hypo: verb.contact:catch
+
+w: fistfight drf noun.act:fistfight
+d: fight with the fists
+e: The man wanted to fist-fight
+fs: 2
+hypo: contend 1
+
+w: fix
+w: get
+w: pay_back drf noun.act:payback
+w: pay_off
+d: take vengeance on or get even
+e: We'll get them!
+e: That'll fix him good!
+e: This time I got him
+fs: 9 20
+hypo: get_back
+vg: verb.possession:pay 13
+
+w: fly-fish
+w: flyfish
+d: fish with flies as lures
+fs: 2 22
+hypo: angle
+
+w: forearm
+d: arm in advance of a confrontation
+fs: 2 9
+hypo: arm
+
+w: fork
+d: place under attack with one's own pieces, of two enemy pieces
+fs: 8
+hypo: aggress
+mt: noun.act:chess
+
+w: fort drf noun.artifact:fort drf noun.artifact:fort 1
+d: station (troops) in a fort
+fs: 9
+hypo: place
+
+w: foul drf noun.act:foul 1
+d: commit a foul; break the rules
+fs: 2
+hyper: hack
+hyper: hack 1
+hypo: play
+
+w: foul 1 drf noun.act:foul 1
+d: hit a foul ball
+fs: 2
+hyper: verb.contact:foul_out
+hypo: verb.contact:hit 3
+mt: noun.act:ball 1
+
+w: fowl drf noun.animal:fowl
+d: hunt fowl in the forest
+fs: 2 22
+hyper: grouse
+hypo: hunt
+
+w: fowl 1 drf noun.animal:fowl drf noun.person:fowler
+d: hunt fowl
+fs: 2
+hypo: hunt
+
+w: foxhunt drf noun.act:fox_hunting drf noun.act:foxhunt
+d: hunt foxes, on horseback and with dogs
+fs: 2
+hypo: hunt
+
+w: fullback drf noun.person:fullback
+d: play the fullback
+fs: 2
+hypo: play
+mt: noun.act:football
+
+w: fumble drf noun.act:fumble
+d: drop or juggle or fail to play cleanly a grounder
+e: fumble a grounder
+fs: 8
+hypo: play
+mt: noun.act:ball 1
+
+w: function drf noun.act:function drf noun.person:functionary
+w: officiate drf noun.act:office drf noun.act:office 1 drf noun.act:office 2 drf noun.act:officiating drf noun.act:officiation drf noun.act:officiation 1 drf noun.state:office
+d: perform duties attached to a particular office or place or function
+e: His wife officiated as his private secretary
+fs: 22 2
+hypo: serve
+
+w: fuse ant defuse drf noun.artifact:fuse drf noun.artifact:fuse 1
+d: equip with a fuse; provide with a fuse
+fs: 8
+hypo: verb.possession:equip
+
+w: fusillade drf noun.act:fusillade
+d: attack with fusillade
+fs: 8 9
+hypo: discharge 1
+
+w: gamble drf noun.act:gambling drf noun.person:gambler drf noun.possession:gamble
+d: play games for money
+fs: 2
+hyper: bet
+hyper: dice
+hyper: play 1
+hyper: shoot_craps
+hypo: play
+
+w: gang drf noun.group:gang drf noun.group:gang 2
+w: gang_up
+d: act as an organized group
+fs: 9 22
+hypo: aggroup
+
+w: garrison drf noun.artifact:garrison drf noun.group:garrison
+d: station (troops) in a fort or garrison
+fs: 9 8
+hypo: place
+
+w: gas drf noun.act:gassing
+d: attack with gas; subject to gas fumes
+e: The despot gassed the rebellious tribes
+fs: 9 8
+hyper: teargas
+hypo: assail 1
+
+w: get_back
+w: get_even 1
+d: take revenge or even out a score
+e: I cannot accept the defeat--I want to get even
+fs: 22 2
+hyper: fix
+hypo: avenge
+
+w: get_back 1
+w: win_back
+d: recover something or somebody that appeared to be lost
+e: We got back the money after we threatened to sue the company
+e: He got back his son from the kidnappers
+fs: 8 9
+hypo: verb.possession:acquire
+
+w: get_back 13
+w: settle 10
+d: get one's revenge for a wrong or an injury
+e: I finally settled with my old enemy
+fs: 9
+hypo: contend 1
+
+w: get_over
+w: master
+w: overcome 1
+w: subdue
+w: surmount
+d: get on top of; deal with successfully
+e: He overcame his shyness
+fs: 8
+hyper: bulldog 1
+hypo: beat
+
+w: get_the_best 2 fs 22
+w: have_the_best 2 fs 22
+w: overcome 2
+d: overcome, usually through no fault or weakness of the person that is overcome
+e: Heart disease can get the best of us
+fs: 10
+hypo: beat
+
+w: get_the_jump
+d: be there first
+e: They had gotten the jump on their competitors
+fs: 22
+hypo: beat
+
+w: give_up 1
+w: surrender ant resist drf noun.act:surrender drf noun.communication:surrender drf noun.person:surrenderer
+d: give up or agree to forgo to the power or possession of another
+e: The last Taleban fighters finally surrendered
+fs: 2 15 8
+hyper: abnegate
+hyper: capitulate
+hyper: concede
+hypo: yield
+
+w: glide-bomb
+d: bomb by gliding
+fs: 9
+hypo: bomb
+
+w: go drf noun.time:go
+w: move drf noun.act:move 2
+d: have a turn; make one's move in a game
+e: Can I go now?
+fs: 2
+entail: play
+hyper: bluff
+hyper: cast
+hyper: castle
+hyper: check 2
+hyper: maneuver
+hyper: open
+hyper: ruff
+hyper: serve 1
+hyper: stalemate
+vg: verb.communication:make_a_motion
+
+w: go_down
+d: be defeated
+e: If America goes down, the free world will go down, too
+fs: 2 1
+hypo: lose
+
+w: go_for
+w: try_for
+d: make an attempt at achieving something
+e: She tried for the Olympics
+fs: 8
+hypo: compete
+
+w: go_to_war
+w: take_arms
+w: take_up_arms
+d: commence hostilities
+fs: 22 2
+hypo: war
+
+w: golf drf noun.act:golf drf noun.act:golfing drf noun.person:golfer
+d: play golf
+fs: 2
+hypo: play
+
+w: grass
+d: shoot down, of birds
+fs: 8
+hypo: hit 1
+
+w: grouse drf noun.animal:grouse drf noun.food:grouse
+d: hunt grouse
+fs: 2 22
+hypo: fowl
+
+w: guard drf noun.group:guard
+w: ward drf noun.person:ward drf noun.person:warder
+d: watch over or shield from danger or harm; protect
+e: guard my possessions while I'm away
+fs: 9 10 11 8
+hyper: verb.social:shepherd 1
+hypo: protect
+
+w: gun drf noun.act:gun drf noun.artifact:gun drf noun.artifact:gun 1 drf noun.person:gun drf noun.person:gun 1 drf noun.person:gunner see gun_down
+d: shoot with a gun
+fs: 2
+hyper: machine_gun
+hypo: blast 1
+
+w: gun_down
+d: strike down or shoot down
+fs: 9
+hypo: hit 1
+
+w: hack
+d: kick on the shins
+fs: 9
+hypo: foul
+mt: noun.act:rugby
+
+w: hack 1
+d: kick on the arms
+fs: 9
+hypo: foul
+mt: noun.act:basketball
+
+w: hamper drf noun.artifact:hamper 1
+w: handicap drf noun.cognition:handicap
+w: hinder
+d: put at a disadvantage
+e: The brace I have to wear is hindering my movements
+fs: 8 9
+hypo: verb.social:disadvantage
+
+w: handicap 1 drf noun.attribute:handicap 2 drf noun.person:handicapper
+d: attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant
+fs: 10 9 8 11
+hypo: bias
+
+w: harass drf noun.person:harasser
+d: exhaust by attacking repeatedly
+e: harass the enemy
+fs: 9 8
+hypo: aggress
+
+w: harpoon drf noun.artifact:harpoon drf noun.person:harpooner
+d: spear with a harpoon
+e: harpoon whales
+fs: 8
+hypo: verb.contact:catch
+
+w: hawk drf noun.animal:hawk drf noun.person:hawker 1
+d: hunt with hawks
+e: the tribes like to hawk in the desert
+fs: 2
+hypo: hunt
+
+w: hit
+w: strike drf noun.act:strike 2 drf noun.act:strike 5
+d: make a strategic, offensive, assault against an enemy, opponent, or a target
+e: The Germans struck Poland on Sept. 1, 1939
+e: We must strike the enemy's oil fields
+e: in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2
+fs: 8 9 10 2 11
+hyper: chop
+hyper: retaliate
+hyper: slice
+hyper: stroke
+hypo: assail 1
+vg: hit 1
+vg: verb.contact:hit 5
+
+w: hit 1 drf noun.act:hitting
+w: pip 1
+w: shoot 1 drf noun.act:shoot drf noun.person:shooter
+d: hit with a missile from a weapon
+fs: 9 8
+hyper: grass
+hyper: gun_down
+hyper: kneecap
+hypo: verb.body:injure
+vg: blast 1
+vg: hit
+vg: verb.social:pip
+
+w: hit 2 drf noun.act:hit 3
+w: rack_up 1
+w: score drf noun.act:score drf noun.person:scorer drf noun.quantity:score
+w: tally drf noun.act:tally 1
+d: gain points in a game
+e: The home team scored many times
+e: He hit a home run
+e: He hit .300 in the past season
+fs: 8 2
+entail: compete
+hyper: ace
+hyper: convert
+hyper: convert 1
+hyper: convert 2
+hyper: eagle
+hyper: equalise
+hyper: hole_up
+hyper: homer
+hyper: kick 5
+hyper: par
+hyper: shoot 6
+hyper: walk
+hyper: verb.possession:get 1
+hypo: advance
+
+w: hit 3 drf noun.act:hitting
+d: hit the intended target or goal
+fs: 8 11
+entail: aim
+hypo: verb.social:bring_home_the_bacon
+
+w: hold
+d: aim, point, or direct
+e: Hold the fire extinguisher directly on the flames
+fs: 20
+hypo: aim
+
+w: hold_off
+d: resist and fight to a standoff
+e: Dallas had enough of a lead to hold the Broncos off
+fs: 8 9
+hypo: hold_out
+
+w: hold_out drf noun.communication:holdout drf noun.person:holdout
+w: resist ant surrender drf adjs.all:resistant 1 drf adjs.all:resistive drf noun.act:resistance 1
+w: stand_firm
+w: withstand drf noun.person:withstander 1
+d: stand up or offer resistance to somebody or something
+fs: 8 9
+hyper: hold_off
+hyper: outbrave 1
+hyper: stand_out 1
+hyper: stand_up
+hyper: verb.stative:defy
+hyper: verb.stative:remain_firm
+hypo: defend 5
+
+w: hole_up
+d: score a hole in one
+fs: 2
+hypo: hit 2
+mt: noun.act:golf
+
+w: home_in 12
+w: range_in 12
+w: zero_in 12
+d: direct onto a point or target, especially by automatic navigational aids
+fs: 22
+hypo: aim 10
+
+w: homer drf noun.act:homer
+d: hit a home run
+fs: 2
+hypo: hit 2
+
+w: hook
+d: secure with the foot
+e: hook the ball
+fs: 8
+hypo: play 9
+mt: noun.act:rugby
+
+w: horse-race
+d: compete in a horse race
+fs: 2
+hyper: jockey 3
+hypo: race
+
+w: hunt drf noun.act:hunt drf noun.act:hunt 1 drf noun.act:hunting drf noun.act:hunting 1 drf noun.person:hunter
+w: hunt_down
+w: run 2
+w: track_down
+d: pursue for food or sport (as of wild animals)
+e: Goering often hunted wild boars in Poland
+e: The dogs are running deer
+e: The Duke hunted in these woods
+fs: 2 8 9
+hyper: ambush 1
+hyper: course
+hyper: drive
+hyper: drive 1
+hyper: falcon
+hyper: ferret
+hyper: fowl
+hyper: fowl 1
+hyper: foxhunt
+hyper: hawk
+hyper: jack
+hyper: poach
+hyper: rabbit
+hyper: seal
+hyper: snipe 1
+hyper: turtle
+hyper: whale
+hyper: verb.possession:forage
+hypo: verb.contact:capture
+vg: hunt 2
+vg: verb.motion:run 10
+
+w: hunt 2 drf noun.act:hunt drf noun.act:hunt 1 drf noun.act:hunting 1 drf noun.person:hunter
+d: search (an area) for prey
+e: The King used to hunt these forests
+fs: 8
+hypo: verb.perception:look 2
+vg: hunt
+
+w: hydrogen-bomb
+d: attack with a hydrogen bomb
+fs: 8
+hypo: bomb
+
+w: immobilise
+w: immobilize
+d: make defenseless
+fs: 11 9 10
+hypo: beat
+
+w: immunise
+w: immunize
+d: law: grant immunity from prosecution
+fs: 9 10
+hypo: protect
+
+w: invade drf adjs.all:invasive 1 drf noun.act:invasion drf noun.person:invader
+w: occupy drf noun.act:occupation 2 drf noun.person:occupier 1
+d: march aggressively into another's territory by military force for the purposes of conquest and occupation
+e: Hitler invaded Poland on September 1, 1939
+fs: 8 11
+hyper: verb.motion:infest
+hypo: assail 1
+
+w: jack
+w: jacklight
+d: hunt with a jacklight
+fs: 2 8
+hypo: hunt
+
+w: jockey 3 drf noun.person:jockey
+d: ride a racehorse as a professional jockey
+fs: 2
+hypo: horse-race
+
+w: jockey 13
+d: compete (for an advantage or a position)
+fs: 22
+hypo: maneuver
+
+w: join_battle
+d: engage in a conflict
+e: The battle over health care reform was joined
+fs: 2
+hypo: contend 1
+
+w: joust drf noun.event:joust
+d: joust against somebody in a tournament by fighting on horseback
+fs: 2 22
+hyper: tilt
+hypo: contend 1
+
+w: jump
+d: make a sudden physical attack on
+e: The muggers jumped the woman in the fur coat
+fs: 9
+hypo: assail
+
+w: jump 3
+d: enter eagerly into
+e: He jumped into the game
+fs: 22
+hypo: enter
+
+w: keep_pace
+w: keep_step
+d: maintain the same pace
+e: The child cannot keep step with his big brother
+fs: 2 22
+hypo: keep_up
+
+w: keep_up
+d: maintain a required pace or level
+e: He could not keep up and dropped out of the race
+fs: 2
+entail: compete
+hyper: keep_pace
+
+w: kick 5
+d: make a goal
+e: He kicked the extra point after touchdown
+fs: 8
+hyper: place-kick
+hypo: hit 2
+mt: noun.act:football
+
+w: kill_oneself
+w: overexert_oneself
+d: strain oneself more than is healthy
+fs: 2
+hypo: reach
+
+w: kneecap
+d: shoot in the kneecap, often done by terrorist groups as a warning
+e: They kneecapped the industrialist
+fs: 9
+hypo: hit 1
+
+w: let_drive
+w: let_fly
+w: loose_off
+d: fire as from a gun
+e: The soldiers let drive their bullets
+fs: 8
+hypo: discharge 1
+
+w: letter_bomb drf noun.artifact:letter_bomb
+d: send an explosive to
+e: The Unabomber letter bombed a number of individuals and institutions
+fs: 9
+hypo: bomb
+
+w: level 2
+d: aim at
+e: level criticism or charges at somebody
+fs: 21
+hypo: aim
+
+w: levy drf noun.act:levy 1
+w: raise
+w: recruit drf noun.act:recruitment drf noun.person:recruit drf noun.person:recruit 1 drf noun.person:recruiter
+d: cause to assemble or enlist in the military
+e: raise an army
+e: recruit new soldiers
+fs: 9
+hypo: draft
+
+w: line_up
+d: take one's position before a kick-off
+fs: 2
+hypo: play
+mt: noun.act:football
+
+w: look_out 10
+d: to protect someone's interests
+e: A man's gotta look out for his family
+fs: 9
+hypo: protect
+
+w: lose ant win drf noun.person:loser drf noun.person:loser 1 drf noun.person:loser 2
+d: fail to win
+e: We lost the battle but we won the war
+fs: 2 8 27
+entail: compete
+hyper: drop
+hyper: drop_one's_serve
+hyper: go_down
+hyper: remain_down
+
+w: lurch drf noun.event:lurch
+w: skunk drf noun.event:skunk
+d: defeat by a lurch
+fs: 9
+hypo: defeat
+mt: noun.act:card_game
+
+w: machine_gun drf noun.artifact:machine_gun
+d: shoot with a machine gun
+fs: 9
+entail: hit 1
+hypo: gun
+
+w: make_peace ant war drf noun.person:make-peace
+d: end hostilities
+e: The brothers who had been fighting over their inheritance finally made peace
+fs: 2
+hypo: verb.communication:conciliate
+
+w: man drf noun.person:man 5
+d: provide with workers
+e: We cannot man all the desks
+e: Students were manning the booths
+fs: 8
+hyper: crew
+hypo: staff
+vg: verb.social:man
+
+w: maneuver drf noun.act:maneuver 2
+w: manoeuver
+w: manoeuvre drf noun.act:manoeuvre 2
+w: operate drf noun.act:operation 2
+d: perform a movement in military or naval tactics in order to secure an advantage in attack or defense
+fs: 21 22
+hyper: jockey 13
+hypo: go
+
+w: match drf noun.event:match
+w: oppose drf adjs.all:opponent drf noun.person:opponent 2
+w: pit
+w: play_off drf noun.event:playoff
+d: set into opposition or rivalry
+e: let them match their best athletes against ours
+e: pit a chess player against the Russian champion
+e: He plays his two children off against each other
+fs: 10 9
+hypo: confront
+
+w: militarise ant demilitarise drf noun.act:militarisation drf noun.group:military
+w: militarize ant demilitarize drf noun.act:militarization drf noun.group:military
+d: lend a military character to (a country), as by building up a military force
+e: militarize Germany again after the war
+fs: 11 8
+hyper: mobilise
+hyper: remilitarise
+hypo: verb.change:alter 1
+
+w: mine drf noun.act:mining 2 drf noun.artifact:mine
+d: lay mines
+e: The Vietnamese mined Cambodia
+fs: 8
+hyper: countermine
+hypo: verb.change:reenforce
+
+w: misfire drf noun.event:misfire
+d: fail to fire or detonate
+e: The guns misfired
+fs: 1
+hypo: verb.change:break 5
+
+w: misplay drf noun.act:misplay
+d: play wrong or in an unskillful manner
+fs: 2
+hypo: play
+
+w: mobilise ant demobilise drf noun.act:mobilisation 1
+w: mobilize ant demobilize drf noun.act:mobilization 1
+d: get ready for war
+fs: 2
+hypo: militarise
+
+w: mop_up
+w: pip
+w: rack_up
+w: whip drf noun.event:whipping
+w: worst
+d: defeat thoroughly
+e: He mopped up the floor with his opponents
+fs: 8 9
+hypo: beat
+
+w: mothproof
+d: protect from moths
+e: mothproof woollen clothes during the summer
+fs: 8
+hypo: protect
+
+w: net_fish
+d: fish with nets
+fs: 8 2
+hypo: fish
+
+w: neutralise drf noun.act:neutralisation 1
+w: neutralize drf noun.act:neutralization 1
+d: make incapable of military action
+fs: 8
+hypo: demilitarise
+
+w: nose drf noun.quantity:nose
+d: defeat by a narrow margin
+fs: 9 10 11 8
+hypo: defeat
+
+w: open drf noun.act:opening 3
+d: make the opening move
+e: Kasparov opened with a standard opening
+fs: 2
+hypo: go
+mt: noun.act:chess
+
+w: out-herod
+d: surpass someone in cruelty or evil
+fs: 9
+hypo: exceed
+
+w: outbrave
+d: be braver than
+fs: 9
+hypo: exceed
+
+w: outbrave 1
+d: resist bravely
+e: He outbraved the enemy
+fs: 9
+hypo: hold_out
+
+w: outcry drf noun.communication:outcry
+w: outshout
+d: shout louder than
+fs: 9
+hypo: exceed
+
+w: outdraw
+d: draw a gun faster, or best someone in a gunfight
+fs: 8
+hypo: exceed
+
+w: outfight
+d: to fight better than; get the better of
+e: the Rangers outfought the Maple Leafs
+e: The French forces outfought the Germans
+fs: 10 11 8 9
+hypo: beat
+
+w: outfox
+d: outdo someone in trickery
+fs: 9
+hypo: exceed
+
+w: outgeneral
+d: surpass in generalship
+fs: 9
+hypo: outmaneuver
+
+w: outgrow
+d: grow faster than
+fs: 11 9
+hypo: exceed
+
+w: outmaneuver
+w: outmanoeuvre
+w: outsmart 1
+d: defeat by more skillful maneuvering
+e: The English troops outmaneuvered the Germans
+e: My new supervisor knows how to outmaneuver the boss in most situations
+fs: 9
+hyper: outgeneral
+hypo: best
+
+w: outmarch
+d: march longer distances and for a longer time than
+e: This guy can outmarch anyone!
+fs: 9
+hypo: exceed
+
+w: outpace
+d: surpass in speed
+e: Malthus believed that population increase would outpace increases in the means of subsistence
+fs: 9 11 8
+hypo: exceed
+
+w: outplay
+d: excel or defeat in a game
+e: The Knicks outplayed the Lakers
+fs: 9 11
+hypo: beat
+
+w: outpoint
+w: outscore
+d: score more points than one's opponents
+fs: 9
+hypo: beat
+
+w: outrange
+d: have a greater range than (another gun)
+fs: 11
+hypo: exceed
+
+w: outrival
+w: outvie
+d: be more of a rival than
+fs: 9 11
+hypo: rival
+
+w: outroar
+d: roar louder than
+fs: 9 11
+hypo: exceed
+
+w: outsail
+d: sail faster or better than
+e: They outsailed the Roman fleet
+fs: 9 8 11
+hypo: exceed
+
+w: outsell
+d: sell more than others
+e: This salesman outsells his colleagues
+fs: 9
+hypo: exceed
+
+w: outsell 1
+d: be sold more often than other, similar products
+e: The new Toyota outsells the Honda by a wide margin
+fs: 11
+hypo: exceed
+
+w: outshine
+d: attract more attention and praise than others
+e: This film outshone all the others in quality
+fs: 11 9
+hyper: upstage
+hypo: exceed
+
+w: outweigh
+d: be heavier than
+fs: 8
+hypo: exceed
+
+w: overmaster
+w: overpower
+w: overwhelm
+d: overcome by superior force
+fs: 10 9
+hyper: steamroll
+hypo: beat
+
+w: overprotect drf noun.act:overprotection
+d: protect excessively
+e: Don't overprotect your son--he is an adult now!
+fs: 9 8
+hypo: protect
+
+w: overrun 4
+d: seize the position of and defeat
+e: the Crusaders overran much of the Holy Land
+fs: 8
+hypo: defeat
+
+w: overshoot ant undershoot
+d: shoot beyond or over (a target)
+fs: 8
+entail: aim
+hypo: blast 1
+hypo: verb.contact:miss
+
+w: overtrump
+d: play a trump higher than (one previously played) to the trick
+fs: 2
+hypo: ruff
+mt: noun.act:card_game
+
+w: par drf noun.quantity:par
+d: make a score (on a hole) equal to par
+fs: 8
+hypo: hit 2
+mt: noun.act:golf
+
+w: pattern-bomb
+d: bomb in certain patterns
+fs: 8
+hypo: bomb
+
+w: pelt drf noun.person:pelter
+w: pepper
+d: attack and bombard with or as if with missiles
+e: pelt the speaker with questions
+fs: 17
+entail: verb.contact:throw
+hypo: assail 1
+
+w: pin
+d: (chess) immobilize a piece
+fs: 8
+hypo: aggress
+mt: noun.act:chess
+
+w: pitch 4 drf noun.act:pitch 1
+d: lead (a card) and establish the trump suit
+fs: 8
+hypo: play 3
+mt: noun.act:card_game
+
+w: place drf noun.act:place
+w: post
+w: send
+w: station drf noun.location:station drf noun.location:station 1
+d: assign to a station
+fs: 20
+hyper: fort
+hyper: garrison
+hyper: verb.possession:locate 1
+hypo: verb.motion:displace 2
+
+w: place 2 drf noun.communication:place 2
+d: finish second or better in a horse or dog race
+e: he bet $2 on number six to place
+fs: 1
+hypo: race
+
+w: place-kick drf noun.act:place-kicking
+d: score (a goal) by making a place kick
+fs: 8
+hypo: kick 5
+mt: noun.act:football
+
+w: play drf noun.act:play 5 drf noun.act:playing drf noun.person:player 1 drf noun.time:play see play_out
+d: participate in games or sport
+e: We played hockey all afternoon
+e: play cards
+e: Pele played for the Brazilian teams in many important matches
+fs: 2 8
+hyper: ace 2
+hyper: backstop
+hyper: bandy 1
+hyper: bowl
+hyper: bully_off
+hyper: catch
+hyper: complete
+hyper: cradle
+hyper: cricket
+hyper: croquet
+hyper: curl
+hyper: develop 2
+hyper: develop 3
+hyper: die
+hyper: exit
+hyper: field
+hyper: foul
+hyper: fullback
+hyper: fumble
+hyper: gamble
+hyper: golf
+hyper: line_up
+hyper: misplay
+hyper: play_out
+hyper: put_out
+hyper: quarterback
+hyper: replay
+hyper: revoke 4
+hyper: snooker
+hyper: start
+hyper: tee_off
+hyper: unblock
+hyper: volley
+hyper: walk 1
+hyper: verb.contact:putt 1
+hyper: verb.motion:seesaw 1
+hyper: verb.possession:bid 1
+hypo: compete
+vg: encounter
+
+w: play 1 drf noun.act:play 2
+d: bet or wager (money)
+e: He played $20 on the new horse
+e: She plays the races
+fs: 8
+hyper: underplay
+hypo: gamble
+vg: play 7
+
+w: play 3 drf noun.act:play 2
+d: put (a card or piece) into play during a game, or act strategically as if in a card game
+e: He is playing his cards close to his chest
+e: The Democrats still have some cards to play before they will concede the electoral victory
+fs: 8
+hyper: cover 7
+hyper: pitch 4
+hyper: verb.possession:declare
+hypo: deploy
+vg: play 12
+vg: play 13
+
+w: play 7 drf noun.act:play 2
+d: make bets
+e: Play the races
+e: play the casinos in Trouville
+fs: 8
+hypo: bet
+vg: bet
+vg: play 1
+
+w: play 9 drf noun.act:play 4
+d: shoot or hit in a particular manner
+e: She played a good backhand last night
+fs: 8
+hyper: hook
+hypo: verb.contact:hit 3
+vg: encounter
+
+w: play 12 drf noun.act:play 5
+d: employ in a game or in a specific position
+e: They played him on first base
+fs: 9
+hypo: verb.consumption:apply
+vg: encounter
+vg: play 3
+
+w: play 13 drf noun.act:play 5
+d: use or move
+e: I had to play my queen
+fs: 8
+hyper: promote
+hypo: verb.consumption:apply
+vg: encounter
+vg: play 3
+
+w: play_out
+d: play to a finish
+e: We have got to play this game out, even thought it is clear that we have last
+fs: 8
+hypo: play
+mt: noun.act:game
+vg: verb.creation:play_out
+
+w: poach drf noun.person:poacher
+d: hunt illegally
+e: people are poaching elephants for their ivory
+fs: 2
+hypo: hunt
+
+w: point 2 drf noun.artifact:point 2 drf noun.artifact:pointer drf noun.artifact:pointer 1 drf noun.communication:pointer
+d: be positionable in a specified manner
+e: The gun points with ease
+fs: 6 4
+hypo: verb.stative:be 3
+vg: charge 1
+
+w: pool drf noun.group:pool 1
+d: join or form a pool of people
+fs: 2
+hypo: aggroup
+
+w: pop drf noun.event:pop drf noun.event:popping
+d: fire a weapon with a loud explosive noise
+e: The soldiers were popping
+fs: 2
+hypo: discharge 1
+
+w: press drf noun.act:press 2
+w: weight-lift
+w: weightlift drf noun.act:weightlifting drf noun.person:weightlifter
+d: lift weights
+e: This guy can press 300 pounds
+fs: 2
+hypo: verb.body:exercise
+
+w: prevail
+w: triumph drf adjs.all:triumphant 1 drf noun.event:triumph
+d: prove superior
+e: The champion prevailed, though it was a hard fight
+fs: 2
+hypo: win
+
+w: promote
+d: change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent
+fs: 8
+hyper: verb.social:queen
+hypo: play 13
+mt: noun.act:chess
+vg: promote 1
+
+w: promote 1
+d: be changed for a superior chess or checker piece
+fs: 1
+hyper: verb.motion:queen
+hypo: verb.change:change
+mt: noun.act:board_game
+vg: promote
+
+w: protect drf adj.all:protective drf noun.act:protection drf noun.artifact:protection drf noun.person:protector
+d: shield from danger, injury, destruction, or damage
+e: Weatherbeater protects your roof from the rain
+fs: 8 11 10 9
+hyper: verb.communication:cover_for 1
+hyper: charm
+hyper: cover
+hyper: cover 1
+hyper: cover 13
+hyper: defend 2
+hyper: fence
+hyper: guard
+hyper: immunise
+hyper: look_out 10
+hyper: mothproof
+hyper: overprotect
+hyper: safeguard
+hyper: screen
+hyper: verb.motion:body_guard
+hyper: verb.possession:insure
+hyper: verb.social:cover 1
+hyper: verb.stative:keep 2
+hypo: defend
+
+w: protect 1 drf adj.all:protective drf noun.act:protection 3
+d: use tariffs to favor domestic industry
+fs: 9 8
+hypo: verb.social:assist
+mt: noun.act:trade 5
+
+w: pull 13
+w: root_for
+d: take sides with; align oneself with; show strong sympathy for
+e: We all rooted for the home team
+e: I'm pulling for the underdog
+e: Are you siding with the defender of the title?
+fs: 22
+hypo: side
+
+w: pump
+d: deliver forth
+e: pump bullets into the dummy
+fs: 8 21
+hypo: blast 1
+
+w: put_in
+w: submit 2 drf noun.person:submitter
+d: make an application as for a job or funding
+e: We put in a grant to the NSF
+fs: 2
+hypo: verb.communication:apply
+
+w: put_out drf noun.act:putout
+d: retire
+e: he was put out at third base on a long throw from left field
+fs: 2
+hypo: play
+mt: noun.act:ball 1
+
+w: quarterback drf noun.act:quarterback drf noun.person:quarterback
+d: play the quarterback
+fs: 2
+hypo: play
+mt: noun.act:football
+
+w: rabbit drf noun.animal:rabbit drf noun.food:rabbit drf noun.substance:rabbit
+d: hunt rabbits
+fs: 2 22
+hypo: hunt
+
+w: race drf noun.act:racing drf noun.animal:racer drf noun.artifact:racer drf noun.event:race drf noun.event:race 1
+w: run 1 drf noun.act:running drf noun.event:run 2 drf noun.person:runner see run_off
+d: compete in a race
+e: he is running the Marathon this year
+e: let's race and see who gets there first
+fs: 22 2
+hyper: boat-race
+hyper: campaign 1
+hyper: horse-race
+hyper: place 2
+hyper: show
+hyper: verb.motion:speed_skate
+hypo: compete
+
+w: rail
+d: fish with a handline over the rails of a boat
+e: They are railing for fresh fish
+fs: 2
+hypo: fish
+
+w: raise 8
+d: bet more than the previous player
+fs: 9
+hypo: bet
+mt: noun.act:card_game
+
+w: raise 9 drf noun.act:raise 1 drf noun.person:raiser 1
+d: bid (one's partner's suit) at a higher level
+fs: 8
+hypo: verb.possession:bid 1
+mt: noun.act:bridge
+
+w: re-arm
+w: rearm drf noun.act:rearmament
+d: arm anew
+e: After the war, the defeated country was not allowed to rearm
+fs: 2 1
+hypo: arm
+
+w: reach
+w: strain drf noun.act:strain drf noun.act:strain 2
+w: strive
+d: to exert much effort or energy
+e: straining our ears to hear
+fs: 22 2
+hyper: extend_oneself
+hyper: kill_oneself
+hyper: verb.social:bother
+hypo: verb.social:drive
+
+w: reassail
+d: assail again
+e: Her old fears reassailed her
+fs: 10 8 9
+hypo: assail
+
+w: recalcitrate drf noun.attribute:recalcitrance
+d: show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient
+e: The Democratic senators recalcitrated against every proposal from the Republican side
+fs: 22
+hypo: defend 5
+
+w: referee drf noun.act:refereeing drf noun.person:referee
+w: umpire drf noun.act:umpirage drf noun.communication:umpirage drf noun.person:umpire
+d: be a referee or umpire in a sports competition
+fs: 2 8
+hypo: verb.cognition:judge 2
+mt: noun.act:athletics
+
+w: remain_down
+w: take_the_count
+d: be counted out; remain down while the referee counts to ten
+fs: 2
+hypo: lose
+mt: noun.act:boxing
+
+w: remilitarise drf noun.act:remilitarisation
+w: remilitarize drf noun.act:remilitarization
+d: militarize anew
+e: Should Japan be remilitarized?
+fs: 8
+hypo: militarise
+
+w: replay drf noun.event:replay
+d: play again
+e: We replayed the game
+e: replay a point
+fs: 8
+hypo: play
+
+w: replay 1 drf noun.event:replay
+d: repeat a game against the same opponent
+e: Princeton replayed Harvard
+fs: 9
+hypo: encounter
+
+w: rerun
+d: run again for office
+e: Bush wants to rerun in 1996
+fs: 22 2
+hypo: campaign 1
+
+w: retaliate drf adjs.all:retaliatory drf noun.act:retaliation
+w: strike_back 4
+d: make a counterattack and return like for like, especially evil for evil
+e: The Empire strikes back
+e: The Giants struck back and won the opener
+e: The Israeli army retaliated for the Hamas bombing
+fs: 2 22
+hypo: hit
+
+w: retire
+w: strike_out drf noun.act:strikeout
+d: cause to get out
+e: The pitcher retired three batters
+e: the runner was put out at third base
+fs: 9
+cause: verb.motion:ease_up
+mt: noun.act:ball 1
+
+w: revoke 4 drf noun.act:revoke
+d: fail to follow suit when able and required to do so
+fs: 2
+hypo: play
+mt: noun.act:card_game
+
+w: rise
+d: exert oneself to meet a challenge
+e: rise to a challenge
+e: rise to the occasion
+fs: 22
+hypo: verb.social:tackle
+
+w: rival drf noun.act:rivalry drf noun.person:rival
+d: be the rival of, be in competition with
+e: we are rivaling for first place in the race
+fs: 11 9
+hyper: outrival
+hypo: compete
+
+w: romp drf noun.event:romp
+d: win easily
+e: romp a race
+fs: 2
+hypo: win
+
+w: rotate drf noun.attribute:rotation
+d: perform a job or duty on a rotating basis
+e: Interns have to rotate for a few months
+fs: 22 2
+hypo: serve
+vg: verb.social:rotate
+
+w: rout 1 drf noun.event:rout
+w: spread-eagle
+w: spreadeagle
+d: defeat disastrously
+fs: 9
+hypo: beat
+
+w: ruff drf noun.act:ruff
+w: trump 1 drf noun.act:trumping drf noun.artifact:trump
+d: play a trump
+fs: 2
+hyper: crossruff
+hyper: overtrump
+hypo: go
+mt: noun.act:card_game
+
+w: rule_in
+w: rule_out
+d: include or exclude by determining judicially or in agreement with rules
+fs: 8
+hypo: verb.cognition:decree
+
+w: run_off drf noun.act:runoff
+d: decide (a contest or competition) by a runoff
+fs: 8
+hypo: compete
+mt: noun.act:game
+
+w: rush
+d: attack suddenly
+fs: 10 9 8 11
+hyper: bear_down 3
+hypo: assail
+
+w: safeguard drf noun.act:safeguard
+d: make safe
+fs: 8 9
+hypo: protect
+
+w: savage drf noun.act:savagery drf noun.person:savage 1
+d: attack brutally and fiercely
+fs: 8 9 10 11
+hypo: assail
+
+w: scallop drf noun.animal:scallop drf noun.food:scallop drf noun.food:scallop 2
+w: scollop drf noun.animal:scollop drf noun.food:scollop drf noun.food:scollop 2
+d: fish for scallops
+fs: 2
+hypo: fish
+
+w: score 1 drf noun.cognition:score
+d: get a certain number or letter indicating quality or performance
+e: She scored high on the SAT
+e: He scored a 200
+fs: 7 8
+hyper: test
+hypo: verb.social:accomplish
+
+w: screen drf noun.act:screening drf noun.artifact:screen drf noun.artifact:screen 3 drf noun.artifact:screen 4
+w: shield drf noun.act:shielding drf noun.artifact:shield 1 drf noun.artifact:shield 2 drf noun.person:shielder
+d: protect, hide, or conceal from danger or harm
+fs: 9 10 11 8
+hypo: protect
+
+w: seal drf noun.animal:seal drf noun.substance:seal
+d: hunt seals
+fs: 22 2
+hypo: hunt
+
+w: see
+d: match or meet
+e: I saw the bet of one of my fellow players
+fs: 9
+hypo: bet
+mt: noun.act:card_game
+
+w: seine drf noun.artifact:seine
+d: fish with a seine; catch fish with a seine
+fs: 2 8
+hypo: fish
+
+w: serve
+d: do duty or hold offices; serve in a specific function
+e: He served as head of the department for three years
+e: She served in Congress for two terms
+fs: 22 2
+hyper: act
+hyper: caddie
+hyper: function
+hyper: rotate
+hyper: sit
+hyper: staff 1
+hyper: verb.social:represent
+hypo: verb.social:do_work
+vg: verb.social:serve 13
+
+w: serve 1 drf noun.act:serve drf noun.person:server 1
+d: put the ball into play
+e: It was Agassi's turn to serve
+fs: 2
+hyper: ace 1
+hypo: go
+mt: noun.act:court_game
+
+w: set
+w: sic
+d: urge to attack someone
+e: The owner sicked his dogs on the intruders
+e: the shaman sics sorcerers on the evil spirits
+fs: 19
+hypo: assail
+
+w: shame
+d: surpass or beat by a wide margin
+fs: 9
+hypo: exceed
+
+w: shark drf noun.animal:shark
+d: hunt shark
+fs: 2 22
+hypo: fish
+
+w: sharpshoot drf noun.person:sharpshooter drf noun.person:sharpshooter 1
+w: snipe drf noun.act:snipe drf noun.person:sniper
+d: aim and shoot with great precision
+fs: 2
+hypo: blast 1
+
+w: shoot 6
+d: score
+e: shoot a basket
+e: shoot a goal
+fs: 8
+hypo: hit 2
+mt: noun.act:athletics
+
+w: shoot_craps
+d: play a game of craps
+fs: 2
+hypo: gamble
+
+w: show
+d: finish third or better in a horse or dog race
+e: he bet $2 on number six to show
+fs: 1
+hypo: race
+
+w: shrimp drf noun.animal:shrimp drf noun.artifact:shrimper drf noun.food:shrimp
+d: fish for shrimp
+fs: 2
+hypo: fish
+
+w: shuttlecock drf noun.artifact:shuttlecock
+d: send or toss to and fro, like a shuttlecock
+fs: 8
+hypo: bandy 1
+
+w: side
+d: take sides for or against
+e: Who are you siding with?
+e: I'm siding against the current candidate
+fs: 22
+hyper: pull 13
+hypo: verb.cognition:align
+
+w: sign_up
+d: join a club, an activity, etc. with the intention to join or participate
+e: Sign up for yoga classes
+fs: 2 22
+hyper: enlist
+hypo: verb.social:fall_in
+
+w: sit
+d: serve in a specific professional capacity
+e: the priest sat for confession
+e: she sat on the jury
+fs: 2
+hypo: serve
+
+w: skip-bomb
+d: attack with delayed release bombs
+fs: 8
+hypo: bomb
+
+w: skirmish drf noun.act:skirmish drf noun.person:skirmisher
+d: engage in a skirmish
+fs: 2
+hypo: contend 1
+
+w: skittle drf noun.artifact:skittle
+d: play skittles
+fs: 2
+hypo: bowl
+
+w: slice drf noun.act:slice drf noun.act:slicing 1
+d: hit a ball so that it causes a backspin
+fs: 8 2
+hypo: hit
+
+w: smash
+d: overthrow or destroy (something considered evil or harmful)
+e: The police smashed the drug ring after they were tipped off
+fs: 9 8
+hypo: demolish
+
+w: snipe 1 drf noun.animal:snipe
+d: hunt or shoot snipe
+fs: 2
+hypo: hunt
+
+w: snooker drf noun.act:snooker
+d: leave one's opponent unable to take a direct shot
+fs: 2
+hypo: play
+mt: noun.act:snooker
+
+w: soldier drf noun.cognition:soldiering drf noun.group:soldiery drf noun.person:soldier
+d: serve as a soldier in the military
+fs: 22 2
+hypo: verb.stative:pass
+
+w: staff drf noun.group:staff drf noun.group:staff 1
+d: provide with staff
+e: This position is not always staffed
+fs: 8
+hyper: man
+hypo: verb.consumption:cater
+
+w: staff 1 drf noun.group:staff drf noun.group:staff 1
+d: serve on the staff of
+e: The two men staff the reception desk
+fs: 8
+hypo: serve
+
+w: stalemate drf noun.event:stalemate
+d: subject to a stalemate
+fs: 9
+hypo: go
+mt: noun.act:chess
+
+w: stand_out 1
+d: be stubborn in resolution or resistance
+fs: 2
+hypo: hold_out
+
+w: stand_up
+d: refuse to back down; remain solid under criticism or attack
+fs: 22 4
+hypo: hold_out
+
+w: start drf noun.act:start drf noun.act:start 2 drf noun.act:starting
+d: play in the starting lineup
+fs: 2
+hypo: play
+mt: noun.act:athletics
+
+w: steal drf noun.act:steal
+d: steal a base
+fs: 8
+hypo: advance
+mt: noun.act:ball 1
+
+w: steamroll drf noun.person:steamroller
+w: steamroller drf noun.person:steamroller
+d: overwhelm by using great force
+e: steamroller the opposition
+fs: 9 10 11 8
+hypo: overmaster
+vg: verb.social:steamroll 1
+
+w: still-fish
+d: fish with the line and bait resting still or stationary in the water
+fs: 2 8
+hypo: fish
+
+w: stockade drf noun.artifact:stockade 1
+d: surround with a stockade in order to fortify
+fs: 8
+hypo: fence
+
+w: storm drf noun.act:storm
+w: surprise drf noun.event:surprise drf noun.person:surpriser
+d: attack by storm; attack suddenly
+fs: 8 9
+hypo: assail 1
+
+w: strafe drf noun.act:strafe drf noun.person:strafer
+d: attack with machine guns or cannon fire from a low-flying plane
+e: civilians were strafed in an effort to force the country's surrender
+fs: 11 10 9
+hypo: assail 1
+
+w: stroke drf noun.act:stroke
+d: strike a ball with a smooth blow
+fs: 8
+hypo: hit
+
+w: stroke 1 drf noun.person:stroke
+d: row at a particular rate
+fs: 2
+hypo: verb.motion:row
+
+w: stump
+d: travel through a district and make political speeches
+e: the candidate stumped the Northeast
+fs: 8
+hypo: campaign 1
+
+w: subject
+d: make accountable for
+e: He did not want to subject himself to the judgments of his superiors
+fs: 9
+hypo: submit
+
+w: submarine
+d: attack by submarine
+e: The Germans submarined the Allies
+fs: 9 2 11 8
+hypo: assail 1
+
+w: submit drf adj.all:submissive drf adjs.all:submissive drf noun.act:submission 1 drf noun.person:submitter 1 drf noun.state:submission
+d: yield to the control of another
+fs: 22 2
+entail: give_up 1
+hyper: subject
+
+w: swallow
+d: engulf and destroy
+e: The Nazis swallowed the Baltic countries
+fs: 11 8 9 10
+hypo: demolish
+
+w: sweep
+d: win an overwhelming victory in or on
+e: Her new show dog swept all championships
+fs: 11 8
+hypo: win
+
+w: swing drf noun.act:swing 6
+d: hit or aim at with a sweeping arm movement
+e: The soccer player began to swing at the referee
+fs: 22
+hypo: aim
+
+w: tackle 1 drf noun.act:tackle drf noun.person:tackle drf noun.person:tackler
+d: seize and throw down an opponent player, who usually carries the ball
+fs: 9
+hypo: aggress
+mt: noun.act:football
+
+w: take 8
+d: obtain by winning
+e: Winner takes all
+e: He took first prize
+fs: 8
+hypo: win
+
+w: take_the_bull_by_the_horns
+d: face a difficulty and grapple with it without avoiding it
+fs: 2
+hypo: confront
+
+w: take_the_cake
+d: rank first; used often in a negative context
+e: He takes the cake for chutzpah!
+fs: 1 2
+hypo: win
+
+w: take_the_field
+d: go on the playing field, of a football team
+fs: 2
+hypo: verb.motion:come_in 2
+
+w: team drf noun.group:team
+w: team_up
+d: form a team
+e: We teamed up for this new project
+fs: 22
+hypo: aggroup
+
+w: teargas
+d: attack with teargas; subject to teargas fumes
+e: The students were teargassed during the riot
+fs: 9 8
+hypo: gas
+
+w: tee_off drf noun.act:teeoff
+d: strike a ball from the teeing ground at the start of a hole
+fs: 2
+hypo: play
+mt: noun.act:golf
+
+w: test drf noun.act:test 2 drf noun.act:test 3 drf noun.communication:test
+d: achieve a certain score or rating on a test
+e: She tested high on the LSAT and was admitted to all the good law schools
+fs: 7
+hypo: score 1
+vg: verb.cognition:test 6
+
+w: tilt drf noun.event:tilt 1 drf noun.person:tilter
+d: charge with a tilt
+fs: 2 22
+hypo: joust
+
+w: torpedo drf noun.artifact:torpedo
+d: attack or hit with torpedoes
+fs: 8 9
+hypo: assail 1
+
+w: tourney drf noun.event:tourney
+d: engage in a tourney
+fs: 2
+hypo: contend 1
+
+w: trawl drf noun.artifact:trawl drf noun.artifact:trawl 1
+d: fish with trawlers
+fs: 22 2
+hypo: fish
+
+w: tree drf noun.plant:tree
+d: chase an animal up a tree
+e: the hunters treed the bear with dogs and killed it
+e: her dog likes to tree squirrels
+fs: 11 8
+hypo: verb.motion:chase
+
+w: trigger drf noun.artifact:trigger
+d: release or pull the trigger on
+e: Trigger a gun
+fs: 8
+entail: discharge 1
+
+w: troll drf noun.act:troll drf noun.artifact:troll drf noun.person:troller
+d: angle with a hook and line drawn through the water
+fs: 8 2
+hypo: angle
+
+w: tug
+d: struggle in opposition
+e: She tugged and wrestled with her conflicts
+fs: 2
+hypo: contend 1
+
+w: turn 13
+d: direct at someone
+e: She turned a smile on me
+e: They turned their flashlights on the car
+fs: 8
+hypo: aim
+
+w: turtle drf noun.person:turtler
+d: hunt for turtles, especially as an occupation
+fs: 2
+hypo: hunt
+
+w: unblock
+d: play the cards of (a suit) so that the last trick on which a hand can follow suit will be taken by a higher card in the hand of a partner who has the remaining cards of a combined holding
+fs: 8
+hypo: play
+mt: noun.act:card_game
+
+w: underplay
+d: play a card lower than (a held high card)
+fs: 8
+hypo: play 1
+mt: noun.act:card_game
+
+w: undershoot ant overshoot
+d: shoot short of or below (a target)
+fs: 8
+entail: blast 1
+hypo: verb.contact:miss
+
+w: upset drf noun.act:upset drf noun.person:upsetter
+d: defeat suddenly and unexpectedly
+e: The foreign team upset the local team
+fs: 9
+hypo: defeat
+
+w: upstage drf noun.person:upstager
+d: steal the show, draw attention to oneself away from someone else
+e: When the dog entered the stage, he upstaged the actress
+fs: 9 8 11 10
+hypo: outshine
+
+w: volley drf noun.act:volley 1
+d: make a volley
+fs: 2
+hypo: play
+mt: noun.act:court_game
+
+w: walk drf noun.act:walk 1
+d: obtain a base on balls
+fs: 9 2
+hypo: hit 2
+mt: noun.act:ball 1
+vg: walk 1
+
+w: walk 1 drf noun.act:walk 1
+d: give a base on balls to
+fs: 9
+hypo: play
+mt: noun.act:ball 1
+vg: walk
+
+w: walk_over drf noun.act:walkover
+d: beat easily
+e: The local team walked over their old rivals for the championship
+fs: 9 8
+hypo: beat
+
+w: wallop drf noun.event:walloping drf noun.person:walloper
+d: defeat soundly and utterly
+e: We'll wallop them!
+fs: 8 9
+hypo: defeat
+
+w: war ant make_peace drf noun.act:war drf noun.person:warrior drf noun.state:war
+d: make or wage war
+fs: 2 22
+hyper: blitzkrieg
+hyper: go_to_war
+hypo: contend 1
+
+w: ward_off
+d: avert, turn away, or repel
+e: Ward off danger
+fs: 9 8
+hypo: defend
+
+w: whale drf noun.animal:whale drf noun.artifact:whaler drf noun.person:whaler
+d: hunt for whales
+fs: 2
+hypo: hunt
+
+w: whelk drf noun.animal:whelk drf noun.food:whelk
+d: gather whelk
+fs: 2 22
+hypo: verb.contact:snail
+
+w: whistlestop
+d: tour the country in order to solicit votes for an election
+fs: 22 2
+hypo: campaign 1
+
+w: whomp
+d: beat overwhelmingly
+fs: 9 8
+hypo: beat
+
+w: win ant lose drf noun.event:win drf noun.person:winner drf noun.person:winner 1 drf noun.possession:winnings
+d: be the winner in a contest or competition; be victorious
+e: He won the Gold Medal in skating
+e: Our home team won
+e: Win the game
+fs: 2 8 22
+entail: compete
+hyper: carry 1
+hyper: carry 12
+hyper: prevail
+hyper: romp
+hyper: sweep
+hyper: take 8
+hyper: take_the_cake
+
+w: wrestle 1 drf noun.person:wrestler
+d: combat to overcome an opposing tendency or force
+e: He wrestled all his life with his feeling of inferiority
+fs: 22
+hypo: battle
+
+w: yield drf noun.person:yielder
+d: cease opposition; stop fighting
+fs: 27 2
+hyper: give_up 1
+hyper: verb.possession:fall 5
+

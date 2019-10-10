@@ -1,0 +1,6235 @@
+noun.possession
+
+w: American_plan
+d: a hotel plan that includes three meals daily
+hyper: modified_American_plan
+hypo: hotel_plan
+
+w: Bermuda_plan
+d: a hotel plan that provides a full breakfast daily
+hypo: hotel_plan
+
+w: CD
+w: certificate_of_deposit
+d: a debt instrument issued by a bank; usually pays interest
+hyper: time_deposit
+hypo: certificate_of_indebtedness
+
+w: Christmas_box
+d: a present given at Christmas for services during the year
+hypo: backsheesh
+mr: noun.location:Britain
+
+w: Christmas_gift
+w: Christmas_present
+d: a present given at Christmas time
+hyper: stocking_filler
+hypo: present
+
+w: Civil_List
+d: a sum of money voted by British Parliament each year for the expenses of the British royal family
+hypo: budget 2
+mr: noun.location:Britain
+
+w: Clifford_trust
+w: grantor_trust
+d: a trust established to shift the income to someone who is taxed at a lower rate than the grantor for a period of 10 years or more
+hypo: trust 3
+
+w: Crown_land
+d: land that belongs to the Crown
+hypo: acres
+mr: noun.location:Britain
+
+w: EBITDA
+w: Earnings_Before_Interest_Taxes_Depreciation_and_Amortization
+d: income before interest and taxes and depreciation and amortization have been subtracted; an indicator of a company's profitability that is watched by investors (especially in leveraged buyouts)
+hypo: income
+
+w: ETF
+w: exchange_traded_fund
+d: a mutual fund that is traded on a stock exchange
+hypo: mutual_fund
+
+w: Eurocurrency
+d: currency of the major financial and industrial countries held in those countries for the purpose of lending and borrowing
+hyper: noun.quantity:Eurodollar
+hypo: currency
+
+w: European_Recovery_Program
+w: Marshall_Plan
+d: a United States program of economic aid for the reconstruction of Europe (1948-1952); named after George Marshall
+ihyper: foreign_aid
+
+w: European_plan
+w: continental_plan
+d: a hotel plan that provides a continental breakfast daily
+hypo: hotel_plan
+
+w: FICA
+d: a tax on employees and employers that is used to fund the Social Security system
+hypo: income_tax
+
+w: Federal_Reserve_note
+w: bank_bill
+w: bank_note
+w: banker's_bill
+w: banknote
+w: bill
+w: government_note
+w: greenback 1
+w: note 1
+d: a piece of paper money (especially one issued by a central bank)
+e: he peeled off five one-thousand-zloty notes
+hyper: buck
+hyper: c-note
+hyper: fifty
+hyper: five-spot
+hyper: silver_certificate
+hyper: ten_dollar_bill
+hyper: twenty
+hyper: two_dollar_bill
+hypo: folding_money
+
+w: GDP
+w: gross_domestic_product
+d: the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)
+hypo: noun.attribute:value
+
+w: GNP
+w: gross_national_product
+d: former measure of the United States economy; the total market value of goods and services produced by all citizens and capital during a given period (usually 1 yr)
+hyper: real_GNP
+hypo: noun.attribute:value
+
+w: HMO
+w: health_maintenance_organization
+d: group insurance that entitles members to services of participating hospitals and clinics and physicians
+hypo: health_insurance
+
+w: IOU
+d: an informal debt instrument; representing `I owe you'
+hypo: note
+
+w: M1
+d: a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances
+hypo: money_supply
+
+w: M2
+d: a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)
+hypo: money_supply
+
+w: M3
+d: a measure of the money supply; M2 plus deposits at institutions that are not banks (such as savings and loan associations)
+hypo: money_supply
+
+w: Maundy_money
+d: specially minted silver coins that are distributed by the British sovereign on Maundy Thursday
+hypo: coin 2
+mr: noun.location:Britain
+
+w: Medicaid_funds
+d: public funds used to pay for Medicaid
+hypo: cash_in_hand
+
+w: OTC_security
+w: over_the_counter_security
+w: unlisted_security ant listed_security
+d: a security traded in the over-the-counter market
+hyper: OTC_stock
+hypo: certificate
+
+w: OTC_stock
+w: over_the_counter_stock
+w: unlisted_stock
+d: stock that is not listed and traded on an organized exchange
+hyper: penny_stock
+hypo: OTC_security
+
+w: PAYE
+w: pay_as_you_earn
+d: the British system of withholding tax
+hypo: withholding
+
+w: Peter's_pence
+w: hearth_money
+d: an annual contribution made by Roman Catholics to support the papal see
+hypo: offering
+
+w: Premium_Bond
+d: a government bond that bears no interest or capital gains but enters the holder into lotteries
+hypo: bond 2
+mr: noun.location:Britain
+
+w: Susan_B_Anthony_dollar
+d: a United States coin worth one dollar
+hypo: dollar 1
+
+w: T-bill
+w: Treasury_bill
+d: a short-term obligation that is not interest-bearing (it is purchased at a discount); can be traded on a discount basis for 91 days
+hypo: Treasury 1
+
+w: Totten_trust
+w: savings_account_trust
+w: savings_bank_trust
+w: trust_account
+w: trustee_account
+d: a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary
+hypo: trust 3
+
+w: Treasury 1
+w: Treasury_obligations
+d: negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time
+hyper: T-bill
+hyper: Treasury_bond
+hyper: Treasury_note
+hypo: government_bond
+
+w: Treasury_bond
+d: a debt instrument with maturities of 10 years or longer
+hypo: Treasury 1
+
+w: Treasury_note
+d: securities with maturities of 1 to 10 years; sold for cash or in exchange for maturing issues or at auction
+hypo: Treasury 1
+
+w: VAT
+w: ad_valorem_tax
+w: value-added_tax
+d: a tax levied on the difference between a commodity's price before taxes and its cost of production
+hypo: excise
+
+w: acceptance
+w: banker's_acceptance
+d: banking: a time draft drawn on and accepted by a bank
+hypo: bill_of_exchange
+
+w: accession
+w: addition
+d: something added to what you already have
+e: the librarian shelved the new accessions
+e: he was a new addition to the staff
+hypo: acquisition
+
+w: accession 1
+d: (civil law) the right to all of that which your property produces whether by growth or improvement
+hypo: property_right
+mt: noun.group:civil_law
+
+w: account 2
+w: account_statement
+w: accounting drf verb.possession:account
+d: a statement of recent transactions and the resulting balance
+e: they send me an accounting every month
+hyper: capital_account 1
+hyper: capital_account 2
+hyper: expense_account
+hyper: profit_and_loss
+hyper: suspense_account
+hypo: noun.communication:financial_statement
+mp: balance
+
+w: account_book
+w: book
+w: book_of_account
+w: ledger
+w: leger
+d: a record in which commercial accounts are recorded
+e: they got a subpoena to examine our books
+hyper: cost_ledger
+hyper: daybook
+hyper: general_ledger
+hyper: subsidiary_ledger
+hypo: record
+mm: accounting 1
+
+w: accounting 1 drf verb.possession:account
+w: accounting_system
+w: method_of_accounting
+d: a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts
+hm: account_book
+hyper: accounting_entry
+hyper: accrual_basis
+hyper: audit
+hyper: cash_basis
+hyper: control_account
+hyper: credit_side
+hyper: debit_side
+hyper: limited_review
+hyper: pooling_of_interest
+hypo: register
+
+w: accounting_entry
+w: entry
+w: ledger_entry
+d: a written record of a commercial transaction
+hyper: adjusting_entry
+hyper: credit 1
+hyper: debit 1
+hypo: accounting 1
+
+w: accounts_payable
+d: a debtor's accounts of money he owes; normally arise from the purchase of products or services
+hypo: liabilities
+
+w: accounts_receivable
+d: a creditor's accounts of money owed to him; normally arise from the sale of products or services
+hypo: assets
+mu: noun.communication:plural
+
+w: accretion drf adjs.all:accretionary
+d: (law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
+hypo: heritage 2
+mt: noun.group:jurisprudence
+
+w: accrual_basis ant cash_basis
+d: a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made
+hypo: accounting 1
+
+w: accumulation
+d: (finance) profits that are not paid out as dividends but are added to the capital base of the corporation
+hyper: backlog
+hyper: fund 1
+hypo: earnings 1
+mt: noun.cognition:finance
+
+w: acquisition
+d: something acquired
+e: a recent acquisition by the museum
+hyper: accession
+hyper: gift
+hyper: purchase
+hypo: transferred_possession
+
+w: acres
+w: demesne
+w: estate 1
+w: land
+w: landed_estate
+d: extensive landed property (especially in the country) retained by the owner for his own use
+e: the family owned a large estate on Long Island
+hyper: Crown_land
+hyper: barony
+hyper: countryseat
+hyper: entail
+hyper: feoff
+hyper: freehold 1
+hyper: glebe
+hyper: hacienda
+hyper: homestead 1
+hyper: leasehold
+hyper: manor
+hyper: plantation
+hyper: seigneury
+hyper: smallholding
+hypo: immovable
+
+w: active_trust ant passive_trust
+d: a trust in which the trustee must perform certain duties
+hypo: trust 3
+
+w: actual_damages
+w: compensatory_damages
+w: general_damages
+d: (law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+hypo: amends
+mt: noun.group:jurisprudence
+
+w: adjusting_entry
+d: an accounting entry made at the end of an accounting period to allocate items between accounting periods
+hypo: accounting_entry
+
+w: adjustment drf verb.cognition:adjust
+w: allowance 1
+d: an amount added or deducted on the basis of qualifying circumstances
+e: an allowance for profit
+hyper: cost-of-living_allowance
+hyper: deduction
+hyper: depreciation_allowance
+hyper: seasonal_adjustment
+hyper: tare
+hypo: recompense
+
+w: admission drf verb.social:admit 1 drf verb.stative:admit 3
+w: admission_charge
+w: admission_fee
+w: admission_price
+w: entrance_fee
+w: entrance_money
+w: price_of_admission
+d: the fee charged for admission
+hypo: fee
+
+w: advance drf verb.possession:advance
+w: cash_advance
+d: an amount paid before it is earned
+hypo: amount
+
+w: advance_death_benefit
+d: a percentage of death benefits paid directly to policy holders having a short life expectancy (usually 6 months)
+hyper: viatical_settlement 2
+hypo: death_benefit
+
+w: agency_security
+w: government_security
+d: a security issued by United States government agencies or the Farm Credit System
+hypo: certificate
+
+w: agio
+w: agiotage
+w: exchange_premium
+w: premium 3
+d: a fee charged for exchanging currencies
+hypo: charge 2
+
+w: aid
+w: assistance
+w: economic_aid
+w: economic_assistance
+w: financial_aid
+w: financial_assistance
+d: gift of money or other material help to support a person or cause
+e: economic assistance to depressed areas
+hyper: noun.act:philanthropic_gift
+hyper: noun.act:public_assistance
+hyper: fellowship
+hyper: foreign_aid
+hyper: grant
+hyper: grant-in-aid
+hyper: scholarship
+hyper: traineeship
+hypo: gift
+
+w: airfare
+d: the fare charged for traveling by airplane
+hypo: fare
+
+w: alimony
+w: maintenance 1
+d: court-ordered support paid by one spouse to another after they are separated
+hypo: support_payment
+
+w: allocation drf verb.possession:allocate
+w: allotment
+d: a share set aside for a specific purpose
+hyper: quota
+hyper: reallocation
+hypo: part
+
+w: allowance drf verb.cognition:allow 1 drf verb.possession:allowance
+d: an amount allowed or granted (as during a given period)
+e: travel allowance
+e: my weekly allowance of two eggs
+e: a child's allowance should not be too generous
+hyper: privy_purse
+hypo: part
+
+w: allowance 2
+d: a sum granted as reimbursement for expenses
+hyper: per_diem
+hyper: travel_allowance
+hypo: reimbursement
+
+w: allowance 3
+w: allowance_account
+w: valuation_account
+w: valuation_reserve
+d: a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+hypo: reserve_account
+
+w: amends
+w: damages
+w: indemnification drf verb.possession:indemnify
+w: indemnity drf verb.possession:indemnify
+w: redress drf verb.social:redress
+w: restitution
+d: a sum of money paid in compensation for loss or injury
+hyper: actual_damages
+hyper: atonement
+hyper: exemplary_damages
+hyper: nominal_damages
+hyper: relief
+hypo: compensation
+
+w: amenities
+w: comforts
+w: conveniences
+w: creature_comforts
+d: things that make you comfortable and at ease
+e: all the comforts of home
+hypo: bread_and_butter
+
+w: amercement drf verb.social:amerce 1
+w: fine drf verb.social:fine
+w: mulct drf verb.possession:mulct
+d: money extracted as a penalty
+hyper: library_fine
+hypo: penalty
+
+w: amount
+w: amount_of_money
+w: sum
+w: sum_of_money
+d: a quantity of money
+e: he borrowed a large sum
+e: the amount he had in cash was insufficient
+hyper: advance
+hyper: cash_surrender_value
+hyper: contribution 1
+hyper: coverage
+hyper: deductible
+hyper: defalcation
+hyper: figure
+hyper: gain
+hyper: gross
+hyper: loss
+hyper: payroll 2
+hyper: peanuts
+hyper: purse
+hyper: purse 1
+hypo: assets
+
+w: analytical_review
+d: an auditing procedure based on ratios among accounts and tries to identify significant changes
+hypo: limited_review
+
+w: anchorage
+d: a fee for anchoring
+hypo: fee
+
+w: annuity
+w: rente 1
+d: income from capital investment paid in a series of regular payments
+e: his retirement fund was set up to be paid as an annuity
+hyper: annuity_in_advance
+hyper: ordinary_annuity
+hyper: reversionary_annuity
+hyper: tontine
+hypo: regular_payment
+
+w: annuity_in_advance
+d: an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods
+e: rent payable in advance constitutes an annuity in advance for the landlord
+hyper: rent
+hypo: annuity
+
+w: ante drf verb.competition:ante
+d: (poker) the initial contribution that each player makes to the pot
+hypo: bet
+mt: noun.act:poker
+
+w: anti-dumping_duty
+d: a tariff imposed to prevent dumping
+hypo: protective_tariff
+
+w: apanage
+w: appanage
+d: a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family
+e: bishoprics were received as appanages for the younger sons of great families
+hypo: assignment 2
+
+w: apanage 1
+w: appanage 1
+d: any customary and rightful perquisite appropriate to your station in life
+e: for thousands of years the chair was an appanage of state and dignity rather than an article of ordinary use
+hypo: fringe_benefit
+
+w: appropriation
+d: money set aside (as by a legislature) for a specific purpose
+hyper: pork
+hypo: money
+mt: noun.group:general_assembly
+
+w: arles
+w: earnest_money
+d: money given by a buyer to a seller to bind a contract
+hypo: earnest
+
+w: arrears
+d: an unpaid overdue debt
+hypo: debt
+
+w: artisan's_lien
+d: lien permitting an artisan to retain possession of a piece of work until has been paid for
+hypo: lien
+
+w: asking_price
+w: selling_price
+d: the price at which something is offered for sale
+hyper: list_price
+hyper: offer_price
+hyper: upset_price
+hypo: damage
+
+w: assessment drf verb.possession:assess drf verb.possession:assess 1
+d: an amount determined as payable
+e: the assessment for repairs outraged the club's membership
+hypo: charge 1
+
+w: assets
+d: anything of material value or usefulness that is owned by a person or company
+hyper: accounts_receivable
+hyper: amount
+hyper: capital
+hyper: capital 1
+hyper: cash_in_hand
+hyper: credit 2
+hyper: crown_jewel
+hyper: current_assets
+hyper: deep_pockets
+hyper: equity 1
+hyper: hole_card
+hyper: intangible
+hyper: investment
+hyper: material_resource
+hyper: overage
+hyper: part
+hyper: protection
+hyper: receivables
+hyper: reserve_assets
+hyper: resource
+hyper: tax_base
+hypo: noun.Tops:possession
+mu: noun.communication:plural
+
+w: assignment 2 drf verb.possession:assign
+w: grant 2 drf verb.possession:grant 2
+d: (law) a transfer of property by deed of conveyance
+hyper: apanage
+hyper: land_grant
+hypo: transferred_possession
+mt: noun.group:jurisprudence
+
+w: assurance 2
+d: a British term for some kinds of insurance
+hypo: insurance 2
+mr: noun.location:Britain
+
+w: atonement drf verb.social:atone 12
+w: expiation drf verb.social:expiate
+w: satisfaction
+d: compensation for a wrong
+e: we were unable to get satisfaction from the local store
+hypo: amends
+
+w: audit drf verb.cognition:audit 1
+w: audited_account
+d: an inspection of the accounting procedures and records by a trained accountant or CPA
+hyper: noun.act:financial_audit
+hyper: limited_audit
+hypo: accounting 1
+mp: bottom_line
+
+w: authorized_shares
+w: authorized_stock
+w: capital_stock
+d: the maximum number of shares authorized under the terms of a corporation's articles of incorporation
+hypo: stock
+
+w: auto_loan
+w: automobile_loan
+w: car_loan
+d: a personal loan to purchase an automobile
+hypo: consumer_loan
+
+w: automobile_insurance
+w: car_insurance
+d: insurance against loss due to theft or traffic accidents
+hyper: no_fault_automobile_insurance
+hypo: insurance 2
+
+w: award drf verb.possession:award
+w: prize
+d: something given for victory or superiority in a contest or competition or for winning a lottery
+e: the prize was a free trip to Europe
+hyper: door_prize
+hyper: fellowship
+hyper: gratuity 1
+hyper: jackpot 1
+hyper: premium 4
+hyper: prize_money
+hyper: scholarship
+hypo: gift
+
+w: backing drf verb.possession:back
+w: financial_backing
+w: financial_support
+w: funding drf verb.possession:fund
+w: support 1 drf verb.possession:support
+d: financial resources provided to make some project possible
+e: the foundation provided support for the experiment
+hypo: resource
+
+w: backlog drf verb.change:backlog
+w: reserve drf verb.cognition:reserve drf verb.possession:reserve 3
+w: stockpile drf verb.possession:stockpile
+d: something kept back or saved for future use or a special purpose
+hyper: bank
+hyper: fuel_level
+hyper: reserve_account
+hypo: accumulation
+
+w: backsheesh
+w: baksheesh
+w: bakshis
+w: bakshish
+w: gratuity
+w: pourboire
+w: tip drf verb.possession:tip
+d: a relatively small amount of money given for services rendered (as by a waiter)
+hyper: Christmas_box
+hypo: fringe_benefit
+
+w: bad_check
+w: bad_cheque
+d: a check that is dishonored on presentation because of insufficient funds
+e: issuing a bad check is a form of larceny
+hypo: bank_check
+
+w: bad_debt
+d: a debt that is unlikely to be repaid
+hypo: debt
+
+w: bail drf verb.social:bail
+w: bail_bond
+w: bond 3
+d: (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial
+e: the judge set bail at $10,000
+e: a $10,000 bond was furnished by an alderman
+hypo: recognisance
+mt: noun.communication:criminal_law
+
+w: balance drf verb.possession:balance
+d: equality between the totals of the credit and debit sides of an account
+hp: account 2
+hyper: trial_balance
+hypo: noun.attribute:equality
+
+w: balance 1
+d: the difference between the totals of the credit and debit sides of an account
+hyper: balance_of_trade
+hyper: carry-forward
+hyper: compensating_balance
+hyper: invisible_balance
+hypo: noun.quantity:difference
+
+w: balance_of_international_payments
+w: balance_of_payments
+d: a system of recording all of a country's economic transactions with the rest of the world over a period of one year
+e: a favorable balance of payments exists when more payments are coming in than going out
+hypo: noun.cognition:accounting
+mp: capital_account 2
+mp: current_account
+
+w: balance_of_trade
+w: trade_balance
+w: trade_gap
+w: visible_balance
+d: the difference in value over a period of time of a country's imports and exports of merchandise
+e: a nation's balance of trade is favorable when its exports exceed its imports
+hypo: balance 1
+
+w: balance_sheet
+d: a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets
+hypo: record
+
+w: balanced_budget
+d: a budget is balanced when current expenditures are equal to receipts
+hypo: budget 3
+
+w: bank
+d: a supply or stock held in reserve for future use (especially in emergencies)
+hyper: blood_bank
+hyper: eye_bank
+hyper: food_bank
+hyper: soil_bank
+hypo: backlog
+
+w: bank 1
+d: the funds held by a gambling house or the dealer in some gambling games
+e: he tried to break the bank at Monte Carlo
+hypo: cash_in_hand
+
+w: bank_account
+d: a fund that a customer has entrusted to a bank and from which the customer can make withdrawals
+e: he moved his bank account to a new bank
+hyper: checking_account
+hyper: giro_account
+hyper: savings_account
+hypo: noun.state:account
+
+w: bank_card
+d: a credit card issued by a bank
+hypo: charge_card
+
+w: bank_check
+w: check drf verb.communication:check 7
+w: cheque drf verb.possession:cheque
+d: a written order directing a bank to pay money
+e: he paid all his bills by check
+hyper: bad_check
+hyper: blank_check
+hyper: cashier's_check
+hyper: certified_check
+hyper: counter_check
+hyper: giro
+hyper: kite
+hyper: kite 1
+hyper: medicare_check
+hyper: paycheck
+hyper: personal_check
+hypo: bill_of_exchange
+
+w: bank_deposit
+w: deposit 1 drf verb.possession:deposit
+d: money deposited in a bank or some similar institution
+hyper: demand_deposit
+hypo: fund
+
+w: bank_discount
+w: discount 1
+w: discount_rate
+d: interest on an annual basis deducted in advance on a loan
+hyper: bank_rate
+hypo: interest_rate
+
+w: bank_draft
+w: banker's_draft
+d: a draft drawn by a bank against funds deposited in another bank
+hypo: bill_of_exchange
+
+w: bank_line
+w: credit_line
+w: line
+w: line_of_credit
+w: personal_credit_line
+w: personal_line_of_credit
+d: the maximum credit that a customer is allowed
+hyper: consumer_credit
+hypo: credit 2
+
+w: bank_loan
+d: a loan made by a bank; to be repaid with interest on or before a fixed date
+hyper: business_loan
+hyper: interbank_loan
+hypo: loan
+
+w: bank_rate
+d: the discount rate fixed by a central bank
+hypo: bank_discount
+
+w: bankbook
+w: passbook
+d: a record of deposits and withdrawals and interest held by depositors at certain banks
+hypo: record
+
+w: banker's_check
+w: traveler's_check
+w: traveller's_check
+d: a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+hypo: traveler's_letter_of_credit
+
+w: bankroll
+w: roll
+d: a roll of currency notes (often taken as the resources of a person or business etc.)
+e: he shot his roll on a bob-tailed nag
+hypo: cash_in_hand
+mt: noun.act:business 1
+
+w: bargain 1 drf verb.possession:bargain
+w: buy drf verb.possession:buy drf verb.stative:buy
+w: steal
+d: an advantageous purchase
+e: she got a bargain at the auction
+e: the stock was a real buy at that price
+hyper: song
+hyper: travel_bargain
+hypo: purchase
+
+w: barony
+d: the estate of a baron
+hypo: acres
+
+w: base_rate
+d: the interest rate set by the Bank of England for lending to other banks
+hypo: interest_rate
+mr: noun.location:Britain
+
+w: bawbee
+d: an old Scottish coin of little value
+hypo: coin 2
+
+w: bearer_bond
+w: coupon_bond
+d: a bond issued with detachable coupons that must be presented to the issuer for interest payments
+hypo: bond 2
+
+w: belongings drf verb.possession:belong
+w: holding drf verb.possession:hold
+w: property
+d: something owned; any tangible or intangible possession that is owned by someone
+e: that hat is my property
+e: he is a man of property
+hyper: church_property
+hyper: commonage
+hyper: community_property
+hyper: estate 2
+hyper: heirloom 1
+hyper: hereditament
+hyper: immovable
+hyper: intellectual_property
+hyper: landholding
+hyper: lease
+hyper: material_possession
+hyper: personal_estate
+hyper: public_property
+hyper: ratables
+hyper: salvage
+hyper: shareholding
+hyper: stockholding 2
+hyper: things
+hyper: trade-in
+hyper: trust 3
+hyper: wealth
+hyper: worldly_belongings
+hypo: noun.Tops:possession
+
+w: benefaction drf verb.social:benefact
+d: a contribution of money or assistance
+hypo: contribution
+
+w: benefice drf adj.pert:beneficiary drf verb.possession:benefice
+w: ecclesiastical_benefice
+d: an endowed church office giving income to its holder
+hyper: sinecure
+hypo: church_property
+
+w: benefit
+d: financial assistance in time of need
+hyper: cost-of-living_benefit
+hyper: death_benefit
+hyper: disability_benefit
+hyper: fringe_benefit
+hyper: sick_benefit
+hyper: stock_option 1
+hypo: payment
+
+w: bequest
+w: legacy
+d: (law) a gift of personal property by will
+hypo: gift
+hypo: heritage 2
+mt: noun.group:jurisprudence
+
+w: bestowal
+w: bestowment drf verb.possession:bestow 2
+d: a gift that is bestowed or conferred
+hypo: gift
+
+w: bet drf verb.competition:bet
+w: stake drf verb.competition:stake drf verb.social:stake
+w: stakes
+w: wager drf verb.competition:wager
+d: the money risked on a gamble
+hp: pool
+hyper: ante
+hyper: jackpot
+hyper: kitty
+hypo: gamble
+
+w: bezant
+w: bezzant
+w: byzant
+w: solidus
+d: a gold coin of the Byzantine Empire; widely circulated in Europe in the Middle Ages
+hypo: coin 2
+
+w: bid_price
+d: (stock market) the price at which a broker is willing to buy a certain security
+hypo: damage
+mt: noun.artifact:securities_market
+
+w: big_bucks
+w: big_money
+w: bundle
+w: megabucks
+w: pile
+d: a large sum of money (especially as pay or profit)
+e: she made a bundle selling real estate
+e: they sank megabucks into their new house
+hypo: money 2
+mu: noun.communication:argot
+
+w: bill_of_exchange
+w: draft
+w: order_of_payment
+d: a document ordering the payment of money; drawn by one person or bank on another
+hyper: acceptance
+hyper: bank_check
+hyper: bank_draft
+hyper: dividend_warrant
+hyper: foreign_bill
+hyper: inland_bill
+hyper: money_order
+hyper: overdraft
+hyper: redraft
+hyper: sight_bill
+hyper: time_bill
+hyper: trade_acceptance
+hypo: noun.communication:negotiable_instrument
+
+w: bimetallism drf adj.pert:bimetallistic drf noun.person:bimetallist
+d: a monetary standard under which the basic unit of currency is defined by stated amounts of two metals (usually gold and silver) with values set at a predetermined ratio
+hypo: monetary_standard
+
+w: birthday_gift
+w: birthday_present
+d: a present given in celebration of a person's birthday
+hypo: present
+
+w: birthright
+w: patrimony 1 drf adjs.all:patrimonial
+d: an inheritance coming by right of birth (especially by primogeniture)
+hypo: heritage 2
+
+w: blank_check
+w: blank_cheque
+d: a check that has been signed but with the amount payable left blank
+hm: checkbook
+hypo: bank_check
+
+w: blind_trust
+d: a trust that enables a person to avoid possible conflict of interest by transferring assets to a fiduciary; the person establishing the trust gives up the right to information about the assets
+hypo: trust 3
+
+w: blood_bank
+d: a place for storing whole blood or blood plasma
+e: the Red Cross created a blood bank for emergencies
+hypo: bank
+
+w: blood_money 1
+d: compensation paid to the family of a murdered person
+hypo: compensation
+
+w: blood_money 2
+d: a reward for information about a murderer
+hypo: reward
+
+w: blood_money 3
+d: paid to a hired murderer
+hypo: payment
+
+w: blue-chip_stock
+w: blue_chip
+d: a common stock of a nationally known company whose value and dividends are reliable; typically have high price and low yield
+e: blue chips are usually safe investments
+hypo: common_shares
+
+w: bond 2 drf verb.possession:bond
+w: bond_certificate
+d: a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal
+hyper: Premium_Bond
+hyper: bearer_bond
+hyper: bond_issue
+hyper: convertible_bond
+hyper: corporate_bond
+hyper: debenture
+hyper: government_bond
+hyper: high-yield_bond
+hyper: municipal_bond
+hyper: noncallable_bond
+hyper: performance_bond
+hyper: post-obit_bond
+hyper: registered_bond
+hyper: revenue_bond
+hyper: secured_bond
+hyper: zero-coupon_bond
+hypo: certificate
+hypo: certificate_of_indebtedness
+
+w: bond_issue
+d: bonds sold by a corporation or government agency at a particular time and identifiable by date of maturity
+hypo: bond 2
+
+w: bonus
+w: incentive
+d: an additional payment (or other remuneration) to employees as a means of increasing output
+hp: incentive_program
+hyper: dividend 1
+hyper: premium 4
+hyper: sales_incentive
+hypo: payment
+
+w: boodle
+w: bread
+w: cabbage drf verb.possession:cabbage
+w: clams
+w: dinero
+w: dough
+w: gelt
+w: kale
+w: lettuce
+w: lolly
+w: loot 1
+w: lucre 2
+w: moolah
+w: pelf
+w: scratch
+w: shekels
+w: simoleons
+w: sugar
+w: wampum
+d: informal terms for money
+hypo: money
+
+w: book_value
+d: the value at which an asset is carried on a balance sheet; equals cost minus accumulated depreciation
+hyper: capital_stock 1
+hypo: noun.attribute:value
+
+w: booty
+w: dirty_money
+w: loot drf verb.possession:loot
+w: pillage drf verb.possession:pillage
+w: plunder drf verb.possession:plunder drf verb.possession:plunder 1 drf verb.possession:plunder 2
+w: prize 1
+w: swag
+d: goods or money obtained illegally
+hypo: stolen_property
+mp: cut
+
+w: borough_English
+d: a former English custom by which the youngest son inherited land to the exclusion of his older brothers
+hypo: heritage 2
+
+w: borrowing_cost
+d: the cost of borrowing something
+hypo: cost
+
+w: bottom_line
+d: the last line in an audit; the line that shows profit or loss
+hp: audit
+hypo: noun.communication:line 2
+
+w: bounty
+w: premium 1
+d: payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+hypo: reward
+mt: noun.act:administration 4
+
+w: box_office
+d: total admission receipts for an entertainment
+hypo: gross
+
+w: bracket_creep
+d: a movement into a higher tax bracket as taxable income increases
+hypo: income_tax
+
+w: bread_and_butter
+w: keep drf verb.consumption:keep
+w: livelihood
+w: living
+w: support drf verb.possession:support
+w: sustenance drf verb.consumption:sustain
+d: the financial means whereby one lives
+e: each child was expected to pay for their keep
+e: he applied to the state for support
+e: he could no longer earn his own livelihood
+hyper: amenities
+hyper: maintenance
+hyper: meal_ticket
+hyper: subsistence
+hypo: resource
+
+w: breakage
+d: reimbursement for goods damaged while in transit or in use
+hypo: reimbursement
+
+w: bribe drf verb.possession:bribe
+w: payoff 1
+d: payment made to a person in a position of trust to corrupt his judgment
+hyper: hush_money
+hyper: kickback
+hyper: payola
+hyper: soap
+hypo: payment
+
+w: bride-gift
+d: a wedding present to the bride
+hypo: wedding_gift
+
+w: bride_price
+d: money or property given (in some societies) by the bridegroom to the family of his bride
+hypo: gift
+
+w: brokerage_account
+d: a fund that a customer has entrusted to a securities brokerage
+e: you can't get a brokerage account unless you have $20,000
+hyper: cash_account
+hyper: margin_account
+hypo: noun.state:account
+
+w: buck
+w: clam
+w: dollar
+w: dollar_bill
+w: one_dollar_bill
+d: a piece of paper money worth one dollar
+hypo: Federal_Reserve_note
+mr: noun.location:America
+
+w: budget 2 drf adj.pert:budgetary drf verb.cognition:budget
+d: a sum of money allocated for a particular purpose
+e: the laboratory runs on a budget of a million a year
+hyper: Civil_List
+hyper: operating_budget
+hypo: fund
+
+w: budget 3 drf adj.pert:budgetary drf verb.cognition:budget
+d: a summary of intended expenditures along with proposals for how to meet them
+e: the president submitted the annual budget to Congress
+hyper: balanced_budget
+hypo: noun.cognition:plan
+
+w: budget_deficit
+d: an excess of expenditures over revenues
+hyper: federal_deficit
+hypo: deficit
+
+w: budget_items
+w: operating_cost
+w: operating_expense
+w: overhead
+d: the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes
+hp: operating_budget
+hypo: disbursal
+mt: revenue_enhancement
+
+w: bullion
+d: a mass of precious metal
+hypo: precious_metal
+
+w: bursary
+d: the treasury of a public institution or religious order
+hypo: exchequer
+
+w: bus_fare
+w: carfare
+d: the fare charged for riding a bus or streetcar
+hypo: fare
+
+w: business_deduction
+d: tax write-off for expenses of doing business
+hyper: entertainment_deduction
+hypo: deduction 1
+
+w: business_expense
+w: trade_expense
+d: ordinary and necessary expenses incurred in a taxpayer's business or trade
+hyper: organization_expense
+hyper: promotional_expense
+hypo: disbursal
+
+w: business_interruption_insurance
+d: insurance that provides protection for the loss of profits and continuing fixed expenses resulting from a break in commercial activities due to the occurrence of a peril
+hypo: insurance 2
+
+w: business_loan
+w: commercial_loan
+d: a bank loan granted for the use of a business
+hypo: bank_loan
+
+w: c-note
+w: hundred_dollar_bill
+d: a United States bill worth 100 dollars
+hypo: Federal_Reserve_note
+
+w: cab_fare
+w: taxi_fare
+d: the fare charged for riding in a taxicab
+hypo: fare
+
+w: cache drf verb.possession:cache
+w: hoard drf verb.possession:hoard 1
+w: stash drf verb.possession:stash
+d: a secret store of valuables or money
+hypo: fund 1
+
+w: call_loan
+w: demand_loan
+d: a loan that is repayable on demand
+hypo: loan
+
+w: call_option
+d: an option to buy
+hypo: stock_option
+
+w: calling_card
+w: phone_card
+d: a card that is used instead of cash to make telephone calls
+hypo: charge_card
+
+w: capital drf noun.person:capitalist drf verb.cognition:capitalise 1
+d: wealth in the form of money or property owned by a person or business and human resources of economic value
+hyper: corpus
+hyper: endowment
+hyper: means
+hypo: assets
+
+w: capital 1 drf noun.person:capitalist drf verb.change:capitalise drf verb.change:capitalize drf verb.cognition:capitalise drf verb.cognition:capitalise 1 drf verb.cognition:capitalize 1 drf verb.possession:capitalise 2
+w: working_capital
+d: assets available for use in the production of further assets
+hyper: operating_capital
+hyper: risk_capital
+hyper: seed_money
+hyper: stock
+hypo: assets
+mm: current_assets
+
+w: capital_account 1
+d: (finance) an account of the net value of a business at a specified date
+hypo: account 2
+mt: noun.cognition:finance
+
+w: capital_account 2
+d: (economics) that part of the balance of payments recording a nation's outflow and inflow of financial securities
+hp: balance_of_international_payments
+hypo: account 2
+mt: noun.cognition:economic_science
+
+w: capital_cost
+w: cost_of_capital
+d: the opportunity cost of the funds employed as the result of an investment decision; the rate of return that a business could earn if it chose another investment with equivalent risk
+hypo: opportunity_cost
+
+w: capital_expenditure
+d: the cost of long-term improvements
+hypo: cost
+
+w: capital_gain
+d: the amount by which the selling price of an asset exceeds the purchase price; the gain is realized when the asset is sold
+hypo: financial_gain
+
+w: capital_gains_tax
+d: a tax on capital gains
+e: he avoided the capital gains tax by short selling
+hypo: revenue_enhancement
+
+w: capital_levy
+d: a tax on capital or property
+hyper: land_tax
+hypo: revenue_enhancement
+
+w: capital_loss
+d: the amount by which the purchase price of an asset exceeds the selling price; the loss is realized when the asset is sold
+hypo: financial_loss
+
+w: capital_stock 1
+d: the book value of the outstanding shares of a corporation
+hypo: book_value
+
+w: capitation
+d: a tax levied on the basis of a fixed amount per person
+hyper: poll_tax
+hypo: revenue_enhancement
+
+w: car_rental
+w: hire_car
+w: rent-a-car
+w: self-drive
+w: u-drive
+w: you-drive
+d: a rented car
+e: she picked up a hire car at the airport and drove to her hotel
+hypo: lease
+
+w: carry-forward
+w: carry-over
+d: the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
+hypo: balance 1
+mr: noun.location:Britain
+
+w: carrying_charge
+d: charge made for carrying an account or for merchandise sold on an installment plan
+hypo: charge 2
+
+w: carrying_charge 2
+w: carrying_cost
+d: the opportunity cost of unproductive assets; the expense incurred by ownership
+hypo: opportunity_cost
+
+w: cartwheel
+w: silver_dollar
+d: a dollar made of silver
+hypo: dollar 1
+
+w: cash drf verb.possession:cash
+w: hard_cash
+w: hard_currency
+d: money in the form of bills or coins
+e: there is a desperate shortage of hard cash
+hyper: change 2
+hyper: change 3
+hyper: chickenfeed
+hyper: cold_cash
+hyper: pin_money
+hypo: currency
+
+w: cash 2 ant credit
+w: immediate_payment
+d: prompt payment for goods or services in currency or by check
+hypo: payment
+
+w: cash_account ant margin_account
+d: an account with a securities brokerage whose transactions are settled on a cash basis
+hyper: custodial_account
+hypo: brokerage_account
+
+w: cash_basis ant accrual_basis
+d: a method of accounting in which each item is entered as payments are received or made
+hypo: accounting 1
+
+w: cash_card
+w: cashcard
+d: a credit card that entitles the holder to receive cash
+hypo: charge_card
+
+w: cash_equivalent
+d: a highly liquid debt instrument with maturities of less than three months
+hyper: commercial_paper
+hypo: certificate_of_indebtedness
+
+w: cash_flow
+d: the excess of cash revenues over cash outlays in a give period of time (not including non-cash expenses)
+hypo: income
+
+w: cash_in_hand
+w: finances
+w: funds
+w: monetary_resource
+w: pecuniary_resource
+d: assets in the form of money
+hyper: Medicaid_funds
+hyper: bank 1
+hyper: bankroll
+hyper: escrow_funds
+hyper: exchequer
+hyper: matching_funds
+hyper: money_supply
+hyper: pocket
+hyper: purse_strings
+hypo: assets
+
+w: cash_price
+w: spot_price
+d: the current delivery price of a commodity traded in the spot market
+hypo: damage
+
+w: cash_surrender_value
+d: the amount that the insurance company will pay on a given life insurance policy if the policy is cancelled prior to the death of the insured
+hypo: amount
+
+w: cashier's_check
+w: cashier's_cheque
+w: treasurer's_check
+w: treasurer's_cheque
+d: a check issued by the officer of a bank on the banks own account (not that of a private person)
+e: cashier's checks are as good as cash
+hypo: bank_check
+
+w: cellarage
+d: a charge for storing goods in a cellar
+hypo: fee
+
+w: cent
+w: centime
+w: penny
+d: a coin worth one-hundredth of the value of the basic unit
+hyper: copper
+hyper: new_penny
+hypo: coin 2
+
+w: certificate drf verb.communication:certificate drf verb.possession:certificate drf verb.possession:certify 2
+w: security 4
+d: a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends
+e: he held several valuable securities
+hyper: OTC_security
+hyper: agency_security
+hyper: bond 2
+hyper: convertible
+hyper: letter_security
+hyper: listed_security
+hyper: mortgage-backed_security
+hyper: partnership_certificate
+hyper: proprietorship_certificate
+hyper: registered_security
+hyper: scrip
+hyper: stock 2
+hyper: tax-exempt
+hyper: zero-coupon_security
+hypo: noun.communication:instrument
+
+w: certificate_of_indebtedness
+w: debt_instrument
+w: obligation
+d: a written promise to repay a debt
+hyper: CD
+hyper: bond 2
+hyper: cash_equivalent
+hyper: floater
+hyper: note
+hypo: document
+
+w: certified_check
+w: certified_cheque
+d: a check containing certification that the person who issued the check has sufficient funds on deposit to cover payment
+hypo: bank_check
+
+w: change 1
+d: coins of small denomination regarded collectively
+e: he had a pocketful of change
+hypo: coin 2
+
+w: change 2
+d: the balance of money received when the amount you tender is greater than the amount due
+e: I paid with a twenty and pocketed the change
+hypo: cash
+
+w: change 3
+d: money received in return for its equivalent in a larger denomination or a different currency
+e: he got change for a twenty and used it to pay the taxi driver
+hypo: cash
+
+w: chantry
+d: an endowment for the singing of Masses
+hypo: endowment
+
+w: charge 1 drf verb.possession:charge 2
+d: financial liabilities (such as a tax)
+e: the charges against the estate
+hyper: assessment
+hyper: encumbrance
+hyper: levy
+hypo: liabilities
+mt: revenue_enhancement
+
+w: charge 2 drf verb.cognition:charge 12 drf verb.possession:charge 2 drf verb.possession:charge 3
+d: the price charged for some article or service
+e: the admission charge
+hyper: agio
+hyper: carrying_charge
+hyper: charge_per_unit
+hyper: demurrage
+hyper: depreciation_charge
+hyper: fare
+hyper: fixed_charge
+hyper: installation_charge
+hyper: overcharge
+hyper: porterage
+hyper: postage
+hyper: poundage 1
+hyper: service_charge
+hyper: stowage
+hyper: surcharge
+hyper: tankage
+hyper: undercharge
+hyper: water-rate
+hypo: cost
+
+w: charge_account
+w: credit_account
+w: open_account
+d: credit extended by a business to a customer
+hyper: revolving_charge_account
+hypo: charge_account_credit
+
+w: charge_account_credit
+w: open-end_credit
+w: revolving_credit
+d: a consumer credit line that can be used up to a certain limit or paid down at any time
+hyper: charge_account
+hyper: charge_card
+hyper: check_overdraft_credit
+hyper: debit_card
+hyper: smart_card
+hypo: consumer_credit
+
+w: charge_card
+w: charge_plate
+w: credit_card
+w: plastic
+d: a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered
+e: do you take plastic?
+hyper: bank_card
+hyper: calling_card
+hyper: cash_card
+hypo: noun.communication:positive_identification
+hypo: charge_account_credit
+mp: noun.artifact:magnetic_stripe
+
+w: charge_per_unit
+w: rate
+d: amount of a charge or payment relative to some basis
+e: a 10-minute phone call at that rate would cost $5
+hyper: depreciation_rate
+hyper: exchange_rate
+hyper: excursion_rate
+hyper: footage
+hyper: freight
+hyper: installment_rate
+hyper: interest_rate
+hyper: linage
+hyper: pay_rate
+hyper: room_rate
+hyper: tax_rate
+hypo: charge 2
+
+w: charitable_trust
+w: public_trust
+d: a trust created for charitable or religious or educational or scientific purposes
+hypo: trust 3
+
+w: chattel
+w: movable
+w: personal_chattel
+d: personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)
+hypo: personal_estate
+mt: noun.artifact:article_of_furniture
+mt: noun.artifact:auto
+
+w: chattel_mortgage
+d: a loan to buy some personal item; the item (or chattel) is security for the loan
+hypo: mortgage
+
+w: cheap_money
+d: credit available at low rates of interest
+hypo: credit 2
+
+w: check_overdraft_credit
+w: overdraft_credit
+d: credit provided by a bank in honoring a customer's overdrafts
+hypo: charge_account_credit
+
+w: checkbook
+w: chequebook
+d: a book issued to holders of checking accounts
+hypo: record
+mm: blank_check
+
+w: checking_account mr noun.location:United_States
+w: chequing_account mr noun.location:Canada
+w: current_account 1 mr noun.location:Britain
+d: a bank account against which the depositor can draw checks that are payable on demand
+hypo: bank_account
+
+w: chickenfeed
+w: chump_change
+w: small_change
+d: a trifling sum of money
+hypo: cash
+
+w: child_support
+d: court-ordered support paid by one spouse to the other who has custody of the children after the parents are separated
+hypo: support_payment
+
+w: church_property
+w: spirituality
+w: spiritualty
+d: property or income owned by a church
+hyper: benefice
+hyper: temporality
+hypo: belongings
+
+w: circumstances
+d: a person's financial situation (good or bad)
+e: he found himself in straitened circumstances
+hypo: noun.Tops:possession
+
+w: classified_stock
+d: common stock classified as A or B where A has certain advantages (e.g., voting power) that B does not
+hypo: common_shares
+
+w: cleanup drf verb.possession:clean_up 4
+w: killing
+d: a very large profit
+hypo: earnings 1
+mu: noun.communication:colloquialism
+
+w: clobber
+w: stuff
+d: informal terms for personal possessions
+e: did you take all your clobber?
+hypo: personal_estate
+
+w: closing_price
+d: (stock market) the price of the last transaction completed during a day's trading session
+hypo: damage
+mt: noun.artifact:securities_market
+
+w: coin 2 drf verb.creation:coin
+d: a flat metal piece (usually a disc) used as money
+hyper: Maundy_money
+hyper: bawbee
+hyper: bezant
+hyper: cent
+hyper: change 1
+hyper: crown
+hyper: denier
+hyper: dime
+hyper: dollar 1
+hyper: double_eagle
+hyper: doubloon
+hyper: ducat
+hyper: eagle
+hyper: eightpence
+hyper: farthing
+hyper: fifty-cent_piece
+hyper: fivepence
+hyper: fourpence
+hyper: guinea
+hyper: ha'penny
+hyper: half_crown
+hyper: half_eagle
+hyper: louis_d'or
+hyper: medallion
+hyper: nickel
+hyper: ninepence
+hyper: piece_of_eight
+hyper: quarter
+hyper: real
+hyper: shilling
+hyper: sixpence
+hyper: slug
+hyper: sou
+hyper: stater
+hyper: tenpence
+hyper: threepence
+hyper: tuppence
+hypo: coinage
+mp: noun.artifact:head 4
+mp: noun.artifact:obverse
+mp: noun.artifact:reverse 2
+mp: noun.artifact:tail 2
+
+w: coinage
+w: metal_money
+w: mintage
+w: specie
+d: coins collectively
+hyper: coin 2
+hypo: currency
+
+w: coinsurance drf verb.possession:coinsure
+d: insurance issued jointly by two or more underwriters
+hypo: insurance 2
+
+w: cold_cash
+w: ready_cash
+w: ready_money
+d: money in the form of cash that is readily available
+e: his wife was always a good source of ready cash
+e: he paid cold cash for the TV set
+hypo: cash
+
+w: collateral drf adjs.all:collateral 1
+d: a security pledged for the repayment of a loan
+hyper: guarantee 3
+hypo: security_interest
+
+w: combat_pay
+d: extra pay for soldiers engaged in active combat
+hypo: earnings
+
+w: commercial_credit
+d: credit granted by a bank to a business concern for commercial purposes
+hypo: credit 2
+
+w: commercial_letter_of_credit
+d: a letter of credit given to a business concern for commercial purposes
+hypo: letter_of_credit
+
+w: commercial_paper
+d: an unsecured and unregistered short-term obligation issued by an institutional borrower to investors who have temporarily idle cash
+hypo: cash_equivalent
+
+w: commission
+d: a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)
+e: he works on commission
+hypo: fee
+
+w: common_shares
+w: common_stock
+w: ordinary_shares
+d: stock other than preferred stock; entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections
+e: over 40 million Americans invest in common stocks
+hyper: blue-chip_stock
+hyper: classified_stock
+hyper: stock_of_record
+hypo: stock
+
+w: common_stock_equivalent
+d: preferred stock or convertible bonds or warrants that can be converted into common stock
+hypo: stock
+
+w: commonage
+d: property held in common
+hypo: belongings
+
+w: community drf adjs.all:communal
+d: common ownership
+e: they shared a community of possessions
+hypo: ownership
+
+w: community_property
+d: property and income belonging jointly to a married couple
+hypo: belongings
+
+w: compensating_balance
+w: offsetting_balance
+d: a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a loan; a common requirement for establishing a line of credit at a bank
+e: the compensating balance increases the effective interest rate to the bank since the net amount loaned is reduced but the interest paid is unchanged
+hypo: balance 1
+
+w: compensation drf verb.possession:compensate drf verb.possession:compensate 1 drf verb.possession:compensate 2 drf verb.social:compensate
+d: something (such as money) given or received as payment or reparation (as for a service or loss or injury)
+hyper: amends
+hyper: blood_money 1
+hyper: counterbalance
+hyper: emolument
+hyper: overcompensation
+hyper: reimbursement
+hyper: reparation
+hyper: reparation 1
+hyper: workmen's_compensation
+hypo: recompense
+
+w: compound_interest
+d: interest calculated on both the principal and the accrued interest
+hypo: interest
+
+w: conditional_sale
+d: a security interest taken by the seller in return for credit
+hypo: security_interest
+
+w: conscience_money
+d: payment made voluntarily to reduce guilt over dishonest dealings
+hypo: payment
+
+w: consideration
+w: retainer
+d: a fee charged in advance to retain the services of someone
+hyper: quid
+hypo: fee
+
+w: constructive_trust
+w: involuntary_trust
+d: a trust created by a court (regardless of the intent of the parties) to benefit a party that has been wrongfully deprived of its rights
+hypo: implied_trust
+
+w: consumer_credit
+d: a line of credit extended for personal or household use
+hyper: charge_account_credit
+hyper: equity_credit_line
+hyper: installment_credit
+hypo: bank_line
+
+w: consumer_loan
+w: personal_loan
+d: a loan that establishes consumer credit that is granted for personal use; usually unsecured and based on the borrower's integrity and ability to pay
+hyper: auto_loan
+hypo: loan
+
+w: contingency_fee
+d: a fee that is payable only if the outcome is successful (as for an attorney's services)
+hypo: fee
+
+w: contribution
+w: donation drf verb.possession:donate
+d: a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+hyper: benefaction
+hyper: offering
+hyper: political_contribution
+hypo: gift
+
+w: contribution 1
+d: an amount of money contributed
+e: he expected his contribution to be repaid with interest
+hypo: amount
+
+w: control_account
+d: an account that shows totals of amounts entered in a subsidiary ledger
+hp: general_ledger
+hypo: accounting 1
+
+w: control_stock
+d: shares owned by shareholders who have a controlling interest
+hypo: stock
+
+w: controlling_interest
+d: ownership of more than 50% of a corporation's voting shares
+hypo: interest 3
+
+w: convertible
+w: convertible_security
+d: a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)
+hypo: certificate
+
+w: convertible_bond
+d: a bond that can be converted to other securities under certain conditions
+hypo: bond 2
+
+w: cookie_jar_reserve
+d: a hidden reserve that can be used to adjust quarterly earning reports
+hypo: hidden_reserve
+
+w: copper
+d: a copper penny
+hypo: cent
+
+w: copyhold
+d: a medieval form of land tenure in England; a copyhold was a parcel of land granted to a peasant by the lord of the manor in return for agricultural services
+hypo: land_tenure
+
+w: corkage
+d: a charge added at a restaurant for every bottle of wine served that was not bought on the premises
+hypo: service_charge
+
+w: corporate_bond
+d: a bond issued by a corporation; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders
+e: a corporate bond is a safer investment than common stock in the same company
+hypo: bond 2
+
+w: corpus
+w: principal 2
+w: principal_sum
+d: capital as contrasted with the income derived from it
+hypo: capital
+
+w: cost drf verb.stative:cost
+d: the total spent for goods or services including money and time and labor
+hyper: borrowing_cost
+hyper: capital_expenditure
+hyper: charge 2
+hyper: cost_of_living
+hyper: cost_overrun
+hyper: damage
+hyper: disbursal
+hyper: distribution_cost
+hyper: handling_charge
+hyper: marketing_cost
+hyper: opportunity_cost
+hyper: payment
+hyper: physical_value
+hyper: portage
+hyper: price 2
+hyper: production_cost
+hyper: ransom
+hyper: replacement_cost
+hyper: unit_cost
+hypo: expenditure
+
+w: cost-of-living_allowance
+d: an allowance for changes in the consumer price index
+hypo: adjustment
+
+w: cost-of-living_benefit
+d: a benefit that goes to anyone whose money receipts increase automatically as prices rise
+hypo: benefit
+
+w: cost_ledger
+d: ledger showing the accumulated costs classified in various ways
+hypo: account_book
+
+w: cost_of_living
+d: average cost of basic necessities of life (as food and shelter and clothing)
+e: a rise in the cost of living reflects the rate of inflation
+hypo: cost
+
+w: cost_overrun
+d: excess of cost over budget
+e: the cost overrun necessitated an additional allocation of funds in the budget
+hypo: cost
+
+w: costs
+d: pecuniary reimbursement to the winning party for the expenses of litigation
+hypo: reimbursement
+
+w: council_tax
+d: a tax levied on households by local authorities; based on the estimated value of the property and the number of people living in it
+hypo: land_tax
+mr: noun.location:Britain
+
+w: counter_check
+d: a blank check provided by a bank for the convenience of customers who are making withdrawals
+hypo: bank_check
+
+w: counterbalance drf verb.social:counterbalance drf verb.stative:counterbalance 1
+w: offset drf verb.stative:offset drf verb.stative:offset 1
+d: a compensating equivalent
+hypo: compensation
+
+w: countervailing_duty
+d: a duty imposed to offset subsidies by foreign governments
+hypo: duty
+
+w: countryseat
+d: an estate in the country
+hypo: acres
+
+w: cover drf verb.possession:cover
+w: cover_charge
+d: a fixed charge by a restaurant or nightclub over and above the charge for food and drink
+hypo: fixed_charge
+
+w: coverage drf verb.communication:cover
+w: insurance_coverage
+d: the total amount and type of insurance carried
+hypo: amount
+
+w: credit ant cash 2
+w: deferred_payment
+d: arrangement for deferred payment for goods and services
+hypo: payment
+
+w: credit 1 ant debit 1 drf verb.possession:credit
+w: credit_entry
+d: an accounting entry acknowledging income or capital items
+hypo: accounting_entry
+
+w: credit 2
+d: money available for a client to borrow
+hyper: bank_line
+hyper: cheap_money
+hyper: commercial_credit
+hyper: export_credit
+hyper: import_credit
+hyper: letter_of_credit
+hypo: assets
+
+w: credit_side
+d: account of payments received; usually the right side of a financial statement
+hypo: accounting 1
+
+w: crown
+d: an English coin worth 5 shillings
+hypo: coin 2
+
+w: crown_jewel
+d: the most desirable assets of a corporation
+e: their crown jewels figured prominently in the takeover attempt
+hypo: assets
+
+w: cumulative_preferred
+w: cumulative_preferred_stock
+d: preferred stock whose dividends if omitted accumulate until paid out
+hypo: preference_shares
+
+w: currency
+d: the metal or paper medium of exchange that is presently used
+hyper: Eurocurrency
+hyper: cash
+hyper: coinage
+hyper: folding_money
+hyper: hard_currency 1
+hyper: money 1
+hypo: medium_of_exchange
+
+w: current_account
+d: that part of the balance of payments recording a nation's exports and imports of goods and services and transfer payments
+hp: balance_of_international_payments
+hypo: noun.cognition:accounting
+
+w: current_assets
+w: liquid_assets
+w: quick_assets
+d: assets in the form of cash (or easily convertible into cash)
+hm: capital 1
+hypo: assets
+mu: noun.communication:plural
+
+w: custodial_account
+d: a brokerage firm account that parents have created for a minor
+hypo: cash_account
+
+w: custom
+w: customs
+w: customs_duty
+w: impost
+d: money collected under a tariff
+hyper: ship_money
+hypo: duty
+
+w: cut
+d: a share of the profits
+e: everyone got a cut of the earnings
+hp: booty
+hyper: rake-off
+hypo: part
+
+w: damage
+w: price drf adjs.all:pricey drf adjs.all:pricy drf verb.cognition:price drf verb.possession:price
+w: terms
+d: the amount of money needed to purchase something
+e: the price of gasoline
+e: he got his new car on excellent terms
+e: how much is the damage?
+hyper: asking_price
+hyper: bid_price
+hyper: cash_price
+hyper: closing_price
+hyper: factory_price
+hyper: highway_robbery
+hyper: purchase_price
+hyper: support_level
+hyper: valuation
+hypo: cost
+
+w: daybook
+w: journal
+d: a ledger in which transactions have been recorded as they occurred
+hypo: account_book
+
+w: dead_hand
+w: mortmain
+d: real property held inalienably (as by an ecclesiastical corporation)
+hypo: immovable
+mt: noun.group:corp
+
+w: death_benefit
+d: insurance or pension money payable to a beneficiary of a deceased
+hyper: advance_death_benefit
+hypo: benefit
+
+w: death_duty
+w: death_tax
+w: estate_tax
+w: inheritance_tax
+d: a tax on the estate of the deceased person
+hypo: transfer_tax
+
+w: debenture
+w: debenture_bond
+w: unsecured_bond ant secured_bond
+d: the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future
+hypo: bond 2
+
+w: debit 1 ant credit 1 drf verb.possession:debit
+w: debit_entry
+d: an accounting entry acknowledging sums that are owing
+hypo: accounting_entry
+
+w: debit_card
+d: a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account
+hypo: noun.communication:positive_identification
+hypo: charge_account_credit
+mp: noun.artifact:magnetic_stripe
+
+w: debit_side
+d: account of payments owed; usually the left side of a financial statement
+hypo: accounting 1
+
+w: debt
+d: money or goods or services owed by one person to another
+hyper: arrears
+hyper: bad_debt
+hyper: debt_ceiling
+hyper: installment_debt
+hyper: loan
+hyper: national_debt
+hyper: principal 1
+hyper: public_debt
+hyper: noun.state:score
+hypo: liabilities
+
+w: debt_ceiling
+w: debt_limit
+d: the maximum borrowing power of a governmental entity
+hyper: national_debt_ceiling
+hypo: debt
+
+w: deductible drf adj.all:deductible
+d: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)
+hypo: amount
+mt: revenue_enhancement
+
+w: deduction
+w: discount drf verb.possession:discount
+d: an amount or percentage deducted
+hyper: trade_discount
+hypo: adjustment
+
+w: deduction 1
+w: tax_deduction
+w: tax_write-off
+d: a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket
+hyper: business_deduction
+hyper: exemption
+hyper: tax_benefit
+hypo: write-down
+
+w: deep_pockets
+d: (plural) a source of substantial wealth
+e: a patron of the arts should have deep pockets
+hypo: assets
+mu: noun.communication:plural
+
+w: defalcation
+d: the sum of money that is misappropriated
+hypo: amount
+
+w: default drf verb.possession:default
+w: nonpayment ant payment
+w: nonremittal
+d: loss resulting from failure of a debt to be paid
+hyper: delinquency
+hypo: financial_loss
+
+w: default 2 drf verb.possession:default
+w: nonpayment 2
+w: nonremittal 2
+d: act of failing to meet a financial obligation
+hypo: noun.act:failure
+
+w: deficit
+d: an excess of liabilities over assets (usually over a certain period)
+e: last year there was a serious budgetary deficit
+hyper: budget_deficit
+hyper: trade_deficit
+hypo: liabilities
+
+w: deflator drf verb.communication:deflate
+d: a statistical factor designed to remove the effect of inflation; inflation adjusted variables are in constant dollars
+hypo: noun.quantity:factor 1
+
+w: degressive_tax
+d: any tax in which the rate decreases as the amount subject to taxation increases
+hypo: revenue_enhancement
+
+w: delinquency
+d: nonpayment of a debt when due
+hypo: default
+
+w: demand_deposit
+d: a bank deposit from which withdrawals can be made without notice
+hypo: bank_deposit
+
+w: demand_note
+d: a note payable on demand
+hypo: note
+
+w: demurrage
+d: a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
+hypo: charge 2
+
+w: denier
+d: any of various former European coins of different denominations
+hypo: coin 2
+
+w: departure_tax
+d: a tax that is levied when you are departing a country by land or sea or air
+hypo: revenue_enhancement
+
+w: deposit
+w: down_payment
+d: a partial payment made at the time of purchase; the balance to be paid later
+hyper: margin 1
+hypo: payment
+
+w: deposit 2
+d: money given as security for an article acquired for temporary use
+e: his deposit was refunded when he returned the car
+hypo: security
+
+w: deposit_account
+w: time_deposit_account
+d: a savings account in which the deposit is held for a fixed term or in which withdrawals can be made only after giving notice or with loss of interest
+hypo: savings_account
+
+w: depreciation drf verb.change:depreciate drf verb.change:depreciate 1
+w: wear_and_tear
+d: decrease in value of an asset due to obsolescence or use
+hyper: straight-line_method
+hyper: write-down
+hypo: financial_loss
+hypo: non-cash_expense
+
+w: depreciation_allowance
+d: an allowance for loss due to depreciation
+hypo: adjustment
+
+w: depreciation_charge
+d: an amount periodically charged to expense or against revenue in compensation for depreciation of property
+hypo: charge 2
+
+w: depreciation_rate
+w: rate_of_depreciation
+d: the rate at which the value of property is reduced; used to calculate tax deduction
+hypo: charge_per_unit
+
+w: devise 1
+d: (law) a gift of real property by will
+hypo: gift
+hypo: heritage 2
+mt: noun.group:jurisprudence
+
+w: devise 2 drf verb.possession:devise
+d: a will disposing of real property
+hypo: noun.communication:testament
+
+w: diamond
+d: a transparent piece of diamond that has been cut and polished and is valued as a precious gem
+hyper: ice
+hypo: noun.artifact:gem
+
+w: dime
+d: a United States coin worth one tenth of a dollar
+hypo: coin 2
+
+w: direct_loan
+d: a loan by a lender to a customer without the use of a third party; direct lending gives the lender greater discretion in making loans
+hypo: loan
+
+w: direct_tax
+d: a tax paid directly by the person or organization on whom it is levied
+hypo: revenue_enhancement
+
+w: direct_trust
+w: express_trust
+d: a trust created by the free and deliberate act of the parties involved (usually on the basis of written documentation)
+hypo: trust 3
+
+w: disability_benefit
+d: insurance benefits paid in case of disability
+hypo: benefit
+
+w: disability_check
+w: disability_payment
+d: a monthly payment made to someone who has become disabled and is unable to work
+hypo: regular_payment
+
+w: disbursal
+w: disbursement drf verb.possession:disburse
+w: expense
+d: amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+hyper: budget_items
+hyper: business_expense
+hyper: interest_expense
+hyper: lobbying_expense
+hyper: medical_expense
+hyper: moving_expense
+hyper: non-cash_expense
+hyper: personal_expense
+hypo: cost
+
+w: discount 2
+w: rebate drf verb.possession:rebate
+d: a refund of some fraction of the amount paid
+hyper: rent-rebate
+hypo: refund
+
+w: discount_rate 1
+d: the rate of interest set by the Federal Reserve that member banks are charged when they borrow money through the Federal Reserve System
+hypo: interest_rate
+mr: noun.location:America
+
+w: discretionary_trust
+d: a trust that gives the trustee discretion to pay the beneficiary as much of the trust income as the trustee believes appropriate
+hypo: trust 3
+
+w: dispensation drf verb.body:dispense drf verb.possession:dispense
+d: a share that has been dispensed or distributed
+hypo: part
+
+w: disposable_income
+d: income (after taxes) that is available to you for saving or spending
+hypo: income
+mt: revenue_enhancement
+
+w: distribution_cost
+d: any cost incurred by a producer or wholesaler or retailer or distributor (as for advertising and shipping etc)
+hypo: cost
+
+w: dividend
+d: that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly
+hyper: divvy
+hyper: equalizing_dividend
+hyper: extra_dividend
+hyper: stock_dividend
+hypo: earnings 1
+
+w: dividend 1
+d: a bonus; something extra (especially a share of a surplus)
+hypo: bonus
+
+w: dividend_warrant
+d: an order of payment (such as a check payable to a shareholder) in which a dividend is paid
+hypo: bill_of_exchange
+
+w: divvy
+d: short for dividend; especially one paid by a cooperative society
+hypo: dividend
+mr: noun.location:Britain
+
+w: dockage
+w: docking_fee
+d: a fee charged for a vessel to use a dock
+hypo: fee
+
+w: document drf adj.pert:documentary
+d: a written account of ownership or obligation
+hyper: certificate_of_indebtedness
+hyper: letter_of_credit
+hyper: quittance 1
+hyper: record
+hypo: noun.Tops:communication
+
+w: dole
+d: a share of money or food or clothing that has been charitably given
+hypo: part
+
+w: dollar 1
+d: a United States coin worth one dollar
+e: the dollar coin has never been popular in the United States
+hyper: Susan_B_Anthony_dollar
+hyper: cartwheel
+hypo: coin 2
+
+w: door_prize
+d: tickets are passed out at the entrance to a dance or party or other social function and a prize is awarded to the holder of the winning ticket
+hypo: award
+
+w: dormant_account
+d: a savings account showing no activity (other than posting interest) for some specified period
+e: the dormant account reverted to the state under escheat laws
+hypo: savings_account
+
+w: double_damages
+d: twice the amount that a court would normally find the injured party entitled to
+hypo: exemplary_damages
+
+w: double_dipping
+d: two incomes received from the same source (as by holding a government job and receiving a government pension)
+hypo: income
+
+w: double_eagle
+d: a former gold coin in the United States worth 20 dollars
+hypo: coin 2
+
+w: double_time
+d: a doubled wage (for working overtime)
+hypo: earnings
+
+w: doubloon
+d: a former Spanish gold coin
+hypo: coin 2
+
+w: dower drf verb.possession:dower
+d: a life estate to which a wife is entitled on the death of her husband
+hypo: estate_for_life
+
+w: dower 1 drf verb.possession:dower
+w: dowery drf verb.possession:dower
+w: dowry
+w: portion 1
+d: money or property brought by a woman to her husband at marriage
+hypo: gift
+
+w: drop-off_charge
+d: a fee added for returning a rented car to a location different from the one where it was rented
+hypo: fee
+
+w: ducat
+d: formerly a gold coin of various European countries
+hypo: coin 2
+
+w: due
+d: a payment that is due (e.g., as the price of membership)
+e: the society dropped him for non-payment of dues
+hypo: fixed_charge
+
+w: duty
+w: tariff drf verb.possession:tariff
+d: a government tax on imports or exports
+e: they signed a treaty to lower duties on trade between their countries
+hyper: countervailing_duty
+hyper: custom
+hyper: export_duty
+hyper: import_duty
+hyper: octroi
+hyper: protective_tariff
+hyper: revenue_tariff
+hyper: tonnage
+hypo: indirect_tax
+
+w: eagle
+d: a former gold coin in the United States worth 10 dollars
+hypo: coin 2
+
+w: earnest
+d: something of value given by one person to another to bind a contract
+hyper: arles
+hypo: security
+
+w: earning_per_share
+d: the portion of a company's profit allocated to each outstanding share of common stock
+hypo: earnings 1
+
+w: earnings drf verb.possession:earn 3
+w: pay 1 drf verb.possession:pay drf verb.possession:pay 1 drf verb.possession:pay 2 drf verb.possession:pay 4
+w: remuneration drf verb.possession:remunerate
+w: salary
+w: wage
+d: something that remunerates
+e: wages were paid by check
+e: he wasted his pay on drink
+e: they saved a quarter of all their earnings
+hp: payroll
+hyper: combat_pay
+hyper: double_time
+hyper: found
+hyper: half-pay
+hyper: living_wage
+hyper: merit_pay
+hyper: minimum_wage
+hyper: pay_envelope
+hyper: sick_pay
+hyper: strike_pay
+hyper: take-home_pay
+hypo: regular_payment
+
+w: earnings 1
+w: lucre 1
+w: net drf verb.possession:net 1
+w: net_income
+w: net_profit
+w: profit drf noun.person:profiteer drf verb.possession:profit
+w: profits 1
+d: the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+hyper: accumulation
+hyper: cleanup
+hyper: dividend
+hyper: earning_per_share
+hyper: fast_buck
+hyper: filthy_lucre
+hyper: gross_profit
+hyper: markup
+hyper: windfall_profit
+hypo: income
+mp: part
+
+w: earnings_report
+w: income_statement
+w: operating_statement
+w: profit-and-loss_statement
+d: a financial statement that gives operating results for a specific period
+hypo: noun.communication:financial_statement
+
+w: easy_money
+w: gravy_train
+d: income obtained with a minimum of effort
+hypo: income
+
+w: easy_money 1 ant tight_money
+d: the economic condition in which credit is easy to secure
+hypo: noun.state:financial_condition
+
+w: easy_street
+d: financial security
+hypo: protection
+
+w: economic_rent
+w: rent 1
+d: the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+hypo: issue
+
+w: economic_value
+w: value drf verb.cognition:evaluate drf verb.cognition:valuate drf verb.cognition:value drf verb.cognition:value 3
+d: the amount (of money or goods or services) that is considered to be a fair equivalent for something else
+e: he tried to estimate the value of the produce at normal prices
+hyper: mess_of_pottage
+hyper: premium
+hypo: noun.Tops:amount
+
+w: effects
+w: personal_effects
+d: property of a personal character that is portable but not used in business
+e: she left some of her personal effects in the house
+e: I watched over their effects until they returned
+hypo: personal_estate
+
+w: eightpence
+d: a coin worth eight pennies
+hypo: coin 2
+
+w: emerald
+d: a transparent piece of emerald that has been cut and polished and is valued as a precious gem
+hypo: noun.artifact:gem
+
+w: emolument
+d: compensation received by virtue of holding an office or having employment (usually in the form of wages or fees)
+e: a clause in the U.S. constitution prevents sitting legislators from receiving emoluments from their own votes
+hypo: compensation
+
+w: employee_ownership
+d: ownership of a business by the people who work for it
+hypo: ownership
+
+w: encumbrance
+w: incumbrance
+d: a charge against property (as a lien or mortgage)
+hypo: charge 1
+
+w: endowment drf verb.possession:endow
+w: endowment_fund
+d: the capital that provides income for an institution
+hyper: chantry
+hyper: patrimony 2
+hypo: capital
+
+w: endowment_insurance
+d: life insurance for a specified amount which is payable to the insured person at the expiration of a certain period of time or to a designated beneficiary immediately upon the death of the insured
+hypo: life_assurance
+
+w: enrichment drf verb.possession:enrich
+d: a gift that significantly increases the recipient's wealth
+hypo: gift
+
+w: entail
+d: land received by fee tail
+hypo: acres
+
+w: entertainment_deduction
+d: deduction allowed for some (limited) kinds of entertainment for business purposes
+hypo: business_deduction
+
+w: equalizing_dividend
+d: a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule
+hypo: dividend
+
+w: equity
+d: the ownership interest of shareholders in a corporation
+hyper: sweat_equity
+hypo: interest 3
+
+w: equity 1
+d: the difference between the market value of a property and the claims held against it
+hypo: assets
+
+w: equity_credit_line
+w: home_equity_credit
+w: home_equity_loan
+w: home_loan
+d: a loan secured by equity value in the borrower's home
+hypo: consumer_credit
+hypo: loan
+
+w: escheat
+d: a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
+hypo: reversion
+mt: noun.group:jurisprudence
+
+w: escheat 1
+d: the property that reverts to the state
+hypo: transferred_possession
+
+w: escrow
+d: a written agreement (or property or money) delivered to a third party or put in trust by one party to a contract to be returned after fulfillment of some condition
+hypo: noun.communication:written_agreement
+
+w: escrow_funds
+d: funds held in escrow
+hypo: cash_in_hand
+
+w: estate 2
+d: everything you own; all of your assets (whether real property or personal property) and liabilities
+hyper: estate_for_life
+hyper: gross_estate
+hyper: jointure
+hyper: net_estate
+hypo: belongings
+
+w: estate_for_life
+w: life_estate
+d: (law) an estate whose duration is limited to the life of the person holding it
+hyper: dower
+hypo: estate 2
+mt: noun.group:jurisprudence
+
+w: estimated_tax
+d: income tax paid periodically on income that is not subject to withholding taxes; based on the taxpayer's predicted tax liability
+hypo: income_tax
+
+w: exchange_rate
+w: rate_of_exchange
+d: the charge for exchanging currency of one country for currency of another
+hypo: charge_per_unit
+
+w: exchequer
+w: treasury
+d: the funds of a government or institution or individual
+hyper: bursary
+hyper: fisc
+hyper: public_treasury
+hyper: subtreasury
+hypo: cash_in_hand
+
+w: excise drf verb.possession:excise
+w: excise_tax
+d: a tax that is measured by the amount of business done (not on property or income from real estate)
+hyper: VAT
+hyper: gasoline_tax
+hyper: nuisance_tax
+hypo: indirect_tax
+
+w: excursion_rate
+d: a reduced rate for a round-trip ticket
+hypo: charge_per_unit
+
+w: exemplary_damages
+w: punitive_damages
+w: smart_money 1
+d: (law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+hyper: double_damages
+hyper: treble_damages
+hypo: amends
+mt: noun.group:jurisprudence
+
+w: exemption
+d: a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.)
+e: additional exemptions are allowed for each dependent
+hypo: deduction 1
+
+w: expenditure drf verb.possession:expend
+w: outgo ant income
+w: outlay 1
+w: spending
+d: money paid out; an amount spent
+hyper: cost
+hyper: expense 1
+hyper: transfer_payment
+hypo: transferred_possession
+
+w: expense 1
+d: money spent to perform work and usually reimbursed by an employer
+e: he kept a careful record of his expenses at the meeting
+hyper: incidental
+hyper: travel_expense
+hypo: expenditure
+
+w: expense_account
+w: travel_and_entertainment_account
+d: an account to which salespersons or executives can charge travel and entertainment expenses
+hypo: account 2
+
+w: expense_record
+d: a written record of money spent
+hypo: record
+
+w: export_credit
+d: a credit opened by an importer with a bank in an exporter's country to finance an export operation
+hypo: credit 2
+
+w: export_duty
+d: a duty imposed on exports
+hypo: duty
+
+w: extortion drf verb.possession:extort
+d: an exorbitant charge
+hypo: overcharge
+
+w: extra_dividend
+d: a dividend paid in addition to the regular dividend
+hypo: dividend
+
+w: eye_bank
+d: a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects
+hypo: bank
+
+w: face_value
+w: nominal_value
+w: par_value
+d: the value of a security that is set by the company issuing it; unrelated to market value
+hypo: noun.attribute:value
+
+w: factory_price
+d: price charged for goods picked up at the factory
+hypo: damage
+
+w: fare
+w: transportation
+d: the sum charged for riding in a public conveyance
+hyper: airfare
+hyper: bus_fare
+hyper: cab_fare
+hyper: train_fare
+hypo: charge 2
+
+w: farmstead
+d: the buildings and adjacent grounds of a farm
+hypo: land 1
+
+w: farthing
+d: a former British bronze coin worth a quarter of a penny
+hypo: coin 2
+
+w: fast_buck
+w: quick_buck
+d: quick or easy earnings
+e: they are traders out to make a fast buck
+hypo: earnings 1
+
+w: federal_deficit
+d: an excess of the federal government's spending over its revenue
+e: federal deficits can cause inflation
+hypo: budget_deficit
+
+w: federal_tax_lien
+d: lien of the United States on all property of a taxpayer who fails to pay the federal government the taxes for which he or she is liable
+hypo: tax_lien
+
+w: fee
+d: a fixed charge for a privilege or for professional services
+hyper: admission
+hyper: anchorage
+hyper: cellarage
+hyper: commission
+hyper: consideration
+hyper: contingency_fee
+hyper: dockage
+hyper: drop-off_charge
+hyper: finder's_fee
+hyper: legal_fee
+hyper: license_fee
+hyper: lighterage
+hyper: lockage
+hyper: mintage 1
+hyper: moorage
+hyper: origination_fee
+hyper: pipage
+hyper: poundage
+hyper: quayage
+hyper: seigniorage
+hyper: toll
+hyper: truckage
+hyper: tuition
+hypo: fixed_charge
+
+w: fee 1
+d: an interest in land capable of being inherited
+hyper: fee_simple
+hyper: fee_tail
+hypo: interest 3
+
+w: fee_simple
+d: a fee without limitation to any class of heirs; they can sell it or give it away
+hypo: fee 1
+
+w: fee_tail
+d: a fee limited to a particular line of heirs; they are not free to sell it or give it away
+hypo: fee 1
+
+w: fellowship
+d: money granted (by a university or foundation or other agency) for advanced study or research
+hypo: aid
+hypo: award
+
+w: feoff
+w: fief drf noun.location:fiefdom
+d: a piece of land held under the feudal system
+hypo: acres
+
+w: fiat_money
+d: money that the government declares to be legal tender although it cannot be converted into standard specie
+hypo: folding_money
+
+w: fifty
+w: fifty_dollar_bill
+d: a United States bill worth 50 dollars
+hypo: Federal_Reserve_note
+
+w: fifty-cent_piece
+w: half_dollar
+d: a United States coin worth half of a dollar
+hypo: coin 2
+
+w: figure drf verb.cognition:figure
+d: an amount of money expressed numerically
+e: a figure of $17 was suggested
+hypo: amount
+
+w: filthy_lucre
+d: shameful profit
+e: he would sell his soul for filthy lucre
+hypo: earnings 1
+
+w: final_payment
+w: payoff
+d: the final payment of a debt
+hypo: payment
+
+w: financial_gain
+d: the amount of monetary gain
+hyper: capital_gain
+hyper: income
+hyper: profits 2
+hyper: unearned_increment
+hypo: gain
+
+w: financial_loss
+d: loss of money or decrease in financial value
+hyper: capital_loss
+hyper: default
+hyper: depreciation
+hyper: losings
+hypo: loss 1
+
+w: finder's_fee
+d: a fee that is paid to someone who finds a source of financial backing or to someone who brings people together for business purposes
+e: the agency got a finder's fee when their candidate was hired as the new CEO
+hypo: fee
+
+w: fire_insurance
+d: insurance against loss due to fire
+hypo: insurance 2
+
+w: first_mortgage
+d: a mortgage that has priority over all mortgages and liens except those imposed by law
+hypo: mortgage
+
+w: fisc drf adj.pert:fiscal
+d: a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse
+hypo: exchequer
+
+w: five-spot
+w: five_dollar_bill
+w: fiver
+d: a United States bill worth 5 dollars
+hyper: nickel 1
+hypo: Federal_Reserve_note
+
+w: fivepence
+d: a coin worth five cents
+hypo: coin 2
+
+w: fixed_charge
+w: fixed_cost
+w: fixed_costs
+d: a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)
+hyper: cover
+hyper: due
+hyper: fee
+hyper: interest
+hypo: charge 2
+
+w: fixed_investment_trust
+w: nondiscretionary_trust
+d: an investment trust that can buy only those securities listed when the trust was organized
+hypo: noun.group:fund
+
+w: float
+d: the number of shares outstanding and available for trading by the public
+hypo: stock
+
+w: floater
+d: a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by T-bills)
+hypo: certificate_of_indebtedness
+
+w: folding_money
+w: paper_currency
+w: paper_money
+d: currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+hyper: Federal_Reserve_note
+hyper: fiat_money
+hyper: fractional_currency
+hypo: currency
+
+w: food_bank
+d: a place where food is contributed and made available to those in need
+e: they set up a food bank for the flood victims
+hypo: bank
+
+w: food_stamp
+d: a government-issued stamp that can be used in exchange for food
+hypo: legal_tender
+
+w: footage
+d: a rate of charging by the linear foot of work done
+hypo: charge_per_unit
+
+w: foreign_aid
+d: aid (such as economic or military assistance) provided to one nation by another
+hypo: aid
+ihypo: European_Recovery_Program
+mt: noun.group:armed_forces
+
+w: foreign_bill
+w: foreign_draft
+d: a bill of exchange that is drawn in one country and made payable in another
+hypo: bill_of_exchange
+
+w: foreign_exchange
+d: the system by which one currency is exchanged for another; enables international transactions to take place
+hypo: noun.act:exchange
+
+w: forfeit drf verb.possession:forfeit
+w: forfeiture drf verb.possession:forfeit
+d: a penalty for a fault or mistake that involves losing or giving up something
+e: the contract specified forfeits if the work was not completed on time
+hypo: penalty
+
+w: forfeit 1 drf verb.possession:forfeit
+w: forfeiture 1 drf verb.possession:forfeit
+d: something that is lost or surrendered as a penalty
+hypo: loss 1
+
+w: fortune
+d: a large amount of wealth or prosperity
+hypo: hoarded_wealth
+
+w: found
+d: food and lodging provided in addition to money
+e: they worked for $30 and found
+hypo: earnings
+
+w: fourpence
+w: groat
+d: a former English silver coin worth four pennies
+hypo: coin 2
+
+w: fractional_currency
+d: paper currency in denominations less than the basic monetary unit
+hypo: folding_money
+
+w: franchise_tax
+d: a tax that is imposed by states on corporations; it depends both on the net worth of the corporation and on its net income attributable to activities within the state
+hypo: revenue_enhancement
+
+w: free_lunch
+d: something acquired without effort or payment or obligation
+e: there is no free lunch in politics or Hollywood
+hypo: gift
+
+w: freebee
+w: freebie
+d: something that is free (usually provided as part of a promotional scheme)
+e: the road map was a freebie
+hypo: gift
+
+w: freehold drf noun.person:freeholder
+d: tenure by which land is held in fee simple or for life
+hypo: land_tenure
+
+w: freehold 1 drf noun.person:freeholder
+d: an estate held in fee simple or for life
+hypo: acres
+
+w: freight drf verb.motion:freight
+w: freight_rate
+w: freightage drf verb.contact:freight drf verb.motion:freight
+d: the charge for transporting something by common carrier
+e: we pay the freight
+e: the freight rate is usually cheaper
+hypo: charge_per_unit
+
+w: fringe_benefit
+w: perk
+w: perquisite
+d: an incidental benefit awarded for certain types of employment (especially if it is regarded as a right)
+e: a limousine is one of the fringe benefits of the job
+hyper: apanage 1
+hyper: backsheesh
+hypo: benefit
+
+w: fuel_level
+d: the amount of fuel remaining
+hypo: backlog
+
+w: fund drf verb.possession:fund drf verb.possession:fund 1
+w: monetary_fund
+d: a reserve of money set aside for some purpose
+hyper: bank_deposit
+hyper: budget 2
+hyper: mutual_fund
+hyper: nest_egg
+hyper: pension_fund
+hyper: petty_cash
+hyper: revolving_fund
+hyper: sinking_fund
+hyper: slush_fund
+hyper: trust_fund
+hyper: war_chest
+hypo: money
+
+w: fund 1
+w: stock 1 drf noun.animal:stocker drf noun.person:stockist drf verb.possession:stock drf verb.possession:stock 1 drf verb.possession:stock 2 drf verb.possession:stock 6
+w: store drf verb.possession:store
+d: a supply of something available for future use
+e: he brought back a large store of Cuban cigars
+hyper: noun.artifact:base 6
+hyper: cache
+hyper: government_issue
+hyper: provision
+hyper: seed_stock
+hypo: accumulation
+
+w: gain ant loss
+d: the amount by which the revenue of a business exceeds its cost of operating
+hyper: financial_gain
+hyper: paper_profit
+hypo: amount
+
+w: gamble drf verb.competition:gamble
+d: money that is risked for possible monetary gain
+hyper: bet
+hypo: speculation
+
+w: garageman's_lien
+d: the extension of a mechanic's lien to include payment for work on automobiles
+hypo: mechanic's_lien
+
+w: gasoline_tax
+d: a tax on every gallon of gasoline sold
+hypo: excise
+
+w: gate
+d: total admission receipts at a sports event
+hypo: gross
+
+w: general_ledger
+d: the ledger that contains all of the financial accounts of a business; contains offsetting debit and credit accounts (including control accounts)
+hypo: account_book
+mp: control_account
+
+w: general_lien
+d: a lien on all the property owned by a debtor and not just a specific property
+hypo: lien
+
+w: gift drf verb.possession:gift drf verb.social:gift
+d: something acquired without compensation
+hyper: aid
+hyper: award
+hyper: bequest
+hyper: bestowal
+hyper: bride_price
+hyper: contribution
+hyper: devise 1
+hyper: dower 1
+hyper: enrichment
+hyper: free_lunch
+hyper: freebee
+hyper: gift_horse
+hyper: giveaway
+hyper: lagniappe
+hyper: largess
+hyper: present
+hypo: acquisition
+
+w: gift_horse
+d: a gift (usually of inferior quality) that should be accepted uncritically
+e: it wasn't much, but don't look a gift horse in the mouth
+hypo: gift
+
+w: gift_tax
+d: a tax imposed on transfers of property by gift during the lifetime of the giver
+hypo: revenue_enhancement
+
+w: giro
+w: giro_cheque
+d: a check given by the British government to someone who is unemployed; it can be cashed either at a bank or at the post office
+hypo: bank_check
+mr: noun.location:Britain
+
+w: giro_account
+d: an account at a post office that can be used in similar ways to an account at a bank
+hypo: bank_account
+mr: noun.location:Britain
+
+w: giveaway
+d: a gift of public land or resources for the private gain of a limited group
+hypo: gift
+mu: noun.communication:colloquialism
+
+w: glebe
+d: plot of land belonging to an English parish church or an ecclesiastical office
+hypo: acres
+
+w: gold drf adjs.all:gold 1
+d: coins made of gold
+hypo: precious_metal
+ms: noun.substance:Au
+
+w: gold 1
+d: great wealth
+e: "Whilst that for which all virtue now is sold, and almost every vice--almighty gold"--Ben Jonson
+hypo: riches
+
+w: gold_standard
+d: a monetary standard under which the basic unit of currency is defined by a stated quantity of gold
+hypo: monetary_standard
+
+w: good_will
+w: goodwill
+d: (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
+hypo: intangible
+mt: noun.cognition:accounting
+
+w: government_bond
+d: a bond that is an IOU of the United States Treasury; considered the safest security in the investment world
+hyper: Treasury 1
+hyper: savings_bond
+hypo: bond 2
+
+w: government_income
+w: government_revenue
+d: income available to the government
+hyper: revenue 2
+hypo: income
+
+w: government_issue
+w: issue 1 drf verb.social:issue
+w: military_issue
+d: supplies (as food or clothing or ammunition) issued by the government
+hypo: fund 1
+mt: noun.group:armed_forces
+
+w: graduated_tax
+w: progressive_tax
+d: any tax in which the rate increases as the amount subject to taxation increases
+hypo: revenue_enhancement
+
+w: grant drf verb.possession:grant 3
+d: any monetary aid
+hyper: grant-in-aid
+hyper: subsidy
+hypo: aid
+
+w: grant-in-aid
+d: a grant to a person or school for some educational project
+hyper: post_doc
+hypo: aid
+hypo: grant
+
+w: gratuity 1
+d: an award (as for meritorious service) given without claim or obligation
+hypo: award
+
+w: gross drf adj.all:gross drf verb.possession:gross
+w: receipts
+w: revenue 1
+d: the entire amount of income before any deductions are made
+hyper: box_office
+hyper: gate
+hypo: amount
+
+w: gross_estate
+d: the total valuation of the estate's assets at the time of the person's death
+hypo: estate 2
+
+w: gross_margin
+w: margin_of_profit
+w: profit_margin
+d: the ratio gross profits divided by net sales
+hypo: noun.relation:ratio 1
+
+w: gross_profit
+w: gross_profit_margin
+w: margin 2
+d: (finance) the net sales minus the cost of goods and services sold
+hypo: earnings 1
+mt: noun.act:corporate_finance
+
+w: gross_revenue
+w: gross_sales
+w: sales
+d: income (at invoice values) received for goods and services over some given period of time
+hypo: income
+
+w: ground_rent
+d: payment for the right to occupy and improve a piece of land
+hypo: rent
+
+w: group_insurance
+d: insurance that is purchased by a group (such as the employees of a company) usually at a reduced rate to individual members of the group
+hypo: insurance 2
+
+w: growth_stock
+d: stock of a corporation that has had faster than average gains in earnings and is expected to continue to
+hypo: stock
+
+w: grubstake drf verb.possession:grubstake
+d: funds advanced to a prospector or to someone starting a business in return for a share of the profits
+hypo: interest 3
+
+w: guarantee 3
+w: guaranty
+d: a collateral agreement to answer for the debt of another in case that person defaults
+hypo: collateral
+
+w: guerdon
+d: a reward or payment
+hypo: reward
+
+w: guinea
+d: a former British gold coin worth 21 shillings
+hypo: coin 2
+
+w: ha'penny
+w: halfpenny
+d: an English coin worth half a penny
+hypo: coin 2
+
+w: hacienda
+d: a large estate in Spanish-speaking countries
+hypo: acres
+mp: noun.artifact:hacienda
+
+w: half-pay
+d: reduced wage paid to someone who is not working full time
+hypo: earnings
+
+w: half_crown
+d: an English coin worth half a crown
+hypo: coin 2
+
+w: half_eagle
+d: a former gold coin in United States worth 5 dollars
+hypo: coin 2
+
+w: handling_charge
+w: handling_cost
+d: the cost of handling (especially the cost of packaging and mailing an order)
+hypo: cost
+
+w: hard_currency 1
+d: a currency that is not likely to depreciate suddenly in value
+e: the countries agreed to conduct their bilateral trade in hard currency, replacing previous barter arrangements
+e: Germany once had a solid economy, good fiscal and monetary policies, and a hard currency
+hypo: currency
+
+w: hazard_insurance
+d: insurance that provides protection against certain risks such as storms or fires
+hypo: insurance 2
+
+w: health_insurance
+d: insurance against loss due to ill health
+hyper: HMO
+hyper: hospitalization
+hypo: insurance 2
+
+w: hedge
+w: hedging
+d: any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change
+hypo: protection
+
+w: heirloom
+d: something that has been in a family for generations
+hypo: heritage 2
+
+w: heirloom 1
+d: (law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inheritance
+hp: heritage 2
+hypo: belongings
+mt: noun.group:jurisprudence
+
+w: hereditament
+d: any property (real or personal or mixed) that can be inherited
+hypo: belongings
+
+w: heritage 2
+w: inheritance
+d: that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner
+hyper: accretion
+hyper: bequest
+hyper: birthright
+hyper: borough_English
+hyper: devise 1
+hyper: heirloom
+hyper: primogeniture
+hypo: transferred_possession
+mp: heirloom 1
+mt: noun.group:jurisprudence
+
+w: hidden_reserve
+d: reserves that do not show up on the balance sheet (as by understating values)
+hyper: cookie_jar_reserve
+hypo: reserve_account
+
+w: hidden_tax
+d: a tax paid unwittingly by the consumer (such as ad valorem taxes)
+hypo: indirect_tax
+mt: revenue_enhancement
+
+w: high-yield_bond
+w: junk_bond
+d: a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit
+hypo: bond 2
+
+w: highway_robbery
+d: an exorbitant price
+e: what they are asking for gas these days is highway robbery
+hypo: damage
+
+w: hire-purchase
+w: never-never
+d: installment plan
+e: we bought a car on the never-never
+hypo: installment_buying
+mr: noun.location:Britain
+
+w: hoarded_wealth
+w: treasure
+d: accumulated wealth in the form of money or jewels etc.
+e: the pirates hid their treasure on a small island in the West Indies
+hyper: fortune
+hyper: king's_ransom
+hyper: treasure_trove
+hyper: valuable
+hypo: riches
+
+w: hole_card
+d: any assets that are concealed until they can be used advantageously
+hypo: assets
+
+w: homestead
+d: the home and adjacent grounds occupied by a family
+hypo: land 1
+
+w: homestead 1 drf verb.change:homestead
+d: land acquired from the United States public lands by filing a record and living on and cultivating it under the homestead law
+hypo: acres
+
+w: honorarium
+d: a fee paid for a nominally free service
+hypo: reward
+
+w: hospitalization
+w: hospitalization_insurance
+d: insurance that pays all or part of a patient's hospital expense
+hypo: health_insurance
+
+w: hot_issue
+w: hot_stock
+d: newly issued stock that is in great public demand
+hypo: stock
+
+w: hotel_plan
+w: meal_plan
+d: a plan and a room rate for providing a room and meals to guests at a hotel
+hyper: American_plan
+hyper: Bermuda_plan
+hyper: European_plan
+hypo: noun.cognition:design 1
+
+w: hush_money
+d: a bribe paid to someone to insure that something is kept secret
+hypo: bribe
+
+w: ice
+w: sparkler drf verb.weather:sparkle
+d: diamonds
+e: look at the ice on that dame!
+hypo: diamond
+mu: noun.communication:colloquialism
+
+w: immovable
+w: real_estate
+w: real_property
+w: realty
+d: property consisting of houses and land
+hyper: acres
+hyper: dead_hand
+hyper: land 1
+hypo: belongings
+
+w: implied_trust
+d: a trust inferred by operation of law
+hyper: constructive_trust
+hyper: resulting_trust
+hypo: trust 3
+
+w: import_credit
+d: credit opened by an importer at a bank in his own country upon which an exporter may draw
+hypo: credit 2
+
+w: import_duty
+d: a duty imposed on imports
+hypo: duty
+
+w: incentive_program
+w: incentive_scheme
+d: a formal scheme for inducing someone (as employees) to do something
+hypo: noun.cognition:scheme
+mp: bonus
+
+w: incidental
+w: incidental_expense
+w: minor_expense
+d: (frequently plural) an expense not budgeted or not specified
+e: he requested reimbursement of $7 for incidental expenses
+hypo: expense 1
+mu: noun.communication:plural
+
+w: income ant outgo
+d: the financial gain (earned or unearned) accruing over a given period of time
+hyper: EBITDA
+hyper: cash_flow
+hyper: disposable_income
+hyper: double_dipping
+hyper: earnings 1
+hyper: easy_money
+hyper: government_income
+hyper: gross_revenue
+hyper: issue
+hyper: net_sales
+hyper: per_capita_income
+hyper: personal_income
+hyper: rental_income
+hyper: unearned_income
+hyper: unearned_income 1
+hypo: financial_gain
+
+w: income_tax
+d: a personal tax levied on annual income
+hyper: FICA
+hyper: bracket_creep
+hyper: estimated_tax
+hyper: supertax
+hyper: withholding
+hypo: revenue_enhancement
+
+w: index_fund
+d: a mutual fund whose assets are stocks on a given list
+hypo: mutual_fund
+
+w: indirect_tax
+d: a tax levied on goods or services rather than on persons or organizations
+hyper: duty
+hyper: excise
+hyper: hidden_tax
+hypo: revenue_enhancement
+
+w: inland_bill
+d: a bill of exchange that is both drawn and made payable in the same country
+hypo: bill_of_exchange
+
+w: installation_charge
+d: the charge for installing something
+hypo: charge 2
+
+w: installment
+d: a payment of part of a debt; usually paid at regular intervals
+hypo: payment
+
+w: installment_buying
+w: installment_plan
+w: time_plan
+d: a system for paying for goods by installments
+hyper: hire-purchase
+hypo: regular_payment
+
+w: installment_credit
+w: installment_loan
+d: a loan repaid with interest in equal periodic payments
+hypo: consumer_credit
+hypo: loan
+
+w: installment_debt
+d: debt to be paid by installments
+hypo: debt
+
+w: installment_rate
+w: payment_rate
+w: rate_of_payment
+w: repayment_rate
+d: the amount of money paid out per unit time
+hypo: charge_per_unit
+
+w: insurable_interest
+d: an interest in a person or thing that will support the issuance of an insurance policy; an interest in the survival of the insured or in the preservation of the thing that is insured
+hypo: interest 3
+
+w: insurance 2 drf verb.communication:insure
+d: promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+hyper: assurance 2
+hyper: automobile_insurance
+hyper: business_interruption_insurance
+hyper: coinsurance
+hyper: fire_insurance
+hyper: group_insurance
+hyper: hazard_insurance
+hyper: health_insurance
+hyper: liability_insurance
+hyper: life_assurance
+hyper: malpractice_insurance
+hyper: reinsurance
+hyper: self-insurance
+hyper: term_insurance
+hypo: protection
+
+w: insurance_premium
+w: premium 2
+d: payment for insurance
+hypo: payment
+
+w: intangible
+w: intangible_asset
+d: assets that are saleable though not material or physical
+hyper: good_will
+hypo: assets
+
+w: intellectual_property
+d: intangible property that is the result of creativity (such as patents or trademarks or copyrights)
+hypo: belongings
+
+w: inter_vivos_trust
+w: living_trust
+d: a trust created and operating during the grantor's lifetime
+hypo: trust 3
+
+w: interbank_loan
+d: a loan from one bank to another
+hypo: bank_loan
+
+w: interest
+d: a fixed charge for borrowing money; usually a percentage of the amount borrowed
+e: how much interest do you pay on your mortgage?
+hyper: compound_interest
+hyper: simple_interest
+hypo: fixed_charge
+
+w: interest 3
+w: stake 2
+d: (law) a right or legal share of something; a financial involvement with something
+e: they have interests all over the world
+e: a stake in the company's future
+hyper: controlling_interest
+hyper: equity
+hyper: fee 1
+hyper: grubstake
+hyper: insurable_interest
+hyper: reversion
+hyper: right
+hyper: security_interest
+hyper: terminable_interest
+hyper: undivided_interest
+hyper: vested_interest
+hypo: part
+mt: noun.group:jurisprudence
+
+w: interest_expense
+d: interest paid on loans
+hypo: disbursal
+
+w: interest_rate
+w: rate_of_interest
+d: the percentage of a sum of money charged for its use
+hyper: bank_discount
+hyper: base_rate
+hyper: discount_rate 1
+hyper: prime_interest_rate
+hyper: usury 1
+hypo: charge_per_unit
+
+w: internal_revenue
+d: government revenue from domestic sources (excluding customs)
+hypo: revenue 2
+
+w: inventory
+d: (accounting) the value of a firm's current assets including raw materials and work in progress and finished goods
+hypo: register
+mt: noun.cognition:accounting
+
+w: investment drf verb.possession:invest
+w: investment_funds
+d: money that is invested with an expectation of profit
+dt: verb.possession:bear 1
+hyper: speculation
+hypo: assets
+
+w: investment_letter
+d: a letter of intent saying that a letter security is being bought for investment and not for resale; avoids need for SEC registration
+hypo: noun.communication:letter_of_intent
+
+w: invisible_balance
+d: the difference in value over a period of time of a country's imports and exports of services and payments of property incomes
+hypo: balance 1
+
+w: issue
+w: payoff 2
+w: proceeds
+w: return drf verb.creation:return
+w: take drf verb.possession:take 4
+w: takings
+w: yield drf verb.creation:yield
+d: the income or profit arising from such transactions as the sale of land or other property
+e: the average return was about 5%
+hyper: economic_rent
+hyper: payback
+hypo: income
+
+w: jackpot
+w: kitty 1
+w: pot
+d: the cumulative amount involved in a game (such as poker)
+hypo: bet
+mt: noun.act:poker
+
+w: jackpot 1
+d: any outstanding award
+hypo: award
+
+w: jointure
+w: legal_jointure
+d: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower
+hypo: estate 2
+mt: noun.group:jurisprudence
+
+w: judgment_lien
+d: lien on a debtor's property that is granted to a creditor by court judgment; lien may be enforced by having the sheriff seize the property and hold a sheriff's sale
+hypo: lien
+
+w: kickback drf verb.possession:kick_back
+d: a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction
+hypo: bribe
+
+w: king's_ransom
+d: a very large treasure
+hypo: hoarded_wealth
+
+w: kite drf verb.possession:kite
+d: a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+hypo: bank_check
+
+w: kite 1 drf verb.possession:kite 1
+d: a bank check that has been fraudulently altered to increase its face value
+hypo: bank_check
+
+w: kitty
+w: pool 1
+d: the combined stakes of the betters
+hypo: bet
+
+w: labor_resources
+d: resources of available manpower
+hypo: resource
+
+w: lagniappe
+d: a small gift (especially one given by a merchant to a customer who makes a purchase)
+hypo: gift
+
+w: land 1
+d: the land on which real estate is located
+e: he built the house on land leased from the city
+hyper: farmstead
+hyper: homestead
+hyper: no_man's_land
+hypo: immovable
+
+w: land_grant
+d: a grant of public land (as to a railway or college)
+hypo: assignment 2
+
+w: land_resources
+d: natural resources in the form of arable land
+hypo: natural_resource
+
+w: land_tax
+w: property_tax
+d: a capital tax on property imposed by municipalities; based on the estimated value of the property
+hyper: council_tax
+hypo: capital_levy
+
+w: land_tenure
+w: tenure
+d: the right to hold property; part of an ancient hierarchical system of holding lands
+hyper: copyhold
+hyper: freehold
+hyper: villeinage
+hypo: noun.attribute:legal_right
+
+w: landholding
+d: a holding in the form of land
+hypo: belongings
+
+w: landholding 1
+d: ownership of land; the state or fact of owning land
+hypo: ownership
+
+w: landlord's_lien
+d: lien on a tenant's property for the satisfaction of unpaid rent or property damage; the landlord is given the status of a preferred creditor with regard to the tenant's property
+hypo: lien
+
+w: largess
+w: largesse
+d: a gift or money given (as for service or out of benevolence); usually given ostentatiously
+hypo: gift
+
+w: lease drf verb.possession:lease 1 drf verb.social:lease
+w: letting
+w: rental drf adj.pert:rental 1
+d: property that is leased or rented out or let
+hyper: car_rental
+hyper: sublease
+hypo: belongings
+
+w: leasehold
+d: land or property held under a lease
+hypo: acres
+
+w: legal_fee
+d: a fee paid for legal service
+hyper: refresher
+hypo: fee
+mt: noun.group:jurisprudence
+
+w: legal_tender
+w: stamp
+w: tender
+d: something that can be used as an official medium of payment
+hyper: food_stamp
+hypo: medium_of_exchange
+
+w: letter_bond
+d: a bond that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+hypo: letter_security
+
+w: letter_of_credit
+d: a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit
+hyper: commercial_letter_of_credit
+hyper: traveler's_letter_of_credit
+hypo: credit 2
+hypo: document
+
+w: letter_security
+d: a stock or bond that is not registered with the Securities and Exchange Commission and cannot be sold in the public market
+hyper: letter_bond
+hyper: letter_stock
+hypo: certificate
+
+w: letter_stock
+d: stock that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+hypo: letter_security
+
+w: levy drf verb.possession:levy
+d: a charge imposed and collected
+hyper: revenue_enhancement
+hyper: tithe 2
+hypo: charge 1
+
+w: liabilities
+d: anything that is owed to someone else
+hyper: accounts_payable
+hyper: charge 1
+hyper: debt
+hyper: deficit
+hyper: payables
+hyper: tax_liability
+hypo: noun.Tops:possession
+mu: noun.communication:plural
+
+w: liability_insurance
+d: insurance that provides protection from claims arising from injuries or damage to other people or property
+hypo: insurance 2
+
+w: library_fine
+d: fine imposed by a library on books that overdue when returned
+hypo: amercement
+
+w: license_fee
+w: license_tax
+w: licensing_fee
+d: a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)
+hypo: fee
+mt: noun.cognition:medical_specialty
+
+w: lien
+d: the right to take another's property if an obligation is not discharged
+hyper: artisan's_lien
+hyper: general_lien
+hyper: judgment_lien
+hyper: landlord's_lien
+hyper: mechanic's_lien
+hyper: tax_lien
+hyper: warehouseman's_lien
+hypo: security_interest
+
+w: life_assurance
+w: life_insurance
+d: insurance paid to named beneficiaries when the insured person dies
+e: in England they call life insurance life assurance
+hyper: endowment_insurance
+hyper: ordinary_life_insurance
+hyper: tontine 2
+hypo: insurance 2
+
+w: lighterage drf verb.motion:lighter
+d: the fee charged for carrying goods in lighters
+hypo: fee
+
+w: limited_audit
+d: an audit of limited scope (limited in time span or confined to particular accounts etc.)
+hypo: audit
+
+w: limited_liability
+d: the liability of a firm's owners for no more than the capital they have invested in the firm
+hypo: noun.state:financial_obligation
+
+w: limited_review
+w: review
+d: (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+hyper: analytical_review
+hypo: accounting 1
+mt: noun.cognition:accounting
+
+w: linage
+w: lineage
+d: a rate of payment for written material that is measured according to the number of lines submitted
+hypo: charge_per_unit
+
+w: list_price
+d: the selling price of something as stated in a catalogue or price list; often subject to discounts
+e: I got it at 30% off the list price
+hypo: asking_price
+
+w: listed_security ant unlisted_security
+d: a security that has been accepted for trading by one of the organized and registered securities exchanges in the US
+hypo: certificate
+
+w: living_wage
+d: a wage sufficient for a worker and family to subsist comfortably
+hypo: earnings
+
+w: loan drf verb.possession:loan
+d: the temporary provision of money (usually at interest)
+hyper: bank_loan
+hyper: call_loan
+hyper: consumer_loan
+hyper: direct_loan
+hyper: equity_credit_line
+hyper: installment_credit
+hyper: loan_participation
+hyper: mortgage_loan
+hyper: point
+hyper: time_loan
+hypo: debt
+mp: principal 1
+
+w: loan_participation
+w: participation_financing
+w: participation_loan
+d: a loan that is shared by a group of banks that join to make a loan too big for any one of them alone
+hypo: loan
+
+w: lobbying_expense
+d: expenses incurred in promoting or evaluating legislation
+e: many lobbying expenses are deductible by a taxpayer
+hypo: disbursal
+
+w: lock-up_option
+d: an option to buy the crown jewels offered to a white knight in order to forestall a hostile takeover
+hypo: option
+
+w: lockage
+d: a fee charged for passage through a lock in a canal or waterway
+hypo: fee
+
+w: losings ant winnings drf verb.possession:lose 1 drf verb.possession:lose 6
+w: losses
+d: something lost (especially money lost at gambling)
+hypo: financial_loss
+
+w: loss ant gain
+w: red
+w: red_ink
+d: the amount by which the cost of a business exceeds its revenue
+e: the company operated at a loss last year
+e: the company operated in the red last year
+hyper: paper_loss
+hyper: squeeze
+hypo: amount
+
+w: loss 1
+d: something that is lost
+e: the car was a total loss
+e: loss of livestock left the rancher bankrupt
+hyper: financial_loss
+hyper: forfeit 1
+hyper: sacrifice
+hyper: wastage
+hypo: transferred_possession
+
+w: louis_d'or
+d: a former French gold coin
+hypo: coin 2
+
+w: lump_sum
+d: a complete payment consisting of a single sum of money
+hypo: payment
+
+w: maintenance drf verb.consumption:maintain
+d: means of maintenance of a family or group
+hypo: bread_and_butter
+
+w: malpractice_insurance
+d: insurance purchased by physicians and hospitals to cover the cost of being sued for malpractice
+e: obstetricians have to pay high rates for malpractice insurance
+hypo: insurance 2
+
+w: manor drf adj.pert:manorial
+d: the landed estate of a lord (including the house on it)
+hypo: acres
+
+w: margin 1
+w: security_deposit
+d: the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
+hypo: deposit
+
+w: margin_account ant cash_account
+d: an account with a securities brokerage in which the broker extends credit
+hypo: brokerage_account
+
+w: market_price
+w: market_value
+d: the price at which buyers and sellers trade the item in an open marketplace
+hypo: noun.attribute:value
+
+w: marketing_cost
+d: the cost of marketing (e.g., the cost of transferring title and moving goods to the customer)
+hypo: cost
+
+w: markup drf verb.possession:mark_up
+d: the amount added to the cost to determine the asking price
+hypo: earnings 1
+
+w: matching_funds
+d: funds that will be supplied in an amount matching the funds available from other sources
+hypo: cash_in_hand
+
+w: material_possession
+w: tangible_possession
+d: property or belongings that are tangible
+hypo: belongings
+
+w: material_resource
+d: assets in the form of material possessions
+hyper: riches
+hypo: assets
+
+w: meal_ticket
+d: a source of income or livelihood
+hypo: bread_and_butter
+mu: noun.communication:colloquialism
+
+w: means
+w: substance
+d: considerable capital (wealth or income)
+e: he is a man of means
+hyper: pocketbook
+hyper: wherewithal
+hypo: capital
+
+w: mechanic's_lien
+d: lien to secure payment for work and materials in erecting or repairing a building or other structure
+hyper: garageman's_lien
+hypo: lien
+
+w: medallion
+d: any of various large ancient Greek coins
+hypo: coin 2
+
+w: medical_expense
+d: amount spent for diagnosis or treatment or prevention of medical problems
+hypo: disbursal
+
+w: medicare_check
+w: medicare_payment
+d: a check reimbursing an aged person for the expenses of health care
+hypo: bank_check
+
+w: medium_of_exchange
+w: monetary_system
+d: anything that is generally accepted as a standard of value and a measure of wealth in a particular country or region
+hyper: currency
+hyper: legal_tender
+hyper: money
+hypo: noun.communication:criterion
+
+w: meed
+d: a fitting reward
+hypo: reward
+mu: noun.communication:archaicism
+
+w: merit_pay
+d: extra pay awarded to an employee on the basis of merit (especially to school teachers)
+hypo: earnings
+
+w: mess_of_pottage
+d: anything of trivial value
+e: Esau sold his birthright to Jacob for a mess of pottage
+hypo: economic_value
+
+w: mileage
+d: a travel allowance at a given rate per mile traveled
+hypo: travel_allowance
+
+w: mineral_resources
+d: natural resources in the form of minerals
+hypo: natural_resource
+
+w: minimum_wage
+d: the lowest wage that an employer is allowed to pay; determined by contract or by law
+hypo: earnings
+
+w: mintage 1
+d: fee paid to a mint by the government for minting a coin
+hypo: fee
+
+w: modified_American_plan
+d: a hotel plan that includes breakfast and dinner (but not lunch)
+hypo: American_plan
+
+w: monetary_standard
+w: standard drf verb.change:standardise drf verb.change:standardize
+d: the value behind the money in a monetary system
+hyper: bimetallism
+hyper: gold_standard
+hyper: silver_standard
+hypo: noun.attribute:value
+
+w: money drf adj.pert:monetary drf noun.person:moneyer
+d: the most common medium of exchange; functions as legal tender
+e: we tried to collect the money he owed us
+hp: money_supply
+hyper: appropriation
+hyper: boodle
+hyper: fund
+hyper: shinplaster
+hyper: subsidisation
+hyper: token_money
+hypo: medium_of_exchange
+
+w: money 1 drf adj.pert:monetary drf noun.person:moneyer
+d: the official currency issued by a government or national bank
+e: he changed his money into francs
+hyper: sterling
+hypo: currency
+
+w: money 2
+d: wealth reckoned in terms of money
+e: all his money is in real estate
+hyper: big_bucks
+hypo: wealth
+
+w: money_order
+w: postal_order
+d: a written order for the payment of a sum to a named individual; obtainable and payable at a post office
+hypo: bill_of_exchange
+
+w: money_supply
+d: the total stock of money in the economy; currency held by the public plus money in accounts in banks
+hyper: M1
+hyper: M2
+hyper: M3
+hypo: cash_in_hand
+mp: money
+
+w: moorage
+d: a fee for mooring
+hypo: fee
+
+w: mortgage drf verb.possession:mortgage
+d: a conditional conveyance of property as security for the repayment of a loan
+hyper: chattel_mortgage
+hyper: first_mortgage
+hyper: second_mortgage
+hypo: security_interest
+
+w: mortgage-backed_security
+d: a security created when a group of mortgages are gathered together and bonds are sold to other institutions or the public; investors receive a portion of the interest payments on the mortgages as well as the principal payments; usually guaranteed by the government
+hypo: certificate
+
+w: mortgage_loan
+w: real_estate_loan
+d: a loan on real estate that is usually secured by a mortgage
+hypo: loan
+
+w: moving_expense
+d: the cost of moving your residence from one location to another
+hypo: disbursal
+
+w: municipal_bond
+d: a bond issued by a state or local government
+hyper: utility_bond
+hypo: bond 2
+
+w: municipal_note
+d: a municipal debt instrument with a maturity of less than 2 years
+hypo: note
+
+w: mutual_fund
+d: the pooled money that is invested in assets
+hyper: ETF
+hyper: index_fund
+hypo: fund
+
+w: national_debt
+d: the debt of the national government (as distinguished from the debts of individuals and businesses and political subdivisions)
+hypo: debt
+
+w: national_debt_ceiling
+d: a limit set by Congress beyond which the national debt cannot rise; periodically raised by Congress
+hypo: debt_ceiling
+
+w: national_income
+d: the total value of all income in a nation (wages and profits and interest and rents and pension payments) during a given period (usually 1 yr)
+hypo: noun.attribute:value
+
+w: natural_resource
+w: natural_resources
+d: resources (actual and potential) supplied by nature
+hyper: land_resources
+hyper: mineral_resources
+hyper: renewable_resource
+hypo: resource
+
+w: nest_egg
+w: savings drf verb.possession:save 1
+d: a fund of money put by as a reserve
+hypo: fund
+
+w: net_estate
+d: the estate remaining after debts and funeral expenses and administrative expenses have been deducted from the gross estate; the estate then left to be distributed (and subject to federal and state inheritance taxes)
+hypo: estate 2
+mt: revenue_enhancement
+
+w: net_sales
+d: gross sales reduced by customer discounts, returns, freight out, and allowances
+hypo: income
+
+w: new_penny
+d: a coin used in Great Britain since 1971 worth one hundredth of a pound
+hypo: cent
+
+w: nickel
+d: a United States coin worth one twentieth of a dollar
+hypo: coin 2
+
+w: nickel 1
+w: nickel_note
+d: five dollars worth of a drug
+e: a nickel bag of drugs
+e: a nickel deck of heroin
+hypo: five-spot
+
+w: ninepence
+d: a coin worth nine pennies
+hypo: coin 2
+
+w: no-par-value_stock
+w: no-par_stock
+d: stock with no par value specified in the corporate charter or on the stock certificate
+hypo: stock
+
+w: no_fault_automobile_insurance
+w: no_fault_insurance
+d: a system of automobile insurance where a party who is injured in an automobile accident recovers damages up to a specific amount against his own insurance company regardless of who was responsible for the accident
+e: the amount of litigation resulting from minor accidents is reduced by no fault insurance
+hypo: automobile_insurance
+
+w: no_man's_land
+d: land that is unowned and uninhabited (and usually undesirable)
+hypo: land 1
+
+w: nominal_damages
+d: (law) a trivial sum (usually $1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)
+hypo: amends
+mt: noun.group:jurisprudence
+
+w: non-cash_expense
+d: an expense (such as depreciation) that is not paid for in cash
+hyper: depreciation
+hypo: disbursal
+
+w: noncallable_bond
+d: a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)
+hypo: bond 2
+
+w: note
+w: note_of_hand
+w: promissory_note
+d: a promise to pay a specified amount on demand or at a certain time
+e: I had to co-sign his note at the bank
+hyper: IOU
+hyper: demand_note
+hyper: municipal_note
+hyper: note_payable
+hyper: note_receivable
+hyper: time_note
+hypo: certificate_of_indebtedness
+
+w: note_payable
+d: a note promising to pay a certain amount of money at a certain time
+hypo: note
+
+w: note_receivable
+d: your right in a promissory note in which the maker promises to pay a certain amount of money at a certain time
+hypo: note
+
+w: nuisance_tax
+w: sales_tax
+d: a tax based on the cost of the item purchased and collected directly from the buyer
+hypo: excise
+
+w: octroi
+d: a tax on various goods brought into a town
+hypo: duty
+
+w: offer_price
+d: (stock market) the price at which a broker is willing to sell a certain security
+hypo: asking_price
+mt: noun.artifact:securities_market
+
+w: offering
+d: money contributed to a religious organization
+hyper: Peter's_pence
+hyper: offertory
+hyper: thank_offering
+hyper: tithe 1
+hypo: contribution
+
+w: offertory
+d: the offerings of the congregation at a religious service
+hypo: offering
+
+w: old-age_pension
+w: retirement_benefit
+w: retirement_check
+w: retirement_fund
+w: retirement_pension
+w: superannuation
+d: a monthly payment made to someone who is retired from work
+hypo: pension
+
+w: operating_budget
+d: a budget for current expenses as distinct from financial transactions or permanent improvements
+hypo: budget 2
+mp: budget_items
+
+w: operating_capital
+d: capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements
+hypo: capital 1
+
+w: opportunity_cost
+d: cost in terms of foregoing alternatives
+hyper: capital_cost
+hyper: carrying_charge 2
+hypo: cost
+
+w: option
+d: the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited
+hyper: noun.act:call 4
+hyper: noun.act:covered_option
+hyper: noun.act:incentive_option
+hyper: noun.act:naked_option
+hyper: noun.act:put
+hyper: noun.act:straddle 1
+hyper: lock-up_option
+hyper: stock_option
+hypo: noun.communication:derivative 1
+
+w: orangery
+d: a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas
+hypo: noun.artifact:glasshouse
+hypo: plantation
+
+w: ordinary_annuity
+d: an annuity paid in a series of more or less equal payments at the end of equally spaced periods
+hypo: annuity
+
+w: ordinary_life_insurance
+w: straight_life_insurance
+w: whole_life_insurance
+d: insurance on the life of the insured for a fixed amount at a definite premium that is paid each year in the same amount during the entire lifetime of the insured
+hypo: life_assurance
+
+w: organization_expense
+d: the cost (over a period of five years) of organizing a new corporation or partnership
+hypo: business_expense
+
+w: origination_fee
+d: a fee charged to a borrower (especially for a mortgage loan) to cover the costs of initiating the loan
+hypo: fee
+
+w: overage
+d: a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations
+hypo: assets
+
+w: overcharge drf verb.possession:overcharge
+d: a price that is too high
+hyper: extortion
+hypo: charge 2
+
+w: overcompensation
+d: excessive compensation
+hypo: compensation
+
+w: overdraft
+d: a draft in excess of the credit balance
+hypo: bill_of_exchange
+
+w: overpayment drf verb.possession:overpay
+d: a payment larger than needed or expected
+hypo: payment
+
+w: ownership drf noun.person:owner drf noun.person:owner 2
+d: the relation of an owner to the thing possessed; possession with the right to transfer possession to others
+hyper: community
+hyper: employee_ownership
+hyper: landholding 1
+hyper: property_right
+hyper: proprietary
+hyper: severalty
+hyper: stockholding 1
+hypo: noun.Tops:relation
+
+w: palimony
+d: support paid by one half of an unmarried partnership after the relationship ends
+hypo: support_payment
+
+w: paper_gold
+w: special_drawing_rights
+d: reserve assets in the International Monetary Fund; designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market
+hypo: reserve_assets
+
+w: paper_loss ant paper_profit
+d: an unrealized loss on an investment calculated by subtracting the current market price from the investor's cost
+hypo: loss
+
+w: paper_profit ant paper_loss
+d: an unrealized gain on an investment calculated by subtracting the investor's cost from the current market price
+hypo: gain
+
+w: part
+w: percentage
+w: portion
+w: share drf verb.possession:share 1
+d: assets belonging to or due to or contributed by an individual person or group
+e: he wanted his share in cash
+hp: earnings 1
+hyper: allocation
+hyper: allowance
+hyper: cut
+hyper: dispensation
+hyper: dole
+hyper: interest 3
+hyper: piece
+hyper: profit_sharing
+hyper: ration
+hyper: split
+hyper: tranche
+hyper: way
+hypo: assets
+
+w: partnership_certificate
+d: a certificate showing the interests of all parties in a business partnership
+hypo: certificate
+
+w: passbook_savings_account
+d: a savings account in which deposits and withdrawals are recorded in the depositor's passbook
+hypo: savings_account
+
+w: passive_trust ant active_trust
+d: a trust in which the trustee performs no active duties
+hypo: trust 3
+
+w: patrimony 2
+d: a church endowment
+hypo: endowment
+
+w: pavage drf verb.contact:pave
+d: a tax toward paving streets
+hypo: revenue_enhancement
+
+w: pawn drf verb.possession:pawn
+d: an article deposited as security
+hypo: pledge 2
+
+w: pawn_ticket
+d: a pawnbroker's receipt for articles taken as security
+hypo: noun.communication:receipt
+
+w: pay_envelope
+w: pay_packet
+d: wages enclosed in an envelope for distribution to the wage earner
+hypo: earnings
+
+w: pay_rate
+w: rate_of_pay
+d: amount of money received per unit time
+e: women's pay rate is lower than men's
+hyper: time_and_a_half
+hypo: charge_per_unit
+
+w: payables
+d: money that you currently expect to pay on notes and accounts
+hypo: liabilities
+
+w: payback
+d: financial return or reward (especially returns equal to the initial investment)
+hypo: issue
+
+w: paycheck
+w: payroll_check
+d: a check issued in payment of wages or salary
+hypo: bank_check
+
+w: payment ant nonpayment drf verb.possession:pay drf verb.possession:pay 4 drf verb.possession:pay 14
+d: a sum of money paid or a claim discharged
+hyper: benefit
+hyper: blood_money 3
+hyper: bonus
+hyper: bribe
+hyper: cash 2
+hyper: conscience_money
+hyper: credit
+hyper: deposit
+hyper: final_payment
+hyper: installment
+hyper: insurance_premium
+hyper: lump_sum
+hyper: overpayment
+hyper: penalty
+hyper: pittance
+hyper: quittance
+hyper: recompense
+hyper: refund
+hyper: regular_payment
+hyper: remission
+hyper: residual
+hyper: reward
+hyper: royalty
+hyper: satisfaction 1
+hyper: subscription
+hyper: support_payment
+hyper: token_payment
+hyper: underpayment
+hypo: cost
+
+w: payola
+d: a bribe given to a disc jockey to induce him to promote a particular record
+hypo: bribe
+
+w: payroll
+w: paysheet
+d: a list of employees and their salaries
+e: the company had a long payroll
+hypo: register
+mp: earnings
+
+w: payroll 2
+w: paysheet 2
+d: the total amount of money paid in wages
+e: the company had a large payroll
+hypo: amount
+
+w: payslip
+d: a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out
+hypo: record
+
+w: peanuts
+d: an insignificant sum of money; a trifling amount
+e: her salary is peanuts compared to his
+hypo: amount
+
+w: pearl drf verb.contact:pearl
+d: a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel
+hyper: seed_pearl
+hypo: noun.artifact:gem
+
+w: penalty
+d: a payment required for not fulfilling a contract
+hyper: amercement
+hyper: forfeit
+hyper: requital
+hypo: payment
+
+w: penny_stock
+d: a stock selling for less that $1/share
+hypo: OTC_stock
+
+w: pension drf verb.possession:pension
+d: a regular payment to a person that is intended to allow them to subsist without working
+hyper: old-age_pension
+hypo: regular_payment
+
+w: pension_fund
+w: superannuation_fund
+d: a fund reserved to pay workers' pensions when they retire from service
+hypo: fund
+
+w: peppercorn_rent
+d: very low or nominal rent
+hypo: rent
+mr: noun.location:Britain
+
+w: per_capita_income
+d: the total national income divided by the number of people in the nation
+hypo: income
+
+w: per_diem
+d: a daily allowance for living expenses (especially while traveling in connection with your job)
+hypo: allowance 2
+
+w: performance_bond
+w: surety_bond
+d: a bond given to protect the recipient against loss in case the terms of a contract are not filled; a surety company assumes liability for nonperformance
+hypo: bond 2
+
+w: perpetual_warrant
+d: a warrant with no expiration date
+hypo: stock-purchase_warrant
+
+w: personal_check
+w: personal_cheque
+d: a check drawn against funds deposited in your personal checking account
+hypo: bank_check
+
+w: personal_estate
+w: personal_property
+w: personalty
+w: private_property
+d: movable property (as distinguished from real estate)
+hyper: chattel
+hyper: clobber
+hyper: effects
+hypo: belongings
+
+w: personal_expense
+d: the cost of personal or family living
+e: some personal expenses are tax deductible
+hypo: disbursal
+
+w: personal_income
+d: the income received by a single individual
+hyper: poverty_level
+hypo: income
+
+w: petty_cash
+d: a small fund of cash that a firm keeps for the payment of incidental expenses
+hypo: fund
+
+w: physical_value
+w: reproduction_cost
+d: cost of reproducing physical property minus various allowances (especially depreciation)
+hypo: cost
+
+w: piece
+w: slice
+d: a share of something
+e: a slice of the company's revenue
+hypo: part
+
+w: piece_of_eight
+d: an old silver Spanish coin; worth 8 reales
+hypo: coin 2
+
+w: pin_money
+w: pocket_money
+w: spending_money
+d: cash for day-to-day spending on incidental expenses
+hypo: cash
+
+w: pipage drf verb.motion:pipe
+d: a fee charged for the use of pipes
+hypo: fee
+
+w: pittance
+d: an inadequate payment
+e: they work all day for a mere pittance
+hypo: payment
+
+w: plantation
+d: an estate where cash crops are grown on a large scale (especially in tropical areas)
+hyper: orangery
+hypo: acres
+
+w: pledge 2 drf verb.communication:pledge 2
+d: a deposit of personal property as security for a debt
+e: his saxophone was in pledge
+hyper: pawn
+hypo: security_interest
+
+w: pocket
+d: a supply of money
+e: they dipped into the taxpayers' pockets
+hypo: cash_in_hand
+
+w: pocketbook
+d: your personal financial means
+e: that car is too expensive for my pocketbook
+hypo: means
+
+w: point
+d: one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan
+hypo: loan
+
+w: political_contribution
+w: political_donation
+d: a contribution made to a politician or a political campaign or a political party
+hyper: soft_money
+hypo: contribution
+
+w: poll_tax
+d: a tax of a fixed amount per person and payable as a requirement for the right to vote
+hypo: capitation
+
+w: pool drf verb.possession:pool
+d: any communal combination of funds
+e: everyone contributed to the pool
+hypo: reserve_account
+mp: bet
+
+w: pooling_of_interest
+d: an accounting method used in the merging of companies; the balance sheets are added together item by item; this method is tax-free
+hypo: accounting 1
+
+w: poor_rates
+d: a local tax for the relief of the poor
+hypo: rates
+mr: noun.location:Britain
+
+w: pork
+w: pork_barrel
+d: a legislative appropriation designed to ingratiate legislators with their constituents
+hypo: appropriation
+
+w: portage
+d: the cost of carrying or transporting
+hypo: cost
+
+w: porterage drf verb.contact:porter
+d: the charge for carrying burdens by porters
+hypo: charge 2
+
+w: post-obit_bond
+d: a bond made by a reversioner to secure a loan; payable out of his reversion
+hypo: bond 2
+
+w: post_doc
+w: postdoc
+w: postdoctoral
+d: a grant that funds postdoctoral study or research
+hypo: grant-in-aid
+
+w: postage
+d: the charge for mailing something
+hypo: charge 2
+
+w: poundage
+d: a fee charged for the recovery of impounded animals
+hypo: fee
+
+w: poundage 1
+d: a charge based on weight measured in pounds
+hypo: charge 2
+
+w: poverty_level
+w: poverty_line
+d: a level of personal income defining the state of poverty
+hypo: personal_income
+
+w: prebend
+d: the stipend assigned by a cathedral to a canon
+hypo: stipend
+
+w: precious_metal
+d: any of the less common and valuable metals often used to make coins or jewelry
+hyper: bullion
+hyper: gold
+hyper: silver
+hypo: valuable
+
+w: preemptive_right
+d: the right granting to shareholders the first opportunity to buy a new issue of stock; provides protection against dilution of the shareholder's ownership interest
+hypo: noun.attribute:pre-emption
+
+w: preference_shares
+w: preferred_shares
+w: preferred_stock
+d: stock whose holders are guaranteed priority in the payment of dividends but whose holders have no voting rights
+hyper: cumulative_preferred
+hypo: stock
+
+w: premium
+d: the amount that something in scarce supply is valued above its nominal value
+e: they paid a premium for access to water
+hypo: economic_value
+
+w: premium 4
+d: a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.
+e: they encouraged customers with a premium for loyal patronage
+hypo: award
+hypo: bonus
+
+w: present drf adj.all:present 2 drf verb.possession:present 1
+d: something presented as a gift
+e: his tie was a present from his wife
+hyper: Christmas_gift
+hyper: birthday_gift
+hyper: wedding_gift
+hypo: gift
+
+w: price 2
+d: cost of bribing someone
+e: they say that every politician has a price
+hypo: cost
+
+w: price_support
+d: a government subsidy used to maintain prices at a certain level
+hypo: subsidy
+
+w: prime_interest_rate
+d: the interest rate on short-term loans that banks charge their commercial customers with high credit ratings
+hypo: interest_rate
+
+w: primogeniture
+d: right of inheritance belongs exclusively to the eldest son
+hypo: heritage 2
+
+w: principal 1
+d: the original amount of a debt on which interest is calculated
+hp: loan
+hypo: debt
+
+w: privy_purse
+d: allowance for a monarch's personal expenses
+hypo: allowance
+
+w: prize_money
+d: any money given as a prize
+hypo: award
+
+w: production_cost
+d: combined costs of raw material and labor incurred in producing goods
+hypo: cost
+
+w: profit_and_loss
+w: profit_and_loss_account
+d: an account compiled at the end of an accounting period to show gross and net profit or loss
+hypo: account 2
+
+w: profit_sharing
+d: a system in which employees receive a share of the net profits of the business
+hypo: part
+
+w: profits 2
+w: win drf verb.possession:win
+w: winnings ant losings drf verb.competition:win drf verb.possession:win
+d: something won (especially money)
+hypo: financial_gain
+
+w: promotional_expense
+d: the cost of promoting a product
+hypo: business_expense
+
+w: property_right
+d: the legal right of ownership
+hyper: accession 1
+hyper: public_domain
+hypo: ownership
+
+w: proportional_tax
+d: any tax in which the rate is constant as the amount subject to taxation increases
+hypo: revenue_enhancement
+
+w: proprietary
+w: proprietorship drf noun.person:proprietor
+d: an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits
+hypo: ownership
+
+w: proprietorship_certificate
+d: a certificate showing who is responsible in an individually owned business
+hypo: certificate
+
+w: protection
+w: security 1 drf adjs.all:secure
+d: defense against financial failure; financial independence
+e: his pension gave him security in his old age
+e: insurance provided protection against loss of wages due to illness
+hyper: easy_street
+hyper: hedge
+hyper: insurance 2
+hypo: assets
+
+w: protective_tariff
+d: a tariff imposed to protect domestic firms from import competition
+hyper: anti-dumping_duty
+hypo: duty
+
+w: provision drf verb.possession:provision
+d: a store or supply of something (especially of food or clothing or arms)
+hypo: fund 1
+
+w: public_debt
+d: the total of the nation's debts: debts of local and state and national governments; an indicator of how much public spending is financed by borrowing instead of taxation
+hypo: debt
+
+w: public_domain
+d: property rights that are held by the public at large
+hypo: property_right
+
+w: public_property
+d: property owned by a government
+hypo: belongings
+
+w: public_treasury
+w: till
+w: trough
+d: a treasury for government funds
+hypo: exchequer
+
+w: purchase drf verb.possession:purchase
+d: something acquired by purchase
+hyper: bargain 1
+hyper: stock_buyback
+hypo: acquisition
+
+w: purchase_price
+d: the price at which something is actually purchased
+hypo: damage
+
+w: purse
+d: a sum of money offered as a prize
+e: the purse barely covered the winner's expenses
+hypo: amount
+
+w: purse 1
+d: a sum of money spoken of as the contents of a money purse
+e: he made the contribution out of his own purse
+e: he and his wife shared a common purse
+hypo: amount
+
+w: purse_strings
+d: financial resources or support
+e: who controls the purse strings in this family?
+hypo: cash_in_hand
+
+w: put_option
+d: an option to sell
+hypo: stock_option
+
+w: pyramid
+d: (stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases
+hypo: speculation
+mt: noun.artifact:securities_market
+
+w: quarter
+d: a United States or Canadian coin worth one fourth of a dollar
+e: he fed four quarters into the slot machine
+hypo: coin 2
+
+w: quarter_stock
+d: stock with a par value of $25/share
+hypo: stock
+
+w: quayage
+w: wharfage
+d: a fee charged for the use of a wharf or quay
+hypo: fee
+
+w: quid
+w: quid_pro_quo
+d: something for something; that which a party receives (or is promised) in return for something he does or gives or promises
+hypo: consideration
+
+w: quittance
+w: repayment drf verb.possession:repay drf verb.possession:repay 1
+d: payment of a debt or obligation
+hyper: redemption
+hypo: payment
+
+w: quittance 1
+d: a document or receipt certifying release from an obligation or debt
+hypo: document
+
+w: quota
+d: a proportional share assigned to each participant
+hypo: allocation
+
+w: rack_rent
+d: an extortionate rent
+hypo: rent
+
+w: rake-off drf verb.possession:rake_off
+w: vigorish 1
+d: a percentage (of winnings or loot or profit) taken by an operator or gangster
+hypo: cut
+
+w: ransom drf verb.possession:ransom
+w: ransom_money
+d: money demanded for the return of a captured person
+hypo: cost
+
+w: ratables
+w: rateables
+d: property that provides tax income for local governments
+hypo: belongings
+mr: noun.location:Britain
+
+w: rates
+d: a local tax on property (usually used in the plural)
+hyper: poor_rates
+hypo: revenue_enhancement
+mr: noun.location:Britain
+
+w: ration drf verb.possession:ration drf verb.possession:ration 1
+d: a fixed portion that is allotted (especially in times of scarcity)
+hypo: part
+
+w: reacquired_stock
+w: treasury_shares
+w: treasury_stock
+d: stock that has been bought back by the issuing corporation and is available for retirement or resale; it is issued but not outstanding; it cannot vote and pays no dividends
+hypo: stock
+
+w: real
+d: an old small silver Spanish coin
+hypo: coin 2
+
+w: real_GNP
+w: real_gross_national_product
+d: a version of the GNP that has been adjusted for the effects of inflation
+hypo: GNP
+
+w: reallocation drf verb.possession:reallocate
+d: a share that has been allocated again
+hypo: allocation
+
+w: receivables
+d: money that you currently expect to receive from notes or accounts
+hypo: assets
+mu: noun.communication:plural
+
+w: recognisance
+w: recognizance
+d: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
+hyper: bail
+hypo: security
+mt: noun.group:jurisprudence
+
+w: recompense drf verb.possession:recompense
+d: payment or reward (as for service rendered)
+hyper: adjustment
+hyper: compensation
+hypo: payment
+
+w: record drf verb.communication:record
+d: a document that can serve as legal evidence of a transaction
+e: they could find no record of the purchase
+hyper: account_book
+hyper: balance_sheet
+hyper: bankbook
+hyper: checkbook
+hyper: expense_record
+hyper: payslip
+hyper: register
+hypo: document
+mt: noun.group:jurisprudence
+
+w: redemption drf verb.possession:redeem 1
+d: repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock)
+hypo: quittance
+mt: noun.group:corp
+
+w: redraft
+d: a draft for the amount of a dishonored draft plus the costs and charges of drafting again
+hypo: bill_of_exchange
+
+w: refresher
+d: a fee (in addition to that marked on the brief) paid to counsel in a case that lasts more than one day
+hypo: legal_fee
+mr: noun.location:Britain
+
+w: refund drf verb.possession:refund
+d: money returned to a payer
+hyper: discount 2
+hypo: payment
+
+w: register drf verb.communication:register 3 drf verb.social:register drf verb.social:register 5
+d: a book in which names and transactions are listed
+hyper: accounting 1
+hyper: inventory
+hyper: payroll
+hypo: record
+
+w: registered_bond
+d: a bond whose owner is recorded on the books of the issuer; can be transferred to another owner only when endorsed by the registered owner
+hypo: bond 2
+hypo: registered_security
+
+w: registered_security
+d: a security whose owner's name is recorded on the books of the issuer (or issuer's agent)
+hyper: registered_bond
+hypo: certificate
+
+w: regular_payment
+d: a payment made at regular times
+hyper: annuity
+hyper: disability_check
+hyper: earnings
+hyper: installment_buying
+hyper: pension
+hyper: stipend
+hypo: payment
+
+w: reimbursement drf verb.possession:reimburse drf verb.possession:reimburse 1
+d: compensation paid (to someone) for damages or losses or money already spent etc.
+e: he received reimbursement for his travel expenses
+hyper: allowance 2
+hyper: breakage
+hyper: costs
+hypo: compensation
+
+w: reinsurance drf verb.communication:reinsure
+d: sharing the risk by insurance companies; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured
+e: reinsurance enables a client to get coverage that would be too great for any one company to assume
+hypo: insurance 2
+
+w: relief
+d: (law) redress awarded by a court
+e: was the relief supposed to be protection from future harm or compensation for past injury?
+hypo: amends
+mt: noun.group:jurisprudence
+
+w: remission
+w: remitment drf verb.possession:remit
+w: remittal drf verb.possession:remit
+w: remittance drf verb.possession:remit
+d: a payment of money sent to a person in another place
+hypo: payment
+
+w: renewable_resource
+d: any natural resource (as wood or solar energy) that can be replenished naturally with the passage of time
+hypo: natural_resource
+
+w: rent drf adj.pert:rental drf verb.possession:rent drf verb.possession:rent 1 drf verb.social:rent drf verb.social:rent 1
+d: a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
+hyper: ground_rent
+hyper: peppercorn_rent
+hyper: rack_rent
+hypo: annuity_in_advance
+
+w: rent-rebate
+d: a rebate on rent given by a local government authority
+hypo: discount 2
+mr: noun.location:Britain
+
+w: rental_income
+d: income received from rental properties
+hypo: income
+
+w: reparation
+d: (usually plural) compensation exacted from a defeated nation by the victors
+e: Germany was unable to pay the reparations demanded after World War I
+hypo: compensation
+mu: noun.communication:plural
+
+w: reparation 1 drf verb.possession:repair
+d: compensation (given or received) for an insult or injury
+e: an act for which there is no reparation
+hypo: compensation
+
+w: replacement_cost
+d: current cost of replacing a fixed asset with a new one of equal effectiveness
+hypo: cost
+
+w: requital
+w: retribution
+d: a justly deserved penalty
+hypo: penalty
+
+w: reserve_account
+w: reserve_fund
+d: funds taken out of earnings to provide for anticipated future payments
+hyper: allowance 3
+hyper: hidden_reserve
+hyper: pool
+hypo: backlog
+
+w: reserve_assets
+d: capital held back from investment in order to meet probable or possible demands
+hyper: paper_gold
+hypo: assets
+mu: noun.communication:plural
+
+w: residual
+d: (often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing
+e: he could retire on his residuals
+hypo: payment
+mu: noun.communication:plural
+
+w: resource
+d: available source of wealth; a new or reserve supply that can be drawn upon when needed
+hyper: backing
+hyper: bread_and_butter
+hyper: labor_resources
+hyper: natural_resource
+hyper: ways_and_means
+hypo: assets
+
+w: resulting_trust
+d: a trust created by a court when it is judged that it was the intention of the parties to create a trust
+hypo: implied_trust
+
+w: revenue 2
+w: tax_income
+w: tax_revenue
+w: taxation 1 drf verb.possession:tax
+d: government income due to taxation
+hyper: internal_revenue
+hypo: government_income
+
+w: revenue_bond
+d: a bond issued by an agency that is commissioned to finance public works; revenue from the public property is used to pay off the bond
+hypo: bond 2
+
+w: revenue_enhancement
+w: tax drf verb.possession:tax
+w: taxation drf verb.possession:tax
+d: charge against a citizen's person or property or activity for the support of government
+dt: adj.all:deductible
+dt: adj.all:progressive 2
+dt: adj.all:regressive 2
+dt: noun.act:imposition 2
+dt: noun.act:withholding
+dt: noun.person:accumulator
+dt: budget_items
+dt: charge 1
+dt: deductible
+dt: disposable_income
+dt: hidden_tax
+dt: net_estate
+dt: unearned_income 1
+hyper: capital_gains_tax
+hyper: capital_levy
+hyper: capitation
+hyper: degressive_tax
+hyper: departure_tax
+hyper: direct_tax
+hyper: franchise_tax
+hyper: gift_tax
+hyper: graduated_tax
+hyper: income_tax
+hyper: indirect_tax
+hyper: pavage
+hyper: proportional_tax
+hyper: rates
+hyper: single_tax
+hyper: special_assessment
+hyper: stamp_duty
+hyper: transfer_tax
+hypo: levy
+
+w: revenue_tariff
+d: a tariff imposed to raise revenue
+hypo: duty
+
+w: reversion drf adj.pert:reversionary
+d: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)
+hyper: escheat
+hypo: interest 3
+mt: noun.group:jurisprudence
+
+w: reversionary_annuity
+w: survivorship_annuity
+d: an annuity payable to one person in the event that someone else is unable to receive it
+hypo: annuity
+
+w: revolving_charge_account
+d: a charge account that does not have to be paid to zero balance
+hypo: charge_account
+
+w: revolving_fund
+d: a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly
+hypo: fund
+
+w: reward
+d: payment made in return for a service rendered
+hyper: blood_money 2
+hyper: bounty
+hyper: guerdon
+hyper: honorarium
+hyper: meed
+hypo: payment
+
+w: riches
+w: wealth 2 drf adjs.all:wealthy
+d: an abundance of material possessions and resources
+hyper: gold 1
+hyper: hoarded_wealth
+hypo: material_resource
+
+w: right drf verb.social:right
+d: (frequently plural) the interest possessed by law or custom in some intangible thing
+e: mineral rights
+e: film rights
+hypo: interest 3
+mu: noun.communication:plural
+
+w: risk_capital
+w: venture_capital drf noun.person:venture_capitalist
+d: wealth available for investment in new or speculative enterprises
+hypo: capital 1
+
+w: room_rate
+d: the rate charged daily for a hotel room
+hypo: charge_per_unit
+
+w: royalty
+d: payment to the holder of a patent or copyright or resource for the right to use their property
+e: he received royalties on his book
+hypo: payment
+
+w: ruby
+d: a transparent piece of ruby that has been cut and polished and is valued as a precious gem
+hypo: noun.artifact:gem
+
+w: sacrifice drf verb.possession:sacrifice 2
+d: a loss entailed by giving up or selling something at less than its value
+e: he had to sell his car at a considerable sacrifice
+hypo: loss 1
+
+w: sales_incentive
+d: remuneration offered to a salesperson for exceeding some predetermined sales goal
+hypo: bonus
+
+w: salvage drf verb.social:salvage drf verb.social:salve
+d: property or goods saved from damage or destruction
+hypo: noun.artifact:commodity
+hypo: belongings
+
+w: sapphire
+d: a transparent piece of sapphire that has been cut and polished and is valued as a precious gem
+hypo: noun.artifact:gem
+
+w: satisfaction 1
+d: (law) the payment of a debt or fulfillment of an obligation
+e: the full and final satisfaction of the claim
+hypo: payment
+mt: noun.group:jurisprudence
+
+w: savings_account
+d: a bank account that accumulates interest
+hyper: deposit_account
+hyper: dormant_account
+hyper: passbook_savings_account
+hypo: bank_account
+
+w: savings_bond
+d: non-negotiable government bond; cannot be bought and sold once the original purchase is made
+hypo: government_bond
+
+w: scholarship drf noun.person:scholar 1 drf noun.person:scholar 2
+d: financial aid provided to a student on the basis of academic merit
+hypo: aid
+hypo: award
+
+w: scrip
+d: a certificate whose value is recognized by the payer and payee; scrip is not currency but may be convertible into currency
+hypo: certificate
+
+w: seasonal_adjustment
+d: a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year
+e: seasonal adjustments for housing starts must be made in mid-winter
+hypo: adjustment
+
+w: second_mortgage
+d: a mortgage that is subordinate to a first mortgage
+hypo: mortgage
+
+w: secured_bond ant unsecured_bond
+d: a bond that is back by collateral
+hypo: bond 2
+
+w: security
+w: surety
+d: property that your creditor can claim in case you default on your obligation
+e: bankers are reluctant to lend without good security
+hyper: deposit 2
+hyper: earnest
+hyper: recognisance
+hyper: stock-purchase_warrant
+hypo: transferred_possession
+
+w: security_interest
+d: any interest in a property that secures the payment of an obligation
+hyper: collateral
+hyper: conditional_sale
+hyper: lien
+hyper: mortgage
+hyper: pledge 2
+hypo: interest 3
+
+w: seed_corn
+w: seed_grain
+d: good quality seeds (as kernels of corn) that are reserved for planting
+hypo: seed_stock
+
+w: seed_money
+d: capital needed to set up a new business or enterprise
+hypo: capital 1
+
+w: seed_pearl
+d: a small imperfect pearl
+hypo: pearl
+
+w: seed_stock
+d: a supply of seeds (or tubers) reserved for planting
+hyper: seed_corn
+hypo: fund 1
+
+w: seigneury
+w: seigniory
+w: signory
+d: the estate of a seigneur
+hypo: acres
+
+w: seigniorage
+d: charged by a government for coining bullion
+hypo: fee
+
+w: self-insurance
+d: insuring yourself by setting aside money to cover possible losses rather than by purchasing an insurance policy
+hypo: insurance 2
+
+w: service_charge
+w: service_fee
+d: a percentage of a bill (as at a hotel or restaurant) added in payment for service
+hyper: corkage
+hypo: charge 2
+
+w: severalty
+d: exclusive individual ownership
+hypo: ownership
+
+w: share 1
+d: any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate
+e: he bought 100 shares of IBM at the market price
+hp: stock
+hypo: stock 2
+
+w: shareholding
+d: a holding in the form of shares of corporations
+hypo: belongings
+
+w: shelter drf verb.stative:shelter
+w: tax_shelter
+d: a way of organizing business to reduce the taxes it must pay on current earnings
+hypo: noun.act:decrease
+
+w: shilling
+d: an English coin worth one twentieth of a pound
+hypo: coin 2
+
+w: shinplaster
+d: paper money of little value issued on insufficient security
+hypo: money
+
+w: ship_money
+d: an impost levied in England to provide money for ships for national defense
+hypo: custom
+
+w: sick_benefit
+w: sickness_benefit
+d: money paid (by the government) to someone who is too ill to work
+hypo: benefit
+mr: noun.location:Britain
+
+w: sick_pay
+d: wages paid to an employee who is on sick leave
+hypo: earnings
+
+w: sight_bill
+w: sight_draft
+d: a draft payable on presentation
+hypo: bill_of_exchange
+
+w: silver
+d: coins made of silver
+hypo: precious_metal
+ms: noun.substance:Ag
+
+w: silver_certificate
+d: formerly a bank note issued by the United States Treasury and redeemable in silver
+hypo: Federal_Reserve_note
+
+w: silver_standard
+d: a monetary standard under which the basic unit of currency is defined by a stated quantity of silver
+hypo: monetary_standard
+
+w: simple_interest
+d: interest paid on the principal alone
+hypo: interest
+
+w: sinecure
+d: a benefice to which no spiritual or pastoral duties are attached
+hypo: benefice
+
+w: single_supplement
+d: a surcharge added to the cost per person when traveling alone
+hypo: surcharge
+
+w: single_tax
+d: a system of taxation in which a tax is levied on a single commodity (usually land)
+hypo: revenue_enhancement
+
+w: sinking_fund
+d: a fund accumulated regularly in a separate account and used to redeem debt securities
+hypo: fund
+
+w: sixpence
+w: tanner
+d: a small coin of the United Kingdom worth six pennies; not minted since 1970
+hypo: coin 2
+mr: noun.location:Britain
+
+w: slug
+d: a counterfeit coin
+hypo: coin 2
+
+w: slush_fund
+d: a fund for buying votes or bribing public officials
+hypo: fund
+
+w: smallholding
+d: a piece of land under 50 acres that is sold or let to someone for cultivation
+hypo: acres
+mr: noun.location:Britain
+
+w: smart_card
+d: a plastic card containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor; typically used to perform financial transactions
+hypo: noun.communication:positive_identification
+hypo: charge_account_credit
+
+w: smart_money
+d: money bet or invested by experienced gamblers or investors (especially if they have inside information)
+hypo: speculation
+
+w: soap
+d: money offered as a bribe
+hypo: bribe
+
+w: soft_money
+d: political contributions made in such a way as to avoid the United States regulations for federal election campaigns (as by contributions to a political action committee)
+hypo: political_contribution
+
+w: soil_bank
+d: land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land
+hypo: bank
+
+w: song
+d: a very small sum
+e: he bought it for a song
+hypo: bargain 1
+
+w: sou
+d: a former French coin of low denomination; often used of any small amount of money
+e: he hasn't a sou to his name
+hypo: coin 2
+
+w: special_assessment
+d: an additional tax levied on private property for public improvements that enhance the value of the property
+hypo: revenue_enhancement
+
+w: speculation drf verb.possession:speculate
+w: venture drf adjs.all:venturous drf verb.social:venture
+d: an investment that is very risky but could yield great profits
+e: he knew the stock was a speculation when he bought it
+hyper: gamble
+hyper: pyramid
+hyper: smart_money
+hypo: investment
+
+w: spendthrift_trust
+d: a trust created to maintain a beneficiary but to be secure against the beneficiary's improvidence
+hypo: trust 3
+
+w: split drf verb.social:split 3
+d: a promised or claimed share of loot or money
+e: he demanded his split before they disbanded
+hypo: part
+
+w: spoil drf verb.contact:spoil
+d: (usually plural) valuables taken by violence (especially in war)
+e: to the victor belong the spoils of the enemy
+hypo: stolen_property
+mu: noun.communication:plural
+
+w: squeeze
+d: a situation in which increased costs cannot be passed on to the customer
+e: increased expenses put a squeeze on profits
+hypo: loss
+
+w: stamp_duty
+w: stamp_tax
+d: a tax collected by requiring a stamp to be purchased and attached (usually on documents or publications)
+hypo: revenue_enhancement
+
+w: state_tax_lien
+d: a lien on the property of a taxpayer that the tax collector can use upon default of payment of taxes
+hypo: tax_lien
+
+w: stater
+d: any of the various silver or gold coins of ancient Greece
+hypo: coin 2
+
+w: sterling
+d: British money; especially the pound sterling as the basic monetary unit of the UK
+hypo: money 1
+
+w: stipend drf adj.pert:stipendiary
+d: a sum of money allotted on a regular basis; usually for some specific purpose
+hyper: prebend
+hypo: regular_payment
+
+w: stock
+d: the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)
+e: he owns a controlling share of the company's stock
+hyper: authorized_shares
+hyper: common_shares
+hyper: common_stock_equivalent
+hyper: control_stock
+hyper: float
+hyper: growth_stock
+hyper: hot_issue
+hyper: no-par-value_stock
+hyper: preference_shares
+hyper: quarter_stock
+hyper: reacquired_stock
+hyper: voting_stock
+hyper: watered_stock
+hypo: capital 1
+mp: share 1
+
+w: stock 2
+w: stock_certificate
+d: a certificate documenting the shareholder's ownership in the corporation
+e: the value of his stocks doubled during the past year
+hyper: share 1
+hypo: certificate
+
+w: stock-purchase_warrant
+w: stock_warrant
+w: warrant
+d: a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price
+e: as a sweetener they offered warrants along with the fixed-income securities
+hyper: perpetual_warrant
+hyper: subscription_warrant
+hypo: security
+
+w: stock_buyback
+d: a corporation's purchase of its own outstanding stock; increases earnings/share so stock price rises (which can discourage a takeover attempt)
+hypo: purchase
+
+w: stock_dividend
+d: a dividend paid in stock rather than in cash
+hypo: dividend
+
+w: stock_of_record
+d: stock held by stockholders of record on a given date
+hypo: common_shares
+
+w: stock_option
+d: the right to buy or sell a stock at a specified price within a stated period
+hyper: call_option
+hyper: put_option
+hypo: option
+
+w: stock_option 1
+d: a benefit given by a company to an employee in the form of an option to buy stock in the company at a discount or at a fixed price
+e: stock options are not much use as an incentive if the price at which they can be exercised is out of reach
+hypo: benefit
+
+w: stockholding 1
+d: ownership of stocks; the state or fact of holding stock
+e: "prohibition of unrestricted intercorporate stockholding"- W.Z.Ripley
+hypo: ownership
+
+w: stockholding 2
+w: stockholdings
+d: a specific number of stocks or shares owned
+e: sell holdings he has in corporations
+hypo: belongings
+
+w: stocking_filler
+w: stocking_stuffer
+d: a small Christmas present included in the Christmas stocking
+hypo: Christmas_gift
+
+w: stolen_property
+d: property that has been stolen
+hyper: booty
+hyper: spoil
+hypo: transferred_possession
+
+w: stowage
+d: the charge for stowing goods
+hypo: charge 2
+
+w: straight-line_method
+w: straight-line_method_of_depreciation
+d: (accounting) a method of calculating depreciation by taking an equal amount of the asset's cost as an expense for each year of the asset's useful life
+hypo: depreciation
+mt: noun.cognition:accounting
+
+w: strike_pay
+d: money paid to strikers from union funds
+hypo: earnings
+
+w: sublease drf verb.possession:sublease
+w: sublet drf verb.possession:sublet
+d: a lease from one lessee to another
+hypo: lease
+
+w: subscription
+d: a payment for consecutive issues of a newspaper or magazine for a given period of time
+hypo: payment
+
+w: subscription_right
+d: the right of a shareholder in a company to subscribe to shares of a new issue of common stock before it is offered to the public
+hypo: noun.attribute:pre-emption
+
+w: subscription_warrant
+d: a warrant that expires on a stipulated date
+hypo: stock-purchase_warrant
+
+w: subsidiary_ledger
+d: details of an account supporting the amount stated in the general ledger
+hypo: account_book
+
+w: subsidisation drf verb.possession:subsidise drf verb.possession:subsidise 1
+w: subsidization drf verb.possession:subsidize drf verb.possession:subsidize 1
+d: money (or other benefits) obtained as a subsidy
+hypo: money
+
+w: subsidy drf verb.possession:subsidise drf verb.possession:subsidize
+d: a grant paid by a government to an enterprise that benefits the public
+e: a subsidy for research in artificial intelligence
+hyper: price_support
+hyper: subvention
+hypo: grant
+
+w: subsistence
+d: minimal (or marginal) resources for subsisting
+e: social security provided only a bare subsistence
+hypo: bread_and_butter
+
+w: subtreasury
+d: a subordinate treasury or place of deposit
+hypo: exchequer
+
+w: subvention drf verb.communication:subvent
+d: grant of financial aid as from a government to an educational institution
+hypo: subsidy
+
+w: subway_fare
+d: the fare charged for riding a subway train
+hypo: train_fare
+
+w: supertax
+w: surtax drf verb.possession:surtax
+d: an additional tax on certain kinds of income that has already been taxed
+hypo: income_tax
+
+w: support_level
+d: (stock market) the price at which a certain security becomes attractive to investors
+hypo: damage
+mt: noun.artifact:securities_market
+
+w: support_payment
+d: a payment made by one person for the support of another
+hyper: alimony
+hyper: child_support
+hyper: palimony
+hypo: payment
+
+w: surcharge drf verb.possession:surcharge 1
+d: an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
+hyper: single_supplement
+hypo: charge 2
+
+w: suspense_account
+d: an account used temporarily to carry doubtful receipts and disbursements or discrepancies pending their analysis and permanent classification
+hypo: account 2
+
+w: swag 1
+d: valuable goods
+hypo: valuable
+mu: noun.communication:colloquialism
+
+w: sweat_equity
+d: interest in a building that a tenant earns by contributing to its renovation or maintenance
+hypo: equity
+
+w: take-home_pay
+d: what is left of your pay after deductions for taxes and dues and insurance etc
+hypo: earnings
+
+w: tankage
+d: the charge for storing something in tanks
+hypo: charge 2
+
+w: tare
+d: an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+hypo: adjustment
+
+w: tax-exempt
+w: tax-exempt_security
+d: a security that is not subject to taxation
+hypo: certificate
+
+w: tax_advantage
+d: an advantage bestowed by legislation that reduces a tax on some preferred activity
+hypo: noun.attribute:advantage
+
+w: tax_base
+d: collective value of taxable assets
+hypo: assets
+
+w: tax_benefit
+w: tax_break
+d: a tax deduction that is granted in order to encourage a particular type of commercial activity
+hypo: deduction 1
+
+w: tax_credit
+d: a direct reduction in tax liability (not dependent on the taxpayer's tax bracket)
+hypo: noun.act:decrease
+
+w: tax_liability
+d: the amount of tax owed; calculated by applying the tax rate to the tax base
+hypo: liabilities
+
+w: tax_lien
+d: lien of which a tax collector may avail himself in default of taxes (analogous to a judgment lien)
+hyper: federal_tax_lien
+hyper: state_tax_lien
+hypo: lien
+
+w: tax_rate
+d: rate used to calculate tax liability
+hypo: charge_per_unit
+
+w: temporality
+w: temporalty
+d: the worldly possessions of a church
+hypo: church_property
+
+w: ten_dollar_bill
+w: tenner
+d: a United States bill worth 10 dollars
+hypo: Federal_Reserve_note
+
+w: tenpence
+d: a decimal coin worth ten pennies
+hypo: coin 2
+mr: noun.location:Britain
+
+w: term_insurance
+d: low-cost insurance that is valid only for a stated period of time and has no cash surrender value or loan value
+e: term insurance is most often associated with life insurance policies
+hypo: insurance 2
+
+w: terminable_interest
+d: an interest in property that terminates under specific conditions
+hypo: interest 3
+
+w: testamentary_trust
+d: a trust that is created under a will and that becomes active after the grantor dies
+hypo: trust 3
+
+w: thank_offering
+d: an offering made as an expression of thanks
+hypo: offering
+
+w: things
+d: any movable possession (especially articles of clothing)
+e: she packed her things and left
+hypo: belongings
+
+w: threepence
+d: former cupronickel coin of the United Kingdom equal to three pennies
+hypo: coin 2
+mr: noun.location:Britain
+
+w: tight_money ant easy_money 1
+d: the economic condition in which credit is difficult to secure and interest rates are high
+hypo: noun.state:financial_condition
+
+w: time_and_a_half
+d: a rate of pay that is 1.5 times the regular rate; for overtime work
+hypo: pay_rate
+
+w: time_bill
+w: time_draft
+d: a draft payable at a specified future date
+hypo: bill_of_exchange
+
+w: time_deposit
+d: a certificate of deposit from which withdrawals can be made only after advance notice or at a specified future date
+hypo: CD
+
+w: time_loan
+d: a loan that is payable on or before a specified date
+hypo: loan
+
+w: time_note
+d: a note that specifies the time (or times) of repayment
+hypo: note
+
+w: tithe 1
+d: an offering of a tenth part of some personal income
+hypo: offering
+
+w: tithe 2
+d: a levy of one tenth of something
+hypo: levy
+
+w: token_money
+d: coins of regular issue whose face value is greater than their intrinsic value
+hypo: money
+
+w: token_payment
+d: a small payment made in acknowledgement of an obligation
+hypo: payment
+
+w: toll drf verb.possession:toll
+d: a fee levied for the use of roads or bridges (used for maintenance)
+hypo: fee
+
+w: tonnage
+w: tonnage_duty
+w: tunnage
+d: a tax imposed on ships that enter the US; based on the tonnage of the ship
+hypo: duty
+
+w: tontine
+d: an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant
+hypo: annuity
+
+w: tontine 2
+w: tontine_insurance
+d: a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
+hypo: life_assurance
+
+w: trade-in drf verb.possession:trade_in
+d: an item of property that is given in part payment for a new one
+hypo: belongings
+
+w: trade_acceptance
+d: a bill of exchange for a specific purchase; drawn on the buyer by the seller and bearing the buyer's acceptance
+hypo: bill_of_exchange
+
+w: trade_deficit
+d: an excess of imports over exports
+hypo: deficit
+
+w: trade_discount
+d: a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant
+hypo: deduction
+
+w: train_fare
+d: the fare charged for traveling by train
+hyper: subway_fare
+hypo: fare
+
+w: traineeship drf noun.person:trainee
+d: financial aid that enables you to get trained for a specified job
+e: the bill provided traineeships in vocational rehabilitation
+hypo: aid
+
+w: tranche
+d: a portion of something (especially money)
+hypo: part
+
+w: transfer_payment
+d: a public expenditure (as for unemployment compensation or veteran's benefits) that is not for goods and services
+hypo: expenditure
+
+w: transfer_tax
+d: any tax levied on the passing of title to property
+hyper: death_duty
+hypo: revenue_enhancement
+
+w: transferred_possession
+w: transferred_property
+d: a possession whose ownership changes or lapses
+hyper: acquisition
+hyper: assignment 2
+hyper: escheat 1
+hyper: expenditure
+hyper: heritage 2
+hyper: loss 1
+hyper: security
+hyper: stolen_property
+hypo: noun.Tops:possession
+
+w: travel_allowance
+w: travel_reimbursement
+d: a sum allowed for travel
+hyper: mileage
+hypo: allowance 2
+
+w: travel_bargain
+d: a bargain rate for travellers on commercial routes (usually air routes)
+hypo: bargain 1
+
+w: travel_expense
+d: (frequently plural) expenses incurred by an employee in the performance of the job and usually reimbursed by the employer
+hypo: expense 1
+mu: noun.communication:plural
+
+w: traveler's_letter_of_credit
+w: traveller's_letter_of_credit
+d: a letter of credit given to a traveler
+hyper: banker's_check
+hypo: letter_of_credit
+
+w: treasure 1 drf verb.emotion:treasure drf verb.possession:treasure
+d: any possession that is highly valued by its owner
+e: the children returned from the seashore with their shells and other treasures
+hypo: noun.Tops:possession
+
+w: treasure_trove
+w: trove
+d: treasure of unknown ownership found hidden (usually in the earth)
+hypo: hoarded_wealth
+
+w: treble_damages
+d: three times the amount that a court would normally find the injured party entitled to
+hypo: exemplary_damages
+
+w: trial_balance
+d: a balance of debits and credits in double-entry bookkeeping; drawn up to test their equality
+hypo: balance
+
+w: truckage
+d: a fee charged for transporting goods by truckage
+hypo: fee
+
+w: trust 3
+d: something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)
+e: he is the beneficiary of a generous trust set up by his father
+hyper: Clifford_trust
+hyper: Totten_trust
+hyper: active_trust
+hyper: blind_trust
+hyper: charitable_trust
+hyper: direct_trust
+hyper: discretionary_trust
+hyper: implied_trust
+hyper: inter_vivos_trust
+hyper: passive_trust
+hyper: spendthrift_trust
+hyper: testamentary_trust
+hyper: voting_trust
+hypo: belongings
+
+w: trust_fund
+d: a fund held in trust
+hypo: fund
+
+w: tuition
+w: tuition_fee
+d: a fee paid for instruction (especially for higher education)
+e: tuition and room and board were more than $25,000
+hypo: fee
+mt: noun.act:didactics
+
+w: tuppence
+w: twopence
+d: a former United Kingdom silver coin; United Kingdom bronze decimal coin worth two pennies
+hypo: coin 2
+
+w: twenty
+w: twenty_dollar_bill
+d: a United States bill worth 20 dollars
+hypo: Federal_Reserve_note
+
+w: two_dollar_bill
+d: a United States bill worth 2 dollars
+hypo: Federal_Reserve_note
+
+w: undercharge drf verb.possession:undercharge
+d: a price that is too low
+hypo: charge 2
+
+w: underpayment
+d: a payment smaller than needed or expected
+hypo: payment
+
+w: undivided_interest
+w: undivided_right
+d: the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
+hypo: interest 3
+
+w: unearned_income
+w: unearned_revenue
+d: (accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
+hypo: income
+mt: noun.cognition:accounting
+
+w: unearned_income 1
+w: unearned_revenue 1
+d: personal income that you did not earn (e.g., dividends or interest or rent income)
+hypo: income
+mt: revenue_enhancement
+
+w: unearned_increment
+d: an unearned rise in the market value of property resulting from general market factors
+hypo: financial_gain
+
+w: unit_cost
+d: calculated cost for a given unit of a product
+hypo: cost
+
+w: upset_price
+d: (auction) the minimum price at which a seller of property will entertain bids
+hypo: asking_price
+mt: noun.act:auction
+
+w: usury 1 drf adjs.all:usurious
+w: vigorish
+d: an exorbitant or unlawful rate of interest
+hypo: interest_rate
+
+w: utility_bond
+w: utility_revenue_bond
+d: a bond issued to finance the construction of public utility services
+hypo: municipal_bond
+
+w: valuable drf adj.all:valuable
+d: something of value
+e: all our valuables were stolen
+hyper: precious_metal
+hyper: swag 1
+hypo: hoarded_wealth
+
+w: valuation
+d: assessed price
+e: the valuation of this property is much too high
+hypo: damage
+
+w: vested_interest
+d: (law) an interest in which there is a fixed right to present or future enjoyment and that can be conveyed to another
+hypo: interest 3
+mt: noun.group:jurisprudence
+
+w: viatical_settlement 2
+d: cash derived from sale of an insurance policy by a terminally ill policy holder
+hypo: advance_death_benefit
+
+w: villeinage
+d: tenure by which a villein held land
+hypo: land_tenure
+
+w: voting_stock
+d: shares in a corporation that entitle the shareholder to voting and proxy rights
+hypo: stock
+
+w: voting_trust
+d: an agreement whereby persons owning stock with voting powers retain ownership while transferring the voting rights to the trustees
+hypo: trust 3
+
+w: war_chest
+d: a fund accumulated to finance a war (or a political campaign)
+hypo: fund
+mt: noun.cognition:government 1
+
+w: warehouseman's_lien
+d: right of a warehouseman to retain goods until all storage charges have been paid
+hypo: lien
+
+w: wastage
+d: anything lost by wear or waste
+hypo: loss 1
+
+w: water-rate
+d: rate per quarter for water from a public supply
+hypo: charge 2
+mr: noun.location:Britain
+
+w: watered_stock
+d: stock representing ownership of overvalued assets; stock of a corporation whose total worth is less than its invested capital
+hypo: stock
+
+w: way
+d: a portion of something divided into shares
+e: they split the loot three ways
+hypo: part
+
+w: ways_and_means
+d: resources available to meet expenses (especially legislation for raising revenue for a government)
+hypo: resource
+
+w: wealth
+d: property that has economic utility: a monetary value or an exchange value
+hyper: money 2
+hypo: belongings
+
+w: wedding_gift
+w: wedding_present
+d: a present given to someone getting married
+hyper: bride-gift
+hypo: present
+
+w: wherewithal
+d: the necessary means (especially financial means)
+hypo: means
+
+w: white_elephant
+d: a valuable possession whose upkeep is excessively expensive
+hypo: noun.Tops:possession
+
+w: windfall_profit
+d: profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it
+hypo: earnings 1
+
+w: withholding drf verb.possession:withhold 1
+w: withholding_tax
+d: income tax withheld from employees' wages and paid directly to the government by the employer
+hyper: PAYE
+hypo: income_tax
+
+w: workmen's_compensation
+d: compensation for death or injury suffered by a worker in the course of his employment
+hypo: compensation
+
+w: worldly_belongings
+w: worldly_goods
+w: worldly_possessions
+d: all the property that someone possesses
+e: he left all his worldly possessions to his daughter
+hypo: belongings
+
+w: write-down drf verb.change:write_down 10
+w: write-off drf verb.change:write_off
+d: (accounting) reduction in the book value of an asset
+hyper: deduction 1
+hypo: depreciation
+mt: noun.cognition:accounting
+
+w: zero-coupon_bond
+w: zero_coupon_bond
+d: a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond; the commonest form of zero-coupon security
+hypo: bond 2
+hypo: zero-coupon_security
+mt: noun.act:administration 4
+mt: noun.group:corp
+
+w: zero-coupon_security
+w: zero_coupon_security
+d: a security that makes no interest payments but instead is sold at a deep discount from its face value
+hyper: zero-coupon_bond
+hypo: certificate
+

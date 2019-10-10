@@ -1,0 +1,2779 @@
+verb.emotion
+
+w: abase drf noun.act:abasement
+w: chagrin 1 drf noun.feeling:chagrin
+w: humble
+w: humiliate drf noun.act:humiliation drf noun.event:humiliation drf noun.feeling:humiliation drf noun.state:humiliation
+w: mortify 1 drf noun.event:mortification drf noun.feeling:mortification
+d: cause to feel shame; hurt the pride of
+e: He humiliated his colleague by criticising him in front of the boss
+fs: 9 10
+hyper: crush
+hyper: degrade
+hypo: bruise
+
+w: abash drf noun.feeling:abashment
+w: embarrass drf noun.event:embarrassment
+d: cause to be embarrassed; cause to feel self-conscious
+fs: 10 9
+hyper: confuse
+hypo: discomfit
+
+w: abhor drf adjs.all:abhorrent drf noun.feeling:abhorrence drf noun.person:abhorrer
+w: abominate drf adjs.all:abominable 1 drf noun.act:abomination drf noun.feeling:abomination drf noun.person:abomination drf noun.person:abominator
+w: execrate drf noun.cognition:execration drf noun.feeling:execration
+w: loathe drf noun.feeling:loathing drf noun.person:loather
+d: find repugnant
+e: I loathe that man
+e: She abhors cats
+fs: 8 9
+hypo: detest
+
+w: abreact drf noun.act:abreaction
+d: discharge bad feelings or tension through verbalization
+fs: 2
+hypo: allay
+mt: noun.act:analysis 1
+
+w: acerbate drf noun.attribute:acerbity
+w: embitter drf noun.state:embitterment
+w: envenom
+d: cause to be bitter or resentful
+e: These injustices embittered her even more
+fs: 10
+cause: resent
+
+w: ache 6
+w: languish
+w: pine drf noun.feeling:pining
+w: yearn 1 drf noun.feeling:yearning drf noun.person:yearner
+w: yen drf noun.feeling:yen
+d: have a desire for something or someone who is not present
+e: She ached for a cigarette
+e: I am pining for my lover
+fs: 22
+hyper: die 1
+hypo: hanker
+
+w: admire ant look_down_on drf noun.feeling:admiration 1 drf noun.person:admirer drf noun.person:admirer 1 drf noun.person:admirer 2
+w: look_up_to
+d: feel admiration for
+fs: 8 9
+hyper: envy 1
+hypo: verb.cognition:esteem 1
+
+w: adore drf adjs.all:adorable drf noun.person:adorer
+d: love intensely
+e: he just adored his wife
+fs: 9 28 8 32
+hyper: verb.change:fetishize
+hyper: hero-worship
+hypo: love
+
+w: affect drf adjs.all:affective drf noun.feeling:affect
+w: impress 1 drf adj.all:impressible drf adj.all:impressive drf adjs.all:impressive
+w: move
+w: strike
+d: have an emotional or cognitive impact upon
+e: This child impressed me as unusually mature
+e: This behavior struck me as odd
+e: he was dumb-struck by the news
+e: her comments struck a sour note
+fs: 10
+cause: experience
+hyper: verb.cognition:awaken
+hyper: verb.cognition:impress
+hyper: verb.cognition:infect 1
+hyper: verb.cognition:surprise
+hyper: alienate 1
+hyper: cloud
+hyper: disturb
+hyper: engrave
+hyper: hit_home
+hyper: impress
+hyper: jar
+hyper: move 1
+hyper: pierce
+hyper: sadden 1
+hyper: smite
+hyper: stir
+hyper: strike_dumb
+hyper: sweep_away
+hyper: zap
+vg: verb.creation:actuate 2
+vg: verb.perception:come_to
+
+w: afflict drf adjs.all:afflictive drf noun.event:affliction drf noun.state:affliction 2
+d: cause great unhappiness for; distress
+e: she was afflicted by the death of her parents
+fs: 10
+hyper: aggrieve
+hyper: strain
+hyper: tribulate
+hypo: discomfit
+
+w: affright drf noun.feeling:affright
+w: fright drf noun.feeling:fright
+w: frighten drf noun.act:frightening see frighten_away see frighten_off
+w: scare drf noun.artifact:scarer drf noun.feeling:scare
+d: cause fear in
+e: The stranger who hangs around the building frightens me
+e: Ghosts could never affright her
+fs: 10 9
+cause: dread
+hyper: verb.communication:bluff
+hyper: alarm
+hyper: awe
+hyper: consternate
+hyper: intimidate
+hyper: spook
+hyper: terrify
+hypo: excite
+
+w: aggravate drf noun.act:aggravation drf noun.feeling:aggravation drf noun.person:aggravator
+w: exacerbate drf noun.act:exacerbation
+w: exasperate drf noun.act:exasperation drf noun.feeling:exasperation
+d: exasperate or irritate
+fs: 10 9
+hypo: anger
+
+w: aggrieve
+w: grieve 1
+d: cause to feel sorrow
+e: his behavior grieves his mother
+fs: 10
+cause: grieve
+hypo: afflict
+
+w: agitate ant calm drf adjs.all:agitative
+w: charge 5 drf noun.feeling:charge
+w: charge_up
+w: commove
+w: excite 3 drf adjs.all:excitant drf noun.act:excitement
+w: rouse 4 drf noun.act:rousing
+w: turn_on 2 drf noun.cognition:turn-on
+d: cause to be agitated, excited, or roused
+e: The speaker charged up the crowd with his inflammatory remarks
+fs: 10 9
+hyper: bother 3
+hyper: electrify
+hyper: hype_up
+hyper: pother 1
+hypo: disturb
+
+w: agonise drf noun.feeling:agony drf noun.state:agony
+w: agonize drf noun.state:agony
+d: suffer agony or anguish
+fs: 22 2
+hypo: suffer
+
+w: agonise 1 drf noun.feeling:agony drf noun.state:agony
+w: agonize 1
+d: cause to agonize
+fs: 10
+cause: agonise
+hypo: anguish
+
+w: alarm drf noun.feeling:alarm drf noun.person:alarmist
+w: appal 1
+w: appall 10
+w: dismay drf noun.feeling:dismay
+w: horrify 1 drf noun.feeling:horror 1
+d: fill with apprehension or alarm; cause to be unpleasantly surprised
+e: I was horrified at the thought of being late for my interview
+e: The news of the executions horrified us
+fs: 10 9
+hyper: shock
+hypo: affright
+
+w: alienate drf noun.person:alienator
+w: disaffect drf noun.feeling:disaffection
+w: estrange drf noun.state:estrangement
+d: arouse hostility or indifference in where there had formerly been love, affection, or friendliness
+e: She alienated her friends when she became fanatically religious
+fs: 10 9
+hyper: drift_apart
+hyper: wean
+hypo: verb.change:alter 1
+
+w: alienate 1
+d: make withdrawn or isolated or emotionally dissociated
+e: the boring work alienated his employees
+fs: 10
+hypo: affect
+
+w: allay drf noun.person:allayer
+w: ease drf noun.act:easement drf noun.state:ease 2
+w: relieve drf noun.person:reliever 2
+w: still 1 drf noun.attribute:still
+d: lessen the intensity of or calm
+e: The news eased my conscience
+e: still the fears
+fs: 8 11
+hyper: abreact
+hypo: comfort 1
+
+w: ambition drf noun.attribute:ambition drf noun.feeling:ambition
+d: have as one's ambition
+fs: 28
+hypo: desire
+
+w: anger drf noun.act:anger drf noun.feeling:anger drf noun.state:anger
+d: make angry
+e: The news angered him
+fs: 9 10
+cause: anger 1
+hyper: aggravate
+hyper: combust 1
+hyper: enrage
+hyper: exasperate 1
+hyper: gall
+hyper: madden
+hyper: miff
+hyper: offend 1
+hypo: arouse
+
+w: anger 1 drf noun.act:anger drf noun.feeling:anger drf noun.state:anger
+w: see_red
+d: become angry
+e: He angers easily
+fs: 2
+hyper: bridle
+hyper: raise_the_roof
+hyper: steam
+hypo: experience
+
+w: anguish drf noun.feeling:anguish 2 drf noun.state:anguish
+w: hurt 1 drf noun.feeling:hurt 1
+w: pain drf noun.cognition:pain 1 drf noun.feeling:pain drf noun.state:pain
+d: cause emotional anguish or make miserable
+e: It pains me to see my children not being taught well in school
+fs: 10
+cause: suffer
+hyper: agonise 1
+hyper: break_someone's_heart
+hyper: excruciate
+hyper: try 1
+hypo: discomfit
+
+w: anguish 2 drf noun.feeling:anguish 2
+d: suffer great pains or distress
+fs: 2
+hypo: suffer
+
+w: animate
+w: enliven
+w: exalt drf noun.state:exaltation
+w: inspire
+w: invigorate drf noun.act:invigoration
+d: heighten or intensify
+e: These paintings exalt the imagination
+fs: 9 10
+hyper: encourage
+hypo: excite
+
+w: annoy drf noun.act:annoyance drf noun.person:annoyer
+w: bother drf noun.cognition:bother drf noun.cognition:botheration drf noun.state:botheration
+w: chafe
+w: devil drf noun.act:devilment drf noun.act:devilry 1 drf noun.act:deviltry 1
+w: get_at
+w: get_to
+w: gravel
+w: irritate drf noun.act:irritation drf noun.act:irritation 1 drf noun.cognition:irritant drf noun.feeling:irritation 1 drf noun.state:irritation
+w: nark
+w: nettle
+w: rag 1
+w: rile
+w: vex drf noun.act:vexation drf noun.person:vexer drf noun.state:vexation
+d: cause annoyance in; disturb, especially by minor irritations
+e: Mosquitoes buzzing in my ear really bothers me
+e: It irritates me that she never closes the door after she leaves
+fs: 9 10
+hyper: antagonise
+hyper: beset
+hyper: eat_into
+hyper: fret 1
+hyper: get 12
+hyper: peeve
+hyper: ruffle
+hypo: displease
+vg: chafe 1
+
+w: antagonise drf noun.feeling:antagonism 2 drf noun.state:antagonism
+w: antagonize drf noun.feeling:antagonism 2 drf noun.state:antagonism
+d: provoke the hostility of
+e: Don't antagonize your boss
+fs: 9 10
+hypo: annoy
+
+w: anticipate drf adjs.all:anticipative
+w: look_for
+w: look_to
+d: be excited or anxious about
+fs: 8
+hyper: apprehend
+hypo: verb.cognition:await
+
+w: appal
+w: appall
+w: offend 2 drf adj.all:offensive 1 drf adj.all:offensive 4 drf adjs.all:offensive
+w: outrage 1 drf noun.act:outrage drf noun.event:outrage drf noun.feeling:outrage
+w: scandalise drf noun.act:scandalisation drf noun.communication:scandal drf noun.event:scandal
+w: scandalize drf noun.act:scandalization drf noun.communication:scandal drf noun.event:scandal
+w: shock 2 drf noun.feeling:shock 1 drf noun.person:shocker
+d: strike with disgust or revulsion
+e: The scandalous behavior of this married woman shocked her friends
+fs: 9 10
+hypo: churn_up
+
+w: appeal drf noun.attribute:appeal
+w: attract ant repel drf adj.all:attractive 1 drf noun.attribute:attraction drf noun.cognition:attraction drf noun.cognition:attractor drf noun.communication:attraction
+d: be attractive to
+e: The idea of a vacation appeals to me
+e: The beautiful garden attracted many people
+fs: 9 10 4
+hyper: becharm
+hyper: beckon
+
+w: appease drf adjs.all:appeasable
+w: assuage
+w: conciliate drf adj.all:conciliative drf noun.act:conciliation drf noun.person:conciliator drf noun.state:conciliation
+w: gentle
+w: gruntle
+w: lenify
+w: mollify drf noun.act:mollification drf noun.state:mollification
+w: pacify drf noun.act:pacification drf noun.artifact:pacifier drf noun.feeling:peace drf noun.state:peace 1
+w: placate drf adjs.all:placative drf adjs.all:placatory drf noun.act:placation
+d: cause to be more favorably inclined; gain the good will of
+e: She managed to mollify the angry customer
+fs: 10 9 8
+hypo: calm
+
+w: appreciate drf adjs.all:appreciative 1
+d: recognize with gratitude; be grateful for
+fs: 8
+hypo: verb.communication:acknowledge 1
+
+w: apprehend drf adjs.all:apprehensive 1 drf adjs.all:apprehensive 2 drf noun.cognition:apprehension 1 drf noun.feeling:apprehension drf noun.person:apprehender 1
+w: quail_at
+d: anticipate with dread or anxiety
+fs: 8
+entail: dread
+hypo: anticipate
+
+w: arouse drf noun.act:arousal
+w: elicit drf noun.cognition:elicitation
+w: enkindle
+w: evoke drf adjs.all:evocative drf noun.cognition:evocation 1
+w: fire
+w: kindle
+w: provoke drf adj.all:provocative drf noun.motive:provocation
+w: raise 8
+d: call forth (emotions, feelings, and responses)
+e: arouse pity
+e: raise a smile
+e: evoke sympathy
+fs: 8
+hyper: anger
+hyper: ask_for
+hyper: bruise
+hyper: discomfit
+hyper: draw 1
+hyper: excite
+hyper: excite 2
+hyper: fire_up
+hyper: infatuate
+hyper: interest
+hyper: overcome
+hyper: prick
+hyper: rekindle
+hyper: shame
+hyper: strike_a_chord 1
+hypo: verb.creation:create
+
+w: arouse 1
+w: excite 1
+w: sex drf noun.act:sex drf noun.feeling:sex
+w: turn_on drf noun.cognition:turn-on
+w: wind_up
+d: stimulate sexually
+e: This movie usually arouses the male audience
+fs: 9 10
+hyper: tempt 1
+hypo: excite
+
+w: ask_for
+w: invite 1 drf noun.attribute:invitation
+d: increase the likelihood of
+e: ask for trouble
+e: invite criticism
+fs: 8
+hypo: arouse
+
+w: assure
+w: reassure ant worry 1 drf noun.act:reassurance
+d: cause to feel sure; give reassurance to
+e: The airline tried to reassure the customers that the planes were safe
+fs: 9 10
+hypo: calm
+
+w: atone drf noun.act:atonement
+w: repent 1 drf adj.all:repentant
+d: turn away from sin or do penitence
+fs: 2
+
+w: awe drf noun.feeling:awe 2
+d: inspire awe in
+e: The famous professor awed the undergraduates
+fs: 9
+hyper: cow
+hypo: affright
+
+w: badger drf noun.person:badgerer
+w: beleaguer
+w: bug
+w: pester drf noun.person:pesterer
+w: tease drf noun.act:tease drf noun.person:tease drf noun.person:teaser
+d: annoy persistently
+e: The children teased the boy because of his stammer
+fs: 9
+hypo: bedevil
+
+w: ball_over
+w: blow_out_of_the_water
+w: floor
+w: shock 1 drf noun.event:shock 1
+w: take_aback
+d: surprise greatly; knock someone's socks off
+e: I was floored when I heard that I was promoted
+fs: 9 10
+hyper: galvanise
+hypo: verb.cognition:surprise
+
+w: ballyrag
+w: boss_around
+w: browbeat
+w: bully
+w: bullyrag
+w: hector
+w: push_around
+w: strong-arm
+d: be bossy towards
+e: Her big brother always bullied her when she was young
+fs: 9
+hyper: domineer
+hypo: intimidate
+
+w: bask 13 fs 22
+w: enjoy drf noun.act:enjoyment drf noun.feeling:enjoyment drf noun.person:enjoyer
+w: relish drf noun.feeling:relish 2
+w: savor
+w: savour
+d: derive or receive pleasure from; get enjoyment from; take pleasure in
+e: She relished her fame and basked in her glory
+fs: 9 8 33
+entail: like 5
+hyper: devour
+hyper: feast_one's_eyes
+
+w: be_on_cloud_nine
+w: exult drf adjs.all:exultant drf noun.feeling:exultation
+w: jump_for_joy
+w: walk_on_air drf noun.state:walking_on_air
+d: feel extreme happiness or elation
+fs: 2
+hyper: rejoice 2
+hypo: joy
+
+w: beam 1
+w: glow drf noun.feeling:glow drf noun.state:glow
+w: radiate drf noun.state:radiance
+w: shine
+d: experience a feeling of well-being or happiness, as from good health or an intense emotion
+e: She was beaming with joy
+e: Her face radiated with happiness
+fs: 2
+hypo: experience
+
+w: beatify 1 drf noun.act:beatification 1 drf noun.state:beatification
+d: make blessedly happy
+fs: 10 9
+hypo: elate
+
+w: beatify 3 drf noun.act:beatification 1 drf noun.state:beatification
+w: exalt 1 drf noun.state:exaltation
+w: exhilarate drf noun.feeling:exhilaration
+w: inebriate
+w: thrill 1 drf noun.act:thrill drf noun.feeling:thrill drf noun.feeling:thrill 2
+w: tickle_pink
+d: fill with sublime emotion
+e: The children were thrilled at the prospect of going to the movies
+e: He was inebriated by his phenomenal success
+fs: 9 10
+hypo: elate
+
+w: becharm
+w: beguile drf noun.attribute:beguilement drf noun.person:beguiler
+w: bewitch drf noun.attribute:bewitchery
+w: captivate drf noun.feeling:captivation drf noun.person:captive 2 drf noun.state:captivation
+w: capture
+w: catch 5 drf noun.person:catch
+w: charm drf noun.attribute:charm drf noun.person:charmer drf noun.person:charmer 1
+w: enamor
+w: enamour
+w: enchant 1 drf noun.feeling:enchantment
+w: entrance drf noun.feeling:entrancement
+w: fascinate 1 drf noun.feeling:fascination
+w: trance drf noun.state:trance
+d: attract; cause to be enamored
+e: She captured all the men's hearts
+fs: 10 9
+hyper: verb.cognition:hold 4
+hyper: work 10
+hypo: appeal
+
+w: beckon
+d: appear inviting
+e: The shop window decorations beckoned
+fs: 1
+hypo: appeal
+
+w: bedevil drf noun.act:bedevilment
+w: crucify drf noun.act:crucifixion 1
+w: dun
+w: frustrate drf noun.feeling:frustration 1
+w: rag
+w: torment 1 drf noun.act:torment drf noun.feeling:torment 3 drf noun.person:tormenter drf noun.person:tormentor
+d: treat cruelly
+e: The children tormented the stuttering teacher
+fs: 9 10
+hyper: badger
+hyper: hamstring
+hyper: madden 1
+hyper: verb.social:oppress 1
+hypo: beset
+
+w: begrudge fs 14 ant wish 1
+w: resent 1
+d: wish ill or allow unwillingly
+fs: 26
+
+w: begrudge 1
+w: envy fs 9 drf noun.act:envy drf noun.feeling:envy
+d: be envious of; set one's heart on
+fs: 14
+hyper: covet
+hypo: desire
+
+w: bemuse drf noun.cognition:bemusement
+w: bewilder
+w: discombobulate drf noun.feeling:discombobulation
+w: throw
+d: cause to be confused emotionally
+fs: 9 10
+hypo: discomfit
+
+w: benight
+d: overtake with darkness or night
+fs: 10
+hypo: overcome
+
+w: beset
+w: chevvy
+w: chevy
+w: chivvy
+w: chivy
+w: harass drf noun.act:harassment drf noun.person:harasser 1
+w: harry drf noun.person:harrier
+w: hassle drf noun.event:hassle
+w: molest drf noun.act:molestation
+w: plague drf noun.cognition:plague
+w: provoke 1 drf adj.all:provocative drf noun.act:provocation drf noun.person:provoker
+d: annoy continually or chronically
+e: He is known to harry his staff when he is overworked
+e: This man harasses his female co-workers
+fs: 10 9
+hyper: verb.communication:goad 1
+hyper: bedevil
+hyper: verb.social:haze
+hypo: annoy
+
+w: besiege
+d: cause to feel distressed or worried
+e: She was besieged by so many problems that she got discouraged
+fs: 10
+hypo: distress
+
+w: betray
+w: fail
+d: disappoint, prove undependable to; abandon, forsake
+e: His sense of smell failed him this time
+e: His strength finally failed him
+e: His children failed him in the crisis
+fs: 10 9
+hypo: disappoint
+
+w: blow_a_fuse
+w: blow_one's_stack
+w: blow_up drf noun.communication:blowup
+w: combust
+w: flip_one's_lid
+w: flip_one's_wig
+w: fly_off_the_handle
+w: go_ballistic
+w: have_a_fit
+w: have_kittens
+w: hit_the_ceiling
+w: hit_the_roof
+w: lose_one's_temper
+w: throw_a_fit
+d: get very angry and fly into a rage
+e: The professor combusted when the student didn't know the answer to a very elementary question
+e: Spam makes me go ballistic
+fs: 22 2
+hypo: rage
+
+w: boil
+w: seethe
+d: be in an agitated emotional state
+e: The customer was seething with anger
+fs: 22 2
+hyper: bubble_over
+hyper: ferment 1
+hyper: sizzle
+hypo: verb.stative:be 3
+
+w: bore ant interest drf noun.person:bore
+w: tire 1
+d: cause to be bored
+fs: 10 9
+
+w: bother 2
+d: make confused or perplexed or puzzled
+fs: 10 9
+hypo: confuse
+vg: bother 3
+
+w: bother 3 drf noun.cognition:botheration drf noun.state:botheration
+d: make nervous or agitated
+e: The mere thought of her bothered him and made his heart beat faster
+fs: 10 9
+hypo: agitate
+vg: bother 2
+
+w: brace
+w: poise drf noun.attribute:poise
+d: prepare (oneself) for something unpleasant or difficult
+fs: 9
+hyper: nerve
+hypo: verb.change:fix 3
+
+w: break
+w: burst
+w: erupt
+d: force out or release suddenly and often violently something pent up
+e: break into tears
+e: erupt in anger
+fs: 22
+hypo: express_emotion
+
+w: break_down drf noun.state:breakdown 1
+w: lose_it
+w: snap
+d: lose control of one's emotions
+e: When she heard that she had not passed the exam, she lost it completely
+e: When her baby died, she snapped
+fs: 2
+hyper: die
+hyper: dissolve
+hyper: fall_apart
+hypo: verb.body:act
+
+w: break_someone's_heart
+d: cause deep emotional pain and grief to somebody
+e: The young man broke the girl's heart when he told her was going to marry her best friend
+fs: 10 9
+hypo: anguish
+
+w: break_up 4
+w: collapse drf noun.state:collapse 1
+w: crack
+w: crack_up drf noun.state:crack-up
+w: crock_up
+d: suffer a nervous breakdown
+fs: 2
+hypo: verb.body:get 11
+
+w: bridle
+d: anger or take offense
+e: She bridled at his suggestion to elope
+fs: 2
+hypo: anger 1
+
+w: bring 5
+d: attract the attention of
+e: The noise and the screaming brought the curious
+fs: 10
+hypo: verb.contact:attract
+vg: verb.communication:bring 3
+
+w: bring_down
+d: cause to be enthusiastic
+e: Her playing brought down the house
+fs: 10 9
+hypo: enthuse
+
+w: bring_out
+d: encourage to be less reserved
+e: The teacher tried to bring out the shy boy
+fs: 10 11 8 9
+hypo: encourage
+
+w: brood
+w: grizzle
+w: stew 1 drf noun.state:stew
+d: be in a huff; be silent or sullen
+fs: 2 22
+hypo: verb.stative:brood
+
+w: bruise
+w: hurt
+w: injure
+w: offend drf adj.all:offensive 2 drf noun.act:offence 2 drf noun.act:offense 2
+w: spite drf noun.attribute:spite drf noun.feeling:spite
+w: wound
+d: hurt the feelings of
+e: She hurt me when she did not include me among her guests
+e: This remark really bruised my ego
+fs: 9 10
+hyper: verb.communication:affront
+hyper: abase
+hyper: lacerate
+hyper: sting
+hypo: arouse
+
+w: bubble_over
+w: overflow
+w: spill_over
+d: overflow with a certain feeling
+e: The children bubbled over with joy
+e: My boss was bubbling over with anger
+fs: 2
+hypo: boil
+
+w: buck_up
+w: take_heart
+d: gain courage
+fs: 2 22
+hypo: cheer 2
+
+w: buffalo
+d: intimidate or overawe
+fs: 9 10
+hypo: cow
+
+w: buoy_up 1
+w: lighten 1 ant weigh_down
+w: lighten_up 1
+d: make more cheerful
+e: the conversation lightened me up a bit
+fs: 9 10
+cause: verb.communication:buoy_up
+hypo: verb.communication:cheer 2
+
+w: burn
+d: feel strong emotion, especially anger or passion
+e: She was burning with anger
+e: He was burning to try out his new skies
+fs: 2
+hypo: experience
+
+w: calm ant agitate
+w: calm_down
+w: lull drf noun.time:lull
+w: quiet drf noun.attribute:quiet
+w: quieten
+w: still drf noun.attribute:still
+w: tranquilize drf noun.artifact:tranquilizer
+w: tranquillise
+w: tranquillize
+d: make calm or still
+e: quiet the dragons of worry and fear
+fs: 9 10
+hyper: appease
+hyper: assure
+hyper: compose
+hyper: lull 1
+hypo: comfort 1
+
+w: calm 1 drf noun.attribute:calm
+w: calm_down 1
+w: chill_out
+w: cool_it
+w: cool_off
+w: settle_down
+w: simmer_down
+d: become quiet or calm, especially after a state of agitation
+e: After the fight both men need to cool off.
+e: It took a while after the baby was born for things to settle down again.
+fs: 2 1
+hypo: verb.change:change_state
+
+w: care
+w: like 1
+w: wish 2 drf noun.feeling:wish
+d: prefer or wish to do something
+e: Do you care to try this dish?
+e: Would you like to come along to the movies?
+fs: 28
+hyper: please 1
+hypo: desire
+
+w: care 2 drf noun.feeling:care drf noun.feeling:caring 1 see care_for 8 see verb.social:care 13
+d: feel concern or interest
+e: I really care about my work
+e: I don't care
+fs: 2 22
+hypo: compassionate
+
+w: care 12 drf noun.feeling:care drf noun.feeling:care 1
+w: worry 12 drf noun.cognition:worry drf noun.feeling:worry
+d: be concerned with
+e: I worry about my grades
+fs: 22
+hyper: verb.cognition:brood
+hypo: verb.cognition:mind 2
+
+w: care_a_hang
+w: give_a_damn
+w: give_a_hang
+w: give_a_hoot
+d: show no concern or interest; always used in the negative
+e: I don't give a hoot
+e: She doesn't give a damn about her job
+fs: 22 2
+
+w: care_for 1
+d: have a liking, fondness, or taste (for)
+fs: 33 8
+hypo: like 5
+
+w: care_for 8
+w: cherish
+w: hold_dear
+w: treasure drf noun.possession:treasure 1
+d: be fond of; be attached to
+fs: 9 8
+hyper: yearn 10
+hypo: love
+
+w: cark
+w: disorder
+w: disquiet drf noun.attribute:disquiet drf noun.feeling:disquiet
+w: distract 2 drf noun.cognition:distraction
+w: perturb drf noun.attribute:perturbation drf noun.state:perturbation
+w: trouble drf noun.event:trouble drf noun.feeling:trouble 3
+w: unhinge
+d: disturb in mind or make uneasy or cause to be worried or alarmed
+e: She was rather perturbed by the news that her father was seriously ill
+fs: 9 10
+hyper: vex 2
+hypo: disturb
+
+w: cast_down
+w: deject drf noun.state:dejection
+w: demoralise drf noun.feeling:demoralisation
+w: demoralize drf noun.feeling:demoralization
+w: depress ant elate drf adj.all:depressant drf noun.artifact:depressant
+w: dismay 1 drf noun.feeling:dismay 2
+w: dispirit
+w: get_down
+d: lower someone's spirits; make downhearted
+e: These news depressed her
+e: The bad state of her child's health demoralizes her
+fs: 10 9
+hyper: chill
+hypo: discourage
+
+w: chafe 1
+d: feel extreme irritation or anger
+e: He was chafing at her suggestion that he stay at home while she went on a vacation
+fs: 2
+hypo: experience
+vg: annoy
+
+w: cheer 2 drf noun.communication:cheering
+w: embolden
+w: hearten ant dishearten
+w: recreate
+d: give encouragement to
+fs: 9 10
+hyper: buck_up
+hypo: encourage
+
+w: chill drf noun.feeling:chill
+d: depress or discourage
+e: The news of the city's surrender chilled the soldiers
+fs: 11 9 10
+hypo: cast_down
+
+w: churn_up
+w: disgust drf noun.feeling:disgust
+w: nauseate drf noun.feeling:nausea
+w: revolt
+w: sicken
+d: cause aversion in; offend the moral sense of
+e: The pornographic pictures sickened us
+fs: 10 9
+hyper: appal
+hypo: repel
+
+w: cling
+d: to remain emotionally or intellectually attached
+e: He clings to the idea that she might still love him.
+fs: 11
+
+w: cloud
+d: make gloomy or depressed
+e: Their faces were clouded with sadness
+fs: 10
+hypo: affect
+
+w: combust 1
+d: cause to become violent or angry
+e: Riots combusted Pakistan after the U.S. air attacks on Afghanistan
+fs: 11 10 9
+cause: blow_a_fuse
+hypo: anger
+
+w: come_short 12
+w: fall_short 12
+d: fail to meet (expectations or standards)
+fs: 4 2 1 22
+hypo: disappoint
+
+w: comfort 1 drf noun.act:comfort drf noun.person:comforter drf noun.person:comforter 1
+w: console drf adj.all:consolable drf adjs.all:consolatory drf noun.act:consolation drf noun.feeling:consolation
+w: solace drf noun.act:solace drf noun.feeling:solace drf noun.feeling:solacement drf noun.state:solace drf noun.state:solacement
+w: soothe
+d: give moral or emotional strength to
+fs: 10 9
+hyper: allay
+hyper: calm
+
+w: commiserate drf adjs.all:commiserative drf noun.communication:commiseration drf noun.feeling:commiseration
+w: sympathise drf noun.feeling:sympathy drf noun.person:sympathiser 1
+w: sympathize drf noun.feeling:sympathy drf noun.person:sympathizer 1
+d: to feel or express sympathy or compassion
+fs: 22 2
+hyper: condole
+hypo: compassionate
+
+w: compassionate drf noun.attribute:compassion drf noun.feeling:compassion
+w: condole_with
+w: feel_for
+w: pity drf noun.attribute:pity drf noun.feeling:pity
+w: sympathize_with
+d: share the suffering of
+fs: 9
+hyper: care 2
+hyper: commiserate
+hypo: grieve
+
+w: compose drf noun.attribute:composure
+d: calm (someone, especially oneself); make quiet
+e: She had to compose herself before she could reply to this terrible insult
+fs: 10 9
+hypo: calm
+
+w: condole drf noun.communication:condolence
+d: express one's sympathetic grief, on the occasion of someone's death
+e: You must condole the widow
+fs: 2 22
+hypo: commiserate
+
+w: confuse drf noun.feeling:confusion
+w: disconcert 2 drf noun.feeling:disconcertion drf noun.feeling:disconcertment
+w: flurry
+w: put_off 2
+d: cause to feel embarrassment
+e: The constant attention of the young man confused her
+fs: 10 9
+hyper: bother 2
+hyper: deflect 6
+hyper: fluster
+hypo: abash
+vg: verb.cognition:bedevil
+
+w: congratulate drf adjs.all:congratulatory drf noun.communication:congratulation 1
+w: plume
+w: pride drf noun.feeling:pride 1
+d: be proud of
+e: He prides himself on making it into law school
+fs: 20
+hypo: experience
+
+w: consternate
+d: fill with anxiety, dread, dismay, or confusion
+e: After the terrorist attack, people look consternated
+fs: 10 9
+hypo: affright
+
+w: contemn
+w: despise drf noun.feeling:despisal drf noun.feeling:despising
+w: disdain drf noun.feeling:disdain
+w: scorn drf noun.communication:scorn drf noun.feeling:scorn drf noun.person:scorner
+d: look down on with disdain
+e: He despises the people he has to work for
+e: The professor scorns the students who don't catch on immediately
+fs: 8 9
+hyper: look_down_on
+hypo: detest
+
+w: content ant discontent drf noun.state:content
+d: make content
+e: I am contented
+fs: 9 10
+hypo: gratify
+
+w: control 6 drf noun.act:control drf noun.person:controller 1
+w: keep_in_line
+w: manipulate drf adjs.all:manipulative drf noun.act:manipulation
+d: maintain influence over (others or oneself) skillfully, usually to one's advantage
+e: She manipulates her boss
+e: She is a very controlling mother and doesn't let her children grow up
+e: The teacher knew how to keep the class in line
+e: she keeps in line
+fs: 8 9
+hyper: handle 5
+hyper: ingratiate
+hyper: tease 1
+hypo: verb.social:interact
+
+w: cool_off 1
+d: feel less enamoured of something or somebody
+fs: 2
+hypo: experience
+
+w: cotton
+d: take a liking to
+e: cotton to something
+fs: 22
+hypo: like 5
+
+w: cotton_up 9
+w: cozy_up 9
+w: play_up 9
+w: shine_up 9
+w: sidle_up 9
+w: suck_up 9
+d: ingratiate oneself to; often with insincere behavior
+e: She is playing up to the chairman
+fs: 22
+hypo: ingratiate
+
+w: covet
+d: wish, long, or crave for (something, especially the property of another person)
+e: She covets her sister's house
+fs: 8
+hyper: drool
+hypo: begrudge 1
+
+w: cow drf noun.person:coward
+w: overawe
+d: subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)
+fs: 9 10
+hyper: buffalo
+hypo: awe
+
+w: craze drf noun.state:craze
+w: madden 2
+d: cause to go crazy; cause to lose one's mind
+fs: 10
+hyper: derange 1
+
+w: crucify 3
+w: mortify 2 drf noun.act:mortification
+w: subdue
+d: hold within limits and control
+e: subdue one's appetites
+e: mortify the flesh
+fs: 8 9
+entail: verb.consumption:abstain
+hyper: mortify 4
+hypo: verb.social:check 8
+
+w: crush
+w: smash
+d: humiliate or depress completely
+e: She was crushed by his refusal of her invitation
+e: The death of her son smashed her
+fs: 9 10
+hypo: abase
+
+w: dash
+w: daunt
+w: frighten_away
+w: frighten_off
+w: pall drf noun.feeling:pall
+w: scare 4 drf noun.state:scare
+w: scare_away
+w: scare_off
+d: cause to lose courage
+e: dashed by the refusal
+fs: 10
+hypo: intimidate 1
+
+w: deflect 6
+w: distract drf noun.act:distraction 2
+d: draw someone's attention away from something
+e: The thief distracted the bystanders
+e: He deflected his competitors
+fs: 9 10
+hypo: confuse
+
+w: degrade drf noun.act:degradation drf noun.state:degradation
+w: demean
+w: disgrace
+w: put_down drf noun.communication:put-down
+w: take_down drf noun.communication:takedown
+d: reduce in worth or character, usually verbally
+e: She tends to put down younger women colleagues
+e: His critics took him down after the lecture
+fs: 9 10
+hyper: dehumanise
+hyper: reduce
+hypo: abase
+
+w: dehumanise drf noun.act:dehumanisation
+w: dehumanize ant humanize drf noun.act:dehumanization
+d: deprive of human qualities
+e: Life in poverty has dehumanized them
+fs: 10
+hypo: degrade
+
+w: delight drf noun.cognition:delight drf noun.feeling:delight
+w: please ant displease drf adj.all:pleasant drf noun.act:pleasing drf noun.act:pleasure 2 drf noun.cognition:pleasure drf noun.feeling:pleasure drf noun.person:pleaser
+d: give pleasure to or be pleasing to
+e: These colors please the senses
+e: a pleasing sensation
+fs: 9 10
+cause: like 4
+cause: like 5
+hyper: delight 2
+hyper: endear
+hypo: gratify
+vg: please 3
+
+w: delight 2
+w: enchant ant disenchant drf noun.cognition:enchantment drf noun.state:enchantment
+w: enrapture
+w: enthral
+w: enthrall drf noun.feeling:enthrallment
+w: ravish drf noun.feeling:ravishment
+w: transport drf noun.state:transport
+d: hold spellbound
+fs: 10 9
+hypo: delight
+
+w: derange 1 drf noun.state:derangement
+w: unbalance drf noun.state:unbalance 1
+d: derange mentally, throw out of mental balance; make insane
+e: The death of his parents unbalanced him
+fs: 10
+hypo: craze
+
+w: desire drf noun.attribute:desire drf noun.feeling:desire drf noun.state:desire
+w: want fs 24 drf noun.feeling:want drf noun.person:wanter
+d: feel or have a desire for; want strongly
+e: I want to go home now
+e: I want my own room
+fs: 8 28 26
+hyper: verb.consumption:crave
+hyper: ambition
+hyper: begrudge 1
+hyper: care
+hyper: fancy
+hyper: feel_like
+hyper: hanker
+hyper: hope
+hyper: itch
+hyper: lech_after
+hyper: like 6
+hyper: miss
+hyper: wish
+hyper: wish 1
+hyper: verb.possession:seek
+
+w: desire 1 drf noun.attribute:desire drf noun.state:desire
+d: express a desire for
+fs: 8
+hypo: verb.communication:ask_for
+
+w: desire 2 drf noun.attribute:desire drf noun.state:desire
+w: hope 1 drf noun.attribute:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope 1 drf noun.person:hope drf noun.person:hoper
+w: trust
+d: expect and wish
+e: I trust you will behave better from now on
+e: I hope she understands that she cannot expect a raise
+fs: 26
+hypo: wish
+
+w: despair ant hope drf noun.feeling:despair drf noun.person:desperate drf noun.state:despair drf noun.state:desperation 1
+d: abandon hope; give up hope; lose heart
+e: Don't despair--help is on the way!
+fs: 2 22
+hyper: despond
+
+w: despond drf adjs.all:despondent drf noun.feeling:despondence drf noun.feeling:despondency
+d: lose confidence or hope; become dejected
+e: The supporters of the Presidential candidate desponded when they learned the early results of the election
+fs: 2
+hypo: despair
+
+w: detest drf noun.feeling:detestation
+w: hate ant love drf noun.feeling:hate drf noun.person:hater
+d: dislike intensely; feel antipathy or aversion towards
+e: I hate Mexican food
+e: She detests politicians
+fs: 8 9
+hyper: abhor
+hyper: contemn
+hypo: dislike
+
+w: devour
+d: enjoy avidly
+e: She devoured his novels
+fs: 8
+hypo: bask 13
+
+w: die
+d: be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame
+e: I was dying with embarrassment when my little lie was discovered
+e: We almost died laughing during the show
+fs: 22 33
+hypo: break_down
+
+w: die 1
+d: languish as with love or desire
+e: She dying for a cigarette
+e: I was dying to leave
+fs: 22 28
+hypo: ache 6
+
+w: die 3
+d: feel indifferent towards
+e: She died to worldly things and eventually entered a monastery
+fs: 22
+hypo: experience
+
+w: disappoint drf noun.act:disappointment drf noun.feeling:disappointment
+w: let_down drf noun.feeling:letdown
+d: fail to meet the hopes or expectations of
+e: Her boyfriend let her down when he did not propose marriage
+fs: 10 9
+hyper: betray
+hyper: come_short 12
+hyper: disenchant
+hypo: verb.social:baffle
+
+w: disarm
+d: make less hostile; win over
+e: Her charm disarmed the prosecution lawyer completely
+fs: 10 9
+hypo: verb.communication:convert
+
+w: discomfit drf noun.feeling:discomfiture
+w: discompose drf noun.attribute:discomposure drf noun.feeling:discomposure
+w: disconcert 1 drf noun.feeling:disconcertion drf noun.feeling:disconcertment
+w: untune
+w: upset 1 drf noun.state:upset
+d: cause to lose one's composure
+fs: 9 10
+hyper: abash
+hyper: afflict
+hyper: anguish
+hyper: bemuse
+hyper: dissolve 4
+hyper: enervate
+hyper: inhibit
+hypo: arouse
+
+w: discontent ant content drf noun.feeling:discontent drf noun.feeling:discontentment
+d: make dissatisfied
+fs: 10 9
+hypo: dissatisfy
+
+w: discountenance
+d: look with disfavor on
+e: The republic soon discountenanced its few friends
+fs: 10 9
+hypo: shame
+
+w: discourage ant encourage drf noun.feeling:discouragement 2
+d: deprive of courage or hope; take away hope from; cause to feel discouraged
+fs: 9 10
+hyper: cast_down
+hyper: dishearten
+hyper: intimidate 1
+hyper: pour_cold_water_on
+
+w: disenchant ant enchant drf noun.cognition:disenchantment
+w: disillusion drf noun.cognition:disillusion drf noun.cognition:disillusionment
+d: free from enchantment
+fs: 9 10
+hypo: disappoint
+
+w: disgruntle drf noun.feeling:disgruntlement
+d: put into a bad mood or into bad humour
+e: The employees were disgruntled by their bad working conditions
+fs: 10 9
+hypo: dissatisfy
+
+w: dishearten ant hearten drf noun.communication:disheartenment drf noun.feeling:disheartenment
+w: put_off
+d: take away the enthusiasm of
+fs: 9 10
+hypo: discourage
+
+w: dislike ant like 5 drf noun.feeling:dislike
+d: have or feel a dislike or distaste for
+e: I really dislike this salesman
+fs: 32 9 8
+entail: verb.cognition:disapprove
+hyper: detest
+hyper: resent
+
+w: displease ant please drf noun.feeling:displeasure
+d: give displeasure to
+fs: 10 9
+cause: dislike
+hyper: annoy
+hyper: dissatisfy
+hyper: repel
+
+w: dissatisfy ant satisfy drf adjs.all:dissatisfactory drf noun.feeling:dissatisfaction
+d: fail to satisfy
+fs: 9 10
+entail: disappoint
+hyper: discontent
+hyper: disgruntle
+hypo: displease
+
+w: dissolve
+d: lose control emotionally
+e: She dissolved into tears when she heard that she had lost all her savings in the pyramid scheme
+fs: 22
+hypo: break_down
+vg: dissolve 4
+
+w: dissolve 4
+d: cause to lose control emotionally
+e: The news dissolved her into tears
+fs: 10
+hypo: discomfit
+vg: dissolve
+
+w: distress drf noun.feeling:distress 2
+d: cause mental pain to
+e: The news of her child's illness distressed the mother
+fs: 10 9
+hyper: besiege
+hypo: disturb
+
+w: disturb drf noun.state:disturbance 2
+w: trouble 1 drf noun.event:trouble drf noun.feeling:trouble 3
+w: upset drf noun.act:upset 1 drf noun.state:upset
+d: move deeply
+e: This book upset me
+e: A troubling thought
+fs: 10
+hyper: agitate
+hyper: cark
+hyper: distress
+hyper: jolt
+hypo: affect
+
+w: dither drf noun.state:dither
+w: flap drf noun.state:flap
+w: pother drf noun.state:pother
+d: make a fuss; be agitated
+fs: 2 22
+hypo: fret 3
+
+w: dither 1
+d: act nervously; be undecided; be uncertain
+fs: 22 2
+hypo: fret
+
+w: domineer
+w: tyrannise
+w: tyrannize drf noun.person:tyrant
+d: rule or exercise power over (somebody) in a cruel and autocratic manner
+e: her husband and mother-in-law tyrannize her
+fs: 9
+hypo: ballyrag
+
+w: dote 2
+d: shower with love; show excessive affection for
+e: Grandmother dotes on the twins
+fs: 22
+hypo: love
+
+w: draw 1
+d: elicit responses, such as objections, criticism, applause, etc.
+e: The President's comments drew sharp criticism from the Republicans
+e: The comedian drew a lot of laughter
+fs: 8
+hypo: arouse
+vg: verb.possession:draw
+
+w: draw_out
+d: make more sociable
+e: The therapist drew out the shy girl
+fs: 9 10
+hypo: encourage
+
+w: dread drf noun.feeling:dread
+w: fear drf noun.feeling:fear
+d: be afraid or scared of; be frightened of
+e: I fear the winters in Moscow
+e: We should not fear the Communists!
+fs: 9 8 28
+hyper: panic
+
+w: drift_apart
+w: drift_away 3
+d: lose personal contact over time
+e: The two women, who had been roommates in college, drifted apart after they got married
+fs: 2
+hypo: alienate
+
+w: drool
+w: salivate
+d: be envious, desirous, eager for, or extremely happy about something
+e: She was salivating over the raise she anticipated
+fs: 22
+hypo: covet
+
+w: drool_over
+w: slobber_over
+d: envy without restraint
+fs: 8 9
+hypo: hero-worship
+
+w: eat
+w: eat_on
+d: worry or cause anxiety in a persistent way
+e: What's eating you?
+fs: 10
+hypo: vex 2
+
+w: eat_into
+w: fret 2
+w: grate
+w: rankle
+d: gnaw into; make resentful or angry
+e: The injustice rankled her
+e: his resentment festered
+fs: 10
+hypo: annoy
+
+w: efface drf noun.act:effacement
+d: make inconspicuous
+e: efface oneself
+fs: 9
+hypo: humble 1
+
+w: elate ant depress drf noun.feeling:elation drf noun.state:elation
+w: intoxicate drf noun.feeling:intoxication
+w: lift_up
+w: pick_up
+w: uplift
+d: fill with high spirits; fill with optimism
+e: Music can uplift your spirits
+fs: 9 10
+cause: joy
+hyper: beatify 1
+hyper: beatify 3
+hyper: puff
+hypo: excite
+
+w: electrify drf noun.act:electrification drf noun.feeling:electricity
+d: excite suddenly and intensely
+e: The news electrified us
+fs: 9 10
+hypo: agitate
+
+w: emote drf adjs.all:emotive drf noun.feeling:emotion
+d: give expression or emotion to, in a stage or movie role
+fs: 8
+hypo: verb.creation:act
+
+w: encourage ant discourage drf noun.feeling:encouragement
+d: inspire with confidence; give hope or courage to
+fs: 10 9
+cause: hope
+hyper: verb.communication:barrack 1
+hyper: verb.communication:foster
+hyper: verb.communication:hollo 2
+hyper: bring_out
+hyper: cheer 2
+hyper: draw_out
+hyper: goad
+hypo: animate
+
+w: endear drf noun.act:endearment
+d: make attractive or lovable
+e: This behavior endeared her to me
+fs: 20
+hypo: delight
+
+w: enervate
+w: faze
+w: unnerve
+w: unsettle
+d: disturb the composure of
+fs: 10 11
+hyper: unman
+hypo: discomfit
+
+w: engrave
+d: impress or affect deeply
+e: The event engraved itself into her memory
+fs: 4
+hypo: affect
+
+w: enjoy 1 drf noun.act:enjoyment drf noun.feeling:enjoyment drf noun.person:enjoyer
+w: love 2 drf noun.cognition:love drf noun.feeling:love drf noun.person:lover drf noun.person:lover 1
+d: get pleasure from
+e: I love cooking
+fs: 28 8
+hyper: verb.perception:get_off
+hypo: like 5
+
+w: enrage drf noun.feeling:enragement
+d: put into a rage; make violently angry
+fs: 9 10
+cause: rage
+hypo: anger
+
+w: enshrine
+w: saint
+d: hold sacred
+fs: 8
+hypo: fear 1
+
+w: entertain
+w: harbor
+w: harbour
+w: hold
+w: nurse
+d: maintain (a theory, thoughts, or feelings)
+e: bear a grudge
+e: entertain interesting notions
+e: harbor a resentment
+fs: 8
+hypo: experience
+
+w: enthuse
+d: cause to feel enthusiasm
+fs: 9 10
+hyper: bring_down
+hypo: excite 2
+
+w: envy 1 fs 14 drf noun.feeling:envy
+d: feel envious towards; admire enviously
+fs: 9
+hypo: admire
+
+w: exasperate 1 drf noun.act:exasperation drf noun.feeling:exasperation
+w: incense 1
+w: infuriate drf noun.feeling:fury drf noun.feeling:infuriation drf noun.state:fury
+d: make furious
+fs: 9 10
+hypo: anger
+
+w: excite drf noun.state:excitation 1 drf noun.state:excitement 1
+w: shake
+w: shake_up
+w: stimulate
+w: stir 1 drf noun.feeling:stir drf noun.person:stirrer see verb.social:stir_up
+d: stir the feelings, emotions, or peace of
+e: These stories shook the community
+e: the civil war shook the country
+fs: 9 8 11 10
+hyper: affright
+hyper: animate
+hyper: arouse 1
+hyper: elate
+hyper: fuel
+hyper: invite
+hyper: thrill 2
+hyper: titillate
+hypo: arouse
+
+w: excite 2 drf noun.feeling:excitement drf noun.state:excitation 1 drf noun.state:excitement 1
+d: arouse or elicit a feeling
+fs: 9 10
+hyper: enthuse
+hypo: arouse
+
+w: excruciate drf noun.state:excruciation
+w: rack 1 drf noun.artifact:rack 2
+w: torment drf noun.feeling:torment 1 drf noun.feeling:torment 2 drf noun.person:tormenter drf noun.person:tormentor
+w: torture drf noun.feeling:torture 1 drf noun.feeling:torture 2 drf noun.person:torturer
+d: torment emotionally or mentally
+fs: 10 9
+hypo: anguish
+
+w: experience drf noun.cognition:experience drf noun.event:experience
+w: feel fs 22 5 6 drf noun.Tops:feeling drf noun.feeling:feelings see feel_for
+d: undergo an emotional sensation or be in a particular state of mind
+e: She felt resentful
+e: He felt regret
+fs: 8
+hyper: anger 1
+hyper: beam 1
+hyper: burn
+hyper: chafe 1
+hyper: congratulate
+hyper: cool_off 1
+hyper: die 3
+hyper: entertain
+hyper: fly_high
+hyper: fume
+hyper: glow 1
+hyper: incline
+hyper: joy
+hyper: pride_oneself 9
+hyper: recapture
+hyper: regret
+hyper: sadden
+hyper: smolder
+hyper: suffer
+hyper: sympathise 1
+
+w: express_emotion
+w: express_feelings
+d: give verbal or other expression to one's feelings
+fs: 2
+hyper: verb.body:cry
+hyper: verb.body:express_joy
+hyper: break
+hyper: keen
+
+w: fall_apart
+w: go_to_pieces
+d: lose one's emotional or mental composure
+e: She fell apart when her only child died
+fs: 2
+hypo: break_down
+
+w: fall_for
+d: fall in love with; become infatuated with
+e: She fell for the man from Brazil
+fs: 8 9
+hypo: verb.change:change
+
+w: fancy drf noun.feeling:fancy drf noun.person:fancier
+w: go_for
+w: take_to
+d: have a fancy or particular liking or desire for
+e: She fancied a necklace that she had seen in the jeweler's window
+fs: 9 8
+entail: like 5
+hypo: desire
+
+w: fascinate drf noun.attribute:fascination drf noun.state:fascination
+w: grip drf noun.attribute:grip
+w: spellbind drf noun.person:spellbinder
+w: transfix
+d: to render motionless, as with a fixed stare or by arousing terror or awe
+e: The snake charmer fascinates the cobra
+fs: 10 9
+hypo: interest
+
+w: fear 1 drf noun.feeling:fear 2
+w: revere drf adj.all:reverent drf adjs.all:reverent drf noun.feeling:reverence
+w: reverence drf noun.cognition:reverence drf noun.feeling:reverence
+w: venerate drf noun.feeling:veneration drf noun.person:venerator
+d: regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of
+e: Fear God as your father
+e: We venerate genius
+fs: 9 8
+hyper: enshrine
+hyper: worship 1
+hypo: verb.cognition:esteem 1
+
+w: fear 2
+d: be sorry; used to introduce an unpleasant statement
+e: I fear I won't make it to your wedding party
+fs: 26
+hypo: verb.communication:regret 2
+
+w: fear 3 drf noun.feeling:fear 1
+d: be afraid or feel anxious or apprehensive about a possible or probable situation or event
+e: I fear she might get aggressive
+fs: 26 22
+hypo: worry
+
+w: fear 13 drf noun.feeling:fear 1
+d: be uneasy or apprehensive about
+e: I fear the results of the final exams
+fs: 8
+
+w: feast_one's_eyes
+d: look at with great enjoyment
+e: She feasted her eyes on the Tuscan landscape
+fs: 22
+hypo: bask 13
+
+w: feel_like
+d: have an inclination for something or some activity
+e: I feel like staying in bed all day
+e: I feel like a cold beer now
+fs: 33 8
+hypo: desire
+
+w: ferment drf noun.state:fermentation
+d: work up into agitation or excitement
+e: This religion is fermenting Africa
+fs: 11 10 9 8
+hypo: fire_up
+
+w: ferment 1 drf noun.state:fermentation
+d: be in an agitated or excited state
+e: The Middle East is fermenting
+e: Her mind ferments
+fs: 2 1
+hypo: boil
+
+w: fire_up
+w: heat drf noun.attribute:heat 2
+w: ignite
+w: inflame drf adjs.all:inflammatory drf noun.act:inflaming drf noun.act:inflammation
+w: stir_up
+w: wake
+d: arouse or excite feelings and passions
+e: The ostentatious way of living of the rich ignites the hatred of the poor
+e: The refugees' fate stirred up compassion around the world
+e: Wake old feelings of hatred
+fs: 8 11
+hyper: ferment
+hypo: arouse
+
+w: fluster drf noun.attribute:fluster
+d: cause to be nervous or upset
+fs: 9 10
+cause: fluster 1
+hyper: ruffle 1
+hypo: confuse
+
+w: fluster 1 drf noun.attribute:fluster
+d: be flustered; behave in a confused manner
+fs: 2
+hypo: verb.social:acquit
+
+w: fly_high
+d: be elated
+e: He was flying high during the summer months
+fs: 2
+hypo: experience
+
+w: foam_at_the_mouth
+w: froth_at_the_mouth
+d: be in a state of uncontrolled anger
+fs: 2
+hypo: rage
+
+w: freak
+w: freak_out
+w: gross_out
+d: lose one's nerve
+e: When he saw the accident, he freaked out
+fs: 2
+hypo: panic
+
+w: fret
+d: be agitated or irritated
+e: don't fret over these small details
+fs: 2 22
+hyper: dither 1
+hypo: worry
+
+w: fret 1
+d: cause annoyance in
+fs: 9 10
+cause: fret
+hypo: annoy
+
+w: fret 3 drf noun.state:fret
+w: fuss drf noun.state:fuss
+w: niggle
+d: worry unnecessarily or excessively
+e: don't fuss too much over the grandchildren--they are quite big now
+fs: 22 2
+hyper: dither
+hyper: scruple
+hypo: worry
+
+w: fuel
+d: stimulate
+e: fuel the debate on creationism
+fs: 10
+hypo: excite
+
+w: fume
+d: be mad, angry, or furious
+fs: 2 22
+hypo: experience
+
+w: gall drf noun.feeling:gall
+w: irk
+d: irritate or vex
+e: It galls me that we lost the suit
+fs: 10 9
+hypo: anger
+
+w: galvanise drf noun.act:galvanisation 1 drf noun.person:galvaniser
+w: galvanize drf noun.act:galvanization 1 drf noun.person:galvanizer
+w: startle
+d: to stimulate to action
+e: the loud noise startled him awake
+e: galvanized into action
+fs: 9 10 30
+hypo: ball_over
+
+w: get 11
+d: evoke an emotional response
+e: Brahms's `Requiem' gets me every time
+fs: 9 10
+hypo: stir
+vg: get 12
+
+w: get 12
+w: get_under_one's_skin
+d: irritate
+e: Her childish behavior really get to me
+e: His lying really gets me
+fs: 9 10 12
+hypo: annoy
+vg: get 11
+
+w: ghost drf noun.cognition:ghost
+w: haunt
+w: obsess drf noun.cognition:obsession
+d: haunt like a ghost; pursue
+e: Fear of illness haunts her
+fs: 10 9
+hypo: preoccupy
+
+w: gladden ant sadden
+d: become glad or happy
+fs: 2
+hypo: joy
+
+w: gladden 1 ant sadden 1
+w: joy 1 drf noun.cognition:joy drf noun.feeling:joy
+d: make glad or happy
+fs: 10 9
+cause: gladden
+hyper: overjoy
+
+w: glow 1 drf noun.state:glow
+d: be exuberant or high-spirited
+e: Make the people's hearts glow
+fs: 2 1
+hypo: experience
+
+w: goad drf noun.communication:goad
+w: spur drf noun.communication:spur
+d: give heart or courage to
+fs: 10 9
+hypo: encourage
+
+w: gratify drf noun.act:gratification drf noun.state:gratification
+w: satisfy ant dissatisfy drf noun.object:satisfier
+d: make happy or satisfied
+fs: 9 10
+hyper: content
+hyper: delight
+hyper: please 3
+
+w: grieve drf noun.person:griever
+w: sorrow drf noun.cognition:sorrow drf noun.feeling:sorrow drf noun.feeling:sorrow 1 drf noun.person:sorrower drf noun.state:sorrow
+d: feel grief
+fs: 2 22
+hyper: compassionate
+hyper: mourn
+hypo: suffer
+
+w: grudge
+d: accept or admit unwillingly
+fs: 8
+entail: resent
+
+w: grudge 1 drf noun.feeling:grudge
+w: stew
+d: bear a grudge; harbor ill feelings
+fs: 2 22
+hypo: resent
+
+w: hamstring
+d: make ineffective or powerless
+e: The teachers were hamstrung by the overly rigid schedules
+fs: 8 11
+hypo: bedevil
+
+w: handle 5 drf noun.person:handler drf noun.person:handler 1
+d: show and train
+e: The prize-winning poodle was handled by Mrs. Priscilla Prescott
+fs: 8
+hypo: control 6
+
+w: hanker drf noun.feeling:hankering
+w: long 2 drf noun.feeling:longing drf noun.person:longer
+w: yearn drf noun.feeling:yearning drf noun.person:yearner
+d: desire strongly or persistently
+fs: 22
+hyper: ache 6
+hypo: desire
+
+w: hero-worship
+w: idolise drf noun.act:idolisation drf noun.act:idolisation 1 drf noun.artifact:idol drf noun.cognition:idol drf noun.person:idol
+w: idolize drf noun.act:idolization drf noun.act:idolization 1 drf noun.artifact:idol drf noun.cognition:idol drf noun.person:idol drf noun.person:idolizer 1
+w: revere 1 drf adj.all:reverent drf adjs.all:reverent drf noun.cognition:reverence
+w: worship drf noun.feeling:worship 1 drf noun.person:worshiper 1 drf noun.person:worshipper 1
+d: love unquestioningly and uncritically or to excess; venerate as an idol
+e: Many teenagers idolized the Beatles
+fs: 8 9
+hyper: drool_over
+hypo: adore
+
+w: hit_home
+w: strike_a_chord fs 4
+w: strike_a_note
+w: strike_home
+d: refer to or be relevant or familiar to
+e: I hope this message hits home!
+fs: 1
+hypo: affect
+
+w: hold_over
+d: intimidate somebody (with a threat)
+e: She was holding it over him
+fs: 9
+hypo: intimidate
+
+w: hope ant despair drf noun.attribute:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope 1 drf noun.person:hope drf noun.person:hoper
+d: be optimistic; be full of hope; have hopes
+e: I am still hoping that all will turn out well
+fs: 22 2 26
+hypo: desire
+
+w: humanise drf noun.act:humanisation
+w: humanize ant dehumanize drf noun.act:humanization
+d: make more humane
+e: The mayor tried to humanize life in the big city
+fs: 10
+hypo: verb.change:alter 1
+
+w: humble 1
+d: cause to be unpretentious
+e: This experience will humble him
+fs: 10 9
+hyper: efface
+hypo: verb.change:alter 1
+
+w: hype_up
+w: psych_up
+d: get excited or stimulated
+e: The children were all psyched up after the movie
+fs: 10 9
+hypo: agitate
+
+w: impress drf adj.all:impressive
+d: impress positively
+e: The young chess player impressed her audience
+fs: 10 9
+hyper: prepossess 1
+hyper: wow
+hypo: affect
+
+w: incline
+d: feel favorably disposed or willing
+e: She inclines to the view that people should be allowed to expres their religious beliefs
+fs: 22
+hypo: experience
+
+w: infatuate drf noun.cognition:infatuation drf noun.feeling:infatuation drf noun.feeling:infatuation 2
+d: arouse unreasoning love or passion in and cause to behave in an irrational way
+e: His new car has infatuated him
+e: love has infatuated her
+fs: 9 10
+hypo: arouse
+
+w: ingratiate drf adjs.all:ingratiatory 1
+d: gain favor with somebody by deliberate efforts
+fs: 9 20
+hyper: cotton_up 9
+hypo: control 6
+
+w: inhibit
+d: make (someone) self-conscious and as a result unable to act naturally
+e: his father's cold and distant demeanor inhibited him emotionally
+fs: 9 10
+hypo: discomfit
+
+w: interest ant bore drf noun.attribute:interest 2 drf noun.cognition:interest
+d: excite the curiosity of; engage the interest of
+fs: 10 9
+hyper: verb.cognition:absorb 3
+hyper: fascinate
+hypo: arouse
+
+w: intimidate drf noun.act:intimidation 1 drf noun.communication:intimidation drf noun.feeling:intimidation
+d: make timid or fearful
+e: Her boss intimidates her
+fs: 9
+hyper: ballyrag
+hyper: hold_over
+hypo: affright
+
+w: intimidate 1 drf noun.act:intimidation 1 drf noun.communication:intimidation
+d: to compel or deter by or as if by threats
+fs: 9 10
+entail: verb.communication:warn
+hyper: dash
+hypo: discourage
+
+w: invite drf noun.attribute:invitation
+w: tempt drf adjs.all:temptable drf noun.cognition:temptation drf noun.person:tempter
+d: give rise to a desire by being attractive or inviting
+e: the window displays tempted the shoppers
+fs: 10
+hypo: excite
+
+w: itch drf noun.feeling:itch
+w: spoil
+d: have a strong desire or urge to do something
+e: She is itching to start the project
+e: He is spoiling for a fight
+fs: 28
+hypo: desire
+
+w: jar
+d: affect in a disagreeable way
+e: This play jarred the audience
+fs: 10 9
+hypo: affect
+
+w: jolt
+d: disturb (someone's) composure
+e: The audience was jolted by the play
+fs: 10 9
+hypo: disturb
+
+w: joy drf noun.feeling:joy
+w: rejoice drf noun.feeling:rejoicing
+d: feel happiness or joy
+fs: 2 22
+hyper: verb.communication:cheer
+hyper: be_on_cloud_nine
+hyper: gladden
+hypo: experience
+
+w: keen drf noun.communication:keen
+w: lament drf noun.act:lamentation drf noun.communication:lament drf noun.communication:lament 1 drf noun.communication:lament 2 drf noun.communication:lamentation drf noun.person:lamenter
+d: express grief verbally
+e: we lamented the death of the child
+fs: 8
+entail: grieve
+hypo: express_emotion
+
+w: kill
+d: overwhelm with hilarity, pleasure, or admiration
+e: The comedian was so funny, he was killing me!
+fs: 9 10
+hypo: overcome
+
+w: knock_out
+d: overwhelm with admiration
+e: All the guys were knocked out by her charm
+fs: 9 10
+hypo: overcome
+
+w: lacerate drf noun.act:laceration
+d: deeply hurt the feelings of; distress
+e: his lacerating remarks
+fs: 9 10
+hypo: bruise
+
+w: lech_after
+w: lust_after
+d: have a strong sexual desire for
+e: he is lusting after his secretary
+fs: 9
+hypo: desire
+
+w: like 4 drf adj.all:likable 2 drf adj.all:likeable 2 drf adjs.all:likable drf adjs.all:likeable
+d: be fond of
+e: I like my nephews
+fs: 8 9
+
+w: like 5 ant dislike
+d: find enjoyable or agreeable
+e: I like jogging
+e: She likes to read Russian novels
+fs: 33 8 28
+entail: verb.cognition:approve
+hyper: care_for 1
+hyper: cotton
+hyper: enjoy 1
+hyper: prefer
+
+w: like 6
+d: want to have
+e: I'd like a beer now!
+fs: 8
+hypo: desire
+
+w: lock
+d: hold fast (in a certain state)
+e: He was locked in a laughing fit
+fs: 10
+hypo: overcome
+
+w: look_down_on ant admire
+d: regard with contempt
+e: the new neighbor looks down on us because our house is very modest
+fs: 9 8
+hypo: contemn
+
+w: lose
+d: suffer the loss of a person through death or removal
+e: She lost her husband in the war
+e: The couple that wanted to adopt the child lost her when the biological parents claimed her
+fs: 9 10
+hypo: suffer
+
+w: love ant hate drf adj.all:lovable drf adj.all:loveable drf noun.cognition:love drf noun.feeling:love drf noun.person:love drf noun.person:lover drf noun.person:lover 1
+d: have a great affection or liking for
+e: I love French food
+e: She loves her boss and works hard for him
+fs: 8 9
+hyper: adore
+hyper: care_for 8
+hyper: dote 2
+hyper: love 1
+
+w: love 1 drf adj.all:lovable drf adj.all:loveable drf noun.cognition:love drf noun.feeling:love drf noun.person:love drf noun.person:lover
+d: be enamored or in love with
+e: She loves her husband deeply
+fs: 9
+hyper: romance
+hypo: love
+
+w: lull 1 drf noun.state:lull drf noun.time:lull
+d: calm by deception
+e: Don't let yourself be lulled into a false state of security
+fs: 9 10
+hypo: calm
+
+w: madden
+d: make mad
+e: His behavior is maddening
+fs: 10 9
+hypo: anger
+
+w: madden 1
+d: drive up the wall; go on someone's nerves
+fs: 9 10
+hypo: bedevil
+
+w: miff drf noun.state:miff
+d: cause to be annoyed
+e: His behavior really miffed me
+fs: 9 10
+hypo: anger
+
+w: miss
+d: feel or suffer from the lack of
+e: He misses his mother
+fs: 9 8
+entail: regret
+hyper: regret 1
+hypo: desire
+
+w: moon_about
+w: moon_around
+w: mope drf noun.person:mope
+d: be apathetic, gloomy, or dazed
+fs: 2
+hypo: verb.stative:be 3
+
+w: mortify 4 drf noun.act:mortification
+d: practice self-denial of one's body and appetites
+fs: 2
+hypo: crucify 3
+hypo: verb.social:check 2
+
+w: mourn drf noun.person:mourner drf noun.state:mourning
+d: feel sadness
+e: She is mourning her dead child
+fs: 2 22
+hypo: grieve
+
+w: mourn 1 drf noun.person:mourner
+d: observe the customs of mourning after the death of a loved one
+fs: 2
+hypo: verb.social:celebrate 1
+
+w: move 1
+d: arouse sympathy or compassion in
+e: Her fate moved us all
+fs: 9 10
+hypo: affect
+vg: verb.creation:actuate 2
+
+w: nag
+d: worry persistently
+e: nagging concerns and doubts
+fs: 10
+hypo: vex 2
+
+w: nerve drf noun.attribute:nerve
+w: steel
+d: get ready for something difficult or unpleasant
+fs: 9
+hypo: brace
+
+w: obsess 3 drf adjs.all:obsessive drf noun.cognition:obsession
+d: be preoccupied with something
+e: She is obsessing over her weight
+fs: 22
+hypo: worry
+
+w: offend 1 drf adj.all:offensive 2 drf noun.feeling:offence
+w: pique drf noun.feeling:pique
+d: cause to feel resentment or indignation
+e: Her tactless remark offended me
+fs: 9 10
+cause: resent
+hypo: anger
+
+w: overcome
+w: overpower
+w: overtake
+w: overwhelm
+w: sweep_over
+w: whelm
+d: overcome, as with emotions or perceptual stimuli
+fs: 10
+hyper: verb.change:devastate 1
+hyper: verb.cognition:clutch 4
+hyper: benight
+hyper: kill
+hyper: knock_out
+hyper: lock
+hyper: stagger
+hypo: arouse
+
+w: overjoy
+d: cause to feel extremely joyful or happy
+e: the economic growth overjoyed the German industry
+fs: 9 10
+hypo: gladden 1
+
+w: panic drf noun.feeling:panic
+d: be overcome by a sudden fear
+e: The students panicked when told that final exams were less than a week away
+fs: 22 2
+hyper: freak
+hypo: dread
+
+w: panic 1 drf noun.feeling:panic drf noun.state:panic 1
+d: cause sudden fear in or fill with sudden panic
+e: The mere thought of an isolation cell panicked the prisoners
+fs: 9 10
+cause: panic
+hypo: terrify
+
+w: peeve
+d: cause to be annoyed, irritated, or resentful
+fs: 10 9
+hypo: annoy
+
+w: pierce
+d: move or affect (a person's emotions or bodily feelings) deeply or sharply
+e: The cold pierced her bones
+e: Her words pierced the students
+fs: 9 10
+hypo: affect
+
+w: please 1 drf noun.act:pleasure 2
+d: be the will of or have the will (to)
+e: he could do many things if he pleased
+fs: 2 1
+hypo: care
+
+w: please 3 drf adjs.all:pleasant
+d: give satisfaction
+e: The waiters around her aim to please
+fs: 10 9
+hypo: gratify
+vg: delight
+
+w: pother 1 drf noun.state:pother
+d: make upset or troubled
+fs: 10 9
+hypo: agitate
+
+w: pour_cold_water_on
+w: throw_cold_water_on
+d: be discouraging or negative about
+fs: 8 9
+hypo: discourage
+
+w: prefer drf noun.feeling:preference
+d: like better; value more highly
+e: Some people prefer camping to staying in hotels
+e: We prefer sleeping outside
+fs: 33 27 8 9 15
+hypo: like 5
+
+w: preoccupy drf noun.cognition:preoccupancy drf noun.cognition:preoccupation drf noun.cognition:preoccupation 2
+d: engage or engross the interest or attention of beforehand or occupy urgently or obsessively
+e: His work preoccupies him
+e: The matter preoccupies her completely--she cannot think of anything else
+fs: 10
+hyper: ghost
+hyper: prepossess
+hypo: verb.social:command
+
+w: prepossess
+d: cause to be preoccupied
+e: The idea of his failure prepossesses him
+fs: 10
+hypo: preoccupy
+
+w: prepossess 1
+d: make a positive impression (on someone) beforehand
+e: A prepossessing appearance
+fs: 9 8
+hypo: impress
+
+w: prick
+d: to cause a sharp emotional pain
+e: The thought of her unhappiness pricked his conscience
+fs: 9 10 11 8
+hypo: arouse
+
+w: pride_oneself 9
+w: take_pride 9
+d: feel proud of
+e: She took great pride in her sons
+fs: 22
+hypo: experience
+
+w: puff
+d: make proud or conceited
+e: The sudden fame puffed her ego
+fs: 11 10
+hypo: elate
+
+w: put_off 4
+w: turn_off drf noun.cognition:turnoff
+d: cause to feel intense dislike or distaste
+fs: 9 10
+hypo: repel
+
+w: puzzle 3 drf noun.cognition:puzzlement drf noun.communication:puzzle
+d: be uncertain about; think about without fully understanding or being able to decide
+e: We puzzled over her sudden departure
+fs: 22
+hypo: verb.cognition:chew_over
+
+w: rack
+d: stretch to the limits
+e: rack one's brains
+fs: 8
+hypo: strain
+
+w: rage drf noun.feeling:rage drf noun.state:rage
+d: feel intense anger
+e: Rage against the dying of the light!
+fs: 22 2
+hyper: blow_a_fuse
+hyper: foam_at_the_mouth
+
+w: raise_the_roof
+d: get very angry
+e: He will raise the roof when he hears this
+fs: 2
+hypo: anger 1
+
+w: recapture
+d: experience anew
+e: She could not recapture that feeling of happiness
+fs: 8
+hypo: experience
+
+w: reduce
+d: lower in grade or rank or force somebody into an undignified situation
+e: She reduced her niece to a servant
+fs: 21
+hypo: degrade
+
+w: regret fs 26 33 drf noun.feeling:regret
+w: repent drf adj.all:repentant drf noun.feeling:repentance
+w: rue drf noun.feeling:rue
+d: feel remorse for; feel sorry for; be contrite about
+fs: 8
+hypo: experience
+
+w: regret 1 drf noun.feeling:regret
+d: feel sad about the loss or absence of
+fs: 9 8
+hypo: miss
+
+w: rejoice 2 drf noun.feeling:rejoicing
+w: triumph drf adjs.all:triumphant drf noun.feeling:triumph
+w: wallow
+d: be ecstatic with joy
+fs: 21
+hypo: be_on_cloud_nine
+
+w: rekindle
+d: arouse again
+e: rekindle hopes
+e: rekindle her love
+fs: 11 8
+hypo: arouse
+
+w: repel ant attract drf adjs.all:repellant drf adjs.all:repellant 1 drf adjs.all:repellent drf adjs.all:repulsive drf adjs.all:repulsive 1 drf noun.substance:repellant drf noun.substance:repellent
+w: repulse
+d: be repellent to; cause aversion in
+fs: 10 9
+hyper: churn_up
+hyper: put_off 4
+hypo: displease
+
+w: resent drf noun.feeling:resentment
+d: feel bitter or indignant about
+e: She resents being paid less than her co-workers
+fs: 8 9
+hyper: grudge 1
+hypo: dislike
+
+w: retire
+w: withdraw drf noun.feeling:withdrawal drf noun.person:withdrawer 4
+d: lose interest
+e: he retired from life when his wife died
+fs: 22 2
+hyper: verb.social:back_down
+hypo: verb.body:fatigue 1
+vg: verb.social:retire 2
+
+w: rise
+d: become heartened or elated
+e: Her spirits rose when she heard the good news
+fs: 1
+
+w: romance drf noun.communication:romance 2 drf noun.state:romance
+d: have a love affair with
+fs: 9 8
+hypo: love 1
+
+w: ruffle
+d: trouble or vex
+e: ruffle somebody's composure
+fs: 8 11
+hypo: annoy
+
+w: ruffle 1
+d: discompose
+e: This play is going to ruffle some people
+e: She has a way of ruffling feathers among her colleagues
+fs: 9 8 11 10
+hypo: fluster
+
+w: sadden ant gladden
+d: come to feel sad
+fs: 2 22
+hypo: experience
+
+w: sadden 1 ant gladden 1
+d: make unhappy
+e: The news of her death saddened me
+fs: 10 9
+cause: sadden
+hyper: weigh_down
+hypo: affect
+
+w: scruple drf noun.cognition:scruple drf noun.feeling:scruple
+d: raise scruples
+e: He lied and did not even scruple about it
+fs: 22 8
+hypo: fret 3
+
+w: shame drf noun.feeling:shame
+d: cause to be ashamed
+fs: 10 9
+hyper: discountenance
+hypo: arouse
+
+w: shock drf noun.communication:shocker drf noun.event:shock 1 drf noun.feeling:shock 1
+d: strike with horror or terror
+e: The news of the bombing shocked her
+fs: 10 9
+hypo: alarm
+
+w: shout_down
+d: silence or overwhelm by shouting
+fs: 9
+hypo: verb.change:hush 1
+
+w: sizzle
+d: seethe with deep anger or resentment
+e: She was sizzling with anger
+fs: 1
+hypo: boil
+
+w: smite
+d: affect suddenly with deep feeling
+e: He was smitten with love for this young girl
+fs: 10 9
+hypo: affect
+
+w: smolder
+w: smoulder
+d: have strong suppressed feelings
+fs: 2
+hypo: experience
+
+w: spook drf noun.cognition:spook
+d: frighten or scare, and often provoke into a violent action
+e: The noise spooked the horse
+fs: 9 10
+hypo: affright
+
+w: stagger
+d: astound or overwhelm, as with shock
+e: She was staggered with bills after she tried to rebuild her house following the earthquake
+fs: 10
+hypo: overcome
+
+w: steam
+d: get very angry
+e: her indifference to his amorous advances really steamed the young man
+fs: 2
+hypo: anger 1
+
+w: sting drf noun.communication:stinger drf noun.state:sting 2 drf noun.state:stinging
+d: cause an emotional pain, as if by stinging
+e: His remark stung her
+fs: 10 9
+hypo: bruise
+
+w: stir drf noun.act:stirring 1 drf noun.feeling:stir see stir_up
+w: touch
+d: affect emotionally
+e: A stirring movie
+e: I was touched by your kind letter of sympathy
+fs: 9 10
+hyper: get 11
+hypo: affect
+
+w: strain drf noun.act:strain 2
+w: stress drf noun.object:stressor drf noun.state:stress 1 drf noun.state:stress 2
+w: try
+d: test the limits of
+e: You are trying my patience!
+fs: 8 11
+hyper: rack
+hypo: afflict
+
+w: strike_a_chord 1
+w: touch_a_chord
+d: evoke a reaction, response, or emotion
+e: this writer strikes a chord with young women
+e: The storyteller touched a chord
+fs: 2 1
+hypo: arouse
+
+w: strike_dumb
+d: render speechless, as by surprising or shocking
+e: we were struck dumb by the candidate's announcement
+fs: 10
+hypo: affect
+
+w: stultify drf noun.communication:stultification
+d: prove to be of unsound mind or demonstrate someone's incompetence
+e: nobody is legally allowed to stultify himself
+fs: 9
+hypo: verb.cognition:demonstrate
+mt: noun.group:jurisprudence
+
+w: suffer fs 8 drf noun.feeling:suffering 2 drf noun.person:sufferer 1 drf noun.state:suffering 1
+d: experience (emotional) pain
+e: Every time her husband gets drunk, she suffers
+fs: 22 2
+hyper: agonise
+hyper: anguish 2
+hyper: grieve
+hyper: lose
+hypo: experience
+vg: verb.cognition:abide
+
+w: sweep_away
+w: sweep_off
+d: overwhelm emotionally
+e: Her swept her away
+fs: 10 9
+hypo: affect
+
+w: sympathise 1 drf noun.person:sympathiser drf noun.relation:sympathy
+w: sympathize 1 drf noun.person:sympathizer drf noun.relation:sympathy
+d: share the feelings of; understand the sentiments of
+fs: 2 22
+hypo: experience
+
+w: tease 1 drf noun.person:tease 1
+d: to arouse hope, desire, or curiosity without satisfying them
+e: The advertisement is intended to tease the customers
+e: She has a way of teasing men with her flirtatious behavior
+fs: 9
+entail: arouse 1
+entail: disappoint
+hypo: control 6
+
+w: tempt 1 drf adjs.all:temptable drf noun.person:tempter
+d: try to seduce
+fs: 9
+hypo: arouse 1
+
+w: terrify drf noun.feeling:terror
+w: terrorise drf noun.act:terrorisation drf noun.feeling:terror
+w: terrorize drf noun.act:terrorization drf noun.feeling:terror
+d: fill with terror; frighten greatly
+fs: 10 9
+hyper: panic 1
+hypo: affright
+
+w: thrill 2 drf noun.act:thrill drf noun.feeling:thrill drf noun.feeling:thrill 2
+w: tickle 1
+w: vibrate 2
+d: feel sudden intense sensation or emotion
+e: he was thrilled by the speed and the roar of the engine
+fs: 10
+hypo: excite
+
+w: titillate drf noun.act:titillation 1
+d: excite pleasurably or erotically
+e: A titillating story appeared in the usually conservative magazine
+fs: 9 10
+entail: delight
+hypo: excite
+
+w: tribulate drf noun.event:tribulation
+d: oppress or trouble greatly
+fs: 10
+hypo: afflict
+
+w: try 1 drf noun.event:trial
+d: give pain or trouble to
+e: I've been sorely tried by these students
+fs: 10 9
+hypo: anguish
+
+w: unman
+d: cause to lose one's nerve
+e: an unmanning experience
+fs: 9 10
+hypo: enervate
+
+w: vex 2 drf noun.cognition:vexation
+w: worry 1 ant reassure drf noun.act:worrying drf noun.cognition:worry
+d: disturb the peace of mind of; afflict with mental agitation or distress
+e: I cannot sleep--my daughter's health is worrying me
+fs: 9 10
+cause: worry
+hyper: verb.cognition:misgive
+hyper: eat
+hyper: nag
+hypo: cark
+vg: worry
+
+w: warm_to
+d: become excited about
+e: He warmed to the idea of a trip to Antarctica
+fs: 8
+hypo: verb.cognition:consider 1
+
+w: wean
+d: detach the affections of
+fs: 9
+hypo: alienate
+
+w: weigh_down ant lighten 1
+w: weigh_on
+d: be oppressive or disheartening to
+fs: 10
+hypo: sadden 1
+
+w: wish drf noun.communication:wish drf noun.feeling:wish drf noun.feeling:wishing
+d: hope for; have a wish
+e: I wish I could go home now
+fs: 28 8
+hyper: desire 2
+hypo: desire
+
+w: wish 1 ant begrudge drf noun.communication:wish drf noun.feeling:wish
+w: wish_well fs 9
+d: feel or express a desire or hope concerning the future or fortune of
+fs: 14
+hypo: desire
+
+w: work 10
+d: gratify and charm, usually in order to influence
+e: the political candidate worked the crowds
+fs: 10 9
+hypo: becharm
+vg: verb.perception:work 10
+
+w: worry drf noun.attribute:worriment drf noun.cognition:worry drf noun.feeling:worry drf noun.person:worrier
+d: be worried, concerned, anxious, troubled, or uneasy
+e: I worry about my job
+fs: 26 22 2
+hyper: fear 3
+hyper: fret
+hyper: fret 3
+hyper: obsess 3
+vg: vex 2
+
+w: worship 1 drf noun.person:worshiper drf noun.person:worshipper
+d: show devotion to (a deity)
+e: Many Hindus worship Shiva
+fs: 8
+hypo: fear 1
+mt: noun.cognition:faith
+
+w: wow
+d: impress greatly
+e: The speaker wowed the audience
+fs: 10 9
+hypo: impress
+
+w: yearn 10
+d: have affection for; feel tenderness for
+fs: 9
+hypo: care_for 8
+
+w: zap
+d: strike suddenly and with force
+e: This show zaps the viewers with some shocking scenes
+fs: 10 9
+hypo: affect
+

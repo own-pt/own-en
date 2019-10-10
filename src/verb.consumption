@@ -1,0 +1,1971 @@
+verb.consumption
+
+w: ablactate
+w: wean drf noun.act:weaning
+d: gradually deprive (infants and young mammals) of mother's milk
+e: she weaned her baby when he was 3 months old and started him on powdered milk
+e: The kitten was weaned and fed by its owner with a bottle
+fs: 9
+entail: breastfeed
+hypo: verb.possession:deprive
+
+w: abstain ant consume drf adjs.all:abstinent drf noun.attribute:abstention drf noun.attribute:abstinence drf noun.person:abstainer drf noun.person:abstainer 1 drf noun.person:abstinent
+w: desist
+w: refrain
+d: choose not to consume
+e: I abstain from alcohol
+fs: 33 22 2
+hyper: avoid
+hyper: fast
+hyper: fast 1
+hyper: teetotal
+
+w: accommodate drf noun.act:accommodation
+d: provide with something desired or needed
+e: Can you accommodate me with a rental car?
+fs: 17
+hypo: cater
+
+w: addict drf adj.all:addictive drf noun.act:addiction drf noun.person:addict drf noun.person:addict 1 drf noun.state:addiction
+w: hook drf noun.cognition:hook
+d: to cause (someone or oneself) to become dependent (on something, especially a narcotic drug)
+fs: 20
+entail: habituate
+hypo: verb.change:accustom
+
+w: address drf adjs.all:addressable
+d: address or apply oneself to something, direct one's efforts towards something, such as a question
+fs: 20 15
+hypo: apply
+
+w: afford
+d: be able to spare or give up
+e: I can't afford to spend two hours with this person
+fs: 8
+hypo: verb.possession:drop
+
+w: alcoholize
+d: subject to the influence of alcohol
+e: After we finished dinner, we were thoroughly alcoholized
+fs: 9
+hypo: regale
+
+w: aliment drf adj.pert:alimentative drf noun.act:alimentation drf noun.food:aliment drf noun.food:alimentation
+w: nourish 1 drf adjs.all:nutrient drf noun.act:nourishment
+w: nutrify drf noun.Tops:nutrient drf noun.process:nutrition
+d: give nourishment to
+fs: 11
+hypo: feed 1
+
+w: allay
+w: assuage
+w: quench
+w: slake
+d: satisfy (thirst)
+e: The cold water quenched his thirst
+fs: 11 8
+entail: consume
+hypo: conform_to
+
+w: answer
+d: be satisfactory for; meet the requirements of or serve the purpose of
+e: This may answer her needs
+fs: 11
+hypo: conform_to
+
+w: appease
+w: quell
+w: stay
+d: overcome or allay
+e: quell my hunger
+fs: 1 10
+hypo: conform_to
+
+w: apply drf adjs.all:applicative drf adjs.all:applicatory drf noun.act:application 2
+w: employ drf noun.act:employment 1
+w: use 1 drf adjs.all:usable drf adjs.all:usable 1 drf adjs.all:usable 2 drf adjs.all:useable drf adjs.all:useable 1 drf adjs.all:useable 2 drf noun.act:usage drf noun.act:use drf noun.person:user
+w: utilise drf noun.act:utilisation drf noun.attribute:utility
+w: utilize drf adjs.all:utilizable drf noun.act:utilization drf noun.attribute:utility drf noun.person:utilizer
+d: put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+e: use your head!
+e: we only use Spanish at home
+e: I can't use this tool
+e: Apply a magnetic field here
+e: This thinking was applied to many projects
+e: How do you utilize this tool?
+e: I apply this rule to get good results
+e: use the plastic bags to store the food
+e: He doesn't know how to use a computer
+fs: 9 15 11 8 21 24
+cause: verb.stative:apply
+hyper: verb.communication:commit 1
+hyper: verb.competition:play 12
+hyper: verb.competition:play 13
+hyper: address
+hyper: assign
+hyper: avail
+hyper: cannibalise 1
+hyper: enjoy 1
+hyper: exercise
+hyper: exploit
+hyper: exploit 1
+hyper: extend
+hyper: misapply
+hyper: overdrive
+hyper: ply 1
+hyper: pull_out_all_the_stops
+hyper: recycle
+hyper: waste 5
+hyper: verb.motion:take 2
+hyper: verb.possession:share 2
+hyper: verb.social:fall_back
+hyper: verb.social:implement 1
+hyper: verb.social:put_to_work
+vg: verb.social:apply 1
+
+w: assign
+w: put
+d: attribute or give
+e: She put too much emphasis on her the last statement
+e: He put all his efforts into this job
+e: The teacher put an interesting twist to the interpretation of the story
+fs: 21
+hyper: repose
+hypo: apply
+
+w: avail
+d: use to one's advantage
+e: He availed himself of the available resources
+fs: 20
+hypo: apply
+
+w: avail 4 drf adj.all:available
+w: help 4
+d: take or use
+e: She helped herself to some of the office supplies
+fs: 8
+hypo: exploit
+
+w: avoid
+w: keep_off
+d: refrain from certain foods or beverages
+e: I keep off drugs
+e: During Ramadan, Muslims avoid tobacco during the day
+fs: 8
+hypo: abstain
+
+w: banquet
+w: feast drf noun.act:feasting drf noun.event:feast 1 drf noun.food:feast drf noun.group:feast
+w: junket
+d: partake in a feast or banquet
+fs: 2 22
+hyper: wine_and_dine
+hypo: eat 1
+vg: banquet 1
+
+w: banquet 1 drf noun.food:banquet drf noun.group:banquet
+w: feast 1 drf noun.event:feast 1 drf noun.food:feast drf noun.group:feast
+w: junket 1
+d: provide a feast or banquet for
+fs: 9
+hypo: host
+vg: banquet
+
+w: bar_hop
+w: pub-crawl
+d: go from one pub to the next and get progressively more drunk
+e: he pub-crawled around Birmingham
+fs: 2
+hypo: booze
+
+w: base drf noun.artifact:base 7 drf noun.substance:base
+w: free-base
+d: use (purified cocaine) by burning it and inhaling the fumes
+fs: 8 2
+hypo: do_drugs
+
+w: be_full ant starve
+d: be sated, have enough to eat
+e: I'm full--don't give me any more beans, please
+fs: 2
+
+w: befuddle
+w: fuddle 1
+d: make stupid with alcohol
+fs: 10
+hypo: inebriate 1
+
+w: belt_down
+w: bolt_down 1
+w: down
+w: drink_down
+w: kill
+w: pop 2
+w: pour_down
+w: toss_off
+d: drink down entirely
+e: He downed three martinis before dinner
+e: She killed a bottle of brandy that night
+e: They popped a few beer after work
+fs: 8
+hypo: drink
+
+w: bib
+w: tipple drf noun.food:tipple drf noun.person:tippler
+d: drink moderately but regularly
+e: We tippled the cognac
+fs: 2
+hypo: booze
+
+w: binge drf noun.act:binge
+w: englut
+w: engorge drf noun.act:engorgement
+w: glut
+w: gorge drf noun.person:gorger
+w: gormandise
+w: gormandize
+w: gourmandize drf noun.person:gourmand drf noun.person:gourmandizer
+w: ingurgitate
+w: overeat drf noun.act:overeating
+w: overgorge
+w: overindulge drf noun.act:overindulgence
+w: pig_out
+w: satiate 1
+w: scarf_out
+w: stuff
+d: overeat or eat immodestly; make a pig of oneself
+e: She stuffed herself at the dinner
+e: The kids binged on ice cream
+fs: 22
+hypo: eat 1
+
+w: board drf noun.artifact:board 1 drf noun.food:board
+d: provide food and lodging (for)
+e: The old lady is boarding three men
+fs: 9
+entail: feed 1
+hyper: live_in
+hypo: cater
+vg: board 1
+
+w: board 1 drf noun.artifact:board 1 drf noun.food:board drf noun.person:boarder drf noun.person:boarder 1
+d: lodge and take meals (at)
+fs: 22
+entail: consume
+hypo: verb.stative:live 6
+vg: board
+
+w: bolt
+w: gobble drf noun.person:gobbler see gobble_up
+d: eat hastily without proper chewing
+e: Don't bolt your food!
+fs: 8
+hypo: eat
+
+w: bolt 1
+d: swallow hastily
+fs: 8
+hypo: get_down
+
+w: bolt_down
+w: garbage_down
+w: gobble_up
+w: shovel_in
+d: eat a large amount of food quickly
+e: The children gobbled down most of the birthday cake
+fs: 8
+hypo: eat
+
+w: booze drf noun.food:booze drf noun.person:boozer
+w: drink 1 drf noun.act:drink drf noun.act:drinking 1 drf noun.person:drinker
+w: fuddle
+w: hit_the_bottle
+d: consume alcohol
+e: We were up drinking all night
+fs: 2
+hyper: bar_hop
+hyper: bib
+hyper: carry
+hyper: claret
+hyper: hit_it_up
+hyper: port
+hyper: tank
+hyper: wine
+hypo: consume
+vg: drink 2
+
+w: bottlefeed ant breastfeed
+d: feed (infants) with a bottle
+fs: 9
+hypo: feed 1
+
+w: break_bread
+d: have a meal, usually with company
+e: The early Christian disciples broke bread together
+fs: 2
+hypo: eat 1
+
+w: breakfast drf noun.food:breakfast
+d: eat an early morning meal
+e: We breakfast at seven
+fs: 2
+hypo: eat 1
+
+w: breakfast 1 drf noun.food:breakfast
+d: provide breakfast for
+fs: 9
+hypo: feed 1
+
+w: breastfeed ant bottlefeed
+w: give_suck
+w: lactate drf noun.act:lactation drf noun.process:lactation drf noun.time:lactation
+w: nurse drf noun.act:nursing 1 drf noun.artifact:nursery 1 drf noun.person:nurse 1
+w: suck 2 drf noun.act:suck drf noun.animal:sucker 2
+w: suckle
+w: wet-nurse
+d: give suck to
+e: The wetnurse suckled the infant
+e: You cannot nurse your baby in public in some places
+fs: 9 2
+hypo: feed 1
+vg: suck 4
+
+w: browse drf noun.act:browse
+w: graze 2 drf noun.act:graze
+d: eat lightly, try different dishes
+e: There was so much food at the party that we quickly got sated just by browsing
+fs: 22 2
+hypo: nosh
+
+w: brunch drf noun.food:brunch
+d: eat a meal in the late morning
+e: We brunch in Sundays
+fs: 2
+hypo: eat 1
+
+w: burn
+w: burn_off
+w: burn_up
+d: use up (energy)
+e: burn off calories through vigorous exercise
+fs: 8 11
+hypo: consume 1
+
+w: cannibalise drf noun.person:cannibal
+w: cannibalize drf noun.person:cannibal
+d: eat human flesh
+fs: 2
+hypo: consume
+
+w: cannibalise 1
+w: cannibalize 1
+d: use parts of something to repair something else
+fs: 8
+entail: verb.creation:break_apart
+hypo: apply
+
+w: carry
+w: hold
+d: drink alcohol without showing ill effects
+e: He can hold his liquor
+e: he had drunk more than he could carry
+fs: 8
+hypo: booze
+
+w: carry 1
+d: be able to feed
+e: This land will carry ten cows to the acre
+fs: 11
+hypo: nourish
+mt: noun.animal:farm_animal
+vg: verb.creation:carry 8
+
+w: cater fs 27 drf noun.person:caterer
+w: ply fs 17
+w: provide fs 17 drf noun.act:provision 1 drf noun.person:provider 1
+w: supply fs 17 drf noun.act:supply drf noun.quantity:supply
+d: give what is desired or needed, especially support, food or sustenance
+e: The hostess provided lunch for all the guests
+fs: 21 8
+hyper: verb.competition:staff
+hyper: accommodate
+hyper: board
+hyper: cater 1
+hyper: conform_to
+hyper: dish
+hyper: drench
+hyper: feed 1
+hyper: feed 2
+hyper: feed 4
+hyper: fix_up
+hyper: gratify
+hyper: gutter
+hyper: help
+hyper: horse
+hyper: nourish
+hyper: pander
+hyper: power
+hyper: regale
+hyper: shower 12
+hyper: underlay
+hypo: verb.possession:give
+
+w: cater 1 drf noun.person:caterer
+d: supply food ready to eat; for parties and banquets
+fs: 8
+hypo: cater
+
+w: chain-smoke drf noun.person:chain-smoker
+d: smoke one cigarette after another; light one cigarette from the preceding one
+fs: 2
+hypo: smoke
+
+w: champ
+w: chomp drf noun.act:chomp drf noun.act:chomping
+d: chew noisily
+e: The boy chomped his sandwich
+fs: 8 2
+hypo: chew
+
+w: champ 1
+d: chafe at the bit, like horses
+fs: 1
+hypo: chew
+
+w: chaw drf noun.food:chaw
+d: chew without swallowing
+e: chaw tobacco
+fs: 8
+hypo: chew
+
+w: chew drf noun.act:chew drf noun.act:chewing drf noun.food:chew drf noun.person:chewer
+w: jaw drf noun.body:jaw drf noun.body:jaw 1
+w: manducate
+w: masticate drf noun.act:mastication
+d: chew (food); to bite and grind with the teeth
+e: He jawed his bubble gum
+e: Chew your food and don't swallow it!
+e: The cows were masticating the grass
+fs: 8 2
+hyper: champ
+hyper: champ 1
+hyper: chaw
+hyper: crunch
+hyper: gum
+hyper: verb.contact:gnaw
+hypo: verb.contact:grate
+
+w: claret drf noun.food:claret
+d: drink claret
+e: They were clareting until well past midnight
+fs: 2
+hypo: booze
+
+w: cloy
+w: pall
+d: cause surfeit through excess though initially pleasing
+e: Too much spicy food cloyed his appetite
+fs: 10 11 1
+hypo: fill
+
+w: commercialize
+d: exploit for maximal profit, usually by sacrificing quality
+e: The hotel owners are commercializing the beaches
+fs: 8
+hypo: exploit 1
+
+w: conform_to
+w: fill 2 drf noun.quantity:fill
+w: fit
+w: fulfil drf noun.feeling:fulfilment
+w: fulfill drf noun.feeling:fulfillment
+w: meet
+w: satisfy 1 drf adj.all:satisfactory drf adjs.all:satisfactory drf noun.act:satisfaction drf noun.object:satisfier
+d: fill, satisfy or meet a want or need or condtion ro restriction
+e: does this paper meet the requirements for the degree?
+e: This job doesn't match my dreams
+e: meet a need
+fs: 8
+hyper: allay
+hyper: answer
+hyper: appease
+hyper: content
+hyper: feed_on
+hyper: verb.stative:accommodate
+hyper: verb.stative:fill_the_bill
+hyper: verb.stative:fulfil
+hypo: cater
+
+w: consume ant abstain drf adj.all:consumptive drf noun.act:consumption 1 drf noun.person:consumer
+w: have
+w: ingest drf noun.act:ingestion
+w: take see take_up
+w: take_in
+d: serve oneself to, or consume regularly
+e: Have another bowl of chicken soup!
+e: I don't take sugar in my coffee
+fs: 8
+hyper: booze
+hyper: cannibalise
+hyper: drink
+hyper: eat
+hyper: eat 1
+hyper: eat 2
+hyper: fill
+hyper: habituate
+hyper: partake 13
+hyper: sample
+hyper: sop_up
+hyper: sup 2
+
+w: consume 1 drf adj.all:consumptive drf adjs.all:consumable
+w: deplete drf noun.act:depletion drf noun.state:depletion
+w: eat 13 fs 22
+w: eat_up 3
+w: exhaust drf noun.act:exhaustion
+w: run_through
+w: use_up
+w: wipe_out
+d: use up (resources or materials)
+e: this car consumes a lot of gas
+e: We exhausted our savings
+e: They run through 20 bottles of wine a week
+fs: 11 8
+hyper: verb.change:run_out 3
+hyper: burn
+hyper: drain
+hyper: indulge 12
+hyper: verb.possession:exhaust
+hyper: verb.possession:spend 1
+hypo: verb.possession:drop
+vg: verb.possession:occupy 8
+
+w: consume 2
+w: squander drf noun.act:squandering drf noun.person:squanderer
+w: ware
+w: waste fs 2 drf noun.act:waste drf noun.person:waster
+d: spend extravagantly
+e: waste not, want not
+fs: 8
+hyper: dissipate
+hyper: drink 2
+hyper: luxuriate
+hyper: verb.possession:fling 1
+hyper: verb.possession:lavish
+hyper: verb.possession:overspend
+hypo: verb.possession:drop
+
+w: consume 3
+w: demolish
+w: devour 1 drf noun.person:devourer
+w: down 1
+w: go_through
+d: eat up completely, as with great appetite
+e: Some people can down a pound of meat in the course of one meal
+e: The teenagers demolished four pizzas among them
+fs: 10
+hypo: eat_up
+
+w: content drf noun.feeling:contentment drf noun.state:content
+d: satisfy in a limited way
+e: He contented himself with one glass of beer per day
+fs: 20
+hypo: conform_to
+
+w: corn drf noun.plant:corn drf noun.plant:corn 2
+d: feed (cattle) with corn
+fs: 8
+hypo: feed 1
+
+w: crave fs 8 drf noun.feeling:craving
+w: hunger 1 drf noun.attribute:hunger
+w: lust drf noun.act:lust drf noun.feeling:lust
+w: starve 1
+w: thirst drf noun.attribute:thirst
+d: have a craving, appetite, or great desire for
+fs: 22
+hypo: verb.emotion:desire
+
+w: crunch
+w: munch drf noun.act:munch drf noun.person:muncher
+d: chew noisily
+e: The children crunched the celery sticks
+fs: 8
+hypo: chew
+
+w: cry
+d: demand immediate action
+e: This situation is crying for attention
+fs: 4
+hypo: need
+
+w: degust drf noun.act:degustation
+d: taste with relish
+e: degust this wonderful soup
+fs: 8
+hypo: sample
+
+w: delight drf noun.cognition:delight drf noun.feeling:delight
+w: enjoy fs 8 drf noun.act:enjoyment drf noun.feeling:enjoyment drf noun.person:enjoyer
+w: revel
+d: take delight in
+e: he delights in his granddaughter
+fs: 22
+entail: expend
+hyper: have_a_ball
+hyper: live_it_up
+hyper: wallow
+
+w: devour
+w: guttle
+w: pig drf noun.person:pig
+w: raven
+d: eat greedily
+e: he devoured three sandwiches
+fs: 8
+hypo: eat
+
+w: diet drf noun.act:diet drf noun.act:dieting drf noun.food:diet drf noun.food:dietary drf noun.person:dieter
+d: eat sparingly, for health reasons or to lose weight
+fs: 2
+hypo: fast
+
+w: diet 1 drf noun.act:diet drf noun.act:dieting drf noun.food:diet drf noun.food:dietary drf noun.person:dieter
+d: follow a regimen or a diet, as for health reasons
+e: He has high blood pressure and must stick to a low-salt diet
+fs: 2
+hypo: fast 1
+
+w: dig_in
+w: pitch_in
+d: eat heartily
+e: The food was placed on the table and the children pitched in
+fs: 2
+hypo: eat 1
+
+w: digest drf adj.all:digestible drf adj.pert:digestive drf noun.artifact:digester drf noun.process:digestion
+d: convert food into absorbable substances
+e: I cannot digest milk products
+fs: 8 2
+entail: consume
+hyper: predigest
+hyper: stomach
+hypo: verb.change:process
+vg: verb.change:digest 2
+
+w: dine 1 drf noun.act:dining drf noun.artifact:diner drf noun.artifact:diner 1 drf noun.food:dinner drf noun.group:dinner drf noun.person:diner see dine_in see dine_out
+d: have supper; eat dinner
+e: We often dine with friends in this restaurant
+fs: 2
+hypo: eat 1
+
+w: dine 2 drf noun.artifact:diner drf noun.artifact:diner 1 drf noun.food:dinner drf noun.group:dinner
+d: give dinner to; host for dinner
+e: I'm wining and dining my friends
+fs: 9
+hypo: feed 1
+
+w: dine_in
+w: eat_in ant eat_out
+d: eat at home
+fs: 2
+hypo: eat 1
+
+w: dine_out
+w: eat_out ant eat_in
+d: eat at a restaurant or at somebody else's home
+fs: 2
+hypo: eat 1
+
+w: dip drf noun.artifact:dipper drf noun.event:dip drf noun.food:dip
+w: dunk
+d: dip into a liquid while eating
+e: She dunked the piece of bread in the sauce
+fs: 21
+hypo: verb.contact:immerse
+
+w: dish drf noun.artifact:dish drf noun.food:dish drf noun.quantity:dish
+w: dish_out
+w: dish_up
+w: serve
+w: serve_up
+d: provide (usually but not necessarily food)
+e: We serve meals for the homeless
+e: She dished out the soup at 8 P.M.
+e: The entertainers served up a lively show
+fs: 8
+hyper: plank
+hypo: cater
+vg: help
+
+w: dissipate drf noun.act:dissipation 2
+w: fool
+w: fool_away
+w: fritter
+w: fritter_away
+w: frivol_away
+w: shoot
+d: spend frivolously and unwisely
+e: Fritter away one's inheritance
+fs: 8
+entail: consume 1
+hypo: consume 2
+
+w: do_drugs
+w: drug drf noun.artifact:drug
+d: use recreational drugs
+fs: 9
+cause: get_off
+hyper: base
+hyper: dope
+hyper: drop
+hyper: inject 1
+hyper: snort 1
+hypo: habituate
+
+w: dope drf noun.artifact:dope
+d: take drugs to improve one's athletic performance
+fs: 2
+hypo: do_drugs
+
+w: drag drf noun.act:drag 2
+w: draw 1
+w: puff drf noun.act:puff
+d: suck in or take (air)
+e: draw a deep breath
+e: draw on a cigarette
+fs: 22 2
+entail: smoke
+hypo: verb.body:breathe_in
+
+w: drain drf noun.act:drain 1
+d: deplete of resources
+e: The exercise class drains me of energy
+fs: 8 10 11
+hypo: consume 1
+
+w: drain_the_cup
+w: drink_up
+d: drink to the last drop
+e: drink up--there's more wine coming
+fs: 2
+hypo: drink
+
+w: drench
+d: force to drink
+fs: 8
+cause: drink
+hypo: cater
+mt: noun.Tops:animal
+
+w: drink drf noun.act:drink 1 drf noun.act:drinking drf noun.food:drink drf noun.food:drink 4 drf noun.person:drinker 1 see drink_down see drink_up
+w: imbibe drf noun.act:imbibing drf noun.act:imbibition drf noun.person:imbiber
+d: take in liquids
+e: The patient must drink several liters each day
+e: The children like to drink soda
+fs: 8
+hyper: belt_down
+hyper: drain_the_cup
+hyper: guggle
+hyper: gulp 1
+hyper: guzzle
+hyper: lap
+hyper: sip
+hyper: suck 4
+hyper: swill
+hypo: consume
+
+w: drink 2 drf noun.act:drink drf noun.act:drinking 1 drf noun.person:drinker drf noun.person:drunkard
+w: tope drf noun.person:toper
+d: drink excessive amounts of alcohol; be an alcoholic
+e: The husband drinks and beats his wife
+fs: 2
+hypo: consume 2
+vg: booze
+
+w: drink 12 fs 22
+w: pledge drf noun.food:pledge
+w: salute drf noun.communication:salutation 1 drf noun.communication:salute
+w: toast drf noun.food:toast 1
+w: wassail drf noun.food:wassail drf noun.person:wassailer 1
+d: propose a toast to
+e: Let us toast the birthday girl!
+e: Let's drink to the New Year
+fs: 8 9
+entail: booze
+hyper: give 10
+hypo: verb.social:honor
+
+w: drive 7 drf noun.artifact:drive 2 drf noun.communication:driver
+d: cause to function by supplying the force or power for or by controlling
+e: The amplifier drives the tube
+e: steam drives the engines
+e: this device drives the disks for the computer
+fs: 11
+hypo: power
+
+w: drop
+d: take (a drug, especially LSD), by mouth
+e: She dropped acid when she was a teenager
+fs: 8
+hypo: do_drugs
+
+w: dry-nurse
+d: take care of an infant without breastfeeding it
+fs: 9
+hypo: verb.social:care 13
+
+w: eat drf noun.act:eating drf noun.food:eater drf noun.person:eater
+d: take in solid food
+e: She was eating a banana
+e: What did you eat for dinner last night?
+fs: 8
+entail: chew
+entail: get_down
+hyper: bolt
+hyper: bolt_down
+hyper: devour
+hyper: eat_up
+hyper: fare
+hyper: fill 1
+hyper: fress
+hyper: nibble 1
+hyper: peck
+hyper: peck 1
+hyper: ruminate
+hyper: slurp
+hyper: wash_down
+hyper: wolf
+hypo: consume
+hypo: eat 1
+vg: eat 1
+vg: eat 2
+
+w: eat 1 drf noun.act:eating drf noun.person:eater see eat_in see eat_out see eat_up
+d: eat a meal; take a meal
+e: We did not eat until 10 P.M. because there were so many phone calls
+e: I didn't eat yet, so I gladly accept your invitation
+fs: 2
+hyper: banquet
+hyper: binge
+hyper: break_bread
+hyper: breakfast
+hyper: brunch
+hyper: dig_in
+hyper: dine 1
+hyper: dine_in
+hyper: dine_out
+hyper: eat
+hyper: lunch
+hyper: mess
+hyper: nosh
+hyper: picnic
+hyper: take_away
+hyper: victual
+hypo: consume
+vg: eat
+
+w: eat 2 drf noun.act:eating
+w: feed drf noun.act:feeding drf noun.food:feed drf noun.person:feeder
+d: take in food; used of animals only
+e: This dog doesn't eat certain kinds of meat
+e: What do whales eat?
+fs: 1 4
+hyper: forage
+hyper: raven 1
+hyper: suckle 1
+hyper: verb.contact:browse 1
+hypo: consume
+vg: eat
+
+w: eat_up fs 2
+w: finish
+w: polish_off
+d: finish eating all the food on one's plate or on the table
+e: She polished off the remaining potatoes
+fs: 8
+hyper: consume 3
+hyper: put_away
+hypo: eat
+
+w: enjoy 1 drf noun.attribute:enjoyment
+d: have benefit from
+e: enjoy privileges
+fs: 8
+hypo: apply
+
+w: exercise drf noun.act:exercise 3
+w: exert
+d: put to use
+e: exert one's power or influence
+fs: 11 8
+hypo: apply
+
+w: expend drf noun.act:expenditure 1
+w: use drf noun.process:use see use_up
+d: use up, consume fully
+e: The legislature expended its time on school questions
+fs: 8 11
+entail: consume 1
+hyper: verb.change:abuse
+hyper: verb.change:abuse 2
+hyper: spare
+hyper: verb.possession:blow 2
+hyper: verb.possession:occupy 8
+
+w: exploit drf adjs.all:exploitative drf adjs.all:exploitatory drf adjs.all:exploitive drf noun.act:exploitation drf noun.act:exploitation 1 drf noun.person:exploiter
+w: work 10
+d: use or manipulate to one's advantage
+e: He exploit the new taxation system
+e: She knows how to work the system
+e: he works his parents for sympathy
+fs: 8 9
+hyper: avail 4
+hyper: feed 9
+hyper: make_hay
+hyper: play 13
+hyper: verb.social:use 14
+hypo: apply
+vg: verb.perception:work 10
+
+w: exploit 1 drf noun.act:exploitation
+w: tap
+d: draw from; make good use of
+e: we must exploit the resources we are given wisely
+fs: 8
+hyper: verb.change:maximise 1
+hyper: commercialize
+hyper: harness
+hyper: milk
+hyper: mine
+hyper: overexploit
+hyper: quarry
+hypo: apply
+
+w: extend
+w: strain drf noun.act:strain drf noun.act:strain 2 drf noun.act:straining 1
+d: use to the utmost; exert vigorously or to full capacity
+e: He really extended himself when he climbed Kilimanjaro
+e: Don't strain your mind too much
+fs: 11 8
+hyper: overextend
+hyper: task
+hypo: apply
+
+w: famish
+w: hunger drf noun.state:hunger
+w: starve ant be_full drf noun.state:starvation
+d: be hungry; go without food
+e: Let's eat--I'm starving!
+fs: 22 2
+hypo: verb.body:hurt 2
+
+w: famish 2
+w: starve 2
+d: die of food deprivation
+e: The political prisoners starved to death
+e: Many famished in the countryside during the drought
+fs: 1 2
+hypo: verb.change:buy_the_farm
+
+w: famish 3
+w: starve 3 ant feed 1 drf noun.act:starvation drf noun.act:starving
+d: deprive of food
+e: They starved the prisoners
+fs: 9
+cause: famish
+hypo: verb.possession:deprive
+vg: starve 4
+
+w: fare drf noun.food:fare
+d: eat well
+fs: 2
+hypo: eat
+
+w: fast drf noun.act:fast drf noun.act:fasting
+d: abstain from eating
+e: Before the medical exam, you must fast
+fs: 2
+hyper: diet
+hypo: abstain
+
+w: fast 1 drf noun.act:fast drf noun.act:fasting
+d: abstain from certain foods, as for religious or medical reasons
+e: Catholics sometimes fast during Lent
+fs: 2
+hyper: diet 1
+hypo: abstain
+
+w: fat drf noun.attribute:fat drf noun.body:fat
+w: fatten
+w: fatten_out
+w: fatten_up
+w: fill_out
+w: flesh_out
+w: plump
+w: plump_out
+d: make fat or plump
+e: We will plump out that poor starving child
+fs: 8 9
+entail: feed 1
+hypo: verb.change:alter 1
+
+w: feast 2 drf noun.event:feast
+w: feed 5
+d: gratify
+e: feed one's eyes on a gorgeous view
+fs: 9 21
+hypo: regale
+
+w: feed 1 ant starve 3 drf noun.act:feeding 1 drf noun.artifact:feeder
+w: give fs 14 15 drf noun.act:giving
+d: give food to
+e: Feed the starving children in India
+e: don't give the child this tough meat
+fs: 9
+cause: eat
+hyper: aliment
+hyper: bottlefeed
+hyper: breakfast 1
+hyper: breastfeed
+hyper: corn
+hyper: dine 2
+hyper: fodder
+hyper: force-feed
+hyper: inject
+hyper: lunch 1
+hyper: malnourish
+hyper: overfeed
+hyper: range
+hyper: regurgitate
+hyper: scavenge
+hyper: slop
+hyper: spoonfeed
+hyper: verb.contact:crop 10
+hypo: cater
+
+w: feed 2 drf noun.food:feed
+d: serve as food for; be the food for
+e: This dish feeds six
+fs: 10 11
+hypo: cater
+
+w: feed 3 drf noun.object:feeder
+d: feed into; supply
+e: Her success feeds her vanity
+fs: 11
+hypo: verb.possession:furnish
+
+w: feed 4 drf noun.act:feeding 1
+d: provide as food
+e: Feed the guests the nuts
+fs: 14 15
+hypo: cater
+
+w: feed 9
+w: prey 1 drf noun.person:prey
+d: profit from in an exploitatory manner
+e: He feeds on her insecurity
+fs: 8 9 10 11
+hypo: exploit
+
+w: feed_on
+w: feed_upon
+d: be sustained by
+e: He fed on the great ideas of her mentor
+fs: 8
+hypo: conform_to
+
+w: fill drf noun.quantity:fill
+w: replete drf noun.act:repletion
+w: sate
+w: satiate drf noun.act:satiation
+d: fill to satisfaction
+e: I am sated
+fs: 1 10 9
+hyper: cloy
+hypo: consume
+
+w: fill 1
+w: fill_up fs 22
+d: eat until one is sated
+e: He filled up on turkey
+fs: 9
+hypo: eat
+
+w: fire_up
+w: light fs 8 drf noun.artifact:light 1
+w: light_up
+d: begin to smoke
+e: After the meal, some of the diners lit up
+fs: 2
+entail: smoke
+hypo: verb.weather:ignite
+
+w: fix_up
+d: find (something or someone) for
+e: I'll fix you up with a nice girl
+fs: 17
+hypo: cater
+
+w: fodder drf noun.food:fodder
+d: give fodder (to domesticated animals)
+fs: 8
+hypo: feed 1
+
+w: forage drf noun.food:forage
+d: wander and feed
+e: The animals forage in the woods
+fs: 1 4
+hyper: predate
+hypo: eat 2
+
+w: force-feed drf noun.act:forced_feeding
+d: feed someone who will not or cannot eat
+fs: 9
+hypo: feed 1
+
+w: fress
+w: gluttonise
+w: gluttonize drf noun.person:glutton
+d: eat a lot and without restraint
+fs: 2
+hypo: eat
+
+w: get_down
+w: swallow drf noun.act:swallow
+d: pass through the esophagus as part of eating or drinking
+e: Swallow the raw fish--it won't kill you!
+fs: 8
+hyper: bolt 1
+
+w: get_off
+w: trip drf noun.state:trip
+w: trip_out
+w: turn_on
+d: get high, stoned, or drugged
+e: He trips every weekend
+fs: 13 2
+
+w: give 10
+d: propose
+e: He gave the first of many toasts at the birthday party
+fs: 8
+hypo: drink 12
+
+w: give_up
+w: kick
+d: stop consuming
+e: kick a habit
+e: give up alcohol
+fs: 33 8
+hypo: verb.social:dispense_with
+
+w: go
+w: run_low
+w: run_short
+d: to be spent or finished
+e: The money had gone after a few days
+e: Gas is running low at the gas stations in the Midwest
+fs: 1
+hypo: verb.stative:cease 13
+vg: go 9
+
+w: go 9
+d: be spent
+e: All my money went for food and rent
+fs: 4
+vg: go
+
+w: go_down
+d: be ingested
+e: This wine sure goes down well
+e: The food wouldn't go down
+fs: 6 1
+
+w: go_through 1
+w: run_through 1 drf noun.act:run-through
+w: work_through
+d: apply thoroughly; think through
+e: We worked through an example
+fs: 8
+hyper: verb.social:whip_through
+hypo: verb.social:work 2
+
+w: grass drf noun.plant:grass
+d: feed with grass
+fs: 8
+hypo: verb.contact:crop 10
+
+w: gratify drf noun.act:gratification
+w: indulge drf noun.act:indulging drf noun.attribute:indulgence 2
+w: pander 13 drf noun.person:panderer 1
+d: yield (to); give satisfaction to
+fs: 8 11 10 9
+hyper: verb.communication:humor
+hyper: sow_one's_oats
+hyper: spree
+hypo: cater
+
+w: guggle
+w: gurgle
+d: drink from a flask with a gurgling sound
+fs: 8 2
+hypo: drink
+
+w: gulp 1 drf noun.act:gulp drf noun.act:gulp 1 drf noun.act:gulping drf noun.person:gulper
+w: quaff drf noun.food:quaff drf noun.person:quaffer
+w: swig drf noun.act:swig
+d: to swallow hurriedly or greedily or in one draught
+e: The men gulped down their beers
+fs: 8
+entail: get_down
+hypo: drink
+
+w: gum drf noun.act:gumming drf noun.body:gum
+w: mumble drf noun.act:mumbling
+d: grind with the gums; chew without teeth and with great difficulty
+e: the old man had no teeth left and mumbled his food
+fs: 8
+hypo: chew
+
+w: gutter drf noun.artifact:gutter
+d: provide with gutters
+e: gutter the buildings
+fs: 8
+hypo: cater
+
+w: guzzle drf noun.act:guzzling
+d: drink greedily or as if with great thirst
+e: The boys guzzled the cheap vodka
+fs: 8
+hypo: drink
+
+w: habituate drf noun.act:habit 2 drf noun.cognition:habit
+w: use 2 drf noun.act:use drf noun.person:user 2
+d: take or consume (regularly or habitually)
+e: She uses drugs rarely
+fs: 8
+hyper: do_drugs
+hyper: smoke
+hypo: consume
+
+w: harness
+d: exploit the power of
+e: harness natural forces and resources
+fs: 8
+hypo: exploit 1
+
+w: have_a_ball
+w: have_a_good_time
+d: enjoy oneself greatly
+e: We had a ball at the party and didn't come home until 2 AM
+fs: 2
+hypo: delight
+
+w: help drf noun.food:helping
+w: serve 1 drf noun.artifact:server drf noun.food:serving drf noun.person:server
+d: help to some food; help with food or drink
+e: I served him three times, and after that he helped himself
+fs: 9
+hypo: cater
+vg: dish
+
+w: hit_it_up
+w: inebriate drf noun.person:inebriate drf noun.state:inebriation drf noun.state:inebriation 1
+w: soak drf noun.person:soaker
+w: souse drf noun.person:souse
+d: become drunk or drink excessively
+fs: 2
+hypo: booze
+
+w: horse drf noun.animal:horse
+d: provide with a horse or horses
+fs: 9 8
+hyper: remount
+hypo: cater
+
+w: host drf noun.person:host drf noun.person:host 1 drf noun.person:host 2
+d: be the host of or for
+e: We hosted 4 couples last night
+fs: 9
+hyper: banquet 1
+hyper: wine_and_dine 1
+hyper: verb.social:compere
+hyper: verb.social:do_the_honors
+hypo: verb.social:entertain
+
+w: huff
+w: snort 2
+d: inhale recreational drugs
+e: The addict was snorting cocaine almost every day
+e: the kids were huffing glue
+fs: 8
+entail: do_drugs
+hypo: verb.body:breathe_in
+
+w: indulge 12 drf noun.attribute:indulgence
+w: luxuriate 14 drf noun.act:luxuriation drf noun.state:luxury
+d: enjoy to excess
+e: She indulges in ice cream
+fs: 8
+hyper: surfeit
+hypo: consume 1
+
+w: inebriate 1 drf noun.food:inebriant drf noun.person:inebriate drf noun.state:inebriation drf noun.state:inebriation 1
+w: intoxicate drf noun.food:intoxicant drf noun.state:intoxication
+w: soak 1
+d: make drunk (with alcoholic drinks)
+fs: 10
+hyper: befuddle
+hypo: verb.body:affect
+
+w: inhale drf adj.pert:inhalant drf noun.act:inhalation drf noun.artifact:inhalation drf noun.substance:inhalant
+d: draw deep into the lungs in by breathing
+e: Clinton smoked marijuana but never inhaled
+fs: 2 8
+hypo: smoke
+
+w: inject
+d: feed intravenously
+fs: 17 8 20
+hypo: feed 1
+
+w: inject 1 drf noun.substance:injectant
+d: take by injection
+e: inject heroin
+fs: 8
+hyper: mainline
+hyper: pop
+hypo: do_drugs
+
+w: keep drf noun.possession:keep
+w: maintain drf noun.act:maintenance 1 drf noun.possession:maintenance
+w: sustain drf noun.possession:sustenance
+d: supply with necessities and support
+e: She alone sustained her family
+e: The money will sustain our good cause
+e: There's little to earn and many to keep
+fs: 11 10 9 8
+hyper: patronage
+hyper: reseed
+hyper: verb.stative:carry 14
+hypo: verb.possession:have
+
+w: lap drf noun.act:lap
+w: lap_up
+w: lick
+d: take up with the tongue
+e: The cat lapped up the milk
+e: the cub licked the milk from its mother's breast
+fs: 11
+hypo: drink
+
+w: live_in ant live_out
+w: sleep_in
+d: live in the house where one works
+e: our babysitter lives in, as it is too far to commute for her
+fs: 2
+hypo: board
+
+w: live_it_up
+d: enjoy oneself
+e: it's your birthday, so let's live it up!
+fs: 22 1
+hypo: delight
+
+w: live_out ant live_in
+w: sleep_out
+d: work in a house where one does not live
+e: our cook lives out; he can easily commute from his home
+fs: 2
+hypo: verb.motion:commute
+
+w: lunch drf noun.act:lunching drf noun.food:lunch drf noun.person:luncher
+d: take the midday meal
+e: At what time are you lunching?
+fs: 2
+hypo: eat 1
+
+w: lunch 1 drf noun.food:lunch
+d: provide a midday meal for
+e: She lunched us well
+fs: 9
+hypo: feed 1
+
+w: luxuriate drf noun.act:luxuriation drf noun.attribute:luxury drf noun.attribute:luxury 1 drf noun.state:luxury
+w: wanton
+d: become extravagant; indulge (oneself) luxuriously
+fs: 2
+hypo: consume 2
+
+w: mainline
+d: inject into the vein
+e: She is mainlining heroin
+fs: 8 2
+hypo: inject 1
+
+w: make_hay
+d: turn to one's advantage
+e: The environmentalist lobby made hay of the nuclear plant accident
+fs: 22
+hypo: exploit
+
+w: malnourish drf noun.state:malnourishment
+w: undernourish drf noun.state:undernourishment
+d: provide with insufficient quality or quantity of nourishment
+e: The stunted growth of these children shows that they are undernourished
+fs: 9
+hypo: feed 1
+
+w: mess drf noun.artifact:mess drf noun.food:mess drf noun.food:mess 1
+d: eat in a mess hall
+fs: 2
+hypo: eat 1
+mt: noun.group:armed_forces
+
+w: metabolise
+w: metabolize drf noun.process:metabolism
+d: produce by metabolism
+fs: 8
+entail: digest
+
+w: milk
+d: exploit as much as possible
+e: I am milking this for all it's worth
+fs: 9 8
+hypo: exploit 1
+
+w: mine drf noun.act:mining drf noun.artifact:mine 1 drf noun.person:miner
+d: get from the earth by excavation
+e: mine ores and metals
+fs: 8
+entail: verb.contact:cut_into 1
+hyper: strip_mine
+hypo: exploit 1
+mt: noun.act:excavation
+
+w: misapply drf noun.act:misapplication 2
+w: misuse drf noun.act:misuse
+d: apply to a wrong thing or person; apply badly or incorrectly
+e: The words are misapplied in this context
+e: You are misapplying the name of this religious group
+fs: 8
+hypo: apply
+
+w: need drf noun.state:need
+w: require drf noun.object:requirement
+w: want drf noun.object:want drf noun.person:wanter drf noun.state:want 1
+d: have need of
+e: This piano wants the attention of a competent tuner
+fs: 11 8
+hyper: cry
+hypo: verb.stative:be 3
+
+w: need 1
+d: have or feel a need for
+e: always needing friends and money
+fs: 8 9
+
+w: nibble 1 drf noun.person:nibbler drf noun.quantity:nibble
+w: pick
+w: piece drf noun.food:piece
+d: eat intermittently; take small bites of
+e: He pieced at the sandwich all morning
+e: She never eats a full meal--she just nibbles
+fs: 8
+hypo: eat
+
+w: nosh drf noun.food:nosh drf noun.person:nosher
+w: snack drf noun.food:snack drf noun.person:snacker
+d: eat a snack; eat lightly
+e: She never loses weight because she snacks between meals
+fs: 2 22
+hyper: browse
+hypo: eat 1
+
+w: nourish drf adjs.all:nutrient drf noun.food:nourishment
+w: nurture drf noun.act:nurturance
+w: sustain 1 drf adj.pert:sustainable drf noun.act:sustainment drf noun.food:sustenance
+d: provide with nourishment
+e: We sustained ourselves on bread and water
+e: This kind of food is not nourishing for young children
+fs: 10 9
+hyper: carry 1
+hypo: cater
+
+w: overdrive
+w: overuse drf noun.act:overuse
+d: make use of too often or too extensively
+fs: 8
+hypo: apply
+
+w: overexploit drf noun.act:overexploitation
+d: exploit excessively
+e: We should not overexploit our natural resources
+fs: 8
+hypo: exploit 1
+
+w: overextend
+w: overstrain drf noun.phenomenon:overstrain
+d: strain excessively
+e: He overextended himself when he accepted the additional assignment
+fs: 8 11
+hypo: extend
+
+w: overfeed drf noun.act:overfeeding
+d: feed excessively
+fs: 8 9
+hypo: feed 1
+
+w: pander drf noun.person:pander drf noun.person:panderer
+w: pimp drf noun.person:pimp
+w: procure drf noun.person:procurer
+d: arrange for sexual partners for others
+fs: 2
+hypo: cater
+
+w: partake 13
+w: touch
+d: consume
+e: She didn't touch her food all night
+fs: 8
+hyper: receive
+hypo: consume
+
+w: patronage drf noun.act:patronage 1
+d: support by being a patron of
+fs: 9 10 11 8
+hypo: keep
+
+w: peck drf noun.animal:pecker 1
+w: pick_up
+d: eat by pecking at, like a bird
+fs: 11
+hypo: eat
+
+w: peck 1
+w: peck_at fs 8
+w: pick_at fs 8
+d: eat like a bird
+e: The anorexic girl just picks at her food
+fs: 2
+hypo: eat
+
+w: picnic drf noun.food:picnic drf noun.person:picknicker drf noun.person:picnicker
+d: eat alfresco, in the open air
+e: We picnicked near the lake on this gorgeous Sunday
+fs: 2 22
+hypo: eat 1
+
+w: plank drf noun.substance:plank
+d: cook and serve on a plank
+e: Planked vegetable
+e: Planked shad
+fs: 8
+hypo: dish
+
+w: play 13 drf noun.act:play 4
+d: use to one's advantage
+e: She plays on her clients' emotions
+fs: 22
+hypo: exploit
+
+w: ply 1
+d: use diligently
+e: ply your wits!
+fs: 8
+hypo: apply
+
+w: pop
+d: take drugs, especially orally
+e: The man charged with murder popped a valium to calm his nerves
+fs: 8
+hyper: skin_pop
+hypo: inject 1
+
+w: port drf noun.food:port
+d: drink port
+e: We were porting all in the club after dinner
+fs: 2
+hypo: booze
+
+w: power drf noun.phenomenon:power
+d: supply the force or power for the functioning of
+e: The gasoline powers the engines
+fs: 11
+hyper: drive 7
+hypo: cater
+
+w: predate drf noun.act:predation drf noun.act:predation 1
+w: prey 10 fs 22 drf noun.animal:prey
+w: raven 2 fs 2
+d: prey on or hunt for
+e: These mammals predate certain eggs
+fs: 8 11
+hypo: forage
+
+w: predigest
+d: digest (food) beforehand
+fs: 8
+hypo: digest
+mt: noun.animal:ruminant
+
+w: puff 1 drf noun.act:puff drf noun.act:puffing 2
+w: whiff 2
+d: smoke and exhale strongly
+e: puff a cigar
+e: whiff a pipe
+fs: 8
+hypo: smoke
+
+w: pull_out_all_the_stops
+d: use all resources available
+e: The organizers pulled out all the stops for the centennial meeting
+fs: 2
+hypo: apply
+
+w: put_away
+w: tuck_away
+w: tuck_in
+d: eat up; usually refers to a considerable quantity of food
+e: My son tucked in a whole pizza
+fs: 8
+entail: eat 1
+hypo: eat_up
+
+w: quarry drf noun.act:quarrying drf noun.artifact:quarry drf noun.person:quarrier
+d: extract (something such as stones) from or as if from a quarry
+e: quarry marble
+fs: 8
+entail: verb.contact:cut_into 1
+hypo: exploit 1
+mt: noun.act:quarrying
+
+w: range drf noun.location:range 2
+d: let eat
+e: range the animals in the prairie
+fs: 8
+hypo: feed 1
+vg: verb.contact:browse 1
+
+w: raven 1
+d: feed greedily
+e: The lions ravened the bodies
+fs: 1 4
+hypo: eat 2
+
+w: receive
+d: partake of the Holy Eucharist sacrament
+fs: 2 8
+hypo: partake 13
+mt: noun.cognition:Christian_religion
+
+w: recycle drf noun.act:recycling
+w: reprocess
+w: reuse
+d: use again after processing
+e: We must recycle the cardboard boxes
+fs: 8
+hyper: rehash
+hyper: verb.possession:reclaim 3
+hypo: apply
+
+w: regale
+w: treat drf noun.food:treat
+d: provide with choice or abundant food or drink
+e: Don't worry about the expensive wine--I'm treating
+e: She treated her houseguests with good food every night
+fs: 20 9 17
+hyper: alcoholize
+hyper: feast 2
+hyper: wine 1
+hypo: cater
+vg: verb.possession:treat
+
+w: regurgitate
+d: feed through the beak by regurgitating previously swallowed food
+e: many birds feed their young by regurgitating what they have swallowed and carried to the nest
+fs: 11
+hypo: feed 1
+
+w: rehash drf noun.communication:rehash
+d: present or use over, with no or few changes
+fs: 8
+hypo: recycle
+
+w: remount drf noun.animal:remount
+d: provide with fresh horses
+e: remount a regiment
+fs: 9 8
+hypo: horse
+
+w: repose
+d: put or confide something in a person or thing
+e: These philosophers reposed the law in the people
+fs: 21
+hypo: assign
+
+w: reseed
+d: maintain by seeding without human intervention
+e: Some plants reseed themselves indefinitely
+fs: 1
+hypo: keep
+
+w: ruminate drf adj.pert:ruminant drf noun.act:rumination 1 drf noun.animal:rumen drf noun.animal:ruminant
+d: chew the cuds
+e: cows ruminate
+fs: 2
+hypo: eat
+mt: noun.animal:ruminant
+
+w: sample drf noun.artifact:sampler drf noun.cognition:sample drf noun.group:sampler drf noun.person:sampler
+w: taste drf noun.act:tasting 2 drf noun.cognition:tasting drf noun.food:taste drf noun.person:taster
+w: try drf noun.cognition:trial drf noun.person:trier 1
+w: try_out drf noun.cognition:tryout
+d: take a sample of
+e: Try these new crackers
+e: Sample the regional dishes
+fs: 8
+hyper: degust
+hypo: consume
+
+w: scavenge drf noun.animal:scavenger
+d: feed on carrion or refuse
+e: hyenas scavenge
+fs: 2
+hypo: feed 1
+
+w: shower 12
+d: provide abundantly with
+e: He showered her with presents
+fs: 22
+hypo: cater
+
+w: sip drf noun.act:sip 1 drf noun.person:sipper
+d: drink in sips
+e: She was sipping her tea
+fs: 8
+hypo: drink
+
+w: skin_pop
+d: inject (drugs) into the skin
+fs: 8
+hypo: pop
+
+w: slop drf noun.food:slop
+w: swill 1 drf noun.food:swill
+d: feed pigs
+fs: 8
+hypo: feed 1
+
+w: slurp
+d: eat noisily
+e: He slurped his soup
+fs: 2 8
+hypo: eat
+
+w: smack
+d: press (the lips) together and open (the lips) noisily, as in eating
+fs: 2
+hypo: verb.communication:emit
+
+w: smoke drf noun.act:smoke drf noun.act:smoking drf noun.artifact:smoke drf noun.artifact:smoke 1 drf noun.person:smoker
+d: inhale and exhale smoke from cigarettes, cigars, pipes
+e: We never smoked marijuana
+e: Do you smoke?
+fs: 2 8
+entail: verb.body:breathe_in
+entail: verb.body:breathe_out
+hyper: chain-smoke
+hyper: inhale
+hyper: puff 1
+hypo: habituate
+
+w: snort 1
+w: take_a_hit 12 fs 22 mt noun.artifact:drug
+d: inhale through the nose
+fs: 8
+hypo: do_drugs
+
+w: sop_up
+w: suck_in
+w: take_in 1
+w: take_up
+d: take up as if with a sponge
+fs: 8
+hypo: consume
+
+w: sow_one's_oats
+w: sow_one's_wild_oats
+d: live promiscuously and self-indulgently
+fs: 2
+hypo: gratify
+
+w: spare
+d: use frugally or carefully
+fs: 8
+hypo: expend
+
+w: spoonfeed drf noun.act:spoonfeeding
+d: feed with a spoon
+fs: 9
+hypo: feed 1
+
+w: spree drf noun.act:spree
+d: engage without restraint in an activity and indulge, as when shopping
+fs: 2
+hypo: gratify
+
+w: starve 4
+d: deprive of a necessity and cause suffering
+e: he is starving her of love
+e: The engine was starved of fuel
+fs: 8 9
+hypo: verb.possession:deprive
+vg: famish 3
+
+w: stomach drf noun.feeling:stomach
+d: bear to eat
+e: He cannot stomach raw fish
+fs: 8
+hypo: digest
+
+w: strip_mine drf noun.artifact:strip_mine drf noun.person:strip_miner
+w: surface-mine
+w: surface_mine
+d: extract (ore) from a strip-mine
+fs: 8 2
+hypo: mine
+mt: noun.act:excavation
+
+w: suck 4 drf noun.act:suck drf noun.act:sucking drf noun.act:suction drf noun.person:sucker see suck_in
+d: draw into the mouth by creating a practical vacuum in the mouth
+e: suck the poison from the place where the snake bit
+e: suck on a straw
+e: the baby sucked on the mother's breast
+fs: 8
+hypo: drink
+vg: breastfeed
+
+w: suckle 1
+d: suck milk from the mother's breasts
+e: the infant was suckling happily
+fs: 2
+entail: drink
+hypo: eat 2
+
+w: sup 2 drf noun.act:supping drf noun.food:sup drf noun.food:supper drf noun.group:supper
+d: take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon
+fs: 8
+hypo: consume
+
+w: surfeit drf noun.act:surfeit drf noun.state:surfeit 1
+d: indulge (one's appetite) to satiety
+fs: 8
+hypo: indulge 12
+
+w: swill drf noun.act:swilling
+w: swill_down
+d: drink large quantities of (liquid, especially alcoholic drink)
+fs: 8
+hypo: drink
+
+w: take_away drf noun.food:takeaway
+w: take_out drf noun.food:takeout
+d: buy and consume food from a restaurant or establishment that sells prepared food
+e: We'll take out pizza, since I am too tired to cook
+fs: 8
+hypo: eat 1
+
+w: take_in_vain
+d: use a name, such as God, without proper respect
+fs: 8
+hypo: verb.change:abuse
+
+w: tank
+d: consume excessive amounts of alcohol
+fs: 2
+hypo: booze
+
+w: task
+w: tax
+d: use to the limit
+e: you are taxing my patience
+fs: 8
+hypo: extend
+
+w: teetotal drf noun.person:teetotaller
+d: practice teetotalism and abstain from the consumption of alcoholic beverages
+fs: 2
+hypo: abstain
+
+w: underlay
+d: provide with a base, support, lining, or backing
+e: underlay the boards with joists
+fs: 8
+hypo: cater
+
+w: victual drf noun.food:victual
+d: take in nourishment
+fs: 2
+hypo: eat 1
+
+w: wallow
+d: delight greatly in
+e: wallow in your success!
+fs: 8
+hypo: delight
+
+w: wallow 1
+d: devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure
+e: Wallow in luxury
+e: wallow in your sorrows
+fs: 8
+hypo: verb.social:indulge 1
+
+w: wash_down
+d: eat food accompanied by lots of liquid; also use metaphorically
+e: She washed down her dinner with a bottle of red wine
+e: He washes down his worries with a nightly glass of whisky
+fs: 8
+hypo: eat
+
+w: waste 5 drf noun.act:waste drf noun.attribute:waste
+d: use inefficiently or inappropriately
+e: waste heat
+e: waste a joke on an unappreciative audience
+fs: 11 8
+hypo: apply
+
+w: wine drf noun.artifact:winery drf noun.food:wine
+d: drink wine
+fs: 2
+hypo: booze
+
+w: wine 1 drf noun.artifact:winery drf noun.food:wine
+d: treat to wine
+e: Our relatives in Italy wined and dined us for a week
+fs: 9
+hypo: regale
+
+w: wine_and_dine
+d: eat sumptuously
+e: we wined and dined in Paris
+fs: 22 2
+entail: booze
+entail: eat 1
+hypo: banquet
+
+w: wine_and_dine 1
+d: provide with food and drink, usually lavishly
+fs: 9
+hypo: host
+
+w: wolf
+w: wolf_down
+d: eat hastily
+e: The teenager wolfed down the pizza
+fs: 8
+hypo: eat
+

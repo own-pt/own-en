@@ -1,0 +1,2627 @@
+noun.relation
+
+w: ALT
+w: EL
+w: altitude drf adj.pert:altitudinal
+w: elevation
+d: angular distance above the horizon (especially of a celestial object)
+hypo: angular_position
+
+w: Beaufort_scale
+w: wind_scale
+d: an international scale of wind force from 0 (calm air) to 12 (hurricane)
+hypo: graduated_table
+mp: noun.phenomenon:calm
+mp: noun.phenomenon:fresh_breeze
+mp: noun.phenomenon:fresh_gale
+mp: noun.phenomenon:gentle_breeze
+mp: noun.phenomenon:hurricane
+mp: noun.phenomenon:light_air
+mp: noun.phenomenon:light_breeze
+mp: noun.phenomenon:moderate_breeze
+mp: noun.phenomenon:moderate_gale
+mp: noun.phenomenon:storm
+mp: noun.phenomenon:strong_breeze
+mp: noun.phenomenon:strong_gale
+mp: noun.phenomenon:whole_gale
+
+w: Celsius_scale
+w: centigrade_scale
+w: international_scale
+d: a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees
+hypo: temperature_scale
+
+w: E
+w: due_east
+w: east
+w: eastward
+d: the cardinal compass point that is at 90 degrees
+hypo: cardinal_compass_point
+
+w: ENE
+w: east_northeast
+d: the compass point midway between northeast and east
+hypo: compass_point
+
+w: ESE
+w: east_southeast
+d: the compass point midway between east and southeast
+hypo: compass_point
+
+w: EbN
+w: east_by_north
+d: the compass point that is one point north of due east
+hypo: compass_point
+
+w: EbS
+w: east_by_south
+d: the compass point that is one point south of due east
+hypo: compass_point
+
+w: Fahrenheit_scale
+d: a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees
+hypo: temperature_scale
+
+w: I.Q.
+w: IQ
+w: intelligence_quotient
+d: a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
+hyper: adult_intelligence
+hyper: borderline_intelligence
+hypo: ratio 1
+
+w: Kelvin_scale
+w: absolute_scale
+d: a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees
+hypo: temperature_scale
+
+w: Kronecker_delta
+d: a function of two variables i and j that equals 1 when i=j and equals 0 otherwise
+hypo: function
+
+w: Mach_number
+d: the ratio of the speed of a moving body to the speed of sound
+hypo: ratio 1
+
+w: Mercalli_scale
+d: a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
+hypo: graduated_table
+mt: noun.cognition:geology
+
+w: Mohs_scale
+d: a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
+hypo: graduated_table
+
+w: N
+w: due_north
+w: north
+w: northward
+d: the cardinal compass point that is at 0 or 360 degrees
+hypo: cardinal_compass_point
+
+w: NE
+w: nor'-east
+w: northeast
+w: northeastward
+d: the compass point midway between north and east; at 45 degrees
+hypo: compass_point
+
+w: NEbE
+w: northeast_by_east
+d: the compass point that is one point east of northeast
+hypo: compass_point
+
+w: NEbN
+w: northeast_by_north
+d: the compass point that is one point north of northeast
+hypo: compass_point
+
+w: NNE
+w: nor'-nor'-east
+w: north_northeast
+d: the compass point that is midway between north and northeast
+hypo: compass_point
+
+w: NNW
+w: nor'-nor'-west
+w: north_northwest
+d: the compass point that is midway between north and northwest
+hypo: compass_point
+
+w: NW
+w: nor'-west
+w: northwest
+w: northwestward
+d: the compass point midway between north and west; at 315 degrees
+hypo: compass_point
+
+w: NWbN
+w: northwest_by_north
+d: the compass point that is one point north of northwest
+hypo: compass_point
+
+w: NWbW
+w: northwest_by_west
+d: the compass point that is one point west of northwest
+hypo: compass_point
+
+w: NbE
+w: north_by_east
+d: the compass point that is one point east (clockwise) of due north
+hypo: compass_point
+
+w: NbW
+w: north_by_west
+d: the compass point that is one point west of due north
+hypo: compass_point
+
+w: P/E_ratio
+w: price-to-earnings_ratio
+d: (stock market) the price of a stock divided by its earnings
+hypo: ratio 1
+mt: noun.artifact:securities_market
+
+w: Rankine_scale
+d: a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees
+hypo: temperature_scale
+
+w: Reaumur_scale
+d: a temperature scale on which water freezes at 0 degrees and boils at 80 degrees
+hypo: temperature_scale
+
+w: Richter_scale
+d: a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
+hypo: graduated_table
+mt: noun.cognition:geology
+
+w: S
+w: due_south
+w: south
+w: southward
+d: the cardinal compass point that is at 180 degrees
+hypo: cardinal_compass_point
+
+w: S/N
+w: signal-to-noise
+w: signal-to-noise_ratio
+w: signal/noise
+w: signal/noise_ratio
+d: the ratio of signal intensity to noise intensity
+hypo: ratio 1
+
+w: SE
+w: sou'-east
+w: southeast
+w: southeastward
+d: the compass point midway between south and east; at 135 degrees
+hypo: compass_point
+
+w: SEbE
+w: southeast_by_east
+d: the compass point that is one point east of southeast
+hypo: compass_point
+
+w: SEbS
+w: southeast_by_south
+d: the compass point that is one point south of southeast
+hypo: compass_point
+
+w: SSE
+w: sou'-sou'-east
+w: south_southeast
+d: the compass point midway between south and southeast
+hypo: compass_point
+
+w: SSW
+w: sou'-sou'-west
+w: south_southwest
+d: the compass point midway between south and southwest
+hypo: compass_point
+
+w: SW
+w: sou'-west
+w: southwest
+w: southwestward
+d: the compass point midway between south and west; at 225 degrees
+hypo: compass_point
+
+w: SWbS
+w: southwest_by_south
+d: the compass point that is one point south of southwest
+hypo: compass_point
+
+w: SWbW
+w: southwest_by_west
+d: the compass point that is one point west of southwest
+hypo: compass_point
+
+w: SbE
+w: south_by_east
+d: the compass point that is one point east of due south
+hypo: compass_point
+
+w: SbW
+w: south_by_west
+d: the compass point that is one point west of due south
+hypo: compass_point
+
+w: W
+w: due_west
+w: west
+w: westward
+d: the cardinal compass point that is a 270 degrees
+hypo: cardinal_compass_point
+
+w: WNW
+w: west_northwest
+d: the compass point midway between west and northwest
+hypo: compass_point
+
+w: WSW
+w: west_southwest
+d: the compass point midway between west and southwest
+hypo: compass_point
+
+w: WbN
+w: west_by_north
+d: the compass point that is one point north of due west
+hypo: compass_point
+
+w: WbS
+w: west_by_south
+d: the compass point that is one point south of due west
+hypo: compass_point
+
+w: absentee_rate
+d: the percentage of workers who do not report to work
+hypo: pct
+
+w: abundance
+d: (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
+hypo: ratio 1
+mt: noun.cognition:chemical_science
+
+w: abundance 1
+d: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
+hypo: ratio 1
+mt: noun.cognition:natural_philosophy
+
+w: academic_relation
+d: a professional relation between instructors and those they instruct
+hyper: teacher-student_relation
+hypo: professional_relation
+
+w: active
+w: active_voice ant passive_voice
+d: the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb
+e: `The boy threw the ball' uses the active voice
+hypo: voice
+
+w: additive_inverse
+d: (mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
+hypo: inverse 2
+mt: noun.cognition:math
+
+w: adult_intelligence
+d: the average IQ of the adults in a given population
+hypo: I.Q.
+
+w: adversative_conjunction
+d: the conjunctive relation of units that expresses the opposition of their meanings
+hypo: conjunction 2
+
+w: affine_transformation
+d: (mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
+hypo: transformation
+mt: noun.cognition:math
+
+w: affinity 1 ant consanguinity drf adjs.all:affine
+d: (anthropology) kinship by marriage or adoption; not a blood relationship
+hyper: steprelationship
+hypo: family_relationship
+mt: noun.cognition:anthropology
+
+w: affinity 2
+w: phylogenetic_relation
+d: (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts
+e: in anatomical structure prehistoric man shows close affinity with modern humans
+hypo: family_relationship
+mt: noun.cognition:biological_science
+
+w: affinity 3
+w: kinship 2
+d: a close connection marked by community of interests or similarity in nature or character
+e: found a natural affinity with the immigrants
+e: felt a deep kinship with the other students
+e: anthropology's kinship with the humanities
+hyper: rapport
+hyper: sympathy
+hypo: noun.Tops:relation
+
+w: agnation
+w: patrilineage
+d: line of descent traced through the paternal side of the family
+hypo: unilateral_descent
+
+w: agreement 3 drf verb.stative:agree 3
+w: concord drf verb.contact:concord
+d: the determination of grammatical inflection on the basis of word relations
+hyper: case_agreement
+hyper: gender_agreement
+hyper: number_agreement
+hyper: person_agreement
+hypo: grammatical_relation
+
+w: albedo
+w: reflective_power
+d: the ratio of reflected to incident light
+hypo: ratio 1
+
+w: alchemy
+w: chemistry
+w: interpersonal_chemistry
+d: the way two individuals relate to each other
+e: their chemistry was wrong from the beginning -- they hated each other
+e: a mysterious alchemy brought them together
+hypo: noun.Tops:social_relation
+
+w: alliance
+w: bond drf verb.contact:bond 1 drf verb.social:bond 13
+d: a connection based on kinship or marriage or common interest
+e: the shifting alliances within a large family
+e: their friendship constitutes a powerful bond between them
+hyper: silver_cord
+hypo: connectedness
+
+w: anaphoric_relation
+d: the relation between an anaphor and its antecedent
+hypo: grammatical_relation
+
+w: angular_position
+d: relation by which any position with respect to any other position is established
+hyper: ALT
+hyper: depression
+hypo: noun.attribute:position
+
+w: antagonism drf adjs.all:antagonistic drf adjs.all:antagonistic 2 drf noun.person:antagonist drf verb.social:antagonise
+d: the relation between opposing principles or forces or factors
+e: the inherent antagonism of capitalism and socialism
+hypo: oppositeness
+
+w: antecedent drf adj.all:antecedent
+w: forerunner
+d: anything that precedes something similar in time
+e: phrenology was an antecedent of modern neuroscience
+hypo: temporal_relation
+
+w: antipodal drf adj.pert:antipodal
+w: antipodal_opposition
+w: diametrical_opposition
+d: the relation of opposition along a diameter
+hypo: opposition
+
+w: antipode drf adj.pert:antipodean
+d: direct opposite
+e: quiet: an antipode to focused busyness
+hypo: oppositeness
+
+w: antithesis drf adjs.all:antithetic drf adjs.all:antithetical
+d: exact opposite
+e: his theory is the antithesis of mine
+hypo: oppositeness
+
+w: antonymy
+d: the semantic relation that holds between two words that can (in a given context) express opposite meanings
+hypo: semantic_relation
+
+w: applicability ant inapplicability drf adjs.all:applicable
+w: pertinence drf adjs.all:pertinent drf adjs.all:pertinent 1 drf verb.stative:pertain 1
+w: pertinency drf adjs.all:pertinent drf adjs.all:pertinent 1 drf verb.stative:pertain 1
+d: relevance by virtue of being applicable to the matter at hand
+hyper: germaneness
+hypo: relevance
+
+w: apposition drf adj.pert:appositional
+d: a grammatical relation between a word and a noun phrase that follows
+e: `Rudolph the red-nosed reindeer' is an example of apposition
+hypo: limiting
+
+w: arc_cosecant
+w: arccosecant
+w: inverse_cosecant
+d: the angle that has a cosecant equal to a given number
+hypo: circular_function
+
+w: arc_cosine
+w: arccos
+w: arccosine
+w: inverse_cosine
+d: the inverse function of the cosine; the angle that has a cosine equal to a given number
+hypo: circular_function
+
+w: arc_cotangent
+w: arccotangent
+w: inverse_cotangent
+d: the inverse function of the cotangent; the angle that has a cotangent equal to a given number
+hypo: circular_function
+
+w: arc_secant
+w: arcsec
+w: arcsecant
+w: inverse_secant
+d: the inverse function of the secant; the angle that has a secant equal to a given number
+hypo: circular_function
+
+w: arc_sine
+w: arcsin
+w: arcsine
+w: inverse_sine
+d: the inverse function of the sine; the angle that has a sine equal to a given number
+hypo: circular_function
+
+w: arc_tangent
+w: arctan
+w: arctangent
+w: inverse_tangent
+d: the inverse function of the tangent; the angle that has a tangent equal to a given number
+hypo: circular_function
+
+w: aspect drf adj.pert:aspectual
+d: the beginning or duration or completion or repetition of the action of a verb
+hyper: durative
+hyper: inchoative
+hyper: iterative
+hyper: perfective
+hypo: grammatical_relation
+
+w: aspect_ratio
+d: the ratio of the width to the height of a tv picture
+hypo: ratio 1
+
+w: association drf verb.social:associate
+d: a relation resulting from interaction or dependence
+e: flints were found in association with the prehistoric remains of the bear
+e: the host is not always injured by association with a parasite
+hypo: noun.Tops:relation
+
+w: asynchronism ant synchronism
+w: asynchrony
+w: desynchronisation drf verb.change:desynchronise
+w: desynchronization ant synchronization drf verb.change:desynchronize
+w: desynchronizing ant synchronizing drf verb.change:desynchronize
+d: the relation that exists when things occur at unrelated times
+e: the stimulus produced a desynchronizing of the brain waves
+hypo: temporal_relation
+
+w: attitude
+d: position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
+hyper: trim
+hypo: orientation
+
+w: attorney-client_relation
+w: lawyer-client_relation
+d: the responsibility of a lawyer to act in the best interests of the client
+hypo: fiduciary_relation
+mm: noun.person:attorney
+mm: noun.person:client
+mt: noun.group:jurisprudence
+
+w: average
+d: (sports) the ratio of successful performances to opportunities
+hyper: batting_average
+hyper: fielding_average
+hypo: ratio 1
+mt: noun.act:athletics
+
+w: balance
+w: remainder drf verb.possession:remainder drf verb.stative:remain 5
+w: residual drf adj.pert:residual
+w: residue drf adj.pert:residual drf adj.pert:residuary
+w: residuum
+w: rest
+d: something left after other parts have been taken away
+e: there was no remainder
+e: he threw away the rest
+e: he took what he wanted and I got the balance
+hyper: leftover
+hypo: component
+
+w: bank-depositor_relation
+d: the responsibility of a bank to act in the best interests of the depositors
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: base
+w: basis 1
+d: the most important or necessary part of something
+e: the basis of this drink is orange juice
+hypo: component
+
+w: baseline
+d: an imaginary line or standard by which things are measured or compared
+e: the established a baseline for the budget
+hypo: noun.communication:criterion
+
+w: basis
+w: footing
+w: ground
+d: a relation that provides the foundation for something
+e: they were on a friendly footing
+e: he worked on an interim basis
+hyper: common_ground
+hypo: foundation
+
+w: batting_average
+w: hitting_average
+d: (baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat
+e: Ted Williams once had a batting average above .400
+hypo: average
+mt: noun.act:ball 1
+
+w: batting_average 1
+d: (an extension of the baseball term) the proportion of times some effort succeeds
+e: the salesman's batting average was 7 out of 12
+hypo: proportion
+mt: noun.act:ball 1
+
+w: bearing 1
+d: relevant relation or interconnection
+e: those issues have no bearing on our situation
+hypo: relatedness
+
+w: betting_odds
+w: odds
+d: the ratio by which one better's wager is greater than that of another
+e: he offered odds of two to one
+hypo: ratio 1
+
+w: bilateral_descent
+d: line of descent traced through both the maternal and paternal sides of the family
+hypo: descent
+
+w: billionth
+d: position 1,000,000,000 in a countable series of things
+hypo: noun.state:rank
+mr: noun.location:America
+
+w: birth
+w: parentage drf verb.social:parent
+d: the kinship relation of an offspring to the parents
+hypo: family_relationship
+
+w: blood_kinship
+w: cognation
+w: consanguinity ant affinity 1 drf adjs.all:consanguine
+d: (anthropology) related by blood
+hypo: family_relationship
+mt: noun.cognition:anthropology
+
+w: bonding
+d: a close personal relationship that forms between people (as between husband and wife or parent and child)
+hyper: female_bonding
+hyper: male_bonding
+hyper: maternal-infant_bonding
+hypo: personal_relation
+
+w: borderline_intelligence
+d: the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)
+hypo: I.Q.
+
+w: breadth_index
+w: cephalic_index
+w: cranial_index
+d: ratio (in percent) of the maximum breadth to the maximum length of a skull
+hypo: ratio 1
+
+w: bridge drf verb.stative:bridge
+d: something resembling a bridge in form or function
+e: his letters provided a bridge across the centuries
+hypo: connectedness
+
+w: brotherhood
+d: the kinship relation between a male offspring and the siblings
+hypo: family_relationship
+
+w: business_relation
+d: a relation between different business enterprises
+hyper: clientage
+hyper: competition 1
+hypo: noun.Tops:relation
+mm: noun.person:client 1
+
+w: cardinal_compass_point
+d: one of the four main compass points
+hyper: E
+hyper: N
+hyper: S
+hyper: W
+hypo: compass_point
+
+w: case-fatality_proportion
+d: the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases
+hypo: proportion
+
+w: case-to-infection_proportion
+w: case-to-infection_ratio
+d: the number of cases of a disease divided by the number of infections with the agent that causes the disease
+hypo: proportion
+
+w: case_agreement
+d: agreement in grammatical case between words in the same construction
+hypo: agreement 3
+
+w: causality drf adjs.all:causal
+d: the relation between causes and effects
+hypo: noun.Tops:relation
+
+w: change drf verb.change:change 1 drf verb.change:change 2
+d: a relational difference between states; especially between states before and after some event
+e: he attributed the change to their marriage
+hyper: difference
+hyper: gradient
+hypo: noun.Tops:relation
+
+w: chronology drf adj.pert:chronological drf verb.change:chronologize
+d: an arrangement of events in time
+hypo: temporal_relation
+
+w: circular_function
+w: trigonometric_function
+d: function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle
+hyper: arc_cosecant
+hyper: arc_cosine
+hyper: arc_cotangent
+hyper: arc_secant
+hyper: arc_sine
+hyper: arc_tangent
+hyper: cos
+hyper: cosec
+hyper: cotan
+hyper: sec
+hyper: sin
+hyper: tan
+hypo: function
+
+w: clientage
+d: relation of a client to a patron
+hypo: business_relation
+
+w: cogency drf adjs.all:cogent
+d: persuasive relevance
+hypo: relevance
+
+w: cognation 1
+w: enation
+w: matrilineage
+d: line of descent traced through the maternal side of the family
+hypo: unilateral_descent
+
+w: commensalism
+d: the relation between two different kinds of organisms when one receives benefits from the other without damaging it
+hypo: interdependence
+
+w: commensurateness drf adj.all:commensurate
+w: correspondence 1 drf adjs.all:correspondent
+w: proportionateness drf adj.all:proportionate drf adjs.all:proportionate drf adjs.all:proportionate 1
+d: the relation of corresponding in degree or size or amount
+hypo: proportionality
+
+w: common_ground
+d: a basis agreed to by all parties for reaching a mutual understanding
+hypo: basis
+
+w: common_mood
+w: declarative drf adj.pert:declarative
+w: declarative_mood
+w: fact_mood
+w: indicative
+w: indicative_mood
+d: a mood (grammatically unmarked) that represents the act or state as an objective fact
+hypo: modality 1
+
+w: communication drf verb.communication:communicate 1 drf verb.contact:communicate
+d: a connection allowing access between persons or places
+e: how many lines of communication can there be among four people?
+e: a secret passageway provided communication between the two rooms
+hypo: connectedness
+
+w: comparison drf verb.cognition:compare
+d: relation based on similarities and differences
+hyper: imaginative_comparison
+hypo: noun.Tops:relation
+
+w: compass_north
+w: magnetic_north
+w: north 1
+d: the direction in which a compass needle points
+hypo: direction
+
+w: compass_point
+w: point
+d: any of 32 horizontal directions indicated on the card of a compass
+e: he checked the point on his compass
+hyper: ENE
+hyper: ESE
+hyper: EbN
+hyper: EbS
+hyper: NE
+hyper: NEbE
+hyper: NEbN
+hyper: NNE
+hyper: NNW
+hyper: NW
+hyper: NWbN
+hyper: NWbW
+hyper: NbE
+hyper: NbW
+hyper: SE
+hyper: SEbE
+hyper: SEbS
+hyper: SSE
+hyper: SSW
+hyper: SW
+hyper: SWbS
+hyper: SWbW
+hyper: SbE
+hyper: SbW
+hyper: WNW
+hyper: WSW
+hyper: WbN
+hyper: WbS
+hyper: cardinal_compass_point
+hypo: direction
+
+w: competition 1
+d: a business relation in which two parties compete to gain customers
+e: business competition can be fiendish at times
+hyper: price_competition
+hypo: business_relation
+
+w: complementarity 1 drf adjs.all:complementary
+d: a relation between two opposite states or principles that together exhaust the possibilities
+hypo: ungradable_opposition
+
+w: complementarity 2
+d: the interrelation of reciprocity whereby one thing supplements or depends on the other
+e: the complementarity of the sexes
+hypo: reciprocality
+
+w: complementation
+d: the grammatical relation of a word or phrase to a predicate
+hypo: grammatical_relation
+
+w: component
+w: component_part
+w: constituent
+w: part drf adjs.all:partial 1
+w: portion
+d: something determined in relation to something that includes it
+e: he wanted to feel a part of something bigger than himself
+e: I read a portion of the manuscript
+e: the smaller component is hard to reach
+e: the animal constituent of plankton
+hp: meronymy
+hyper: noun.Tops:substance
+hyper: noun.communication:item
+hyper: noun.communication:language_unit
+hyper: noun.plant:butt
+hyper: balance
+hyper: base
+hyper: detail
+hyper: member
+hyper: subpart
+hyper: unit
+hypo: noun.Tops:relation
+
+w: comprehension drf verb.stative:comprehend
+w: inclusion
+d: the relation of comprising something
+e: he admired the inclusion of so many ideas in such a short work
+hypo: involvement
+
+w: concatenation
+d: the linking together of a consecutive series of symbols or events or ideas etc
+e: it was caused by an improbable concatenation of circumstances
+hypo: connectedness
+
+w: concentration_gradient
+d: a gradient in concentration of a solute as a function of distance through a solution
+e: the movement of a solute down its concentration gradient is called diffusion
+hypo: gradient
+
+w: conditional_relation
+w: implication 1 drf adj.pert:implicational drf verb.communication:imply 1 drf verb.stative:implicate
+w: logical_implication
+d: a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false
+hypo: logical_relation
+
+w: confidential_adviser-advisee_relation
+d: the responsibility of a confidential adviser to act in the best interest of the advisee
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: conflict
+d: opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot)
+e: this form of conflict is essential to Mann's writing
+hypo: oppositeness
+
+w: conjugation drf verb.communication:conjugate
+d: the inflection of verbs
+hypo: inflection
+mm: noun.communication:verb 1
+
+w: conjunction 2
+d: the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
+hyper: adversative_conjunction
+hyper: coordinating_conjunction
+hyper: copulative_conjunction
+hyper: disjunctive_conjunction
+hyper: subordinating_conjunction
+hypo: grammatical_relation
+
+w: connectedness ant unconnectedness drf adjs.all:connected 1 drf adjs.all:connected 3
+w: connection
+w: connexion
+d: a relation between things or events (as in the case of one causing the other or sharing features with it)
+e: there was a connection between eating that pickle and having that nightmare
+attr: adj.all:connected
+attr: adj.all:unconnected
+hyper: alliance
+hyper: bridge
+hyper: communication
+hyper: concatenation
+hyper: involvement
+hyper: linkage
+hyper: relatedness
+hyper: relevance
+hyper: series
+hypo: noun.Tops:relation
+
+w: conservator-ward_relation
+d: the responsibility of a conservator to act in the best interests of the ward
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: content
+d: the proportion of a substance that is contained in a mixture or alloy etc.
+hypo: proportion
+
+w: continuous_tense
+w: imperfect
+w: imperfect_tense
+w: progressive
+w: progressive_tense
+d: a tense of verbs used in describing action that is on-going
+hyper: future_progressive
+hyper: past_progressive
+hyper: present_progressive
+hypo: noun.communication:tense
+
+w: contradiction
+d: opposition between two conflicting forces or ideas
+hyper: dialectic
+hypo: oppositeness
+
+w: contradictoriness drf adjs.all:contradictory drf adjs.all:contradictory 2 drf adjs.all:contradictory 3
+d: the relation that exists when opposites cannot coexist
+hyper: incompatibility 2
+hypo: oppositeness
+
+w: contradictory
+d: two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
+hypo: logical_relation
+
+w: contrariety
+d: the relation between contraries
+hypo: oppositeness
+
+w: contrary
+d: exact opposition
+e: public opinion to the contrary he is not guilty
+hypo: oppositeness
+
+w: contrary 1
+w: opposite 3
+w: reverse drf adjs.all:reverse drf verb.change:reverse drf verb.communication:reverse
+d: a relation of direct opposition
+e: we thought Sue was older than Bill but just the reverse was true
+hypo: oppositeness
+
+w: contrary 2
+d: a logical relation such that two propositions are contraries if both cannot be true but both can be false
+hypo: logical_relation
+
+w: contrast drf verb.cognition:contrast drf verb.stative:contrast
+w: direct_contrast
+d: the opposition or dissimilarity of things that are compared
+e: in contrast to
+e: by contrast
+hypo: oppositeness
+
+w: control
+d: a relation of constraint of one entity (thing or person or group) by another
+e: measures for the control of disease
+e: they instituted controls over drinking on campus
+hypo: noun.Tops:relation
+
+w: coordinating_conjunction
+d: the coordination by conjunction of linguistic units of the same status
+hypo: conjunction 2
+
+w: coordination
+d: the grammatical relation of two constituents having the same grammatical form
+hypo: grammatical_relation
+
+w: copulative_conjunction
+d: the conjunctive relation of units that expresses the addition of their meanings
+hypo: conjunction 2
+
+w: coreference drf adj.pert:coreferential drf adjs.all:coreferent
+d: the grammatical relation between two words that have a common referent
+hyper: reflexiveness
+hypo: grammatical_relation
+
+w: correlation drf adj.pert:correlational drf verb.cognition:correlate drf verb.stative:correlate
+w: correlativity drf adjs.all:correlative drf adjs.all:correlative 1
+d: a reciprocal relation between two or more things
+hypo: reciprocality
+
+w: cos
+w: cosine
+d: ratio of the adjacent side to the hypotenuse of a right-angled triangle
+hypo: circular_function
+
+w: cosec
+w: cosecant
+d: ratio of the hypotenuse to the opposite side of a right-angled triangle
+hypo: circular_function
+
+w: cotan
+w: cotangent
+d: ratio of the adjacent to the opposite side of a right-angled triangle
+hypo: circular_function
+
+w: dealings drf verb.social:deal 4
+w: relations
+d: mutual dealings or connections or communications among persons or groups
+hypo: noun.Tops:social_relation
+
+w: declension drf verb.communication:decline 1
+d: the inflection of nouns and pronouns and adjectives in Indo-European languages
+hypo: inflection
+mm: noun.communication:noun 1
+
+w: depression
+d: angular distance below the horizon (especially of a celestial object)
+hypo: angular_position
+
+w: descent drf verb.stative:descend
+w: filiation drf verb.cognition:filiate
+w: line_of_descent
+w: lineage
+d: the kinship relation between an individual and the individual's progenitors
+hyper: bilateral_descent
+hyper: unilateral_descent
+hypo: family_relationship
+
+w: detail drf verb.communication:detail
+w: item drf verb.communication:itemize
+w: particular
+d: a small part that can be considered separately from the whole
+e: it was perfect in all details
+hyper: high_spot
+hypo: component
+
+w: dialectic drf adj.pert:dialectical drf noun.person:dialectician
+d: a contradiction of ideas that serves as the determining factor in their interaction
+e: this situation created the inner dialectic of American history
+hypo: contradiction
+
+w: difference drf adj.pert:differential drf verb.change:differentiate drf verb.change:differentiate 1
+d: a significant change
+e: the difference in her is amazing
+e: his support made a real difference
+hypo: change
+
+w: direction
+d: the spatial relation between something and the course along which it points or moves
+e: he checked the direction and velocity of the wind
+attr: adj.all:incoming
+attr: adj.all:outgoing
+hyper: compass_north
+hyper: compass_point
+hyper: east 2
+hyper: frontage
+hyper: leeward
+hyper: north 2
+hyper: northeast 2
+hyper: northwest 2
+hyper: opposition
+hyper: orientation
+hyper: seaward
+hyper: south 2
+hyper: southeast 2
+hyper: southwest 2
+hyper: west 2
+hyper: windward
+hypo: noun.attribute:position
+
+w: director-stockholder_relation
+d: the responsibility of corporate directors to act in the best interests of stockholders
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: disjunctive_conjunction
+d: the conjunctive relation of units that expresses the disjunction of their meanings
+hypo: conjunction 2
+
+w: doctor-patient_relation
+d: the responsibility of a physician to act in the best interests of the patient
+hypo: medical_relation
+mm: noun.person:Dr.
+mm: noun.person:patient
+
+w: durative
+w: durative_aspect
+d: the aspect of a verb that expresses its duration
+hyper: imperfective
+hyper: progressive_aspect
+hypo: aspect
+
+w: east 2
+d: the direction corresponding to the eastward cardinal compass point
+hypo: direction
+
+w: efficiency
+d: the ratio of the output to the input of any system
+hyper: figure_of_merit
+hypo: ratio 1
+
+w: eighteenth
+d: position 18 in a countable series of things
+hypo: noun.state:rank
+
+w: eighth
+d: position eight in a countable series of things
+hypo: noun.state:rank
+
+w: eightieth
+d: position 80 in a countable series of things
+hypo: noun.state:rank
+
+w: eleventh
+d: position 11 in a countable series of things
+hypo: noun.state:rank
+
+w: employee_turnover
+w: turnover
+w: turnover_rate
+d: the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+hypo: ratio 1
+
+w: enantiomorphism
+w: mirror-image_relation
+d: the relation of opposition between crystals or molecules that are reflections of one another
+hypo: opposition
+
+w: evenness
+d: the parity of even numbers (divisible by two)
+hypo: parity
+
+w: executor-heir_relation
+d: the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: expansion
+d: a function expressed as a sum or product of terms
+e: the expansion of (a+b)^2 is a^2 + 2ab + b^2
+hypo: function
+mt: noun.cognition:math
+
+w: exponential drf adj.pert:exponential
+w: exponential_function
+d: a function in which an independent variable appears as an exponent
+hypo: function
+
+w: exponential_curve
+d: a graph of an exponential function
+hypo: noun.communication:graph
+
+w: exponential_equation
+d: an equation involving exponential functions of a variable
+hypo: noun.communication:equation
+
+w: exponential_expression
+d: a mathematical expression consisting of a constant (especially e) raised to some power
+hypo: noun.communication:expression 3
+
+w: exponential_series
+d: a series derived from the expansion of an exponential expression
+hypo: noun.cognition:series
+
+w: extraneousness drf adjs.all:extraneous drf adjs.all:extraneous 1 drf adjs.all:extraneous 2 drf adjs.all:extraneous 3
+d: unrelatedness by virtue of falling outside the matter at hand
+hypo: unrelatedness
+
+w: f_number
+w: focal_ratio
+w: speed
+w: stop_number
+d: the ratio of the focal length to the diameter of a (camera) lens system
+hypo: ratio 1
+
+w: facial_index
+d: the ratio (in percent) of the maximum width to the maximum height of the face
+hypo: ratio 1
+
+w: factor_of_safety
+w: safety_factor
+d: the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+hypo: ratio 1
+
+w: family_relationship
+w: kinship drf noun.group:kin drf noun.person:kin
+w: relationship 1 drf noun.Tops:relation drf noun.person:relation
+d: (anthropology) relatedness or connection by blood or marriage or adoption
+hyper: affinity 1
+hyper: affinity 2
+hyper: birth
+hyper: blood_kinship
+hyper: brotherhood
+hyper: descent
+hyper: fatherhood
+hyper: marital_bed
+hyper: maternity
+hyper: sisterhood
+hypo: noun.Tops:relation
+mt: noun.cognition:anthropology
+
+w: fatherhood
+w: paternity drf adjs.all:paternal
+d: the kinship relation between an offspring and the father
+hypo: family_relationship
+
+w: female_bonding
+d: the formation of a close personal relationship between women
+hypo: bonding
+
+w: fiduciary_relation
+d: the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter
+hyper: attorney-client_relation
+hyper: bank-depositor_relation
+hyper: confidential_adviser-advisee_relation
+hyper: conservator-ward_relation
+hyper: director-stockholder_relation
+hyper: executor-heir_relation
+hyper: partner_relation
+hyper: receiver-creditor_relation
+hyper: trustee-beneficiary_relation
+hypo: legal_relation
+mt: noun.group:jurisprudence
+
+w: fielding_average
+d: (baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances
+hypo: average
+mt: noun.act:ball 1
+
+w: fifteenth drf adjs.all:fifteenth
+d: position 15 in a countable series of things
+hypo: noun.state:rank
+
+w: fifth drf adjs.all:fifth
+d: position five in a countable series of things
+e: he was fifth out of several hundred runners
+hypo: noun.state:rank
+
+w: fiftieth drf adjs.all:fiftieth
+d: position 50 in a countable series of things
+hypo: noun.state:rank
+
+w: figure_of_merit
+d: a numerical expression representing the efficiency of a given system, material, or procedure
+hypo: efficiency
+
+w: first
+w: number_one
+d: the first or highest in an ordering or series
+e: He wanted to be the first
+hyper: former
+hypo: noun.state:rank
+
+w: flip_side
+d: a different aspect of something (especially the opposite aspect)
+e: the flip side of your positive qualities sometimes get out of control
+e: on the flip side of partnerships he talked about their competition
+hypo: oppositeness
+mu: noun.communication:figure 1
+
+w: former ant latter
+d: the first of two or the first mentioned of two
+e: Tom and Dick were both heroes but only the former is remembered today
+hypo: first
+
+w: fortieth
+d: position 40 in a countable series of things
+hypo: noun.state:rank
+
+w: foundation drf verb.cognition:found
+d: the basis on which something is grounded
+e: there is little foundation for his objections
+hyper: basis
+hyper: grass_roots
+hypo: noun.Tops:relation
+
+w: fourteenth
+d: position 14 in a countable series of things
+hypo: noun.state:rank
+
+w: fourth
+d: following the third position; number four in a countable series
+hypo: noun.state:rank
+
+w: frequency
+w: relative_frequency
+d: the ratio of the number of observations in a statistical category to the total number of observations
+hyper: incidence
+hypo: ratio 1
+
+w: frontage drf verb.stative:front
+d: the direction in which something (such as a building) faces
+hypo: direction
+
+w: fuel_consumption_rate
+w: gas_mileage
+w: gasoline_mileage
+w: mileage
+d: the ratio of the number of miles traveled to the number of gallons of gasoline burned
+hypo: ratio 1
+
+w: function
+w: map drf verb.change:map
+w: mapping drf verb.change:map
+w: mathematical_function
+w: single-valued_function
+d: (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+hyper: noun.cognition:multinomial
+hyper: Kronecker_delta
+hyper: circular_function
+hyper: expansion
+hyper: exponential
+hyper: inverse_function
+hyper: isometry
+hyper: metric
+hyper: operator
+hyper: threshold_function
+hyper: transformation
+hypo: mathematical_relation
+mt: noun.cognition:math
+
+w: function 1
+d: a relation such that one thing is dependent on another
+e: height is a function of age
+e: price is a function of supply and demand
+hypo: noun.Tops:relation
+
+w: future_perfect
+w: future_perfect_tense
+d: a perfective tense used to describe action that will be completed in the future
+e: `I will have finished' is an example of the future perfect
+hypo: perfect
+
+w: future_progressive
+w: future_progressive_tense
+d: a progressive tense used to express action that will be on-going in the future
+e: `I will be running' is an example of the future progressive
+hypo: continuous_tense
+
+w: gauge drf verb.change:gauge
+w: standard_of_measurement
+d: accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
+hypo: noun.communication:criterion
+
+w: gender_agreement
+d: agreement in grammatical gender between words in the same construction
+hypo: agreement 3
+
+w: germaneness drf adjs.all:germane
+d: pertinence by virtue of a close relation to the matter at hand
+hypo: applicability
+
+w: golden_mean
+w: golden_section
+d: the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+hypo: proportion
+
+w: gradable_opposition
+d: an opposition that is capable of being graded
+hyper: polar_opposition
+hypo: oppositeness
+
+w: gradient
+d: a graded change in the magnitude of some physical quantity or dimension
+hyper: concentration_gradient
+hyper: gravity_gradient
+hyper: temperature_gradient
+hypo: change
+
+w: graduated_table
+w: ordered_series
+w: scale 3 drf verb.change:scale 1 drf verb.creation:scale
+w: scale_of_measurement
+d: an ordered reference standard
+e: judging on a scale of 1 to 10
+hyper: Beaufort_scale
+hyper: Mercalli_scale
+hyper: Mohs_scale
+hyper: Richter_scale
+hyper: index
+hyper: logarithmic_scale
+hyper: moment_magnitude_scale
+hyper: temperature_scale
+hyper: wage_scale
+hypo: noun.communication:criterion
+
+w: grammatical_relation
+d: a linguistic relation established by grammar
+hyper: agreement 3
+hyper: anaphoric_relation
+hyper: aspect
+hyper: complementation
+hyper: conjunction 2
+hyper: coordination
+hyper: coreference
+hyper: inflection
+hyper: intransitiveness
+hyper: limiting
+hyper: modality 1
+hyper: subordination 1
+hyper: transitiveness
+hyper: voice
+hypo: linguistic_relation
+
+w: grass_roots
+d: the essential foundation or source
+e: the problem was attacked at the grass roots
+hypo: foundation
+
+w: gravity_gradient
+d: a gradient in the gravitational forces acting on different parts of a nonspherical object
+e: the gravity gradient of the moon causes the ocean tides on Earth
+hypo: gradient
+
+w: haematocrit
+w: hematocrit
+w: packed_cell_volume
+d: the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
+hypo: ratio 1
+
+w: high_spot
+w: highlight drf verb.change:highlight
+d: the most interesting or memorable part
+e: the highlight of the tour was our visit to the Vatican
+hypo: detail
+
+w: holonymy
+w: whole_to_part_relation
+d: the semantic relation that holds between a whole and its parts
+hypo: semantic_relation
+
+w: homonymy
+d: the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ in meaning
+hypo: linguistic_relation
+
+w: horizontal drf adj.all:horizontal
+d: something that is oriented horizontally
+hypo: orientation
+
+w: hospital_occupancy
+d: occupancy rate for hospitals
+hypo: occupancy_rate
+
+w: hotel_occupancy
+d: occupancy rate for hotels
+hypo: occupancy_rate
+
+w: human_relationship
+w: relationship drf noun.Tops:relation drf noun.person:relation
+d: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)
+e: the relationship between mothers and their children
+hyper: partnership
+hyper: personal_relation
+hypo: noun.Tops:relation
+
+w: hundredth
+d: position 100 in a countable series of things
+hypo: noun.state:rank
+
+w: hypernymy
+w: superordination
+d: the semantic relation of being superordinate or belonging to a higher rank or class
+hypo: semantic_relation
+
+w: hyponymy
+w: subordination 2
+d: the semantic relation of being subordinate or belonging to a lower rank or class
+hypo: semantic_relation
+
+w: identity 1
+w: identity_element
+w: identity_operator
+d: an operator that leaves unchanged the element on which it operates
+e: the identity under numerical multiplication is 1
+hypo: operator
+
+w: imaginative_comparison
+d: the kind of mental comparison that is expressed in similes or metaphors or allegories
+hypo: comparison
+
+w: immateriality ant materiality drf adj.all:immaterial 2 drf adjs.all:immaterial drf adjs.all:immaterial 1
+d: complete irrelevance requiring no further consideration
+hypo: irrelevance
+
+w: imperative
+w: imperative_form
+w: imperative_mood
+w: jussive_mood
+d: a mood that expresses an intention to influence the listener's behavior
+hypo: modality 1
+
+w: imperfective
+w: imperfective_aspect
+d: aspect without regard to the beginning or completion of the action of the verb
+hypo: durative
+
+w: implication drf verb.stative:implicate 1 drf verb.stative:imply 2
+d: a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)
+e: he was suspected of implication in several robberies
+hypo: involvement
+
+w: inapplicability ant applicability drf adjs.all:inapplicable
+d: irrelevance by virtue of being inapplicable to the matter at hand
+hypo: irrelevance
+
+w: inchoative
+w: inchoative_aspect
+d: aspect with regard to the beginning of the action of the verb
+hypo: aspect
+
+w: incidence
+w: relative_incidence
+d: the relative frequency of occurrence of something
+hyper: morbidity
+hypo: frequency
+
+w: incompatibility 2 drf adjs.all:incompatible 1
+w: inconsistency
+w: mutual_exclusiveness
+w: repugnance drf verb.communication:repugn
+d: the relation between propositions that cannot both be true at the same time
+hypo: contradictoriness
+
+w: indebtedness drf adjs.all:indebted
+w: obligation drf verb.communication:oblige 1
+d: a personal relation in which one is indebted for a service or favor
+hypo: personal_relation
+
+w: index drf verb.cognition:index
+d: a numerical scale used to compare variables with one another or with some reference number
+hyper: noun.attribute:margin_of_error
+hypo: graduated_table
+
+w: index_of_refraction
+w: refractive_index
+d: the ratio of the velocity of light in a vacuum to that in a medium
+hypo: ratio 1
+
+w: inflection drf adj.all:inflectional drf verb.communication:inflect 1
+w: inflexion drf verb.communication:inflect 1
+d: a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+hyper: conjugation
+hyper: declension
+hyper: paradigm
+hyper: pluralisation
+hypo: grammatical_relation
+
+w: interdependence drf adjs.all:interdependent drf verb.stative:interdepend
+w: interdependency drf adjs.all:interdependent drf verb.stative:interdepend
+w: mutuality drf adj.all:mutual drf adjs.all:mutual
+d: a reciprocal relation between interdependent entities (objects or individuals or groups)
+hyper: commensalism
+hyper: mutualism
+hyper: parasitism
+hyper: sharing
+hyper: sharing 1
+hypo: reciprocality
+
+w: interrelatedness drf adjs.all:interrelated
+w: interrelation drf interrelationship drf verb.cognition:interrelate drf verb.stative:interrelate
+w: interrelationship drf interrelation
+d: mutual or reciprocal relation or relatedness
+e: interrelationships of animal structure and function
+hyper: psychodynamics
+hypo: noun.Tops:relation
+
+w: interrogative
+w: interrogative_mood
+d: some linguists consider interrogative sentences to constitute a mood
+hypo: modality 1
+
+w: intransitiveness drf adj.all:intransitive
+w: intransitivity ant transitivity drf adj.all:intransitive
+d: the grammatical relation created by an intransitive verb
+hypo: grammatical_relation
+
+w: inverse 2
+w: opposite 4
+d: something inverted in sequence or character or effect
+e: when the direct approach failed he tried the inverse
+hyper: additive_inverse
+hyper: multiplicative_inverse
+hypo: oppositeness
+
+w: inverse_function
+d: a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x
+hypo: function
+
+w: involvement drf verb.stative:involve drf verb.stative:involve 1
+d: a connection of inclusion or containment
+e: he escaped involvement in the accident
+e: there was additional involvement of the liver and spleen
+hyper: comprehension
+hyper: implication
+hypo: connectedness
+
+w: irrelevance ant relevance drf adj.all:irrelevant
+w: irrelevancy drf adj.all:irrelevant
+d: the lack of a relation of something to the matter at hand
+hyper: immateriality
+hyper: inapplicability
+hypo: unconnectedness
+
+w: isometry drf adj.pert:isometric
+d: a one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points
+e: the isometries of the cube
+hypo: function
+
+w: iterative
+w: iterative_aspect
+d: the aspect of the verb that expresses the repetition of an action
+hypo: aspect
+
+w: last
+d: the last or lowest in an ordering or series
+e: he was the last to leave
+e: he finished an inglorious last
+hypo: noun.state:rank
+
+w: latter ant former
+d: the second of two or the second mentioned of two
+e: Tom and Dick were both heroes but only the latter is remembered today
+hypo: second
+
+w: leeward ant windward
+d: the direction in which the wind is blowing
+hyper: leeward_side
+hypo: direction
+
+w: leeward_side
+w: to_leeward
+d: the side sheltered from the wind
+hypo: leeward
+
+w: leftover
+w: remnant drf verb.stative:remain 5
+d: a small part or portion that remains after the main part no longer exists
+hypo: balance
+
+w: legal_relation
+d: a professional relation that is regulated by law (as between a lawyer and a client)
+hyper: fiduciary_relation
+hypo: professional_relation
+mt: noun.group:jurisprudence
+
+w: limiting
+w: modification drf verb.change:modify 1
+w: qualifying drf verb.change:qualify 1
+d: the grammatical relation that exists when a word qualifies the meaning of the phrase
+hyper: apposition
+hyper: restrictiveness
+hypo: grammatical_relation
+
+w: linear_operator
+d: an operator that obeys the distributive law: A(f+g) = Af + Ag (where f and g are functions)
+hypo: operator
+
+w: linguistic_relation
+d: a relation between linguistic forms or constituents
+hyper: grammatical_relation
+hyper: homonymy
+hyper: semantic_relation
+hypo: noun.Tops:relation
+
+w: link drf verb.contact:link drf verb.contact:link 2
+w: nexus
+d: the means of connection between things linked in series
+hypo: linkage
+
+w: linkage drf verb.cognition:link
+d: an associative relation
+hyper: link
+hypo: connectedness
+
+w: load_factor
+d: (aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
+hypo: ratio 1
+mt: noun.cognition:aeronautics
+
+w: loading
+d: the ratio of the gross weight of an airplane to some factor determining its lift
+hyper: power_loading
+hyper: span_loading
+hyper: wing_loading
+hypo: ratio 1
+
+w: logarithmic_scale
+d: scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
+hypo: graduated_table
+
+w: logical_relation
+d: a relation between propositions
+hyper: conditional_relation
+hyper: contradictory
+hyper: contrary 2
+hyper: modality
+hyper: reflexiveness 1
+hyper: transitivity 1
+hypo: noun.Tops:relation
+mt: noun.cognition:logic
+
+w: loss_ratio
+d: the ratio of the annual claims paid by an insurance company to the premiums received
+hypo: ratio 1
+
+w: magnification drf verb.change:magnify drf verb.change:magnify 1
+d: the ratio of the size of an image to the size of the object
+hypo: ratio 1
+
+w: magnitude
+w: order_of_magnitude
+d: a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
+hypo: ratio 1
+
+w: magnitude_relation
+w: quantitative_relation
+d: a relation between magnitudes
+hyper: proportion 1
+hyper: ratio 1
+hyper: scale
+hyper: noun.time:rate
+hypo: noun.Tops:relation
+
+w: male_bonding
+d: the formation of a close personal relationship between men
+e: the rituals known as male bonding do not necessarily involve drinking beer together
+hypo: bonding
+
+w: marital_bed
+w: marital_relationship
+d: the relationship between wife and husband
+hypo: family_relationship
+
+w: materiality ant immateriality drf adj.all:material 2
+d: relevance requiring careful consideration
+hypo: relevance
+
+w: maternal-infant_bonding
+d: the attachment that forms between an infant and its mother beginning at birth
+e: maternal-infant bonding influences the child's psychological and physical development
+hypo: bonding
+
+w: maternity
+w: motherhood drf noun.person:mother
+d: the kinship relation between an offspring and the mother
+hypo: family_relationship
+
+w: mathematical_relation
+d: a relation between mathematical expressions (such as equality or inequality)
+hyper: function
+hyper: parity
+hyper: reflexiveness 1
+hyper: transitivity 1
+hypo: noun.Tops:relation
+mt: noun.cognition:math
+
+w: mechanical_advantage
+d: the ratio of the force exerted by a machine to the force applied to it
+hypo: ratio 1
+
+w: medical_relation
+d: the professional relation between a health care professional and a patient
+hyper: doctor-patient_relation
+hyper: nurse-patient_relation
+hypo: professional_relation
+
+w: member drf noun.group:membership drf noun.state:membership
+d: anything that belongs to a set or class
+e: snakes are members of the class Reptilia
+e: members of the opposite sex
+hypo: component
+
+w: meronymy
+w: part_to_whole_relation
+d: the semantic relation that holds between a part and the whole
+hypo: semantic_relation
+mp: component
+
+w: metric
+w: metric_function
+d: a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
+hypo: function
+mt: noun.cognition:math
+mt: noun.cognition:natural_philosophy
+
+w: millionth
+d: position 1,000,000 in a countable series of things
+hypo: noun.state:rank
+
+w: modality
+w: mode
+d: a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+hypo: logical_relation
+
+w: modality 1 drf adj.pert:modal
+w: mode 2 drf adj.pert:modal
+w: mood
+d: verb inflections that express how the action or state is conceived by the speaker
+hyper: common_mood
+hyper: imperative
+hyper: interrogative
+hyper: optative
+hyper: subjunctive
+hypo: grammatical_relation
+
+w: moment_magnitude_scale
+d: a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
+hypo: graduated_table
+mt: noun.cognition:geology
+
+w: morbidity
+d: the relative incidence of a particular disease
+hypo: incidence
+
+w: multiplicative_inverse
+w: reciprocal
+d: (mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
+hypo: inverse 2
+mt: noun.cognition:math
+
+w: mutual_affection
+w: mutual_understanding
+d: sympathy of each person for the other
+hypo: sympathy
+
+w: mutual_opposition
+w: polarity 1 drf adjs.all:polar 1
+d: a relation between two opposite attributes or tendencies
+e: he viewed it as a balanced polarity between good and evil
+hypo: oppositeness
+
+w: mutualism
+w: symbiosis drf adjs.all:symbiotic
+d: the relation between two different species of organisms that are interdependent; each gains benefits from the other
+hyper: trophobiosis
+hypo: interdependence
+
+w: mutuality 1 drf adj.all:mutual drf adjs.all:mutual
+w: mutualness drf adjs.all:mutual
+d: a reciprocality of sentiments
+e: the mutuality of their affection was obvious
+hypo: reciprocality
+
+w: negativeness ant positiveness
+w: negativity ant positivity
+d: the character of the negative electric pole
+hypo: polarity
+
+w: nineteenth
+d: position 19 in a countable series of things
+hypo: noun.state:rank
+
+w: ninetieth
+d: position 90 in a countable series of things
+hypo: noun.state:rank
+
+w: ninth
+d: position nine in a countable series of things
+e: going into the ninth they were a run ahead
+hypo: noun.state:rank
+
+w: norm
+d: a standard or model or pattern regarded as typical
+e: the current middle-class norm of two children per family
+hypo: noun.communication:criterion
+
+w: north 2
+d: the direction corresponding to the northward cardinal compass point
+hypo: direction
+
+w: northeast 2
+d: the direction corresponding to the northeastward compass point
+hypo: direction
+
+w: northwest 2
+d: the direction corresponding to the northwestward compass point
+hypo: direction
+
+w: number_agreement
+d: agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
+hypo: agreement 3
+
+w: nurse-patient_relation
+d: the responsibility of a nurse to act in the best interests of the patient
+hypo: medical_relation
+mm: noun.person:nurse
+mm: noun.person:patient
+
+w: occupancy_rate
+d: the percentage of all rental units (as in hotels) are occupied or rented at a given time
+hyper: hospital_occupancy
+hyper: hotel_occupancy
+hypo: pct
+
+w: oddness drf adj.all:odd
+d: the parity of odd numbers (not divisible by two)
+hypo: parity
+
+w: operator
+d: (mathematics) a symbol or function representing a mathematical operation
+hyper: identity 1
+hyper: linear_operator
+hypo: function
+mt: noun.cognition:math
+
+w: oppositeness drf adjs.all:opposite drf adjs.all:opposite 3
+w: opposition 2
+d: the relation between opposed entities
+hyper: antagonism
+hyper: antipode
+hyper: antithesis
+hyper: conflict
+hyper: contradiction
+hyper: contradictoriness
+hyper: contrariety
+hyper: contrary
+hyper: contrary 1
+hyper: contrast
+hyper: flip_side
+hyper: gradable_opposition
+hyper: inverse 2
+hyper: mutual_opposition
+hyper: polarity
+hyper: tertium_quid
+hyper: ungradable_opposition
+hypo: noun.Tops:relation
+
+w: opposition
+d: a direction opposite to another
+hyper: antipodal
+hyper: enantiomorphism
+hyper: orthogonal_opposition
+hypo: direction
+
+w: optative
+w: optative_mood
+d: a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs
+hypo: modality 1
+mr: noun.location:Ellas
+mt: noun.communication:Sanskrit
+
+w: orientation
+d: position or alignment relative to points of the compass or other specific directions
+attr: adj.all:horizontal
+attr: adj.all:inclined 1
+attr: adj.all:perpendicular 4
+hyper: attitude
+hyper: horizontal
+hyper: quarter
+hyper: vertical
+hypo: direction
+
+w: orthogonal_opposition
+w: orthogonality
+w: perpendicularity drf adj.all:perpendicular drf adj.all:perpendicular 4
+d: the relation of opposition between things at right angles
+hypo: opposition
+
+w: output-to-input_ratio
+d: the output power of a transducer divided by the input power
+hp: noun.attribute:frequency_response
+hypo: ratio 1
+
+w: paradigm drf adj.pert:paradigmatic 1
+d: systematic arrangement of all the inflected forms of a word
+hypo: inflection
+
+w: parasitism
+d: the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+hypo: interdependence
+
+w: parity
+d: (mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity
+e: parity is often used to check the integrity of transmitted data
+hyper: evenness
+hyper: oddness
+hypo: mathematical_relation
+mt: noun.cognition:math
+
+w: partner_relation
+d: the responsibility of partners to act in one another's best interests
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: partnership
+d: a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal
+e: effective language learning is a partnership between school, teacher and student
+e: the action teams worked in partnership with the government
+hypo: human_relationship
+
+w: passive drf adj.all:passive 2
+w: passive_voice ant active_voice
+d: the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb
+e: `The ball was thrown by the boy' uses the passive voice
+e: `The ball was thrown' is an abbreviated passive
+hypo: voice
+
+w: past_perfect
+w: past_perfect_tense
+w: pluperfect
+w: pluperfect_tense
+d: a perfective tense used to express action completed in the past
+e: `I had finished' is an example of the past perfect
+hypo: perfect
+
+w: past_progressive
+w: past_progressive_tense
+d: a progressive tense used to describe on-going action in the past
+e: `I had been running' is an example of the past progressive
+hypo: continuous_tense
+
+w: pct
+w: per_centum
+w: percent
+w: percentage
+d: a proportion in relation to a whole (which is usually the amount per hundred)
+hyper: absentee_rate
+hyper: occupancy_rate
+hyper: unemployment_rate
+hyper: vacancy_rate
+hypo: proportion
+
+w: perfect
+w: perfect_tense
+w: perfective 1
+w: perfective_tense
+d: a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+hyper: future_perfect
+hyper: past_perfect
+hyper: present_perfect
+hypo: noun.communication:tense
+
+w: perfective
+w: perfective_aspect
+d: the aspect of a verb that expresses a completed action
+hypo: aspect
+
+w: person_agreement
+d: agreement in person between pronouns and verbs
+hypo: agreement 3
+
+w: personal_relation
+w: personal_relationship
+d: a relation between persons
+hyper: bonding
+hyper: indebtedness
+hypo: human_relationship
+
+w: pluralisation drf verb.communication:pluralise
+w: pluralization drf verb.communication:pluralize
+d: the act of pluralizing or attributing plurality to
+hypo: inflection
+
+w: point 4
+d: a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
+hypo: relevance
+
+w: polar_opposition
+d: an opposition that can be graded between two extremes or poles
+hypo: gradable_opposition
+
+w: polarity drf adjs.all:polar 3
+w: sign
+d: having an indicated pole (as the distinction between positive and negative electric charges)
+e: he got the polarity of the battery reversed
+e: charges of opposite sign
+hyper: negativeness
+hyper: positiveness
+hypo: oppositeness
+
+w: political_relation
+w: politics drf noun.person:politician drf noun.person:politician 1
+d: social relations involving intrigue to gain authority or power
+e: office politics is often counterproductive
+dt: noun.state:wilderness
+hypo: noun.Tops:social_relation
+
+w: positiveness ant negativeness
+w: positivity ant negativity
+d: the character of the positive electric pole
+hypo: polarity
+
+w: power_loading
+d: the ratio of the weight of an airplane to its engine power
+hypo: loading
+
+w: present_perfect
+w: present_perfect_tense
+d: a perfective tense used to express action completed in the present
+e: `I have finished' is an example of the present perfect
+hypo: perfect
+
+w: present_progressive
+w: present_progressive_tense
+d: a tense used to express action that is on-going at the time of utterance
+hypo: continuous_tense
+
+w: preterit
+w: preterite
+d: a term formerly used to refer to the simple past tense
+hypo: noun.communication:past
+
+w: prevalence
+d: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
+hypo: ratio 1
+mt: noun.cognition:epidemiology
+
+w: price_competition
+w: price_war
+d: intense competition in which competitors cut retail prices to gain business
+hypo: competition 1
+
+w: productivity
+d: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time
+hypo: ratio 1
+mt: noun.cognition:economic_science
+
+w: professional_relation
+d: the relation that exists when one person requests and is granted professional help from a qualified source
+hyper: academic_relation
+hyper: legal_relation
+hyper: medical_relation
+hypo: noun.Tops:social_relation
+
+w: progressive_aspect
+d: the aspect of a verb that expresses its on-going action
+hypo: durative
+
+w: proportion drf verb.change:proportion
+d: the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+hyper: batting_average 1
+hyper: case-fatality_proportion
+hyper: case-to-infection_proportion
+hyper: content
+hyper: golden_mean
+hyper: pct
+hyper: rate
+hyper: scale 1
+hypo: quotient
+mp: noun.cognition:proportional
+
+w: proportion 1
+w: ratio
+d: the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree
+e: an inordinate proportion of the book is given over to quotations
+e: a dry martini has a large proportion of gin
+hypo: magnitude_relation
+
+w: proportionality drf adjs.all:proportional 1
+d: a ratio of two quantities that is constant
+hyper: commensurateness
+hypo: ratio 1
+
+w: psychodynamics
+d: the interrelation of conscious and unconscious processes and emotions that determine personality and motivation
+hypo: interrelatedness
+
+w: quarter
+d: one of the four major division of the compass
+e: the wind is coming from that quarter
+hypo: orientation
+
+w: quotient
+d: the ratio of two quantities to be divided
+hyper: proportion
+hypo: ratio 1
+
+w: rapport
+w: resonance drf verb.cognition:resonate
+d: a relationship of mutual understanding or trust and agreement between people
+hypo: affinity 3
+
+w: rate
+d: a quantity or amount or measure considered as a proportion of another quantity or amount or measure
+e: the literacy rate
+e: the retention rate
+e: the dropout rate
+hypo: proportion
+
+w: ratio 1
+d: the relative magnitudes of two quantities (usually expressed as a quotient)
+hyper: noun.possession:gross_margin
+hyper: I.Q.
+hyper: Mach_number
+hyper: P/E_ratio
+hyper: S/N
+hyper: abundance
+hyper: abundance 1
+hyper: albedo
+hyper: aspect_ratio
+hyper: average
+hyper: betting_odds
+hyper: breadth_index
+hyper: efficiency
+hyper: employee_turnover
+hyper: f_number
+hyper: facial_index
+hyper: factor_of_safety
+hyper: frequency
+hyper: fuel_consumption_rate
+hyper: haematocrit
+hyper: index_of_refraction
+hyper: load_factor
+hyper: loading
+hyper: loss_ratio
+hyper: magnification
+hyper: magnitude
+hyper: mechanical_advantage
+hyper: output-to-input_ratio
+hyper: prevalence
+hyper: productivity
+hyper: proportionality
+hyper: quotient
+hyper: relative_humidity
+hyper: respiratory_quotient
+hyper: stoichiometry
+hyper: time_constant
+hyper: noun.shape:eccentricity
+hypo: magnitude_relation
+
+w: receiver-creditor_relation
+d: the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: reciprocal 1
+d: something (a term or expression or concept) that has an inverse relation to something else
+e: risk is the reciprocal of safety
+hypo: reciprocality
+
+w: reciprocality drf adj.all:reciprocal
+w: reciprocity drf adj.all:reciprocal
+d: a relation of mutual dependence or action or influence
+hyper: complementarity 2
+hyper: correlation
+hyper: interdependence
+hyper: mutuality 1
+hyper: reciprocal 1
+hypo: noun.Tops:relation
+
+w: reflection
+d: (mathematics) a transformation in which the direction of one axis is reversed
+hypo: transformation
+mt: noun.cognition:math
+
+w: reflexiveness
+w: reflexivity
+d: the coreferential relation between a reflexive pronoun and its antecedent
+hypo: coreference
+
+w: reflexiveness 1 drf adjs.all:reflexive 1
+w: reflexivity 1 drf adjs.all:reflexive 1
+d: (logic and mathematics) a relation such that it holds between an element and itself
+hypo: logical_relation
+hypo: mathematical_relation
+mt: noun.cognition:logic
+mt: noun.cognition:math
+
+w: relatedness ant unrelatedness drf adj.all:related 1 drf adj.all:related 2
+d: a particular manner of connectedness
+e: the relatedness of all living things
+hyper: bearing 1
+hypo: connectedness
+
+w: relative_humidity
+d: the ratio of the amount of water in the air at a given temperature to the maximum amount it could hold at that temperature; expressed as a percentage
+hypo: ratio 1
+
+w: relevance ant irrelevance drf adj.all:relevant
+w: relevancy drf adj.all:relevant
+d: the relation of something to the matter at hand
+hyper: applicability
+hyper: cogency
+hyper: materiality
+hyper: point 4
+hypo: connectedness
+
+w: respiratory_quotient
+d: the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
+hypo: ratio 1
+
+w: restrictiveness
+d: a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')
+hypo: limiting
+
+w: rotation
+d: (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin
+hypo: transformation
+mt: noun.cognition:math
+
+w: scale
+d: relative magnitude
+e: they entertained on a grand scale
+hypo: magnitude_relation
+
+w: scale 1 drf verb.change:scale 1 drf verb.creation:scale
+d: the ratio between the size of something and a representation of it
+e: the scale of the map
+e: the scale of the model
+hypo: proportion
+
+w: seaward
+d: the direction toward the sea
+hypo: direction
+
+w: sec
+w: secant
+d: ratio of the hypotenuse to the adjacent side of a right-angled triangle
+hypo: circular_function
+
+w: second drf adjs.all:second
+d: following the first in an ordering or series
+e: he came in a close second
+hyper: latter
+hypo: noun.state:rank
+
+w: semantic_relation
+d: a relation between meanings
+hyper: antonymy
+hyper: holonymy
+hyper: hypernymy
+hyper: hyponymy
+hyper: meronymy
+hyper: synonymity
+hyper: troponymy
+hypo: linguistic_relation
+
+w: series drf adjs.all:serial 1
+d: (electronics) connection of components in such a manner that current flows first through one and then through the other
+e: the voltage divider consisted of a series of fixed resistors
+hypo: connectedness
+mt: noun.cognition:electronics
+
+w: seventeenth drf adjs.all:seventeenth
+d: position 17 in a countable series of things
+hypo: noun.state:rank
+
+w: seventh drf adjs.all:seventh
+d: position seven in a countable series of things
+hypo: noun.state:rank
+
+w: seventieth drf adjs.all:seventieth
+d: position 70 in a countable series of things
+hypo: noun.state:rank
+
+w: sharing drf verb.stative:share
+d: having in common
+e: the sharing of electrons creates molecules
+hypo: interdependence
+
+w: sharing 1 drf verb.possession:share 2
+d: using or enjoying something jointly with others
+hyper: time_sharing
+hypo: interdependence
+
+w: silver_cord
+d: the emotional bond between a mother and her offspring
+hypo: alliance
+
+w: sin
+w: sine
+d: ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle
+hypo: circular_function
+
+w: sisterhood drf noun.person:sister
+w: sistership
+d: the kinship relation between a female offspring and the siblings
+hypo: family_relationship
+
+w: sixteenth
+d: position 16 in a countable series of things
+hypo: noun.state:rank
+
+w: sixth
+d: position six in a countable series of things
+hypo: noun.state:rank
+
+w: sixtieth
+d: position 60 in a countable series of things
+hypo: noun.state:rank
+
+w: sliding_scale
+d: a wage scale that fluctuates in response to the cost-of-living index
+hypo: wage_scale
+
+w: south 2
+d: the direction corresponding to the southward cardinal compass point
+hypo: direction
+
+w: southeast 2
+d: the direction corresponding to the southeastward compass point
+hypo: direction
+
+w: southwest 2
+d: the direction corresponding to the southwestward compass point
+hypo: direction
+
+w: span_loading
+d: the ratio of the weight of an airplane to its wingspan
+hypo: loading
+
+w: steprelationship
+d: a family relationship by virtue of remarriage
+hypo: affinity 1
+
+w: stoichiometry drf adj.pert:stoichiometric
+d: (chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
+hypo: ratio 1
+mt: noun.cognition:chemical_science
+
+w: subjunctive
+w: subjunctive_mood
+d: a mood that represents an act or state (not as a fact but) as contingent or possible
+hypo: modality 1
+
+w: subordinating_conjunction
+d: the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
+hypo: conjunction 2
+
+w: subordination 1
+d: the grammatical relation of a modifying word or phrase to its head
+hypo: grammatical_relation
+
+w: subpart
+d: a part of a part
+hypo: component
+
+w: sympathy drf adjs.all:sympathetic 2 drf verb.emotion:sympathise 1 drf verb.emotion:sympathize 1
+d: a relation of affinity or harmony between people; whatever affects one correspondingly affects the other
+e: the two of them were in close sympathy
+hyper: mutual_affection
+hypo: affinity 3
+
+w: synchroneity drf adj.all:synchronous
+w: synchronicity drf adj.all:synchronic 4 drf adjs.all:synchronic
+w: synchronisation drf verb.stative:synchronise
+w: synchronism ant asynchronism
+w: synchronization ant desynchronization drf verb.stative:synchronize
+w: synchronizing ant desynchronizing drf verb.stative:synchronize
+w: synchrony drf adj.all:synchronic 4 drf adj.all:synchronous drf verb.change:synchronise drf verb.change:synchronize drf verb.cognition:synchronise drf verb.cognition:synchronize drf verb.communication:synchronize drf verb.stative:synchronise drf verb.stative:synchronize
+d: the relation that exists when things occur at the same time
+e: the drug produces an increased synchrony of the brain waves
+hypo: temporal_relation
+
+w: synonymity drf adj.all:synonymous
+w: synonymousness drf adj.all:synonymous
+w: synonymy drf noun.person:synonymist
+d: the semantic relation that holds between two words that can (in a given context) express the same meaning
+hypo: semantic_relation
+
+w: tan
+w: tangent drf adj.pert:tangential
+d: ratio of the opposite to the adjacent side of a right-angled triangle
+hypo: circular_function
+
+w: teacher-student_relation
+d: the academic relation between teachers and their students
+hypo: academic_relation
+mm: noun.person:educatee
+mm: noun.person:instructor
+
+w: temperature_gradient
+d: change in temperature as a function of distance (especially altitude)
+hypo: gradient
+
+w: temperature_scale
+d: a system of measuring temperature
+hyper: Celsius_scale
+hyper: Fahrenheit_scale
+hyper: Kelvin_scale
+hyper: Rankine_scale
+hyper: Reaumur_scale
+hypo: noun.quantity:metric
+hypo: graduated_table
+
+w: temporal_relation
+d: a relation involving time
+attr: adj.all:anterograde
+attr: adj.all:preceding
+attr: adj.all:retrograde
+attr: adj.all:succeeding
+hyper: antecedent
+hyper: asynchronism
+hyper: chronology
+hyper: synchroneity
+hypo: noun.Tops:relation
+
+w: tenth
+d: position ten in a countable series of things
+hypo: noun.state:rank
+
+w: tertium_quid
+d: some third thing similar to two opposites but distinct from both
+hypo: oppositeness
+
+w: third
+d: following the second position in an ordering or series
+e: a distant third
+e: he answered the first question willingly, the second reluctantly, and the third with resentment
+hypo: noun.state:rank
+
+w: thirteenth
+d: position 13 in a countable series of things
+hypo: noun.state:rank
+
+w: thirtieth
+d: position 30 in a countable series of things
+hypo: noun.state:rank
+
+w: thousandth
+d: position 1,000 in a countable series of things
+hypo: noun.state:rank
+
+w: threshold_function
+d: a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
+hypo: function
+
+w: time_constant
+d: the ratio of the inductance of a circuit in henries to its resistance in ohms
+hypo: ratio 1
+
+w: time_sharing
+d: (computer science) the use of a central computer by many users simultaneously
+hypo: sharing 1
+mt: noun.cognition:computer_science
+
+w: transformation drf verb.change:transform 2
+d: (mathematics) a function that changes the position or direction of the axes of a coordinate system
+hyper: affine_transformation
+hyper: reflection
+hyper: rotation
+hyper: translation
+hypo: function
+mt: noun.cognition:math
+
+w: transitiveness drf adj.all:transitive
+w: transitivity ant intransitivity drf adj.all:transitive
+d: the grammatical relation created by a transitive verb
+hypo: grammatical_relation
+
+w: transitivity 1
+d: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third
+hypo: logical_relation
+hypo: mathematical_relation
+mt: noun.cognition:logic
+mt: noun.cognition:math
+
+w: translation
+d: (mathematics) a transformation in which the origin of the coordinate system is moved to another position but the direction of each axis remains the same
+hypo: transformation
+mt: noun.cognition:math
+
+w: trim drf verb.stative:trim 5 drf verb.stative:trim 6
+d: attitude of an aircraft in flight when allowed to take its own orientation
+hypo: attitude
+
+w: trophobiosis
+d: a symbiotic relation in which one organism protects the other in return for some kind of food product
+hypo: mutualism
+
+w: troponymy
+d: the semantic relation of being a manner of does something
+hypo: semantic_relation
+
+w: trustee-beneficiary_relation
+d: the responsibility of a trustee to act in the best interests of the beneficiary
+hypo: fiduciary_relation
+mt: noun.group:jurisprudence
+
+w: twelfth
+d: position 12 in a countable series of things
+hypo: noun.state:rank
+
+w: twentieth
+d: position 20 in a countable series of things
+hypo: noun.state:rank
+
+w: unconnectedness ant connectedness drf adj.all:unconnected drf adjs.all:unconnected 1
+d: the lack of a connection between things
+hyper: irrelevance
+hyper: unrelatedness
+hypo: noun.Tops:relation
+
+w: unemployment_rate
+d: the percentage of the work force that is unemployed at any given date
+hypo: pct
+
+w: ungradable_opposition
+d: an opposition that has no intermediate grade; either one or the other
+hyper: complementarity 1
+hypo: oppositeness
+
+w: unilateral_descent
+d: line of descent traced through one side of the family
+hyper: agnation
+hyper: cognation 1
+hypo: descent
+
+w: unit drf verb.change:unitize drf verb.social:unitize
+d: an individual or group or structure or other entity regarded as a structural or functional constituent of a whole
+e: the reduced the number of units and installations
+e: the word is a basic linguistic unit
+hypo: component
+
+w: unrelatedness ant relatedness drf adj.all:unrelated 1 drf adj.all:unrelated 2
+d: the lack of any particular manner of connectedness
+hyper: extraneousness
+hypo: unconnectedness
+
+w: vacancy_rate
+d: the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
+hypo: pct
+
+w: vertical drf adj.all:vertical
+d: something that is oriented vertically
+hypo: orientation
+
+w: voice
+d: (linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
+hyper: active
+hyper: passive
+hypo: grammatical_relation
+mt: noun.cognition:linguistics
+
+w: wage_scale
+w: wage_schedule
+d: a schedule of wages paid for different jobs
+hyper: sliding_scale
+hypo: graduated_table
+
+w: weather_side
+w: weatherboard
+w: windward_side
+d: the side toward the wind
+hypo: windward
+
+w: west 2
+d: the direction corresponding to the westward cardinal compass point
+hypo: direction
+
+w: windward ant leeward
+d: the direction from which the wind is coming
+hyper: weather_side
+hypo: direction
+
+w: wing_loading
+d: the ratio of the weight of an airplane to its wing area
+hypo: loading
+

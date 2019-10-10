@@ -1,0 +1,4653 @@
+noun.process
+
+w: ADP
+w: automatic_data_processing
+d: data processing by a computer
+hyper: EDP
+hyper: IDP
+hypo: data_processing
+
+w: Acheson_process
+d: an industrial process for making graphite by heating a mixture of coke and clay
+hypo: industrial_process
+
+w: Americanisation drf verb.change:Americanise drf verb.change:Americanise 1
+w: Americanization drf verb.change:Americanize drf verb.change:Americanize 1
+d: assimilation into American culture
+hypo: absorption 3
+
+w: Anglicisation drf verb.change:anglicise
+w: Anglicization drf verb.change:anglicize
+d: the act of anglicizing; making English in appearance
+hypo: absorption 3
+
+w: BMR
+w: basal_metabolic_rate
+d: the rate at which heat is produced by an individual in a resting state
+hypo: noun.time:metabolic_rate
+
+w: Bessemer_process
+d: an industrial process for making steel using a Bessemer converter to blast air through molten iron and thus burning the excess carbon and impurities; the first successful method of making steel in quantity at low cost
+hypo: industrial_process
+hypo: steel_production
+
+w: Bradley_method
+w: Bradley_method_of_childbirth
+d: a method that prepares a mother for natural childbirth by providing education and exercises and nutrition and techniques of breathing and relaxation (with the assistance of the father)
+hypo: natural_childbirth
+
+w: EDP
+w: electronic_data_processing
+d: automatic data processing by electronic means without the use of tabulating cards or punched tapes
+hypo: ADP
+
+w: Europeanisation drf verb.change:Europeanise 1
+w: Europeanization drf verb.change:Europeanize 1
+d: assimilation into European culture
+hypo: absorption 3
+
+w: Haber-Bosch_process
+w: Haber_process
+d: an industrial process for producing ammonia from nitrogen and hydrogen by combining them under high pressure in the presence of an iron catalyst
+hypo: industrial_process
+
+w: IDP
+w: integrated_data_processing
+d: automatic data processing in which data acquisition and other stages or processing are integrated into a coherent system
+hypo: ADP
+
+w: Krebs_citric_acid_cycle
+w: Krebs_cycle
+w: citric_acid_cycle
+w: tricarboxylic_acid_cycle
+d: in all plants and animals: a series of enzymatic reactions in mitochondria involving oxidative metabolism of acetyl compounds to produce high-energy phosphate compounds that are the source of cellular energy
+hp: metabolic_process
+hypo: biological_process
+mp: oxidative_phosphorylation
+
+w: Lamaze_method
+w: Lamaze_method_of_childbirth
+d: a method that prepares a mother for natural childbirth; the pregnant woman (in classes and at home) practices (usually with the help of a coach) and learns about the physiology of childbirth and techniques of relaxation, concentration, and breathing
+hypo: natural_childbirth
+mp: noun.act:effleurage
+
+w: Leboyer_method
+w: Leboyer_method_of_childbirth
+d: a method of childbirth that tries to minimize the trauma for the newborn; delivery occurs in a quiet dimly lit room and the infant's head is not pulled and immediate bonding between mother and child is encouraged
+hypo: natural_childbirth
+
+w: Markoff_chain
+w: Markov_chain
+d: a Markov process for which the parameter is discrete time values
+hypo: Markoff_process
+
+w: Markoff_process
+w: Markov_process
+d: a simple stochastic process in which the distribution of future states depends only on the present state and not on how it arrived in the present state
+hyper: Markoff_chain
+hypo: stochastic_process
+
+w: Nazification
+d: social process of adopting (or being forced to adopt) Nazism
+e: as the process of Nazification spread they paid less attention to public opinion
+hypo: social_process
+
+w: Read_method
+w: Read_method_of_childbirth
+d: a method of natural childbirth that assumes it is a normal process and that the pain is largely psychological; involves education and breathing exercises to foster relaxation and other exercises
+hypo: natural_childbirth
+
+w: Riss_glaciation
+d: the next-to-last Pleistocene glaciation in the Alps and the deposits laid down at that time
+hypo: glaciation
+
+w: Saale_glaciation
+d: the next-to-last Pleistocene glaciation in northern Europe and the deposits laid down at that time
+hypo: glaciation
+
+w: Solvay_process
+d: an industrial process for producing sodium carbonate from sodium chloride and ammonia and carbon dioxide
+hypo: industrial_process
+
+w: Stalinisation drf verb.change:stalinise
+w: Stalinization drf verb.change:stalinize
+d: social process of adopting (or being forced to adopt) the policies and practices of Joseph Stalin
+e: many Hungarians refused to take part in the Stalinization of their country
+hypo: social_process
+
+w: Westernisation
+w: Westernization
+d: assimilation of Western culture; the social process of becoming familiar with or converting to the customs and practices of Western civilization
+hypo: absorption 3
+
+w: Wolstonian_glaciation
+d: the next-to-last Pleistocene glaciation in Britain and the deposits laid down at that time
+hypo: glaciation
+
+w: ablactation
+d: the cessation of lactation
+hypo: activity
+
+w: ablation drf verb.change:ablate
+d: the erosive process that reduces the size of glaciers
+hypo: eating_away
+
+w: abrasion drf verb.contact:abrade
+w: attrition drf adj.pert:attritional
+w: corrasion drf verb.contact:corrade
+w: detrition
+d: erosion by friction
+hypo: eating_away
+
+w: abscission
+d: shedding of flowers and leaves and fruit following formation of scar tissue in a plant
+hypo: shedding
+
+w: absorption drf verb.contact:absorb drf verb.contact:absorb 1
+w: soaking_up
+d: (chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid
+hyper: imbibition
+hypo: sorption
+mt: noun.cognition:chemical_science
+
+w: absorption 1
+w: assimilation 1 drf verb.contact:assimilate
+d: the process of absorbing nutrients into the body after digestion
+hyper: anabolism
+hyper: malabsorption
+hypo: biological_process
+
+w: absorption 2 drf verb.weather:absorb
+d: (physics) the process in which incident radiated energy is retained without reflection or transmission on passing through a medium
+e: the absorption of photons by atoms or molecules
+hp: extinction
+hypo: action
+mt: noun.cognition:natural_philosophy
+
+w: absorption 3 drf verb.cognition:absorb
+w: assimilation 2 drf verb.change:assimilate drf verb.change:assimilate 1
+d: the social process of absorbing one cultural group into harmony with another
+hyper: Americanisation
+hyper: Anglicisation
+hyper: Europeanisation
+hyper: Westernisation
+hypo: social_process
+
+w: accession
+d: a process of increasing by addition (as to a collection or group)
+e: the art collection grew through accession
+hypo: growth 2
+
+w: acclimation drf verb.change:acclimate
+w: acclimatisation drf verb.change:acclimatise
+w: acclimatization drf verb.change:acclimatize
+d: adaptation to a new climate (a new temperature or altitude or environment)
+hypo: adaptation
+
+w: accouchement
+w: childbearing drf adj.pert:childbearing
+w: childbirth
+w: vaginal_birth
+d: the parturition process in human beings; having a baby; the process of giving birth to a child
+hyper: active_birth
+hyper: alternative_birth
+hyper: natural_childbirth
+hypo: birth
+mp: noun.act:delivery 2
+
+w: accretion drf adjs.all:accretionary drf verb.change:accrete 1
+w: accumulation
+d: an increase by natural growth or addition
+hyper: backup
+hyper: buildup
+hyper: deposit
+hypo: growth 2
+
+w: accretion 1 drf adjs.all:accretionary
+d: (geology) an increase in land resulting from alluvial deposits or waterborne sediment
+hypo: growth 2
+mt: noun.cognition:geology
+
+w: accretion 2 drf adjs.all:accretionary drf verb.change:accrete 1
+d: (biology) growth by addition as by the adhesion of parts or particles
+hypo: growth 2
+mt: noun.cognition:biological_science
+
+w: accretion 3 drf adjs.all:accretionary
+d: (astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases
+hypo: growth 2
+mt: noun.cognition:astronomy
+
+w: acetylation drf verb.change:acetylate drf verb.change:acetylate 1
+d: the process of introducing an acetyl group into a compound
+e: the acetylation of cyclooxygenase-2 by aspirin
+hypo: acylation
+
+w: acid-base_balance
+w: acid-base_equilibrium
+d: (physiology) the normal equilibrium between acids and alkalis in the body
+e: with a normal acid-base balance in the body the blood is slightly alkaline
+hypo: chemical_equilibrium
+mt: noun.cognition:physiology
+
+w: acidification drf verb.change:acidify
+d: the process of becoming acid or being converted into an acid
+hypo: action
+
+w: action
+w: activity 1 drf adj.all:active 4 drf adj.all:active 10
+w: natural_action
+w: natural_process
+d: a process existing in or produced by nature (rather than by the intent of human beings)
+e: the action of natural forces
+e: volcanic activity
+hyper: noun.event:radiation
+hyper: absorption 2
+hyper: acidification
+hyper: adiabatic_process
+hyper: aeration
+hyper: antiredeposition
+hyper: capture
+hyper: capture 1
+hyper: cataphoresis
+hyper: centrifugation
+hyper: chemical_action
+hyper: chromatography
+hyper: clotting
+hyper: concretion
+hyper: condensation
+hyper: convection 2
+hyper: curing
+hyper: decay 2
+hyper: demagnetisation
+hyper: desorption
+hyper: diffusion
+hyper: disintegration 1
+hyper: distillation
+hyper: drift 1
+hyper: ecesis
+hyper: ecological_succession
+hyper: effervescence
+hyper: extinction
+hyper: extraction
+hyper: feedback
+hyper: filtration
+hyper: flocculation
+hyper: flow
+hyper: formation
+hyper: fossilisation
+hyper: geologic_process
+hyper: inactivation
+hyper: ion_exchange
+hyper: ionisation
+hyper: leach
+hyper: magnetic_induction
+hyper: materialisation
+hyper: natural_selection
+hyper: nuclear_reaction
+hyper: opacification
+hyper: oscillation
+hyper: oxygenation
+hyper: pair_creation
+hyper: phase_change
+hyper: precession_of_the_equinoxes
+hyper: release
+hyper: rigidification
+hyper: saltation
+hyper: scattering
+hyper: sericulture
+hyper: sink
+hyper: soak
+hyper: softening
+hyper: sorption
+hyper: source
+hyper: stimulation
+hyper: synergism
+hyper: temperature_change
+hyper: transduction
+hyper: transpiration 1
+hyper: vitrification
+hypo: noun.Tops:physical_process
+
+w: activation ant inactivation drf verb.change:activate 1 drf verb.change:activate 2 drf verb.change:activate 3 drf verb.creation:activate
+d: stimulation of activity in an organism or chemical
+hyper: indweller
+hypo: stimulation
+
+w: active_birth
+d: childbirth during which the mother is encouraged to be an active participant
+hypo: accouchement
+
+w: active_transport
+d: transport of a substance (as a protein or drug) across a cell membrane against the concentration gradient; requires an expenditure of energy
+hypo: transport
+mt: noun.artifact:drug
+
+w: activity drf adj.all:active 2
+w: bodily_function
+w: bodily_process
+w: body_process
+d: an organic process that takes place in the body
+e: respiratory activity
+hyper: noun.act:breath
+hyper: noun.act:breathing
+hyper: noun.act:consumption 1
+hyper: noun.act:control 2
+hyper: noun.act:crying
+hyper: noun.act:insemination
+hyper: noun.act:reaction
+hyper: noun.act:respiration 2
+hyper: noun.act:sex
+hyper: noun.act:sleeping
+hyper: ablactation
+hyper: anastalsis
+hyper: diaphoresis
+hyper: discharge
+hyper: expectoration
+hyper: festering
+hyper: healing
+hyper: hypostasis
+hyper: lachrymation
+hyper: lactation
+hyper: opsonisation
+hyper: overactivity
+hyper: peristalsis
+hyper: phagocytosis
+hyper: pinocytosis
+hyper: placentation
+hyper: psilosis
+hyper: tanning
+hyper: transpiration 2
+hypo: biological_process
+
+w: acylation
+d: the process of introducing an acyl group into a compound
+hyper: acetylation
+hypo: chemical_action
+
+w: adaptation drf verb.change:adapt 2
+w: adaption drf verb.change:adapt 2
+w: adjustment drf verb.change:adjust 1
+d: the process of adapting to something (such as environmental conditions)
+hyper: acclimation
+hyper: dedifferentiation
+hyper: differentiation
+hyper: domestication
+hypo: biological_process
+
+w: addition_reaction
+d: a chemical reaction in which one molecule is added to another
+hypo: chemical_reaction
+
+w: adiabatic_process
+d: (thermodynamics) any process that occurs without gain or loss of heat
+hypo: action
+mt: noun.cognition:thermodynamics
+
+w: administrative_data_processing
+w: business_data_processing
+d: data processing in accounting or business management
+hypo: data_processing
+
+w: adsorption drf verb.contact:adsorb
+w: surface_assimilation
+d: the accumulation of molecules of a gas to form a thin film on the surface of a solid
+hyper: chemisorption
+hypo: sorption
+
+w: advection drf verb.motion:advect
+d: (meteorology) the horizontal transfer of heat or other atmospheric properties
+hypo: temperature_change
+mt: noun.cognition:meteorology
+
+w: aeration drf verb.perception:aerate
+d: the process of exposing to air (so as to purify)
+e: the aeration of the soil
+hypo: action
+
+w: agamogenesis drf adjs.all:agamogenetic
+w: asexual_reproduction
+d: reproduction without the fusion of gametes
+hyper: apomixis
+hyper: blastogenesis
+hyper: budding
+hyper: fission 1
+hyper: fissiparity
+hyper: gemmation
+hyper: monogenesis
+hyper: parthenogenesis 1
+hypo: reproduction
+
+w: ageing
+w: aging
+w: senescence drf adjs.all:senescent
+d: the organic process of growing older and showing the effects of increasing age
+hyper: catabiosis
+hypo: biological_process
+
+w: ageing 1
+w: aging 1
+w: ripening 1
+d: acquiring desirable qualities by being left undisturbed for some time
+hyper: mellowing
+hypo: biological_process
+
+w: agenesia
+w: agenesis
+d: imperfect development; nondevelopment of a part
+hypo: nondevelopment
+
+w: agglutinating_activity
+w: agglutination 2
+d: the coalescing of small particles that are suspended in solution; these larger masses are then (usually) precipitated
+hypo: chemical_action
+
+w: agglutination drf verb.contact:agglutinate 1
+d: the building of words from component morphemes that retain their form and meaning in the process of combining
+hypo: linguistic_process
+
+w: agglutination 1 drf verb.contact:agglutinate
+d: a clumping of bacteria or red cells when held together by antibodies (agglutinins)
+hyper: haemagglutination
+hyper: isoagglutination
+hypo: biological_process
+
+w: aldol_reaction
+d: a reaction of aldehydes resulting in an aldol
+hypo: chemical_reaction
+
+w: alluvion
+d: gradual formation of new land, by recession of the sea or deposit of sediment
+hypo: geologic_process
+
+w: alpha_decay
+d: radioactive decay of an atomic nucleus that is accompanied by the emission of an alpha particle
+hypo: decay 3
+
+w: alternative_birth
+w: alternative_birthing
+d: a method of childbirth that avoids intrusive high-tech medicine in favor of more natural and homely settings
+hypo: accouchement
+
+w: amelogenesis
+d: the developmental process of forming tooth enamel
+hypo: development 1
+
+w: amitosis drf adj.pert:amitotic
+d: the direct method of cell division characterized by simple division of the nucleus without formation of chromosomes
+hypo: cell_division
+
+w: ammonification drf verb.change:ammonify
+d: impregnation with ammonia or a compound of ammonia
+hypo: permeation
+
+w: amphimixis
+w: sexual_reproduction
+d: reproduction involving the union or fusion of a male and a female gamete
+hyper: anisogamy
+hyper: isogamy
+hypo: reproduction
+mm: noun.event:amphimixis
+
+w: amylolysis drf adj.pert:amylolytic
+d: conversion of starch to sugar
+hypo: chemical_action
+
+w: anabolism ant catabolism drf adj.all:anabolic drf adj.pert:anabolic
+w: constructive_metabolism
+d: the synthesis in living organisms of more complex substances (e.g., living tissue) from simpler ones together with the storage of energy
+hp: metabolic_process
+hypo: absorption 1
+
+w: anaglyphy drf adj.pert:anaglyphical drf adj.pert:anaglyptic
+d: the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens
+hypo: photography
+
+w: anamorphism ant katamorphism
+d: metamorphism that occurs deep under the earth's surface; changes simple minerals into complex minerals
+hypo: metamorphism
+
+w: anamorphism 1
+w: anamorphosis
+d: the evolution of one type of organism from another by a long series of gradual changes
+hypo: evolution
+
+w: anaphase drf adj.pert:anaphasic
+d: the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle
+hp: meiosis
+hypo: phase_of_cell_division
+
+w: anastalsis ant peristalsis
+d: muscular action of the alimentary tract in a direction opposite to peristalsis
+hypo: activity
+
+w: androgenesis drf adj.pert:androgenetic drf adj.pert:androgenous
+w: androgeny drf adj.pert:androgenic
+d: male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization
+hypo: parthenogenesis
+
+w: angiogenesis
+d: the formation of new blood vessels
+hypo: development 1
+
+w: anisogamy drf adj.pert:anisogamous
+d: (biology) reproduction by the union or fusion of two differing gametes (especially differing in size)
+hypo: amphimixis
+mt: noun.cognition:biological_science
+
+w: anovulation ant ovulation
+d: the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary
+hypo: biological_process
+
+w: anthesis
+w: blossoming
+w: efflorescence drf adjs.all:efflorescent drf verb.change:effloresce
+w: florescence
+w: flowering drf verb.change:flower
+w: inflorescence
+d: the time and process of budding and unfolding of blossoms
+hypo: development 1
+
+w: anthropogenesis drf adj.pert:anthropogenetic
+w: anthropogeny drf adj.pert:anthropogenetic
+d: the evolution or genesis of the human race
+hypo: evolution
+
+w: antiredeposition
+d: the process of preventing redeposition
+hypo: action
+
+w: antisepsis
+w: asepsis drf adjs.all:aseptic
+d: the process of inhibiting the growth and multiplication of microorganisms
+hypo: biological_process
+
+w: aphaeresis drf adj.pert:aphaeretic
+w: apheresis drf adj.pert:apheretic
+d: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'
+hypo: deletion
+mt: noun.cognition:linguistics
+
+w: aphesis drf adj.pert:aphetic
+d: the gradual disappearance of an initial (usually unstressed) vowel or syllable as in `squire' for `esquire'
+hypo: deletion
+
+w: apogamy drf adj.pert:apogamic drf adj.pert:apogamous
+d: (botany) development of an embryo without fertilization; especially the development in some ferns of a sporophyte from the gametophyte without fertilization
+hypo: apomixis
+mt: noun.cognition:botany
+
+w: apomixis drf adj.pert:apomictic drf adj.pert:apomictical drf adjs.all:apomictic
+d: any of several kinds of reproduction without fertilization
+hyper: apogamy
+hyper: parthenocarpy
+hyper: parthenogenesis
+hypo: agamogenesis
+
+w: apposition
+d: (biology) growth in the thickness of a cell wall by the deposit of successive layers of material
+hypo: development 1
+mt: noun.cognition:biological_science
+
+w: assibilation drf verb.change:assibilate
+d: the development of a consonant phoneme into a sibilant
+hypo: development 2
+
+w: assimilation drf verb.change:assimilate 2
+d: a linguistic process by which a sound becomes similar to an adjacent sound
+hypo: linguistic_process
+
+w: association
+d: (chemistry) any process of combination (especially in solution) that depends on relatively weak chemical bonding
+hyper: hydration
+hyper: solvation
+hypo: chemical_action
+mt: noun.cognition:chemical_science
+
+w: asynchronous_operation ant synchronous_operation
+d: operations that occur without a regular or predictable time relation to other events
+hypo: operation
+
+w: attack drf verb.body:attack
+d: the onset of a corrosive or destructive process (as by a chemical agent)
+e: the film was sensitive to attack by acids
+e: open to attack by the elements
+hypo: degeneration
+
+w: autocatalysis drf adj.pert:autocatalytic
+d: catalysis in which the catalyst is one of the products of the reaction
+hypo: catalysis
+
+w: autolysis drf adj.pert:autolytic
+w: self-digestion
+d: lysis of plant or animal tissue by an internal process
+hypo: lysis
+
+w: autoradiography
+d: producing a radiograph by means of the radiation emitted from the specimen being photographed
+hypo: radiography
+
+w: autoregulation
+d: (physiology) processes that maintain a generally constant physiological state in a cell or organism
+hypo: biological_process
+mt: noun.cognition:physiology
+
+w: autotype drf adj.pert:autotypic
+w: autotypy
+d: process for producing permanent prints in a carbon pigment
+hypo: photography
+
+w: auxesis drf adj.pert:auxetic
+d: growth from increase in cell size without cell division
+hypo: development 1
+
+w: auxiliary_operation
+w: off-line_operation
+d: a operation performed by off-line equipment not under the control of the central processing unit
+hypo: operation
+
+w: background_processing
+w: backgrounding
+d: the execution of low priority programs while higher priority programs are not using the processing system
+hypo: priority_processing
+
+w: backup drf verb.contact:back_up
+d: an accumulation caused by clogging or a stoppage
+e: a traffic backup on the main street
+e: he discovered a backup in the toilet
+hypo: accretion
+
+w: bacteriolysis drf adj.pert:bacteriolytic
+d: dissolution or destruction of bacteria
+hypo: lysis
+
+w: bacteriostasis drf adj.pert:bacteriostatic
+d: inhibition of the growth of bacteria
+hypo: biological_process
+
+w: basal_metabolism
+d: the amount of energy required to maintain the body of an individual in a resting state
+hypo: metabolic_process
+
+w: batch_processing
+d: the serial execution of computer programs
+hypo: execution
+
+w: beach_erosion
+d: the erosion of beaches
+hypo: eating_away
+
+w: bed-wetting
+d: enuresis during sleep; especially common in children (who usually outgrow it)
+hypo: enuresis
+
+w: beneficiation drf verb.change:beneficiate
+w: mineral_dressing
+w: mineral_extraction
+w: mineral_processing
+w: ore_dressing
+w: ore_processing
+d: crushing and separating ore into valuable substances or waste by any of a variety of techniques
+dt: noun.substance:activating_agent
+hypo: extraction
+
+w: beta_decay
+d: radioactive decay of an atomic nucleus that is accompanied by the emission of a beta particle
+hypo: decay 3
+
+w: binary_arithmetic_operation
+w: binary_operation
+w: boolean_operation
+d: an operation that follows the rules of Boolean algebra; each operand and the result take one of two values
+hypo: operation
+
+w: biochemical_mechanism
+d: a chemical mechanism involved in vital processes occurring in living organisms
+hypo: chemical_mechanism
+
+w: biogenesis drf adj.pert:biogenous
+w: biosynthesis drf adj.pert:biosynthetic
+d: production of a chemical compound by a living organism
+hypo: synthesis
+
+w: biological_process
+w: organic_process
+d: a process occurring in living organisms
+hyper: Krebs_citric_acid_cycle
+hyper: absorption 1
+hyper: activity
+hyper: adaptation
+hyper: ageing
+hyper: ageing 1
+hyper: agglutination 1
+hyper: anovulation
+hyper: antisepsis
+hyper: autoregulation
+hyper: bacteriostasis
+hyper: birth
+hyper: blistering
+hyper: bloom
+hyper: carbon_cycle 1
+hyper: catabolism
+hyper: cell_division
+hyper: crossing_over
+hyper: cytokinesis
+hyper: defoliation
+hyper: deossification
+hyper: development 1
+hyper: digestion
+hyper: eburnation
+hyper: ecchymosis
+hyper: effacement
+hyper: epistasis
+hyper: erythropoiesis
+hyper: eutrophication
+hyper: evolution
+hyper: expression
+hyper: extravasation
+hyper: folding
+hyper: gastrulation
+hyper: glycogenesis
+hyper: haematogenesis
+hyper: heredity
+hyper: humification
+hyper: implantation
+hyper: infolding
+hyper: inhibition
+hyper: involution
+hyper: karyokinesis
+hyper: keratinisation
+hyper: lymphopoiesis
+hyper: lysogenisation
+hyper: maturation 1
+hyper: metabolic_process
+hyper: metabolism 2
+hyper: nitrogen_cycle
+hyper: nitrogen_fixation
+hyper: nondevelopment
+hyper: nutrition
+hyper: organification
+hyper: ossification
+hyper: ovulation
+hyper: oxidative_phosphorylation
+hyper: pathologic_process
+hyper: perennation
+hyper: preservation
+hyper: quellung
+hyper: quickening
+hyper: reabsorption
+hyper: regeneration
+hyper: regulation
+hyper: replication
+hyper: reproduction
+hyper: secernment
+hyper: segregation
+hyper: shedding
+hyper: summation
+hyper: symphysis
+hyper: synapsis
+hyper: synezesis
+hyper: transcription
+hyper: transduction 1
+hyper: translation
+hyper: translocation
+hyper: translocation 1
+hyper: transpiration
+hyper: tumefaction
+hyper: ulceration
+hyper: vascularisation
+hypo: noun.Tops:physical_process
+
+w: birth drf verb.body:birth drf verb.change:be_born
+w: birthing
+w: giving_birth
+w: parturition
+d: the process of giving birth
+hp: reproduction
+hyper: accouchement
+hyper: brooding
+hyper: calving
+hyper: egg_laying
+hyper: farrow
+hyper: hatch
+hyper: noun.state:childbed
+hypo: biological_process
+
+w: blastogenesis drf adj.pert:blastogenetic
+d: asexual reproduction by budding
+hypo: agamogenesis
+
+w: blaze drf verb.weather:blaze
+w: blazing
+d: a strong flame that burns brightly
+e: the blaze spread rapidly
+hypo: fire
+
+w: blistering
+w: vesication drf verb.change:vesicate
+w: vesiculation drf verb.change:vesiculate drf verb.change:vesiculate 1
+d: the formation of vesicles in or beneath the skin
+hypo: biological_process
+
+w: blood_clotting
+w: blood_coagulation
+d: a process in which liquid blood is changed into a semisolid mass (a blood clot)
+hypo: clotting
+
+w: bloom drf verb.change:bloom
+w: blooming
+d: the organic process of bearing flowers
+e: you will stop all bloom if you let the flowers go to seed
+hypo: biological_process
+
+w: blowing drf verb.change:blow 8
+d: processing that involves blowing a gas
+hyper: insufflation
+hypo: processing
+
+w: blueing
+w: bluing drf verb.change:blue
+d: a process that makes something blue (or bluish)
+hypo: chemical_action
+
+w: bm
+w: bowel_movement
+w: movement
+d: a euphemism for defecation
+e: he had a bowel movement
+hypo: defecation
+mu: noun.communication:euphemism
+
+w: boiling
+d: the application of heat to change something from a liquid to a gas
+hyper: decoction_mashing
+hypo: evaporation
+hypo: heating
+
+w: bottom_fermentation
+d: a slow kind of alcoholic fermentation at a temperature low enough that the yeast cells can sink to the bottom of the fermenting liquid; used in the production of lager
+hypo: ferment
+
+w: breakdown drf verb.change:break_down 9
+w: decomposition drf verb.change:decompose 1
+w: putrefaction drf verb.change:putrefy
+w: rot drf verb.change:rot
+w: rotting drf verb.change:rot
+d: (biology) the process of decay caused by bacterial or fungal action
+hypo: decay 2
+mt: noun.cognition:biological_science
+
+w: broadening
+w: widening ant narrowing drf verb.change:widen
+d: an increase in width
+hypo: growth 2
+
+w: brooding
+w: incubation drf verb.body:incubate
+d: sitting on eggs so as to hatch them by the warmth of the body
+hypo: birth
+
+w: budding
+d: reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent
+hypo: agamogenesis
+
+w: buildup
+d: the result of the process of accumulation
+e: the buildup of leaves blocked the drain pipes
+hypo: accretion
+
+w: burning
+w: combustion drf verb.change:combust
+d: a process in which a substance reacts with oxygen to give heat and light
+hyper: deflagration
+hyper: fire
+hyper: internal_combustion
+hypo: oxidation
+
+w: caenogenesis
+w: cainogenesis
+w: cenogenesis ant palingenesis drf adj.pert:cenogenetic
+w: kainogenesis
+w: kenogenesis
+d: introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species (such as the addition of the placenta in mammalian evolution)
+hypo: development 1
+
+w: calcification drf verb.change:calcify 2
+d: a process that impregnates something with calcium (or calcium salts)
+hyper: ossification 2
+hypo: chemical_action
+
+w: calcination drf verb.change:calcine
+d: the conversion of metals into their oxides as a result of heating to a high temperature
+hypo: oxidation
+
+w: calving
+d: giving birth to a calf
+hypo: birth
+
+w: capture drf verb.possession:capture 1
+d: any process in which an atomic or nuclear system acquires an additional particle
+hypo: action
+
+w: capture 1
+d: a process whereby a star or planet holds an object in its gravitational field
+hypo: action
+
+w: carbon_cycle
+d: a thermonuclear reaction in the interior of stars
+hypo: thermonuclear_reaction
+
+w: carbon_cycle 1
+d: the organic circulation of carbon from the atmosphere into organisms and back again
+hypo: biological_process
+
+w: carbonation drf verb.change:carbonate
+d: saturation with carbon dioxide (as soda water)
+hypo: permeation
+
+w: carbonisation drf verb.change:carbonise
+w: carbonization drf verb.change:carbonize
+d: the destructive distillation of coal (as in coke ovens)
+hypo: destructive_distillation
+
+w: caries drf adjs.all:carious
+w: cavity
+w: dental_caries
+w: tooth_decay
+d: soft decayed area in a tooth; progressive decay can lead to the death of a tooth
+hypo: decay 2
+
+w: carriage_return
+d: the operation that prepares for the next character to be printed or displayed as the first character on a line
+hypo: printing_operation
+
+w: carrier_electrophoresis
+w: paper_electrophoresis
+d: electrophoresis carried out on filter paper
+hypo: cataphoresis
+
+w: catabiosis
+d: normal aging of cells
+hypo: ageing
+
+w: catabolism ant anabolism drf adj.all:catabolic drf adj.all:katabolic drf adj.pert:catabolic drf adj.pert:katabolic drf verb.change:catabolize
+w: destructive_metabolism
+w: dissimilation
+w: katabolism
+d: breakdown in living organisms of more complex substances into simpler ones together with release of energy
+hp: metabolic_process
+hypo: biological_process
+
+w: catalysis drf adj.pert:catalytic
+w: contact_action
+d: acceleration of a chemical reaction induced the presence of material that is chemically unchanged at the end of the reaction
+e: of the top 50 commodity chemicals, 30 are created directly by catalysis and another 6 are made from raw materials that are catalytically produced
+hyper: autocatalysis
+hypo: chemical_action
+
+w: catamenia drf adj.pert:catamenial
+w: flow 1 drf verb.body:flow
+w: menses
+w: menstruation drf verb.body:menstruate
+w: menstruum
+w: period
+d: the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause
+e: the women were sickly and subject to excessive menstruation
+e: "a woman does not take the gout unless her menses be stopped"--Hippocrates
+e: "the semen begins to appear in males and to be emitted at the same time of life that the catamenia begin to flow in females"--Aristotle
+hyper: hypermenorrhea
+hyper: oligomenorrhea
+hypo: discharge
+
+w: cataphoresis drf adj.pert:cataphoretic
+w: dielectrolysis
+w: electrophoresis drf adj.pert:electrophoretic
+w: ionophoresis
+d: the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode
+hyper: carrier_electrophoresis
+hyper: immunoelectrophoresis
+hypo: action
+
+w: cell_division
+w: cellular_division
+d: the process in reproduction and growth by which a cell divides to form daughter cells
+hyper: amitosis
+hyper: cleavage
+hyper: meiosis
+hyper: mitosis
+hypo: biological_process
+
+w: centrifugation drf verb.motion:centrifuge
+d: the process of separating substances of different densities by the use of a centrifuge
+hyper: ultracentrifugation
+hypo: action
+
+w: chain_reaction 1
+d: a series of chemical reactions in which the product of one is a reactant in the next
+hypo: chemical_reaction
+
+w: chain_reaction 2
+d: a self-sustaining nuclear reaction; a series of nuclear fissions in which neutrons released by splitting one atom leads to the splitting of others
+hypo: nuclear_reaction
+
+w: chelation 1 drf verb.stative:chelate
+d: the process of forming a ring by forming one or more hydrogen bonds
+hypo: chemical_action
+
+w: chelation 2 drf verb.stative:chelate
+d: (medicine) the process of removing a heavy metal from the bloodstream by means of a chelate as in treating lead or mercury poisoning
+hypo: noun.Tops:physical_process
+mt: noun.cognition:medical_specialty
+
+w: chemical_action
+w: chemical_change
+w: chemical_process
+d: (chemistry) any process determined by the atomic and molecular composition and structure of the substances involved
+hyper: acylation
+hyper: agglutinating_activity
+hyper: amylolysis
+hyper: association
+hyper: blueing
+hyper: calcification
+hyper: catalysis
+hyper: chelation 1
+hyper: chemical_mechanism
+hyper: chemical_reaction
+hyper: chlorination
+hyper: cleavage 1
+hyper: corroding
+hyper: cracking
+hyper: de-iodination
+hyper: deamination
+hyper: decalcification
+hyper: decarboxylation
+hyper: demineralisation
+hyper: desalination
+hyper: digestion 1
+hyper: dissociation
+hyper: ferment
+hyper: gasification
+hyper: gassing
+hyper: hydrogenation
+hyper: intumescence
+hyper: inversion
+hyper: iodination
+hyper: nitrification 1
+hyper: peptisation
+hyper: photosynthesis
+hyper: polymerisation
+hyper: precipitation
+hyper: proteolysis
+hyper: pyrochemical_process
+hyper: sequestration
+hyper: synaeresis
+hyper: synthesis
+hyper: transamination
+hyper: transamination 1
+hypo: action
+mt: noun.cognition:chemical_science
+
+w: chemical_decomposition_reaction
+w: decomposition 1 drf verb.change:decompose
+w: decomposition_reaction
+d: (chemistry) separation of a substance into two or more substances that may differ from each other and from the original substance
+hyper: electrolysis
+hypo: chemical_reaction
+mt: noun.cognition:chemical_science
+
+w: chemical_equilibrium
+w: equilibrium drf verb.change:equilibrate drf verb.stative:equilibrate
+d: a chemical reaction and its reverse proceed at equal rates
+hyper: acid-base_balance
+hypo: chemical_reaction
+
+w: chemical_mechanism
+w: mechanism
+d: the atomic process that occurs during a chemical reaction
+e: he determined unique mechanisms for the photochemical reactions
+hyper: biochemical_mechanism
+hypo: chemical_action
+
+w: chemical_reaction
+w: reaction drf verb.change:react
+d: (chemistry) a process in which one or more substances are changed into others
+e: there was a chemical reaction of the lime with the ground water
+hyper: addition_reaction
+hyper: aldol_reaction
+hyper: chain_reaction 1
+hyper: chemical_decomposition_reaction
+hyper: chemical_equilibrium
+hyper: displacement 1
+hyper: double_decomposition
+hyper: elimination_reaction
+hyper: endothermic_reaction
+hyper: exothermic_reaction
+hyper: hydrolysis
+hyper: neutralisation
+hyper: oxidation
+hyper: oxidation-reduction
+hyper: photochemical_reaction
+hyper: reducing
+hyper: saponification
+hypo: chemical_action
+mt: noun.cognition:chemical_science
+
+w: chemisorption drf verb.contact:chemisorb
+w: chemosorption drf verb.contact:chemisorb
+d: adsorption (especially when irreversible) by means of chemical instead of physical forces
+e: chemisorption of gaseous nitrogen on iron catalysts
+hypo: adsorption
+
+w: chemosynthesis
+d: synthesis of carbohydrate from carbon dioxide and water; limited to certain bacteria and fungi
+hypo: synthesis
+
+w: chilling drf verb.change:chill drf verb.change:chill 1
+w: cooling drf verb.change:cool drf verb.change:cool 1
+w: temperature_reduction
+d: the process of becoming cooler; a falling temperature
+hyper: freeze 1
+hyper: heat_dissipation
+hyper: infrigidation
+hypo: temperature_change
+
+w: chlorination drf verb.change:chlorinate
+d: the addition or substitution of chlorine in organic compounds
+hyper: prechlorination
+hypo: chemical_action
+
+w: chromatography drf adj.pert:chromatographical
+d: a process used for separating mixtures by virtue of differences in absorbency
+hyper: column_chromatography
+hyper: paper_chromatography
+hypo: action
+
+w: civilisation drf verb.change:civilise 1
+w: civilization
+d: the social process whereby societies achieve an advanced stage of development and organization
+hypo: social_process
+
+w: cleavage
+w: segmentation
+d: (embryology) the repeated division of a fertilised ovum
+hp: noun.state:gestation
+hypo: cell_division
+mt: noun.cognition:embryology
+
+w: cleavage 1
+d: the breaking of a chemical bond in a molecule resulting in smaller molecules
+hypo: chemical_action
+
+w: climate_change
+w: global_climate_change
+d: a change in the world's climate
+hypo: temperature_change
+
+w: clotting drf verb.change:clot drf verb.change:clot 1 drf verb.change:clot 4
+w: coagulation drf verb.change:coagulate drf verb.change:coagulate 1
+w: curdling drf verb.change:curdle drf verb.change:curdle 1 drf verb.change:curdle 2
+d: the process of forming semisolid lumps in a liquid
+hyper: blood_clotting
+hyper: thermocoagulation
+hypo: action
+
+w: clouding drf verb.weather:cloud
+w: clouding_up
+d: the process whereby water particles become visible in the sky
+hypo: evaporation
+
+w: cohesion
+d: (botany) the process in some plants of parts growing together that are usually separate (such as petals)
+hypo: development 1
+mt: noun.cognition:botany
+
+w: cold_fusion
+d: nuclear fusion at or near room temperatures; claims to have discovered it are generally considered to have been mistaken
+hypo: fusion
+
+w: column_chromatography
+d: chromatography that uses selective adsorption by a column of powders
+hypo: chromatography
+
+w: compensation drf verb.stative:compensate 3
+d: (psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors
+hyper: overcompensation
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: computer_operation
+w: machine_operation
+d: an elementary operation that a computer is designed and built to perform
+hyper: floating-point_operation
+hyper: retrieval
+hyper: storage
+hypo: operation
+
+w: concretion
+d: the formation of stonelike objects within a body organ (e.g., the kidneys)
+hypo: action
+
+w: concurrent_execution
+w: multiprogramming
+d: the execution of two or more computer programs by a single computer
+hypo: execution
+
+w: concurrent_operation
+d: two or more operations performed at the same time (or within a give interval)
+hypo: operation
+
+w: condensation drf verb.change:condense 1 drf verb.change:condense 3
+d: the process of changing from a gaseous to a liquid or solid state
+hypo: action
+
+w: congealment
+w: congelation drf verb.change:congeal
+d: the process of congealing; solidification by (or as if by) freezing
+hypo: curing
+
+w: conglutination drf verb.contact:conglutinate drf verb.contact:conglutinate 1
+w: union
+d: healing process involving the growing together of the edges of a wound or the growing together of broken bones
+hypo: healing
+
+w: consecutive_operation
+w: sequential_operation
+w: serial_operation ant parallel_operation
+d: the sequential execution of operations one after another
+hypo: operation
+
+w: conspicuous_consumption
+d: buying expensive services and products in order to flaunt your wealth
+hypo: consumption
+
+w: consumption
+w: economic_consumption
+w: usance
+w: use drf verb.consumption:use
+w: use_of_goods_and_services
+d: (economics) the utilization of economic goods to satisfy needs or in manufacturing
+e: the consumption of energy has increased steadily
+hyper: conspicuous_consumption
+hypo: demand
+mt: noun.cognition:economic_science
+
+w: control_function
+w: control_operation
+d: an operation that controls the recording or processing or transmission of interpretation of data
+e: a control operation started the data processing
+hypo: operation
+
+w: convalescence drf adjs.all:convalescent drf verb.body:convalesce
+w: recovery drf verb.body:recover
+w: recuperation drf verb.body:recuperate drf verb.body:recuperate 1
+d: gradual healing (through rest) after sickness or injury
+hyper: lysis 1
+hyper: rally
+hypo: healing
+
+w: convection 1
+d: the transfer of heat through a fluid (liquid or gas) caused by molecular motion
+hypo: temperature_change
+
+w: convection 2 drf verb.motion:convect
+d: (meteorology) the vertical movement of heat or other properties by massive motion within the atmosphere
+hypo: action
+mt: noun.cognition:meteorology
+
+w: conversion
+d: (psychiatry) a defense mechanism represses emotional conflicts which are then converted into physical symptoms that have no organic basis
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: corroding drf verb.change:corrode drf verb.change:corrode 1
+w: corrosion drf verb.change:corrode drf verb.change:corrode 1
+w: erosion 1
+d: erosion by chemical action
+hyper: indentation
+hyper: rust
+hypo: chemical_action
+
+w: corruption
+d: decay of matter (as by rot or oxidation)
+hypo: decay 2
+
+w: cost-pull_inflation
+d: inflation caused by an increase in the costs of production
+hypo: inflation
+
+w: cracking drf verb.change:crack 7 drf verb.change:crack 8
+d: the process whereby heavy molecules of naphtha or petroleum are broken down into hydrocarbons of lower molecular weight (especially in the oil-refining process)
+hyper: hydrocracking
+hypo: chemical_action
+
+w: crossing_over
+w: crossover
+d: the interchange of sections between pairing homologous chromosomes during the prophase of meiosis
+hp: diplotene
+hypo: biological_process
+
+w: cultivation drf verb.creation:cultivate
+d: the process of fostering the growth of something
+e: the cultivation of bees for honey
+hypo: development 1
+
+w: curing drf verb.change:cure
+w: hardening drf verb.change:harden
+w: set drf verb.change:set 7
+w: solidification drf verb.change:solidify drf verb.change:solidify 1
+w: solidifying drf verb.change:solidify drf verb.change:solidify 1
+d: the process of becoming hard or solid by cooling or drying or crystallization
+e: the hardening of concrete
+e: he tested the set of the glue
+hp: plastination
+hyper: congealment
+hypo: action
+
+w: cyanide_process
+d: an industrial process for extracting gold and silver by treating ore with a sodium cyanide solution
+hypo: industrial_process
+
+w: cytogenesis drf adj.pert:cytogenetic
+w: cytogeny
+d: the origin and development and variation of cells
+hypo: development 1
+
+w: cytokinesis
+d: organic process consisting of the division of the cytoplasm of a cell following karyokinesis bringing about the separation into two daughter cells
+hp: meiosis
+hp: mitosis
+hypo: biological_process
+
+w: cytolysis drf adj.pert:cytolytic
+d: pathological breakdown of cells by the destruction of their outer membrane
+hypo: lysis
+
+w: data_mining
+d: data processing using sophisticated data search capabilities and statistical algorithms to discover patterns and correlations in large preexisting databases; a way to discover new meaning in data
+hypo: data_processing
+
+w: data_processing
+d: (computer science) a series of operations on data by a computer in order to retrieve or transform or classify information
+hyper: ADP
+hyper: administrative_data_processing
+hyper: data_mining
+hyper: distributed_data_processing
+hyper: list_processing
+hyper: multiprocessing
+hyper: operation
+hyper: priority_processing
+hyper: real-time_operation
+hyper: serial_processing
+hyper: word_processing
+hypo: processing
+mp: execution
+mt: noun.cognition:computer_science
+
+w: de-Nazification
+w: denazification drf verb.change:denazify
+d: social process of removing Nazis from official positions and giving up any allegiance to Nazism
+e: denazification was a slow process
+hypo: social_process
+
+w: de-Stalinisation
+w: de-Stalinization
+w: destalinisation drf verb.change:destalinise
+w: destalinization drf verb.change:destalinize
+d: social process of neutralizing the influence of Joseph Stalin by revising his policies and removing monuments dedicated to him and renaming places named in his honor
+e: his statue was demolished as part of destalinization
+hypo: social_process
+
+w: de-iodination drf verb.change:de-iodinate
+d: the removal of iodine atoms from organic compounds
+hypo: chemical_action
+
+w: dealignment
+d: a process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties
+hypo: noun.Tops:physical_process
+
+w: deamination drf verb.change:deaminate
+w: deaminization drf verb.change:deaminize
+d: removal of the amino radical from an amino acid or other amino compound
+hypo: chemical_action
+
+w: decalcification drf verb.change:decalcify 1
+d: loss of calcium from bones or teeth
+hypo: chemical_action
+
+w: decarboxylation drf verb.change:decarboxylate drf verb.change:decarboxylate 1
+d: the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)
+hypo: chemical_action
+
+w: decay 1 drf verb.change:decay 1
+w: decline 1
+d: a gradual decrease; as of stored charge or current
+hyper: exponential_decay
+hypo: decrease
+
+w: decay 2
+d: the process of gradually becoming inferior
+hyper: breakdown
+hyper: caries
+hyper: corruption
+hyper: dilapidation
+hyper: spoilage
+hypo: action
+
+w: decay 3 drf verb.change:decay 1
+w: disintegration 2 drf verb.change:disintegrate 1 drf verb.change:disintegrate 3
+w: radioactive_decay
+d: the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation
+hyper: alpha_decay
+hyper: beta_decay
+hypo: nuclear_reaction
+
+w: decentalisation
+w: decentralization drf verb.change:decentralize
+d: the social process in which population and industry moves from urban centers to outlying districts
+hypo: social_process
+
+w: declension drf verb.change:decline 1
+w: decline_in_quality
+w: deterioration drf verb.body:deteriorate drf verb.change:deteriorate
+w: worsening drf verb.change:worsen
+d: process of changing to an inferior state
+hyper: drop-off
+hypo: decline 2
+
+w: decline 2 drf verb.change:decline
+w: diminution drf verb.change:diminish
+d: change toward something smaller or lower
+hyper: declension
+hyper: detumescence
+hyper: ebb 1
+hyper: erosion 2
+hyper: loss
+hyper: nosedive
+hyper: sinking_spell
+hyper: slippage 1
+hypo: decrease
+
+w: decoction drf verb.change:decoct
+d: (pharmacology) the extraction of water-soluble drug substances by boiling
+hypo: extraction
+mt: noun.cognition:materia_medica
+
+w: decoction_mashing
+w: decoction_process
+d: (brewing) a process in which part of the mash is removed and boiled and then returned
+hypo: boiling
+mt: noun.act:brewing
+
+w: decrease ant increase drf verb.change:decrease
+w: decrement ant increment
+d: a process of becoming smaller or shorter
+hyper: decay 1
+hyper: decline 2
+hyper: desensitisation
+hyper: narrowing
+hyper: slippage
+hyper: wastage
+hypo: noun.Tops:physical_process
+
+w: dedifferentiation drf verb.change:dedifferentiate
+d: the loss of specialization in form or function
+hypo: adaptation
+
+w: deepening drf verb.change:deepen 3
+d: a process of becoming deeper and more profound
+hypo: development 2
+
+w: defecation drf verb.body:defecate
+w: laxation
+w: shitting drf verb.body:shit
+d: the elimination of fecal waste through the anus
+hyper: bm
+hyper: dump
+hyper: haematochezia
+hyper: urochesia
+hypo: elimination
+
+w: defence
+w: defence_mechanism
+w: defence_reaction
+w: defense
+w: defense_mechanism
+w: defense_reaction
+d: (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires
+hyper: compensation
+hyper: conversion
+hyper: denial
+hyper: displacement
+hyper: idealisation
+hyper: intellectualisation
+hyper: isolation
+hyper: projection
+hyper: rationalisation
+hyper: reaction_formation
+hyper: regression
+hyper: repression
+hypo: noun.cognition:process 1
+hypo: psychoanalytic_process
+mt: noun.cognition:psychiatry
+
+w: defining drf verb.stative:define 3
+w: shaping drf verb.cognition:shape
+d: any process serving to define the shape of something
+hypo: noun.Tops:physical_process
+
+w: deflagration drf verb.change:deflagrate drf verb.weather:deflagrate
+d: combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat
+hypo: burning
+
+w: deflation ant disinflation ant inflation drf adj.all:deflationary drf verb.change:deflate 10 drf verb.change:deflate 11
+d: a contraction of economic activity resulting in a decline of prices
+hypo: economic_process
+
+w: deflation 1
+d: (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind
+e: a constant deflation of the desert landscape
+hypo: eating_away
+mt: noun.cognition:geology
+
+w: deflationary_spiral ant inflationary_spiral
+d: an episode of deflation in which prices and wages decrease at an increasing rate and currency gains in value
+hypo: spiral
+
+w: defoliation drf verb.change:defoliate
+d: the loss of foliage
+hypo: biological_process
+
+w: degaussing drf verb.change:degauss
+d: the process of making a (steel) ship's hull nonmagnetic by producing an opposing magnetic field
+hypo: demagnetisation
+
+w: degeneration drf verb.body:degenerate
+w: devolution ant evolution 1
+d: the process of declining from a higher to a lower level of effective power or vitality or essential quality
+hyper: attack
+hyper: obsolescence
+hyper: noun.state:macular_degeneration
+hypo: noun.Tops:physical_process
+
+w: dehydration drf verb.change:dehydrate drf verb.change:dehydrate 1 drf verb.change:dehydrate 2
+w: desiccation drf verb.change:desiccate 4 drf verb.change:desiccate 5
+w: drying_up
+w: evaporation 1 drf verb.change:evaporate
+d: the process of extracting moisture
+hp: plastination
+hyper: freeze-drying
+hyper: inspissation
+hypo: extraction
+
+w: deletion
+w: omission
+d: any process whereby sounds or words are left out of spoken words or phrases
+hyper: aphaeresis
+hyper: aphesis
+hyper: eclipsis
+hyper: elision
+hypo: linguistic_process
+
+w: demagnetisation drf verb.change:demagnetise
+w: demagnetization drf verb.change:demagnetize
+d: the process of removing magnetization
+hyper: degaussing
+hypo: action
+
+w: demand ant supply
+d: the ability and desire to purchase goods and services
+e: the automobile reduced the demand for buggywhips
+e: the demand exceeded the supply
+hyper: consumption
+hypo: economic_process
+
+w: demand-pull_inflation
+d: inflation caused by an increase in demand or in the supply of money
+hypo: inflation
+
+w: demineralisation drf verb.change:demineralise
+w: demineralization drf verb.change:demineralize
+d: the removal of minerals and mineral salts from a liquid (especially from water)
+hypo: chemical_action
+
+w: denial
+d: (psychiatry) a defense mechanism that denies painful thoughts
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: dentition
+w: odontiasis
+w: teething drf verb.body:teethe
+d: the eruption through the gums of baby teeth
+hyper: precocious_dentition
+hypo: development 1
+
+w: deossification
+d: the loss of the mineral content of bone tissue
+hypo: biological_process
+
+w: deposit
+w: deposition
+d: the natural process of laying down a deposit of something
+hyper: electrodeposition
+hyper: pigmentation
+hyper: redeposition
+hyper: superposition
+hypo: accretion
+
+w: derivation drf verb.change:derive 1
+d: (descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation
+e: `singer' from `sing' or `undo' from `do' are examples of derivations
+hyper: eponymy
+hypo: linguistic_process
+mt: noun.cognition:descriptive_linguistics
+
+w: desalination drf verb.change:desalinate
+w: desalinisation drf verb.change:desalinise
+w: desalinization drf verb.change:desalinize
+d: the removal of salt (especially from sea water)
+hypo: chemical_action
+
+w: desensitisation drf verb.change:desensitise drf verb.perception:desensitise
+w: desensitization drf verb.change:desensitize drf verb.perception:desensitize
+d: the process of reducing sensitivity
+e: the patient was desensitized to the allergen
+hypo: decrease
+
+w: desertification
+d: the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land
+e: the dust storms in Korea are the result of rapid desertification in China
+hypo: geologic_process
+
+w: desorption drf verb.change:desorb drf verb.change:desorb 1
+d: changing from an adsorbed state on a surface to a gaseous or liquid state
+hypo: action
+
+w: destructive_distillation
+d: heating a solid substance in a closed container and collecting the volatile products
+hyper: carbonisation
+hypo: fractional_process
+
+w: detumescence
+d: diminution of swelling; the subsidence of anything swollen
+hypo: decline 2
+
+w: developing drf verb.perception:develop
+w: development drf verb.perception:develop
+d: processing a photosensitive material in order to make an image visible
+e: the development and printing of his pictures took only two hours
+hyper: underdevelopment
+hypo: processing
+
+w: development 1 ant nondevelopment drf adj.pert:developmental drf verb.body:develop drf verb.change:develop
+w: growing drf verb.change:grow 1 drf verb.change:grow 2 drf verb.change:grow 4
+w: growth drf verb.change:grow 1 drf verb.change:grow 2 drf verb.change:grow 4
+w: maturation drf adj.pert:maturational drf verb.change:maturate 1 drf verb.change:mature 1
+w: ontogenesis drf adj.pert:ontogenetic
+w: ontogeny drf adj.pert:ontogenetic
+d: (biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level
+e: he proposed an indicator of osseous development in children
+dt: noun.time:isometry
+hyper: noun.act:culture 1
+hyper: amelogenesis
+hyper: angiogenesis
+hyper: anthesis
+hyper: apposition
+hyper: auxesis
+hyper: caenogenesis
+hyper: cohesion
+hyper: cultivation
+hyper: cytogenesis
+hyper: dentition
+hyper: foliation 1
+hyper: fructification
+hyper: gametogenesis
+hyper: germination
+hyper: habit
+hyper: infructescence
+hyper: intussusception
+hyper: juvenescence
+hyper: life_cycle
+hyper: masculinisation
+hyper: morphogenesis
+hyper: myelinisation
+hyper: neurogenesis
+hyper: palingenesis
+hyper: proliferation
+hyper: psychogenesis
+hyper: psychogenesis 1
+hyper: psychomotor_development
+hyper: psychosexual_development
+hyper: rooting
+hyper: suppression
+hyper: teratogenesis
+hyper: vegetation
+hypo: biological_process
+mp: gastrulation
+mt: noun.cognition:biological_science
+
+w: development 2 drf verb.change:develop 10
+w: evolution 1 ant devolution drf verb.change:evolve
+d: a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)
+e: the development of his ideas took many years
+e: the evolution of Greek civilization
+e: the slow development of her skill as a writer
+hyper: assibilation
+hyper: deepening
+hyper: flowering 1
+hyper: growth 1
+hypo: noun.Tops:physical_process
+
+w: diakinesis
+d: the final stage of the prophase of meiosis
+hp: prophase 2
+hypo: noun.time:phase
+
+w: diaphoresis drf adj.pert:diaphoretic
+w: hidrosis drf adj.pert:hidrotic
+w: perspiration drf verb.body:perspire
+w: sudation drf verb.body:sudate
+w: sweating drf verb.body:sweat
+d: the process of the sweat glands of the skin secreting a salty fluid
+e: perspiration is a homeostatic process
+hyper: hyperhidrosis
+hypo: activity
+
+w: diastrophism
+d: the process of deformation that produces continents and ocean basins in the earth's crust
+hypo: geologic_process
+
+w: differentiation drf verb.change:differentiate 1
+w: specialisation drf verb.change:specialise 7
+w: specialization drf verb.change:specialize 7
+d: (biology) the structural adaptation of some body part for a particular function
+e: cell differentiation in the developing embryo
+hypo: adaptation
+mt: noun.cognition:biological_science
+
+w: diffusion
+d: (physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration
+hyper: osmosis
+hyper: permeation
+hyper: transport
+hypo: action
+mt: noun.cognition:natural_philosophy
+
+w: digestion drf verb.consumption:digest
+d: the organic process by which food is converted into substances that can be absorbed into the body
+hyper: gastric_digestion
+hypo: biological_process
+
+w: digestion 1 drf verb.change:digest 4
+d: the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat
+hypo: chemical_action
+
+w: digital_photography
+d: a photographic method that stores the image digitally for later reproduction
+hypo: photography
+
+w: dilapidation drf verb.creation:dilapidate
+w: ruin drf verb.change:ruin
+d: the process of becoming dilapidated
+hypo: decay 2
+
+w: diplotene
+d: the fourth stage of the prophase of meiosis
+hp: prophase 2
+hypo: noun.time:phase
+mp: crossing_over
+
+w: discharge drf verb.body:discharge
+w: emission 1
+w: expelling drf verb.body:expel
+d: any of several bodily processes by which substances go out of the body
+e: the discharge of pus
+hyper: catamenia
+hyper: ejaculation
+hyper: elimination
+hypo: activity
+
+w: disinflation ant deflation ant inflation
+d: a reduction of prices intended to improve the balance of payments
+hypo: economic_process
+
+w: disintegration 1 drf verb.change:disintegrate
+w: dissolution drf verb.change:dissolve 8
+d: separation into component parts
+hyper: fibrinolysis
+hyper: lysis
+hypo: action
+
+w: displacement
+d: (psychiatry) a defense mechanism that transfers affect or reaction from the original object to some more acceptable one
+hyper: noun.cognition:transference
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: displacement 1
+w: displacement_reaction
+d: (chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound
+hypo: chemical_reaction
+mt: noun.cognition:chemical_science
+
+w: dissimilation 1 drf verb.change:dissimilate drf verb.change:dissimilate 2
+d: a linguistic process by which one of two similar sounds in a word becomes less like the other
+e: the Old French MARBRE became the English MARBLE by dissimilation
+hypo: linguistic_process
+
+w: dissociation drf verb.change:dissociate 10
+d: (chemistry) the temporary or reversible process in which a molecule or ion is broken down into smaller molecules or ions
+hypo: chemical_action
+mt: noun.cognition:chemical_science
+
+w: dissolution 1 drf verb.change:dissolve drf verb.change:dissolve 1
+w: dissolving drf verb.change:dissolve drf verb.change:dissolve 1
+d: the process of going into solution
+e: the dissolving of salt in water
+hypo: liquefaction
+
+w: distillation drf verb.change:distill 1 drf verb.change:distill 2 drf verb.change:distill 3
+w: distillment drf verb.change:distill 1 drf verb.change:distill 3
+d: the process of purifying a liquid by boiling it and condensing its vapors
+hypo: action
+
+w: distributed_data_processing
+w: remote-access_data_processing
+w: teleprocessing
+d: data processing in which some of the functions are performed in different places and connected by transmission facilities
+hypo: data_processing
+
+w: dithering
+d: the process of representing intermediate colors by patterns of tiny colored dots that simulate the desired color
+hypo: video_digitizing
+
+w: domestication
+d: adaptation to intimate association with human beings
+hypo: adaptation
+
+w: double_decomposition
+w: double_decomposition_reaction
+w: metathesis
+d: a chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (AB+CD=AD+CB)
+hyper: double_replacement_reaction
+hypo: chemical_reaction
+
+w: double_replacement_reaction
+d: a chemical reaction between two compounds where the positive ion of one compound is exchanged with the positive ion of another compound
+hypo: double_decomposition
+
+w: doubling drf verb.change:double
+d: increase by a factor of two
+e: doubling with a computer took no time at all
+hypo: multiplication
+
+w: drift 1 drf verb.motion:drift 4
+d: the gradual departure from an intended course due to external influences (as a ship or plane)
+hyper: leeway
+hypo: action
+mt: noun.artifact:aeroplane
+mt: noun.artifact:ship
+
+w: drift 2
+d: a process of linguistic change over a period of time
+hyper: melioration
+hypo: linguistic_process
+
+w: drop-off drf verb.change:drop_off
+w: falling_off
+w: falloff drf verb.change:fall_off drf verb.change:fall_off 1
+w: slack drf verb.change:slack 3 drf verb.change:slack 4 drf verb.change:slack 5
+w: slump drf verb.change:slump
+d: a noticeable deterioration in performance or quality
+e: the team went into a slump
+e: a gradual slack in output
+e: a drop-off in attendance
+e: a falloff in quality
+hypo: declension
+
+w: dry_plate
+w: dry_plate_process
+d: a former photographic method that used a glass plate coated with a light-sensitive gelatinous emulsion
+hypo: photography
+
+w: dump
+w: shit drf verb.body:shit drf verb.communication:shit 9
+d: a coarse term for defecation
+e: he took a shit
+hypo: defecation
+
+w: dyadic_operation
+d: an operation on exactly two operands
+hypo: operation
+
+w: eating_away
+w: eroding drf verb.change:erode
+w: erosion drf verb.change:erode
+w: wearing
+w: wearing_away drf verb.change:wear_away
+d: (geology) the mechanical process of wearing or grinding something down (as by particles washing over it)
+hyper: noun.phenomenon:chatter_mark
+hyper: ablation
+hyper: abrasion
+hyper: beach_erosion
+hyper: deflation 1
+hyper: planation
+hyper: soil_erosion
+hypo: geologic_process
+mt: noun.cognition:geology
+
+w: ebb 1 drf verb.change:ebb 1
+w: ebbing drf verb.change:ebb 1
+w: wane drf verb.change:wane 1 drf verb.change:wane 2
+d: a gradual decline (in size or strength or power or number)
+hypo: decline 2
+
+w: eburnation
+d: a change that occurs in degenerative joint disease in which bone is converted into a dense smooth substance resembling ivory
+hypo: biological_process
+
+w: ecchymosis
+d: the escape of blood from ruptured blood vessels into the surrounding tissue to form a purple or black-and-blue spot on the skin
+hypo: biological_process
+
+w: ecdysis
+w: molt drf verb.body:molt
+w: molting drf verb.body:molt
+w: moult drf verb.body:moult
+w: moulting drf verb.body:moult
+d: periodic shedding of the cuticle in arthropods or the outer skin in reptiles
+hypo: shedding
+
+w: ecesis
+w: establishment
+d: (ecology) the process by which a plant or animal becomes established in a new habitat
+hypo: action
+mt: noun.cognition:bionomics
+
+w: eclipsis
+w: ellipsis
+d: omission or suppression of parts of words or sentences
+hypo: deletion
+
+w: ecological_succession
+w: succession
+d: (ecology) the gradual and orderly process of change in an ecosystem brought about by the progressive replacement of one community by another until a stable climax is established
+hypo: action
+mt: noun.cognition:bionomics
+
+w: economic_growth
+d: steady growth in the productive capacity of the economy (and so a growth of national income)
+hypo: economic_process
+
+w: economic_process
+d: any process affecting the production and development and management of material wealth
+hyper: deflation
+hyper: demand
+hyper: disinflation
+hyper: economic_growth
+hyper: globalisation
+hyper: inflation
+hyper: market_forces
+hyper: spiral
+hyper: supply
+hypo: noun.Tops:physical_process
+
+w: effacement
+d: shortening of the uterine cervix and thinning of its walls as it is dilated during labor
+hp: noun.state:childbed
+hypo: biological_process
+
+w: effervescence drf adj.all:effervescent drf verb.change:effervesce
+d: the process of bubbling as gas escapes
+hypo: action
+
+w: effluence drf adjs.all:effluent
+w: efflux ant influx
+w: outflow ant inflow
+d: the process of flowing out
+hypo: flow
+
+w: egg_laying
+w: laying
+d: the production of eggs (especially in birds)
+hypo: birth
+
+w: ejaculation drf verb.body:ejaculate
+d: the discharge of semen in males
+hyper: nocturnal_emission
+hyper: premature_ejaculation
+hypo: discharge
+
+w: electrodeposition
+d: the deposition of a substance on an electrode by the action of electricity (especially by electrolysis)
+hypo: deposit
+
+w: electrolysis drf adj.pert:electrolytic 1
+d: (chemistry) a chemical decomposition reaction produced by passing an electric current through a solution containing ions
+hypo: chemical_decomposition_reaction
+mt: noun.cognition:chemical_science
+
+w: electrostatic_precipitation
+d: a process that removes suspended dust particles from a gas by applying a high voltage electrostatic charge to the particles and collecting them on charged plates
+hypo: industrial_process
+
+w: elimination drf verb.body:eliminate
+w: evacuation drf verb.body:evacuate
+w: excreting drf verb.body:excrete
+w: excretion drf verb.body:excrete
+w: voiding drf verb.body:void
+d: the bodily process of discharging waste matter
+hyper: defecation
+hyper: incontinence
+hyper: micturition
+hypo: discharge
+
+w: elimination_reaction
+d: a chemical reaction in which a molecule decomposes to two different molecules
+hypo: chemical_reaction
+
+w: elision drf verb.cognition:elide
+d: omission of a sound between two words (usually a vowel and the end of one word or the beginning of the next)
+hypo: deletion
+
+w: elution drf verb.contact:elute
+d: the process of extracting one material from another by washing with a solvent to remove adsorbed material from an adsorbent (as in washing of loaded ion-exchange resins to remove captured ions); used to obtain uranium ions
+hypo: extraction
+
+w: emergent_evolution
+d: the appearance of entirely new properties at certain critical stages in the course of evolution
+hypo: evolution
+
+w: emission
+d: the release of electrons from parent atoms
+hyper: noun.phenomenon:photoemission
+hyper: field_emission
+hyper: photoelectric_emission
+hyper: radiation
+hyper: secondary_emission
+hyper: thermal_emission
+hypo: release
+
+w: encapsulation drf verb.contact:encapsulate
+d: the process of enclosing (as in a capsule)
+hypo: noun.Tops:physical_process
+
+w: encrustation drf verb.change:encrust
+w: incrustation drf verb.change:incrust
+d: the formation of a crust
+hypo: formation
+
+w: endoergic_reaction
+d: a nuclear reaction occurring with absorption of energy
+hypo: nuclear_reaction
+
+w: endothermic_reaction
+d: a chemical reaction accompanied by the absorption of heat
+hypo: chemical_reaction
+
+w: enuresis
+w: urinary_incontinence
+d: inability to control the flow of urine and involuntary urination
+hyper: bed-wetting
+hyper: overflow_incontinence
+hyper: stress_incontinence
+hyper: urge_incontinence
+hypo: incontinence
+
+w: epigenesis
+d: a geological change in the mineral content of rock after the rock has formed
+hypo: metamorphism
+
+w: epilation
+d: loss of hair; the result of removing hair
+hyper: psilosis
+hypo: loss
+
+w: epistasis
+w: hypostasis 1
+d: the suppression of a gene by the effect of an unrelated gene
+hypo: biological_process
+
+w: epitaxy
+d: growing a crystal layer of one mineral on the crystal base of another mineral in such a manner that its crystalline orientation is the same as that of the substrate
+hypo: growing 1
+
+w: eponymy
+d: the derivation of a general name from that of a famous person
+hypo: derivation
+
+w: erosion 2
+d: a gradual decline of something
+e: after the accounting scandal there was an erosion of confidence in the auditors
+hypo: decline 2
+
+w: erythropoiesis drf adj.pert:erythropoietic
+d: the process of producing red blood cells by the stem cells in the bone marrow
+hypo: biological_process
+
+w: eutrophication
+d: excessive nutrients in a lake or other body of water, usually caused by runoff of nutrients (animal waste, fertilizers, sewage) from the land, which causes a dense growth of plant life; the decomposition of the plants depletes the supply of oxygen, leading to the death of animal life
+e: he argued that the controlling factor in eutrophication is not nitrate but phosphate
+hypo: biological_process
+
+w: evaporation drf verb.change:evaporate 1 drf verb.change:evaporate 2
+w: vapor drf verb.change:evaporate drf verb.change:evaporate 1 drf verb.change:evaporate 2 drf verb.change:vaporise drf verb.change:vaporise 1 drf verb.change:vaporize drf verb.change:vaporize 1
+w: vaporisation drf verb.change:vaporise drf verb.change:vaporise 1
+w: vaporization drf verb.change:vaporize drf verb.change:vaporize 1
+w: vapour
+d: the process of becoming a vapor
+hyper: boiling
+hyper: clouding
+hyper: smoke
+hypo: phase_change
+
+w: evolution drf adj.pert:evolutionary drf verb.change:evolve drf verb.change:evolve 3
+w: organic_evolution
+w: phylogenesis drf adj.pert:phylogenetic
+w: phylogeny
+d: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms
+dt: noun.act:Scopes_trial
+hyper: anamorphism 1
+hyper: anthropogenesis
+hyper: emergent_evolution
+hyper: macroevolution
+hyper: microevolution
+hyper: speciation
+hypo: biological_process
+mt: noun.cognition:biological_science
+
+w: execution
+w: instruction_execution
+d: (computer science) the process of carrying out an instruction by a computer
+hp: data_processing
+hyper: batch_processing
+hyper: concurrent_execution
+hypo: noun.Tops:physical_process
+mt: noun.cognition:computer_science
+
+w: exoergic_reaction
+d: a nuclear reaction accompanied by the evolution of energy
+hypo: nuclear_reaction
+
+w: exothermic_reaction
+d: a chemical reaction accompanied by the evolution of heat
+hypo: chemical_reaction
+
+w: expectoration drf verb.body:expectorate
+d: the process of coughing up and spitting out
+hypo: activity
+
+w: exponential_decay
+w: exponential_return
+d: a decrease that follows an exponential function
+hyper: relaxation
+hypo: decay 1
+
+w: expression drf verb.perception:express 9
+d: (genetics) the process of expressing a gene
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: extinction
+d: the reduction of the intensity of radiation as a consequence of absorption and radiation
+hypo: action
+mp: absorption 2
+mp: scattering
+
+w: extraction drf verb.change:extract drf verb.contact:extract 7
+d: the process of obtaining something from a mixture or compound by chemical or physical or mechanical means
+hyper: beneficiation
+hyper: decoction
+hyper: dehydration
+hyper: elution
+hyper: infusion
+hypo: action
+
+w: extravasation drf verb.contact:extravasate
+d: the process of exuding or passing out of a vessel into surrounding tissues; said of blood or lymph or urine
+hyper: noun.state:blood_extravasation
+hyper: noun.state:urocele
+hypo: biological_process
+
+w: farrow drf verb.body:farrow
+w: farrowing drf verb.body:farrow
+d: the production of a litter of pigs
+hypo: birth
+
+w: fat_metabolism
+d: a metabolic process that breaks down ingested fats into fatty acids and glycerol and then into simpler compounds that can be used by cells of the body
+hypo: metabolic_process
+
+w: feedback drf verb.possession:feed_back
+d: the process in which part of the output of a system is returned to its input in order to regulate its further output
+hyper: negative_feedback
+hyper: positive_feedback
+hypo: action
+
+w: feminisation drf verb.change:feminise 1
+w: feminization drf verb.change:feminize 1
+d: the process of becoming feminized; the development of female characteristics (loss of facial hair or breast enlargement) in a male because of hormonal disorders or castration
+hypo: pathologic_process
+
+w: ferment drf verb.change:ferment drf verb.change:ferment 1
+w: fermentation drf verb.change:ferment drf verb.change:ferment 1
+w: fermenting drf verb.change:ferment 1
+w: zymolysis drf adj.pert:zymolytic
+w: zymosis 1 drf adj.pert:zymotic 1
+d: a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol
+hyper: bottom_fermentation
+hyper: top_fermentation
+hyper: vinification
+hypo: chemical_action
+
+w: festering drf verb.body:fester
+w: maturation 2 drf verb.body:maturate drf verb.body:mature 4
+w: suppuration drf verb.body:suppurate drf verb.body:suppurate 1
+d: (medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus
+hypo: activity
+mt: noun.cognition:medical_specialty
+
+w: fibrinolysis
+d: a normal ongoing process that dissolves fibrin and results in the removal of small blood clots
+e: drugs causing fibrinolysis have been utilized therapeutically
+hypo: disintegration 1
+
+w: field_emission
+d: the emission of electrons that are stripped from parent atoms by a high electric field
+hypo: emission
+
+w: filling drf verb.change:fill
+d: flow into something (as a container)
+hyper: refilling
+hypo: flow
+
+w: filtration drf verb.contact:filter drf verb.contact:filter 1
+d: the process whereby fluids pass through a filter or a filtering medium
+hyper: infiltration
+hypo: action
+
+w: fire drf adjs.all:fiery 2 drf verb.change:fire drf verb.change:fire 1 drf verb.possession:fire
+w: flame drf verb.weather:flame
+w: flaming drf verb.weather:flame
+d: the process of combustion of inflammable materials producing heat and light and (often) smoke
+e: fire was one of our ancestors' first discoveries
+hyper: blaze
+hyper: flare
+hyper: ignition
+hypo: burning
+
+w: fission
+w: nuclear_fission
+d: a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy
+hypo: nuclear_reaction
+
+w: fission 1
+d: reproduction of some unicellular organisms by division of the cell into two more or less equal parts
+hyper: schizogony
+hypo: agamogenesis
+
+w: fissiparity
+d: reproduction of some multicellular organisms by division, as in the case of some starfish
+hypo: agamogenesis
+
+w: fixed-cycle_operation
+d: an operation that is completed in a specified number of regularly timed execution cycles
+hypo: operation
+
+w: flare drf verb.weather:flare drf verb.weather:flare 1
+d: a sudden burst of flame
+hypo: fire
+
+w: floating-point_operation
+w: flop
+d: an arithmetic operation performed on floating-point numbers
+e: this computer can perform a million flops per second
+hypo: computer_operation
+
+w: flocculation drf verb.stative:flocculate
+d: the process of flocculating; forming woolly cloudlike aggregations
+hypo: action
+
+w: flow drf verb.motion:flow 2 drf verb.stative:flow
+d: any uninterrupted stream or discharge
+hyper: noun.phenomenon:airstream 1
+hyper: noun.phenomenon:streamline_flow
+hyper: noun.phenomenon:turbulent_flow
+hyper: effluence
+hyper: filling
+hyper: flowage
+hyper: inflow
+hypo: action
+
+w: flowage
+d: gradual internal motion or deformation of a solid body (as by heat)
+e: rock fracture and rock flowage are different types of geological deformation
+hypo: flow
+
+w: flowering 1
+w: unfolding drf verb.change:unfold
+d: a developmental process
+e: the flowering of antebellum culture
+hypo: development 2
+
+w: focalisation drf verb.stative:focalise
+w: focalization drf verb.stative:focalize
+d: the confinement of an infection to a limited area
+hypo: pathogenesis
+
+w: fold
+w: folding 1
+d: a geological process that causes a bend in a stratum of rock
+hypo: geologic_process
+
+w: folding
+w: protein_folding
+d: the process whereby a protein molecule assumes its intricate three-dimensional shape
+e: understanding protein folding is the next step in deciphering the genetic code
+hypo: biological_process
+
+w: foliation
+d: (geology) the arrangement of leaflike layers in a rock
+hypo: stratification
+mt: noun.cognition:geology
+
+w: foliation 1 drf verb.change:foliate
+w: leafing
+d: (botany) the process of forming leaves
+hypo: development 1
+mt: noun.cognition:botany
+
+w: foreground_processing
+w: foregrounding
+d: the execution of a program that preempts the use of the processing system
+hypo: priority_processing
+
+w: formation
+d: natural process that causes something to form
+e: the formation of gas in the intestine
+e: the formation of crystals
+e: the formation of pseudopods
+hyper: encrustation
+hyper: reticulation
+hypo: action
+
+w: fossilisation drf verb.change:fossilise
+w: fossilization drf verb.change:fossilize
+d: the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone
+hyper: petrifaction
+hypo: action
+
+w: fractional_distillation
+d: fractionation of a liquid by distillation
+hypo: fractional_process
+
+w: fractional_process
+w: fractionation drf verb.contact:fractionate drf verb.contact:fractionate 1
+d: a process that uses heat to separate a substance into its components
+hyper: destructive_distillation
+hyper: fractional_distillation
+hypo: industrial_process
+
+w: fragmentation drf verb.change:fragment
+d: (computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk
+e: fragmentation slows system performance because it takes extra time to locate and assemble the parts of the fragmented file
+hypo: storage
+mt: noun.cognition:computer_science
+
+w: freeze 1 drf verb.change:freeze drf verb.change:freeze 2
+w: freezing drf verb.change:freeze drf verb.change:freeze 2 drf verb.change:freeze 4 drf verb.weather:freeze 10
+d: the withdrawal of heat to change something from a liquid to a solid
+hyper: freeze-drying
+hyper: frost 1
+hypo: chilling
+hypo: phase_change
+
+w: freeze-drying
+w: lyophilisation drf verb.change:lyophilise
+w: lyophilization drf verb.change:lyophilize
+d: a method of drying food or blood plasma or pharmaceuticals or tissue without destroying their physical structure; material is frozen and then warmed in a vacuum so that the ice sublimes
+hypo: dehydration
+hypo: freeze 1
+
+w: frost 1 drf adjs.all:frosty 2 drf verb.contact:frost 4
+w: icing
+d: the formation of frost or ice on a surface
+hypo: freeze 1
+
+w: fructification drf verb.body:fructify drf verb.change:fructify
+d: the bearing of fruit
+hypo: development 1
+
+w: functioning drf verb.contact:function
+w: operation 1 drf verb.contact:operate 3
+w: performance
+d: process or manner of functioning or operating
+e: the power of its engine determines its operation
+e: the plane's operation in high winds
+e: they compared the cooking performance of each oven
+e: the jet's performance conformed to high standards
+hypo: noun.Tops:physical_process
+
+w: fusion
+w: nuclear_fusion
+w: nuclear_fusion_reaction
+d: a nuclear reaction in which nuclei combine to form more massive nuclei with the simultaneous release of energy
+hyper: cold_fusion
+hyper: thermonuclear_reaction
+hypo: nuclear_reaction
+
+w: fusion 1
+d: the merging of adjacent sounds or syllables or words
+hyper: syncretism
+hypo: linguistic_process
+
+w: galactosis
+d: the secretion of milk
+hypo: secernment
+
+w: galvanisation drf verb.body:galvanise 2
+w: galvanization drf verb.body:galvanize 2
+d: stimulation with a galvanic current
+hypo: stimulation
+
+w: gametogenesis
+d: the development and maturation of sex cells through meiosis
+hyper: oogenesis
+hyper: spermatogenesis
+hypo: development 1
+
+w: gasification drf verb.change:gasify
+d: the process of changing into gas
+e: coal gas is produced by the gasification of coal
+hypo: chemical_action
+
+w: gassing
+d: the process of interacting with gas
+hypo: chemical_action
+
+w: gastric_digestion
+d: the process of breaking down proteins by the action of the gastric juice in the stomach
+hypo: digestion
+
+w: gastrulation
+d: the process in which a gastrula develops from a blastula by the inward migration of cells
+hp: development 1
+hypo: biological_process
+
+w: gemmation
+w: pullulation 1 drf verb.change:pullulate
+d: asexual reproduction in which a local growth on the surface or in the body of the parent becomes a separate individual
+hypo: agamogenesis
+
+w: geologic_process
+w: geological_process
+d: (geology) a natural process whereby geological features are modified
+hyper: alluvion
+hyper: desertification
+hyper: diastrophism
+hyper: eating_away
+hyper: fold
+hyper: glaciation
+hyper: intrusion
+hyper: metamorphism
+hyper: orogeny
+hyper: stratification
+hyper: subduction
+hypo: action
+mt: noun.cognition:geology
+
+w: germination drf verb.change:germinate drf verb.change:germinate 1
+w: sprouting drf verb.body:sprout 1 drf verb.change:sprout
+d: the process whereby seeds or spores sprout and begin to grow
+hypo: development 1
+
+w: glaciation drf adj.pert:glacial drf verb.change:glaciate drf verb.contact:glaciate
+d: the process of covering the earth with glaciers or masses of ice
+hyper: Riss_glaciation
+hyper: Saale_glaciation
+hyper: Wolstonian_glaciation
+hypo: geologic_process
+
+w: global_warming
+d: an increase in the average temperature of the earth's atmosphere (especially a sustained increase that causes climatic changes)
+hypo: heating
+
+w: globalisation drf verb.change:globalise
+w: globalization drf verb.change:globalize
+d: growth to a global or worldwide scale
+e: the globalization of the communication industry
+hypo: economic_process
+
+w: glycogenesis
+d: the formation in animals of glycogen from glucose
+hypo: biological_process
+
+w: glycolysis
+d: a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of ATP
+hypo: metabolic_process
+
+w: growing 1
+d: (electronics) the production of (semiconductor) crystals by slow crystallization from the molten state
+hyper: epitaxy
+hypo: noun.act:production
+mt: noun.cognition:electronics
+
+w: growth 1 drf verb.change:grow 4
+d: a progression from simpler to more complex forms
+e: the growth of culture
+hypo: development 2
+
+w: growth 2 drf verb.change:grow
+w: increase ant decrease drf verb.change:increase drf verb.change:increase 2
+w: increment ant decrement drf adjs.all:incremental
+d: a process of becoming larger or longer or more numerous or more important
+e: the increase in unemployment
+e: the growth of population
+hyper: accession
+hyper: accretion
+hyper: accretion 1
+hyper: accretion 2
+hyper: accretion 3
+hyper: broadening
+hyper: multiplication
+hyper: population_growth
+hyper: proliferation 1
+hyper: pullulation
+hyper: relaxation 1
+hypo: noun.Tops:physical_process
+
+w: gynogenesis
+d: female parthenogenesis in which the embryo contains only maternal chromosomes due to the failure of the sperm to fuse with the egg nucleus
+hypo: parthenogenesis
+
+w: habit
+d: the general form or mode of growth (especially of a plant or crystal)
+e: a shrub of spreading habit
+hypo: development 1
+
+w: haemagglutination drf verb.contact:haemagglutinate
+w: hemagglutination drf verb.contact:hemagglutinate
+d: agglutination of red blood cells
+hypo: agglutination 1
+
+w: haematochezia
+w: hematochezia
+d: passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)
+hypo: defecation
+
+w: haematogenesis
+w: haematopoiesis drf adj.pert:haematopoietic
+w: haemogenesis
+w: haemopoiesis drf adj.pert:haemopoietic
+w: hematogenesis
+w: hematopoiesis drf adj.pert:hematopoietic
+w: hemogenesis
+w: hemopoiesis drf adj.pert:hemopoietic
+w: sanguification
+d: the formation of blood cells in the living body (especially in the bone marrow)
+hypo: biological_process
+
+w: haematolysis
+w: haemolysis drf adj.pert:haemolytic
+w: hematolysis
+w: hemolysis drf adj.pert:hemolytic
+d: lysis of erythrocytes with the release of hemoglobin
+hypo: lysis
+
+w: hatch drf verb.body:hatch drf verb.body:hatch 1
+w: hatching drf verb.body:hatch 1
+d: the production of young from an egg
+hypo: birth
+
+w: healing drf verb.body:heal drf verb.change:heal
+d: the natural process by which the body repairs itself
+hyper: conglutination
+hyper: convalescence
+hypo: activity
+
+w: heat_dissipation
+d: dissipation of heat
+hypo: chilling
+
+w: heating drf verb.change:heat
+w: warming drf verb.change:warm
+d: the process of becoming warmer; a rising temperature
+hyper: boiling
+hyper: global_warming
+hyper: induction_heating
+hyper: melt
+hyper: overheating
+hyper: radiant_heating
+hypo: temperature_change
+
+w: hemimetabolism drf adjs.all:hemimetabolic drf adjs.all:hemimetabolous
+w: hemimetaboly drf adjs.all:hemimetabolic
+w: hemimetamorphosis drf adjs.all:hemimetamorphous
+d: incomplete or partial metamorphosis in insects
+hypo: metabolism 2
+
+w: heredity drf adjs.all:hereditary 1
+d: the biological process whereby genetic factors are transmitted from one generation to the next
+hypo: biological_process
+
+w: heterometabolism drf adjs.all:heterometabolic
+w: heterometaboly drf adjs.all:heterometabolic
+d: development of insects with incomplete metamorphosis in which no pupal stage precedes maturity
+hypo: metabolism 2
+
+w: heterospory drf adj.pert:heterosporous
+d: the development of both microspores and megaspores
+hypo: monogenesis
+
+w: holometabolism drf adjs.all:holometabolic drf adjs.all:holometabolous
+w: holometaboly drf adjs.all:holometabolous
+d: complete metamorphosis in insects
+hypo: metabolism 2
+mt: noun.animal:insect
+
+w: homospory drf adj.pert:homosporous
+d: the development of a single kind of asexual spores
+hypo: monogenesis
+
+w: human_process
+d: a process in which human beings are involved
+hyper: linguistic_process
+hyper: ossification 1
+hyper: psychoanalytic_process
+hyper: social_process
+hyper: uptake
+hypo: noun.Tops:physical_process
+
+w: humification drf verb.change:humify
+d: the process of the formation of humus from plant remains
+hypo: biological_process
+
+w: hydration drf verb.change:hydrate drf verb.change:hydrate 2
+d: the process of combining with water; usually reversible
+hypo: association
+
+w: hydrocracking
+d: the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst
+hypo: cracking
+
+w: hydrogenation drf verb.change:hydrogenate
+d: a chemical process that adds hydrogen atoms to an unsaturated oil
+e: food producers use hydrogenation to keep fat from becoming rancid
+hypo: chemical_action
+
+w: hydrolysis drf verb.change:hydrolise 1 drf verb.change:hydrolize 1
+d: a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water
+hypo: chemical_reaction
+
+w: hyperhidrosis
+w: hyperidrosis
+w: polyhidrosis
+d: excessive and profuse perspiration
+hypo: diaphoresis
+
+w: hypermenorrhea
+w: menorrhagia
+d: abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged
+hypo: catamenia
+hypo: noun.state:symptom
+
+w: hypersecretion
+d: excessive secretion
+hypo: secernment
+
+w: hypostasis
+d: the accumulation of blood in an organ
+hypo: activity
+
+w: idealisation drf verb.cognition:idealise
+w: idealization
+d: (psychiatry) a defense mechanism that splits something you are ambivalent about into two representations--one good and one bad
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: ignition drf verb.weather:ignite
+d: the process of initiating combustion or catching fire
+hyper: spontaneous_combustion
+hypo: fire
+
+w: imbibition drf verb.contact:imbibe
+d: (chemistry) the absorption of a liquid by a solid or gel
+hypo: absorption
+mt: noun.cognition:chemical_science
+
+w: immunoelectrophoresis
+d: electrophoresis to separate antigens and antibodies
+hypo: cataphoresis
+
+w: implantation drf verb.contact:implant
+w: nidation
+d: (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals
+hypo: biological_process
+mt: noun.cognition:embryology
+
+w: impregnation drf verb.change:impregnate
+w: saturation
+d: the process of totally saturating something with a substance
+e: the impregnation of wood with preservative
+e: the saturation of cotton with ether
+hp: plastination
+hypo: permeation
+
+w: inactivation ant activation drf verb.change:inactivate
+d: the process of rendering inactive
+e: the gene inactivation system
+e: thermal inactivation of serum samples
+hypo: action
+
+w: incontinence drf adj.all:incontinent
+w: incontinency drf adj.all:incontinent
+d: involuntary urination or defecation
+hyper: enuresis
+hypo: elimination
+
+w: indentation drf verb.contact:indent
+w: pitting drf verb.contact:pit
+w: roughness
+d: the formation of small pits in a surface as a consequence of corrosion
+hypo: corroding
+
+w: induction_heating
+d: the heating of a conducting material caused by an electric current induced in it
+hypo: heating
+
+w: industrial_process
+d: a systematic series of mechanical or chemical operations that produce or manufacture something
+hyper: Acheson_process
+hyper: Bessemer_process
+hyper: Haber-Bosch_process
+hyper: Solvay_process
+hyper: cyanide_process
+hyper: electrostatic_precipitation
+hyper: fractional_process
+hypo: noun.Tops:physical_process
+
+w: indweller drf verb.stative:indwell
+d: activation by an inner spirit or force or principle
+e: the Holy Spirit is the indweller of the church and its members
+hypo: activation
+
+w: infection drf adj.pert:infectious drf verb.body:infect
+d: (medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease
+hyper: zymosis
+hypo: pathologic_process
+mt: noun.cognition:medical_specialty
+
+w: infection 1
+d: (phonetics) the alteration of a speech sound under the influence of a neighboring sound
+hypo: linguistic_process
+mt: noun.cognition:phonetics
+
+w: infiltration drf verb.motion:infiltrate 1 drf verb.motion:infiltrate 3
+w: percolation drf verb.contact:percolate drf verb.contact:percolate 2 drf verb.contact:percolate 3 drf verb.motion:percolate
+d: the slow passage of a liquid through a filtering medium
+e: the percolation of rainwater through the soil
+e: the infiltration of seawater through the lava
+hypo: filtration
+
+w: inflation ant deflation ant disinflation drf adj.all:inflationary drf verb.change:inflate 10 drf verb.change:inflate 11
+w: rising_prices
+d: a general and progressive increase in prices
+e: in inflation everything gets more valuable except money
+hyper: cost-pull_inflation
+hyper: demand-pull_inflation
+hyper: reflation
+hyper: stagflation
+hypo: economic_process
+
+w: inflationary_spiral ant deflationary_spiral
+d: an episode of inflation in which prices and wages increase at an increasing rate and currency rapidly loses value
+hypo: spiral
+
+w: inflow ant outflow
+w: influx ant efflux
+d: the process of flowing in
+hyper: inpour
+hypo: flow
+
+w: infolding
+w: introversion drf verb.contact:introvert
+w: intussusception 1 drf verb.contact:intussuscept
+w: invagination drf verb.contact:invaginate
+d: the folding in of an outer layer so as to form a pocket in the surface
+e: the invagination of the blastula
+hypo: biological_process
+
+w: infrigidation
+w: refrigeration drf verb.change:refrigerate drf verb.change:refrigerate 1
+d: the process of cooling or freezing (e.g., food) for preservative purposes
+hypo: chilling
+hypo: preservation
+
+w: infructescence
+d: the fruiting stage of the inflorescence
+hypo: development 1
+
+w: infusion drf verb.change:infuse 2
+d: the process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water)
+hypo: extraction
+
+w: inhibition
+d: (physiology) the process whereby nerves can retard or prevent the functioning of an organ or part
+e: the inhibition of the heart by the vagus nerve
+hypo: biological_process
+mt: noun.cognition:physiology
+
+w: inpour
+w: inpouring
+w: inrush
+d: an inflow
+e: an inpouring of spiritual comfort
+hypo: inflow
+
+w: inspissation drf verb.change:inspissate 3
+d: the process of thickening by dehydration
+hypo: dehydration
+
+w: insufflation drf verb.body:insufflate 1
+d: (medicine) blowing air or medicated powder into the lungs (or into some other body cavity)
+hypo: blowing
+mt: noun.cognition:medical_specialty
+
+w: intellectualisation
+w: intellectualization
+d: (psychiatry) a defense mechanism that uses reasoning to block out emotional stress and conflict
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: internal_combustion
+d: the combustion of fuel inside a cylinder (as in an internal-combustion engine)
+hypo: burning
+
+w: intrusion
+d: the forcing of molten rock into fissures or between strata of an earlier rock formation
+hypo: geologic_process
+
+w: intumescence
+w: intumescency
+w: swelling
+d: the increase in volume of certain substances when they are heated (often accompanied by release of water)
+hypo: chemical_action
+
+w: intussusception
+d: (biology) growth in the surface area of a cell by the deposit of new particles between existing particles in the cell wall
+hypo: development 1
+mt: noun.cognition:biological_science
+
+w: inversion
+d: a chemical process in which the direction of optical rotation of a substance is reversed from dextrorotatory to levorotary or vice versa
+hypo: chemical_action
+
+w: involution
+d: reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth)
+hypo: biological_process
+
+w: iodination drf verb.change:iodise drf verb.change:iodize
+d: the substitution or addition of iodine atoms in organic compounds
+hypo: chemical_action
+
+w: ion_exchange
+d: a process in which ions are exchanged between a solution and an insoluble (usually resinous) solid; widely used in industrial processing
+hypo: action
+
+w: ionisation drf verb.change:ionise drf verb.change:ionise 1
+w: ionization drf verb.change:ionize drf verb.change:ionize 1
+d: the process of ionizing; the formation of ions by separating atoms or molecules or radicals or by adding or subtracting electrons from atoms by strong electric fields in a gas
+hypo: action
+
+w: irreversible_process ant reversible_process
+d: any process that is not reversible
+hypo: noun.Tops:physical_process
+
+w: irruption
+d: a sudden sharp increase in the relative numbers of a population
+hypo: population_growth
+
+w: isoagglutination
+d: agglutination of an agglutinogen of one individual by a serum from another individual of the same species
+hypo: agglutination 1
+
+w: isogamy
+d: (biology) reproduction by the union or fusion of gametes of the same size and structure
+hypo: amphimixis
+mt: noun.cognition:biological_science
+
+w: isolation drf verb.cognition:isolate 5
+d: (psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: iteration drf verb.communication:iterate
+w: looping
+d: (computer science) executing the same set of instructions a given number of times or until a specified result is obtained
+e: the solution is obtained by iteration
+hypo: noun.Tops:physical_process
+mt: noun.cognition:computer_science
+
+w: iteration 1 drf verb.communication:iterate
+w: loop
+d: (computer science) a single execution of a set of instructions that are to be repeated
+e: the solution took hundreds of iterations
+hypo: noun.Tops:physical_process
+mt: noun.cognition:computer_science
+
+w: juvenescence
+d: the process of growing into a youth
+hypo: development 1
+
+w: karyokinesis drf adj.pert:karyokinetic
+d: organic process consisting of the division of the nucleus of a cell during mitosis or meiosis
+hp: meiosis
+hp: mitosis
+hypo: biological_process
+
+w: karyolysis
+d: disintegration and dissolution of a cell nucleus when a cell dies
+hypo: lysis
+
+w: katamorphism ant anamorphism
+d: metamorphism that occurs at or near the earth's surface; breaks down complex minerals into simpler ones
+hypo: metamorphism
+
+w: keratinisation drf verb.change:keratinise
+w: keratinization drf verb.change:keratinize
+d: organic process by which keratin is deposited in cells and the cells become horny (as in nails and hair)
+hypo: biological_process
+
+w: lachrymation
+w: lacrimation
+w: tearing drf verb.body:tear
+w: watering drf verb.change:water 4
+d: shedding tears
+hypo: activity
+
+w: lactation drf verb.consumption:lactate
+d: the production and secretion of milk by the mammary glands
+hypo: activity
+
+w: leach drf verb.change:leach drf verb.motion:leach drf verb.motion:leach 1
+w: leaching
+d: the process of leaching
+hypo: action
+
+w: leak drf adjs.all:leaky 1
+w: making_water
+w: passing_water
+w: wetting
+d: a euphemism for urination
+e: he had to take a leak
+hypo: micturition
+mu: noun.communication:euphemism
+
+w: leeway
+d: (of a ship or plane) sideways drift
+hypo: drift 1
+mt: noun.artifact:aeroplane
+mt: noun.artifact:ship
+
+w: leptotene
+d: the first stage of the prophase of meiosis
+hp: prophase 2
+hypo: noun.time:phase
+mp: synapsis
+
+w: lexicalisation
+w: lexicalization drf verb.communication:lexicalize
+d: the process of making a word to express a concept
+hypo: linguistic_process
+
+w: libration drf verb.motion:librate
+d: (astronomy) a real or apparent slow oscillation of a moon or satellite
+e: the libration of the moon
+hypo: noun.phenomenon:variation
+hypo: oscillation
+mt: noun.cognition:astronomy
+
+w: life_cycle
+d: the course of developmental changes in an organism from fertilized zygote to maturity when another zygote can be produced
+hypo: development 1
+
+w: light_reaction
+d: the first stage of photosynthesis during which energy from light is used for the production of ATP
+hp: photosynthesis
+hypo: photochemical_reaction
+
+w: line_feed
+d: the operation that prepares for the next character to be printed or displayed on the next line
+hypo: printing_operation
+
+w: linguistic_process
+d: a process involved in human language
+hyper: agglutination
+hyper: assimilation
+hyper: deletion
+hyper: derivation
+hyper: dissimilation 1
+hyper: drift 2
+hyper: fusion 1
+hyper: infection 1
+hyper: lexicalisation
+hyper: metathesis 1
+hyper: synaeresis 1
+hypo: human_process
+mt: noun.cognition:linguistics
+
+w: liquefaction drf verb.change:liquefy drf verb.change:liquefy 1 drf verb.weather:liquefy
+d: the conversion of a solid or a gas into a liquid
+hyper: dissolution 1
+hypo: phase_change
+
+w: list_processing
+d: processing data that is given in the form of chained lists
+hypo: data_processing
+
+w: lithuresis
+d: passing small stones with the urine
+hypo: micturition
+
+w: logic_operation
+w: logical_operation
+d: an operation that follows the rules of symbolic logic
+hypo: operation
+mt: noun.cognition:logic
+
+w: lookup
+w: search
+d: an operation that determines whether one or more of a set of items has a specified property
+e: they wrote a program to do a table lookup
+hypo: operation
+
+w: loss drf adj.all:lossy
+d: gradual decline in amount or activity
+e: weight loss
+e: a serious loss of business
+hyper: epilation
+hyper: reducing 1
+hypo: decline 2
+
+w: lymphopoiesis
+d: the formation of lymphocytes in the bone marrow and lymph nodes and thymus and spleen
+hypo: biological_process
+
+w: lysis
+d: (biochemistry) dissolution or destruction of cells such as blood cells or bacteria
+hyper: autolysis
+hyper: bacteriolysis
+hyper: cytolysis
+hyper: haematolysis
+hyper: karyolysis
+hyper: necrolysis
+hyper: osteolysis
+hyper: radiolysis
+hyper: thrombolysis
+hypo: disintegration 1
+mt: noun.cognition:biochemistry
+
+w: lysis 1
+d: recuperation in which the symptoms of an acute disease gradually subside
+hypo: convalescence
+
+w: lysogenisation
+w: lysogenization drf verb.change:lysogenize
+d: the process by which a bacterium acquires a phage that becomes integrated into its genome
+hypo: biological_process
+
+w: maceration drf verb.change:macerate 1
+d: softening due to soaking or steeping
+hypo: softening
+
+w: macroevolution
+d: evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups
+hypo: evolution
+
+w: magnetic_induction
+w: magnetisation drf verb.change:magnetise
+w: magnetization drf verb.change:magnetize
+d: the process that makes a substance magnetic (temporarily or permanently)
+hypo: action
+
+w: majority_operation
+d: a threshold operation in which each operand is 0 or 1; output is 1 if and only if more than half the operands have the value 1
+hypo: threshold_operation
+
+w: malabsorption
+d: abnormal absorption of nutrients from the digestive tract
+hypo: absorption 1
+
+w: marginalisation drf verb.social:marginalise
+w: marginalization drf verb.social:marginalize
+d: the social process of becoming or being made marginal (especially as a group within the larger society)
+e: the marginalization of the underclass
+e: the marginalization of literature
+hypo: social_process
+
+w: market_forces
+d: the interaction of supply and demand that shapes a market economy
+hypo: economic_process
+
+w: masculinisation
+w: masculinization drf verb.change:masculinize
+w: virilisation
+w: virilization drf verb.change:virilize
+d: the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)
+hypo: development 1
+
+w: materialisation drf verb.change:materialise
+w: materialization drf verb.change:materialize
+d: the process of coming into being; becoming reality
+e: the materialization of her dream
+hypo: action
+
+w: maturation 1 drf adj.pert:maturational drf verb.change:maturate drf verb.change:mature
+w: maturement drf verb.change:mature drf verb.change:mature 4 drf verb.communication:mature
+w: ripening drf verb.change:ripen drf verb.change:ripen 1
+d: coming to full development; becoming mature
+hypo: biological_process
+
+w: meiosis drf adj.pert:meiotic
+w: miosis
+w: reduction_division
+d: (genetics) cell division that produces reproductive cells in sexually reproducing organisms; the nucleus divides into four nuclei each containing half the chromosome number (leading to gametes in animals and spores in plants)
+hyper: nondisjunction
+hypo: cell_division
+mp: anaphase
+mp: cytokinesis
+mp: karyokinesis
+mp: metaphase 2
+mp: prophase 2
+mp: segregation
+mp: telophase 2
+mt: noun.cognition:genetic_science
+
+w: melioration drf verb.change:meliorate
+d: the linguistic process in which over a period of time a word grows more positive in connotation or more elevated in meaning
+hypo: drift 2
+
+w: mellowing drf verb.change:mellow drf verb.change:mellow 1 drf verb.change:mellow 3
+d: the process of becoming mellow
+hypo: ageing 1
+
+w: melt drf verb.change:melt drf verb.change:melt 1
+w: melting drf verb.change:melt drf verb.change:melt 1
+w: thaw drf verb.change:thaw
+w: thawing drf verb.change:thaw
+d: the process whereby heat changes something from a solid to a liquid
+e: the power failure caused a refrigerator melt that was a disaster
+e: the thawing of a frozen turkey takes several hours
+hypo: heating
+hypo: phase_change
+
+w: meltdown
+w: nuclear_meltdown
+d: severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping
+hypo: overheating
+
+w: metabolic_process
+w: metabolism drf adj.pert:metabolic drf verb.consumption:metabolize
+d: the organic processes (in a cell or organism) that are necessary for life
+hyper: noun.act:cellular_respiration
+hyper: basal_metabolism
+hyper: fat_metabolism
+hyper: glycolysis
+hypo: biological_process
+mp: Krebs_citric_acid_cycle
+mp: anabolism
+mp: catabolism
+mt: noun.Tops:being
+
+w: metabolism 2 drf adj.all:metabolic drf adj.all:metabolous
+w: metamorphosis drf adj.all:metamorphic
+d: the marked and rapid transformation of a larva into an adult that occurs in some animals
+hyper: hemimetabolism
+hyper: heterometabolism
+hyper: holometabolism
+hypo: biological_process
+
+w: metamorphism
+d: change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances
+hyper: anamorphism
+hyper: epigenesis
+hyper: katamorphism
+hypo: geologic_process
+
+w: metaphase 1
+d: the second stage of mitosis
+hp: mitosis
+hypo: phase_of_cell_division
+
+w: metaphase 2
+d: the second stage of meiosis
+hp: meiosis
+hypo: phase_of_cell_division
+
+w: metastasis 1 drf adj.pert:metastatic drf verb.body:metastasize
+d: the spreading of a disease (especially cancer) to another part of the body
+hypo: pathologic_process
+
+w: metathesis 1
+d: a linguistic process of transposition of sounds or syllables within a word or words within a sentence
+hypo: linguistic_process
+
+w: microevolution
+d: evolution resulting from small specific genetic changes that can lead to a new subspecies
+hypo: evolution
+
+w: microphoning
+d: the transduction of sound waves into electrical waves (by a microphone)
+hypo: transduction
+
+w: micturition drf verb.body:micturate
+w: urination drf verb.body:urinate
+d: the discharge of urine
+hyper: leak
+hyper: lithuresis
+hyper: nocturia
+hyper: oliguria
+hyper: pee
+hypo: elimination
+
+w: mildew drf verb.change:mildew
+w: mold drf verb.change:mold
+w: mould
+d: the process of becoming mildewed
+hypo: spoilage
+
+w: mitosis
+d: cell division in which the nucleus divides into nuclei containing the same number of chromosomes
+hypo: cell_division
+mp: cytokinesis
+mp: karyokinesis
+mp: metaphase 1
+mp: prophase 1
+mp: telophase 1
+
+w: monadic_operation
+w: unary_operation
+d: an operation with exactly one operand
+hypo: operation
+
+w: monogenesis
+w: sporulation drf verb.creation:sporulate
+d: asexual reproduction by the production and release of spores
+hyper: heterospory
+hyper: homospory
+hypo: agamogenesis
+
+w: morphallaxis
+d: regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters
+hypo: regeneration
+
+w: morphogenesis
+d: differentiation and growth of the structure of an organism (or a part of an organism)
+hypo: development 1
+mt: noun.Tops:being
+
+w: multiplex_operation
+d: an operation in which two or more activities are interleaved
+hypo: operation
+
+w: multiplication drf verb.change:multiply
+d: a multiplicative increase
+e: repeated copying leads to a multiplication of errors
+e: this multiplication of cells is a natural correlate of growth
+hyper: doubling
+hyper: quadrupling
+hyper: quintupling
+hyper: tripling
+hypo: growth 2
+
+w: multiprocessing
+w: parallel_processing
+d: simultaneous processing by two or more processing units
+hypo: data_processing
+
+w: myelinisation
+w: myelinization
+d: the development of a myelin sheath around a nerve fiber
+hypo: development 1
+
+w: narrowing ant widening
+d: a decrease in width
+hypo: decrease
+
+w: natural_childbirth
+d: labor and childbirth without medical intervention; no drugs are given to relieve pain or aid the birth process
+e: natural childbirth is considered the safest for the baby
+hyper: Bradley_method
+hyper: Lamaze_method
+hyper: Leboyer_method
+hyper: Read_method
+hypo: accouchement
+
+w: natural_selection
+w: selection
+w: survival
+w: survival_of_the_fittest
+d: a natural process resulting in the evolution of organisms best adapted to the environment
+hypo: action
+
+w: necrolysis
+d: disintegration and dissolution of dead tissue
+hypo: lysis
+
+w: negative_feedback
+d: feedback in opposite phase with (decreasing) the input
+hypo: feedback
+
+w: neoplasia
+d: the pathological process that results in the formation and growth of a tumor
+hypo: pathologic_process
+
+w: neurogenesis
+d: the development of nerve tissues
+hypo: development 1
+
+w: neutralisation drf verb.change:neutralise
+w: neutralisation_reaction
+w: neutralization drf verb.change:neutralize
+w: neutralization_reaction
+d: a chemical reaction in which an acid and a base interact with the formation of a salt; with strong acids and bases the essential reaction is the combination of hydrogen ions with hydroxyl ions to form water
+hypo: chemical_reaction
+
+w: new_line
+d: the operation that prepares for the next character to be printed or displayed as the first character on the next line
+hypo: printing_operation
+
+w: nitrification drf verb.change:nitrify drf verb.change:nitrify 2
+d: the oxidation of ammonium compounds in dead organic material into nitrates and nitrites by soil bacteria (making nitrogen available to plants)
+hypo: oxidation
+mt: noun.Tops:flora
+
+w: nitrification 1 drf verb.change:nitrify 1
+d: the chemical process in which a nitro group is added to an organic compound (or substituted for another group in an organic compound)
+hypo: chemical_action
+
+w: nitrogen_cycle
+d: the circulation of nitrogen; nitrates from the soil are absorbed by plants which are eaten by animals that die and decay returning the nitrogen back to the soil
+hypo: biological_process
+
+w: nitrogen_fixation
+d: the assimilation of atmospheric nitrogen by soil bacteria and its release for plant use on the death of the bacteria
+hypo: biological_process
+
+w: nocturia
+w: nycturia
+d: excessive urination at night; especially common in older men
+hypo: micturition
+
+w: nocturnal_emission
+d: ejaculation during sleep (usually during a dream)
+hp: noun.cognition:wet_dream
+hypo: ejaculation
+
+w: nondevelopment ant development 1
+d: failure of normal development to occur
+hyper: agenesia
+hypo: biological_process
+
+w: nondisjunction
+d: meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells
+hypo: meiosis
+
+w: nosedive
+d: a sudden sharp drop or rapid decline
+e: the stock took a nosedive
+hypo: decline 2
+
+w: nuclear_reaction
+d: (physics) a process that alters the energy or structure or composition of atomic nuclei
+hyper: chain_reaction 2
+hyper: decay 3
+hyper: endoergic_reaction
+hyper: exoergic_reaction
+hyper: fission
+hyper: fusion
+hyper: spallation
+hypo: action
+mt: noun.cognition:natural_philosophy
+
+w: nucleosynthesis
+d: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom
+hypo: synthesis
+mt: noun.cognition:astronomy
+
+w: nutrition drf adj.pert:nutritional drf adj.pert:nutritionary drf adjs.all:nutritious drf noun.person:nutritionist drf verb.consumption:nutrify
+d: (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance
+hypo: biological_process
+mt: noun.cognition:physiology
+
+w: obsolescence drf adjs.all:obsolescent drf verb.change:obsolesce
+d: the process of becoming obsolete; falling into disuse or becoming out of date
+e: a policy of planned obsolescence
+hypo: degeneration
+
+w: oligomenorrhea
+d: abnormally light or infrequent menstruation
+hypo: catamenia
+
+w: oliguria
+d: production of an abnormally small amount of urine
+hypo: micturition
+
+w: oogenesis
+d: development of ova
+hypo: gametogenesis
+
+w: opacification drf verb.change:opacify
+d: the process of becoming cloudy or opaque
+hypo: action
+
+w: open-hearth_process
+d: a process for making steel using an open-hearth furnace
+hypo: steel_production
+
+w: operation
+d: (computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)
+e: it can perform millions of operations per second
+hyper: noun.artifact:access 1
+hyper: asynchronous_operation
+hyper: auxiliary_operation
+hyper: binary_arithmetic_operation
+hyper: computer_operation
+hyper: concurrent_operation
+hyper: consecutive_operation
+hyper: control_function
+hyper: dyadic_operation
+hyper: fixed-cycle_operation
+hyper: logic_operation
+hyper: lookup
+hyper: monadic_operation
+hyper: multiplex_operation
+hyper: parallel_operation
+hyper: printing_operation
+hyper: sort
+hyper: synchronous_operation
+hyper: threshold_operation
+hypo: data_processing
+mt: noun.cognition:computer_science
+
+w: opsonisation drf verb.change:opsonize
+w: opsonization drf verb.change:opsonize
+d: process whereby opsonins make an invading microorganism more susceptible to phagocytosis
+hypo: activity
+
+w: organification
+d: the process of organ formation
+hypo: biological_process
+
+w: origin
+d: the source of something's existence or from which it derives or is derived
+e: the rumor had its origin in idle gossip
+e: vegetable origins
+e: mineral origin
+e: origin in sensation
+hypo: source
+
+w: orogeny
+d: the process of mountain formation (especially by the upward displacement of the earth's crust)
+hypo: geologic_process
+
+w: oscillation drf verb.stative:oscillate
+d: the process of oscillating between states
+hyper: libration
+hypo: action
+
+w: osmosis drf adj.pert:osmotic
+d: (biology, chemistry) diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the concentration on both sides is equal
+hp: noun.act:dialysis
+hyper: reverse_osmosis
+hypo: diffusion
+mt: noun.cognition:biological_science
+mt: noun.cognition:chemical_science
+
+w: ossification
+d: the developmental process of bone formation
+hypo: biological_process
+
+w: ossification 1 drf verb.change:ossify 2
+d: the process of becoming rigidly fixed in a conventional pattern of thought or behavior
+hypo: human_process
+
+w: ossification 2 drf verb.change:ossify drf verb.change:ossify 1
+d: the calcification of soft tissue into a bonelike material
+hypo: calcification
+
+w: osteolysis
+d: lysis of bone caused by disease or infection or inadequate blood supply
+hypo: lysis
+
+w: overactivity drf adjs.all:overactive
+d: excessive activity
+e: overactivity of the sebaceous glands causes the skin to become oily
+hypo: activity
+
+w: overcompensation drf verb.stative:overcompensate
+d: (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite
+hypo: compensation
+mt: noun.cognition:psychiatry
+
+w: overflow_incontinence
+d: urinary incontinence that occurs when the bladder is so full that it continually leaks urine; often attributable to a blocked urethra (e.g., due to prostate enlargement) or weak bladder muscles or nerve damage
+hypo: enuresis
+
+w: overheating drf verb.change:overheat drf verb.change:overheat 1
+d: excessive heating
+hyper: meltdown
+hypo: heating
+
+w: ovulation ant anovulation drf verb.body:ovulate
+d: the expulsion of an ovum from the ovary (usually midway in the menstrual cycle)
+hypo: biological_process
+
+w: oxidation drf verb.change:oxidate drf verb.change:oxidate 1
+w: oxidisation drf verb.change:oxidise drf verb.change:oxidise 1
+w: oxidization drf verb.change:oxidize drf verb.change:oxidize 1
+d: the process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction
+hyper: burning
+hyper: calcination
+hyper: nitrification
+hyper: rust
+hypo: chemical_reaction
+
+w: oxidation-reduction
+w: oxidoreduction
+w: redox
+d: a reversible chemical reaction in which one reaction is an oxidation and the reverse is a reduction
+hypo: chemical_reaction
+
+w: oxidative_phosphorylation
+d: an enzymatic process in cell metabolism that synthesizes ATP from ADP
+hp: Krebs_citric_acid_cycle
+hypo: biological_process
+
+w: oxygenation drf verb.change:oxygenate
+d: the process of providing or combining or treating with oxygen
+e: the oxygenation of the blood
+hypo: action
+
+w: pachytene
+d: the third stage of the prophase of meiosis
+hp: prophase 2
+hypo: noun.time:phase
+
+w: pair_creation
+w: pair_formation
+w: pair_production
+d: the transformation of a gamma-ray photon into an electron and a positron when the photon passes close to an atomic nucleus
+hypo: action
+
+w: palingenesis ant cenogenesis drf adj.pert:palingenetic
+w: recapitulation drf verb.creation:recapitulate 1
+d: emergence during embryonic development of various characters or structures that appeared during the evolutionary history of the strain or species
+hypo: development 1
+
+w: paper_chromatography
+d: chromatography that uses selective adsorption on a strip of paper
+hypo: chromatography
+
+w: parallel_operation ant serial_operation
+w: simultaneous_operation
+d: the simultaneous execution of two or more operations
+hypo: operation
+
+w: parthenocarpy
+d: (botany) the development of a fruit without fertilization or seeds
+hypo: apomixis
+mt: noun.cognition:botany
+
+w: parthenogenesis drf adjs.all:parthenogenetic
+w: parthenogeny
+d: process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods
+hyper: androgenesis
+hyper: gynogenesis
+hypo: apomixis
+
+w: parthenogenesis 1
+w: parthenogeny 1
+w: virgin_birth
+d: human conception without fertilization by a man
+hypo: agamogenesis
+
+w: passive_transport
+d: transport of a substance across a cell membrane by diffusion; expenditure of energy is not required
+hypo: transport
+
+w: pathogenesis
+d: the origination and development of a disease
+hyper: focalisation
+hypo: pathologic_process
+
+w: pathologic_process
+w: pathological_process
+d: an organic process occurring as a consequence of disease
+hyper: feminisation
+hyper: infection
+hyper: metastasis 1
+hyper: neoplasia
+hyper: pathogenesis
+hypo: biological_process
+
+w: peace_process
+d: any social process undertaken by governments who want their citizens to believe they are trying to avoid armed hostilities
+hypo: social_process
+
+w: pee drf verb.body:pee
+w: peeing drf verb.body:pee
+w: piss drf verb.body:piss
+w: pissing drf verb.body:piss
+d: informal terms for urination
+e: he took a pee
+hypo: micturition
+mu: noun.communication:dirty_word
+
+w: peptisation drf verb.change:peptise
+w: peptization drf verb.change:peptize
+d: the process of converting to a sol; bringing to a colloidal solution
+hypo: chemical_action
+
+w: perennation drf verb.stative:perennate
+d: the process of living through a number of years (as a perennial plant)
+hypo: biological_process
+mt: noun.Tops:flora
+
+w: peristalsis ant anastalsis
+w: vermiculation
+d: the process of wavelike muscle contractions of the alimentary tract that moves food along
+hypo: activity
+
+w: permeation drf verb.contact:permeate drf verb.contact:permeate 1 drf verb.contact:permeate 2
+w: pervasion drf verb.contact:pervade
+w: suffusion drf verb.change:suffuse drf verb.change:suffuse 1
+d: the process of permeating or infusing something with a substance
+hyper: ammonification
+hyper: carbonation
+hyper: impregnation
+hypo: diffusion
+
+w: petrifaction drf verb.change:petrify
+w: petrification drf verb.change:petrify
+d: the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape
+hypo: fossilisation
+
+w: phagocytosis
+d: process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection
+hypo: activity
+
+w: phase_change
+w: phase_transition
+w: physical_change
+w: state_change
+d: a change from one state (solid or liquid or gas) to another without a change in chemical composition
+hyper: evaporation
+hyper: freeze 1
+hyper: liquefaction
+hyper: melt
+hypo: action
+
+w: phase_of_cell_division
+d: a stage in meiosis or mitosis
+hyper: anaphase
+hyper: metaphase 1
+hyper: metaphase 2
+hyper: prophase 1
+hyper: prophase 2
+hyper: telophase 1
+hyper: telophase 2
+hypo: noun.time:phase
+
+w: photochemical_reaction
+d: a chemical reaction produced by the action of light
+hyper: light_reaction
+hypo: chemical_reaction
+
+w: photoelectric_emission
+d: the release or absorption of quanta above a certain energy level
+hypo: emission
+
+w: photography drf adj.pert:photographic drf noun.artifact:photograph
+d: the process of producing images of objects on photosensitive surfaces
+dt: verb.perception:develop
+dt: verb.perception:redevelop
+dt: verb.perception:underdevelop
+hyper: anaglyphy
+hyper: autotype
+hyper: digital_photography
+hyper: dry_plate
+hyper: photomechanics
+hyper: powder_method
+hyper: radiography
+hyper: scanning
+hyper: video_digitizing
+hypo: noun.Tops:physical_process
+
+w: photomechanics drf adj.pert:photomechanical
+w: photoplate_making
+d: the process whereby printing surfaces (plates or cylinders) are produced by photographic methods
+e: photomechanics revolutionized the practice of printing
+hypo: photography
+
+w: photosynthesis drf adj.pert:photosynthetic
+d: synthesis of compounds with the aid of radiant energy (especially in plants)
+hypo: chemical_action
+mp: light_reaction
+mt: noun.Tops:flora
+
+w: pigmentation drf verb.change:pigment 1
+d: the deposition of pigment in animals or plants or human beings
+hypo: deposit
+
+w: pinocytosis
+d: process by which certain cells can engulf and incorporate droplets of fluid
+hypo: activity
+
+w: placentation
+d: the formation of the placenta in the uterus
+hypo: activity
+
+w: planation drf verb.contact:plane 3
+d: the process of erosion whereby a level surface is produced
+hypo: eating_away
+
+w: plastination drf verb.possession:plastinate
+d: a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened
+e: the plastination of specimens is valuable for research and teaching
+hypo: preservation
+mp: noun.act:fixation
+mp: curing
+mp: dehydration
+mp: impregnation
+
+w: polymerisation drf verb.change:polymerise drf verb.change:polymerise 2
+w: polymerization drf verb.change:polymerize drf verb.change:polymerize 2
+d: a chemical process that combines several monomers to form a polymer or polymeric compound
+hypo: chemical_action
+
+w: population_growth
+d: increase in the number of people who inhabit a territory or state
+hyper: irruption
+hypo: growth 2
+
+w: positive_feedback
+w: regeneration 1 drf verb.change:regenerate 6
+d: feedback in phase with (augmenting) the input
+hyper: vicious_circle
+hypo: feedback
+
+w: potentiation drf verb.change:potentiate
+d: (medicine) the synergistic effect of two drugs given simultaneously
+hypo: synergism
+mt: noun.cognition:medical_specialty
+
+w: powder_method
+w: powder_photography
+w: powder_technique
+d: a process for identifying minerals or crystals; a small rod is coated with a powdered form of the substance and subjected to suitably modified X-rays; the pattern of diffracted rings is used for identification
+hypo: photography
+
+w: precession_of_the_equinoxes
+d: a slow westward shift of the equinoxes along the plane of the ecliptic caused by precession of the Earth's axis of rotation
+hypo: action
+
+w: prechlorination
+d: chlorination prior to another chemical process
+hypo: chlorination
+
+w: precipitation drf verb.change:precipitate
+d: the process of forming a chemical precipitate
+hypo: chemical_action
+
+w: precocious_dentition
+d: teething at an earlier age than expected
+hypo: dentition
+
+w: premature_ejaculation
+d: ejaculation during the early stages of sexual excitement or soon after the insertion of the penis into the vagina
+hypo: ejaculation
+
+w: preservation
+d: a process that saves organic substances from decay
+hyper: noun.act:embalmment
+hyper: noun.act:fixation
+hyper: infrigidation
+hyper: plastination
+hypo: biological_process
+
+w: printing_operation
+d: an operation that controls the printing or display of information
+hyper: carriage_return
+hyper: line_feed
+hyper: new_line
+hypo: operation
+
+w: priority_processing
+d: data processing in which the operations performed are determined by a system of priorities
+hyper: background_processing
+hyper: foreground_processing
+hypo: data_processing
+
+w: processing drf verb.change:process drf verb.social:process 1
+d: preparing or putting through a prescribed procedure
+e: the processing of newly arrived immigrants
+e: the processing of ore to obtain minerals
+hyper: blowing
+hyper: data_processing
+hyper: developing
+hyper: purification
+hyper: vulcanisation
+hypo: noun.Tops:physical_process
+
+w: professionalisation
+w: professionalization drf verb.change:professionalize drf verb.change:professionalize 1
+d: the social process whereby people come to engage in an activity for pay or as a means of livelihood
+e: the professionalization of American sports
+e: the professionalization of warfare
+hypo: social_process
+
+w: projection
+d: (psychiatry) a defense mechanism by which your own traits and emotions are attributed to someone else
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: proliferation drf verb.change:proliferate drf verb.change:proliferate 1
+d: growth by the rapid multiplication of parts
+hypo: development 1
+
+w: proliferation 1 ant noun.act:non-proliferation ant noun.act:nonproliferation drf verb.change:proliferate drf verb.change:proliferate 1
+d: a rapid increase in number (especially a rapid increase in the number of deadly weapons)
+e: the proliferation of nuclear weapons
+hypo: growth 2
+
+w: prophase 1
+d: the first stage of mitosis
+hp: mitosis
+hypo: phase_of_cell_division
+
+w: prophase 2
+d: the first stage of meiosis
+hp: meiosis
+hypo: phase_of_cell_division
+mp: diakinesis
+mp: diplotene
+mp: leptotene
+mp: pachytene
+mp: synezesis
+mp: zygotene
+
+w: proteolysis drf adj.pert:proteolytic
+d: the hydrolysis of proteins into peptides and amino acids by cleavage of their peptide bonds
+hypo: chemical_action
+
+w: psilosis
+d: falling out of hair
+hypo: activity
+hypo: epilation
+
+w: psychoanalytic_process
+d: a process that is assumed to occur in psychoanalytic theory
+hyper: defence
+hypo: human_process
+
+w: psychogenesis
+d: a general term for the origin and development of almost any aspect of the mind
+hypo: development 1
+
+w: psychogenesis 1
+d: the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors
+hypo: development 1
+
+w: psychomotor_development
+d: progressive acquisition of skills involving both mental and motor activities
+hypo: development 1
+
+w: psychosexual_development
+d: (psychoanalysis) the process during which personality and sexual behavior mature through a series of stages: first oral stage and then anal stage and then phallic stage and then latency stage and finally genital stage
+hypo: development 1
+mt: noun.act:analysis 1
+
+w: ptyalism drf verb.body:ptyalize
+d: excessive flow of saliva
+hypo: salivation
+
+w: pullulation drf verb.change:pullulate 1
+d: a rapid and abundant increase
+hypo: growth 2
+
+w: purification drf verb.change:purify
+w: refinement drf verb.change:refine drf verb.change:refine 2
+w: refining drf verb.change:refine
+d: the process of removing impurities (as from oil or metals or sugar etc.)
+hyper: rectification
+hypo: processing
+
+w: pyrochemical_process
+w: pyrochemistry drf adj.pert:pyrochemical
+d: processes for chemical reactions at high temperatures
+hypo: chemical_action
+
+w: quadrupling drf verb.change:quadruple
+d: increase by a factor of four
+hypo: multiplication
+
+w: quellung
+w: quellung_reaction
+d: the swelling of the capsule surrounding a microorganism after reaction with an antibody; the basis of certain tests for identifying microorganisms
+e: pneumococcus quellung
+hypo: biological_process
+
+w: quickening
+d: the process of showing signs of life
+e: the quickening of seed that will become ripe grain
+hypo: biological_process
+
+w: quintupling drf verb.change:quintuple
+d: increasing by a factor of five
+hypo: multiplication
+
+w: radiant_heating
+d: heating a building by radiation from panels containing hot water or electrical heaters
+hypo: heating
+
+w: radiation
+w: radioactivity drf adj.all:radioactive
+d: the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay
+hyper: noun.phenomenon:corpuscular_radiation
+hypo: emission
+
+w: radiography drf adj.pert:radiographic drf noun.person:radiographer
+w: skiagraphy
+d: the process of making a radiograph; producing an image on a radiosensitive surface by radiation other than visible light
+hyper: autoradiography
+hypo: photography
+
+w: radiolysis
+d: molecular disintegration resulting from radiation
+hypo: lysis
+
+w: rain-wash
+d: the washing away of soil or other loose material by rain
+hypo: wash
+
+w: rally drf verb.change:rally
+d: a marked recovery of strength or spirits during an illness
+hypo: convalescence
+
+w: random_walk
+d: a stochastic process consisting of a sequence of changes each of whose characteristics (as magnitude or direction) is determined by chance
+hypo: stochastic_process
+
+w: rationalisation
+w: rationalization
+d: (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: re-uptake
+w: reuptake
+d: a process of using up or consuming again
+e: psychopharmacologists discovered that amine reuptake is a process that inactivates monoamine neurotransmitters
+hypo: uptake
+
+w: reabsorption drf verb.contact:reabsorb
+w: resorption drf verb.contact:resorb
+d: the organic process in which the substance of some differentiated structure that has been produced by the body undergoes lysis and assimilation
+hypo: biological_process
+
+w: reaction_formation
+d: (psychiatry) a defense mechanism in which a person unconsciously develops attitudes and behavior that are the opposite of unacceptable repressed desires and impulses and serve to conceal them
+e: his strict morality is just a reaction formation to hide his sexual drive
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: real-time_operation
+w: real-time_processing
+d: data processing fast enough to keep up with an outside process
+hypo: data_processing
+
+w: rectification drf verb.change:rectify 5
+d: (chemistry) the process of refinement or purification of a substance by distillation
+hypo: purification
+mt: noun.cognition:chemical_science
+
+w: redeposition drf verb.contact:redeposit drf verb.possession:redeposit
+d: deposition from one deposit to another
+hypo: deposit
+
+w: reducing drf verb.change:reduce 3
+w: reduction
+d: any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent
+hypo: chemical_reaction
+
+w: reducing 1 drf verb.body:reduce
+d: loss of excess weight (as by dieting); becoming slimmer
+e: a doctor supervised her reducing
+hypo: loss
+
+w: refilling drf verb.change:refill
+w: renewal
+w: replacement
+w: replenishment drf verb.change:replenish
+d: filling again by supplying what has been used up
+hypo: filling
+
+w: reflation drf verb.change:reflate 4 drf verb.change:reflate 5
+d: inflation of currency after a period of deflation; restore the system to a previous state
+hypo: inflation
+
+w: regeneration drf verb.body:regenerate 1 drf verb.change:regenerate 2
+d: (biology) growth anew of lost tissue or destroyed parts or organs
+hyper: morphallaxis
+hypo: biological_process
+mt: noun.cognition:biological_science
+
+w: regression
+d: (psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: regulation
+d: (embryology) the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered
+hypo: biological_process
+mt: noun.cognition:embryology
+
+w: relaxation
+w: relaxation_behavior
+d: (physics) the exponential return of a system to equilibrium after a disturbance
+hypo: exponential_decay
+mt: noun.cognition:natural_philosophy
+
+w: relaxation 1 drf verb.body:relax drf verb.change:relax 1
+d: (physiology) the gradual lengthening of inactive muscle or muscle fibers
+hypo: growth 2
+mt: noun.cognition:physiology
+
+w: release drf verb.body:release drf verb.body:release 1
+d: a process that liberates or discharges something
+e: there was a sudden release of oxygen
+e: the release of iodine from the thyroid gland
+hyper: emission
+hypo: action
+
+w: replication drf verb.creation:replicate 1
+d: (genetics) the process whereby DNA makes a copy of itself before cell division
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: repression
+d: (psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious
+hypo: defence
+mt: noun.cognition:psychiatry
+
+w: reproduction drf verb.body:reproduce
+d: the process of generating offspring
+hyper: agamogenesis
+hyper: amphimixis
+hypo: biological_process
+mp: birth
+mt: noun.cognition:biological_science
+
+w: reticulation drf verb.contact:reticulate
+d: (photography) the formation of a network of cracks or wrinkles in a photographic emulsion
+hypo: formation
+mt: noun.act:photography
+
+w: retrieval
+d: (computer science) the operation of accessing information from the computer's memory
+hyper: stovepiping
+hypo: computer_operation
+mt: noun.cognition:computer_science
+
+w: reverse_osmosis
+d: (chemistry) a method of producing pure water; a solvent passes through a semipermeable membrane in a direction opposite to that for natural osmosis when it is subjected to a hydrostatic pressure greater than the osmotic pressure
+hypo: osmosis
+mt: noun.cognition:chemical_science
+
+w: reversible_process ant irreversible_process
+d: any process in which a system can be made to pass through the same states in the reverse order when the process is reversed
+hypo: noun.Tops:physical_process
+
+w: rigidification drf verb.change:rigidify
+w: rigidifying drf verb.change:rigidify
+w: stiffening drf verb.change:stiffen 1
+d: the process of becoming stiff or rigid
+hyper: rigor_mortis
+hypo: action
+
+w: rigor_mortis
+d: muscular stiffening that begins 2 to 4 hours after death and lasts for about 4 days
+hypo: rigidification
+
+w: rooting drf verb.change:root drf verb.change:root 1
+d: the process of putting forth roots and beginning to grow
+hypo: development 1
+
+w: rust drf verb.change:rust drf verb.change:rust 1 drf verb.change:rust 2
+w: rusting
+d: the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water
+hypo: corroding
+hypo: oxidation
+ms: noun.substance:ferric_oxide
+
+w: salivation drf verb.body:salivate
+d: the secretion of saliva
+hyper: ptyalism
+hypo: secernment
+
+w: saltation drf verb.motion:saltate 1
+d: (geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface
+hypo: action
+mt: noun.cognition:geology
+
+w: saponification drf verb.change:saponify drf verb.change:saponify 1
+d: a chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap)
+hypo: chemical_reaction
+
+w: scanning drf verb.motion:scan
+d: the process of translating photographs into a digital form that can be recognized by a computer
+hypo: photography
+
+w: scattering
+d: the physical process in which particles are deflected haphazardly as a result of collisions
+hp: extinction
+hypo: action
+
+w: schizogony
+d: asexual reproduction by multiple fission; characteristic of many sporozoan protozoans
+hypo: fission 1
+
+w: secernment
+w: secretion drf verb.body:secrete
+d: the organic process of synthesizing and releasing some substance
+hyper: galactosis
+hyper: hypersecretion
+hyper: salivation
+hypo: biological_process
+
+w: secondary_emission
+d: the emission of electrons from a surface that is bombarded by higher energy primary electrons
+hypo: emission
+
+w: segregation
+d: (genetics) the separation of paired alleles during meiosis so that members of each pair of alleles appear in different gametes
+hp: meiosis
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: sensitisation
+w: sensitization drf verb.change:sensitize
+d: (psychology) the process of becoming highly sensitive to specific events or situations (especially emotional events or situations)
+hypo: noun.Tops:physical_process
+mt: noun.cognition:psychological_science
+
+w: sequestration drf verb.change:sequester 6
+d: the action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions
+hypo: chemical_action
+
+w: serial_processing
+d: sequential processing by two or more processing units
+hypo: data_processing
+
+w: sericulture drf adj.pert:sericultural drf noun.person:sericulturist
+d: raising silkworms in order to obtain raw silk
+hypo: action
+
+w: shedding drf verb.body:shed
+w: sloughing drf verb.body:slough
+d: the process whereby something is shed
+hyper: abscission
+hyper: ecdysis
+hypo: biological_process
+
+w: sink ant source
+d: (technology) a process that acts to absorb or remove energy or a substance from a system
+e: the ocean is a sink for carbon dioxide
+hyper: noun.artifact:heat_sink
+hypo: action
+mt: noun.cognition:applied_science
+
+w: sinking_spell
+d: a temporary decline in health or value
+hypo: decline 2
+
+w: slippage
+d: a decrease of transmitted power in a mechanical system caused by slipping
+hypo: decrease
+
+w: slippage 1 drf verb.change:slip
+d: decline from a standard level of performance or achievement
+hypo: decline 2
+
+w: smoke drf adj.all:smoky drf verb.weather:smoke
+w: smoking drf verb.weather:smoke
+d: a hot vapor containing fine particles of carbon being produced by combustion
+e: the fire produced a tower of black smoke that could be seen for miles
+hypo: evaporation
+
+w: soak drf verb.change:soak drf verb.contact:soak 1
+w: soakage drf verb.contact:soak 1
+w: soaking drf verb.contact:soak 1
+d: the process of becoming softened and saturated as a consequence of being immersed in water (or other liquid)
+e: a good soak put life back in the wagon
+hypo: action
+
+w: social_process
+d: a process involved in the formation of groups of persons
+hyper: Nazification
+hyper: Stalinisation
+hyper: absorption 3
+hyper: civilisation
+hyper: de-Nazification
+hyper: de-Stalinisation
+hyper: decentalisation
+hyper: marginalisation
+hyper: peace_process
+hyper: professionalisation
+hyper: urbanisation
+hypo: human_process
+
+w: softening drf verb.change:soften drf verb.change:soften 1
+d: the process of becoming softer
+e: refrigeration delayed the softening of the fruit
+e: he observed the softening of iron by heat
+hyper: maceration
+hypo: action
+
+w: soil_erosion
+d: the washing away of soil by the flow of water
+hyper: wash
+hypo: eating_away
+
+w: solvation drf verb.change:solvate drf verb.change:solvate 1
+d: a chemical process in which solvent molecules and molecules or ions of the solute combine to form a compound
+hypo: association
+
+w: sorption drf verb.contact:sorb
+d: the process in which one substance takes up or holds another (by either absorption or adsorption)
+hyper: absorption
+hyper: adsorption
+hypo: action
+
+w: sort drf verb.cognition:sort drf verb.social:sort
+w: sorting drf verb.cognition:sort
+d: an operation that segregates items into groups according to a specified criterion
+e: the bottleneck in mail delivery is the process of sorting
+hypo: operation
+
+w: source ant sink
+d: (technology) a process by which energy or a substance enters a system
+e: a heat source
+e: a source of carbon dioxide
+hyper: origin
+hypo: action
+mt: noun.cognition:applied_science
+
+w: souring drf verb.change:sour 1
+d: the process of becoming sour
+hypo: spoilage
+
+w: spallation
+d: (physics) a nuclear reaction in which a bombarded nucleus breaks up into many particles
+e: some astronomers believe that the solar system was formed by spallation when the sun was a very young star
+hypo: nuclear_reaction
+mt: noun.cognition:natural_philosophy
+
+w: speciation drf verb.change:speciate
+d: the evolution of a biological species
+hypo: evolution
+
+w: spermatogenesis
+d: development of spermatozoa
+hypo: gametogenesis
+
+w: spiral
+d: a continuously accelerating change in the economy
+hyper: deflationary_spiral
+hyper: inflationary_spiral
+hypo: economic_process
+
+w: spoilage drf verb.change:spoil
+w: spoiling drf verb.change:spoil
+d: the process of becoming spoiled
+hyper: mildew
+hyper: souring
+hypo: decay 2
+
+w: spontaneous_combustion
+d: ignition of a substance (as oily rags) resulting from an internal oxidation process
+hypo: ignition
+
+w: stagflation drf adj.pert:stagflationary
+d: a period of slow economic growth and high unemployment (stagnation) while prices rise (inflation)
+hypo: inflation
+
+w: stationary_stochastic_process
+d: a stochastic process in which the distribution of the random variables is the same for any value of the variable parameter
+hypo: stochastic_process
+
+w: steel_production
+d: making steel from pig iron
+hyper: Bessemer_process
+hyper: open-hearth_process
+hypo: noun.act:production
+
+w: stimulation
+d: (physiology) the effect of a stimulus (on nerves or organs etc.)
+hyper: activation
+hyper: galvanisation
+hypo: action
+mt: noun.cognition:physiology
+
+w: stochastic_process
+d: a statistical process involving a number of random variables depending on a variable parameter (which is usually time)
+hyper: Markoff_process
+hyper: random_walk
+hyper: stationary_stochastic_process
+hypo: noun.cognition:framework
+
+w: storage
+d: (computer science) the process of storing information in a computer memory or on a magnetic tape or disk
+hyper: fragmentation
+hypo: computer_operation
+mt: noun.cognition:computer_science
+
+w: stovepiping
+d: retrieval of information from unconnected databases; the situation that exists when it is necessary to climb out of one database in order to climb down into another; sometimes used for protection against wandering hackers
+hypo: retrieval
+
+w: stratification drf verb.change:stratify drf verb.contact:stratify
+d: forming or depositing in layers
+hyper: foliation
+hypo: geologic_process
+
+w: stress_incontinence
+d: urinary incontinence that occurs when involuntary pressure is put on the bladder by coughing or laughing or sneezing or lifting or straining
+hypo: enuresis
+
+w: subduction
+d: a geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate
+hypo: geologic_process
+
+w: summation drf adjs.all:summational
+d: (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce
+hypo: biological_process
+mt: noun.cognition:physiology
+
+w: superposition
+d: (geology) the deposition of one geological stratum on another
+hypo: deposit
+mt: noun.cognition:geology
+
+w: supply ant demand drf verb.social:supply
+d: offering goods and services for sale
+hypo: economic_process
+
+w: suppression
+d: the failure to develop some part or organ
+hypo: development 1
+
+w: symphysis
+d: a growing together of parts or structures
+hypo: biological_process
+
+w: synaeresis
+w: syneresis
+d: the separation of liquid from a gel that is caused by contraction (as in cheese making)
+hypo: chemical_action
+
+w: synaeresis 1
+w: syneresis 1
+d: the contraction of two vowels into a diphthong
+hypo: linguistic_process
+
+w: synapsis
+d: the side by side pairing of homologous maternal and paternal chromosomes at the start of meiosis
+hp: leptotene
+hypo: biological_process
+
+w: synchronous_operation ant asynchronous_operation
+d: operations that are initiated predictably by a clock
+hypo: operation
+
+w: syncretism drf adj.pert:syncretic 1 drf adj.pert:syncretical drf adj.pert:syncretical 1 drf adj.pert:syncretistic 1 drf adj.pert:syncretistical drf adj.pert:syncretistical 1 drf verb.change:syncretize
+d: the fusion of originally different inflected forms (resulting in a reduction in the use of inflections)
+hypo: fusion 1
+
+w: synergism drf adj.all:synergistic drf adjs.all:synergistic drf noun.artifact:synergist
+w: synergy drf adjs.all:synergetic
+d: the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects
+hyper: potentiation
+hypo: action
+
+w: synezesis
+w: synizesis
+d: the contraction of chromatin towards one side of the nucleus during the prophase of meiosis
+hp: prophase 2
+hypo: biological_process
+
+w: synthesis drf adj.all:synthetical 3 drf verb.cognition:synthesise
+d: the process of producing a chemical compound (usually by the union of simpler chemical compounds)
+hyper: biogenesis
+hyper: chemosynthesis
+hyper: nucleosynthesis
+hypo: chemical_action
+
+w: tanning drf verb.body:tan
+d: process in which skin pigmentation darkens as a result of exposure to ultraviolet light
+hypo: activity
+
+w: telophase 1
+d: the final stage of mitosis
+hp: mitosis
+hypo: phase_of_cell_division
+
+w: telophase 2
+d: the final stage of meiosis when the chromosomes move toward opposite ends of the nuclear spindle
+hp: meiosis
+hypo: phase_of_cell_division
+
+w: temperature_change
+d: a process whereby the degree of hotness of a body (or medium) changes
+hyper: advection
+hyper: chilling
+hyper: climate_change
+hyper: convection 1
+hyper: heating
+hypo: action
+
+w: teratogenesis
+d: the development of defects in an embryo
+hypo: development 1
+
+w: thermal_emission
+w: thermionic_emission
+d: the emission of electrons from very hot substances
+hypo: emission
+
+w: thermocoagulation
+d: congealing tissue by heat (as by electric current)
+hypo: clotting
+
+w: thermonuclear_reaction
+d: a nuclear fusion reaction taking place at very high temperatures (as in the sun)
+hyper: carbon_cycle
+hypo: fusion
+
+w: threshold_operation
+d: an operation performed on operands in order to obtain the value of a threshold function
+hyper: majority_operation
+hypo: operation
+
+w: thrombolysis
+d: the process of breaking up and dissolving blood clots
+hypo: lysis
+
+w: top_fermentation
+d: a violent kind of alcoholic fermentation at a temperature high enough to carry the yeast cells to the top of the fermenting liquid; used in the production of ale
+e: top fermentation uses a yeast that ferments at higher temperatures than that used for bottom fermentation
+hypo: ferment
+
+w: transamination drf verb.change:transaminate
+d: the process of transfering an amino group from one compound to another
+hypo: chemical_action
+
+w: transamination 1
+d: the process of transposing an amino group within a chemical compound
+hypo: chemical_action
+
+w: transcription drf verb.change:transcribe
+d: (genetics) the organic process whereby the DNA sequence in a gene is copied into mRNA; the process whereby a base sequence of messenger RNA is synthesized on a template of complementary DNA
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: transduction drf verb.change:transduce
+d: the process whereby a transducer accepts energy in one form and gives back related energy in a different form
+e: the transduction of acoustic waves into voltages by a microphone
+hyper: microphoning
+hypo: action
+
+w: transduction 1
+d: (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: translation drf verb.communication:translate 5
+d: (genetics) the process whereby genetic information coded in messenger RNA directs the formation of a specific protein at a ribosome in the cytoplasm
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: translocation drf verb.possession:translocate 1
+d: (genetics) an exchange of chromosome parts
+e: translocations can result in serious congenital disorders
+hypo: biological_process
+mt: noun.cognition:genetic_science
+
+w: translocation 1
+d: the transport of dissolved material within a plant
+hypo: biological_process
+
+w: transpiration drf verb.change:transpire 2
+d: the emission of water vapor from the leaves of plants
+hypo: biological_process
+
+w: transpiration 1 drf verb.motion:transpire
+d: the passage of gases through fine tubes because of differences in pressure or temperature
+hypo: action
+
+w: transpiration 2 drf verb.body:transpire
+d: the process of giving off or exhaling water vapor through the skin or mucous membranes
+hypo: activity
+
+w: transport
+d: an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes
+hyper: active_transport
+hyper: passive_transport
+hypo: diffusion
+
+w: tripling drf verb.change:triple
+d: increase by a factor of three
+hypo: multiplication
+
+w: tumefaction drf verb.change:tumefy drf verb.change:tumefy 1
+d: the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it
+hypo: biological_process
+
+w: ulceration drf verb.change:ulcerate
+d: the process of ulcer formation; the process of becoming ulcerated
+hypo: biological_process
+
+w: ultracentrifugation drf verb.motion:ultracentrifuge
+d: centrifugation at very high speeds
+hypo: centrifugation
+
+w: underdevelopment drf verb.perception:underdevelop
+d: (photography) inadequate processing of film resulting in inadequate contrast
+hypo: developing
+mt: noun.act:photography
+
+w: uptake
+d: a process of taking up or using up or consuming
+e: they developed paper napkins with a greater uptake of liquids
+hyper: re-uptake
+hypo: human_process
+
+w: urbanisation drf verb.change:urbanise
+w: urbanization drf verb.change:urbanize
+d: the social process whereby cities grow and societies become more urban
+hypo: social_process
+
+w: urge_incontinence
+d: urinary incontinence that is generally attributable to involuntary contracts of the bladder muscle resulting in an urgent need to urinate accompanied by a sudden loss of urine; most common in people over 60 years of age
+hypo: enuresis
+
+w: urochesia
+w: urochezia
+d: passage of urine from the anus
+hypo: defecation
+
+w: variation
+d: the process of varying or being varied
+hyper: noun.cognition:covariation
+hypo: noun.Tops:physical_process
+
+w: vascularisation
+w: vascularization drf verb.change:vascularize drf verb.change:vascularize 1
+d: the organic process whereby body tissue becomes vascular and develops capillaries
+hypo: biological_process
+
+w: vegetation drf verb.change:vegetate drf verb.change:vegetate 1
+d: the process of growth in plants
+hypo: development 1
+
+w: vicious_circle
+w: vicious_cycle
+d: one trouble leads to another that aggravates the first
+hypo: positive_feedback
+
+w: video_digitizing
+d: the process of capturing and converting and storing video images for use by a computer
+hyper: dithering
+hypo: photography
+
+w: vinification drf verb.change:vinify
+d: the process whereby fermentation changes grape juice into wine
+hypo: ferment
+
+w: vitrification drf verb.change:vitrify
+d: the process of becoming vitreous
+hypo: action
+
+w: vulcanisation drf verb.change:vulcanise drf verb.change:vulcanise 1
+w: vulcanization drf verb.change:vulcanize drf verb.change:vulcanize 1
+d: process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them
+hypo: processing
+
+w: wash
+w: washout drf verb.contact:wash_out
+d: the erosive process of washing away soil or gravel by water (as from a roadway)
+e: from the house they watched the washout of their newly seeded lawn by the water
+hyper: rain-wash
+hypo: soil_erosion
+
+w: wastage drf verb.body:waste drf verb.change:waste 1 drf verb.change:waste 2
+d: the process of wasting
+hypo: decrease
+
+w: word_processing
+d: rapid and efficient processing (storage and printing) of linguistic data for composition and editing
+hypo: data_processing
+mt: noun.communication:printing
+
+w: zygotene
+d: the second stage of the prophase of meiosis
+hp: prophase 2
+hypo: noun.time:phase
+
+w: zymosis drf adj.pert:zymotic
+d: (medicine) the development and spread of an infectious disease (especially one caused by a fungus)
+hyper: noun.state:fungal_infection
+hypo: infection
+mt: noun.cognition:medical_specialty
+

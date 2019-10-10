@@ -1,0 +1,5681 @@
+verb.cognition
+
+w: abandon drf noun.act:abandonment 1
+w: desert drf noun.act:desertion drf noun.person:deserter drf noun.person:deserter 1
+w: desolate drf noun.feeling:desolation 2
+w: forsake drf noun.act:forsaking 1
+d: leave someone who needs or counts on you; leave in the lurch
+e: The mother deserted her children
+fs: 10 9 8
+hyper: expose 3
+hyper: walk_out 3
+hyper: verb.possession:ditch
+hyper: verb.possession:maroon
+hypo: leave 5
+
+w: abandon 1 drf noun.act:abandonment 3
+w: give_up
+d: stop maintaining or insisting on; of ideas or claims
+e: He abandoned the thought of asking for her hand in marriage
+e: Both sides have to give up some claims in these negotiations
+fs: 8
+hyper: sell_out
+vg: verb.motion:break 11
+vg: verb.motion:ease_up
+
+w: abide drf noun.act:abidance
+w: bear drf adjs.all:bearable
+w: brook
+w: digest 3
+w: endure drf noun.attribute:endurance
+w: put_up fs 22
+w: stand
+w: stick_out
+w: stomach
+w: suffer drf noun.attribute:sufferance 2
+w: support 4
+w: tolerate drf adjs.all:tolerant 1 drf adjs.all:tolerant 2 drf noun.act:tolerance drf noun.attribute:toleration
+d: put up with something or somebody unpleasant
+e: I cannot bear his constant criticism
+e: The new secretary had to endure a lot of unprofessional remarks
+e: he learned to tolerate the heat
+e: She stuck out two years in a miserable marriage
+fs: 8 9
+hyper: accept 3
+hyper: bear_up
+hyper: hold_still_for
+hyper: pay 3
+hyper: sit_out
+hyper: take_a_joke
+hyper: take_lying_down
+hypo: verb.communication:allow
+vg: verb.emotion:suffer
+
+w: about-face drf noun.act:about-face 1
+d: change one's mind and assume the opposite viewpoint
+fs: 2
+hypo: rethink
+
+w: absorb drf noun.process:absorption 3
+w: assimilate drf noun.cognition:assimilation drf noun.cognition:assimilation 1 drf noun.person:assimilator
+w: ingest
+w: take_in
+d: take up mentally
+e: he absorbed the knowledge or beliefs of his tribe
+fs: 8
+hyper: imbibe
+hypo: acquire
+
+w: absorb 3 drf noun.cognition:absorption
+w: engage
+w: engross drf noun.attribute:engrossment drf noun.cognition:engrossment drf noun.cognition:engrossment 1
+w: occupy drf noun.act:occupation drf noun.act:occupation 4
+d: consume all of one's attention or time
+e: Her interest in butterflies absorbs her completely
+fs: 9 10
+hyper: consume
+hyper: involve
+hyper: rivet 1
+hypo: verb.emotion:interest
+
+w: absorb 6 fs 8 drf noun.cognition:absorption 1
+w: engross 2 drf noun.attribute:engrossment drf noun.cognition:engrossment drf noun.cognition:engrossment 1
+w: engulf
+w: immerse drf noun.cognition:immersion
+w: plunge
+w: soak_up fs 8
+w: steep
+d: devote (oneself) fully to
+e: He immersed himself into his studies
+fs: 9 20
+hyper: drink
+hypo: center
+vg: immerse 1
+
+w: abstract drf adjs.all:abstractive drf noun.Tops:abstraction drf noun.cognition:abstract drf noun.cognition:abstraction drf noun.cognition:abstraction 2
+d: consider a concept without thinking of a specific example; consider abstractly or theoretically
+fs: 8
+hypo: consider
+
+w: abstract 1 drf adjs.all:abstractive drf noun.cognition:abstract
+d: consider apart from a particular case or instance
+e: Let's abstract away from this particular example
+fs: 22
+hypo: consider 1
+
+w: accept ant reject drf adjs.all:acceptant drf noun.cognition:acceptance drf noun.communication:acceptation drf noun.state:acceptation
+d: consider or hold as true
+e: I cannot accept the dogma of this church
+e: accept an argument
+fs: 8 26
+hyper: acknowledge 2
+hyper: acknowledge 9
+hyper: adopt 4
+hyper: approbate
+hyper: believe
+hyper: receive
+hyper: reconcile
+hyper: verb.communication:take_a_bow 1
+hyper: verb.social:abide_by 1
+hypo: evaluate 1
+vg: accept 1
+
+w: accept 1 drf adj.all:acceptive drf adjs.all:acceptant drf adjs.all:acceptive drf noun.act:acceptance drf noun.act:acceptation drf noun.state:acceptance drf noun.state:acceptation
+d: react favorably to; consider right and proper
+e: People did not accept atonal music at that time
+e: We accept the idea of universal health care
+fs: 9 8
+hypo: react
+vg: accept
+
+w: accept 3 drf noun.attribute:acceptance
+w: live_with
+w: swallow 3
+d: tolerate or accommodate oneself to
+e: I shall have to accept these unpleasant working conditions
+e: I swallowed the insult
+e: She has learned to live with her husband's little idiosyncrasies
+fs: 8
+hypo: abide
+
+w: accept 8
+d: be sexually responsive to, used of a female domesticated mammal
+e: The cow accepted the bull
+fs: 11
+hypo: react
+
+w: accredit
+w: credit 12 fs 22 drf noun.communication:credit 1 drf noun.communication:credit 2
+d: ascribe an achievement to
+e: She was not properly credited in the program
+fs: 9 10
+hypo: ascribe
+
+w: acknowledge 2
+d: accept as legally binding and valid
+e: acknowledge the deed
+fs: 8
+hypo: accept
+
+w: acknowledge 9 drf noun.communication:acknowledgment drf noun.state:acknowledgment
+w: know 6
+w: recognise 2
+w: recognize 2
+d: accept (someone) to be what is claimed or accept his power and authority
+e: The Crown Prince was acknowledged as the true heir to the throne
+e: We do not recognize your gods
+fs: 8 9
+hypo: accept
+
+w: acquire drf noun.cognition:acquisition drf noun.cognition:acquisition 1
+w: larn
+w: learn drf noun.person:learner drf noun.person:learner 1
+d: gain knowledge or skills
+e: She learned dancing from her sister
+e: I learned Sanskrit
+e: Children acquire language at an amazing rate
+fs: 8 2 22 28
+hyper: absorb
+hyper: catch_up
+hyper: hit_the_books
+hyper: relearn
+
+w: add ant subtract drf adj.all:additive drf adjs.all:addable drf noun.act:addition 1 drf noun.artifact:adder see verb.stative:add_up 3
+w: add_together
+d: make an addition by combining numbers
+e: Add 27 and 49, please!
+fs: 8 2
+hyper: foot
+hypo: calculate
+mt: noun.cognition:arithmetic
+vg: verb.communication:add
+
+w: addle
+w: muddle drf noun.state:muddle
+w: puddle
+d: mix up or confuse
+e: He muddled the issues
+fs: 8
+hypo: verb.creation:confuse
+
+w: adjudicate drf adj.pert:adjudicative drf adj.pert:adjudicatory drf noun.person:judge
+w: decide 1 drf adj.all:decisive 1 drf noun.cognition:deciding
+w: resolve 1 drf noun.communication:resolve
+w: settle drf noun.communication:settlement drf noun.person:settler 2
+d: bring to an end; settle conclusively
+e: The case was decided
+e: The judge decided the case in favor of the plaintiff
+e: The father adjudicated when the sons were quarreling over their inheritance
+fs: 11 8
+hyper: adjust
+hyper: judge 2
+hypo: verb.change:end 1
+
+w: adjust drf noun.person:adjustor drf noun.possession:adjustment
+d: decide how much is to be paid on an insurance claim
+fs: 8
+hypo: adjudicate
+
+w: adopt 4 drf noun.act:adoption 1
+w: embrace drf noun.act:embrace 1
+w: espouse
+w: sweep_up
+d: take up the cause, ideology, practice, method, of someone and use it as one's own
+e: She embraced Catholicism
+e: They adopted the Jewish faith
+fs: 8
+hyper: fasten_on
+hypo: accept
+
+w: affirm ant negate drf adjs.all:affirmable drf noun.act:affirmation
+w: confirm drf adjs.all:confirmative drf adjs.all:confirmatory drf noun.cognition:confirmation drf noun.communication:confirmation
+w: corroborate drf adjs.all:corroborative drf adjs.all:corroboratory drf noun.communication:corroboration
+w: substantiate drf adjs.all:substantiative drf noun.act:substantiation drf noun.cognition:substantiation
+w: support drf noun.act:support 2
+w: sustain drf adj.pert:sustainable
+d: establish or strengthen as with new evidence or facts
+e: his story confirmed my doubts
+e: The evidence supports the defendant
+fs: 8 11 26
+hyper: verb.change:back
+hyper: verb.change:vouch
+hyper: demonstrate
+hyper: document
+hyper: validate
+hyper: verify 1
+
+w: agnise
+w: agnize
+w: realise 1 drf noun.cognition:realisation
+w: realize 1 drf noun.cognition:realization
+w: recognise 1
+w: recognize 1
+d: be fully aware or cognizant of
+fs: 26 8
+hyper: know 11
+hypo: cognise
+
+w: aim
+w: aspire drf adjs.all:aspirant drf noun.attribute:aspiration drf noun.feeling:aspiration drf noun.person:aspirant drf noun.person:aspirer
+w: draw_a_bead_on fs 8
+w: shoot_for fs 8
+d: have an ambitious plan or a lofty goal
+fs: 28
+hyper: overshoot
+hypo: be_after
+
+w: aim 1 drf noun.cognition:aim drf noun.cognition:aim 1
+w: propose 1
+w: purport drf noun.communication:purport
+w: purpose 1 drf noun.attribute:purpose 1 drf noun.cognition:purpose
+d: propose or intend
+e: I aim to arrive at noon
+fs: 28
+hypo: intend
+
+w: aim 2
+w: calculate 2
+w: direct 1
+d: specifically design a product, event, or activity for a certain public
+fs: 8
+hypo: designate
+
+w: align drf noun.group:alignment
+w: array
+d: align oneself with a group or a way of thinking
+fs: 9
+hyper: fall_in_line 12
+hyper: verb.competition:side
+hypo: stand 1
+
+w: allegorise drf noun.communication:allegory drf noun.communication:allegory 1 drf noun.communication:allegory 2
+w: allegorize drf noun.communication:allegory drf noun.communication:allegory 1 drf noun.communication:allegory 2
+d: interpret as an allegory
+fs: 8
+hypo: construe
+
+w: allow drf adjs.all:allowable 1
+w: take_into_account
+d: allow or plan for a certain possibility; concede the truth or validity of something
+e: I allow for this possibility
+e: The seamstress planned for 5% shrinkage after the first wash
+fs: 24 8
+hyper: budget_for
+hypo: calculate 3
+
+w: allow 1 drf noun.possession:allowance
+w: appropriate drf adjs.all:appropriable
+w: earmark drf noun.attribute:earmark
+w: reserve drf noun.possession:reserve
+w: set_aside
+d: give or assign a resource to a particular person or cause
+e: I will earmark this money for your research
+e: She sets aside time for meditation every day
+fs: 8 15
+hypo: verb.possession:allot 1
+
+w: alternate drf noun.person:alternate
+w: understudy drf noun.person:understudy
+d: be an understudy or alternate for a role
+fs: 2
+hypo: con
+
+w: amaze drf noun.feeling:amazement
+w: astonish drf noun.feeling:astonishment
+w: astound
+d: affect with wonder
+e: Your ability to speak six languages amazes me!
+fs: 9 10
+hyper: dazzle
+hypo: surprise
+
+w: amaze 1
+w: baffle drf noun.cognition:bafflement
+w: beat
+w: bewilder drf noun.cognition:bewilderment
+w: dumbfound
+w: flummox
+w: get 10
+w: gravel
+w: mystify drf noun.act:mystification drf noun.artifact:mystification drf noun.cognition:mystery drf noun.communication:mystifier
+w: nonplus
+w: perplex
+w: pose 9 drf noun.communication:poser
+w: puzzle drf noun.cognition:puzzlement drf noun.communication:puzzle drf noun.communication:puzzler see puzzle_out see puzzle_over
+w: stick
+w: stupefy drf noun.feeling:stupefaction
+w: vex 2
+d: be a mystery or bewildering to
+e: This beats me!
+e: Got me--I don't know the answer!
+e: a vexing problem
+e: This question really stuck me
+fs: 10
+hyper: mix_up
+hyper: riddle 1
+hyper: verb.stative:elude
+hypo: bedevil
+
+w: anagram drf noun.communication:anagram
+w: anagrammatise drf noun.communication:anagram
+w: anagrammatize drf noun.communication:anagram
+d: read letters out of order to discover a hidden meaning
+fs: 2
+hypo: read
+
+w: analogise drf noun.act:analogy drf noun.cognition:analogy
+w: analogize drf noun.act:analogy drf noun.cognition:analogy
+d: make an analogy
+fs: 2
+hypo: compare
+
+w: analyse drf noun.artifact:analyser
+w: analyze drf noun.cognition:analysis drf noun.person:analyst
+w: canvass 2
+w: examine drf noun.cognition:examination 3
+w: study 2 drf noun.act:study
+d: consider in detail and subject to an analysis in order to discover essential features or meaning
+e: analyze a sonnet by Shakespeare
+e: analyze the evidence in a criminal trial
+e: analyze your real motives
+fs: 8
+hyper: anatomize
+hyper: appraise
+hyper: assay
+hyper: audit 1
+hyper: check
+hyper: compare
+hyper: diagnose
+hyper: diagnose 1
+hyper: follow
+hyper: reexamine
+hyper: screen
+hyper: survey 2
+hyper: verb.communication:investigate
+hyper: verb.contact:sieve 1
+hyper: verb.perception:consider 8
+
+w: analyse 1 drf noun.artifact:analyser
+w: analyze 1 ant synthesize drf noun.artifact:analyzer drf noun.person:analyst
+w: break_down drf noun.cognition:breakdown
+w: dissect drf noun.act:dissection 2 drf noun.cognition:dissection
+w: take_apart
+d: make a mathematical, chemical, or grammatical analysis of; break down into components or essential features
+e: analyze a specimen
+e: analyze a sentence
+e: analyze a chemical compound
+fs: 8
+hyper: botanise
+hyper: parse
+
+w: analyse 2
+w: analyze 3 drf noun.act:analysis 1 drf noun.person:analyst 1
+w: psychoanalyse
+w: psychoanalyze drf noun.person:psychoanalyst
+d: subject to psychoanalytic treatment
+e: I was analyzed in Vienna by a famous psychiatrist
+fs: 8 9
+hypo: verb.body:care_for
+mt: noun.cognition:psychiatry
+
+w: analyse 4
+w: analyze 4 drf noun.act:analysis drf noun.artifact:analyzer drf noun.person:analyst 2
+d: break down into components or essential features
+e: analyze today's financial market
+fs: 8
+hyper: factor_analyse
+
+w: anatomize drf noun.act:anatomy
+d: analyze down to the smallest detail
+e: This writer anatomized the depth of human behavior
+fs: 8
+hypo: analyse
+
+w: angle
+w: slant drf noun.cognition:slant
+w: weight drf noun.quantity:weight 2
+d: present with a bias
+e: He biased his presentation so as to please the share holders
+fs: 8 9
+hypo: bias
+
+w: anoint
+d: choose by or as if by divine intervention
+e: She was anointed the head of the Christian fundamentalist group
+fs: 10 9
+hypo: choose
+
+w: answer drf noun.communication:answer 2
+d: give the correct answer or solution to
+e: answer a question
+e: answer the riddle
+fs: 8
+hypo: figure_out
+
+w: answer 2 drf noun.act:answer
+d: respond to a signal
+e: answer the door
+e: answer the telephone
+fs: 8
+hypo: react
+
+w: answer 3 drf adjs.all:answerable
+w: resolve 4
+d: understand the meaning of
+e: The question concerning the meaning of life cannot be answered
+fs: 11 8
+hypo: figure_out
+
+w: answer 5 drf noun.act:answer
+d: react to a stimulus or command
+e: The steering of my new car answers to the slightest touch
+fs: 4 1
+hypo: react
+
+w: anthropomorphise drf noun.cognition:anthropomorphism
+w: anthropomorphize drf noun.cognition:anthropomorphism
+d: ascribe human features to something
+fs: 15
+hypo: ascribe
+
+w: anticipate
+w: expect drf adjs.all:expectant drf noun.cognition:expectation drf noun.feeling:expectation
+d: regard something as probable or likely
+e: The meteorologists are expecting rain for tomorrow
+fs: 26 8 28
+hyper: assume
+hyper: believe 3
+hyper: conjecture
+hyper: guess
+hypo: evaluate 1
+vg: await
+
+w: anticipate 1 drf noun.person:anticipator
+w: foreknow
+w: foresee
+w: previse drf noun.cognition:prevision 2
+d: realize beforehand
+fs: 26
+hypo: know 2
+
+w: apotheose
+w: apotheosise drf noun.person:apotheosis
+w: apotheosize drf noun.person:apotheosis
+d: deify or glorify
+fs: 9
+hypo: deify
+
+w: appraise
+w: survey drf noun.act:survey 2 drf noun.communication:survey
+d: consider in a comprehensive way
+e: He appraised the situation carefully before acting
+fs: 8
+hypo: analyse
+
+w: appraise 1 drf noun.cognition:appraisal drf noun.person:appraiser 1 drf noun.person:appraiser 2
+w: assess drf adjs.all:assessable 1 drf noun.cognition:assessment drf noun.person:assessor
+w: evaluate drf adjs.all:evaluative drf noun.act:evaluation drf noun.attribute:value drf noun.cognition:evaluation drf noun.person:evaluator drf noun.possession:value
+w: measure 1 drf noun.Tops:measure drf noun.act:measure drf noun.artifact:measure
+w: valuate drf noun.attribute:value drf noun.cognition:valuation drf noun.person:valuator drf noun.possession:value
+w: value drf noun.person:valuer drf noun.possession:value
+d: evaluate or estimate the nature, quality, ability, extent, or significance of
+e: I will have the family jewels appraised by a professional
+e: access all the factors when taking a risk
+fs: 8
+hyper: censor
+hyper: grade 5
+hyper: rate 1
+hyper: reassess
+hyper: standardise
+hyper: verb.communication:praise
+hypo: evaluate 1
+vg: assess 1
+
+w: appreciate drf noun.person:appreciator
+w: take_account 12 fs 22
+d: be fully aware of; realize fully
+e: Do you appreciate the full meaning of this letter?
+fs: 26 8
+hypo: realise
+
+w: apprehend drf adjs.all:apprehensible drf adjs.all:apprehensive drf noun.cognition:apprehension drf noun.person:apprehender 1
+w: compass
+w: comprehend drf adj.all:comprehendible drf adj.all:comprehensible drf noun.cognition:comprehension
+w: dig
+w: get_the_picture fs 2
+w: grasp drf noun.cognition:grasp drf noun.cognition:grasping
+w: grok
+w: savvy drf noun.cognition:savvy
+d: get the meaning of something
+e: Do you comprehend the meaning of this letter?
+fs: 8 26
+hyper: catch_on
+hyper: digest
+hyper: figure 2
+hyper: intuit
+hypo: understand
+
+w: apprentice drf noun.person:apprentice
+d: be or work as an apprentice
+e: She apprenticed with the great master
+fs: 8 2 22
+hypo: prepare
+
+w: approbate ant reprobate drf noun.communication:approbation drf noun.feeling:approbation
+d: accept (documents) as valid
+fs: 8
+hypo: accept
+
+w: approve ant disapprove drf adjs.all:approbative drf adjs.all:approbatory drf noun.communication:approbation drf noun.feeling:approbation drf noun.feeling:approval
+d: judge to be right or commendable; think well of
+fs: 8 2 9
+hyper: rubberstamp
+hypo: evaluate 1
+
+w: approximate drf adjs.all:approximative
+w: estimate drf noun.act:estimation 1 drf noun.cognition:estimate drf noun.cognition:estimation drf noun.communication:estimate drf noun.communication:estimate 1 drf noun.communication:estimation see overestimate see underestimate
+w: gauge
+w: guess 1 drf noun.communication:guess drf noun.person:guesser
+w: judge 1 drf noun.cognition:judging drf noun.cognition:judgment drf noun.person:judge 1
+d: judge tentatively or form an estimate of (quantities or time)
+e: I estimate this chicken to weigh three pounds
+fs: 8 26 22
+hyper: assess 1
+hyper: count 12
+hyper: give
+hyper: lowball
+hyper: make 12
+hyper: misgauge
+hyper: place 13
+hyper: quantise 1
+hyper: truncate
+hyper: verb.communication:guesstimate
+hypo: calculate
+
+w: arrange
+w: order 1 drf noun.group:order drf noun.group:ordering
+w: put
+w: set_up
+d: arrange thoughts, ideas, temporal events
+e: arrange my schedule
+e: set up one's life
+e: I put these memories with those of bygone times
+fs: 8
+hyper: contemporise
+hyper: verb.communication:phrase 1
+hypo: verb.social:organise
+
+w: ascertain
+w: assure
+w: check 2 drf noun.act:check 5 drf noun.cognition:check 1
+w: control 1
+w: ensure
+w: insure
+w: see 3 fs 28
+w: see_to_it
+d: be careful or certain to do something; make certain of something
+e: He verified that the valves were closed
+e: See that the curtains are closed
+e: control the quality of the product
+fs: 26
+hyper: card
+hyper: cinch 1
+hyper: control 11
+hyper: cross-check
+hyper: double-check
+hyper: proof
+hyper: spot-check
+hyper: verb.communication:cover 12
+hypo: verify 1
+vg: check 1
+vg: check 12
+vg: verb.communication:ascertain
+vg: verb.social:control 2
+
+w: ascertain 1 drf adjs.all:ascertainable
+d: learn or discover with certainty
+fs: 26
+hyper: price
+hypo: discover 1
+
+w: ascribe drf adjs.all:ascribable drf noun.cognition:ascription
+w: assign 2
+w: attribute drf adj.all:attributable
+w: impute drf noun.cognition:imputation
+d: attribute or credit to
+e: We attributed this quotation to Shakespeare
+e: People impute great cleverness to cats
+fs: 15 21
+hyper: accredit
+hyper: anthropomorphise
+hyper: blame
+hyper: carnalize
+hyper: credit 1
+hyper: externalise
+hyper: impute 1
+hyper: interiorise
+hyper: personate
+hyper: reattribute
+hypo: evaluate 1
+vg: impute 1
+
+w: assay drf noun.act:assay drf noun.person:assayer
+d: analyze (chemical substances)
+fs: 8
+hyper: bioassay
+hypo: analyse
+
+w: assert drf adjs.all:assertable drf noun.communication:assertion 1
+w: insist
+d: postulate positively and assertively
+e: The letter asserts a free society
+fs: 8
+hypo: posit
+
+w: assess 1 drf adjs.all:assessable 1 drf noun.attribute:assessment
+d: estimate the value of (property) for taxation
+e: Our house hasn't been assessed in years
+fs: 8
+hypo: approximate
+vg: appraise 1
+
+w: assign drf noun.act:assignment 3
+w: set_apart
+w: specify 5 drf noun.communication:specification 1
+d: select something or someone for a specific purpose
+e: The teacher assigned him to lead his classmates in the exercise
+fs: 21 20
+hyper: dedicate
+hyper: detail
+hypo: choose
+
+w: assign 3 drf noun.act:assignment 2
+w: attribute 1 drf noun.cognition:attribution
+d: decide as to where something belongs in a scheme
+e: The biologist assigned the mushroom to the proper class
+fs: 21
+hyper: classify 1
+hypo: evaluate 1
+
+w: associate ant dissociate drf adj.all:associative drf adj.all:associatory drf adjs.all:associable drf noun.cognition:association drf noun.state:association 2
+w: colligate 2 drf noun.cognition:colligation drf noun.state:colligation
+w: connect drf adjs.all:connective drf noun.cognition:connection drf noun.cognition:connexion
+w: link drf noun.relation:linkage drf noun.state:link
+w: link_up
+w: relate drf noun.Tops:relation
+w: tie_in
+d: make a logical or causal connection
+e: I cannot connect these two pieces of evidence in my mind
+e: colligate these facts
+e: I cannot relate these events at all
+fs: 17 31
+hyper: correlate
+hyper: free-associate
+hyper: have_in_mind 1
+hyper: identify 3
+hyper: interrelate
+hyper: remember 8
+hypo: cerebrate
+
+w: assort drf noun.act:assortment
+w: class drf noun.group:class
+w: classify drf adj.pert:classificatory drf noun.act:classification drf noun.cognition:classification drf noun.group:class drf noun.group:class 1 drf noun.group:class 2 drf noun.group:class 5 drf noun.group:classification drf noun.person:classifier
+w: separate
+w: sort drf noun.act:sorting drf noun.artifact:sorter drf noun.cognition:sort drf noun.person:sorter drf noun.process:sort drf noun.process:sorting
+w: sort_out
+d: arrange or order by classes or categories
+e: How would you classify these pottery shards--are they prehistoric?
+fs: 8 9
+entail: compare
+hyper: verb.change:unitise
+hyper: catalog
+hyper: dichotomise
+hyper: grade
+hyper: group
+hyper: isolate 5
+hyper: pigeonhole
+hyper: reclassify
+hyper: refer
+hyper: size
+hyper: verb.stative:count 1
+hypo: categorise
+
+w: assume drf adjs.all:assumptive 1 drf noun.act:assumption 1 drf noun.cognition:assumption drf noun.communication:assumption
+w: presume drf adjs.all:presumptive drf adjs.all:presumptive 1 drf noun.act:presumption drf noun.cognition:presumption drf noun.cognition:presumption 1
+w: take_for_granted
+d: take to be the case or to be true; accept without verification or proof
+e: I assume his train was late
+fs: 8 11 26
+hyper: presuppose 1
+hypo: anticipate
+
+w: attend_to ant neglect
+w: take_to_heart
+d: get down to; pay attention to; take seriously
+e: Attend to your duties, please
+fs: 8 9
+hypo: bear_in_mind
+
+w: attorn
+d: acknowledge a new land owner as one's landlord
+e: he was attorned by the tenants
+fs: 2
+hypo: verb.communication:acknowledge
+mt: noun.group:jurisprudence
+
+w: audit drf noun.person:auditor 2
+d: attend academic courses without getting credit
+fs: 2 8
+hypo: learn 2
+
+w: audit 1 drf noun.person:auditor drf noun.possession:audit
+w: inspect drf noun.person:inspector
+w: scrutinise drf noun.act:scrutiny drf noun.act:scrutiny 1 drf noun.person:scrutiniser
+w: scrutinize drf noun.act:scrutiny drf noun.act:scrutiny 1 drf noun.person:scrutinizer
+d: examine carefully for accuracy with the intent of verification
+e: audit accounts and tax returns
+fs: 8
+hypo: analyse
+
+w: authenticate drf noun.act:authentication drf noun.communication:authentication drf noun.person:authenticator
+d: establish the authenticity of something
+fs: 11 8
+entail: verify 1
+hyper: prove 1
+hypo: verb.communication:attest 1
+
+w: average drf noun.cognition:average
+w: average_out
+d: compute the average of
+fs: 8
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: await
+w: expect 1 drf adjs.all:expectant drf noun.cognition:expectancy drf noun.state:expectation
+w: look fs 28
+w: wait fs 28 drf noun.person:waiter 1
+d: look forward to the probable occurrence of
+e: We were expecting a visit from our relatives
+e: She is looking to a promotion
+e: he is waiting to be drafted
+fs: 8 33 9
+hyper: verb.body:expect 2
+hyper: look_forward
+hyper: look_to 1
+hyper: verb.communication:hang_on
+hyper: verb.emotion:anticipate
+vg: anticipate
+
+w: awaken
+d: make aware
+e: They were awakened to the sad facts
+fs: 9 10
+hypo: verb.emotion:affect
+
+w: backpedal
+d: modify one's opinion, make it less strong
+fs: 2
+hypo: rethink
+
+w: bank 2
+w: bet
+w: calculate 5
+w: count 2
+w: depend drf noun.state:dependency
+w: look 2
+w: reckon 5
+w: rely 11 drf adjs.all:reliant drf noun.cognition:reliance drf noun.state:reliance
+w: swear 10
+d: have faith or confidence in
+e: you can count on me to help you any time
+e: Look to your friends for support
+e: You can bet on that!
+e: Depend on your family in times of crisis
+fs: 9 8
+hypo: trust
+
+w: base drf noun.cognition:base
+w: establish 3
+w: found drf noun.cognition:foundation drf noun.relation:foundation
+w: ground drf noun.motive:ground
+d: use as a basis for; found on
+e: base a claim on some observation
+fs: 21
+hyper: build 3
+
+w: be_after
+w: plan 1
+d: have the will and intention to carry out some action
+e: He plans to be in graduate school next year
+e: The rebels had planned turmoil and confusion
+fs: 8 28 33
+hyper: aim
+hyper: go_for
+hyper: think_out
+hypo: intend
+
+w: be_amiss 1
+w: misapprehend 1 drf noun.cognition:misapprehension
+w: misconceive 1 drf noun.cognition:misconception
+w: misconstrue 1 drf noun.communication:misconstrual drf noun.communication:misconstruction 1
+w: misinterpret 2 drf noun.communication:misinterpretation
+w: misunderstand 1 drf noun.cognition:misunderstanding drf noun.communication:misunderstanding
+d: interpret in the wrong way
+e: Don't misinterpret my comments as criticism
+e: She misconstrued my remarks
+fs: 8
+hypo: construe
+
+w: be_known_as 1
+w: esteem
+w: know_as 1
+w: look_on
+w: look_upon
+w: regard_as
+w: repute drf noun.cognition:reputation drf noun.state:reputation drf noun.state:reputation 1 drf noun.state:repute
+w: take_to_be
+w: think_of 1
+d: look on as or consider
+e: she looked on this affair as a joke
+e: He thinks of himself as a brilliant musician
+e: He is reputed to be intelligent
+fs: 8 9
+hypo: believe 4
+
+w: be_on_the_ball
+w: be_with_it
+w: know_the_score
+w: know_what's_going_on
+w: know_what's_what
+d: be well-informed
+fs: 2
+hypo: know 3
+
+w: bear_in_mind
+w: mind ant forget 3 drf noun.cognition:mind drf noun.cognition:mind 1
+d: keep in mind
+fs: 9 8 26
+hyper: attend_to
+hypo: remember 1
+
+w: bear_up
+d: endure cheerfully
+e: She bore up under the enormous strain
+fs: 2
+hypo: abide
+
+w: beat_about
+w: cast_about
+w: cast_around
+d: search anxiously
+fs: 22 2
+hypo: explore
+
+w: beat_in
+w: drill_in
+w: hammer_in
+w: ram_down
+d: teach by drills and repetition
+fs: 8
+hypo: drill 1
+
+w: bedevil
+w: befuddle drf noun.cognition:befuddlement
+w: confound 2
+w: confuse 3 drf noun.cognition:confusion
+w: discombobulate drf noun.feeling:discombobulation
+w: fox
+w: fuddle
+w: throw
+d: be confusing or perplexing to; cause to be unable to think clearly
+e: These questions confuse even the experts
+e: This question completely threw me
+e: This question befuddled even the teacher
+fs: 9 10 11
+hyper: amaze 1
+hyper: demoralize
+hyper: verb.perception:disorient
+hypo: verb.stative:be 3
+vg: verb.emotion:confuse
+
+w: believe ant disbelieve drf adj.all:believable 4 drf noun.cognition:belief drf noun.person:believer 1
+d: accept as true; take to be true
+e: I believed his report
+e: We didn't believe his stories from the War
+e: She believes in spirits
+fs: 8 9 26
+hyper: believe 1
+hyper: believe_in 1
+hyper: buy 9
+hyper: infer 1
+hyper: swallow
+hyper: trust
+hypo: accept
+
+w: believe 1 drf noun.person:believer
+d: follow a credo; have a faith; be a believer
+e: When you hear his sermons, you will be able to believe, too
+fs: 2 22
+hyper: misbelieve
+hypo: believe
+mt: noun.cognition:faith
+
+w: believe 2 drf adj.all:believable 4
+d: credit with veracity
+e: You cannot believe this man
+e: Should we believe a publication like the National Enquirer?
+fs: 9 8
+hypo: credit
+
+w: believe 3 drf noun.cognition:belief 1
+w: trust 2 drf noun.cognition:trust drf noun.person:truster
+d: be confident about something
+e: I believe that he will come back from the war
+fs: 26
+hypo: anticipate
+
+w: believe 4
+w: conceive
+w: consider 8 drf noun.cognition:consideration drf noun.communication:consideration
+w: think 1 drf noun.cognition:thought 1 drf noun.cognition:thought 3
+d: judge or regard; look upon; judge
+e: I think he is very smart
+e: I believe her to be very smart
+e: I think that he is her boyfriend
+e: The racist conceives such people to be inferior
+fs: 5 9
+hyper: be_known_as 1
+hyper: consider
+hyper: feel 1
+hyper: hold 10
+hyper: rethink
+hyper: think 15
+hypo: evaluate 1
+
+w: believe_in 1
+d: have a firm conviction as to the goodness of something
+e: John believes in oat bran
+fs: 8 33
+hypo: believe
+
+w: bethink
+d: consider or ponder something carefully
+e: She bethought her of their predicament
+fs: 8 29
+hypo: chew_over
+
+w: beware fs 2
+w: mind 3
+d: be on one's guard; be cautious or wary about; be alert to
+e: Beware of telephone salesmen
+fs: 8
+hypo: verb.perception:look_out
+
+w: bias drf noun.cognition:bias
+w: predetermine 1
+d: cause to be biased
+fs: 10 9
+hyper: angle
+hypo: prejudice
+
+w: bioassay drf noun.cognition:bioassay
+d: subject to a bio-assay
+fs: 8
+hypo: assay
+
+w: blame drf adjs.all:blamable drf adjs.all:blameable drf noun.communication:blame 1
+w: charge 10
+d: attribute responsibility to
+e: We blamed the accident on her
+e: The tragedy was charged to her inexperience
+fs: 8
+hypo: ascribe
+
+w: blank_out
+w: block fs 26 8 9 drf noun.cognition:block
+w: draw_a_blank
+w: forget ant remember
+d: be unable to remember
+e: I'm drawing a blank
+e: You are blocking the name of your first wife!
+fs: 2
+hyper: slip 1
+
+w: block_out
+d: plan where and when songs should be inserted into a theatrical production, or plan a theatrical production in general
+fs: 8
+hypo: lay_out
+
+w: blur
+w: confuse 1
+w: obnubilate
+w: obscure
+d: make unclear, indistinct, or blurred
+e: Her remarks confused the debate
+e: Their words obnubilate their intentions
+fs: 11 8
+hyper: muddy
+hypo: verb.change:alter 1
+vg: confound 1
+
+w: boggle
+w: bowl_over
+w: flabbergast
+d: overcome with amazement
+e: This boggles the mind!
+fs: 10 9
+hypo: surprise
+
+w: bone
+w: bone_up
+w: cram drf noun.communication:crammer drf noun.person:crammer
+w: drum
+w: get_up
+w: grind_away
+w: mug_up
+w: swot drf noun.person:swot
+w: swot_up
+d: study intensively, as before an exam
+e: I had to bone up on my Latin verbs before the final exam
+fs: 21 2
+hypo: hit_the_books
+vg: verb.change:cram
+
+w: book drf noun.act:booking 1 drf noun.person:booker
+d: engage for a performance
+e: Her agent had booked her for several concerts in Tokyo
+fs: 9 8 21 20
+hypo: schedule
+
+w: botanise drf noun.cognition:botany
+w: botanize drf noun.cognition:botany
+d: collect and study plants
+fs: 2
+hypo: analyse 1
+
+w: bottom
+w: fathom
+w: penetrate drf adjs.all:penetrative drf noun.cognition:penetration
+d: come to understand
+fs: 26 8 9
+hypo: understand
+
+w: bracket drf noun.group:bracket
+d: classify or group
+fs: 31
+hypo: group
+
+w: brainstorm drf noun.act:brainstorming drf noun.cognition:brainstorm
+d: try to solve a problem by thinking intensely about it
+fs: 2
+hypo: cerebrate
+
+w: brainwash
+d: submit to brainwashing; indoctrinate forcibly
+fs: 9
+hypo: indoctrinate
+
+w: break 5
+d: find the solution or key to
+e: break the code
+fs: 8
+hypo: figure_out
+vg: break 6
+
+w: break 6
+d: find a flaw in
+e: break an alibi
+e: break down a proof
+fs: 11 8
+hypo: verb.contact:destroy
+vg: break 5
+
+w: bristle
+d: react in an offended or angry manner
+e: He bristled at her suggestion that he should teach her how to use the program
+fs: 22
+hypo: react
+
+w: brood fs 2
+w: dwell see verb.stative:dwell_on
+d: think moodily or anxiously about something
+fs: 22
+hypo: verb.emotion:care 12
+
+w: brush_up fs 22 drf noun.act:brushup
+w: refresh drf noun.act:refresher
+w: review 4 drf noun.act:review 1
+d: refresh one's memory
+e: I reviewed the material before the test
+fs: 8
+hypo: call_back
+
+w: budget drf noun.possession:budget 2 drf noun.possession:budget 3
+d: make a budget
+fs: 22 2
+hypo: calculate
+
+w: budget_for
+d: calculate enough money for; provide for in the budget
+e: I have not budgeted for these expensive meals
+fs: 9 8
+hypo: allow
+
+w: build 3
+d: found or ground
+e: build a defense on nothing but the accused person's reputation
+fs: 8
+hypo: base
+
+w: bury
+w: forget 1 ant remember 1
+d: dismiss from the mind; stop remembering
+e: I tried to bury these unpleasant memories
+fs: 8 9 26
+hyper: repress
+hyper: unlearn 1
+
+w: buy 9
+d: accept as true
+e: I can't buy this story
+fs: 8
+hypo: believe
+
+w: cabal drf noun.cognition:cabal
+w: complot
+w: conjure
+w: conspire drf adj.pert:conspirative drf noun.cognition:conspiracy drf noun.person:conspirator
+w: machinate drf noun.cognition:machination drf noun.person:machinator
+d: engage in plotting or enter into a conspiracy, swear together
+e: They conspired to overthrow the government
+fs: 2 22
+hyper: coconspire
+hypo: plot
+
+w: calculate drf adj.all:calculable drf noun.act:calculation drf noun.artifact:calculator drf noun.cognition:calculation drf noun.cognition:calculus drf noun.person:calculator
+w: cipher drf noun.quantity:cipher 1
+w: compute drf noun.act:computation drf noun.artifact:computer drf noun.cognition:computation drf noun.person:computer
+w: cypher drf noun.quantity:cypher 1
+w: figure drf noun.attribute:figure 1 drf noun.cognition:figuring drf noun.person:figurer drf noun.possession:figure see figure_out
+w: reckon 1 drf noun.cognition:reckoning drf noun.person:reckoner see reckon 5
+w: work_out 6
+d: make a mathematical calculation or computation
+fs: 8 26
+hyper: add
+hyper: approximate
+hyper: average
+hyper: budget
+hyper: capitalise 1
+hyper: deduct 1
+hyper: differentiate
+hyper: divide
+hyper: extract 2
+hyper: extrapolate
+hyper: factor
+hyper: integrate
+hyper: miscalculate
+hyper: multiply
+hyper: process
+hyper: prorate
+hyper: quantise
+hyper: recalculate
+hyper: resolve 3
+hyper: survey 1
+hypo: reason
+mt: noun.cognition:math
+vg: work_out 7
+
+w: calculate 3 drf adj.all:calculable drf noun.act:calculation
+w: count_on 1
+w: estimate 1 drf noun.person:estimator
+w: figure 1
+w: forecast drf noun.communication:forecast drf noun.person:forecaster
+w: reckon 3
+d: judge to be probable
+fs: 26 8
+hyper: allow
+hypo: evaluate 1
+
+w: calendar drf noun.communication:calendar 1 drf noun.group:calendar
+d: enter into a calendar
+fs: 8 9
+hypo: schedule
+
+w: calibrate 2 drf noun.attribute:caliber 1
+d: measure the caliber of
+e: calibrate a gun
+fs: 8
+hypo: measure
+
+w: caliper drf noun.artifact:caliper
+w: calliper drf noun.artifact:calliper
+d: measure the diameter of something with calipers
+fs: 8
+hypo: measure
+
+w: call
+d: challenge the sincerity or truthfulness of
+e: call the speaker on a question of fact
+fs: 9
+hypo: verb.communication:challenge 1
+vg: verb.communication:call 7
+
+w: call 5
+d: consider or regard as being
+e: I would not call her beautiful
+fs: 8 9
+hypo: consider
+vg: verb.communication:call
+
+w: call 13 drf noun.communication:call 2 drf noun.person:caller 3
+d: utter in a loud voice or announce
+e: He called my name
+e: The auctioneer called the bids
+fs: 8
+hypo: verb.communication:emit
+vg: verb.communication:call 9
+
+w: call_back
+w: call_up 4
+w: recall drf noun.cognition:recall
+w: recollect drf adj.all:recollective drf noun.cognition:recollection 1
+w: remember ant forget drf noun.cognition:remembering drf noun.cognition:remembrance
+w: retrieve drf noun.cognition:retrieval
+w: think 2 drf noun.cognition:think drf noun.cognition:thought 1 see think_back
+d: recall knowledge from memory; have a recollection
+e: I can't remember saying any such thing
+e: I can't think what her last name was
+e: can you remember her phone number?
+e: Do you remember that he once loved you?
+e: call up memories
+fs: 8 33 26
+hyper: brush_up
+hyper: know 14
+hyper: recognise
+
+w: capitalise drf noun.possession:capital 1
+w: capitalize
+d: consider expenditures as capital assets rather than expenses
+fs: 8
+hypo: consider
+
+w: capitalise 1 drf noun.act:capitalisation 3 drf noun.possession:capital drf noun.possession:capital 1
+w: capitalize 1 drf noun.act:capitalization 3 drf noun.possession:capital 1
+d: compute the present value of a business or an income
+fs: 8
+hyper: overcapitalise 1
+hypo: calculate
+
+w: card drf noun.communication:card 1
+d: ask someone for identification to determine whether he or she is old enough to consume liquor
+e: I was carded when I tried to buy a beer!
+fs: 9
+hypo: ascertain
+
+w: carnalize drf adj.pert:carnal
+w: sensualize
+d: ascribe to an origin in sensation
+fs: 8
+hypo: ascribe
+
+w: carry 12
+d: include, as on a list
+e: How many people are carried on the payroll?
+fs: 10
+hypo: include
+
+w: carry_back
+d: deduct a loss or an unused credit from taxable income for a prior period
+fs: 8
+hypo: deduct 1
+
+w: carry_weight
+d: have influence to a specified degree
+e: Her opinion carries a lot of weight
+fs: 1 2
+hypo: determine 2
+
+w: catalog drf noun.communication:catalog drf noun.communication:catalog 1
+w: catalogue drf noun.communication:catalogue drf noun.communication:catalogue 1 drf noun.person:cataloger drf noun.person:cataloguer
+d: make an itemized list or catalog of; classify
+e: He is cataloguing his photographic negatives
+fs: 8
+hypo: assort
+
+w: catch
+w: trip_up drf noun.act:trip-up
+d: detect a blunder or misstep
+e: The reporter tripped up the senator
+fs: 9
+hypo: discover 1
+
+w: catch 1
+d: discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+e: She caught her son eating candy
+e: She was caught shoplifting
+fs: 9
+hypo: surprise
+vg: catch 10
+
+w: catch 3
+w: get 9
+d: grasp with the mind or develop an understanding of
+e: did you catch that allusion?
+e: We caught something of his theory in the lecture
+e: don't catch your meaning
+e: did you get it?
+e: She didn't get the joke
+e: I just don't get him
+fs: 1
+hypo: understand
+vg: verb.creation:catch 12
+vg: verb.possession:get 14
+
+w: catch 10
+d: become aware of
+e: he caught her staring out the window
+fs: 8 9
+hypo: verb.perception:find 1
+vg: catch 1
+
+w: catch_on
+w: cotton_on
+w: get_it
+w: get_onto fs 8
+w: get_wise
+w: latch_on
+w: tumble
+w: twig
+d: understand, usually after some initial difficulty
+e: She didn't know what her classmates were plotting but finally caught on
+fs: 22 2
+hypo: apprehend
+
+w: catch_out
+w: find_out 1
+d: trap; especially in an error or in a reprehensible act
+e: He was caught out
+e: She was found out when she tried to cash the stolen checks
+fs: 9
+hypo: verb.perception:detect
+
+w: catch_up
+d: learn belatedly; find out about something after it happened
+e: I'm trying to catch up with the latest developments in molecular biology
+fs: 2
+hypo: acquire
+
+w: categorise
+w: categorize drf noun.act:categorization drf noun.cognition:categorization drf noun.cognition:category 2 drf noun.group:categorization drf noun.group:category
+d: place into or assign to a category
+e: Children learn early on to categorize
+fs: 8 9
+entail: compare
+hyper: assort
+hypo: reason
+
+w: cave drf noun.object:cave
+w: spelunk drf noun.person:spelunker
+d: explore natural caves
+fs: 2
+hypo: explore 1
+
+w: censor drf noun.person:censor
+d: subject to political, religious, or moral censorship
+e: This magazine is censored by the government
+fs: 8
+hyper: verb.change:blue-pencil
+hypo: appraise 1
+
+w: center drf noun.cognition:center 1 drf noun.cognition:centering
+w: centre mr noun.location:Britain mr noun.location:Canada
+w: concentrate fs 2 drf noun.attribute:concentration 1 drf noun.cognition:concentration
+w: focus drf noun.cognition:focus drf noun.cognition:focusing drf noun.cognition:focussing
+w: pore
+w: rivet
+d: direct one's attention on something
+e: Please focus on your studies and not on your hobbies
+fs: 13
+hyper: absorb 6
+hyper: recall 6
+hyper: think 9
+hyper: verb.perception:hear 5
+hyper: verb.perception:zoom_in
+hypo: cerebrate
+vg: rivet 1
+
+w: cerebrate drf noun.cognition:cerebration
+w: cogitate drf adj.pert:cogitative drf adjs.all:cogitative drf noun.cognition:cogitation
+w: think drf noun.cognition:think drf noun.cognition:thinking drf noun.cognition:thought drf noun.person:thinker drf noun.person:thinker 1 see think_out see think_over see verb.creation:think_up
+d: use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments
+e: I've been thinking all day and getting nowhere
+fs: 2
+hyper: associate
+hyper: brainstorm
+hyper: center
+hyper: chew_over
+hyper: conclude
+hyper: contemplate
+hyper: devote
+hyper: evaluate 1
+hyper: philosophise
+hyper: plan
+hyper: puzzle_over
+hyper: rationalise
+hyper: reason
+hyper: think 12
+hyper: think 13
+hyper: think 14
+hyper: think_about 5
+
+w: charge 12 drf noun.possession:charge 2
+d: set or ask for a certain price
+e: How much do you charge for lunch?
+e: This fellow charges $100 for a massage
+fs: 8
+hypo: determine 1
+
+w: chart
+d: plan in detail
+e: Bush is charting a course to destroy Saddam Hussein
+fs: 8
+hypo: plan
+
+w: chart 13 drf noun.artifact:chart
+d: make a chart of
+e: chart the territory
+fs: 8
+hypo: verb.creation:map
+
+w: check drf noun.act:check 5 drf noun.cognition:check drf noun.person:checker
+w: check_into
+w: check_out drf noun.act:checkout
+w: check_over
+w: check_up_on
+w: go_over 1
+w: look_into
+w: suss_out
+d: examine so as to determine accuracy, quality, or condition
+e: check the brakes
+e: Check out the engine
+fs: 8
+hyper: verb.social:follow 2
+hypo: analyse
+vg: check 1
+
+w: check 1 drf noun.communication:check 1
+w: check_off
+w: mark 8
+w: mark_off
+w: tick
+w: tick_off
+d: put a check mark on or near or next to
+e: Please check each name on the list
+e: tick off the items
+e: mark off the units
+fs: 8
+hyper: receipt
+hypo: verify 1
+vg: ascertain
+vg: check
+
+w: check 12 drf noun.act:check 5
+d: verify by consulting a source or authority
+e: check the spelling of this word
+e: check your facts
+fs: 8
+hypo: verify 1
+vg: ascertain
+
+w: chew_over fs 8
+w: contemplate 1 drf adjs.all:contemplative drf noun.cognition:contemplation
+w: excogitate drf adjs.all:excogitative
+w: meditate drf adjs.all:meditative drf noun.cognition:meditation
+w: mull drf noun.person:muller 6
+w: mull_over
+w: muse drf noun.cognition:muse drf noun.cognition:musing drf noun.person:muser
+w: ponder drf noun.person:ponderer
+w: reflect drf adjs.all:reflective drf adjs.all:reflective 1
+w: ruminate drf adjs.all:ruminative drf noun.cognition:rumination drf noun.person:ruminator
+w: speculate drf adjs.all:speculative 1 drf noun.cognition:speculation 1
+w: think_over fs 8
+d: reflect deeply on a subject
+e: I mulled over the events of the afternoon
+e: philosophers have speculated on the question of God for thousands of years
+e: The scientist must stop to observe and start to excogitate
+fs: 22
+hyper: bethink
+hyper: cogitate 1
+hyper: introspect
+hyper: premeditate 1
+hyper: theologise
+hyper: verb.communication:question 2
+hyper: verb.emotion:puzzle 3
+hyper: verb.perception:consider
+hypo: cerebrate
+
+w: choose fs 2
+w: pick_out
+w: select drf adjs.all:selective drf adjs.all:selective 1 drf noun.act:selection drf noun.person:selector
+w: take 1
+d: pick out, select, or choose from a number of alternatives
+e: Take any one of these cards
+e: Choose a good husband for your daughter
+e: She selected a pair of shoes from among the dozen the salesgirl had shown her
+fs: 8 9
+hyper: anoint
+hyper: assign
+hyper: cream_off
+hyper: cull_out
+hyper: dial
+hyper: draw 13
+hyper: elect
+hyper: empanel
+hyper: excerpt
+hyper: field
+hyper: go 12
+hyper: pick
+hyper: pick_over
+hyper: sieve
+hyper: single_out
+hyper: think_of 4
+hyper: verb.communication:define 1
+hyper: verb.possession:adopt 2
+hyper: verb.social:elect
+hyper: verb.social:nominate 2
+hyper: verb.social:screen
+hyper: verb.social:vote 13
+hyper: verb.social:vote_in
+hypo: decide
+
+w: choose 1
+d: see fit or proper to act in a certain way; decide to act in a certain way
+e: She chose not to attend classes and now she failed the exam
+fs: 26 28
+hypo: evaluate 1
+
+w: choose 2
+w: opt drf adj.pert:optative 1 drf noun.act:option
+w: prefer drf noun.act:preferment drf noun.cognition:preference 1
+d: select as an alternative over another
+e: I always choose the fish over the meat courses in this restaurant
+e: She opted for the job on the East coast
+fs: 8 26
+entail: compare
+hyper: cop_out
+
+w: choreograph
+d: plan and oversee the development and details of
+e: The meeting between the two Presidents had been carefully choreographed
+fs: 8
+hypo: direct
+
+w: chunk 13 drf noun.cognition:chunking drf noun.group:chunk
+w: collocate drf noun.act:collocation
+w: lump 13 drf noun.object:lump drf noun.person:lumper
+d: group or chunk together in a certain order or place side by side
+fs: 8 9
+hypo: group
+
+w: cinch drf noun.act:cinch 1
+d: get a grip on; get mastery of
+fs: 8
+hypo: control
+
+w: cinch 1
+d: make sure of
+fs: 8
+hypo: ascertain
+
+w: classify 1 drf adj.pert:classificatory drf noun.act:classification drf noun.cognition:classification drf noun.communication:classifier drf noun.group:class drf noun.group:class 1 drf noun.group:class 2 drf noun.group:class 5 drf noun.group:classification drf noun.person:classifier
+w: relegate 2 drf noun.act:relegation 2
+d: assign to a class or kind
+e: How should algae be classified?
+e: People argue about how to relegate certain mushrooms
+fs: 21
+hypo: assign 3
+
+w: clear
+w: clear_up
+w: crystalise
+w: crystalize
+w: crystallise
+w: crystallize
+w: elucidate drf adjs.all:elucidative drf noun.attribute:lucidity drf noun.communication:elucidation drf noun.communication:elucidation 1 drf noun.state:lucidity
+w: enlighten
+w: illuminate drf noun.communication:illumination
+w: shed_light_on
+w: sort_out 1
+w: straighten_out
+d: make free from confusion or ambiguity; make clear
+e: Could you clarify these remarks?
+e: Clear up the question of who is at fault
+fs: 8
+hypo: verb.communication:clarify
+
+w: click 13
+w: come_home 13
+w: dawn 13
+w: fall_into_place
+w: get_across
+w: get_through
+w: penetrate 1
+w: sink_in
+d: become clear or enter one's consciousness or emotions
+e: It dawned on him that she had betrayed him
+e: she was penetrated with sorrow
+fs: 1
+cause: understand
+
+w: clutch 4 drf noun.state:clutch
+w: get_hold_of
+w: seize 4
+d: affect
+e: Fear seized the prisoners
+e: The patient was seized with unbearable pains
+e: He was seized with a dreadful disease
+fs: 10
+hypo: verb.emotion:overcome
+
+w: coconspire drf noun.person:coconspirator
+d: conspire together
+e: The two men coconspired to cover up the Federal investigation
+fs: 2
+hypo: cabal
+
+w: cogitate 1 drf adjs.all:cogitative drf noun.cognition:cogitation drf noun.cognition:cogitation 1
+d: consider carefully and deeply; reflect upon; turn over in one's mind
+fs: 29 8
+hypo: chew_over
+
+w: cognise drf adj.all:cognisant drf noun.cognition:cognisance
+w: cognize drf adj.all:cognizant drf adj.pert:cognitive drf noun.cognition:cognizance
+w: know 1 ant ignore 1 drf adj.all:knowable drf noun.cognition:knowing drf noun.person:knower
+d: be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about
+e: I know that the President lied to the people
+e: I want to know who is winning the game!
+e: I know it's time
+fs: 26 2 8
+hyper: agnise
+hyper: keep_track
+vg: know 2
+
+w: cold-shoulder drf noun.act:cold_shoulder
+w: slight drf noun.act:slight
+d: pay no attention to, disrespect
+e: She cold-shouldered her ex-fiance
+fs: 9 8
+hypo: verb.communication:brush_aside
+
+w: collate drf noun.act:collation 1
+d: compare critically; of texts
+fs: 8
+hypo: compare
+
+w: colligate drf noun.cognition:colligation
+w: subsume 1 drf noun.cognition:subsumption
+d: consider (an instance of something) as part of a general rule or principle
+fs: 21 8
+hypo: include
+
+w: collude drf adjs.all:collusive drf noun.cognition:collusion drf noun.communication:collusion
+w: conspire 1 drf adj.pert:conspirative drf noun.communication:conspiracy
+d: act in unison or agreement and in secret towards a deceitful or illegal purpose
+e: The two companies conspired to cause the value of the stock to fall
+fs: 1 28 2
+hypo: verb.social:interact
+
+w: come 13
+d: have a certain priority
+e: My family comes first
+fs: 4 22
+hypo: rank 13
+
+w: come 14
+w: occur
+d: come to one's mind; suggest itself
+e: It occurred to me that we should hire another secretary
+e: A great idea then came to her
+fs: 4
+hypo: verb.stative:become
+
+w: come_across
+w: resonate drf noun.relation:resonance
+d: be received or understood
+fs: 1 7
+cause: understand
+hyper: strike_a_chord
+
+w: come_around
+w: come_round
+d: change one's position or opinion
+e: He came around to our point of view
+fs: 2 22
+entail: reconsider
+hypo: verb.change:change
+
+w: come_in
+w: come_out
+w: place 3 drf noun.communication:place 2
+d: take a place in a competition; often followed by an ordinal
+e: Jerry came in third in the Marathon
+fs: 7 6
+hypo: rank 13
+
+w: come_to_mind
+w: spring_to_mind
+d: be remembered
+e: His name comes to mind when you mention the strike
+fs: 1
+hypo: verb.change:appear
+
+w: commemorate drf adj.pert:commemorative drf noun.event:commemoration
+w: remember 9 drf noun.cognition:remembrance
+d: call to remembrance; keep alive the memory of someone or something, as in a ceremony
+e: We remembered the 50th anniversary of the liberation of Auschwitz
+e: Remember the dead of the First World War
+fs: 8 9
+
+w: commemorate 1 drf adj.pert:commemorative drf noun.communication:commemoration
+w: immortalise
+w: immortalize
+w: memorialise
+w: memorialize drf noun.artifact:memorial drf noun.communication:memorial
+d: be or provide a memorial to a person or an event
+e: This sculpture commemorates the victims of the concentration camps
+e: We memorialized the Dead
+fs: 10 9 8 11
+hyper: monumentalise
+hypo: remind
+
+w: commemorate 2 drf adj.pert:commemorative drf noun.event:commemoration
+w: mark 1
+d: celebrate by some ceremony or observation
+e: The citizens mark the anniversary of the revolution with a march and a parade
+fs: 8
+hypo: verb.social:celebrate 1
+
+w: compare drf adj.all:comparative drf noun.act:comparing drf noun.act:comparison drf noun.attribute:compare drf noun.relation:comparison
+d: examine and note the similarities or differences of
+e: John compared his haircut to his friend's
+e: We compared notes after we had both seen the movie
+fs: 11 8 9 21
+hyper: analogise
+hyper: collate
+hypo: analyse
+vg: verb.stative:compare
+
+w: compare 1 drf adj.all:comparative drf adj.pert:comparative drf noun.act:comparing drf noun.attribute:compare drf noun.attribute:comparison
+w: equate drf noun.act:equating drf noun.act:equation drf noun.person:equal
+w: liken
+d: consider or describe as similar, equal, or analogous
+e: We can compare the Han dynasty to the Romans
+e: You cannot equate success in financial matters with greed
+fs: 21 20
+hypo: verb.perception:consider
+
+w: compose
+w: draw_up
+w: frame drf noun.act:framing drf noun.person:framer
+d: make up plans or basic details for
+e: frame a policy
+fs: 8
+hypo: plan
+
+w: con
+w: learn 3
+w: memorise drf noun.cognition:memorisation drf noun.cognition:memory 1 drf noun.cognition:memory 2 drf noun.person:memoriser
+w: memorize drf noun.cognition:memorization drf noun.cognition:memory drf noun.cognition:memory 1 drf noun.cognition:memory 2 drf noun.person:memorizer
+d: commit to memory; learn by heart
+e: Have you memorized your lines for the play yet?
+fs: 8
+hyper: alternate
+hypo: hit_the_books
+
+w: concenter
+w: concentre mr noun.location:Britain mr noun.location:Canada
+w: focalise drf noun.act:focalisation 1
+w: focalize drf noun.act:focalization 1
+w: focus 1 drf noun.act:focusing drf noun.attribute:focus 3 drf noun.cognition:focus
+d: bring into focus or alignment; to converge or cause to converge; of ideas or emotions
+fs: 8
+hyper: refocus
+hypo: verb.change:adjust 5
+
+w: conclude drf adj.all:conclusive drf noun.act:conclusion 1
+w: reason 1 drf noun.cognition:reason drf noun.motive:reason drf noun.person:reasoner drf noun.state:reason
+w: reason_out
+d: decide by reasoning; draw or come to a conclusion
+e: We reasoned that it was cheaper to rent than to buy a house
+fs: 26
+hyper: deduce
+hyper: feel
+hyper: induce
+hyper: syllogise
+hyper: verb.communication:deduce
+hyper: verb.communication:extrapolate
+hyper: verb.communication:gather
+hypo: cerebrate
+
+w: conclude 1 drf noun.act:conclusion
+d: bring to a close
+e: The committee concluded the meeting
+fs: 8 11
+hyper: verb.communication:perorate 1
+hypo: verb.change:end 1
+
+w: concretize
+d: make something concrete
+fs: 8 11
+hypo: nail_down
+
+w: confound 1
+w: confuse 2 drf noun.act:confusion
+d: mistake one thing for another
+e: you are confusing me with the other candidate
+e: I mistook her for the secretary
+fs: 8 9 21
+hypo: misidentify
+vg: blur
+vg: verb.creation:confuse
+
+w: confute drf adjs.all:confutative drf noun.cognition:confutation drf noun.communication:confutation drf noun.person:confuter
+w: disprove ant prove drf noun.person:disprover
+d: prove to be false
+e: The physicist disproved his colleagues' theories
+fs: 8 26 11
+hyper: controvert
+hyper: explode 1
+hyper: falsify
+hypo: contradict
+
+w: conjecture drf noun.cognition:conjecture drf noun.cognition:conjecture 1
+w: hypothecate drf noun.cognition:hypothesis drf noun.communication:hypothesis 1
+w: hypothesise
+w: hypothesize drf noun.cognition:hypothesis drf noun.communication:hypothesis drf noun.communication:hypothesis 1
+w: speculate 1 drf adjs.all:speculative 2 drf noun.cognition:speculation drf noun.person:speculator 1
+w: suppose 1 drf noun.cognition:supposal 1 drf noun.cognition:supposition 1
+w: theorise drf noun.cognition:theorisation drf noun.cognition:theory 1 drf noun.cognition:theory 2 drf noun.person:theoriser
+w: theorize drf noun.cognition:theory 1 drf noun.cognition:theory 2 drf noun.person:theorizer
+d: to believe especially on uncertain or tentative grounds
+e: Scientists supposed that large dinosaurs lived in swamps
+fs: 26
+hyper: construct
+hyper: verb.communication:develop
+hypo: anticipate
+
+w: connive drf noun.communication:connivance
+w: intrigue drf noun.cognition:intrigue
+w: scheme
+d: form intrigues (for) in an underhand manner
+fs: 2 22
+hypo: plot
+
+w: consider
+w: reckon
+w: regard
+w: see
+w: view drf noun.cognition:view 2 drf noun.cognition:view 4 drf noun.communication:view
+d: deem to be
+e: She views this quite differently from me
+e: I consider her to be shallow
+e: I don't see the situation quite as negatively as you do
+fs: 8 5 20 21
+hyper: abstract
+hyper: call 5
+hyper: capitalise
+hyper: consider 5
+hyper: deem
+hyper: disesteem
+hyper: esteem 1
+hyper: expect 5
+hyper: favor
+hyper: idealise
+hyper: identify 4
+hyper: include
+hyper: like
+hyper: make 10
+hyper: receive 8
+hyper: reconsider
+hyper: reconsider 1
+hyper: reify
+hyper: relativise
+hyper: verb.possession:appreciate
+hypo: believe 4
+vg: construe
+
+w: consider 1 drf noun.cognition:consideration 1
+w: deal 10 fs 22
+w: look_at
+w: take 3
+d: take into consideration for exemplifying purposes
+e: Take the case of China
+e: Consider the following case
+fs: 8
+hyper: abstract 1
+hyper: contemplate 2
+hyper: dally 1
+hyper: verb.emotion:warm_to
+hypo: think_about 5
+
+w: consider 5 drf noun.act:consideration 2 drf noun.attribute:consideration
+d: regard or treat with consideration, respect, and esteem
+e: Please consider your family
+fs: 21 5 20
+hypo: consider
+
+w: construct
+w: reconstruct drf noun.cognition:reconstruction
+w: retrace
+d: reassemble mentally
+e: reconstruct the events of 20 years ago
+fs: 8 26
+hyper: etymologise
+hypo: conjecture
+
+w: construe drf noun.communication:construal see verb.stative:construe_with
+w: interpret drf noun.cognition:interpretation drf noun.cognition:interpretation 1 drf noun.communication:interpretation
+w: see 13
+d: make sense of; assign a meaning to
+e: What message do you see in this letter?
+e: How do you interpret his behavior?
+fs: 8
+hyper: allegorise
+hyper: be_amiss 1
+hyper: literalise
+hyper: mythicise
+hyper: read
+hyper: read 6
+hyper: read 9
+hyper: read_between_the_lines
+hyper: reinterpret
+hyper: spiritualise
+hyper: verb.creation:draw_out
+hypo: understand
+vg: consider
+
+w: consume
+d: engage fully
+e: The effort to pass the exam consumed all his energy
+fs: 11 10
+hypo: absorb 3
+
+w: contemplate drf adjs.all:contemplative drf noun.cognition:contemplation
+w: meditate 2 drf adjs.all:meditative drf noun.cognition:meditation drf noun.cognition:meditation 1
+w: study 4 drf noun.cognition:study 1 drf noun.cognition:study 4
+d: think intently and at length, as for spiritual purposes
+e: He is meditating in his study
+fs: 2
+hypo: cerebrate
+
+w: contemplate 2 drf noun.cognition:contemplation
+d: consider as a possibility
+e: I contemplated leaving school and taking a full-time job
+fs: 8 33
+hyper: entertain
+hypo: consider 1
+
+w: contemporise
+w: contemporize
+w: synchronise drf noun.relation:synchrony
+w: synchronize drf noun.relation:synchrony
+d: arrange or represent events so that they co-occur
+e: synchronize biblical events
+fs: 8
+hypo: arrange
+
+w: contradict
+w: negate ant affirm drf adj.all:negative 1
+d: prove negative; show to be false
+fs: 26 8 11
+hyper: confute
+hyper: invalidate
+hypo: demonstrate
+mt: noun.cognition:logic 1
+
+w: contradistinguish drf noun.cognition:contradistinction
+d: distinguish by contrasting qualities
+fs: 8
+hypo: differentiate 1
+
+w: contrast drf noun.act:contrast drf noun.cognition:contrast 1 drf noun.relation:contrast
+d: put in opposition to show or emphasize differences
+e: The middle school teacher contrasted her best student's work with that of her weakest student
+fs: 8
+hypo: differentiate 1
+
+w: control drf noun.cognition:control 1
+w: master drf noun.person:master
+d: have a firm understanding or knowledge of; be on top of
+e: Do you control these data?
+fs: 8
+entail: understand
+hyper: cinch
+hypo: know 3
+vg: verb.contact:control
+
+w: control 11 drf noun.cognition:control 2 drf noun.person:controller
+d: verify by using a duplicate register for comparison
+e: control an account
+fs: 8
+hypo: ascertain
+mu: noun.communication:archaicism
+
+w: controvert
+w: rebut drf noun.person:rebutter
+w: refute drf noun.act:refutation drf noun.cognition:refutation drf noun.person:refuter
+d: prove to be false or incorrect
+fs: 8 11
+hypo: confute
+
+w: cop_out drf noun.act:copout
+w: opt_out
+d: choose not to do something, as out of fear of failing
+e: She copped out when she was supposed to get into the hang glider
+fs: 2 22
+hypo: choose 2
+
+w: copyedit
+w: copyread drf noun.person:copyreader
+w: subedit drf noun.person:subeditor
+d: edit and correct (written or printed material)
+fs: 8 2
+hypo: verb.change:edit
+
+w: correlate drf adjs.all:correlative drf noun.cognition:correlation drf noun.cognition:correlation 1 drf noun.relation:correlation
+d: bring into a mutual, complementary, or reciprocal relation
+e: I cannot correlate these two pieces of information
+fs: 11 8
+hypo: associate
+vg: verb.stative:correlate
+
+w: count
+d: include as if by counting
+e: I can count my colleagues in the opposition
+fs: 21 20
+hypo: include
+
+w: count 12
+w: reckon 13
+d: take account of
+e: You have to reckon with our opponents
+e: Count on the monsoon
+fs: 22
+hypo: approximate
+
+w: countermarch
+d: change the order of soldiers during a march
+fs: 2
+hypo: reorder
+
+w: counterplot drf noun.cognition:counterplot
+d: make a plot in response to another plot
+fs: 2 8
+hypo: plot
+
+w: cream_off
+w: skim_off
+d: pick the best
+fs: 8 9
+hypo: choose
+
+w: credit
+d: have trust in; trust in the truth or veracity of
+fs: 9 8
+hyper: believe 2
+hypo: trust
+
+w: credit 1 drf noun.communication:credit
+d: give someone credit for something
+e: We credited her for saving our jobs
+fs: 15 17
+hypo: ascribe
+
+w: cross-check
+d: check out conflicting sources; crosscheck facts, for example
+fs: 8 26
+hypo: ascertain
+
+w: cube drf noun.quantity:cube
+d: raise to the third power
+fs: 8
+hypo: multiply
+mt: noun.cognition:arithmetic
+
+w: cull_out
+w: winnow
+d: select desirable parts from a group or list
+e: cull out the interesting letters from the poet's correspondence
+e: winnow the finalists from the long list of applicants
+fs: 11
+hypo: choose
+
+w: dally 1
+w: play 1
+w: trifle 1
+d: consider not very seriously
+e: He is trifling with her
+e: She plays with the thought of moving to Tasmania
+fs: 22
+hypo: consider 1
+vg: verb.social:dally
+
+w: date drf noun.act:dating drf noun.time:date drf noun.time:date 3 drf noun.time:date 5
+d: assign a date to; determine the (probable) date of
+e: Scientists often cannot date precisely archeological or prehistorical findings
+fs: 8
+hyper: verb.change:chronologise
+hyper: misdate
+hypo: determine 1
+
+w: date 1 drf noun.time:date drf noun.time:date 5
+d: provide with a dateline; mark with a date
+e: She wrote the letter on Monday but she dated it Saturday so as not to reveal that she procrastinated
+fs: 8
+hyper: date 2
+hyper: date-mark
+hypo: verb.possession:furnish
+
+w: date 2 drf noun.time:date drf noun.time:date 5
+w: date_stamp
+d: stamp with a date
+e: The package is dated November 24
+fs: 8
+hypo: date 1
+hypo: verb.contact:stamp 1
+
+w: date-mark
+w: dateline drf noun.communication:dateline
+w: datemark
+d: mark with a date and place
+e: dateline a newspaper article
+fs: 8
+hypo: date 1
+
+w: dazzle
+d: amaze or bewilder, as with brilliant wit or intellect or skill
+e: Her arguments dazzled everyone
+e: The dancer dazzled the audience with his turns and jumps
+fs: 9 10
+hypo: amaze
+
+w: debate drf noun.communication:debate 1 drf noun.person:debater
+d: argue with one another
+e: We debated the question of abortion
+e: John debated Mary
+fs: 2 9
+hypo: verb.communication:consider 2
+
+w: decide fs 2 26 29 drf adj.all:decisive 1 drf noun.act:decision drf noun.cognition:deciding
+w: determine fs 26 29 drf adjs.all:determinant drf noun.act:determination 1 drf noun.cognition:determination
+w: make_up_one's_mind fs 2
+d: reach, make, or come to a decision about something
+e: We finally decided after lengthy deliberations
+fs: 8
+entail: verb.communication:debate
+hyper: choose
+hyper: decree
+hyper: measure
+hyper: purpose
+hyper: seal
+hyper: will 1
+hyper: verb.perception:orient
+hyper: verb.social:adjudicate 3
+hyper: verb.social:govern 2
+
+w: decide 2
+d: cause to decide
+e: This new development finally decided me!
+fs: 10
+cause: decide
+hypo: verb.communication:cause
+
+w: decide 6 drf adj.all:decisive
+d: influence or determine
+e: The vote in New Hampshire often decides the outcome of the Presidential election
+fs: 11
+hypo: determine 2
+
+w: decipher
+w: trace 4
+d: read with difficulty
+e: Can you decipher this letter?
+e: The archeologist traced the hieroglyphs
+fs: 8
+hypo: read
+
+w: decouple
+w: dissociate ant associate drf adjs.all:dissociative drf noun.act:dissociation drf noun.state:dissociation
+d: regard as unconnected
+e: you must dissociate these two events!
+e: decouple our foreign policy from ideology
+fs: 8
+hypo: differentiate 1
+
+w: decree drf noun.communication:decree
+w: rule drf noun.communication:rule drf noun.person:ruler see verb.stative:rule_out
+d: decide with authority
+e: The King decreed that all firstborn males should be killed
+fs: 26
+hyper: override
+hyper: verb.competition:rule_in
+hypo: decide
+
+w: dedicate drf noun.event:dedication
+d: set apart to sacred uses with solemn rites, of a church
+fs: 8
+hypo: assign
+
+w: deduce drf adj.all:deductive drf adj.pert:deductive drf noun.cognition:deduction
+w: deduct drf noun.cognition:deduction
+w: derive drf noun.cognition:derivation
+w: infer drf noun.cognition:inference
+d: reason by deduction; establish by deduction
+fs: 26
+hyper: elicit
+hyper: extrapolate 1
+hyper: surmise
+hypo: conclude
+mt: noun.cognition:logic 1
+
+w: deduct 1 drf noun.act:deduction
+w: subtract ant add drf adj.all:subtractive drf noun.act:subtraction drf noun.act:subtraction 1
+w: take_off
+d: make a subtraction
+e: subtract this amount from my paycheck
+fs: 2 8
+hyper: carry_back
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: deem
+w: hold 1
+w: take_for
+w: view_as
+d: keep in mind or convey as a conviction or view
+e: take for granted
+e: view as important
+e: hold these truths to be self-evident
+e: I hold him personally responsible
+fs: 14 5 26
+hypo: consider
+vg: hold 8
+
+w: deify drf noun.act:deification drf noun.person:deification drf noun.person:deity drf noun.state:deification
+d: consider as a god or godlike
+e: These young men deify financial success
+fs: 9 8
+hyper: apotheose
+hypo: idealise
+
+w: delimit drf noun.location:delimitation
+w: delimitate drf noun.location:delimitation
+w: demarcate drf noun.location:demarcation
+d: set, mark, or draw the boundaries of something
+fs: 8 11
+hypo: verb.change:bound
+
+w: demarcate 1 drf noun.cognition:demarcation drf noun.location:demarcation
+d: separate clearly, as if by boundaries
+fs: 11 8
+hypo: differentiate 1
+
+w: demonstrate drf adjs.all:demonstrative
+w: establish drf noun.cognition:establishment
+w: prove ant disprove
+w: shew
+w: show
+d: establish the validity of something, as by an example, explanation or experiment
+e: The experiment demonstrated the instability of the compound
+e: The mathematician showed the validity of the conjecture
+fs: 26 11 8
+hyper: contradict
+hyper: prove 2
+hyper: prove_oneself
+hyper: verb.emotion:stultify
+hypo: affirm
+
+w: demoralize drf noun.state:demoralization
+d: confuse or put into disorder
+e: the boss's behavior demoralized everyone in the office
+fs: 10 9
+hypo: bedevil
+
+w: describe
+w: discover 3
+w: distinguish 1
+w: identify 1 drf adj.all:identifiable drf noun.act:identification drf noun.cognition:identity
+w: key
+w: key_out
+w: name 1 drf noun.communication:name drf noun.communication:naming
+d: identify as in botany or biology, for example
+fs: 11 8 9
+entail: assort
+
+w: design drf noun.act:design drf noun.artifact:design 1 drf noun.cognition:design 1
+d: plan something for a specific role or purpose or effect
+e: This room is not designed for work
+fs: 21 8
+hypo: designate
+
+w: design 6 drf noun.cognition:design 3
+d: intend or have as a purpose
+e: She designed to go far in the world of business
+fs: 28
+hypo: intend
+
+w: designate
+w: destine drf noun.cognition:destination
+w: intend 1
+w: specify
+d: design or destine
+e: She was intended to become the director
+fs: 24
+hyper: aim 2
+hyper: design
+hyper: mean 5
+hyper: slate
+hypo: plan
+
+w: detail drf noun.group:detail drf noun.group:detail 1
+d: assign to a specific task
+e: The ambulances were detailed to the fire station
+fs: 21
+hypo: assign
+
+w: determine 1 drf noun.act:determination 1 drf noun.cognition:determination
+w: set 4 drf noun.cognition:set 1
+d: fix conclusively or authoritatively
+e: set the rules
+fs: 26 11 8 27
+hyper: charge 12
+hyper: date
+hyper: filiate
+hyper: format 10
+hyper: identify
+hyper: initialise
+hyper: value 3
+hyper: verb.possession:assess
+hyper: verb.possession:price
+
+w: determine 2 drf noun.cognition:determinant
+w: influence drf noun.act:influence drf noun.person:influence drf noun.phenomenon:influence
+w: mold
+w: regulate drf noun.act:regulation
+w: shape drf noun.cognition:shape drf noun.cognition:shape 1 drf noun.process:shaping
+d: shape or influence; give direction to
+e: experience often determines ability
+e: mold public opinion
+fs: 11 29
+hyper: carry_weight
+hyper: decide 6
+hyper: disincline
+hyper: dispose
+hyper: index
+hyper: miscreate
+hyper: pace
+hyper: predetermine
+hyper: reshape
+hyper: time 1
+hypo: verb.creation:cause
+
+w: determine 3 drf noun.act:determination
+d: fix in scope; fix the boundaries of
+e: the tree determines the border of the property
+fs: 11
+hyper: nail_down
+hypo: verb.stative:define
+
+w: develop
+w: educate drf adjs.all:educative drf noun.act:education drf noun.act:education 1 drf noun.cognition:education drf noun.cognition:education 1
+w: prepare 1 drf adjs.all:preparatory drf noun.act:preparation
+w: train 1 drf noun.act:training drf noun.person:trainee drf noun.person:trainer
+d: create by training and teaching
+e: The old master is training world-class violinists
+e: we develop the leaders for the future
+fs: 9
+hyper: drill 3
+hyper: house-train
+hyper: retrain 1
+hyper: toilet-train
+hypo: verb.communication:instruct
+vg: verb.change:build_up 3
+vg: prepare
+vg: verb.social:groom
+
+w: devote
+w: give 2
+w: pay
+d: dedicate
+e: give thought to
+e: give priority to
+e: pay attention to
+fs: 21 15
+hypo: cerebrate
+vg: verb.possession:give 10
+
+w: diagnose drf noun.act:diagnosing drf noun.act:diagnosis
+w: name
+d: determine or distinguish the nature of a problem or an illness through a diagnostic analysis
+fs: 8
+hyper: explore 2
+hypo: analyse
+
+w: diagnose 1 drf noun.act:diagnosing drf noun.act:diagnosis
+d: subject to a medical analysis
+fs: 9
+hyper: explore 3
+hypo: analyse
+mt: noun.act:medicine
+
+w: dial drf noun.artifact:dial 1
+d: choose by means of a dial
+e: dial a telephone number
+fs: 8
+hypo: choose
+
+w: dichotomise drf noun.act:dichotomisation
+w: dichotomize drf noun.act:dichotomization drf noun.group:dichotomy
+d: divide into two opposing groups or kinds
+fs: 8 11
+hypo: assort
+
+w: dictate drf noun.communication:dictation drf noun.communication:dictation 2 drf noun.person:dictator 2
+d: say out loud for the purpose of recording
+e: He dictated a report to his secretary
+fs: 8
+hypo: read 1
+
+w: differentiate fs 2 ant integrate drf noun.act:differentiation 1
+d: calculate a derivative; take the derivative
+fs: 8
+hypo: calculate
+mt: noun.cognition:math
+
+w: differentiate 1 drf noun.attribute:difference drf noun.cognition:differentiation drf noun.event:difference drf noun.person:differentiator
+w: distinguish drf noun.cognition:distinction
+w: secern 1
+w: secernate
+w: separate 1
+w: severalise
+w: severalize
+w: tell 1
+w: tell_apart
+d: mark as different
+e: We distinguish several kinds of maple
+fs: 16 9 8
+entail: compare
+hyper: contradistinguish
+hyper: contrast
+hyper: decouple
+hyper: demarcate 1
+hyper: discriminate
+hyper: have_the_distinction
+hyper: individualise
+hyper: know 12
+hyper: label
+hyper: label 1
+hyper: severalise 1
+hyper: sex
+hyper: verb.social:discriminate 12
+hyper: verb.social:stratify
+hypo: identify
+
+w: differentiate 2 drf noun.attribute:difference drf noun.cognition:differentiation drf noun.event:difference
+w: distinguish 2
+w: mark 9 drf noun.communication:mark 2 drf noun.communication:marker
+d: be a distinctive feature, attribute, or trait; sometimes in a very positive sense
+e: His modesty distinguishes him from his peers
+fs: 10 11
+hyper: verb.stative:characterise 1
+hypo: verb.communication:characterise
+vg: verb.communication:mark 2
+
+w: digest drf noun.cognition:digestion drf noun.communication:digest drf noun.communication:digest 1
+d: arrange and integrate in the mind
+e: I cannot digest all this information
+fs: 8
+hypo: apprehend
+
+w: din
+d: instill (into a person) by constant repetition
+e: he dinned the lessons into his students
+fs: 8
+hypo: inculcate
+
+w: dip_into
+d: read selectively; read only certain passages from a text
+fs: 8
+hypo: read
+
+w: direct drf adjs.all:directive
+w: engineer drf noun.person:engineer
+w: mastermind drf noun.person:mastermind
+w: orchestrate drf noun.act:orchestration 2
+w: organise drf noun.act:organisation drf noun.act:organisation 1 drf noun.group:organisation 1
+w: organize drf noun.act:organization drf noun.act:organization 1 drf noun.group:organization 1 drf noun.person:organizer 1
+d: plan and direct (a complex undertaking)
+e: he masterminded the robbery
+fs: 8
+hyper: choreograph
+hypo: plan
+
+w: disapprove ant approve drf noun.feeling:disapproval
+d: consider bad or wrong
+fs: 2 9 8
+hyper: discountenance
+hyper: frown_on
+hypo: evaluate 1
+
+w: disbelieve ant believe
+w: discredit
+d: reject as false; refuse to accept
+fs: 9 8
+hyper: distrust
+hyper: doubt
+hypo: reject
+
+w: discountenance
+d: show disapproval by discouraging
+e: any measure tending to fuse invalids into a class with special privileges should be discountenanced
+fs: 8
+hypo: disapprove
+
+w: discover drf noun.act:discovery drf noun.cognition:discovery drf noun.communication:discovery
+w: find 9 drf noun.act:find see find_out
+d: make a discovery
+e: She found that he had lied to her
+e: The story is false, so far as I can discover
+fs: 26
+hyper: ferret
+hyper: rake_up
+hypo: discover 1
+vg: verb.creation:discover
+
+w: discover 1 fs 26 drf noun.act:discovery drf noun.cognition:discovery drf noun.communication:discovery
+w: find_out
+w: get_a_line fs 22
+w: get_wind 1 fs 22
+w: get_word fs 2
+w: hear fs 26
+w: learn 1 fs 26
+w: pick_up
+w: see 2 fs 26
+d: get to know or become aware of, usually accidentally
+e: I learned that she has two grown-up children
+e: I see that you have been promoted
+fs: 8
+hyper: ascertain 1
+hyper: catch
+hyper: discover
+hyper: get_the_goods
+hyper: wise_up
+vg: verb.perception:find 1
+
+w: discredit 1 drf noun.state:discredit
+d: cause to be distrusted or disbelieved
+e: The paper discredited the politician with its nasty commentary
+fs: 8
+hypo: verb.communication:brush_aside
+
+w: discriminate drf adjs.all:discriminative 1 drf adjs.all:discriminatory drf noun.cognition:discrimination drf noun.person:discriminator
+w: know_apart
+d: recognize or perceive the difference
+fs: 8 21
+hyper: subtilize
+hypo: differentiate 1
+
+w: disesteem ant esteem 1 drf noun.state:disesteem
+w: disrespect ant respect drf noun.attribute:disrespect
+d: have little or no respect for; hold in contempt
+fs: 8 9
+hyper: undervalue 1
+hypo: consider
+
+w: disincline drf noun.attribute:disinclination
+w: indispose ant dispose drf noun.attribute:indisposition
+d: make unwilling
+fs: 10 24
+hypo: determine 2
+
+w: dispose ant indispose drf noun.cognition:disposition 1
+w: incline 3 drf noun.cognition:inclination drf noun.feeling:inclination
+d: make receptive or willing towards an action or attitude or belief
+e: Their language inclines us to believe them
+fs: 24 10
+hyper: predispose
+hypo: determine 2
+
+w: disregard drf noun.act:disregard 1 drf noun.cognition:disregard
+w: ignore 3
+w: neglect 1 drf adj.all:negligent drf noun.cognition:neglect drf noun.person:neglecter
+d: give little or no attention to
+e: Disregard the errors
+fs: 8 9
+hyper: pretermit 1
+
+w: distrust ant trust drf noun.attribute:distrust drf noun.cognition:distrust
+w: mistrust ant trust drf noun.attribute:mistrust drf noun.cognition:mistrust
+w: suspect drf noun.cognition:suspicion drf noun.person:suspect
+d: regard as untrustworthy; regard with suspicion; have no faith or confidence in
+fs: 9 8
+hyper: doubt 1
+hypo: disbelieve
+
+w: divide fs 8 ant multiply drf adj.all:divisible drf noun.act:division 1
+w: fraction drf noun.quantity:fraction
+d: perform a division
+e: Can you divide 49 by seven?
+fs: 2
+hyper: halve
+hyper: quarter
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: do_justice
+d: show due and full appreciation
+e: The diners did the food and wine justice
+fs: 9 12 8
+hypo: verb.possession:appreciate
+
+w: document drf noun.act:documentation drf noun.communication:document drf noun.communication:documentation
+d: support or supply with references
+e: Can you document your claims?
+fs: 11 8
+hyper: source
+hypo: affirm
+
+w: double-check drf noun.cognition:double_check
+d: check once more to be absolutely sure
+fs: 2 8
+hypo: ascertain
+
+w: doubt fs 26 drf noun.cognition:doubt drf noun.person:doubter drf noun.person:doubter 1
+d: consider unlikely or have doubts about
+e: I doubt that she will accept his proposal of marriage
+fs: 8 9
+hypo: disbelieve
+
+w: doubt 1 drf noun.attribute:doubt
+d: lack confidence in or have doubts about
+e: I doubt these reports
+e: I suspect her true motives
+e: she distrusts her stepmother
+fs: 9 8
+hypo: distrust
+
+w: downgrade ant upgrade
+d: rate lower; lower in value or esteem
+fs: 8
+hypo: grade 3
+
+w: draw
+w: make
+d: make, formulate, or derive in the mind
+e: I draw a line here
+e: draw a conclusion
+e: draw parallels
+e: make an estimate
+e: What do you make of his remarks?
+fs: 8
+hypo: verb.creation:create_by_mental_act
+vg: make 12
+
+w: draw 13 drf noun.artifact:draw drf noun.artifact:draw 1
+d: select or take in from a given group or region
+e: The participants in the experiment were drawn from a representative population
+fs: 21 20
+hypo: choose
+
+w: drill drf noun.act:drill
+w: exercise drf noun.act:exercise 2
+w: practice drf noun.act:practice 2
+w: practise
+d: learn by repetition
+e: We drilled French verbs every day
+e: Pianists practice scales
+fs: 8 2
+hypo: learn 2
+
+w: drill 1 drf noun.act:drill
+d: teach by repetition
+fs: 9
+hyper: beat_in
+hyper: inculcate
+hypo: verb.communication:instruct
+
+w: drill 3
+d: train in the military, e.g., in the use of weapons
+fs: 9
+hypo: develop
+
+w: drill 4 drf noun.act:drill 1
+d: undergo military training or do military exercises
+fs: 2
+hypo: prepare
+
+w: drink
+w: drink_in
+d: be fascinated or spell-bound by; pay close attention to
+e: The mother drinks in every word of her son on the stage
+fs: 8
+hypo: absorb 6
+
+w: drop
+w: leave_out
+w: miss
+w: neglect ant attend_to drf noun.act:neglect drf noun.person:neglecter
+w: omit drf adj.pert:omissive drf adjs.all:omissible drf noun.act:omission 1 drf noun.cognition:omission
+w: overleap
+w: overlook
+w: pretermit drf noun.cognition:pretermission
+d: leave undone or leave out
+e: How could I miss that typo?
+e: The workers on the conveyor belt miss one out of ten
+fs: 9 8 28
+hyper: forget 3
+hyper: jump
+
+w: drop 6
+d: omit (a letter or syllable) in speaking or writing
+e: New Englanders drop their post-vocalic r's
+fs: 8
+hypo: elide
+
+w: elect drf adjs.all:elective
+d: choose
+e: I elected to have my funds deposited automatically
+fs: 9 28 8
+hypo: choose
+
+w: elicit
+d: derive by reason
+e: elicit a solution
+fs: 26 8
+hypo: deduce
+mt: noun.cognition:logic 1
+
+w: elide drf noun.cognition:elision drf noun.process:elision
+d: leave or strike out
+e: This vowel is usually elided before a single consonant
+fs: 8
+hyper: drop 6
+hypo: except
+
+w: eliminate
+w: reject 2
+w: rule_out
+w: winnow_out
+d: dismiss from consideration or a contest
+e: John was ruled out as a possible suspect because he had a strong alibi
+e: This possibility can be eliminated from our consideration
+fs: 9 8
+
+w: empanel
+w: impanel
+w: panel drf noun.group:panel drf noun.group:panel 1
+d: select from a list
+e: empanel prospective jurors
+fs: 9
+hypo: choose
+
+w: empathise drf noun.feeling:empathy
+w: empathize drf noun.feeling:empathy
+w: sympathise drf noun.cognition:sympathy
+w: sympathize drf noun.cognition:sympathy
+w: understand 4 drf adjs.all:understandable drf noun.cognition:understanding 3
+d: be understanding of
+e: You don't need to explain--I understand!
+fs: 9 8
+
+w: engineer 1 drf noun.act:engineering 1 drf noun.person:engineer
+d: design as an engineer
+e: He engineered the water supply project
+fs: 8
+hypo: verb.creation:design
+
+w: enquire 2
+w: inquire drf adjs.all:inquisitive drf adjs.all:inquisitive 1
+w: wonder drf noun.cognition:wonder drf noun.person:wonderer 1
+d: have a wish or desire to know something
+e: He wondered who had built this beautiful church
+fs: 29
+hyper: verb.communication:request 13
+hypo: verb.communication:query
+
+w: entertain
+w: flirt_with
+w: think_about 3
+w: think_of 3
+w: toy_with
+d: take into consideration, have in view
+e: He entertained the notion of moving to South America
+fs: 33 8
+hypo: contemplate 2
+
+w: err drf noun.act:error 2 drf noun.attribute:errancy drf noun.attribute:error
+w: mistake 1 drf noun.act:mistake drf noun.cognition:mistake drf noun.communication:mistake
+w: slip drf noun.act:slip 5 see slip_up
+d: to make a mistake or be incorrect
+fs: 2
+hyper: misjudge
+hyper: misremember
+hyper: slip_up
+hyper: verb.social:fall_for
+
+w: establish 2
+w: lay_down
+w: make 13
+d: institute, enact, or establish
+e: make laws
+fs: 26 8
+hyper: verb.communication:mark 3
+hypo: verb.creation:create
+
+w: esteem 1 ant disesteem drf noun.cognition:esteem drf noun.feeling:esteem drf noun.state:esteem
+w: prise
+w: prize
+w: respect ant disrespect drf noun.act:respect 3 drf noun.cognition:respect 1 drf noun.person:respecter drf noun.state:respect
+w: value 1 drf adjs.all:valuable drf noun.cognition:value 1
+d: regard highly; think much of
+e: I respect his judgement
+e: We prize his creativity
+fs: 9 8
+hyper: think_the_world_of
+hyper: verb.emotion:admire
+hyper: verb.emotion:fear 1
+hypo: consider
+
+w: etymologise
+w: etymologize drf noun.cognition:etymology drf noun.communication:etymologizing drf noun.communication:etymology
+d: construct the history of words
+fs: 2
+hypo: construct
+mt: noun.cognition:linguistics
+
+w: evaluate 1 drf adjs.all:evaluative
+w: judge drf noun.act:judgment 2 drf noun.cognition:judging drf noun.person:judge 1
+w: pass_judgment
+d: form a critical opinion of
+e: I cannot judge some works of modern art
+e: How do you evaluate this grant proposal?
+e: We shouldn't pass judgment on other people
+fs: 24 26 9 5 8
+hyper: accept
+hyper: anticipate
+hyper: appraise 1
+hyper: approve
+hyper: ascribe
+hyper: assign 3
+hyper: believe 4
+hyper: calculate 3
+hyper: choose 1
+hyper: disapprove
+hyper: grade 3
+hyper: prejudge
+hyper: reappraise
+hyper: reject
+hyper: stand 1
+hyper: verb.communication:adjudge
+hyper: verb.communication:critique
+hyper: verb.communication:disapprove
+hyper: verb.social:essay 1
+hyper: verb.social:fail 7
+hyper: verb.social:pass 7
+hypo: cerebrate
+
+w: except drf noun.cognition:exception
+w: exclude 1 ant include drf adjs.all:exclusive drf noun.cognition:exclusion
+w: leave_off
+w: leave_out 1
+w: omit 1 drf adjs.all:omissible drf noun.act:omission 1
+w: take_out
+d: prevent from being included or considered or accepted
+e: The bad results were excluded from the report
+e: Leave off the top piece
+fs: 10 8
+hyper: elide
+hypo: verb.change:do_away_with
+
+w: excerpt drf noun.communication:excerpt
+w: extract drf noun.communication:extract
+w: take_out 1
+d: take out of a literary work in order to cite or copy
+fs: 8 21
+hypo: choose
+
+w: expect 5 drf noun.cognition:expectation
+d: consider reasonable or due
+e: I'm expecting a full explanation as to why these files were destroyed
+fs: 8
+hypo: consider
+
+w: experience drf noun.cognition:experience
+w: know 4 drf adj.all:knowable
+w: live
+d: have firsthand knowledge of states, situations, emotions, or sensations
+e: I know the feeling!
+e: have you ever known hunger?
+e: I have lived a kind of hell when I was a drug addict
+e: The holocaust survivors have lived a nightmare
+e: I lived through two divorces
+fs: 8
+hyper: live_over
+hyper: taste 5
+hypo: verb.perception:experience 1
+
+w: explode
+d: show a violent emotional reaction
+e: The boss exploded when he heard of the resignation of the secretary
+fs: 2
+hypo: react
+
+w: explode 1
+d: show (a theory or claim) to be baseless, or refute and make obsolete
+fs: 11 8
+hypo: confute
+
+w: explode_a_bombshell
+d: utter or do something surprising
+e: Father exploded a bombshell when he forbade us to go to the prom
+fs: 10 9
+hypo: surprise
+
+w: explore drf adj.all:explorative drf adj.all:exploratory drf noun.cognition:exploration
+w: research drf noun.act:research drf noun.cognition:research drf noun.person:researcher
+w: search drf noun.act:search 2 drf noun.person:searcher
+d: inquire into
+e: the students had to research the history of the Second World War for their history project
+e: He searched for information on his relatives on the web
+e: Scientists are exploring the nature of consciousness
+fs: 8
+hyper: beat_about
+hyper: google
+hyper: mapquest
+hyper: prospect
+hyper: re-explore
+hypo: verb.communication:investigate
+
+w: explore 1 drf adj.all:explorative drf adj.all:exploratory drf noun.act:exploration 2 drf noun.cognition:exploration drf noun.person:explorer
+d: travel to or penetrate into
+e: explore unknown territory in biology
+fs: 8
+hyper: cave
+hyper: map 1
+hyper: pioneer
+hypo: verb.communication:investigate
+
+w: explore 2 drf adj.all:exploratory drf noun.act:exploration drf noun.cognition:exploration
+d: examine minutely
+fs: 8
+hyper: plumb 2
+hypo: diagnose
+vg: explore 3
+
+w: explore 3 drf adj.all:exploratory drf noun.act:exploration
+d: examine (organs) for diagnostic purposes
+fs: 8
+hyper: put_out_feelers
+hypo: diagnose 1
+mt: noun.act:medicine
+vg: explore 2
+
+w: expose 3 drf noun.act:exposure 1
+d: abandon by leaving out in the open air
+e: The infant was exposed by the teenage mother
+e: After Christmas, many pets get abandoned
+fs: 10 9
+hypo: abandon
+
+w: externalise
+w: externalize
+w: project 1
+d: regard as objective
+fs: 8 21
+hypo: ascribe
+mt: noun.cognition:psychological_science
+
+w: extract 2
+d: calculate the root of a number
+fs: 8
+hypo: calculate
+mt: noun.cognition:math
+
+w: extrapolate drf noun.cognition:extrapolation
+w: interpolate drf noun.cognition:interpolation
+d: estimate the value of
+fs: 8
+hypo: calculate
+mt: noun.cognition:math
+
+w: extrapolate 1 drf noun.cognition:extrapolation 1
+d: gain knowledge of (an area not known or experienced) by extrapolating
+fs: 8 26
+hypo: deduce
+mt: noun.cognition:logic 1
+
+w: factor drf noun.cognition:factoring drf noun.cognition:factorisation drf noun.cognition:factorization drf noun.quantity:factor drf noun.quantity:factor 1
+w: factor_in
+w: factor_out
+d: resolve into factors
+e: a quantum computer can factor the number 15
+fs: 8
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: factor 1
+w: factor_in 1
+w: factor_out 1
+d: consider as relevant when making a decision
+e: You must factor in the recent developments
+fs: 8
+hypo: verb.perception:consider
+
+w: factor_analyse
+w: factor_analyze drf noun.cognition:factor_analysis
+d: to perform a factor analysis of correlational data
+fs: 8
+hypo: analyse 4
+
+w: factorise drf noun.cognition:factorisation
+w: factorize drf noun.cognition:factor drf noun.cognition:factorization drf noun.quantity:factor drf noun.quantity:factor 1
+d: resolve (a polynomial) into factors
+fs: 8
+hypo: resolve 3
+
+w: fall_in_line 12
+d: agree on (a position)
+fs: 22
+hypo: align
+
+w: falsify drf noun.act:falsifying drf noun.cognition:falsification drf noun.state:falsity
+d: prove false
+e: Falsify a claim
+fs: 8 11
+hypo: confute
+
+w: fasten_on
+w: hook_on
+w: latch_on 3
+w: seize_on
+w: take_up fs 8
+d: adopt
+e: take up new ideas
+fs: 22
+hypo: adopt 4
+
+w: favor drf noun.attribute:favor drf noun.feeling:favor
+w: favour
+d: consider as the favorite
+e: The local team was favored
+fs: 11 8 9 10
+hypo: consider
+
+w: feel drf noun.cognition:feel drf noun.cognition:feeling 3
+w: find 10
+d: come to believe on the basis of emotion, intuitions, or indefinite grounds
+e: I feel that he doesn't like me
+e: I find him to be obnoxious
+e: I found the movie rather entertaining
+fs: 26
+hypo: conclude
+vg: verb.communication:find 1
+
+w: feel 1 drf noun.feeling:feelings
+d: have a feeling or perception about oneself in reaction to someone's behavior or attitude
+e: She felt small and insignificant
+e: You make me feel naked
+e: I made the students feel different about themselves
+fs: 5 24 20 21
+hypo: believe 4
+
+w: ferret
+w: ferret_out
+d: search and discover through persistent investigation
+e: She ferreted out the truth
+fs: 8 26
+hypo: discover
+
+w: field
+d: select (a team or individual player) for a game
+e: The Buckeyes fielded a young new quarterback for the Rose Bowl
+fs: 9
+hypo: choose
+
+w: figure 2
+d: understand
+e: He didn't figure her
+fs: 8 9
+hypo: apprehend
+mu: noun.communication:colloquialism
+
+w: figure_out
+w: lick
+w: puzzle_out
+w: solve drf noun.act:solution drf noun.act:solving drf noun.communication:solvent drf noun.person:solver
+w: work 13 drf adjs.all:workable
+w: work_out 4
+d: find the solution to (a problem or question) or understand the meaning of
+e: did you solve the problem?
+e: Work out your problems with the boss
+e: this unpleasant situation isn't going to work itself out
+e: did you get it?
+e: Did you get my meaning?
+e: He could not work the math problem
+fs: 8
+entail: reason
+hyper: answer
+hyper: answer 3
+hyper: break 5
+hyper: guess 2
+hyper: riddle
+hyper: strike
+hypo: understand
+
+w: filiate drf noun.relation:filiation
+d: fix the paternity of
+e: The court filiated the child born out of wedlock
+fs: 8
+hypo: determine 1
+mt: noun.group:jurisprudence
+
+w: flip
+w: flip_out
+d: react in an excited, delighted, or surprised way
+e: he flipped when he heard that he was accepted into Princeton University
+fs: 2
+hypo: react
+
+w: float
+d: allow (currencies) to fluctuate
+e: The government floated the ruble for a few months
+fs: 8
+hypo: value 3
+
+w: follow
+w: trace
+d: follow, discover, or ascertain the course of development of something
+e: We must follow closely the economic development is Cuba
+e: trace the student's progress
+e: trace one's ancestry
+fs: 8
+hypo: analyse
+vg: verb.change:follow 1
+vg: verb.social:follow 2
+
+w: follow 14
+d: grasp the meaning
+e: Can you follow her argument?
+e: When he lectures, I cannot follow
+fs: 8 9 2
+hypo: understand
+
+w: foot
+w: foot_up
+d: add a column of numbers
+fs: 8
+hypo: add
+mt: noun.cognition:arithmetic
+
+w: foreordain drf noun.cognition:foreordination
+w: predestine drf noun.event:predestination
+w: preordain drf noun.cognition:preordination
+d: foreordain or determine beforehand
+fs: 29 11 26
+hyper: jinx
+hypo: predetermine
+
+w: foreordain 1 drf noun.cognition:foreordination
+w: predestinate
+w: predestine 1 drf noun.cognition:predestination
+d: foreordain by divine will or decree
+fs: 10 26 9
+hypo: predetermine
+mt: noun.cognition:theological_system
+
+w: forget 2
+w: leave 2
+d: leave behind unintentionally
+e: I forgot my umbrella in the restaurant
+e: I left my keys inside the car and locked the doors
+fs: 9 8 21
+hypo: verb.possession:lose 1
+vg: leave 5
+
+w: forget 3 ant mind
+d: forget to do something
+e: Don't forget to call the chairman of the board to the meeting!
+fs: 28
+hypo: drop
+
+w: format 10 drf noun.communication:format drf noun.communication:formatting
+d: determine the arrangement of (data) for storage and display (in computer science)
+fs: 8
+hypo: determine 1
+
+w: free-associate
+d: associate freely
+e: Let's associate freely to bring up old memories
+fs: 31 17
+hypo: associate
+mt: noun.act:psychotherapy
+
+w: frown_on
+w: frown_upon
+d: look disapprovingly upon
+fs: 8
+hypo: disapprove
+
+w: get 3
+d: reach by calculation
+e: What do you get when you add up these numbers?
+fs: 8
+entail: calculate
+vg: verb.possession:get 14
+
+w: get_one's_lumps
+w: take_one's_lumps
+d: suffer the results or consequences of one's behavior or actions
+fs: 2
+hypo: pay 3
+
+w: get_the_goods
+d: discover some bad or hidden information about
+e: She got the goods on her co-worker after reading his e-mail
+fs: 22
+hypo: discover 1
+
+w: get_the_hang fs 2 22
+w: master 1 drf noun.cognition:mastering drf noun.cognition:mastery drf noun.person:master
+d: be or become completely proficient or skilled in
+e: She mastered Japanese in less than two years
+fs: 8
+entail: acquire
+entail: drill
+hypo: know 3
+
+w: give
+d: estimate the duration or outcome of something
+e: He gave the patient three months to live
+e: I gave him a very good chance at success
+fs: 14
+hypo: approximate
+
+w: glamorize 1
+w: glamourise 1
+w: romanticise drf noun.act:romanticisation
+w: romanticize drf noun.act:romanticization
+d: interpret romantically
+e: Don't romanticize this uninteresting and hard work!
+fs: 9 8
+hypo: idealise
+
+w: go 12
+w: plump 12
+d: give support (to) or make a choice (of) one out of a group or number
+e: I plumped for the losing candidates
+fs: 8 9
+hypo: choose
+
+w: go_for
+w: hope drf noun.person:hoper
+d: intend with some possibility of fulfilment
+e: I hope to have finished this work by tomorrow evening
+fs: 8 33
+hypo: be_after
+
+w: go_over
+w: review 2 drf noun.act:review 2
+w: survey 3 drf noun.act:survey 2
+d: hold a review (of troops)
+fs: 9 8
+hypo: verb.perception:inspect
+
+w: google drf noun.communication:Google
+d: search the internet (for information) using the Google search engine
+e: He googled the woman he had met at the party
+e: My children are googling all day
+fs: 2 8 9
+hypo: explore
+mt: noun.cognition:computer_science
+
+w: grab
+w: seize
+d: capture the attention or imagination of
+e: This story will grab you
+e: The movie seized my imagination
+fs: 10 11
+hypo: verb.stative:fascinate
+
+w: grade drf noun.act:gradation drf noun.act:grading 1 drf noun.cognition:grade drf noun.state:gradation
+d: determine the grade of or assign a grade to
+fs: 8
+hypo: assort
+
+w: grade 3 drf noun.act:gradation drf noun.act:grading drf noun.cognition:grade drf noun.person:grader drf noun.state:gradation drf noun.state:grade
+w: order drf noun.act:ordering drf noun.attribute:order 1
+w: place 1 drf noun.communication:place 2
+w: range
+w: rank drf noun.state:rank
+w: rate
+d: assign a rank or rating to
+e: how would you rank these students?
+e: The restaurant is rated highly in the food guide
+fs: 9 8
+hyper: downgrade
+hyper: prioritise
+hyper: reorder
+hyper: seed
+hyper: sequence
+hyper: shortlist
+hyper: subordinate
+hyper: superordinate
+hyper: upgrade
+hypo: evaluate 1
+
+w: grade 5 drf noun.act:gradation drf noun.act:grading 1 drf noun.person:grader
+w: mark drf noun.act:marking
+w: score 5 drf noun.act:scoring drf noun.cognition:score drf noun.person:scorer 2
+d: assign a grade or rank to, according to one's evaluation
+e: grade tests
+e: score the SAT essays
+e: mark homework
+fs: 2 8
+hypo: appraise 1
+
+w: greet
+d: react to in a certain way
+e: The President was greeted with catcalls
+fs: 17 5 20 21
+hypo: react
+
+w: group drf noun.Tops:group drf noun.act:grouping
+d: arrange into a group or groups
+e: Can you group these shapes together?
+fs: 8 9
+hyper: bracket
+hyper: chunk 13
+hyper: regroup
+hyper: verb.contact:batch
+hypo: assort
+
+w: guess drf noun.cognition:guess drf noun.communication:guess drf noun.person:guesser
+w: imagine 1
+w: opine 2 drf noun.cognition:opinion
+w: reckon 2
+w: suppose drf noun.cognition:supposal 1 drf noun.cognition:supposition 1
+w: think 3 drf noun.cognition:thought 1 drf noun.cognition:thought 3
+d: expect, believe, or suppose
+e: I imagine she earned a lot of money with her new novel
+e: I thought to find her in a bad state
+e: he didn't think to find her in the kitchen
+e: I guess she is angry at me for standing her up
+fs: 26 24
+hyper: verb.communication:suspect 2
+hypo: anticipate
+
+w: guess 2 drf noun.person:guesser
+w: infer 2
+d: guess correctly; solve by guessing
+e: He guessed the right number of beans in the jar and won the prize
+fs: 26 8
+hyper: tell
+hypo: figure_out
+
+w: halve
+d: divide by two; divide into halves
+e: Halve the cake
+fs: 11 8
+hypo: divide
+mt: noun.cognition:arithmetic
+
+w: hand-pick
+d: pick personally and very carefully
+e: the director hand-picked his new team
+fs: 8 9
+hypo: pick
+
+w: have_down
+d: have (something) mastered
+e: She has the names of the fifty states down pat
+fs: 8
+hypo: know 15
+
+w: have_in_mind 1
+w: mean 1
+w: think_of 2
+d: intend to refer to
+e: I'm thinking of good food when I talk about France
+e: Yes, I meant you when I complained about people who gossip!
+fs: 9 8
+hyper: verb.communication:advert 12
+hypo: associate
+
+w: have_the_distinction drf noun.attribute:distinction
+d: be distinguished from others of a similar type by virtue of a notable characteristic
+e: it has the distinction of being the cheapest restaurant in town
+fs: 8
+hypo: differentiate 1
+
+w: hit_the_books
+w: study 1 drf noun.cognition:study 3 drf noun.communication:studying 1
+d: learn by reading books
+e: He is studying geology in his room
+e: I have an exam next week; I must hit the books now
+fs: 8 2
+entail: read
+hyper: bone
+hyper: con
+hypo: acquire
+
+w: hold 4 drf noun.attribute:hold
+d: hold the attention of
+e: The soprano held the audience
+e: This story held our interest
+e: She can hold an audience spellbound
+fs: 11 9
+hypo: verb.emotion:becharm
+
+w: hold 8
+d: assert or affirm
+e: Rousseau's philosophy holds that people are inherently good
+fs: 26
+hypo: verb.communication:affirm
+vg: deem
+
+w: hold 10 fs 22
+d: remain committed to
+e: I hold to these ideas
+fs: 8
+hypo: believe 4
+
+w: hold_still_for
+w: stand_for
+d: tolerate or bear
+e: I won't stand for this kind of behavior!
+fs: 8
+hypo: abide
+
+w: house-train
+w: housebreak
+d: train (a pet) to live cleanly in a house
+fs: 8
+hypo: develop
+
+w: hypostatise drf noun.act:hypostatisation
+w: hypostatize drf noun.act:hypostatization drf noun.cognition:hypostasis
+d: construe as a real existence, of a conceptual entity
+fs: 8
+hypo: reify
+
+w: idealise drf noun.cognition:ideal drf noun.process:idealisation
+w: idealize drf noun.act:idealization drf noun.cognition:ideal
+d: consider or render as ideal
+e: She idealized her husband after his death
+fs: 9 8
+hyper: deify
+hyper: glamorize 1
+hypo: consider
+
+w: idealise 1 drf noun.cognition:ideal
+w: idealize 1 drf noun.cognition:ideal
+d: form ideals
+e: Man has always idealized
+fs: 2
+hypo: verb.creation:concoct
+
+w: identify drf adj.all:identifiable drf noun.attribute:identity drf noun.cognition:identification drf noun.cognition:identity drf noun.state:identification
+w: place
+d: recognize as being; establish the identity of someone or something
+e: She identified the man on the `wanted' poster
+fs: 9 8
+hyper: differentiate 1
+hypo: determine 1
+
+w: identify 2 drf noun.attribute:identity 2
+d: consider to be equal or the same
+e: He identified his brother as one of the fugitives
+fs: 8 9
+hyper: misidentify
+hyper: type
+hyper: verb.perception:taste 1
+hypo: recognise
+
+w: identify 3 drf noun.act:identification
+d: conceive of as united or associated
+e: Sex activity is closely identified with the hypothalamus
+fs: 17 31
+hypo: associate
+
+w: identify 4 drf noun.attribute:identification drf noun.attribute:identity 2
+d: consider (oneself) as similar to somebody else
+e: He identified with the refugees
+fs: 2 17 22
+hypo: consider
+
+w: ignore 1 ant know 1 drf noun.cognition:ignorance
+d: be ignorant of or in the dark about
+fs: 26 8
+
+w: imbibe
+d: receive into the mind and retain
+e: Imbibe ethical principles
+fs: 8
+hypo: absorb
+
+w: immerse 1 drf noun.act:immersion 1
+w: plunge 1
+d: cause to be immersed
+e: The professor plunged his students into the study of the Italian text
+fs: 9
+cause: absorb 6
+vg: absorb 6
+
+w: implant
+w: plant
+d: put firmly in the mind
+e: Plant a thought in the students' minds
+fs: 21
+hypo: verb.communication:communicate 1
+
+w: impress drf adjs.all:impressive
+w: ingrain
+w: instill drf noun.act:instilling
+d: produce or try to produce a vivid impression of
+e: Mother tried to ingrain respect for our elders in us
+fs: 21
+hypo: verb.emotion:affect
+
+w: impute 1 drf noun.communication:imputation
+d: attribute (responsibility or fault) to a cause or source
+e: The teacher imputed the student's failure to his nervousness
+fs: 15 21
+hypo: ascribe
+vg: ascribe
+
+w: include ant exclude 1 drf adj.all:inclusive drf noun.act:inclusion
+d: consider as part of something
+e: I include you in the list of culprits
+fs: 8
+hyper: carry 12
+hyper: colligate
+hyper: count
+hypo: consider
+
+w: inculcate drf noun.act:inculcation
+w: infuse
+w: instill 1 drf noun.act:instilling
+d: teach and impress by frequent repetitions or admonitions
+e: inculcate values into the young generation
+fs: 8 21
+hyper: din
+hypo: drill 1
+
+w: index drf noun.act:indexation drf noun.relation:index
+d: adjust through indexation
+e: The government indexes wages and prices
+fs: 8
+hypo: determine 2
+
+w: individualise drf noun.cognition:individualisation
+w: individualize drf noun.cognition:individualization drf noun.person:individual
+d: make or mark or treat as individual
+e: The sounds were individualized by sharpness and tone
+fs: 8
+hypo: differentiate 1
+
+w: indoctrinate drf noun.act:indoctrination drf noun.cognition:doctrine
+d: teach doctrines to; teach uncritically
+e: The Moonies indoctrinate their disciples
+fs: 9
+hyper: brainwash
+hyper: inspire
+hypo: verb.communication:instruct
+
+w: induce drf noun.cognition:induction
+d: reason or establish by induction
+fs: 26
+hypo: conclude
+mt: noun.cognition:logic 1
+
+w: infect 1 drf noun.communication:infection
+d: affect in a contagious way
+e: His laughter infects everyone who is in the same room
+fs: 10 9
+hypo: verb.emotion:affect
+
+w: infer 1
+w: understand 2
+d: believe to be the case
+e: I understand you have no previous experience?
+fs: 26
+hypo: believe
+
+w: initialise
+w: initialize drf noun.communication:initialization
+d: assign an initial value to a computer program
+fs: 8
+hypo: determine 1
+
+w: inspire drf noun.person:inspirer
+w: revolutionise drf noun.event:revolution 1
+w: revolutionize drf noun.event:revolution 1
+d: fill with revolutionary ideas
+fs: 10 9
+hypo: indoctrinate
+
+w: integrate fs 2 ant differentiate drf noun.act:integration 3 drf noun.artifact:integrator drf noun.cognition:integral
+d: calculate the integral of; calculate by integration
+fs: 8
+hypo: calculate
+mt: noun.cognition:math
+
+w: intend drf noun.act:intention drf noun.cognition:intent
+w: mean
+w: think 6
+d: have in mind as a purpose
+e: I mean no harm
+e: I only meant to help you
+e: She didn't think to harm me
+e: We thought to return early that night
+fs: 28 8
+hyper: aim 1
+hyper: be_after
+hyper: design 6
+
+w: interiorise
+w: interiorize drf noun.location:interior 1
+w: internalise drf noun.cognition:internalisation
+w: internalize drf noun.cognition:internalization
+d: incorporate within oneself; make subjective or personal
+e: internalize a belief
+fs: 21 8
+hypo: ascribe
+mt: noun.cognition:psychological_science
+
+w: interpret 2
+w: read 4
+w: translate
+w: understand 3 drf adjs.all:understandable
+d: make sense of a language
+e: She understands French
+e: Can you read Greek?
+fs: 8 26 9
+hypo: understand
+
+w: interrelate drf noun.relation:interrelation
+d: place into a mutual relationship
+e: I cannot interrelate these two events
+fs: 8
+hypo: associate
+vg: verb.stative:interrelate
+
+w: introduce
+d: put before (a body)
+e: introduce legislation
+fs: 8
+hypo: project
+
+w: introspect drf adj.all:introspective drf noun.cognition:introspection
+d: reflect on one's own thoughts and feelings
+fs: 2
+hypo: chew_over
+
+w: intuit drf adjs.all:intuitive drf noun.cognition:intuition drf noun.cognition:intuition 1
+d: know or grasp by intuition or feeling
+fs: 26 8
+hypo: apprehend
+
+w: invalidate ant validate
+w: nullify
+d: show to be invalid
+fs: 8 11
+hypo: contradict
+
+w: involve drf noun.cognition:involvement
+d: occupy or engage the interest of
+e: His story completely involved me during the entire afternoon
+fs: 10
+hypo: absorb 3
+
+w: isolate 5 drf adjs.all:isolable drf noun.process:isolation
+d: separate (experiences) from the emotions relating to them
+fs: 8
+hypo: assort
+mt: noun.cognition:psychological_science
+
+w: jilt drf noun.person:jilt
+d: cast aside capriciously or unfeelingly
+e: jilt a lover or a bride
+fs: 9
+hypo: leave 5
+
+w: jinx drf noun.person:jinx
+d: foredoom to failure
+e: This project is jinxed!
+fs: 10
+hypo: foreordain
+
+w: judge 2 drf noun.act:judgment 2 drf noun.person:judge 1
+d: determine the result of (a competition)
+fs: 8
+hyper: verb.competition:referee
+hypo: adjudicate
+
+w: jump
+w: pass_over
+w: skip 1
+w: skip_over
+d: bypass
+e: He skipped a row in the text and so the sentence was incomprehensible
+fs: 8
+hypo: drop
+
+w: keep
+w: maintain
+w: observe drf noun.act:observation drf noun.act:observation 1 drf noun.cognition:observation drf noun.cognition:observation 2 drf noun.communication:observation
+d: stick to correctly or closely
+e: The pianist kept time with the metronome
+e: keep count
+e: I cannot keep track of all my employees
+fs: 8
+
+w: keep_note
+d: maintain in the forefront of one's awareness
+e: He kept note of the location of the soldiers
+fs: 22
+hypo: remember 1
+
+w: keep_track ant lose_track
+d: keep informed of fully aware
+e: I keep track of the stock market developments
+fs: 2 22
+hypo: cognise
+
+w: know
+d: be familiar or acquainted with a person or an object
+e: She doesn't know this composer
+e: Do you know my sister?
+e: We know this movie
+e: I know him under a different name
+e: This flower is known as a Peruvian Lily
+fs: 9 8
+vg: know 14
+
+w: know 2 drf adj.all:knowable
+d: be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt
+e: I know that I left the key on the table
+e: Galileo knew that the earth moves around the sun
+fs: 26 8
+hyper: anticipate 1
+vg: cognise
+
+w: know 3
+d: know how to do or perform something
+e: She knows how to knit
+e: Does your husband know how to cook?
+fs: 28
+hyper: be_on_the_ball
+hyper: control
+hyper: get_the_hang
+
+w: know 11
+d: know the nature or character of
+e: we all knew her as a big show-off
+fs: 9 8
+hypo: agnise
+
+w: know 12 drf adj.all:knowable
+d: be able to distinguish, recognize as being different
+e: The child knows right from wrong
+fs: 8
+hypo: differentiate 1
+
+w: know 14
+d: perceive as familiar
+e: I know this voice!
+fs: 9 8
+hypo: call_back
+vg: know
+
+w: know 15 drf adj.all:knowable
+d: have fixed in the mind
+e: I know Latin
+e: This student knows her irregular verbs
+e: Do you know the poem well enough to recite it?
+fs: 8
+hyper: have_down
+
+w: label drf noun.substance:label
+d: distinguish (an element or atom) by using a radioactive isotope or an isotope of unusual mass for tracing through chemical reactions
+fs: 8
+hypo: differentiate 1
+
+w: label 1 drf noun.substance:label
+d: distinguish (as a compound or molecule) by introducing a labeled atom
+fs: 8
+hypo: differentiate 1
+
+w: lay_out drf noun.act:layout
+d: provide a detailed plan or design
+e: She laid out her plans for the new house
+fs: 8
+hyper: block_out
+hyper: loft
+hypo: plan
+
+w: lean 10
+d: rely on for support
+e: We can lean on this man
+fs: 9 10
+hypo: trust
+
+w: learn 2
+w: read 5
+w: study drf noun.cognition:study 2 drf noun.cognition:study 3 drf noun.communication:studying 1
+w: take 2
+d: be a student of a certain subject
+e: She is reading for the bar exam
+fs: 8
+hyper: audit
+hyper: drill
+hyper: prepare
+
+w: leave 5 drf noun.act:leave
+d: go and leave behind, either intentionally or by neglect or forgetfulness
+e: She left a mess when she moved out
+e: His good luck finally left him
+e: her husband left her after 20 years of marriage
+e: she wept thinking she had been left behind
+fs: 10 9 8
+hyper: abandon
+hyper: jilt
+vg: forget 2
+
+w: lie_low
+d: to try to avoid detection especially by police
+e: After we knock off that liquor store we'll have to lay low for a while
+fs: 2
+hypo: verb.perception:hide 1
+
+w: like
+d: feel about or towards; consider, evaluate, or regard
+e: How did you like the President's speech last night?
+fs: 8
+hypo: consider
+
+w: lip-read
+w: lipread drf noun.act:lipreading
+w: speech-read
+d: interpret by lipreading; of deaf people
+fs: 8 2
+hypo: read
+
+w: literalise
+w: literalize ant spiritualize
+d: make literal
+e: literalize metaphors
+fs: 8
+hypo: construe
+
+w: live_over
+w: relive drf noun.cognition:reliving
+d: experience again, often in the imagination
+e: He relived the horrors of war
+fs: 8
+hypo: experience
+
+w: loft
+d: lay out a full-scale working drawing of the lines of a vessel's hull
+fs: 2
+hypo: lay_out
+
+w: look_back
+w: retrospect drf adj.all:retrospective drf noun.cognition:retrospect drf noun.cognition:retrospection drf noun.communication:retrospection
+w: review 1 drf noun.communication:review
+d: look back upon (a period of time, sequence of events); remember
+e: she reviewed her achievements with pride
+fs: 8
+hypo: remember 2
+
+w: look_forward
+d: expect or hope for
+e: I look to hear from you soon
+fs: 22
+hypo: await
+
+w: look_to 1
+d: turn one's interests or expectations towards
+e: look to the future
+e: this method looks to significant wavings
+fs: 11 8 9
+hypo: await
+
+w: lose_track ant keep_track
+d: fail to keep informed or aware
+e: She has so many books, she just lost track and cannot find this volume
+fs: 2 22
+hypo: verb.social:fail 2
+
+w: lowball
+w: underestimate drf noun.cognition:underestimate drf noun.cognition:underestimation
+d: make a deliberately low estimate
+e: The construction company wanted the contract badly and lowballed
+fs: 8
+hypo: approximate
+
+w: major 9 drf noun.cognition:major drf noun.person:major 1
+d: have as one's principal field of study
+e: She is majoring in linguistics
+fs: 22
+hypo: study 3
+
+w: make 10
+d: consider as being
+e: It wasn't the problem some people made it
+fs: 5
+hypo: consider
+vg: make 12
+
+w: make 12
+d: calculate as being
+e: I make the height about 100 feet
+fs: 5
+hypo: approximate
+vg: draw
+vg: make 10
+
+w: make_out
+d: comprehend
+e: I cannot make out what this politician is saying
+fs: 8
+hypo: understand
+
+w: map 1 drf noun.artifact:map
+d: explore or survey for the purpose of making a map
+e: We haven't even begun to map the many galaxies that we know exist
+fs: 8
+hypo: explore 1
+
+w: mapquest drf noun.communication:MapQuest
+d: search for a location and directions by means of the MapQuest program
+e: you can just mapquest the restaurant
+fs: 8
+hypo: explore
+mt: noun.cognition:computer_science
+
+w: mean 5
+d: destine or designate for a certain purpose
+e: These flowers were meant for you
+fs: 21
+hypo: designate
+
+w: measure drf adj.all:measurable drf noun.Tops:measure drf noun.act:measure drf noun.act:measurement drf noun.act:measuring drf noun.artifact:measure drf noun.person:measurer
+w: measure_out
+w: mensurate drf noun.act:mensuration
+d: determine the measurements of something or somebody, take measurements of
+e: Measure the length of the wall
+fs: 8
+hyper: calibrate 2
+hyper: caliper
+hyper: shoot
+hyper: triangulate 1
+hypo: decide
+
+w: mind 2 drf noun.cognition:mind 3 drf noun.cognition:mind 6
+d: be concerned with or about something or somebody
+fs: 8 9
+hyper: verb.emotion:care 12
+hypo: think_about 5
+
+w: minor
+d: have as one's secondary field of study
+e: in collee she minored in mathematics
+fs: 22
+hypo: study 3
+
+w: misbelieve drf noun.person:misbeliever
+d: hold a false or unorthodox belief
+fs: 2
+hypo: believe 1
+mt: noun.cognition:faith
+
+w: miscalculate drf noun.act:miscalculation
+w: misestimate drf noun.act:misestimation
+d: calculate incorrectly
+e: I miscalculated the number of guests at the wedding
+fs: 2
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: miscalculate 1 drf noun.act:miscalculation
+w: misestimate 1
+d: judge incorrectly
+e: I had misestimated his determination
+fs: 8 2
+hypo: misjudge
+
+w: miscreate drf noun.event:miscreation
+d: shape or form or make badly
+e: Our miscreated fantasies
+fs: 8 11
+hypo: determine 2
+
+w: misdate drf noun.time:misdating
+d: assign the wrong date to
+fs: 8
+hypo: date
+
+w: misgauge
+d: gauge something incorrectly or improperly
+fs: 8
+hypo: approximate
+
+w: misgive drf noun.cognition:misgiving 2 drf noun.feeling:misgiving
+d: suggest fear or doubt
+e: Her heart misgave her that she had acted inexcusably
+fs: 10
+hypo: verb.emotion:vex 2
+
+w: misidentify
+w: mistake 2 drf noun.communication:mistaking
+d: identify incorrectly
+e: Don't mistake her for her twin sister
+fs: 9 8
+hyper: confound 1
+hypo: identify 2
+
+w: misinterpret 1 drf noun.communication:misinterpretation
+w: misread drf noun.communication:misreading
+d: interpret wrongly
+e: I misread Hamlet all my life!
+fs: 8
+hypo: read 9
+
+w: misjudge
+d: judge incorrectly
+fs: 9 8
+hyper: miscalculate 1
+hyper: overestimate
+hyper: underestimate 1
+hypo: err
+
+w: misread 2 drf noun.communication:misreading
+d: read or interpret wrongly
+e: He misread the data
+fs: 8
+hypo: read 6
+
+w: misremember
+d: remember incorrectly
+e: I misremembered the date
+fs: 8 9
+entail: remember 2
+hypo: err
+
+w: mix_up
+w: stump drf noun.communication:stumper
+d: cause to be perplexed or confounded
+e: This problem stumped her
+fs: 10
+hypo: amaze 1
+
+w: monumentalise
+w: monumentalize
+d: record or memorialize lastingly with a monument
+fs: 9 10 11 8
+hypo: commemorate 1
+
+w: muddy
+d: cause to become muddy
+e: These data would have muddied the prediction
+fs: 11
+hypo: blur
+
+w: multiply ant divide drf adjs.all:multiplicative drf noun.act:multiplication drf noun.quantity:multiplier
+d: combine by multiplication
+e: multiply 10 by 15
+fs: 8
+hyper: cube
+hyper: raise
+hyper: square
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: mythicise
+w: mythicize
+d: interpret as a myth or in terms of mythology
+e: mythicize the ancient stories
+fs: 8
+hypo: construe
+
+w: nag
+d: remind or urge constantly
+e: she nagged to take a vacation
+fs: 9 24
+hypo: remind
+
+w: nail_down
+w: narrow
+w: narrow_down
+w: peg_down
+w: pin_down
+w: specify 2 drf noun.person:specifier
+d: define clearly
+e: I cannot narrow down the rules for this game
+fs: 8 21
+hyper: concretize
+hypo: determine 3
+
+w: neglect 5 drf adj.all:negligent drf noun.act:neglect 2 drf noun.attribute:neglect drf noun.cognition:neglect drf noun.person:neglecter
+d: fail to attend to
+e: he neglects his children
+fs: 8 9
+hyper: slack
+
+w: numerate drf noun.communication:numeration 1
+d: read out loud as words written numbers
+fs: 8
+hypo: read 1
+
+w: offer drf noun.communication:offering
+d: put forward for consideration
+e: He offered his opinion
+fs: 8
+hypo: project
+
+w: outclass
+d: cause to appear in a lower class
+e: The Yankees outclassed Cincinnati
+fs: 8 9
+hypo: subordinate
+mt: noun.act:athletics
+
+w: overcapitalise
+w: overcapitalize
+d: overestimate the market value of
+e: overcapitalize a property
+fs: 8 11
+hypo: overestimate
+
+w: overcapitalise 1
+w: overcapitalize 1
+d: estimate the capital value of (a company) at an unreasonably or unlawfully high level
+fs: 8
+hypo: capitalise 1
+
+w: overestimate ant underestimate 1 drf noun.cognition:overestimation drf noun.communication:overestimate drf noun.communication:overestimation
+w: overrate drf noun.cognition:overrating
+d: make too high an estimate of
+e: He overestimated his own powers
+fs: 9 8
+hyper: overcapitalise
+hypo: misjudge
+
+w: overestimate 2 ant underestimate 2 drf noun.cognition:overestimate drf noun.communication:overestimate drf noun.communication:overestimation
+w: overvalue ant undervalue drf noun.cognition:overvaluation drf noun.communication:overvaluation
+d: assign too high a value to
+e: You are overestimating the value of your old car
+fs: 8
+hypo: value 3
+
+w: overreact drf noun.act:overreaction
+d: show an exaggerated response to something
+e: Don't overreact to the bad news--take it easy
+fs: 2 12 22
+hypo: react
+
+w: override
+w: overrule
+w: overthrow
+w: overturn
+w: reverse drf noun.act:reversal 6
+d: rule against
+e: The Republicans were overruled when the House voted on the bill
+fs: 8 11
+hypo: decree
+
+w: overrun 3
+d: run beyond or past
+e: The plane overran the runway
+fs: 1 11
+hypo: overshoot
+
+w: overshoot drf noun.act:overshoot
+d: aim too high
+e: The plan overshoots its aim
+fs: 8
+hyper: overrun 3
+hypo: aim
+
+w: pace drf noun.animal:pacer 2 drf noun.attribute:pace 1 drf noun.time:pace 1
+d: regulate or set the pace of
+e: Pace your efforts
+fs: 9 8
+hypo: determine 2
+
+w: parse
+d: analyze syntactically by assigning a constituent structure to (a sentence)
+fs: 8
+hypo: analyse 1
+mt: noun.cognition:grammar
+
+w: pay 3 drf noun.person:payer
+d: bear (a cost or penalty), in recompense for some action
+e: You'll pay for this!
+e: She had to pay the penalty for speaking out rashly
+e: You'll pay for this opinion later
+fs: 22 8
+hyper: get_one's_lumps
+hypo: abide
+
+w: perceive drf adj.all:perceptible drf adj.all:perceptive drf adjs.all:percipient drf noun.cognition:perception
+d: become conscious of
+e: She finally perceived the futility of her protest
+fs: 8 26
+hyper: sense 3
+hypo: realise
+
+w: personate
+w: personify drf noun.Tops:person drf noun.act:personification drf noun.body:person
+d: attribute human qualities to something
+e: The Greeks personated their gods ridiculous
+fs: 8
+hypo: ascribe
+
+w: philosophise drf noun.cognition:philosophy drf noun.person:philosophiser
+w: philosophize drf noun.cognition:philosophy drf noun.communication:philosophizing drf noun.person:philosophizer
+d: reason philosophically
+fs: 2
+hypo: cerebrate
+
+w: pick drf noun.act:pick drf noun.cognition:pick drf noun.group:pick drf noun.person:picker 1
+d: select carefully from a group
+e: She finally picked her successor
+e: He picked his way carefully
+fs: 9 8 22
+hyper: hand-pick
+hypo: choose
+
+w: pick_over
+w: sieve_out
+d: separate or remove
+e: The customer picked over the selection
+fs: 8
+hypo: choose
+
+w: pigeonhole drf noun.cognition:pigeonhole drf noun.cognition:pigeonholing
+w: stamp drf noun.group:stamp
+w: stereotype drf noun.cognition:stereotype
+d: treat or classify according to a mental stereotype
+e: I was stereotyped as a lazy Southern European
+fs: 9 8 20 21
+hypo: assort
+
+w: pioneer drf noun.person:pioneer
+d: open up and explore a new area
+e: pioneer space
+fs: 8
+hypo: explore 1
+
+w: place 13
+w: put 13
+w: set 13
+d: estimate
+e: We put the time of arrival at 8 P.M.
+fs: 8
+hypo: approximate
+
+w: plan drf noun.act:planning drf noun.artifact:planner drf noun.cognition:plan drf noun.cognition:plan 1 drf noun.person:planner
+d: make plans for something
+e: He is planning a trip with his family
+fs: 8 33
+hyper: chart
+hyper: compose
+hyper: designate
+hyper: direct
+hyper: lay_out
+hyper: plot
+hyper: project
+hyper: schedule
+hyper: scheme 1
+hyper: verb.communication:schedule
+hypo: cerebrate
+
+w: plat
+w: plot 1 drf noun.communication:plot 1
+d: make a plat of
+e: Plat the town
+fs: 8
+hypo: verb.creation:map
+
+w: plot drf noun.cognition:plot drf noun.person:plotter 1
+d: plan secretly, usually something illegal
+e: They plotted the overthrow of the government
+fs: 8 2
+hyper: cabal
+hyper: connive
+hyper: counterplot
+hypo: plan
+
+w: plumb drf noun.act:plumbing
+d: measure the depth of something
+fs: 8
+hypo: verb.change:measure
+
+w: plumb 2
+d: examine thoroughly and in great depth
+fs: 8
+hypo: explore 2
+
+w: posit drf noun.act:position 4 drf noun.communication:posit
+w: postulate drf noun.communication:postulate drf noun.communication:postulation drf noun.person:postulator
+d: take as a given; assume as a postulate or axiom
+e: He posited three basic laws of nature
+fs: 8 26 11
+hyper: assert
+hypo: presuppose 1
+
+w: predetermine drf noun.act:predetermination drf noun.cognition:predetermination drf noun.cognition:predetermination 1
+d: determine beforehand
+fs: 11 29 26
+hyper: foreordain
+hyper: foreordain 1
+hypo: determine 2
+
+w: predispose drf noun.cognition:predisposition
+d: make susceptible
+e: This illness predisposes you to gain weight
+fs: 10
+hypo: dispose
+
+w: prejudge drf noun.cognition:prejudgement
+d: judge beforehand, especially without sufficient evidence
+fs: 9 8
+hypo: evaluate 1
+
+w: prejudice drf noun.cognition:prejudice 1
+w: prepossess drf noun.cognition:prepossession
+d: influence (somebody's) opinion in advance
+fs: 10 9
+hyper: bias
+hyper: verb.competition:bias
+hypo: verb.social:act_upon
+
+w: premeditate drf noun.cognition:premeditation drf noun.cognition:premeditation 1
+d: consider, ponder, or plan (an action) beforehand
+e: premeditated murder
+fs: 8
+hypo: verb.communication:consider 2
+
+w: premeditate 1
+d: think or reflect beforehand or in advance
+e: I rarely premeditate, which is a mistake
+fs: 2
+hypo: chew_over
+
+w: premise drf noun.communication:premise
+w: premiss drf noun.communication:premiss
+d: take something as preexisting and given
+fs: 8
+hypo: presuppose 1
+
+w: prepare drf adjs.all:preparatory drf noun.act:preparation 1
+w: train drf noun.person:trainee
+d: undergo training or instruction in preparation for a particular role, function, or profession
+e: She is training to be a teacher
+e: He trained as a legal aid
+fs: 27
+hyper: apprentice
+hyper: drill 4
+hyper: retrain
+hypo: learn 2
+vg: develop
+vg: verb.social:groom
+
+w: presuppose
+w: suppose 5
+d: require as a necessary antecedent or precondition
+e: This step presupposes two prior ones
+fs: 11
+hypo: verb.communication:imply 1
+mt: noun.cognition:logic
+
+w: presuppose 1 drf noun.cognition:presupposition
+w: suppose 6
+d: take for granted or as a given; suppose beforehand
+e: I presuppose that you have done your work
+fs: 26
+hyper: posit
+hyper: premise
+hypo: assume
+
+w: pretermit 1 drf noun.cognition:pretermission
+d: disregard intentionally or let pass
+fs: 8
+hypo: disregard
+
+w: price drf noun.cognition:pricing drf noun.possession:price
+d: ascertain or learn the price of
+e: Have you priced personal computers lately?
+fs: 8
+hypo: ascertain 1
+
+w: prioritise
+w: prioritize drf noun.attribute:priority drf noun.state:priority
+d: assign a priority to
+e: we have too many things to do and must prioritize
+fs: 8
+hypo: grade 3
+
+w: process drf noun.artifact:processor
+d: perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information
+e: The results of the elections were still being processed when he gave his acceptance speech
+fs: 8
+hypo: calculate
+
+w: project
+w: propose drf noun.communication:proposition 1 drf noun.person:proposer
+d: present for consideration, examination, criticism, etc.
+e: He proposed a new plan for dealing with terrorism
+e: She proposed a new theory of relativity
+e: The candidate projects himself as a moderate and a reformer
+fs: 8 28 33
+hyper: introduce
+hyper: offer
+hypo: plan
+
+w: proof drf noun.communication:proof 1
+w: proofread drf noun.person:proofreader
+d: read for errors
+e: I should proofread my manuscripts
+fs: 8 2
+entail: read
+hypo: ascertain
+
+w: prorate drf noun.act:proration
+d: divide or assess proportionally
+e: The rent was prorated for the rest of the month
+fs: 8
+hypo: calculate
+vg: prorate 1
+
+w: prorate 1 drf noun.act:proration
+d: make a proportional settlement or distribution
+fs: 2
+hypo: verb.possession:settle
+vg: prorate
+
+w: prospect drf noun.person:prospector
+d: explore for useful or valuable things or substances, such as minerals
+fs: 2
+hypo: explore
+
+w: prove 1
+d: obtain probate of
+e: prove a will
+fs: 8
+hypo: authenticate
+mt: noun.group:jurisprudence
+
+w: prove 2
+d: prove formally; demonstrate by a mathematical, formal proof
+fs: 8
+hypo: demonstrate
+mt: noun.cognition:math
+
+w: prove_oneself
+d: show one's ability or courage
+fs: 2
+hypo: demonstrate
+
+w: purpose drf noun.attribute:purpose 1
+w: resolve 2 drf noun.act:resolution drf noun.communication:resolve
+d: reach a decision
+e: he resolved never to drink again
+fs: 26 28
+hypo: decide
+
+w: put_out_feelers
+d: make some preliminary investigations or test the waters
+fs: 2 1
+hypo: explore 3
+
+w: puzzle_over
+d: try to solve
+fs: 8
+hypo: cerebrate
+
+w: quantise drf noun.act:quantisation
+w: quantize drf noun.act:quantization
+d: apply quantum theory to; restrict the number of possible values of (a quantity) or states of (a physical entity or system) so that certain variables can assume only certain discrete magnitudes that are integral multiples of a common factor
+e: Quantize gravity
+fs: 8
+hypo: calculate
+mt: noun.cognition:natural_philosophy
+
+w: quantise 1
+w: quantize 1 drf noun.act:quantization
+d: approximate (a signal varying continuously in amplitude) by one whose amplitude is restricted to a prescribed set of discrete values
+fs: 8
+hypo: approximate
+mt: noun.cognition:telecommunication
+
+w: quarter drf noun.act:quartering
+d: divide by four; divide into quarters
+fs: 8 11
+hypo: divide
+mt: noun.cognition:arithmetic
+
+w: raise
+d: multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3
+fs: 8
+hypo: multiply
+mt: noun.cognition:arithmetic
+
+w: rake_up
+d: bring to light
+e: He raked up the misdeeds of his predecessor
+fs: 26 8
+hypo: discover
+
+w: rank 13 drf noun.person:ranker drf noun.person:ranker 1 drf noun.state:rank drf noun.state:ranking
+d: take or have a position relative to others
+e: This painting ranks among the best in the Western World
+fs: 11 8
+hyper: come 13
+hyper: come_in
+hypo: verb.stative:be 3
+
+w: rate 1 drf noun.act:rating drf noun.cognition:rating
+w: value 2
+d: estimate the value of
+e: How would you rate his chances to become President?
+e: Gold was rated highly among the Romans
+fs: 8
+hyper: verb.change:revalue 1
+hypo: appraise 1
+
+w: ratiocinate drf adjs.all:ratiocinative drf noun.cognition:ratiocination drf noun.cognition:rationale drf noun.person:ratiocinator
+d: reason methodologically and logically
+fs: 2
+hypo: reason
+
+w: rationalise drf noun.act:rationalisation
+w: rationalize drf noun.act:rationalization
+d: think rationally; employ logic or reason
+e: When one wonders why one is doing certain things, one should rationalize
+fs: 2
+hypo: cerebrate
+
+w: rationalise_away
+w: rationalize_away
+d: substitute a natural for a supernatural explanation of
+e: you can rationalize away all the strange noises you hear--there is no poltergeist in the house!
+fs: 8
+hypo: reason
+
+w: re-create drf noun.act:re-creation
+d: form anew in the imagination; recollect and re-form in the mind
+e: His mind re-creates the entire world
+fs: 8
+hyper: verb.creation:reproduce 3
+hypo: verb.creation:create_by_mental_act
+
+w: re-explore
+d: explore anew
+e: We need to re-explore Colonialism
+fs: 8
+hypo: explore
+
+w: react drf adjs.all:reactive drf noun.act:reaction drf noun.phenomenon:reaction 1
+w: respond drf adj.all:responsive drf adjs.all:respondent drf noun.person:respondent drf noun.person:responder
+d: show a response or a reaction to something
+fs: 22 2 12
+hyper: accept 1
+hyper: accept 8
+hyper: answer 2
+hyper: answer 5
+hyper: bristle
+hyper: explode
+hyper: flip
+hyper: greet
+hyper: overreact
+hyper: respond 1
+hyper: stool
+hyper: treat
+hyper: verb.communication:accept
+hyper: verb.communication:acknowledge 7
+hyper: verb.communication:decline
+hyper: verb.communication:marvel 12
+hyper: verb.stative:refuse 4
+hypo: verb.social:act
+
+w: read drf noun.cognition:reading drf noun.communication:read drf noun.person:reader drf noun.person:reader 3
+d: interpret something that is written or printed
+e: read the advertisement
+e: Have you read Salman Rushdie?
+fs: 26 8 2
+hyper: anagram
+hyper: decipher
+hyper: dip_into
+hyper: lip-read
+hyper: reread
+hyper: skim
+hypo: construe
+vg: read 1
+vg: verb.stative:read
+
+w: read 1 drf noun.communication:reading 2 drf noun.person:reader drf noun.person:reader 3
+d: look at, interpret, and say out loud something that is written or printed
+e: The King will read the proclamation at noon
+fs: 8 27 15 14 2
+hyper: dictate
+hyper: numerate
+hyper: verb.communication:call 13
+hypo: verb.communication:mouth
+vg: read
+
+w: read 2
+d: interpret the significance of, as of palms, tea leaves, intestines, the sky; also of human behavior
+e: She read the sky and predicted rain
+e: I can't read his strange behavior
+e: The fortune teller read his fate in the crystal ball
+fs: 8
+hyper: scry
+hypo: verb.communication:anticipate
+vg: read 9
+
+w: read 6
+w: scan
+d: obtain data from magnetic tapes or other digital sources
+e: This dictionary can be read by the computer
+fs: 8 11
+hyper: misread 2
+hypo: construe
+
+w: read 8
+d: to hear and understand
+e: I read you loud and clear!
+fs: 9 8
+hypo: understand
+vg: read 9
+
+w: read 9 drf noun.communication:reading 1
+w: take 7
+d: interpret something in a certain way; convey a particular meaning or impression
+e: I read this address as a satire
+e: How should I take this message?
+fs: 21
+hyper: misinterpret 1
+hypo: construe
+vg: read 2
+vg: read 8
+
+w: read_between_the_lines
+d: read what is implied but not expressed on the surface
+fs: 26 8 2
+hypo: construe
+
+w: realise drf noun.cognition:realisation
+w: realize drf noun.cognition:realization
+w: see 1
+w: understand 1 drf adjs.all:understandable drf noun.cognition:understanding 1
+d: perceive (an idea or situation) mentally
+e: Now I see!
+e: I just can't see your point
+e: Does she realize how important this decision is?
+e: I don't understand the idea
+fs: 8 2 26
+hyper: appreciate
+hyper: perceive
+vg: verb.creation:envision
+vg: verb.perception:see 5
+
+w: reappraise drf noun.cognition:reappraisal
+d: appraise anew
+e: Homes in our town are reappraised every five years and taxes are increased accordingly
+fs: 8
+hypo: evaluate 1
+
+w: reason drf noun.cognition:reason drf noun.cognition:reasoning drf noun.person:reasoner
+d: think logically
+e: The children must learn to reason
+fs: 2 26
+hyper: calculate
+hyper: categorise
+hyper: ratiocinate
+hyper: rationalise_away
+hyper: theorize 1
+hyper: theorize 2
+hyper: verb.communication:speculate
+hypo: cerebrate
+
+w: reassess drf noun.cognition:reassessment
+w: reevaluate drf noun.cognition:reevaluation
+d: revise or renew one's assessment
+fs: 8
+hypo: appraise 1
+
+w: reattribute
+d: attribute to another source
+fs: 15 8
+hypo: ascribe
+
+w: recalculate drf noun.act:recalculation
+d: calculate anew
+e: The costs had to be recalculated
+fs: 8
+hypo: calculate
+mt: noun.cognition:arithmetic
+
+w: recall 6
+d: cause one's (or someone else's) thoughts or attention to return from a reverie or digression
+e: She was recalled by a loud laugh
+fs: 2 10 9
+hypo: center
+
+w: receipt drf noun.communication:receipt
+d: mark or stamp as paid
+fs: 8
+hypo: check 1
+
+w: receive drf adj.all:receptive drf adjs.all:receptive 1
+d: accept as true or valid
+e: He received Christ
+fs: 8 9
+hypo: accept
+
+w: receive 8 drf adj.all:receptive drf adjs.all:receptive 1
+d: regard favorably or with disapproval
+e: Her new collection of poems was not well received
+fs: 9 8
+hypo: consider
+
+w: reclassify
+d: classify anew, change the previous classification
+e: The zoologists had to reclassify the mollusks after they found new species
+fs: 8
+hypo: assort
+
+w: recognise
+w: recognize drf noun.cognition:recognition
+d: perceive to be the same
+fs: 9 8
+entail: know
+hyper: identify 2
+hypo: call_back
+
+w: reconcile
+w: resign drf noun.feeling:resignation
+w: submit
+d: accept as inevitable
+e: He resigned himself to his fate
+fs: 20
+hypo: accept
+
+w: reconsider drf noun.cognition:reconsideration drf noun.communication:reconsideration
+d: consider again; give new consideration to; usually with a view to changing
+e: Won't you reconsider your decision?
+fs: 33 8
+hypo: consider
+vg: reconsider 1
+
+w: reconsider 1
+d: consider again (a bill) that had been voted upon before, with a view to altering it
+fs: 8
+hypo: consider
+mt: noun.act:lawmaking
+vg: reconsider
+
+w: recuse drf noun.act:recusation 1
+d: challenge or except to a judge as being incompetent or interested, in canon and civil law
+fs: 9 10
+hypo: reject
+mt: noun.group:jurisprudence
+
+w: reexamine drf noun.act:reexamination
+w: review drf noun.act:review drf noun.act:review 3 drf noun.cognition:review drf noun.person:reviewer
+d: look at again; examine again
+e: let's review your situation
+fs: 8
+hypo: analyse
+
+w: refer drf noun.cognition:reference 1
+d: think of, regard, or classify under a subsuming principle or with a general group or in relation to another
+e: This plant can be referred to a known species
+fs: 21
+hypo: assort
+
+w: refocus drf noun.act:refocusing
+d: focus anew
+e: The group needs to refocus its goals
+fs: 8
+hypo: concenter
+
+w: register
+d: enter into someone's consciousness
+e: Did this event register in your parents' minds?
+fs: 1
+hypo: verb.body:affect
+vg: verb.perception:record
+
+w: regroup
+d: reorganize into new groups
+fs: 8
+hypo: group
+
+w: reify drf noun.act:reification
+d: consider an abstract concept to be real
+fs: 8
+hyper: hypostatise
+hypo: consider
+
+w: reinterpret drf noun.cognition:reinterpretation
+d: assign a new or different meaning to
+fs: 8
+hypo: construe
+
+w: reject ant accept drf adj.all:rejective drf noun.act:rejection
+d: refuse to accept or acknowledge
+e: I reject the idea of starting a war
+e: The journal rejected the student's paper
+fs: 26 8 9
+hyper: disbelieve
+hyper: recuse
+hyper: reprobate
+hyper: repudiate
+hyper: verb.communication:brush_aside
+hyper: verb.communication:disown
+hypo: evaluate 1
+
+w: relativise
+w: relativize
+d: consider or treat as relative
+fs: 8
+hypo: consider
+
+w: relearn
+d: learn something again, as after having forgotten or neglected it
+e: After the accident, he could not walk for months and had to relearn how to walk down stairs
+fs: 8
+hypo: acquire
+
+w: remember 1 ant forget 1 drf noun.cognition:remembrance
+w: think_of
+d: keep in mind for attention or consideration
+e: Remember the Alamo
+e: Remember to call your mother every day!
+e: Think of the starving children in India!
+fs: 26 8
+hyper: bear_in_mind
+hyper: keep_note
+hyper: retain
+hyper: verb.communication:characterise
+
+w: remember 2 drf noun.cognition:remembering drf noun.cognition:remembrance
+w: think_back
+d: recapture the past; indulge in memories
+e: he remembered how he used to pick flowers
+fs: 8 2
+hyper: look_back
+hyper: reminisce
+
+w: remember 8 drf noun.cognition:remembering drf noun.cognition:remembrance
+d: exercise, or have the power of, memory
+e: After the shelling, many people lost the ability to remember
+e: some remember better than others
+fs: 2
+hypo: associate
+
+w: remind drf noun.cognition:reminder drf noun.communication:reminder
+d: put in the mind of someone
+e: Remind me to call Mother
+fs: 18 24 10 9
+cause: call_back
+hyper: commemorate 1
+hyper: nag
+hyper: take_back
+
+w: reminisce drf adjs.all:reminiscent drf noun.cognition:reminiscence 1 drf noun.cognition:reminiscence 2
+d: recall the past
+e: The grandparents sat there, reminiscing all afternoon
+fs: 2 22
+hypo: remember 2
+
+w: reorder drf noun.act:reordering
+d: assign a new order to
+fs: 8 9
+hyper: verb.change:invert 3
+hyper: countermarch
+hypo: grade 3
+
+w: repress
+w: suppress drf noun.act:suppression 3
+d: put out of one's consciousness
+fs: 26 9 8
+hypo: bury
+mt: noun.cognition:psychiatry
+
+w: reprobate ant approbate
+d: reject (documents) as invalid
+fs: 8
+hypo: reject
+
+w: repudiate drf adjs.all:repudiative drf noun.communication:repudiation 1
+d: refuse to acknowledge, ratify, or recognize as valid
+e: The woman repudiated the divorce settlement
+fs: 11 8
+hypo: reject
+
+w: reread
+d: read anew; read again
+e: He re-read her letters to him
+fs: 8
+hypo: read
+
+w: reshape
+d: shape anew or differently
+e: The new foreign minister reshaped the foreign policy of his country
+fs: 8
+hypo: determine 2
+
+w: resolve 3 drf noun.act:resolution 1
+w: solve 1 fs 22 drf noun.act:solving drf noun.person:solver
+d: find the solution
+e: solve an equation
+e: solve for x
+fs: 8
+hyper: factorise
+hypo: calculate
+
+w: respond 1 drf noun.person:responder
+d: respond favorably or as hoped
+e: The cancer responded to the aggressive therapy
+fs: 2 1
+hypo: react
+
+w: retain drf adj.all:retentive drf noun.cognition:retention
+d: keep in one's mind
+e: I cannot retain so much information
+fs: 8
+hypo: remember 1
+
+w: rethink fs 8 drf noun.cognition:rethink
+d: change one's mind
+e: He rethought his decision to take a vacation
+fs: 2
+hyper: about-face
+hyper: backpedal
+hypo: believe 4
+
+w: retrain
+d: train again
+e: He is retraining to become an IT worker
+fs: 2
+hypo: prepare
+
+w: retrain 1 drf noun.act:retraining
+d: teach new skills
+e: We must retrain the linguists who cannot find employment
+fs: 9
+hypo: develop
+
+w: riddle
+d: explain a riddle
+fs: 8
+hypo: figure_out
+
+w: riddle 1 drf noun.communication:riddle
+d: set a difficult problem or riddle
+e: riddle me a riddle
+fs: 10 1
+hypo: amaze 1
+
+w: rivet 1
+d: hold (someone's attention)
+e: The discovery of the skull riveted the paleontologists
+fs: 10 11
+hypo: absorb 3
+vg: center
+
+w: roughhouse
+d: engage in rough or disorderly play
+fs: 2
+hypo: verb.social:play 3
+
+w: rubberstamp
+d: approve automatically
+fs: 8
+hypo: approve
+
+w: schedule drf noun.act:scheduling drf noun.cognition:schedule
+d: plan for an activity or event
+e: I've scheduled a concert next week
+fs: 20 8 9 21
+hyper: book
+hyper: calendar
+hyper: slot
+hyper: time
+hypo: plan
+
+w: scheme 1 drf noun.cognition:scheme 1 drf noun.cognition:scheme 2 drf noun.person:schemer
+d: devise a system or form a scheme for
+fs: 8 33
+hypo: plan
+
+w: screen drf noun.act:screening 1 drf noun.person:screener
+d: examine methodically
+e: screen the suitcases
+fs: 8 9
+entail: verb.change:do_away_with
+hypo: analyse
+
+w: scry
+d: divine by gazing into crystals
+fs: 8 2
+hypo: read 2
+
+w: seal drf noun.communication:seal
+d: decide irrevocably
+e: sealing dooms
+fs: 26 8
+hypo: decide
+
+w: see 8
+d: deliberate or decide
+e: See whether you can come tomorrow
+e: let's see--which movie should we see tonight?
+fs: 29
+hypo: verb.communication:consider 2
+
+w: seed drf noun.person:seed
+d: distribute (players or teams) so that outstanding teams or players will not meet in the early rounds
+fs: 9
+hypo: grade 3
+mt: noun.act:athletics
+
+w: sell_out drf noun.act:sellout drf noun.person:sellout
+d: abandon one's principles for expedience or financial gain
+fs: 2
+hypo: abandon 1
+
+w: sell_short
+d: underestimate the real value or ability of
+e: Don't sell your students short--they are just shy and don't show off their knowledge
+fs: 8 9
+hypo: underestimate 1
+
+w: sense 2 drf adj.all:sensitive 2 drf noun.cognition:sense 4
+d: comprehend
+e: I sensed the real meaning of his letter
+fs: 26 8
+hypo: understand
+
+w: sense 3 drf adj.all:sensitive 2 drf adjs.all:sensible 1 drf noun.cognition:sense 5
+w: smell
+w: smell_out
+d: become aware of not through the senses but instinctively
+e: I sense his hostility
+e: I smell trouble
+e: smell out corruption
+fs: 26 8
+hypo: perceive
+
+w: sequence drf noun.act:sequence drf noun.artifact:sequencer drf noun.attribute:sequence drf noun.group:sequence
+d: arrange in a sequence
+fs: 8
+hypo: grade 3
+
+w: severalise 1
+w: severalize 1
+d: distinguish or separate
+fs: 8
+hypo: differentiate 1
+
+w: sex drf noun.attribute:sex drf noun.group:sex
+d: tell the sex (of young chickens)
+fs: 8
+hypo: differentiate 1
+
+w: shoot
+d: measure the altitude of by using a sextant
+e: shoot a star
+fs: 8
+hypo: measure
+
+w: shortlist
+d: put someone or something on a short list
+fs: 9 8
+hypo: grade 3
+
+w: sieve
+w: sift
+d: distinguish and separate out
+e: sift through the job candidates
+fs: 9
+hypo: choose
+
+w: single_out
+d: select from a group
+e: She was singled out for her outstanding performance
+fs: 8 9
+hypo: choose
+
+w: sit_out
+d: endure to the end
+fs: 8
+hypo: abide
+
+w: size drf noun.attribute:size drf noun.attribute:size 1
+d: sort according to size
+fs: 8
+hypo: assort
+
+w: skim drf noun.communication:skim drf noun.communication:skimming drf noun.person:skimmer
+w: skim_over
+d: read superficially
+fs: 8
+hypo: read
+
+w: slack drf noun.act:slacking
+d: be inattentive to, or neglect
+e: He slacks his attention
+fs: 8
+hypo: neglect 5
+
+w: slate
+d: designate or schedule
+e: He slated his talk for 9 AM
+e: She was slated to be his successor
+fs: 24 9
+hypo: designate
+
+w: slip 1 drf noun.act:slip 5
+w: slip_one's_mind
+d: pass out of one's memory
+fs: 1
+hypo: blank_out
+
+w: slip_up drf noun.act:slip-up 1
+w: stumble drf noun.act:stumble 1 drf noun.person:stumbler 1
+w: trip_up 1 drf noun.act:trip-up
+d: make an error
+e: She slipped up and revealed the name
+fs: 2
+hypo: err
+
+w: slot drf noun.time:slot
+d: assign a time slot
+e: slot a television program
+fs: 8
+hypo: schedule
+
+w: source drf noun.communication:source drf noun.communication:source 1
+d: specify the origin of
+e: The writer carefully sourced her report
+fs: 8
+hypo: document
+
+w: spiritualise drf noun.act:spiritualisation
+w: spiritualize ant literalize drf noun.act:spiritualization
+d: give a spiritual meaning to; read in a spiritual sense
+fs: 8
+hypo: construe
+
+w: spot-check drf noun.act:spot_check
+d: pick out random samples for examination in order to ensure high quality
+fs: 8 2
+hypo: ascertain
+
+w: square drf noun.quantity:square
+d: raise to the second power
+fs: 8
+hypo: multiply
+mt: noun.cognition:arithmetic
+
+w: stand 1 drf noun.cognition:stance drf noun.cognition:stand
+d: have or maintain a position or stand on an issue
+e: Where do you stand on the War?
+fs: 22
+hyper: align
+hypo: evaluate 1
+
+w: standardise drf noun.act:standardisation
+w: standardize drf noun.act:standardization 1
+d: evaluate by comparing with a standard
+fs: 8
+hypo: appraise 1
+
+w: stool
+d: react to a decoy, of wildfowl
+fs: 1
+hypo: react
+
+w: strike
+d: arrive at after reckoning, deliberating, and weighing
+e: strike a balance
+e: strike a bargain
+fs: 8
+hypo: figure_out
+
+w: strike_a_chord
+d: create an emotional response
+e: The music struck a chord with the listeners
+fs: 4 2
+hypo: come_across
+
+w: study 3 drf noun.cognition:study 2 drf noun.cognition:study 3 drf noun.person:student
+d: be a student; follow a course of study; be enrolled at an institute of learning
+fs: 2 8
+hyper: major 9
+hyper: minor
+
+w: submit 12 fs 22 drf noun.act:submission 1
+w: take 9 drf noun.person:taker 1
+d: accept or undergo, often unwillingly
+e: We took a pay cut
+fs: 8
+hyper: test 6
+hypo: verb.perception:undergo 4
+vg: verb.perception:take
+
+w: subordinate drf noun.person:subordinate drf noun.state:subordination
+d: rank or order as less important or consider of less value
+e: Art is sometimes subordinated to Science in these schools
+fs: 8
+hyper: outclass
+hypo: grade 3
+
+w: subtilize
+d: mark fine distinctions and subtleties, as among words
+fs: 8
+hypo: discriminate
+
+w: superordinate
+d: place in a superior order or rank
+e: These two notions are superordinated to a third
+fs: 10 9 8 11
+hypo: grade 3
+
+w: surmise drf noun.communication:surmisal drf noun.communication:surmise
+d: infer from incomplete evidence
+fs: 26 8
+hypo: deduce
+
+w: surprise drf noun.act:surprisal drf noun.act:surprise drf noun.event:surprise drf noun.feeling:surprise
+d: cause to be surprised
+e: The news really surprised me
+fs: 9 10
+hyper: amaze
+hyper: boggle
+hyper: catch 1
+hyper: explode_a_bombshell
+hyper: verb.emotion:ball_over
+hypo: verb.emotion:affect
+
+w: survey 1 drf noun.act:survey 1 drf noun.act:surveying drf noun.person:surveyor
+d: plot a map of (land)
+fs: 8
+entail: verb.change:measure
+hyper: triangulate
+hypo: calculate
+
+w: survey 2 drf noun.person:surveyor 1
+d: make a survey of; for statistical purposes
+fs: 8
+hyper: verb.social:canvass 1
+hypo: analyse
+
+w: swallow
+d: believe or accept without questioning or challenge
+e: Am I supposed to swallow that story?
+fs: 8 26
+hypo: believe
+
+w: swallow 1
+d: keep from expressing
+e: I swallowed my anger and kept quiet
+fs: 8
+hypo: verb.change:hold_back
+
+w: syllogise drf noun.cognition:syllogism drf noun.person:syllogiser
+w: syllogize drf noun.cognition:syllogism drf noun.person:syllogizer
+d: reason by syllogisms
+fs: 2
+hypo: conclude
+
+w: synthesise drf noun.artifact:synthesiser drf noun.cognition:synthesis drf noun.cognition:synthesis 1 drf noun.person:synthesiser drf noun.process:synthesis
+w: synthesize ant analyze 1 drf noun.artifact:synthesizer drf noun.person:synthesizer
+d: combine so as to form a more complex, product
+e: his operas synthesize music and drama in perfect harmony
+e: The liver synthesizes vitamins
+fs: 8
+hypo: verb.change:combine 2
+
+w: synthesize 1
+d: combine and form a synthesis
+e: Vitamin D only synthesizes when sunlight is available
+fs: 1
+hypo: verb.change:change
+
+w: take_a_joke
+d: listen to a joke at one's own expense
+e: Can't you take a joke?
+fs: 2
+hypo: abide
+
+w: take_back
+d: cause someone to remember the past
+e: This photo takes me back to the good old days
+fs: 20 10
+hypo: remind
+
+w: take_it_on_the_chin
+d: undergo failure or defeat
+fs: 2
+hypo: verb.social:fail
+
+w: take_lying_down
+d: suffer without protest; suffer or endure passively
+e: I won't take this insult lying down
+fs: 8
+hypo: abide
+
+w: taste 5 drf noun.event:taste
+d: experience briefly
+e: The ex-slave tasted freedom shortly before she died
+fs: 8
+hypo: experience
+
+w: tell
+d: discern or comprehend
+e: He could tell that she was unhappy
+fs: 26 2 8
+hypo: guess 2
+
+w: test 6 drf noun.act:test 2 drf noun.act:test 3 drf noun.communication:test drf noun.person:testee
+d: undergo a test
+e: She doesn't test well
+fs: 7
+hypo: submit 12
+vg: verb.communication:quiz
+vg: verb.competition:test
+
+w: theologise drf noun.person:theologiser
+w: theologize drf noun.person:theologizer
+d: make theoretical speculations about theology or discuss theological subjects
+fs: 2
+hypo: chew_over
+
+w: theorize 1 drf noun.cognition:theorization
+d: form or construct theories
+e: he thinks and theorizes all day
+fs: 2
+hypo: reason
+vg: theorize 2
+
+w: theorize 2 drf noun.cognition:theorization
+d: construct a theory about
+e: Galileo theorized the motion of the stars
+fs: 8
+hypo: reason
+vg: theorize 1
+
+w: think 8 drf noun.cognition:think drf noun.cognition:thought drf noun.cognition:thought 1
+d: be capable of conscious thought
+e: Man is the only creature that thinks
+fs: 2
+
+w: think 9 drf noun.cognition:think drf noun.cognition:thought 1
+d: focus one's attention on a certain state
+e: Think big
+e: think thin
+fs: 7
+hypo: center
+
+w: think 12 drf noun.cognition:think drf noun.cognition:thinking
+d: decide by pondering, reasoning, or reflecting
+e: Can you think what to do next?
+fs: 8
+hypo: cerebrate
+vg: think 13
+
+w: think 13 drf noun.cognition:think drf noun.cognition:thought drf noun.cognition:thought 1
+d: ponder; reflect on, or reason about
+e: Think the matter through
+e: Think how hard life in Russia must be these days
+fs: 8 29
+hypo: cerebrate
+vg: think 12
+
+w: think 14 drf noun.cognition:think drf noun.cognition:thought 1
+d: have or formulate in the mind
+e: think good thoughts
+fs: 8
+hypo: cerebrate
+
+w: think 15 drf noun.cognition:thought 2
+d: dispose the mind in a certain way
+e: Do you really think so?
+fs: 2
+hypo: believe 4
+
+w: think_about 5
+d: have on one's mind, think about actively
+e: I'm thinking about my friends abroad
+e: She always thinks about her children first
+fs: 8 9
+hyper: consider 1
+hyper: mind 2
+hypo: cerebrate
+
+w: think_of 4
+d: choose in one's mind
+e: Think of any integer between 1 and 25
+fs: 8
+hypo: choose
+
+w: think_out
+d: consider carefully and rationally
+e: Every detail has been thought out
+fs: 8
+hypo: be_after
+
+w: think_the_world_of
+d: esteem very highly
+e: She thinks the world of her adviser
+fs: 9
+hypo: esteem 1
+
+w: time drf noun.attribute:timing drf noun.time:time 6
+d: assign a time for an activity or event
+e: The candidate carefully timed his appearance at the disaster scene
+fs: 20 21 9 8
+hypo: schedule
+
+w: time 1 drf noun.artifact:timer drf noun.time:time 6
+d: set the speed, duration, or execution of
+e: we time the process to manufacture our cars very precisely
+fs: 8 11
+hypo: determine 2
+
+w: toilet-train drf noun.act:toilet_training
+d: train (a small child) to use the toilet
+fs: 9
+hypo: develop
+
+w: touch
+d: comprehend
+e: He could not touch the meaning of the poem
+fs: 8
+hypo: understand
+
+w: treat
+d: regard or consider in a specific way
+e: I treated his advances as a joke
+fs: 21
+hypo: react
+vg: verb.social:do_by
+
+w: triangulate drf noun.act:triangulation drf noun.shape:triangle
+d: survey by triangulation
+e: The land surveyor worked by triangulating the plot
+fs: 8
+hypo: survey 1
+
+w: triangulate 1 drf noun.cognition:triangulation
+d: measure by using trigonometry
+e: triangulate the angle
+fs: 8
+hypo: measure
+
+w: truncate
+d: approximate by ignoring all terms beyond a chosen one
+e: truncate a series
+fs: 8
+hypo: approximate
+mt: noun.cognition:math
+
+w: trust ant distrust ant mistrust drf noun.cognition:trust 1
+d: have confidence or faith in
+e: We can trust in our government
+fs: 22
+hyper: bank 2
+hyper: credit
+hyper: lean 10
+hypo: believe
+
+w: type drf noun.cognition:type drf noun.person:type
+w: typecast
+d: identify as belonging to a certain type
+e: Such people can practically be typed
+fs: 9 8
+hypo: identify 2
+
+w: underestimate 1 ant overestimate drf noun.cognition:underestimation
+w: underrate drf noun.cognition:underrating
+d: make too low an estimate of
+e: he underestimated the work that went into the renovation
+e: Don't underestimate the danger of such a raft trip on this river
+fs: 9 8
+hyper: sell_short
+hypo: misjudge
+
+w: underestimate 2 ant overestimate 2 drf noun.cognition:underestimate drf noun.cognition:underestimation
+w: undervalue ant overvalue drf noun.cognition:undervaluation
+d: assign too low a value to
+e: Don't underestimate the value of this heirloom-you may sell it at a good price
+fs: 8
+hypo: value 3
+
+w: understand drf adjs.all:understandable drf noun.cognition:understanding 1
+d: know and comprehend the nature or meaning of
+e: She did not understand her husband
+e: I understand what she means
+fs: 9 8 2 26
+hyper: apprehend
+hyper: bottom
+hyper: catch 3
+hyper: construe
+hyper: figure_out
+hyper: follow 14
+hyper: interpret 2
+hyper: make_out
+hyper: read 8
+hyper: sense 2
+hyper: touch
+
+w: undervalue 1 drf noun.cognition:undervaluation
+d: esteem lightly
+fs: 8 9
+hypo: disesteem
+
+w: unlearn
+d: discard something previously learnt, like an old habit
+fs: 8 28
+hypo: verb.possession:cast_aside
+
+w: unlearn 1
+d: try to forget; put out of one's memory or knowledge
+fs: 28 8
+hypo: bury
+
+w: upgrade ant downgrade
+d: rate higher; raise in value or esteem
+fs: 8
+hypo: grade 3
+
+w: validate ant invalidate drf adjs.all:validatory drf noun.act:validation drf noun.cognition:validation
+d: prove valid; show or confirm the validity of something
+fs: 8 11
+hypo: affirm
+
+w: value 3 drf noun.person:valuer drf noun.possession:value
+d: fix or determine the value of; assign a value to
+e: value the jewelry and art work in the estate
+fs: 21
+hyper: float
+hyper: overestimate 2
+hyper: underestimate 2
+hypo: determine 1
+
+w: verify 1 drf adjs.all:verifiable drf adjs.all:verifiable 1 drf adjs.all:verificatory drf noun.cognition:verification drf noun.person:verifier
+d: confirm the truth of
+e: Please verify that the doors are closed
+e: verify a claim
+fs: 8 11 26
+hyper: ascertain
+hyper: check 1
+hyper: check 12
+hypo: affirm
+
+w: walk_out 3
+d: leave suddenly, often as an expression of disapproval
+e: She walked out on her husband and children
+fs: 22
+hypo: abandon
+
+w: want 1 drf noun.feeling:want drf noun.person:wanter
+d: wish or demand the presence of
+e: I want you here at noon!
+fs: 9
+hypo: verb.communication:demand
+vg: verb.contact:want
+
+w: welter
+d: be immersed in
+e: welter in work
+fs: 22
+
+w: will 1 drf noun.act:willing drf noun.cognition:will drf noun.cognition:will 1
+d: determine by choice
+e: This action was willed and intended
+fs: 8
+hypo: decide
+
+w: wise_up
+d: get wise to
+e: They wised up to it
+fs: 22 2
+hypo: discover 1
+
+w: wise_up 1
+d: cause someone to become aware of something
+fs: 20 9
+hypo: verb.communication:inform
+
+w: work_out 7
+d: be calculated
+e: The fees work out to less than $1,000
+fs: 1
+hypo: verb.stative:add_up 3
+vg: calculate
+
+w: write_off
+d: concede the loss or worthlessness of something or somebody
+e: write it off as a loss
+fs: 9 8
+hypo: verb.communication:acknowledge
+
