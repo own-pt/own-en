@@ -51,6 +51,7 @@ WN_LEMMA = WN30["lemma"]
 WN_LEXICOGRAPHER_FILE = WN30["lexicographerFile"]
 WN_LEXICAL_ID = WN30["lexicalId"]
 WN_SIMILAR_TO = WN30["similarTo"]
+WN_LANG = WN30["lang"]
 
 SYNSET_TYPE = {
     WN30["AdjectiveSynset"]: "3",
@@ -104,38 +105,38 @@ LEXICOGRAPHER_FILE_NUM = {"adj.all": 0,
 "verb.social": 41,
 "verb.stative": 42,
 "verb.weather": 43,
-"adj.ppl": 44,
-"adjs.all": 45}
+"adj.ppl": 44}
 
 def add_missing_sensekeys(graph):
     for synset, sense in graph.subject_objects(WN_CONTAINS_WORDSENSE):
-        if not (sense, WN_SENSEKEY, None) in graph:
-            word = graph.value(sense, WN_WORD)
-            lemma = graph.value(word, WN_LEMMA)
-            assert lemma, sense
-            for synset_type_uri in graph.objects(synset, RDF.type):
-                # loop because RDF.type object might be either a POS
-                # indicator or a core concept indicator
-                synset_type = SYNSET_TYPE.get(synset_type_uri, None)
-                if synset_type:
-                    break
-            lexicographer_file = graph.value(synset, WN_LEXICOGRAPHER_FILE)
-            lexicographer_file_num = LEXICOGRAPHER_FILE_NUM[str(lexicographer_file)]
-            assert synset_type and lexicographer_file, synset
-            lexical_id = graph.value(sense, WN_LEXICAL_ID)
-            assert lexical_id, sense
-            head_lemma, head_lexical_id = "", ""
-            head_sense = graph.value(sense, WN_SIMILAR_TO)
-            if head_sense:
-                head_word = graph.value(head_sense, WN_WORD)
-                head_lemma = graph.value(head_word, WN_LEMMA)
-                head_lexical_id = graph.value(head_sense, WN_LEXICAL_ID)
-                assert head_lemma and head_lexical_id, head_sense
-            sense_key = "{}%{}:{}:{}:{}:{}".format(lemma, synset_type,
-                                                   lexicographer_file_num,
-                                                   lexical_id, head_lemma,
-                                                   head_lexical_id)
-            graph.add((sense, WN_SENSEKEY, Literal(sense_key)))
+        if (synset, WN_LANG, Literal("en")) in graph:
+            if not (sense, WN_SENSEKEY, None) in graph:
+                word = graph.value(sense, WN_WORD)
+                lemma = graph.value(word, WN_LEMMA)
+                assert lemma, sense
+                for synset_type_uri in graph.objects(synset, RDF.type):
+                    # loop because RDF.type object might be either a POS
+                    # indicator or a core concept indicator
+                    synset_type = SYNSET_TYPE.get(synset_type_uri, None)
+                    if synset_type:
+                        break
+                lexicographer_file = graph.value(synset, WN_LEXICOGRAPHER_FILE)
+                lexicographer_file_num = LEXICOGRAPHER_FILE_NUM[str(lexicographer_file)]
+                assert synset_type and lexicographer_file, synset
+                lexical_id = graph.value(sense, WN_LEXICAL_ID)
+                assert lexical_id, sense
+                head_lemma, head_lexical_id = "", ""
+                head_sense = graph.value(sense, WN_SIMILAR_TO)
+                if head_sense:
+                    head_word = graph.value(head_sense, WN_WORD)
+                    head_lemma = graph.value(head_word, WN_LEMMA)
+                    head_lexical_id = graph.value(head_sense, WN_LEXICAL_ID)
+                    assert head_lemma and head_lexical_id, head_sense
+                sense_key = "{}%{}:{}:{}:{}:{}".format(lemma, synset_type,
+                                                       lexicographer_file_num,
+                                                       lexical_id, head_lemma,
+                                                       head_lexical_id)
+                graph.add((sense, WN_SENSEKEY, Literal(sense_key)))
 
 ###
 ## making the old RDF model closer to the current one: remove words,
@@ -151,5 +152,76 @@ def remove_words(graph):
         lexical_form = graph.value(word, WN_LEXICAL_FORM)
         assert lexical_form, sense
         graph.add((sense, WN_LEXICAL_FORM, lexical_form))
-    graph.remove((None, WN_WORD, None))
+        graph.remove((word, None, None))
+        graph.remove((None, None, word))
+    return None
+
+###
+## add fake source_begin info, for sorting
+WN_SOURCE_BEGIN = WN30["sourceBegin"]
+
+def add_source_begin(graph):
+    def synset_minimal_wordsense(synset):
+        wordsenses = graph.objects(synset, WN_CONTAINS_WORDSENSE)
+        word_forms = list(map(lambda ws: graph.value(ws, WN_LEXICAL_FORM), wordsenses))
+        if None in word_forms or not word_forms:
+            print(synset)
+        min_word_form = min(word_forms)
+        return min_word_form
+    #
+    graph.remove((None, WN_SOURCE_BEGIN, None))
+    lexicographer_files = set(graph.objects(predicate=WN_LEXICOGRAPHER_FILE))
+    for lexicographer_file in lexicographer_files:
+        sorted_synsets = sorted(graph.subjects(WN_LEXICOGRAPHER_FILE, lexicographer_file), key=synset_minimal_wordsense)
+        for ix, synset in enumerate(sorted_synsets):
+            graph.add((synset, WN_SOURCE_BEGIN, Literal(ix)))
+    return None
+
+###
+## add frames
+FRAMES_TO_ID = {
+    "Something ----s": Literal(1),
+    "Somebody ----s": Literal(2),
+    "It is ----ing": Literal(3),
+    "Something is ----ing PP": Literal(4),
+    "Something ----s something Adjective/Noun": Literal(5),
+    "Something ----s Adjective/Noun": Literal(6),
+    "Somebody ----s Adjective": Literal(7),
+    "Somebody ----s something": Literal(8),
+    "Somebody ----s somebody": Literal(9),
+    "Something ----s somebody": Literal(10),
+    "Something ----s something": Literal(11),
+    "Something ----s to somebody": Literal(12),
+    "Somebody ----s on something": Literal(13),
+    "Somebody ----s somebody something": Literal(14),
+    "Somebody ----s something to somebody": Literal(15),
+    "Somebody ----s something from somebody": Literal(16),
+    "Somebody ----s somebody with something": Literal(17),
+    "Somebody ----s somebody of something": Literal(18),
+    "Somebody ----s something on somebody": Literal(19),
+    "Somebody ----s somebody PP": Literal(20),
+    "Somebody ----s something PP": Literal(21),
+    "Somebody ----s PP": Literal(22),
+    "Somebody's (body part) ----s": Literal(23),
+    "Somebody ----s somebody to INFINITIVE": Literal(24),
+    "Somebody ----s somebody INFINITIVE": Literal(25),
+    "Somebody ----s that CLAUSE": Literal(26),
+    "Somebody ----s to somebody": Literal(27),
+    "Somebody ----s to INFINITIVE": Literal(28),
+    "Somebody ----s whether INFINITIVE": Literal(29),
+    "Somebody ----s somebody into V-ing something": Literal(30),
+    "Somebody ----s something with something": Literal(31),
+    "Somebody ----s INFINITIVE": Literal(32),
+    "Somebody ----s VERB-ing": Literal(33),
+    "It ----s that CLAUSE": Literal(34),
+    "Something ----s INFINITIVE": Literal(35),
+}
+
+WN_FRAME = WN30["frame"]
+
+def use_frame_numbers(graph):
+    for subj, frame in graph.subject_objects(WN_FRAME):
+        frame_id = FRAMES_TO_ID[frame.strip()]
+        graph.remove((subj, WN_FRAME, frame))
+        graph.add((subj, WN_FRAME, frame_id))
     return None
