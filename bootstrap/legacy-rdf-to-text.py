@@ -147,11 +147,12 @@ WN_LEXICAL_FORM = WN30["lexicalForm"]
 
 def remove_words(graph):
     for synset, sense in graph.subject_objects(WN_CONTAINS_WORDSENSE):
-        word = graph.value(sense, WN_WORD)
+        word = graph.value(sense, WN_WORD, any=False)
         assert word, sense
         lexical_form = graph.value(word, WN_LEXICAL_FORM)
         assert lexical_form, sense
         graph.add((sense, WN_LEXICAL_FORM, lexical_form))
+    for word in set(graph.objects(None, WN_WORD)):
         graph.remove((word, None, None))
         graph.remove((None, None, word))
     return None
