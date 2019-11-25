@@ -8,6 +8,7 @@
 
 import rdflib as r
 from rdflib import Graph, Namespace
+from rdflib.namespace import RDF
 from rdflib.term import Literal
 
 
@@ -42,7 +43,6 @@ def fix_glosses(graph):
             graph.add((synset, WN_EXAMPLE, Literal(example)))
     graph.remove((None, WN_GLOSS, None))
     return None
-
 
 ###
 ## add missing sense keys
@@ -137,6 +137,14 @@ def add_missing_sensekeys(graph):
                                                        lexical_id, head_lemma,
                                                        head_lexical_id)
                 graph.add((sense, WN_SENSEKEY, Literal(sense_key)))
+
+###
+## make similarTo one-way
+def similar_to(graph):
+    for subj, obj in graph.subject_objects(WN_SIMILAR_TO):
+        if any(map(lambda k: k == WN30["AdjectiveSynset"], graph.objects(obj, RDF["type"]))):
+            graph.remove((subj, WN_SIMILAR_TO, obj))
+    return None
 
 ###
 ## making the old RDF model closer to the current one: remove words,
