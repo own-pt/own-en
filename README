@@ -1,0 +1,13 @@
+# -*- mode: org -*-
+#+TITLE: English Open WordNet (OWN-EN)
+
+This repository hosts English WordNet data in textual format,
+initially derived from [[https://wordnet.princeton.edu/][Princeton WordNet]]. Contributions are welcome!
+
+You can also get the data in JSON and RDF format.
+
+See the [[https://github.com/own-pt/own-en/wiki/][Wiki]] for how the data was generated, how it compares to
+Princeton WordNet and what is the syntax of the text files.
+
+This data is validated and exported by the [[https://github.com/own-pt/mill/][mill tool]] — see its
+repository for more information about validation, export formats, etc.

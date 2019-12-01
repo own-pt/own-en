@@ -1,0 +1,50 @@
+name	lexicographer_file	text_file	rdf	pos	domain	description
+agent	_	agt	agent	n,v	word	...
+antonymOf	!	ant	antonymOf	n,v,a,r	word	Antonym
+attribute	=	attr	attribute	n,a	synset	Attribute
+bodyPart	_	bdp	bodyPart	n,v	word	...
+byMeansOf	_	bmo	byMeansOf	n,v	word	...
+causes	>	cause	causes	v	synset	Cause
+classifiedByRegion	-r	mr	classifiedByRegion	n,v,a,r,s	synset,word	Member of this domain - REGION
+classifiedByTopic	-c	mt	classifiedByTopic	n,v,a,r,s	synset,word	Member of this domain - TOPIC
+classifiedByUsage	-u	mu	classifiedByUsage	n,v,a,r,s	synset,word	Member of this domain - USAGE
+classifiesByRegion	;r	dr	classifiesByRegion	n	synset,word	Domain of synset - REGION
+classifiesByTopic	;c	dt	classifiesByTopic	n	synset,word	Domain of synset - TOPIC
+classifiesByUsage	;u	du	classifiesByUsage	n	synset,word	Domain of synset - USAGE
+containsWordSense	_	w	containsWordSense	n,v,a,r	synset	contains word sense relation
+definition	_	d	definition	n,v,a,r,s	synset	definition relation
+derivationallyRelated	+	drf	derivationallyRelated	n,v,a,s,r	synset,word	Derivationally related form
+destination	_	dst	destination	n,v	word	...
+entails	*	entail	entails	v	synset	entailment
+event	_	evt	event	n,v	word	...
+example	_	e	example	n,v,a,r,s	synset	example relation
+frame	_	fs	frame	v	synset,word	frame relation
+hasInstance	~i	ihypo	hasInstance	n	synset	Instance Hyponym (terrorist attack has instance 9/11)
+hypernymOf	@	hyper	hypernymOf	n,v	synset	Hypernym
+hyponymOf	~	hypo	hyponymOf	n,v	synset	Hyponym
+instanceOf	@i	ihyper	instanceOf	n	synset	Instance Hypernym (9/11 is a terrorist attack)
+instrument	_	it	instrument	n,v	word	...
+lexicalForm	_	_	lexicalForm	n,v,a,r,s	synset	lexicographer file relation
+lexicographerFile	_	_	lexicographerFile	n,v,a,r,s	synset	lexicographer file relation
+location	_	loc	location	n,v	word	...
+material	_	mat	material	n,v	word	...
+memberHolonymOf	#m	hm	memberHolonymOf	n	synset	Member holonym
+memberMeronymOf	%m	mm	memberMeronymOf	n	synset	Member meronym
+partHolonymOf	#p	hp	partHolonymOf	n	synset	Part holonym
+partMeronymOf	%p	mp	partMeronymOf	n	synset	Part meronym
+participleOf	<	pv	participleOf	a	word	Participle of verb
+pertainsTo	\	pe	pertainsTo	a,r	word	Pertainym pertains to noun/adjective
+property	_	prp	property	n,v	word	...
+result	_	res	result	n,v	word	...
+sameVerbGroupAs	$	vg	sameVerbGroupAs	v	synset,word	Verb Group
+seeAlso	^	see	seeAlso	v,a	synset,word	Also see
+similarTo	&	sim	similarTo	a,s	synset	Similar to
+state	_	stt	state	n,v	word	...
+substanceHolonymOf	#s	hs	substanceHolonymOf	n	synset	Substance holonym
+substanceMeronymOf	%s	ms	substanceMeronymOf	n	synset	Substance meronym
+subsumedBy	_	sb	subsumedBy	n,v,a,r,s	synset	is subsumed by concept
+subsumes	_	su	subsumes	n,v,a,r,s	synset	subsumes the concept
+syntacticMarker	_	marker	syntacticMarker	a	word	   marker
+undergoer	_	udg	undergoer	n,v	word	...
+uses	_	us	uses	n,v	word	...
+vehicle	_	veh	vehicle	n,v	word	...
