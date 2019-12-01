@@ -1,0 +1,266 @@
+noun.motive
+
+w: Christ_Within
+w: Inner_Light
+w: Light
+w: Light_Within
+d: a divine presence believed by Quakers to enlighten and guide the soul
+hypo: ethical_motive
+
+w: Thanatos
+w: death_instinct
+w: death_wish
+d: (psychoanalysis) an unconscious urge to die
+hypo: impulse
+mt: noun.act:depth_psychology
+
+w: abience ant adience drf adj.pert:abient
+d: (psychology) an urge to withdraw or avoid a situation or an object
+hypo: impulse
+mt: noun.cognition:psychological_science
+
+w: acathexis
+d: (psychoanalysis) a lack of cathexis; a condition in which significant objects or memories arouse no emotion in an individual
+hypo: libidinal_energy
+mt: noun.act:depth_psychology
+
+w: account
+w: score
+d: grounds
+e: don't do it on my account
+e: he tried to blame the victim but his success on that score was doubtful
+e: the paper was rejected on account of its length
+hypo: ground
+
+w: adience ant abience drf adj.pert:adient
+d: (psychology) an urge to accept or approach a situation or an object
+hypo: impulse
+mt: noun.cognition:psychological_science
+
+w: agromania
+d: an intense desire to be alone or out in the open
+hypo: cacoethes
+
+w: alcoholism[1]
+w: dipsomania
+w: potomania
+d: an intense persistent desire to drink alcoholic beverages to excess
+hypo: cacoethes
+
+w: cacoethes
+w: mania drf adj.all:manic
+w: passion
+d: an irrational but irresistible motive for a belief or action
+hyper: agromania
+hyper: dipsomania
+hyper: egomania
+hyper: kleptomania
+hyper: logomania
+hyper: monomania
+hyper: necromania
+hyper: phaneromania
+hyper: pyromania
+hyper: trichotillomania
+hypo: irrational_motive
+
+w: cathexis drf adj.pert:cathectic
+w: charge
+d: (psychoanalysis) the libidinal energy invested in some idea or person or object
+e: Freud thought of cathexis as a psychic analog of an electrical charge
+hypo: libidinal_energy
+mt: noun.act:depth_psychology
+
+w: compulsion drf adj.all:compulsive[1] drf noun.person:compulsive
+w: obsession drf adj.all:obsessional
+d: an irrational motive for performing trivial or repetitive actions, even against your will
+e: her compulsion to wash her hands repeatedly
+hyper: onomatomania
+hypo: irrational_motive
+
+w: compulsion[1] drf adj.all:compulsive[1]
+w: irresistible_impulse
+d: an urge to do or say something that might be better left undone or unsaid
+e: he felt a compulsion to babble on about the accident
+hypo: irrational_impulse
+
+w: conscience
+w: moral_sense
+w: scruples
+w: sense_of_right_and_wrong
+d: motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+hyper: noun.cognition:superego
+hyper: sense_of_duty
+hyper: small_voice
+hypo: ethical_motive
+
+w: deterrence drf adj.all:deterrent
+w: disincentive ant incentive
+d: a negative motivational influence
+hypo: rational_motive
+
+w: dynamic
+w: moral_force
+d: an efficient incentive
+e: they hoped it would act as a spiritual dynamic on all churches
+hypo: incentive
+
+w: egomania
+d: an intense and irresistible love for yourself and concern for your own needs
+hypo: cacoethes
+
+w: ethical_motive
+w: ethics drf adj.all:ethical drf adj.all:ethical[1] drf noun.person:ethician drf noun.person:ethicist
+w: morality drf adj.all:moralistic
+w: morals
+d: motivation based on ideas of right and wrong
+hyper: Christ_Within
+hyper: conscience
+hyper: hedonism
+hypo: noun.Tops:motivation
+
+w: ground drf verb.cognition:ground
+w: reason drf verb.cognition:reason[1]
+d: a rational motive for a belief or action
+e: the grounds for their declaration
+e: the reason that war was declared
+hyper: account
+hyper: occasion
+hyper: wherefore
+hypo: rational_motive
+
+w: hedonism drf adj.all:hedonic drf adj.all:hedonistic drf noun.person:hedonist
+d: the pursuit of pleasure as a matter of ethical principle
+hypo: ethical_motive
+
+w: impulse
+w: urge
+d: an instinctive motive
+e: profound religious impulses
+hyper: Thanatos
+hyper: abience
+hyper: adience
+hyper: itchy_feet
+hypo: noun.Tops:motivation
+
+w: incentive ant disincentive
+w: inducement drf verb.communication:induce
+w: motivator drf verb.creation:motivate
+d: a positive motivational influence
+hyper: dynamic
+hypo: rational_motive
+
+w: incitation drf verb.communication:incite drf verb.contact:incite drf verb.creation:incite
+w: incitement drf verb.contact:incite
+w: provocation drf verb.communication:provoke drf verb.creation:provoke drf verb.emotion:provoke
+d: something that incites or provokes; a means of arousing or stirring to action
+hyper: signal
+hypo: mental_energy
+
+w: irrational_impulse
+d: a strong spontaneous and irrational motivation
+e: his first impulse was to denounce them
+e: the urge to find out got him into trouble
+hyper: irresistible_impulse
+hypo: irrational_motive
+
+w: irrational_motive
+d: a motivation that is inconsistent with reason or logic
+hyper: cacoethes
+hyper: compulsion
+hyper: irrational_impulse
+hypo: noun.Tops:motivation
+
+w: itchy_feet
+w: wanderlust
+d: very strong or irresistible impulse to travel
+hypo: impulse
+
+w: kleptomania
+d: an irresistible impulse to steal in the absence of any economic motive
+hypo: cacoethes
+
+w: libidinal_energy
+d: (psychoanalysis) psychic energy produced by the libido
+hyper: acathexis
+hyper: cathexis
+hypo: mental_energy
+mt: noun.act:depth_psychology
+
+w: life
+d: a motive for living
+e: pottery was his life
+hypo: noun.Tops:motivation
+
+w: logomania
+w: logorrhea
+d: pathologically excessive (and often incoherent) talking
+hypo: cacoethes
+
+w: mental_energy
+w: psychic_energy
+d: an actuating force or factor
+hyper: incitation
+hyper: libidinal_energy
+hypo: noun.Tops:motivation
+
+w: monomania drf adj.all:monomaniacal
+w: possession
+d: a mania restricted to one thing or idea
+hypo: cacoethes
+
+w: necromania
+w: necrophilia
+w: necrophilism
+d: an irresistible sexual attraction to dead bodies
+hypo: cacoethes
+
+w: occasion drf verb.creation:occasion
+d: reason
+e: there was no occasion for complaint
+hypo: ground
+
+w: onomatomania
+d: obsession with a particular word which the person uses repeatedly or which intrudes into consciousness
+hypo: compulsion
+
+w: phaneromania
+d: an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)
+hypo: cacoethes
+
+w: pyromania
+d: an uncontrollable desire to set fire to things
+hypo: cacoethes
+
+w: rational_motive
+d: a motive that can be defended by reasoning or logical argument
+hyper: deterrence
+hyper: ground
+hyper: incentive
+hypo: noun.Tops:motivation
+
+w: sense_of_duty
+w: sense_of_shame
+d: a motivating awareness of ethical responsibility
+hypo: conscience
+
+w: signal
+d: any incitement to action
+e: he awaited the signal to start
+e: the victory was a signal for wild celebration
+hypo: incitation
+
+w: small_voice
+w: voice_of_conscience
+w: wee_small_voice
+d: an inner voice that judges your behavior
+hypo: conscience
+
+w: trichotillomania
+d: an irresistible urge to pull out your own hair
+hypo: cacoethes
+
+w: wherefore
+w: why
+d: the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
+hypo: ground
+

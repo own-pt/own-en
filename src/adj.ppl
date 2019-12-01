@@ -1,0 +1,249 @@
+adj.ppl
+
+w: avenged ant unavenged pv verb.competition:avenge
+d: for which vengeance has been taken
+e: an avenged injury
+
+w: beaten pv verb.creation:beat
+d: formed or made thin by hammering
+e: beaten gold
+
+w: calibrated pv verb.contact:calibrate[2]
+w: graduated pv verb.contact:calibrate[2]
+d: marked with or divided into degrees
+e: a calibrated thermometer
+
+w: cantering pv verb.motion:canter
+d: riding at a gait between a trot and a gallop
+e: the cantering soldiers
+
+w: carinate drf noun.animal:carinate
+w: carinated
+w: keeled
+w: ridged pv verb.change:ridge
+d: having a ridge or shaped like a ridge or suggesting the keel of a ship
+e: a carinate sepal
+
+w: closed-captioned pv verb.possession:caption
+d: broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers
+mt: noun.communication:TV
+
+w: collected ant uncollected pv verb.contact:collect
+w: gathered ant ungathered pv verb.contact:gather
+d: brought together in one place
+e: the collected works of Milton
+e: the gathered folds of the skirt
+
+w: contested ant uncontested pv verb.communication:contest
+d: disputed or made the object of contention or competition
+e: a contested election
+
+w: corbelled pv verb.possession:corbel
+d: having a corbel
+
+w: elapsed pv verb.motion:elapse
+d: (of time) having passed or slipped by
+e: elapsed time
+
+w: filled ant unfilled pv verb.consumption:fill[2]
+d: of purchase orders that have been filled
+
+w: fitted pv verb.stative:fit[2]
+d: being the right size and shape to fit as desired
+e: a fitted overcoat
+e: he quickly assembled the fitted pieces
+
+w: forced pv verb.motion:force
+d: produced by or subjected to forcing
+e: forced convection in plasma generators
+e: forced-air heating
+e: furnaces of the forced-convection type
+
+w: hammered pv verb.creation:hammer
+d: shaped or worked with a hammer and often showing hammer marks
+e: a bowl of hammered brass
+
+w: hand-held pv verb.contact:hold
+w: handheld pv verb.contact:hold
+d: small and light enough to be operated while you hold it in your hands
+e: a hand-held computer
+
+w: held pv verb.social:hold[14]
+d: occupied or in the control of; often used in combination
+e: enemy-held territory
+
+w: hypophysectomised pv verb.change:hypophysectomise
+w: hypophysectomized pv verb.change:hypophysectomize
+d: having the pituitary gland removed by surgery
+e: hypophysectomized tadpoles
+
+w: malted ant unmalted pv verb.change:malt[2]
+d: of grain that has been converted into malt
+e: malted barley
+
+w: marched_upon pv verb.motion:march[1]
+d: being or having been trodden or marched on
+
+w: mercerised pv verb.change:mercerize
+w: mercerized pv verb.change:mercerize
+d: of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye
+e: mercerized cotton
+
+w: mounded_over pv verb.creation:mound_over
+d: having a mound formed over it
+
+w: operating pv verb.contact:operate[3]
+d: involved in a kind of operation
+e: the operating conditions of the oxidation pond
+
+w: oxidised pv verb.change:oxidise
+w: oxidized pv verb.change:oxidize
+d: combined with or having undergone a chemical reaction with oxygen
+e: the oxidized form of iodine
+
+w: parked pv verb.contact:park
+d: that have been left
+e: there were four parked cars across the street
+
+w: pasteurised pv verb.change:pasteurise
+w: pasteurized pv verb.change:pasteurize
+d: having been subjected to pasteurization in order to halt fermentation
+
+w: penciled pv verb.creation:pencil
+w: pencilled pv verb.creation:pencil
+d: drawn or written with a pencil
+e: a penciled sketch
+e: the penciled message
+
+w: pitched pv verb.change:pitch
+d: (of sound) set to a certain pitch or key; usually used as a combining form
+e: high-pitched
+
+w: played pv verb.competition:play
+d: (of games) engaged in
+e: the loosely played game
+mt: noun.act:game
+
+w: plugged pv verb.change:change[2]
+d: (of a coin) altered by the insertion of a plug of base metal
+
+w: posed ant unposed pv verb.perception:pose
+d: arranged for pictorial purposes
+
+w: posted pv verb.communication:post[3]
+d: publicly announced
+e: the posted speed limit
+
+w: preconceived pv verb.creation:conceive
+d: (of an idea or opinion) formed beforehand; especially without evidence or through prejudice
+e: certain preconceived notions
+
+w: punishing pv verb.social:punish
+d: resulting in punishment
+e: the king imposed a punishing tax
+
+w: pursued pv verb.motion:pursue
+d: followed with enmity as if to harm
+e: running and leaping like a herd of pursued antelopes
+
+w: ranging pv verb.motion:range
+d: wandering freely
+e: at night in bed...his slowly ranging thoughts...encountered her
+
+w: re-created pv verb.creation:re-create
+d: created anew
+e: this re-created literalness
+
+w: regenerating pv verb.change:regenerate
+d: that are generating anew
+e: regenerating fibers
+
+w: sanitised pv verb.change:sanitise
+w: sanitized pv verb.change:sanitize
+d: made sanitary
+
+w: saponified ant unsaponified pv verb.change:saponify
+d: converted into soap
+e: saponified oils
+
+w: shrieked pv verb.communication:shriek
+d: uttered in a shrill scream as of pain or terror
+
+w: sintered pv verb.creation:sinter
+d: formed into a mass by heat and pressure
+
+w: sluicing pv verb.motion:sluice
+d: pouring from or as if from a sluice
+e: the sluicing rain
+
+w: sought pv verb.contact:seek
+d: that is looked for
+e: the long sought relatives
+
+w: spray-dried pv verb.change:spray-dry
+d: dried by bringing a sprayed substance (e.g. milk or soap) into contact with hot air and recovering it in the form of a powder
+
+w: squashed pv verb.contact:squash
+d: that has been violently compressed
+e: the squashed looking nakedness of the fledgling birds
+
+w: stacked pv verb.contact:stack
+d: arranged in a stack
+
+w: streaming pv verb.body:stream
+d: exuding a bodily fluid in profuse amounts
+e: her streaming eyes
+e: his streaming face
+
+w: strung pv verb.contact:string[2]
+d: that is on a string
+e: keys strung on a red cord
+
+w: sublimated pv verb.change:sublimate
+w: sublimed pv verb.change:sublime
+d: passing or having passed from the solid to the gaseous state (or vice versa) without becoming liquid
+
+w: surmounted pv verb.stative:surmount
+d: having something on top
+e: columns surmounted by statues
+
+w: thoriated pv verb.change:thoriate
+w: tittering pv verb.body:titter
+d: being or sounding of nervous or suppressed laughter
+
+w: transpiring pv verb.motion:transpire
+d: that is passing through
+e: transpiring gas
+
+w: unavenged ant avenged pv verb.competition:avenge
+d: for which vengeance has not been taken
+e: an unavenged murder
+
+w: uncollected ant collected pv verb.contact:collect
+w: ungathered ant gathered pv verb.contact:gather
+d: not brought together in one place
+e: uncollected garbage in the streets
+
+w: uncontested ant contested pv verb.communication:contest
+d: not disputed and not made the object of contention or competition
+e: uncontested authority
+
+w: unfilled ant filled pv verb.consumption:fill[2]
+d: of purchase orders that have not been filled
+
+w: unmalted ant malted pv verb.change:malt[2]
+d: of grain that has not been converted into malt
+e: unmalted barley
+
+w: unpasteurised pv verb.change:pasteurise
+w: unpasteurized pv verb.change:pasteurize
+d: not having undergone pasteurization
+
+w: unposed ant posed pv verb.perception:pose
+d: not arranged for pictorial purposes
+e: unposed photographs
+
+w: unsaponified ant saponified pv verb.change:saponify
+d: not converted into soap
+e: unsaponified fat
+

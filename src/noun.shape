@@ -1,0 +1,2122 @@
+noun.shape
+
+w: AZ
+w: azimuth drf adj.pert:azimuthal
+d: the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
+hypo: angle
+
+w: Cartesian_plane
+d: a plane in which all points can be described in Cartesian coordinates
+hypo: plane
+
+w: Cupid's_bow
+d: the double curve of the upper lip when considered to resemble Cupid's bow
+hypo: curve
+
+w: HA
+w: hour_angle
+d: (astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day
+hypo: angular_distance
+mt: noun.cognition:astronomy
+
+w: Jordan_curve
+w: simple_closed_curve
+d: a closed curve that does not intersect itself
+hyper: loop
+hypo: closed_curve
+
+w: Platonic_body
+w: Platonic_solid
+w: ideal_solid
+w: regular_convex_polyhedron
+w: regular_convex_solid
+w: regular_polyhedron
+d: any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent
+hyper: cube
+hyper: regular_dodecahedron
+hyper: regular_icosahedron
+hyper: regular_octahedron
+hyper: regular_tetrahedron
+hypo: polyhedron
+
+w: S-shape
+d: a double curve resembling the letter S
+hypo: curve
+
+w: acantha drf adj.all:acanthous
+w: spine drf adj.all:spinous
+w: spur drf verb.contact:spur[2]
+d: any sharply pointed projection
+hypo: projection
+
+w: acute-angled_triangle
+w: acute_triangle
+d: a triangle whose interior angles are all acute
+hypo: triangle
+
+w: acute_angle
+d: an angle less than 90 degrees but more than 0 degrees
+hypo: oblique_angle
+
+w: altitude drf adj.pert:altitudinal
+d: the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
+hypo: noun.attribute:distance[1]
+
+w: amorphous_shape
+d: an ill-defined or arbitrary shape
+hyper: blob
+hyper: shapelessness
+hyper: space
+hypo: noun.Tops:form
+
+w: anchor_ring
+w: annulus
+w: doughnut
+w: halo
+w: ring
+d: a toroidal shape
+e: a halo of smoke
+e: a ring of ships in the harbor
+hyper: noun.plant:fairy_circle
+hypo: toroid[1]
+
+w: angle drf adj.all:angular drf adj.all:angulate drf adj.pert:angular drf verb.change:angulate drf verb.motion:angle drf verb.motion:angle[1]
+d: the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
+hyper: noun.body:crotch
+hyper: noun.plant:axil
+hyper: AZ
+hyper: angle_of_dip
+hyper: angle_of_extinction
+hyper: angle_of_incidence
+hyper: angle_of_inclination
+hyper: angle_of_reflection
+hyper: angle_of_refraction
+hyper: angle_of_view
+hyper: angular_distance
+hyper: complementary_angles
+hyper: cutting_angle
+hyper: dogleg
+hyper: exterior_angle
+hyper: face_angle
+hyper: helix_angle
+hyper: inclination_of_an_orbit
+hyper: interior_angle
+hyper: lead
+hyper: magnetic_declination
+hyper: oblique_angle
+hyper: perigon
+hyper: plane_angle
+hyper: polyhedral_angle
+hyper: reflex_angle
+hyper: right_angle
+hyper: salient_angle
+hyper: solid_angle
+hyper: spherical_angle
+hyper: tilt_angle
+hyper: vertical_angle
+hyper: wave_angle
+hypo: space
+
+w: angle_of_attack
+d: the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
+hypo: angle_of_incidence
+
+w: angle_of_dip
+w: dip
+w: inclination drf verb.motion:incline
+w: magnetic_dip
+w: magnetic_inclination
+d: (physics) the angle that a magnetic needle makes with the plane of the horizon
+hypo: angle
+mt: noun.cognition:natural_philosophy
+
+w: angle_of_extinction
+w: extinction_angle
+d: the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
+hypo: angle
+
+w: angle_of_incidence
+w: incidence_angle
+d: the angle that a line makes with a line perpendicular to the surface at the point of incidence
+hyper: angle_of_attack
+hyper: critical_angle
+hypo: angle
+
+w: angle_of_inclination
+w: inclination[1] drf verb.motion:incline
+d: (geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+hypo: angle
+mt: noun.cognition:geometry
+
+w: angle_of_reflection
+d: the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
+hypo: angle
+
+w: angle_of_refraction
+d: the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
+hypo: angle
+
+w: angle_of_view
+w: view_angle
+d: the angle included by a photographic lens
+hypo: angle
+
+w: angular_distance
+d: the angular separation between two objects as perceived by an observer
+e: he recorded angular distances between the stars
+hyper: noun.location:RA
+hyper: noun.location:celestial_latitude
+hyper: noun.location:latitude
+hyper: noun.location:longitude
+hyper: HA
+hyper: true_anomaly
+hypo: angle
+
+w: angular_shape
+w: angularity drf adj.all:angular
+d: a shape having one or more sharp angles
+hyper: crimp
+hyper: forking
+hyper: jog
+hyper: zag
+hypo: noun.Tops:form
+
+w: arc[1] drf verb.motion:arc
+w: bow
+d: something curved in shape
+hyper: noun.object:rainbow
+hypo: curve
+
+w: arc drf adj.all:arcuate drf verb.motion:arc
+d: a continuous portion of a circle
+hp: circle
+hp: sector
+hyper: noun.artifact:limb[1]
+hypo: curve
+
+w: arch drf verb.motion:arch
+d: a curved shape in the vertical plane that spans an opening
+hypo: curve
+
+w: articulation drf verb.possession:articulate
+w: join
+w: joint drf verb.contact:joint drf verb.possession:joint drf verb.stative:joint
+w: junction
+w: juncture drf verb.stative:join[1]
+d: the shape or manner in which things come together and a connection is made
+hyper: noun.body:esophagogastric_junction
+hypo: connection
+
+w: asterism
+d: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light
+hypo: star
+mt: noun.cognition:mineralogy
+
+w: asymptote drf adj.pert:asymptotic
+d: a straight line that is the limiting value of a curve; can be considered as tangent at infinity
+e: the asymptote of the curve
+hypo: straight_line
+
+w: balance
+w: counterbalance
+w: equilibrium drf verb.change:equilibrate drf verb.stative:equilibrate drf verb.stative:equilibrize
+w: equipoise
+d: equality of distribution
+hyper: conformation
+hyper: proportion
+hypo: noun.artifact:construction
+
+w: ball
+w: globe drf adj.all:global drf adj.all:globular drf verb.change:conglobate
+w: orb
+d: an object with a spherical shape
+e: a ball of fire
+hyper: noun.artifact:camphor_ball
+hyper: noun.artifact:crystal_ball
+hyper: noun.artifact:time-ball
+hyper: noun.object:fireball[2]
+hyper: noun.object:fireball[3]
+hyper: noun.object:globule
+hyper: bolus
+hyper: pellet
+hyper: spherule
+hypo: sphere
+
+w: barrel
+w: drum
+d: a bulging cylindrical shape; hollow with flat ends
+hypo: cylinder
+
+w: base
+d: the bottom side of a geometric figure from which the altitude can be constructed
+e: the base of the triangle
+hypo: flank
+
+w: bead drf adj.all:beady drf verb.stative:bead
+w: drop drf noun.quantity:droplet
+w: pearl
+d: a shape that is spherical and small
+e: beads of sweat on his forehead
+e: he studied the shapes of low-viscosity drops
+hyper: dewdrop
+hyper: teardrop
+hypo: sphere
+
+w: bell
+w: bell_shape
+w: campana drf adj.pert:campanular
+d: the shape of a bell
+hypo: curve
+
+w: belly
+d: a part that bulges deeply
+e: the belly of a sail
+hypo: bulge
+
+w: bend[1] drf verb.contact:bend drf verb.motion:bend
+w: crease[2]
+w: crimp drf verb.contact:crimp[1]
+w: flexure drf verb.motion:flex
+w: fold drf verb.contact:fold
+w: plication drf verb.contact:plicate
+d: an angular or rounded shape made by folding
+e: a bend of his elbow
+e: a crease in his trousers
+e: a flexure of the colon
+e: a fold in the napkin
+e: a plication on her blouse
+hyper: noun.artifact:plait
+hyper: kink
+hyper: pucker
+hypo: angular_shape
+
+w: bend[2] drf verb.motion:bend drf verb.motion:bend[1]
+w: crook drf verb.motion:crook
+w: turn
+w: twist[1]
+d: a circular segment of a curve
+e: a bend in the road
+e: a crook in the path
+hyper: bight
+hypo: curve
+
+w: bias
+w: diagonal drf adj.all:diagonal
+d: a line or cut across a fabric that is not at right angles to a side of the fabric
+hypo: straight_line
+
+w: bifurcation[1] drf verb.change:bifurcate drf verb.stative:bifurcate
+d: a bifurcating branch (one or both of them)
+hp: bifurcation
+hypo: branch
+
+w: bifurcation drf verb.change:bifurcate
+d: the place where something divides into two branches
+hypo: forking
+mp: bifurcation[1]
+
+w: bight[1] drf verb.contact:bight
+d: a loop in a rope
+hypo: loop
+
+w: bight
+d: a bend or curve (especially in a coastline)
+hypo: crook
+
+w: blob drf verb.contact:blob
+d: an indistinct shapeless form
+hypo: amorphous_shape
+
+w: block[1] drf adj.all:blocky drf verb.change:block[1]
+w: cube[1] drf adj.all:cubical drf adj.all:cuboidal drf verb.contact:cube
+d: a three-dimensional shape with six square or rectangular sides
+hyper: noun.artifact:goldbrick
+hypo: solid
+
+w: bolus
+d: a small round soft mass (as of chewed food)
+hypo: ball
+
+w: border drf verb.stative:border
+w: margin drf adj.all:marginal[2]
+w: perimeter
+d: the boundary line or the area immediately inside the boundary
+hyper: noun.animal:lip
+hypo: bound
+
+w: bottleneck drf verb.change:bottleneck
+w: chokepoint
+w: constriction drf verb.change:constrict
+d: a narrowing that reduces the flow through a channel
+hypo: noun.attribute:narrowing
+
+w: bound drf verb.change:bound drf verb.stative:bound
+w: boundary drf verb.stative:bound
+w: edge drf verb.contact:edge
+d: a line determining the limits of an area
+hyper: border
+hyper: brink
+hyper: fringe
+hyper: lower_bound
+hyper: rim
+hyper: thalweg
+hyper: upper_bound
+hypo: line
+
+w: bowl
+w: trough
+d: a concave shape with an open top
+hypo: concave_shape
+
+w: box
+d: a rectangular drawing
+e: the flowchart contained many boxes
+hypo: rectangle
+
+w: brachium
+d: (biology) a branching or armlike part of an animal
+hypo: branch
+mt: noun.cognition:biological_science
+
+w: branch drf adj.all:branchy drf verb.change:branch
+w: leg
+w: ramification drf verb.change:ramify drf verb.change:ramify[1]
+d: a part of a forked or branching shape
+e: he broke off one of the branches
+hp: forking
+hyper: bifurcation[1]
+hyper: brachium
+hyper: crotch
+hypo: subfigure
+
+w: brink
+w: threshold
+w: verge drf verb.stative:verge[1]
+d: a region marking a boundary
+hypo: bound
+
+w: buckle drf verb.change:buckle
+w: warp drf verb.change:warp
+d: a shape distorted by twisting or folding
+hypo: distorted_shape
+
+w: bulb drf adj.all:bulblike
+d: anything with a round shape resembling a teardrop
+hypo: round_shape
+
+w: bulge drf adj.all:bulgy drf verb.change:bulge drf verb.change:bulge[1] drf verb.motion:bulge drf verb.stative:bulge
+w: bump
+w: excrescence drf adj.pert:excrescent
+w: extrusion
+w: gibbosity drf adj.all:gibbous
+w: gibbousness drf adj.all:gibbous
+w: hump drf verb.motion:hump
+w: jut
+w: prominence
+w: protrusion drf verb.change:protrude drf verb.motion:protrude
+w: protuberance drf adj.all:protuberant drf verb.stative:protuberate[1]
+w: swelling
+d: something that bulges out or is protuberant or projects from its surroundings
+e: he stood on the rocky prominence
+e: the bony excrescence between its horns
+e: the gun in his pocket made an obvious bulge
+e: the hump of a camel
+e: the occipital protuberance was well developed
+hyper: noun.body:frontal_eminence
+hyper: noun.body:occipital_protuberance
+hyper: belly
+hyper: caput
+hyper: mogul
+hyper: nub
+hyper: snag
+hyper: wart
+hypo: projection
+
+w: camber drf verb.motion:camber
+d: a slight convexity (as of the surface of a road)
+hypo: convex_shape
+
+w: caput
+d: a headlike protuberance on an organ or structure
+e: the caput humeri is the head of the humerus which fits into a cavity in the scapula
+hypo: bulge
+
+w: cardioid
+d: an epicycloid in which the rolling circle equals the fixed circle
+hypo: epicycloid
+
+w: cast drf verb.communication:cast
+w: mold drf verb.creation:mold drf verb.creation:mold[1] drf verb.creation:mold[2]
+w: mould
+w: stamp drf verb.creation:stamp drf verb.perception:stamp
+d: the distinctive form in which a thing is made
+e: pottery of this cast was found throughout the region
+hypo: solid
+
+w: catenary
+d: the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points
+hypo: curve
+
+w: cavity
+w: enclosed_space
+d: space that is surrounded by something
+hyper: hollow[2]
+hyper: pocket
+hypo: space
+
+w: center_line
+w: centerline
+d: a line that bisects a plane figure
+hypo: line
+
+w: channel
+w: groove drf verb.contact:groove drf verb.contact:groove[2]
+d: a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
+hyper: noun.artifact:dado[1]
+hyper: noun.artifact:fluting
+hyper: noun.artifact:quirk
+hyper: noun.artifact:rabbet
+hyper: noun.artifact:track[3]
+hyper: rut
+hyper: stria
+hyper: washout
+hypo: depression
+
+w: chap
+w: crack
+w: cranny[1]
+w: crevice
+w: fissure drf verb.change:fissure
+d: a long narrow depression in a surface
+hypo: depression
+
+w: chord
+d: a straight line connecting two points on a curve
+hypo: straight_line
+
+w: circle drf adj.all:circular[1]
+d: ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point
+e: he calculated the circumference of the circle
+hyper: noun.attribute:circle_of_curvature
+hyper: circlet
+hyper: epicycle
+hyper: equator
+hypo: ellipse
+mp: arc
+
+w: circle[1] drf verb.contact:circle[12]
+d: something approximating the shape of a circle
+e: the chairs were arranged in a circle
+hypo: noun.Tops:form
+
+w: circlet
+d: a small circle
+hypo: circle
+
+w: cladogram
+d: a tree diagram used to illustrate phylogenetic relationships
+hypo: tree
+
+w: cleft drf verb.contact:cleave drf verb.contact:cleave[1]
+d: a split or indentation in something (as the palate or chin)
+hypo: indentation
+
+w: closed_curve
+d: a curve (such as a circle) having no endpoints
+hyper: Jordan_curve
+hypo: curve
+
+w: coil drf verb.contact:coil drf verb.motion:coil
+w: curl drf verb.change:curl drf verb.contact:curl[1] drf verb.motion:curl
+w: curlicue
+w: gyre
+w: ringlet
+w: roll drf verb.change:roll[10] drf verb.contact:roll[5] drf verb.stative:roll
+w: scroll
+w: whorl
+d: a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+hyper: noun.plant:calyx
+hyper: noun.plant:corolla
+hyper: verticil
+hypo: round_shape
+
+w: columella
+d: a small column (or structure resembling a column) that is a part of a plant or animal
+hypo: pillar
+
+w: column[2] drf adj.all:columnar[1]
+w: pillar
+w: tower drf verb.stative:tower
+d: anything that approximates the shape of a column or tower
+e: a thin pillar of smoke betrayed their campsite
+e: a tower of dust rose above the horizon
+e: the test tube held a column of white powder
+hyper: columella
+hyper: hoodoo
+hypo: noun.Tops:form
+
+w: complementary_angles
+d: two angles whose sum is a right angle
+hypo: angle
+
+w: concave_polygon ant convex_polygon
+d: a polygon such that there is a straight line that cuts it in four or more points
+hyper: reentering_polygon
+hypo: polygon
+
+w: concave_polyhedron
+d: a polyhedron some of whose plane sections are concave polygons
+hypo: polyhedron
+
+w: concave_shape
+w: concavity drf adj.all:concave
+w: incurvation drf verb.contact:incurvate drf verb.motion:incurvate
+w: incurvature
+d: a shape that curves or bends inward
+hyper: bowl
+hyper: corner
+hyper: cup
+hyper: depression
+hyper: dome
+hyper: fossa
+hyper: indentation
+hyper: scoop
+hypo: solid
+
+w: cone drf adj.pert:conic drf adj.pert:conical drf verb.contact:cone
+w: cone_shape
+w: conoid
+d: a shape whose base is a circle and whose sides taper up to a point
+hyper: funnel
+hypo: round_shape
+mp: point
+
+w: conformation
+d: a symmetrical arrangement of the parts of a thing
+hypo: balance
+
+w: conglobation drf verb.change:conglobate
+w: conglomeration
+d: a rounded spherical form
+hypo: sphere
+
+w: conic drf adj.pert:conic
+w: conic_section
+d: (geometry) a curve generated by the intersection of a plane and a circular cone
+hyper: ellipse
+hyper: hyperbola
+hyper: parabola
+hypo: plane_figure
+mt: noun.cognition:geometry
+
+w: connection
+w: connexion
+w: link
+d: a connecting shape
+hyper: articulation
+hyper: node[2]
+hypo: noun.Tops:form
+
+w: contortion drf noun.person:contortionist drf verb.contact:contort
+w: crookedness
+w: torsion
+w: tortuosity drf adj.all:tortuous[1]
+w: tortuousness drf adj.all:tortuous[1]
+d: a tortuous and twisted shape or position
+e: the acrobat performed incredible contortions
+e: they built a tree house in the tortuosities of its boughs
+hypo: distorted_shape
+
+w: convex_polygon ant concave_polygon
+d: a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points
+hypo: polygon
+
+w: convex_polyhedron
+d: a polyhedron any plane section of which is a convex polygon
+hypo: polyhedron
+
+w: convex_shape
+w: convexity drf adj.all:convex
+d: a shape that curves or bulges outward
+hyper: noun.body:umbo
+hyper: camber
+hyper: entasis
+hyper: knob
+hyper: point
+hyper: projection
+hyper: ridge
+hyper: taper
+hypo: solid
+
+w: convolution
+w: swirl drf verb.motion:swirl drf verb.motion:swirl[1]
+w: vortex
+w: whirl drf verb.motion:whirl[2] drf verb.motion:whirl[4]
+d: the shape of something rotating rapidly
+hypo: round_shape
+
+w: corner drf verb.motion:corner[1]
+w: niche
+w: recess drf verb.contact:recess drf verb.contact:recess[1]
+w: recession
+d: a small concavity
+hyper: noun.body:pharyngeal_recess
+hypo: concave_shape
+
+w: corrugation drf verb.contact:corrugate
+d: a ridge on a corrugated surface
+hypo: ridge
+
+w: crease[1] drf verb.change:crease[10] drf verb.contact:crease drf verb.contact:crease[1]
+w: crinkle drf adj.all:crinkly drf verb.change:crinkle[10] drf verb.contact:crinkle
+w: furrow drf verb.contact:furrow[1]
+w: line[1] drf verb.contact:line[2]
+w: seam[1]
+w: wrinkle drf verb.change:wrinkle[10] drf verb.contact:wrinkle drf verb.contact:wrinkle[1] drf verb.contact:wrinkle[2]
+d: a slight depression in the smoothness of a surface
+e: his face has many lines
+e: ironing gets rid of most wrinkles
+hp: noun.body:cutis
+hyper: crow's_feet
+hyper: dermatoglyphic
+hyper: frown_line
+hyper: heart_line
+hyper: life_line
+hyper: line_of_Saturn
+hypo: depression
+
+w: crenation
+w: crenature
+w: crenel
+w: crenelle
+w: scallop drf verb.change:scallop drf verb.creation:scallop
+d: one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
+hypo: curve
+
+w: crescent drf adj.all:crescent
+d: any shape resembling the curved shape of the moon in its first or last quarters
+hypo: curve
+
+w: critical_angle
+d: the smallest angle of incidence for which light is totally reflected
+hypo: angle_of_incidence
+
+w: crotch
+w: fork drf verb.change:fork[1]
+d: the region of the angle formed by the junction of two branches
+e: he climbed into the crotch of a tree
+e: they took the south fork
+hypo: branch
+
+w: crotchet
+w: hook
+d: a sharp curve or crook; a shape resembling a hook
+hyper: uncus
+hypo: curve
+
+w: crow's_feet
+w: crow's_foot
+w: laugh_line
+d: a wrinkle in the skin at the outer corner of your eyes
+hypo: crinkle
+
+w: cube drf adj.all:cubical drf adj.all:cuboidal drf verb.contact:cube
+w: regular_hexahedron
+d: a hexahedron with six equal squares as faces
+hyper: quadrate[2]
+hyper: tesseract
+hypo: Platonic_body
+
+w: cuboid
+d: a rectangular parallelepiped
+hypo: parallelepiped
+
+w: cuneus
+w: wedge drf verb.contact:wedge
+w: wedge_shape
+d: any shape that is triangular in cross section
+hypo: triangle
+
+w: cup
+d: any cup-shaped concavity
+e: bees filled the waxen cups with honey
+e: he wore a jock strap with a metal cup
+e: the cup of her bra
+hypo: concave_shape
+
+w: curate_cycloid
+d: a cycloid generated by a point inside the rolling circle
+hypo: cycloid
+
+w: curve ant straight_line drf verb.motion:curve
+w: curved_shape
+d: the trace of a point whose direction of motion changes
+hyper: noun.cognition:Gaussian_curve
+hyper: noun.object:meander
+hyper: Cupid's_bow
+hyper: S-shape
+hyper: arc
+hyper: arch
+hyper: bell
+hyper: bow
+hyper: catenary
+hyper: closed_curve
+hyper: crenation
+hyper: crescent
+hyper: crook
+hyper: crotchet
+hyper: envelope
+hyper: extrados
+hyper: gooseneck
+hyper: helix
+hyper: intrados
+hyper: line_roulette
+hyper: perversion
+hyper: quadric
+hyper: sinuosity
+hyper: spiral
+hyper: undulation
+hypo: line
+
+w: cutting_angle
+d: the angle between the face of a cutting tool and the surface of the work
+hypo: angle
+
+w: cycloid drf adj.all:cycloidal
+d: a line generated by a point on a circle rolling along a straight line
+hyper: curate_cycloid
+hyper: prolate_cycloid
+hypo: line_roulette
+
+w: cylinder[2] drf adj.all:cylindric
+d: a solid bounded by a cylindrical surface and two parallel planes (the bases)
+hyper: noun.artifact:roll
+hyper: noun.artifact:roller
+hypo: solid
+
+w: cylinder drf adj.all:cylindric
+d: a surface generated by rotating a parallel line around a fixed line
+hyper: noun.artifact:brake_drum
+hyper: noun.artifact:shank[1]
+hyper: noun.artifact:shank[2]
+hyper: noun.artifact:shank[3]
+hyper: noun.object:stalactite
+hyper: noun.object:stalagmite
+hyper: barrel
+hyper: pipe
+hypo: round_shape
+
+w: decagon
+d: a polygon with 10 sides and 10 angles
+hypo: polygon
+
+w: decahedron
+d: any polyhedron having ten plane faces
+hypo: polyhedron
+
+w: delta
+d: an object shaped like an equilateral triangle
+hypo: equiangular_triangle
+
+w: dent drf verb.contact:dent
+w: incision drf adj.all:incisive[1] drf verb.contact:incise
+w: prick drf verb.contact:prick
+w: scratch drf verb.contact:scratch
+w: slit drf verb.contact:slit drf verb.contact:slit[1]
+d: a depression scratched or carved into a surface
+hyper: score
+hypo: depression
+
+w: depression
+w: impression
+w: imprint
+d: a concavity in a surface produced by pressing
+e: he left the impression of his fingers in the soft mud
+hyper: noun.body:dimple
+hyper: channel
+hyper: chap
+hyper: crinkle
+hyper: dent
+hyper: dimple
+hyper: dip[1]
+hyper: droop
+hypo: concave_shape
+
+w: dermatoglyphic
+d: the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)
+hypo: crinkle
+
+w: dewdrop
+d: a drop of dew
+hypo: bead
+
+w: diagonal[1] drf adj.all:diagonal[1]
+d: (geometry) a straight line connecting any two vertices of a polygon that are not adjacent
+hypo: straight_line
+mt: noun.cognition:geometry
+
+w: diameter drf adj.pert:diametral drf adj.pert:diametric drf adj.pert:diametrical
+d: a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)
+hypo: straight_line
+
+w: diamond
+w: rhomb
+w: rhombus drf adj.pert:rhombic
+d: a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
+hypo: parallelogram
+
+w: dimple drf verb.change:dimple
+d: any slight depression in a surface
+e: there are approximately 336 dimples on a golf ball
+hypo: depression
+
+w: dip[1] drf verb.change:dip[1] drf verb.motion:dip[2]
+d: a depression in an otherwise level surface
+e: there was a dip in the road
+hypo: depression
+
+w: disc
+w: disk
+w: saucer
+d: something with a round shape resembling a flat circular plate
+e: the moon's disk hung in a cloudless sky
+hyper: noun.body:intervertebral_disc
+hyper: dot
+hypo: round_shape
+
+w: disproportion ant proportion
+d: lack of proportion; imbalance among the parts of something
+hypo: noun.attribute:disparity
+
+w: distorted_shape
+w: distortion drf noun.person:distortionist drf verb.contact:distort drf verb.contact:distort[1]
+d: a shape resulting from distortion
+hyper: buckle
+hyper: contortion
+hyper: gnarl
+hypo: noun.Tops:form
+
+w: dodecagon
+d: a twelve-sided polygon
+hypo: polygon
+
+w: dodecahedron
+d: any polyhedron having twelve plane faces
+hypo: polyhedron
+
+w: dogleg
+d: angle that resembles the hind leg of a dog
+hypo: angle
+
+w: dome
+d: a concave shape whose distinguishing characteristic is that the concavity faces downward
+hypo: concave_shape
+
+w: dot drf verb.change:dot drf verb.communication:dot drf verb.stative:dot
+w: point[2] drf verb.contact:point[11] drf verb.contact:point[12] drf verb.contact:point[13]
+d: a very small circular shape
+e: a row of points
+e: draw lines between the dots
+hypo: disc
+
+w: double_helix
+d: a pair of parallel helices intertwined about a common axis
+e: the shape of the DNA molecule is a double helix
+hypo: helix
+
+w: droop drf adj.all:droopy drf verb.change:droop drf verb.motion:droop drf verb.stative:droop
+w: sag drf verb.motion:sag drf verb.motion:sag[1]
+d: a shape that sags
+e: there was a sag in the chair seat
+hypo: depression
+
+w: eccentricity drf adj.all:eccentric[1]
+d: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis
+e: a circle is an ellipse with zero eccentricity
+hypo: noun.relation:ratio[1]
+mt: noun.cognition:geometry
+
+w: element
+d: a straight line that generates a cylinder or cone
+hyper: element_of_a_cone
+hyper: element_of_a_cylinder
+hypo: straight_line
+
+w: element_of_a_cone
+d: a straight line joining the apex and a point on the base
+hypo: element
+
+w: element_of_a_cylinder
+d: a straight line running the length of the cylinder
+hypo: element
+
+w: ellipse drf adj.all:elliptic drf adj.all:elliptical
+w: oval drf adj.all:oval
+d: a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it
+e: the sums of the distances from the foci to any point on an ellipse is constant
+hyper: circle
+hypo: conic
+
+w: ellipsoid drf adj.all:ellipsoid drf adj.all:ellipsoidal
+d: a surface whose plane sections are all ellipses or circles
+e: the Earth is an ellipsoid
+hypo: plane_figure
+
+w: ellipsoid_of_revolution
+w: spheroid drf adj.all:spheroidal
+d: a shape that is generated by rotating an ellipse around one of its axes
+e: it looked like a sphere but on closer examination I saw it was really a spheroid
+hypo: round_shape
+
+w: emptiness
+w: vacancy drf adj.all:vacant[1]
+w: vacuum
+w: void drf adj.all:void[1] drf verb.change:void[4]
+d: an empty area or space
+e: the emptiness of outer space
+e: the huge desert voids
+e: without their support he'll be ruling in a vacuum
+hypo: space
+
+w: entasis
+d: a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
+hp: noun.artifact:column
+hypo: convex_shape
+
+w: envelope
+d: a curve that is tangent to each of a family of curves
+hypo: curve
+
+w: epicycle drf adj.pert:epicyclic drf adj.pert:epicyclical
+d: a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
+hypo: circle
+
+w: epicycloid
+d: a line generated by a point on a circle rolling around another circle
+hyper: cardioid
+hypo: line_roulette
+
+w: equator drf adj.pert:equatorial[2] drf verb.change:equate
+d: a circle dividing a sphere or other surface into two usually equal and symmetrical parts
+hypo: circle
+
+w: equiangular_triangle
+w: equilateral_triangle
+d: a three-sided regular polygon
+hyper: delta
+hypo: regular_polygon
+hypo: triangle
+
+w: equilateral
+d: a figure whose sides are all equal
+hypo: figure
+
+w: exterior_angle
+w: external_angle
+d: the supplement of an interior angle of a polygon
+hyper: hip
+hypo: angle
+
+w: extrados
+d: the exterior curve of an arch
+hypo: curve
+
+w: face_angle
+d: the angle formed by two edges of a polyhedral angle
+hypo: angle
+
+w: facet
+d: a smooth surface (as of a bone or cut gemstone)
+hypo: subfigure
+
+w: facet_plane
+d: the plane of a facet of an object (as of a cube)
+hypo: plane
+
+w: figure
+d: a combination of points and lines and planes that form a visible palpable shape
+hyper: equilateral
+hyper: parallel
+hyper: pencil
+hyper: plane_figure
+hyper: solid_figure
+hyper: subfigure
+hypo: noun.Tops:form
+
+w: flair
+w: flare drf verb.change:flare
+d: a shape that spreads outward
+e: the skirt had a wide flare
+hypo: noun.Tops:form
+
+w: flank drf verb.stative:flank
+d: a subfigure consisting of a side of something
+hyper: base
+hyper: hypotenuse
+hypo: subfigure
+
+w: forking drf verb.change:fork
+w: furcation drf verb.change:furcate
+d: the place where something divides into branches
+hyper: bifurcation
+hypo: angular_shape
+mp: branch
+
+w: fossa
+w: pit drf verb.contact:pit
+d: a concavity in a surface (especially an anatomical depression)
+hyper: noun.body:epigastric_fossa
+hyper: noun.body:glenoid_cavity
+hyper: noun.body:mandibular_fossa
+hypo: noun.body:bodily_cavity
+hypo: concave_shape
+
+w: foursquare
+w: square drf verb.change:square
+d: (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon
+e: you can compute the area of a square if you know the length of its sides
+hyper: quadrate[1]
+hypo: rectangle
+hypo: regular_polygon
+mt: noun.cognition:geometry
+
+w: fringe drf adj.all:fringy
+w: outer_boundary
+w: periphery drf adj.all:peripheral
+d: the outside boundary or surface of something
+hypo: bound
+
+w: frown_line
+d: a facial wrinkle associated with frowning
+hypo: crinkle
+
+w: frustum
+d: a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed
+hyper: truncated_cone
+hyper: truncated_pyramid
+hypo: solid
+
+w: funnel drf verb.contact:funnel
+w: funnel_shape
+d: a conical shape with a wider and a narrower opening at the two ends
+hypo: cone
+
+w: geodesic drf adj.pert:geodesic
+w: geodesic_line
+d: (mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
+hypo: line
+mt: noun.cognition:math
+
+w: gnarl drf adj.all:gnarly drf verb.contact:gnarl
+w: knot drf adj.all:knotty[3] drf verb.contact:knot[2] drf verb.creation:knot
+d: something twisted and tight and swollen
+e: his stomach was in knots
+e: the old man's fists were two great gnarls
+e: their muscles stood out in knots
+hypo: distorted_shape
+
+w: gooseneck
+d: something in a thin curved form (like the neck of a goose)
+hypo: curve
+
+w: heart
+d: a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
+e: he drew a heart and called it a valentine
+hypo: plane_figure
+
+w: heart_line
+w: line_of_heart
+w: love_line
+w: mensal_line
+d: a crease on the palm; palmists say it indicates your emotional nature
+hypo: crinkle
+
+w: helix
+w: spiral[1] drf verb.stative:spiral
+d: a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
+hyper: double_helix
+hypo: curve
+
+w: helix_angle
+d: the constant angle at which a helix cuts the elements of a cylinder or cone
+hypo: angle
+
+w: hemicycle
+w: semicircle drf adj.all:semicircular
+d: a plane figure with the shape of half a circle
+hypo: plane_figure
+
+w: hemisphere drf adj.pert:hemispherical
+d: half of a sphere
+hypo: subfigure
+
+w: heptagon
+d: a seven-sided polygon
+hypo: polygon
+
+w: hexagon drf adj.pert:hexagonal
+d: a six-sided polygon
+hyper: regular_hexagon
+hypo: polygon
+
+w: hexagram
+d: a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles
+hyper: noun.communication:Magen_David
+hypo: star
+
+w: hexahedron
+d: any polyhedron having six plane faces
+hyper: rhombohedron
+hypo: polyhedron
+
+w: hip
+d: (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof
+hp: noun.artifact:hip_roof
+hypo: exterior_angle
+mt: noun.cognition:architecture
+
+w: hole
+d: an unoccupied space
+hyper: pore
+hypo: space
+
+w: hollow[2] drf adj.all:hollow[1]
+d: a cavity or space in something
+e: hunger had caused the hollows in their cheeks
+hypo: cavity
+
+w: hoodoo
+d: (geology) a column of weathered and unusually shaped rock
+e: a tall sandstone hoodoo
+hypo: pillar
+mt: noun.cognition:geology
+
+w: hyperbola drf adj.pert:hyperbolic
+d: an open curve formed by a plane that cuts the base of a right circular cone
+hypo: conic
+
+w: hyperboloid drf adj.all:hyperboloidal
+d: a quadric surface generated by rotating a hyperbola around its main axis
+hypo: quadric
+
+w: hypocycloid
+d: a line generated by a point on a circle that rolls around inside another circle
+hypo: line_roulette
+
+w: hypotenuse
+d: the side of a right triangle opposite the right angle
+hp: right-angled_triangle
+hypo: flank
+
+w: icosahedron drf adj.pert:icosahedral
+d: any polyhedron having twenty plane faces
+hypo: polyhedron
+
+w: incisura
+w: incisure drf verb.contact:incise
+d: (anatomy) a notch or small hollow
+hyper: noun.body:mandibular_notch
+hypo: notch
+mt: noun.cognition:anatomy
+
+w: inclination[2] drf verb.motion:incline
+w: inclination_of_an_orbit
+d: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+hypo: angle
+mt: noun.cognition:astronomy
+
+w: indentation
+w: indenture
+d: a concave cut into a surface or edge (as in a coastline)
+hyper: noun.artifact:notch
+hyper: cleft
+hyper: notch
+hypo: concave_shape
+
+w: interior_angle
+w: internal_angle
+d: the angle inside two adjacent sides of a polygon
+hyper: reentering_angle
+hypo: angle
+
+w: intersection
+d: a point or set of points common to two or more geometric configurations
+hyper: noun.cognition:origin
+hypo: noun.group:set[2]
+
+w: intrados
+d: the interior curve of an arch
+hypo: curve
+
+w: isogon drf adj.all:isogonic
+d: an equiangular polygon
+hyper: regular_polygon
+hypo: polygon
+
+w: isosceles_triangle
+d: a triangle with two equal sides
+hypo: triangle
+
+w: jog
+d: a sharp change in direction
+e: there was a jog in the road
+hypo: angular_shape
+
+w: keel
+d: a projection or ridge that suggests a keel
+hypo: projection
+
+w: kink drf verb.change:kink drf verb.contact:kink
+w: twirl
+w: twist drf verb.contact:twist[1]
+d: a sharp bend in a line produced when a line having a loop is pulled tight
+hypo: crimp
+
+w: knife
+w: tongue
+d: any long thin projection that is transient
+e: rifles exploded quick knives of fire into the dark
+e: tongues of flame licked at the walls
+hypo: projection
+
+w: knob drf adj.all:knobby
+w: node[1]
+w: thickening
+d: any thickened enlargement
+hypo: convex_shape
+
+w: lead
+d: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
+hypo: angle
+
+w: leaf_form
+w: leaf_shape
+d: any of the various shape that leaves of plants can assume
+hp: noun.plant:foliage
+hypo: natural_shape
+
+w: life_line
+w: lifeline
+w: line_of_life
+d: a crease on the palm; its length is said by palmists to indicate how long you will live
+hypo: crinkle
+
+w: line
+d: a length (straight or curved) without breadth or thickness; the trace of a moving point
+hyper: noun.communication:curve
+hyper: bound
+hyper: center_line
+hyper: curve
+hyper: geodesic
+hyper: perimeter[1]
+hyper: straight_line
+hypo: noun.Tops:form
+
+w: line_of_Saturn
+w: line_of_destiny
+w: line_of_fate
+d: a crease on the palm; palmists say it indicates how successful you will be
+hypo: crinkle
+
+w: line_roulette
+w: roulette
+d: a line generated by a point on one figure rolling around a second figure
+hyper: cycloid
+hyper: epicycloid
+hyper: hypocycloid
+hypo: curve
+
+w: loop drf adj.pert:loopy drf verb.contact:loop drf verb.creation:loop
+d: anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)
+hyper: noun.artifact:band[5]
+hyper: noun.artifact:belt[1]
+hyper: noun.artifact:drip_loop
+hyper: noun.artifact:running_noose
+hyper: noun.communication:lobe
+hyper: bight[1]
+hypo: Jordan_curve
+
+w: lower_bound
+d: (mathematics) a number equal to or less than any other number in a given set
+hypo: bound
+mt: noun.cognition:math
+
+w: magnetic_declination
+w: magnetic_variation
+w: variation drf verb.stative:vary[1]
+d: the angle (at a particular location) between magnetic north and true north
+hypo: angle
+
+w: midline
+w: midplane
+d: the median plane of the body (or some part of the body)
+hypo: plane
+
+w: mogul
+d: a bump on a ski slope
+hypo: bulge
+
+w: natural_shape
+d: a shape created by natural forces; not man-made
+hyper: leaf_form
+hypo: noun.Tops:form
+
+w: node[2]
+d: a connecting point at which several lines come together
+hypo: connection
+
+w: nonagon
+d: a nine-sided polygon
+hypo: polygon
+
+w: notch drf verb.contact:notch
+d: a V-shaped indentation
+e: mandibular notch
+hyper: incisura
+hypo: indentation
+
+w: nub drf adj.all:nubby
+w: nubble drf adj.all:nubbly
+d: a small lump or protuberance
+hypo: bulge
+
+w: oblique_angle ant right_angle
+d: an angle that is not a right angle or a multiple of a right angle
+hyper: acute_angle
+hyper: obtuse_angle
+hypo: angle
+
+w: oblique_triangle ant right_triangle
+d: a triangle that contains no right angle
+hypo: triangle
+
+w: oblong drf adj.all:oblong
+d: a plane figure that deviates from a square or circle due to elongation
+hypo: plane_figure
+
+w: obtuse-angled_triangle
+w: obtuse_triangle
+d: a triangle that contains an obtuse interior angle
+hypo: triangle
+
+w: obtuse_angle
+d: an angle between 90 and 180 degrees
+hypo: oblique_angle
+
+w: octagon
+d: an eight-sided polygon
+hypo: polygon
+
+w: octahedron
+d: any polyhedron having eight plane faces
+hypo: polyhedron
+
+w: orbital_plane
+d: (astronomy) the plane on which a body is orbiting
+hypo: plane
+mt: noun.cognition:astronomy
+
+w: ovoid drf adj.all:ovoid
+d: an egg-shaped object
+hypo: solid
+
+w: parabola drf adj.all:parabolic drf adj.all:parabolical
+d: a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve
+hypo: conic
+
+w: paraboloid drf adj.all:paraboloidal
+d: a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis
+hypo: plane_figure
+
+w: parallel
+d: (mathematics) one of a set of parallel geometric figures (parallel lines or planes)
+e: parallels never meet
+hypo: figure
+mt: noun.cognition:math
+
+w: parallelepiped
+w: parallelepipedon
+w: parallelopiped
+w: parallelopipedon
+d: a prism whose bases are parallelograms
+hyper: cuboid
+hyper: rhombohedron
+hypo: prism
+
+w: parallelogram ant trapezium
+d: a quadrilateral whose opposite sides are both parallel and equal in length
+hyper: diamond
+hyper: rectangle
+hyper: rhomboid
+hypo: quadrangle
+
+w: peak[1]
+w: point drf verb.change:point
+w: tip
+d: a V shape
+e: the cannibal's teeth were filed to sharp points
+hp: noun.artifact:alpenstock
+hp: noun.artifact:arrowhead
+hp: noun.artifact:brand
+hp: noun.artifact:knife[1]
+hp: noun.artifact:pencil
+hp: cone
+hyper: noun.body:cusp
+hyper: noun.body:widow's_peak
+hyper: noun.state:head
+hypo: convex_shape
+
+w: pellet
+d: a small sphere
+hypo: ball
+
+w: pencil
+d: a figure formed by a set of straight lines or light rays meeting at a point
+hypo: figure
+mt: noun.cognition:geometry
+mt: noun.cognition:natural_philosophy
+
+w: pentacle
+w: pentagram
+w: pentangle
+d: a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon
+hypo: star
+
+w: pentagon
+d: a five-sided polygon
+hypo: polygon
+
+w: pentahedron
+d: any polyhedron having five plane faces
+hypo: polyhedron
+
+w: perigon
+w: round_angle
+d: an angle of 360 degrees
+hypo: angle
+
+w: perimeter[1]
+d: a line enclosing a plane areas
+hypo: line
+
+w: perpendicular drf adj.all:perpendicular[2]
+d: a straight line at right angles to another line
+hypo: straight_line
+
+w: perversion
+d: a curve that reverses the direction of something
+e: perversion also shows up in kinky telephone cords
+e: the tendrils of the plant exhibited perversion
+hypo: curve
+
+w: picture_plane
+d: the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work
+hp: noun.attribute:linear_perspective
+hypo: plane
+
+w: pipe
+w: tube drf verb.contact:tube
+d: a hollow cylindrical shape
+hypo: cylinder
+
+w: plane drf adj.all:planar drf adj.all:plane
+w: sheet
+d: (mathematics) an unbounded two-dimensional shape
+e: any line joining two points on a plane lies wholly on that plane
+e: we will refer to the plane of the graph as the X-Y plane
+hyper: Cartesian_plane
+hyper: facet_plane
+hyper: midline
+hyper: orbital_plane
+hyper: picture_plane
+hyper: tangent_plane
+hypo: noun.Tops:form
+mt: noun.cognition:math
+
+w: plane_angle
+d: an angle formed by two straight lines (in the same plane)
+hypo: angle
+
+w: plane_figure
+w: two-dimensional_figure
+d: a two-dimensional shape
+hyper: conic
+hyper: ellipsoid
+hyper: heart
+hyper: hemicycle
+hyper: oblong
+hyper: paraboloid
+hyper: polygon
+hyper: sector
+hyper: star
+hyper: tree
+hypo: figure
+
+w: plume
+d: anything that resembles a feather in shape or lightness
+e: a plume of smoke
+e: grass with large plumes
+hypo: noun.Tops:form
+
+w: pocket
+w: pouch
+w: sac
+w: sack
+d: an enclosed space
+e: the trapped miners found a pocket of air
+hypo: cavity
+
+w: pocket[1]
+w: scoop drf verb.contact:scoop[1]
+d: a hollow concave shape made by removing something
+hypo: concave_shape
+
+w: pocket[2]
+d: (bowling) the space between the headpin and the pins behind it on the right or left
+e: the ball hit the pocket and gave him a perfect strike
+hypo: space
+mt: noun.act:bowling
+
+w: polygon
+w: polygonal_shape
+d: a closed plane figure bounded by straight sides
+hyper: concave_polygon
+hyper: convex_polygon
+hyper: decagon
+hyper: dodecagon
+hyper: heptagon
+hyper: hexagon
+hyper: isogon
+hyper: nonagon
+hyper: octagon
+hyper: pentagon
+hyper: quadrangle
+hyper: spherical_polygon
+hyper: triangle
+hyper: undecagon
+hypo: plane_figure
+
+w: polyhedral_angle
+d: the space enclosed by three or more planes that intersect in a vertex
+hypo: angle
+
+w: polyhedron drf adj.pert:polyhedral
+d: a solid figure bounded by plane polygons or faces
+hyper: Platonic_body
+hyper: concave_polyhedron
+hyper: convex_polyhedron
+hyper: decahedron
+hyper: dodecahedron
+hyper: hexahedron
+hyper: icosahedron
+hyper: octahedron
+hyper: pentahedron
+hyper: prism
+hyper: prismatoid
+hyper: pyramid
+hyper: tetrahedron
+hyper: trapezohedron
+hypo: solid
+
+w: pore drf adj.all:poriferous drf adj.all:porous
+d: any tiny hole admitting passage of a liquid (fluid or gas)
+hypo: hole
+
+w: prism drf adj.pert:prismatic
+d: a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms
+hyper: parallelepiped
+hyper: quadrangular_prism
+hyper: triangular_prism
+hypo: polyhedron
+
+w: prismatoid
+d: a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid
+hyper: prismoid
+hypo: polyhedron
+
+w: prismoid
+d: a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms
+hypo: prismatoid
+
+w: projection
+d: any solid convex shape that juts out from something
+hyper: noun.location:salient
+hyper: noun.object:jag
+hyper: acantha
+hyper: bulge
+hyper: keel
+hyper: knife
+hyper: tail
+hypo: convex_shape
+
+w: prolate_cycloid
+d: a cycloid generated by a point outside the rolling circle
+hypo: cycloid
+
+w: proportion ant disproportion drf verb.change:proportion[1]
+w: symmetry drf adj.all:symmetric drf verb.change:symmetrise drf verb.change:symmetrize
+d: balance among the parts of something
+hypo: balance
+
+w: pucker drf verb.contact:pucker[1] drf verb.contact:pucker[2]
+w: ruck drf verb.contact:ruck
+d: an irregular fold in an otherwise even surface (as in cloth)
+hypo: crimp
+
+w: pyramid drf adj.all:pyramidal drf adj.all:pyramidical drf verb.contact:pyramid
+d: a polyhedron having a polygonal base and triangular sides with a common vertex
+hypo: polyhedron
+
+w: quadrangle drf adj.pert:quadrangular
+w: quadrilateral
+w: tetragon drf adj.pert:tetragonal
+d: a four-sided polygon
+hyper: parallelogram
+hyper: trapezium
+hyper: trapezoid
+hypo: polygon
+
+w: quadrangular_prism
+d: a prism whose bases are quadrangles
+hypo: prism
+
+w: quadrate[1]
+d: a square-shaped object
+hypo: foursquare
+
+w: quadrate[2]
+d: a cubelike object
+hypo: cube
+
+w: quadric
+w: quadric_surface
+d: a curve or surface whose equation (in Cartesian coordinates) is of the second degree
+hyper: hyperboloid
+hypo: curve
+
+w: radius drf adj.pert:radial
+d: a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
+hypo: straight_line
+
+w: ray drf verb.stative:ray
+d: (mathematics) a straight line extending from a point
+hypo: vector
+mt: noun.cognition:math
+
+w: rectangle drf adj.all:rectangular[1]
+d: a parallelogram with four right angles
+hyper: box
+hyper: foursquare
+hypo: parallelogram
+
+w: reentering_angle
+w: reentrant_angle ant salient_angle
+d: an interior angle of a polygon that is greater than 180 degrees
+hypo: interior_angle
+
+w: reentering_polygon
+w: reentrant_polygon
+d: a polygon with one or more reentrant angles
+hypo: concave_polygon
+
+w: reflex_angle
+d: an angle greater than 180 degrees (but less than 360)
+hypo: angle
+
+w: regular_dodecahedron
+d: a dodecahedron with twelve regular pentagons as faces
+hypo: Platonic_body
+
+w: regular_hexagon
+d: a hexagon with six sides of equal length
+hypo: hexagon
+
+w: regular_icosahedron
+d: an icosahedron with twenty equilateral triangles as faces
+hypo: Platonic_body
+
+w: regular_octahedron
+d: an octahedron with eight equilateral triangles as faces
+hypo: Platonic_body
+
+w: regular_polygon
+d: a polygon with all sides and all angles equal
+hyper: equiangular_triangle
+hyper: foursquare
+hypo: isogon
+
+w: regular_tetrahedron
+d: a tetrahedron with four equilateral triangular faces
+hypo: Platonic_body
+
+w: rhombohedron drf adj.all:rhombohedral
+d: a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)
+hypo: hexahedron
+hypo: parallelepiped
+
+w: rhomboid drf adj.pert:rhomboid drf adj.pert:rhomboidal
+d: a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal
+hypo: parallelogram
+
+w: ridge drf verb.change:ridge drf verb.contact:ridge drf verb.contact:ridge[1] drf verb.creation:ridge
+d: any long raised strip
+hyper: noun.body:raphe
+hyper: corrugation
+hypo: convex_shape
+
+w: right-angled_triangle
+w: right_triangle ant oblique_triangle
+d: a triangle with one right angle
+hypo: triangle
+mp: hypotenuse
+
+w: right_angle ant oblique_angle
+d: the 90 degree angle between two perpendicular lines
+hypo: angle
+mp: noun.quantity:grad
+
+w: rim drf verb.possession:rim
+d: the shape of a raised edge of a more or less circular object
+hypo: bound
+hypo: round_shape
+
+w: round_shape
+d: a shape that is curved and without sharp angles
+hyper: bulb
+hyper: coil
+hyper: cone
+hyper: convolution
+hyper: cylinder
+hyper: disc
+hyper: ellipsoid_of_revolution
+hyper: rim
+hyper: sphere
+hyper: sphere[1]
+hyper: toroid
+hypo: noun.Tops:form
+
+w: rut drf adj.all:rutty drf verb.contact:rut
+d: a groove or furrow (especially one in soft earth caused by wheels)
+hypo: channel
+
+w: salient_angle ant reentrant_angle
+d: an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
+hypo: angle
+
+w: scalene_triangle
+d: a triangle with no two sides of equal length
+hypo: triangle
+
+w: score drf verb.contact:score
+w: scotch drf verb.contact:scotch
+d: a slight surface cut (especially a notch that is made to keep a tally)
+hypo: dent
+
+w: secant
+d: a straight line that intersects a curve at two or more points
+hypo: straight_line
+
+w: sector drf adj.pert:sectorial
+d: a plane figure bounded by two radii and the included arc of a circle
+hypo: plane_figure
+mp: arc
+
+w: shapelessness drf adj.all:shapeless
+d: an amorphous or indefinite shape
+e: a shapeless mass
+hypo: amorphous_shape
+
+w: sine_curve
+w: sinusoid drf adj.all:sinusoidal
+d: the curve of y=sin x
+hypo: undulation
+
+w: sinuosity drf adj.all:sinuous
+w: sinuousness drf adj.all:sinuous
+d: having curves
+e: he hated the sinuosity of mountain roads
+hypo: curve
+
+w: snag drf verb.contact:snag drf verb.contact:snag[1]
+d: a sharp protuberance
+hypo: bulge
+
+w: solid drf verb.change:solidify
+d: a three-dimensional shape
+hyper: block[1]
+hyper: cast
+hyper: concave_shape
+hyper: convex_shape
+hyper: cylinder[2]
+hyper: frustum
+hyper: ovoid
+hyper: polyhedron
+hyper: toroid[1]
+hypo: noun.Tops:form
+
+w: solid_angle
+d: an angle formed by three or more planes intersecting at a common point (the vertex)
+hypo: angle
+
+w: solid_figure
+w: three-dimensional_figure
+d: a three-dimensional shape
+hyper: noun.artifact:sculpture
+hypo: figure
+
+w: space drf verb.motion:space
+d: an empty area (usually bounded in some way between things)
+e: the architect left space in front of the building
+e: the space between his teeth
+e: they stopped at an open space in the jungle
+hyper: noun.artifact:compartment[1]
+hyper: noun.artifact:crenel
+hyper: noun.body:pleural_space
+hyper: noun.body:subarachnoid_space
+hyper: noun.object:enclosure
+hyper: noun.object:expanse
+hyper: noun.object:gap
+hyper: noun.quantity:swath
+hyper: angle
+hyper: cavity
+hyper: emptiness
+hyper: hole
+hyper: pocket[2]
+hypo: noun.Tops:location
+hypo: amorphous_shape
+
+w: sphere drf adj.all:spheric
+d: a solid figure bounded by a spherical surface (including the space it encloses)
+hyper: ball
+hyper: bead
+hyper: conglobation
+hypo: round_shape
+
+w: sphere[1] drf adj.all:spheric drf adj.all:spherical
+d: a three-dimensional closed surface such that every point on the surface is equidistant from the center
+hypo: round_shape
+mp: noun.quantity:sr
+
+w: spherical_angle
+d: an angle formed at the intersection of the arcs of two great circles
+hypo: angle
+
+w: spherical_polygon
+d: a figure on the surface of a sphere bounded by arcs of 3 or more great circles
+hyper: spherical_triangle
+hypo: polygon
+
+w: spherical_triangle
+d: a spherical polygon formed by the arcs of 3 great circles
+hypo: spherical_polygon
+
+w: spherule
+d: a small sphere
+hypo: ball
+
+w: spiral drf verb.motion:spiral drf verb.stative:spiral
+d: a plane curve traced by a point circling about the center but at increasing distances from the center
+hypo: curve
+
+w: square[1]
+d: something approximating the shape of a square
+hypo: noun.Tops:form
+
+w: star
+d: a plane figure with 5 or more points; often used as an emblem
+hyper: asterism
+hyper: hexagram
+hyper: pentacle
+hypo: plane_figure
+
+w: stemma
+d: a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
+hypo: tree
+
+w: straight_line ant curve
+d: a line traced by a point traveling in a constant direction; a line of zero curvature
+e: the shortest distance between two points is a straight line
+hyper: asymptote
+hyper: bias
+hyper: chord
+hyper: diagonal[1]
+hyper: diameter
+hyper: element
+hyper: perpendicular
+hyper: radius
+hyper: secant
+hyper: tangent
+hyper: vector
+hypo: line
+
+w: stria drf verb.change:striate
+w: striation drf verb.change:striate
+d: any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue
+hypo: channel
+
+w: subfigure
+d: a figure that is a part of another figure
+hyper: branch
+hyper: facet
+hyper: flank
+hyper: hemisphere
+hypo: figure
+
+w: tail
+w: tail_end
+d: any projection that resembles the tail of an animal
+hypo: projection
+
+w: tangent drf adj.pert:tangential drf noun.state:tangency
+d: a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point
+hypo: straight_line
+
+w: tangent_plane
+d: the plane that contains all the lines tangent to a specific point on a surface
+hypo: plane
+
+w: taper drf verb.change:taper
+d: a convex shape that narrows toward a point
+hypo: convex_shape
+
+w: teardrop
+d: anything shaped like a falling drop (as a pendant gem on an earring)
+hypo: bead
+
+w: tesseract
+d: the four-dimensional analogue of a cube
+hypo: cube
+
+w: tetrahedron
+d: any polyhedron having four plane faces
+hypo: polyhedron
+
+w: thalweg
+d: the middle of the chief navigable channel of a waterway that forms the boundary line between states
+hypo: bound
+
+w: tilt_angle
+d: the angle a rocket makes with the vertical as it curves along its trajectory
+hypo: angle
+
+w: toroid drf adj.pert:toroidal
+w: torus
+d: a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
+hyper: noun.artifact:magnetic_core
+hypo: round_shape
+
+w: toroid[1] drf adj.pert:toroidal
+d: the doughnut-shaped object enclosed by a torus
+hyper: anchor_ring
+hypo: solid
+
+w: trapezium ant parallelogram
+d: a quadrilateral with no parallel sides
+hypo: quadrangle
+mr: noun.location:America
+
+w: trapezohedron
+d: a polyhedron whose faces are trapeziums
+hypo: polyhedron
+
+w: trapezoid drf adj.pert:trapezoidal
+d: a quadrilateral with two parallel sides
+hypo: quadrangle
+mr: noun.location:America
+
+w: tree
+w: tree_diagram
+d: a figure that branches from a single root
+e: genealogical tree
+hyper: cladogram
+hyper: stemma
+hypo: plane_figure
+
+w: triangle drf adj.all:triangular drf adj.all:triangular[1] drf verb.cognition:triangulate drf verb.social:triangulate
+w: trigon
+w: trilateral
+d: a three-sided polygon
+hyper: acute-angled_triangle
+hyper: cuneus
+hyper: equiangular_triangle
+hyper: isosceles_triangle
+hyper: oblique_triangle
+hyper: obtuse-angled_triangle
+hyper: right-angled_triangle
+hyper: scalene_triangle
+hypo: polygon
+
+w: triangle[1]
+d: something approximating the shape of a triangle
+e: the coastline of Chile and Argentina and Brazil forms two legs of a triangle
+hypo: noun.Tops:form
+
+w: triangular_prism
+d: a prism whose bases are triangles
+hypo: prism
+
+w: true_anomaly
+d: the angular distance of a point in an orbit past the point of periapsis measured in degrees
+hypo: angular_distance
+
+w: truncated_cone
+d: a frustum formed from a cone
+hypo: frustum
+
+w: truncated_pyramid
+d: a frustum formed from a pyramid
+hypo: frustum
+
+w: uncus
+d: (biology) any hook-shaped process or part
+hypo: crotchet
+mt: noun.cognition:biological_science
+
+w: undecagon
+d: an eleven-sided polygon
+hypo: polygon
+
+w: undulation
+w: wave
+d: an undulating curve
+hyper: sine_curve
+hypo: curve
+
+w: upper_bound
+d: (mathematics) a number equal to or greater than any other number in a given set
+hypo: bound
+mt: noun.cognition:math
+
+w: vector
+d: a straight line segment whose length is magnitude and whose orientation in space is direction
+hyper: ray
+hypo: straight_line
+
+w: vertical_angle
+d: either of two equal and opposite angles formed by the intersection of two straight lines
+hypo: angle
+
+w: verticil
+d: a whorl of leaves growing around a stem
+hypo: coil
+
+w: wart
+d: any small rounded protuberance (as on certain plants or animals)
+hypo: bulge
+mt: noun.Tops:animal
+
+w: washout
+d: the channel or break produced by erosion of relatively soft soil by water
+e: it was several days after the storm before they could repair the washout and open the road
+hypo: channel
+
+w: wave_angle
+d: the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+hypo: angle
+
+w: zag
+w: zig
+w: zigzag drf adj.all:zig-zag drf adj.all:zigzag drf verb.motion:zigzag
+d: an angular shape characterized by sharp turns in alternating directions
+hypo: angular_shape
+

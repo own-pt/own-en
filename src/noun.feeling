@@ -1,0 +1,2705 @@
+noun.feeling
+
+w: American_Dream
+d: the widespread aspiration of Americans to live better than their parents did
+hypo: ambition
+
+w: Anglophilia ant Anglophobia drf adj.pert:Anglophilic
+d: admiration for Britain and British customs
+hypo: esteem
+
+w: Anglophobia ant Anglophilia drf adj.pert:Anglophobic
+d: dislike (or fear) of Britain and British customs
+hypo: dislike
+
+w: Electra_complex
+d: a complex of females; sexual attraction to the father
+hypo: complex
+
+w: Oedipal_complex
+w: Oedipus_complex
+d: a complex of males; desire to possess the mother sexually and to exclude the father; said to be a source of personality disorders if unresolved
+hypo: complex
+
+w: Schadenfreude
+d: delight in another person's misfortune
+hypo: delectation
+mr: noun.location:Deutschland
+
+w: Weltschmerz
+w: world-weariness drf adj.all:world-weary
+d: sadness on thinking about the evils of the world
+hypo: melancholy
+
+w: abandon
+w: wildness drf adj.all:wild[12]
+d: a feeling of extreme emotional intensity
+e: the wildness of his anger
+hypo: passion
+
+w: abashment drf verb.emotion:abash
+w: bashfulness drf adj.all:bashful
+d: feeling embarrassed due to modesty
+hypo: embarrassment
+
+w: abhorrence drf adj.all:abhorrent drf verb.emotion:abhor
+w: abomination drf verb.emotion:abominate
+w: detestation drf verb.emotion:detest
+w: execration drf verb.emotion:execrate
+w: loathing drf verb.emotion:loathe
+w: odium drf adj.all:odious
+d: hate coupled with disgust
+hypo: disgust
+hypo: hate
+
+w: acquired_taste
+d: a preference that is only acquired after considerable experience
+e: martinis are an acquired taste
+hypo: penchant
+
+w: addiction
+d: an abnormally strong craving
+hypo: craving
+
+w: admiration[1] drf verb.emotion:admire
+w: esteem drf verb.cognition:esteem[1]
+d: a feeling of delighted approval and liking
+hyper: Anglophilia
+hyper: hero_worship
+hyper: philhellenism
+hyper: philogyny
+hypo: liking
+
+w: admiration[2]
+w: wonder drf verb.communication:wonder[12]
+w: wonderment drf verb.communication:wonder[12]
+d: the feeling aroused by something strange and surprising
+hyper: awe[2]
+hypo: amazement
+
+w: adoration
+w: worship[1] drf verb.emotion:worship
+d: a feeling of profound love and admiration
+hypo: love
+
+w: affect drf adj.all:affectional drf verb.emotion:affect
+d: the conscious subjective aspect of feeling or emotion
+hypo: noun.Tops:feeling
+
+w: affection
+w: affectionateness drf adj.all:affectionate
+w: fondness drf adj.all:fond[1]
+w: heart[4] drf adj.all:hearty[1]
+w: philia
+w: tenderness[1] drf adj.all:tender
+w: warmheartedness drf adj.all:warmhearted
+w: warmness drf adj.all:warm drf adj.all:warm[9]
+d: a positive feeling of liking
+e: he had trouble expressing the affection he felt
+e: the child won everyone's heart
+e: the warmness of his welcome made us feel right at home
+hyper: attachment
+hyper: protectiveness
+hyper: respect
+hyper: soft_spot
+hypo: noun.Tops:feeling
+
+w: affright drf verb.emotion:affright
+w: panic drf adj.all:panicky drf verb.emotion:panic drf verb.emotion:panic[1]
+w: terror drf noun.person:terrorist drf verb.emotion:terrify drf verb.emotion:terrorise drf verb.emotion:terrorize drf verb.social:terrorise drf verb.social:terrorize
+d: an overwhelming feeling of fear and anxiety
+hyper: swivet
+hypo: fear
+
+w: afterglow
+d: the pleasure of remembering some pleasant event
+e: he basked in the afterglow of his victory
+hypo: pleasantness
+
+w: agape
+w: agape_love
+d: selfless love of one person for another without sexual implications (especially love that is spiritual in nature)
+hypo: love
+
+w: agape[1]
+d: (Christian theology) the love of God or Christ for mankind
+hypo: love
+mt: noun.cognition:Christian_theology
+
+w: aggravation drf verb.emotion:aggravate
+w: exasperation drf verb.emotion:exasperate drf verb.emotion:exasperate[1]
+d: an exasperated feeling of annoyance
+hypo: annoyance
+
+w: aggression
+w: aggressiveness
+d: a feeling of hostility that arouses thoughts of attack
+hypo: enmity
+
+w: agitation ant calmness
+d: the feeling of being agitated; not calm
+hyper: fidget
+hyper: stewing
+hyper: stir
+hyper: tumult
+hyper: unrest
+hypo: noun.Tops:feeling
+
+w: agony drf adj.pert:agonal drf noun.person:agonist drf noun.person:agonist[1] drf verb.emotion:agonise drf verb.emotion:agonise[1]
+w: torment[1] drf verb.emotion:torment
+w: torture[1] drf adj.all:torturous drf verb.emotion:torture
+d: intense feelings of suffering; acute mental or physical pain
+e: an agony of doubt
+e: the torments of the damned
+hypo: hurt[1]
+
+w: alarm drf verb.communication:alarm drf verb.emotion:alarm
+w: consternation
+w: dismay drf verb.emotion:dismay
+d: fear resulting from the awareness of danger
+attr: adj.all:alarming
+attr: adj.all:unalarming
+hypo: fear
+
+w: algolagnia drf adj.pert:algolagnic
+w: algophilia
+d: sexual pleasure derived from inflicting or experiencing pain
+hypo: sexual_pleasure
+
+w: alienation
+w: disaffection drf verb.emotion:disaffect
+w: estrangement drf verb.social:estrange
+d: the feeling of being alienated from other people
+hyper: isolation
+hypo: dislike
+
+w: alleviation drf verb.body:alleviate
+w: assuagement drf verb.body:assuage
+w: relief
+d: the feeling that comes when something burdensome is removed or reduced
+e: as he heard the news he was suddenly flooded with relief
+hypo: comfort
+
+w: aloofness[2]
+w: distance drf adj.all:distant drf verb.stative:distance
+d: indifference by personal withdrawal
+e: emotional distance
+hypo: indifference
+
+w: amativeness drf adj.all:amative
+w: amorousness[2] drf adj.all:amorous[1]
+w: eroticism
+w: erotism
+w: sexiness drf adj.all:sexy drf adj.all:sexy[1]
+d: the arousal of feelings of sexual desire
+hyper: carnality
+hypo: concupiscence
+
+w: amazement drf verb.cognition:amaze
+w: astonishment drf verb.cognition:astonish
+d: the feeling that accompanies something extremely surprising
+e: he looked at me in astonishment
+hyper: stupefaction
+hyper: surprise
+hyper: wonder
+hypo: noun.Tops:feeling
+
+w: ambition drf adj.all:ambitious drf verb.emotion:ambition
+w: aspiration drf verb.cognition:aspire
+w: dream
+d: a cherished desire
+e: his ambition is to own his own business
+hyper: American_Dream
+hyper: emulation
+hyper: nationalism
+hypo: desire
+
+w: ambivalence drf adj.all:ambivalent
+w: ambivalency
+d: mixed feelings or emotions
+hyper: conflict
+hypo: noun.Tops:feeling
+
+w: amiability drf adj.all:amiable drf adj.all:amiable[1]
+w: good_humor ant ill_humor
+w: good_humour
+w: good_temper
+d: a cheerful and agreeable mood
+hyper: jolliness
+hypo: humor
+
+w: amicability
+w: amicableness
+d: a disinclination to quarrel
+hypo: friendliness
+
+w: amorousness[1] drf adj.all:amorous
+w: enamoredness drf adj.all:enamored
+d: a feeling of love or fondness
+hypo: love
+
+w: amour_propre
+w: conceit
+w: self-love
+w: vanity drf adj.all:vain[1]
+d: feelings of excessive pride
+hypo: pride
+
+w: amusement drf verb.communication:amuse
+d: a feeling of delight at being entertained
+hypo: delectation
+
+w: anaphrodisia ant aphrodisia
+d: decline or absence of sexual desire
+hypo: concupiscence
+
+w: anger drf adj.all:angry[2] drf verb.emotion:anger drf verb.emotion:anger[1]
+w: choler[1] drf adj.all:choleric drf adj.all:choleric[1] drf adj.all:choleric[2]
+w: ire
+d: a strong emotion; a feeling that is oriented toward some real or supposed grievance
+hyper: annoyance
+hyper: bad_temper
+hyper: dander
+hyper: enragement
+hyper: fury
+hyper: huffiness
+hyper: indignation
+hyper: offence
+hypo: emotion
+
+w: angst
+d: an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
+hypo: anxiety
+
+w: anguish[2] drf verb.emotion:anguish drf verb.emotion:anguish[2]
+w: torment[2] drf verb.emotion:torment
+w: torture[2] drf verb.emotion:torture
+d: extreme mental distress
+hypo: distress[2]
+
+w: animosity
+w: animus
+w: bad_blood
+d: a feeling of ill will arousing active hostility
+hypo: enmity
+
+w: annoyance
+w: chafe
+w: vexation
+d: anger produced by some annoying irritation
+hyper: aggravation
+hyper: displeasure
+hyper: frustration[1]
+hyper: harassment
+hyper: pique
+hypo: anger
+
+w: antagonism[2] drf adj.all:antagonistic[1] drf noun.person:antagonist drf verb.emotion:antagonise drf verb.emotion:antagonize
+d: an actively expressed feeling of dislike and hostility
+hypo: dislike
+hypo: enmity
+
+w: anticipation
+w: expectancy drf adj.all:expectant
+d: an expectation
+hyper: fever
+hyper: hope[1]
+hyper: suspense[1]
+hypo: expectation
+
+w: antipathy drf adj.all:antipathetic drf adj.all:antipathetic[1] drf adj.all:antipathetical
+w: aversion
+w: distaste
+d: a feeling of intense dislike
+hypo: dislike
+
+w: anxiety
+d: a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune
+hyper: angst
+hyper: anxiousness
+hyper: care[1]
+hyper: discomfiture
+hyper: disquietude
+hyper: insecurity
+hyper: jitteriness
+hyper: misgiving
+hyper: sinking
+hyper: worry
+hypo: emotion
+
+w: anxiousness drf adj.all:anxious
+w: disquiet drf verb.emotion:disquiet
+d: a feeling of mild anxiety about possible developments
+hypo: anxiety
+
+w: apathy drf adj.all:apathetic drf adj.all:apathetic[1]
+d: an absence of emotion or enthusiasm
+hyper: emotionlessness
+hyper: lassitude
+hypo: noun.Tops:feeling
+
+w: aphrodisia ant anaphrodisia
+d: a desire for heterosexual intimacy
+hypo: concupiscence
+
+w: appetence drf adj.all:appetent
+w: appetency drf adj.all:appetent
+w: appetite
+d: a feeling of craving something
+e: "the object of life is to satisfy as many appetencies as possible"- Granville Hicks
+e: an appetite for life
+hyper: stomach
+hyper: sweet_tooth
+hypo: craving
+
+w: appreciativeness drf adj.all:appreciative
+w: gratefulness drf adj.all:grateful
+w: thankfulness drf adj.all:thankful
+d: warm friendly feelings of gratitude
+hypo: gratitude
+
+w: apprehension drf verb.emotion:apprehend
+w: apprehensiveness drf adj.all:apprehensive drf adj.all:apprehensive[2]
+w: dread drf adj.all:dread drf verb.emotion:dread
+d: fearful expectation or anticipation
+e: the student looked around the examination room with apprehension
+hyper: boding
+hyper: chill
+hyper: gloom
+hyper: suspense[2]
+hyper: trepidation
+hypo: fear
+
+w: approbation drf verb.cognition:approbate drf verb.cognition:approve drf verb.communication:approbate
+d: official approval
+hypo: approval
+
+w: approval ant disapproval drf verb.cognition:approve
+d: a feeling of liking something or someone good
+e: although she fussed at them, she secretly viewed all her children with approval
+hyper: approbation
+hyper: favor
+hypo: liking
+
+w: ardor[1]
+w: ardour[1]
+w: elan
+w: zeal[1] drf adj.all:zealous
+d: a feeling of strong eagerness (usually in favor of a person or cause)
+e: he felt a kind of religious zeal
+e: they were imbued with a revolutionary ardor
+hypo: avidness
+
+w: ardor
+w: ardour
+d: intense feeling of love
+hypo: love
+
+w: ardor[2]
+w: ardour[2]
+w: fervency drf adj.all:fervent
+w: fervidness drf adj.all:fervid
+w: fervor
+w: fervour
+w: fire drf adj.all:fiery
+d: feelings of great warmth and intensity
+e: he spoke with great ardor
+hyper: zeal[2]
+hypo: passion
+
+w: ataraxis
+w: heartsease
+w: peace drf verb.emotion:pacify
+w: peace_of_mind
+w: peacefulness
+w: repose
+w: serenity
+d: the absence of mental stress or anxiety
+hypo: quietness
+
+w: attachment drf verb.social:attach[3]
+w: fond_regard
+d: a feeling of affection for a person or an institution
+hypo: affection
+
+w: attrition
+w: contriteness drf adj.all:contrite
+w: contrition
+d: sorrow for sin arising from fear of damnation
+hypo: regret
+
+w: avidity[1] drf adj.all:avid
+w: avidness drf adj.all:avid
+w: eagerness drf adj.all:eager
+w: keenness
+d: a positive feeling of wanting to push ahead with something
+hyper: elan
+hypo: enthusiasm
+
+w: awe[2] drf verb.emotion:awe
+d: an overwhelming feeling of wonder or admiration
+e: he stared over the edge with a feeling of awe
+hypo: wonder
+
+w: awe
+w: fear[2] drf verb.emotion:fear[1]
+w: reverence drf adj.all:reverent drf adj.all:reverential drf verb.emotion:revere drf verb.emotion:reverence
+w: veneration drf verb.emotion:venerate
+d: a feeling of profound respect for someone or something
+e: his respect for the law bordered on veneration
+e: the Chinese reverence for the dead
+e: the French treat food with gentle reverence
+e: the fear of God
+hypo: emotion
+
+w: bad_temper
+w: ill_temper
+d: a persisting angry mood
+hyper: irascibility
+hyper: noun.state:conniption
+hypo: anger
+
+w: bang
+w: boot
+w: charge drf verb.emotion:charge[5]
+w: flush
+w: kick
+w: rush
+w: thrill drf verb.emotion:thrill[1] drf verb.emotion:thrill[2] drf verb.perception:thrill
+d: the swift release of a store of affective force
+e: he does it for kicks
+e: he got a quick rush from injecting heroin
+e: they got a great bang out of it
+e: what a boot!
+hypo: excitement
+
+w: bathos
+w: mawkishness drf adj.all:mawkish
+d: insincere pathos
+hypo: sentimentality
+
+w: belligerence drf adj.all:belligerent
+w: belligerency drf adj.all:belligerent
+d: hostile or warlike attitude or nature
+hyper: warpath
+hypo: enmity
+
+w: belonging
+d: happiness felt in a secure relationship
+e: with his classmates he felt a sense of belonging
+hyper: closeness
+hyper: comfortableness
+hypo: happiness
+
+w: beneficence ant maleficence drf adj.all:beneficent[1]
+d: doing good; feeling beneficent
+hypo: benevolence
+
+w: benevolence ant malevolence
+d: disposition to do good
+hyper: beneficence
+hypo: love
+
+w: bitterness drf adj.all:bitter[3]
+w: gall drf verb.emotion:gall
+w: rancor drf adj.all:rancorous
+w: rancour
+w: resentment drf verb.emotion:resent
+d: a feeling of deep and bitter anger and ill-will
+hyper: enviousness
+hyper: grievance
+hyper: heartburning
+hyper: huffishness
+hypo: enmity
+
+w: blahs
+d: a general feeling of boredom and dissatisfaction
+hypo: boredom
+mu: noun.communication:colloquialism
+
+w: blitheness drf adj.all:cheerful[1]
+w: cheerfulness ant cheerlessness drf adj.all:cheerful[1]
+d: a feeling of spontaneous good spirits
+e: his cheerfulness made everyone feel better
+hyper: buoyancy
+hyper: carefreeness
+hypo: happiness
+
+w: bloodlust
+d: a desire for bloodshed
+hypo: desire
+
+w: boding
+w: foreboding drf verb.communication:forebode
+w: premonition
+w: presentiment
+d: a feeling of evil to come
+e: a steadily escalating sense of foreboding
+e: the lawyer had a presentiment that the judge would dismiss the case
+hyper: presage
+hyper: shadow
+hypo: apprehension
+
+w: bonheur
+d: (French) happiness and good humor
+hypo: happiness
+mr: noun.location:France
+
+w: boredom
+w: ennui
+w: tedium drf adj.all:tedious
+d: the feeling of being bored by something tedious
+hyper: blahs
+hyper: fatigue
+hypo: dissatisfaction
+
+w: bravery
+w: fearlessness ant fear drf adj.all:fearless drf adj.all:fearless[1]
+d: feeling no fear
+hyper: security
+hypo: noun.Tops:feeling
+
+w: bright_side
+w: silver_lining
+d: a consoling aspect of a difficult situation
+e: every cloud has a silver lining
+e: look on the bright side of it
+hypo: consolation
+
+w: broken_heart
+d: devastating sorrow and despair
+e: a broken heart languishes here
+e: he is recovering from a broken heart
+hypo: sorrow
+
+w: brokenheartedness drf adj.all:brokenhearted
+w: grief
+w: heartache
+w: heartbreak
+d: intense sorrow caused by loss of a loved one (especially by death)
+hyper: dolor
+hypo: sorrow
+
+w: brooding
+w: pensiveness drf adj.all:pensive
+d: persistent morbid meditation on a problem
+hypo: melancholy
+
+w: brotherhood
+d: the feeling that men should treat one another like brothers
+hypo: friendliness
+
+w: buck_fever
+d: nervous excitement of an inexperienced hunter
+hypo: fever
+
+w: buoyancy drf adj.all:buoyant
+w: perkiness drf adj.all:perky
+d: cheerfulness that bubbles to the surface
+hypo: blitheness
+
+w: calf_love
+w: crush
+w: infatuation[2] drf verb.emotion:infatuate
+w: puppy_love
+d: temporary love of an adolescent
+hypo: love
+
+w: calmness ant agitation drf adj.all:calm[1]
+d: a feeling of calm; an absence of agitation or excitement
+hyper: coolness
+hyper: placidity
+hyper: quietness
+hypo: noun.Tops:feeling
+
+w: caprice drf adj.all:capricious
+w: impulse[1]
+w: whim
+d: a sudden desire
+e: he bought it on an impulse
+hypo: desire
+
+w: captivation drf verb.emotion:captivate
+w: enchantment drf verb.emotion:enchant[1]
+w: enthrallment drf verb.emotion:enthrall
+w: fascination drf verb.emotion:fascinate[1]
+d: a feeling of great liking for something wonderful and unusual
+hypo: liking
+
+w: care[1] drf verb.emotion:care[12]
+w: concern[1] drf verb.stative:concern[1]
+w: fear[1] drf verb.emotion:fear[3] drf verb.emotion:fear[13]
+d: an anxious feeling
+e: care had aged him
+e: they hushed it up out of fear of public reaction
+hypo: anxiety
+
+w: care drf verb.emotion:care[2] drf verb.emotion:care[12]
+d: a cause for feeling concern
+e: his major care was the illness of his wife
+hypo: noun.state:plight
+
+w: carefreeness drf adj.all:carefree
+w: insouciance drf adj.all:insouciant
+w: lightheartedness drf adj.all:lighthearted
+w: lightsomeness drf adj.all:lightsome
+d: the cheerful feeling you have when nothing is troubling you
+hypo: blitheness
+
+w: caring[1] drf adj.all:caring drf verb.emotion:care[2]
+w: lovingness drf adj.all:loving
+d: a loving feeling
+hyper: warmth
+hypo: love
+
+w: carnality drf adj.all:carnal
+w: lasciviousness drf adj.all:lascivious
+w: lubricity
+w: prurience drf adj.all:prurient
+w: pruriency drf adj.all:prurient
+d: feeling morbid sexual desire or a propensity to lewdness
+hypo: amativeness
+
+w: chafing
+d: soreness or irritation of the skin caused by friction
+hyper: intertrigo
+hypo: noun.state:soreness
+
+w: chagrin drf verb.emotion:chagrin[1]
+w: humiliation drf verb.emotion:humiliate
+w: mortification drf verb.emotion:mortify[1]
+d: strong feelings of embarrassment
+hypo: embarrassment
+
+w: cheerlessness ant cheerfulness drf adj.all:cheerless
+w: uncheerfulness drf adj.all:uncheerful
+d: a feeling of dreary or pessimistic sadness
+hyper: joylessness
+hypo: sadness
+
+w: chill drf verb.emotion:chill
+w: pall drf verb.emotion:pall
+d: a sudden numbing dread
+hypo: apprehension
+
+w: chill[2]
+w: frisson
+w: quiver
+w: shiver drf adj.all:shivery drf verb.motion:shiver
+w: shudder drf adj.all:shuddery
+w: thrill[2] drf verb.emotion:thrill[1] drf verb.emotion:thrill[2]
+w: tingle drf verb.perception:tingle
+d: an almost pleasurable sensation of fright
+e: a frisson of surprise shot through him
+hypo: fear
+
+w: choler[2]
+w: crossness
+w: fretfulness drf adj.all:fretful[1]
+w: fussiness drf adj.all:fussy
+w: irritability drf adj.all:irritable
+w: peevishness drf adj.all:peevish
+w: petulance drf adj.all:petulant
+d: an irritable petulant feeling
+hyper: pet
+hyper: testiness
+hypo: distemper
+
+w: class_feeling
+d: feelings of envy and resentment of one social or economic class for toward another
+hypo: enmity
+
+w: closeness drf adj.all:close[6]
+w: intimacy
+d: a feeling of being intimate and belonging together
+e: their closeness grew as the night wore on
+hyper: togetherness
+hypo: belonging
+
+w: cold_comfort
+d: very limited consolation or empathy
+e: he told me that time heals all wounds but that was cold comfort to me
+hypo: consolation
+
+w: cold_feet
+d: timidity that prevents the continuation of a course of action
+e: I was going to tell him but I got cold feet
+hypo: timidity
+
+w: coldheartedness drf adj.all:coldhearted
+w: hardheartedness drf adj.all:hardhearted drf adj.all:hardhearted[1]
+w: heartlessness drf adj.all:heartless
+d: an absence of concern for the welfare of others
+hyper: cruelty
+hypo: unconcern
+
+w: comfort
+d: a feeling of freedom from worry or disappointment
+hyper: alleviation
+hyper: consolation
+hypo: pleasance
+
+w: comfortableness drf adj.all:comfortable
+d: a feeling of being at ease in a relationship
+hypo: belonging
+
+w: commiseration drf verb.emotion:commiserate
+w: pathos drf adj.all:pathetic
+w: pity drf adj.all:piteous drf verb.emotion:pity
+w: ruth
+d: a feeling of sympathy and sorrow for the misfortunes of others
+e: the blind are too often objects of pity
+hypo: fellow_feeling
+
+w: compassion drf verb.emotion:compassionate
+w: compassionateness drf adj.all:compassionate
+d: a deep awareness of and sympathy for another's suffering
+hyper: heartstrings
+hyper: mercifulness
+hyper: tenderheartedness
+hypo: fellow_feeling
+
+w: compatibility
+d: a feeling of sympathetic understanding
+hypo: fellow_feeling
+
+w: complacence drf adj.all:complacent
+w: complacency drf adj.all:complacent
+w: self-complacency drf adj.all:self-complacent
+w: self-satisfaction
+d: the feeling you have when you are satisfied with yourself
+e: his complacency was absolutely disgusting
+hyper: smugness
+hypo: satisfaction
+
+w: complex
+d: (psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior
+hyper: Electra_complex
+hyper: Oedipal_complex
+hyper: inferiority_complex
+hypo: noun.Tops:feeling
+mt: noun.act:depth_psychology
+
+w: compunction
+w: remorse
+w: self-reproach
+d: a feeling of deep regret (usually for some misdeed)
+hyper: guilt
+hyper: penance
+hypo: regret
+
+w: concern ant unconcern
+d: a feeling of sympathy for someone or something
+e: She felt strong concern for those less fortunate
+hyper: softheartedness
+hyper: solicitousness
+hypo: fellow_feeling
+
+w: concupiscence drf adj.all:concupiscent
+w: eros drf adj.all:erotic
+w: physical_attraction
+w: sexual_desire
+d: a desire for sexual intimacy
+hyper: amativeness
+hyper: anaphrodisia
+hyper: aphrodisia
+hyper: erotic_love
+hyper: fetish
+hyper: lecherousness
+hyper: libido
+hyper: nymphomania
+hyper: passion[2]
+hyper: satyriasis
+hyper: sensualism
+hyper: the_hots
+hypo: desire
+
+w: confidence ant diffidence drf adj.all:confidential[3]
+d: a feeling of trust (in someone or something)
+e: I have confidence in our team
+e: confidence is always borrowed, never owned
+attr: adj.all:confident[2]
+attr: adj.all:diffident
+hypo: security
+
+w: conflict drf verb.stative:conflict
+d: opposition between two simultaneous but incompatible feelings
+e: he was immobilized by conflict and indecision
+hypo: ambivalence
+
+w: confusion drf verb.emotion:confuse
+w: discombobulation drf verb.cognition:discombobulate drf verb.emotion:discombobulate
+d: a feeling of embarrassment that leaves you confused
+hypo: embarrassment
+
+w: conscience drf adj.all:conscientious
+d: a feeling of shame when you do something immoral
+e: he has no conscience about his cruelty
+hypo: shame
+
+w: consolation drf verb.emotion:console
+w: solace drf verb.emotion:solace
+w: solacement drf verb.emotion:solace
+d: the comfort you feel when consoled in times of disappointment
+e: second place was no consolation to him
+hyper: bright_side
+hyper: cold_comfort
+hypo: comfort
+
+w: contempt drf adj.all:contemptuous
+w: despite
+w: disdain drf verb.emotion:disdain
+w: scorn drf verb.emotion:scorn
+d: lack of respect accompanied by a feeling of intense dislike
+e: he was held in contempt
+e: the despite in which outsiders were held is legendary
+hypo: dislike
+
+w: contentment ant discontentment drf verb.consumption:content
+d: happiness with one's situation in life
+hyper: satisfaction
+hypo: happiness
+
+w: coolness drf adj.all:cool[4]
+w: imperturbability drf adj.all:imperturbable
+w: imperturbableness drf adj.all:imperturbable
+d: calm and unruffled self-assurance
+e: he performed with all the coolness of a veteran
+hypo: calmness
+
+w: covetousness[1]
+d: an envious eagerness to possess something
+hypo: enviousness
+
+w: craving drf verb.consumption:crave
+d: an intense desire for some particular thing
+hyper: addiction
+hyper: appetence
+hypo: desire
+
+w: creeps
+d: a feeling of fear and revulsion
+e: he gives me the creeps
+hypo: fear
+mu: noun.communication:colloquialism
+
+w: creepy-crawlies
+d: feelings of dislike and anxiety
+e: the cave gave me the creepy-crawlies
+hypo: dislike
+
+w: cruelty
+w: mercilessness drf adj.all:merciless
+w: pitilessness drf adj.all:pitiless[1]
+w: ruthlessness drf adj.all:ruthless
+d: feelings of extreme heartlessness
+hypo: coldheartedness
+
+w: cynicism
+d: a cynical feeling of distrust
+hypo: pessimism
+
+w: dander
+w: hackles
+d: a feeling of anger and animosity
+e: having one's hackles or dander up
+hypo: anger
+
+w: daze drf verb.perception:daze
+w: shock[1] drf verb.body:shock drf verb.emotion:shock drf verb.emotion:shock[2]
+w: stupor
+d: the feeling of distress and disbelief that you have when something bad happens accidentally
+e: he was numb with shock
+e: his mother's death left him in a daze
+hypo: stupefaction
+
+w: defeat drf noun.person:defeatist
+w: frustration drf verb.social:frustrate
+d: the feeling that accompanies an experience of being thwarted in attaining your goals
+hypo: disappointment
+
+w: defeatism drf noun.person:defeatist
+d: acceptance of the inevitability of defeat
+hypo: resignation
+
+w: dejectedness
+w: dispiritedness drf adj.all:dispirited drf adj.all:dispirited[1]
+w: downheartedness drf adj.all:downhearted
+w: low-spiritedness drf adj.all:low-spirited
+w: lowness drf adj.all:low[1] drf adj.all:low[2]
+d: a feeling of low spirits
+e: he felt responsible for her lowness of spirits
+hypo: sadness
+
+w: delectation
+w: delight drf verb.consumption:delight drf verb.emotion:delight
+d: a feeling of extreme pleasure or satisfaction
+e: his delight to see her was obvious to all
+hyper: Schadenfreude
+hyper: amusement
+hyper: entrancement
+hypo: pleasance
+
+w: demoralisation drf verb.emotion:demoralise
+w: demoralization drf verb.emotion:demoralize
+d: depression resulting from an undermining of your morale
+hypo: depression
+
+w: depression
+d: sad feelings of gloom and inadequacy
+hyper: demoralisation
+hyper: despondence
+hyper: dysphoria
+hyper: helplessness
+hyper: oppression
+hypo: sadness
+
+w: desire drf verb.emotion:desire
+d: the feeling that accompanies an unsatisfied state
+hyper: ambition
+hyper: bloodlust
+hyper: caprice
+hyper: concupiscence
+hyper: craving
+hyper: hungriness
+hyper: itch
+hyper: temptation
+hyper: want
+hypo: noun.Tops:feeling
+
+w: desolation[2] drf verb.cognition:desolate
+w: forlornness
+w: loneliness drf adj.all:lonely[2]
+d: sadness resulting from being forsaken or abandoned
+hypo: sadness
+
+w: despair ant hope drf verb.emotion:despair
+d: the feeling that everything is wrong and nothing will turn out well
+e: one harsh word would send her into the depths of despair
+e: they moaned in despair and dismay
+hyper: disheartenment
+hyper: hopelessness
+hyper: pessimism
+hyper: resignation
+hypo: noun.Tops:feeling
+
+w: despisal drf verb.emotion:despise
+w: despising drf verb.emotion:despise
+d: a feeling of scornful hatred
+hypo: hate
+
+w: despondence drf adj.all:despondent drf verb.emotion:despond
+w: despondency drf adj.all:despondent drf verb.emotion:despond
+w: disconsolateness drf adj.all:disconsolate[1]
+w: heartsickness drf adj.all:heartsick drf adj.all:heartsick[1]
+d: feeling downcast and disheartened and hopeless
+hypo: depression
+
+w: detachment
+w: withdrawal drf verb.emotion:withdraw
+d: avoiding emotional involvement
+hypo: indifference
+
+w: devastation drf verb.change:devastate[1]
+d: the feeling of being confounded or overwhelmed
+e: her departure left him in utter devastation
+hypo: noun.Tops:feeling
+
+w: devotedness drf adj.all:devoted[1]
+w: devotion
+d: feelings of ardent love
+e: their devotion to each other was beautiful
+hypo: love
+
+w: diffidence ant confidence drf adj.all:diffident drf adj.all:diffident[1]
+w: self-distrust
+w: self-doubt
+d: lack of self-confidence
+hyper: hesitance
+hyper: unassertiveness
+hypo: timidity
+
+w: disappointment drf verb.emotion:disappoint
+w: letdown drf verb.emotion:let_down
+d: a feeling of dissatisfaction that results when your expectations are not realized
+e: his hopes were so high he was doomed to disappointment
+hyper: defeat
+hypo: dissatisfaction
+
+w: disapproval ant approval drf verb.cognition:disapprove
+d: a feeling of disliking something or what someone is doing
+hypo: dislike
+
+w: discomfiture drf verb.emotion:discomfit
+w: discomposure drf verb.emotion:discompose
+w: disconcertion drf verb.emotion:disconcert[1] drf verb.emotion:disconcert[2]
+w: disconcertment drf verb.emotion:disconcert[1] drf verb.emotion:disconcert[2]
+d: anxious embarrassment
+hypo: anxiety
+hypo: embarrassment
+
+w: discomfort
+w: irritation drf verb.body:irritate
+w: soreness drf adj.all:sore drf adj.all:sore[1]
+d: an uncomfortable feeling of mental painfulness or distress
+hypo: hurt[1]
+
+w: discontent drf adj.all:discontent drf verb.emotion:discontent
+w: discontentedness drf adj.all:discontented
+w: discontentment ant contentment drf verb.emotion:discontent
+d: a longing for something better than the present situation
+hyper: disgruntlement
+hyper: dissatisfaction
+hyper: dysphoria
+hypo: hungriness
+
+w: discouragement[2] drf verb.emotion:discourage
+w: disheartenment drf verb.emotion:dishearten
+w: dismay[2] drf verb.emotion:dismay[1]
+d: the feeling of despair in the face of obstacles
+hyper: intimidation[1]
+hypo: despair
+
+w: disgruntlement drf verb.emotion:disgruntle
+d: a feeling of sulky discontent
+hypo: discontent
+
+w: disgust drf verb.emotion:disgust drf verb.perception:disgust
+d: strong feelings of dislike
+hyper: abhorrence
+hyper: horror
+hyper: nausea
+hypo: dislike
+
+w: disinclination ant inclination
+d: that toward which you are inclined to feel dislike
+e: his disinclination for modesty is well known
+hypo: dislike
+
+w: dislike ant liking drf verb.emotion:dislike
+d: a feeling of aversion or antipathy
+e: my dislike of him was instinctive
+hyper: Anglophobia
+hyper: alienation
+hyper: antagonism[2]
+hyper: antipathy
+hyper: contempt
+hyper: creepy-crawlies
+hyper: disapproval
+hyper: disgust
+hyper: disinclination
+hyper: scunner
+hyper: technophobia
+hyper: unfriendliness
+hypo: noun.Tops:feeling
+
+w: displeasure drf verb.emotion:displease
+d: the feeling of being displeased or annoyed or dissatisfied with someone or something
+hypo: annoyance
+hypo: dissatisfaction
+
+w: disquietude
+w: edginess drf adj.all:edgy
+w: inquietude
+w: uneasiness[2] drf adj.all:uneasy[4]
+d: feelings of anxiety that make you tense and irritable
+hyper: willies
+hypo: anxiety
+
+w: dissatisfaction ant satisfaction drf verb.emotion:dissatisfy
+d: the feeling of being displeased and discontent
+e: he was never slow to express his dissatisfaction with the service he received
+hyper: boredom
+hyper: disappointment
+hyper: displeasure
+hypo: discontent
+
+w: distemper
+w: ill_humor ant good_humor
+w: ill_humour
+d: an angry and disagreeable mood
+hyper: crossness
+hyper: moodiness
+hypo: humor
+
+w: distress[2] drf verb.emotion:distress
+w: hurt[2] drf verb.body:hurt[1] drf verb.perception:hurt
+w: suffering[2] drf verb.emotion:suffer
+d: psychological suffering
+e: the death of his wife caused him great distress
+hyper: anguish[2]
+hyper: self-torment
+hyper: tsoris
+hyper: wound
+hypo: pain
+
+w: dolefulness drf adj.all:doleful
+d: sadness caused by grief or affliction
+hypo: sadness
+
+w: dolor drf adj.all:dolorous drf adj.all:dolourous
+w: dolour
+d: (poetry) painful grief
+hypo: brokenheartedness
+mt: noun.communication:poesy[2]
+
+w: dreaminess drf adj.all:dreamy drf adj.all:dreamy[1]
+w: languor
+d: a relaxed comfortable feeling
+hypo: easiness
+
+w: dudgeon
+w: high_dudgeon
+d: a feeling of intense indignation (now used only in the phrase `in high dudgeon')
+hypo: indignation
+
+w: dysphoria ant euphoria drf adj.all:dysphoric
+d: abnormal depression and discontent
+hypo: depression
+hypo: discontent
+
+w: earnestness drf adj.all:earnest[1]
+w: seriousness
+w: sincerity drf adj.all:sincere
+d: an earnest and sincere feeling
+hypo: gravity
+
+w: easiness drf adj.all:easy[5]
+w: relaxation drf verb.body:relax[1] drf verb.social:relax[2]
+d: a feeling of refreshing tranquility and an absence of tension or worry
+e: the easiness we feel when sleeping
+hyper: dreaminess
+hypo: quietness
+
+w: ego[1]
+w: egotism drf adj.all:egotistic drf noun.person:egotist
+w: self-importance drf adj.all:self-important
+d: an inflated feeling of pride in your superiority to others
+hypo: pride
+
+w: elation drf verb.emotion:elate
+w: high_spirits
+w: lightness drf adj.all:light[13]
+d: a feeling of joy and pride
+hyper: euphoria
+hypo: joy
+
+w: electricity drf adj.all:electric drf verb.emotion:electrify
+d: keen and shared excitement
+e: the stage crackled with electricity whenever she was on it
+hypo: stir
+
+w: embarrassment
+d: the shame you feel when your inadequacy or guilt is made public
+hyper: abashment
+hyper: chagrin
+hyper: confusion
+hyper: discomfiture
+hyper: self-consciousness
+hyper: shamefacedness
+hypo: shame
+
+w: emotion drf adj.all:emotional[2] drf adj.pert:emotional drf verb.emotion:emote
+d: any strong feeling
+hyper: noun.cognition:CER
+hyper: anger
+hyper: anxiety
+hyper: awe
+hyper: fear
+hyper: hate
+hyper: joy
+hyper: love
+hyper: noun.state:emotional_state
+hypo: noun.Tops:feeling
+
+w: emotionlessness drf adj.all:emotionless
+w: impassiveness drf adj.all:impassive drf adj.all:impassive[1]
+w: impassivity drf adj.all:impassive[1]
+w: indifference[1]
+w: phlegm drf adj.all:phlegmatic drf adj.all:phlegmatical
+w: stolidity drf adj.all:stolid
+w: unemotionality
+d: apathy demonstrated by an absence of emotional reactions
+hypo: apathy
+
+w: empathy drf adj.all:empathetic drf verb.cognition:empathise drf verb.cognition:empathize
+d: understanding and entering into another's feelings
+hypo: fellow_feeling
+
+w: emulation drf verb.competition:emulate drf verb.stative:emulate
+d: ambition to equal or excel
+hypo: ambition
+
+w: encouragement drf verb.emotion:encourage
+d: the feeling of being encouraged
+hypo: hope
+
+w: enjoyment drf verb.consumption:enjoy drf verb.emotion:enjoy drf verb.emotion:enjoy[1]
+d: the pleasure felt when having a good time
+hyper: gusto
+hyper: joie_de_vivre
+hypo: pleasance
+
+w: enmity drf adj.all:inimical
+w: hostility drf adj.all:hostile[4]
+w: ill_will
+d: the feeling of a hostile person
+e: he could no longer contain his hostility
+hyper: aggression
+hyper: animosity
+hyper: antagonism[2]
+hyper: belligerence
+hyper: bitterness
+hyper: class_feeling
+hypo: hate
+
+w: enragement drf verb.emotion:enrage
+w: infuriation drf verb.emotion:infuriate
+d: a feeling of intense anger
+hypo: anger
+
+w: enthusiasm drf adj.all:enthusiastic
+d: a feeling of excitement
+hyper: avidness
+hyper: exuberance
+hyper: gusto
+hyper: technophilia
+hypo: noun.Tops:feeling
+
+w: entrancement drf verb.body:entrance drf verb.emotion:entrance
+w: ravishment drf verb.emotion:ravish
+d: a feeling of delight at being filled with wonder and enchantment
+hypo: delectation
+
+w: enviousness drf adj.all:envious
+w: envy drf verb.emotion:envy drf verb.emotion:envy[1]
+d: a feeling of grudging admiration and desire to have something that is possessed by another
+hyper: covetousness[1]
+hyper: green-eyed_monster
+hyper: penis_envy
+hypo: bitterness
+
+w: erotic_love
+w: love[1] drf verb.contact:love
+w: sexual_love
+d: a deep feeling of sexual desire and attraction
+e: she was his first love
+e: their love left them indifferent to their surroundings
+hypo: concupiscence
+
+w: euphoria ant dysphoria
+w: euphory drf adj.all:euphoric
+d: a feeling of great (usually exaggerated) elation
+hypo: elation
+
+w: excitement drf verb.emotion:excite[2]
+w: exhilaration drf verb.emotion:exhilarate
+d: the feeling of lively and cheerful joy
+e: he could hardly conceal his excitement when she agreed
+hyper: bang
+hyper: intoxication
+hyper: titillation
+hypo: joy
+
+w: expectation drf verb.body:expect drf verb.cognition:expect
+d: the feeling that something is about to happen
+hyper: anticipation
+hypo: noun.Tops:feeling
+
+w: exuberance drf adj.all:exuberant drf verb.communication:exuberate
+d: joyful enthusiasm
+hypo: enthusiasm
+hypo: joy
+
+w: exultation drf verb.emotion:exult
+w: jubilance drf adj.all:jubilant drf adj.all:jubilant[1] drf verb.communication:jubilate
+w: jubilancy drf adj.all:jubilant drf adj.all:jubilant[1] drf verb.communication:jubilate
+w: jubilation drf verb.communication:jubilate
+d: a feeling of extreme joy
+hyper: triumph
+hypo: joy
+
+w: faintness drf adj.all:faint[1]
+d: a feeling of faintness and of being ready to swoon
+hypo: noun.Tops:feeling
+
+w: fancy drf verb.emotion:fancy
+w: fondness[1] drf adj.all:fond[3]
+w: partiality
+d: a predisposition to like something
+e: he had a fondness for whiskey
+hypo: liking
+
+w: fatigue drf verb.body:fatigue[1]
+d: (always used with a modifier) boredom resulting from overexposure to something
+e: after watching TV with her husband she had a bad case of football fatigue
+e: he was suffering from museum fatigue
+e: political fatigue
+e: the American public is experiencing scandal fatigue
+hypo: boredom
+
+w: favor drf verb.cognition:favor drf verb.social:favor drf verb.social:favor[3]
+w: favour drf verb.social:favour drf verb.social:favour[1] drf verb.social:favour[3]
+d: a feeling of favorable regard
+hypo: approval
+
+w: fear ant fearlessness drf verb.emotion:fear
+w: fearfulness drf adj.all:fearful[2]
+w: fright drf verb.emotion:fright
+d: an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+attr: adj.all:afraid[3]
+attr: adj.all:unafraid
+hyper: affright
+hyper: alarm
+hyper: apprehension
+hyper: creeps
+hyper: frisson
+hyper: horror[1]
+hyper: hysteria[1]
+hyper: intimidation
+hyper: panic_attack
+hyper: stage_fright
+hyper: timidity
+hypo: emotion
+mp: noun.state:cold_sweat
+
+w: feelings drf verb.cognition:feel[1] drf verb.emotion:feel
+d: emotional or moral sensitivity (especially in relation to personal principles or dignity)
+e: the remark hurt his feelings
+hypo: sensitiveness
+
+w: fellow_feeling
+w: sympathy drf adj.all:sympathetic[3] drf verb.emotion:sympathize
+d: sharing the feelings of others (especially feelings of sorrow or anguish)
+hyper: commiseration
+hyper: compassion
+hyper: compatibility
+hyper: concern
+hyper: empathy
+hyper: kind-heartedness
+hypo: noun.Tops:feeling
+
+w: fetish
+d: a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body
+e: common male fetishes are breasts, legs, hair, shoes, and underwear
+hypo: concupiscence
+
+w: fever
+d: intense nervous anticipation
+e: in a fever of resentment
+hyper: buck_fever
+hyper: gold_fever
+hypo: anticipation
+
+w: fidget drf adj.all:fidgety drf verb.motion:fidget
+w: fidgetiness drf adj.all:fidgety
+w: restlessness
+d: a feeling of agitation expressed in continual motion
+e: he's got the fidgets
+e: waiting gave him a feeling of restlessness
+hyper: impatience
+hypo: agitation
+
+w: filial_love
+d: the love of a child for a parent
+hypo: love
+
+w: forgiveness
+d: compassionate feelings that support a willingness to forgive
+hypo: mercifulness
+
+w: friendliness ant unfriendliness drf adj.all:friendly
+d: a feeling of liking for another person; enjoyment in their company
+hyper: amicability
+hyper: brotherhood
+hyper: good_will
+hypo: liking
+
+w: frustration[1] drf verb.emotion:frustrate drf verb.social:frustrate
+d: a feeling of annoyance at being hindered or criticized
+e: her constant complaints were the main source of his frustration
+hypo: annoyance
+
+w: fulfillment drf verb.consumption:fulfill
+w: fulfilment drf verb.consumption:fulfil
+d: a feeling of satisfaction at having achieved your desires
+hypo: satisfaction
+
+w: fury drf adj.all:furious drf verb.emotion:infuriate
+w: madness drf adj.all:mad[3]
+w: rage drf verb.emotion:rage drf verb.stative:rage[1]
+d: a feeling of intense anger
+e: hell hath no fury like a woman scorned
+e: his face turned red with rage
+hyper: lividity
+hyper: wrath
+hypo: anger
+
+w: gaiety[1]
+w: playfulness drf adj.all:playful
+d: a festive merry feeling
+hypo: levity
+
+w: gaiety
+w: merriment
+d: a gay feeling
+hyper: glee
+hyper: jocularity
+hyper: jolliness
+hypo: happiness
+
+w: gladfulness
+w: gladness drf adj.all:glad drf adj.all:glad[1] drf adj.all:glad[2]
+w: gladsomeness drf adj.all:gladsome
+d: experiencing joy and pleasure
+hypo: happiness
+
+w: glee[2]
+w: gloat drf verb.communication:gloat drf verb.perception:gloat
+w: gloating drf verb.communication:gloat drf verb.perception:gloat
+d: malicious satisfaction
+hypo: satisfaction
+
+w: glee
+w: gleefulness drf adj.all:gleeful
+w: hilarity drf adj.all:hilarious
+w: mirth
+w: mirthfulness drf adj.all:mirthful drf adj.all:mirthful[1]
+d: great merriment
+hypo: gaiety
+
+w: gloom
+w: gloominess drf adj.all:gloomy
+w: somberness drf adj.all:somber[1]
+w: sombreness drf adj.all:sombre[1]
+d: a feeling of melancholy apprehension
+hypo: apprehension
+hypo: melancholy
+
+w: glow drf verb.emotion:glow
+d: a feeling of considerable warmth
+e: a glow of regret
+e: the glow of new love
+hypo: noun.Tops:feeling
+
+w: glumness drf adj.all:glum drf adj.all:glum[1]
+w: moroseness drf adj.all:morose
+w: sullenness drf adj.all:sullen[1]
+d: a gloomy ill-tempered feeling
+hypo: moodiness
+
+w: gold_fever
+d: greed and the contagious excitement of a gold rush
+hypo: fever
+
+w: good_will
+w: goodwill
+d: the friendly hope that something will succeed
+hypo: friendliness
+
+w: gratitude ant ingratitude
+d: a feeling of thankfulness and appreciation
+e: he was overwhelmed with gratitude for their help
+hyper: appreciativeness
+hypo: noun.Tops:feeling
+
+w: gravity ant levity
+w: solemnity[1] drf adj.all:solemn drf adj.all:solemn[1]
+d: a solemn and dignified feeling
+hyper: earnestness
+hypo: noun.Tops:feeling
+
+w: green-eyed_monster
+w: jealousy
+d: a feeling of jealous envy (especially of a rival)
+hypo: enviousness
+
+w: grievance
+w: grudge drf verb.emotion:grudge[1]
+w: score
+d: a resentment strong enough to justify retaliation
+e: holding a grudge
+e: settling a score
+hypo: bitterness
+
+w: growing_pains
+d: emotional distress arising during adolescence
+hypo: pain
+
+w: guilt drf adj.all:guilty
+w: guilt_feelings
+w: guilt_trip
+w: guilty_conscience
+d: remorse caused by feeling responsible for some offense
+hyper: survivor_guilt
+hypo: compunction
+
+w: guilt_pang
+d: pangs of feeling guilty
+hypo: pang
+
+w: gusto
+w: relish[2] drf verb.emotion:relish
+w: zest drf adj.all:zesty
+w: zestfulness drf adj.all:zestful
+d: vigorous and enthusiastic enjoyment
+hypo: enjoyment
+hypo: enthusiasm
+
+w: hankering drf verb.emotion:hanker
+w: yen drf verb.emotion:yen
+d: a yearning for something or to do something
+hypo: hungriness
+
+w: happiness ant sadness drf adj.all:happy[2]
+d: emotions experienced when in a state of well-being
+attr: adj.all:happy[2]
+attr: adj.all:unhappy[3]
+hyper: belonging
+hyper: blitheness
+hyper: bonheur
+hyper: contentment
+hyper: gaiety
+hyper: gladfulness
+hyper: rejoicing
+hypo: noun.Tops:feeling
+
+w: harassment
+w: torment[3] drf verb.emotion:torment[1]
+d: a feeling of intense annoyance caused by being tormented
+e: so great was his harassment that he wanted to destroy his tormentors
+hypo: annoyance
+
+w: hate ant love drf verb.emotion:hate
+w: hatred
+d: the emotion of intense dislike; a feeling of dislike so strong that it demands action
+hyper: abhorrence
+hyper: despisal
+hyper: enmity
+hyper: malevolence
+hyper: misanthropy
+hyper: misogamy
+hyper: misogynism
+hyper: misology
+hyper: misoneism
+hyper: misopedia
+hyper: murderousness
+hypo: emotion
+
+w: heartburning
+d: intense resentment
+e: his promotion caused much heartburning among his rivals
+hypo: bitterness
+
+w: heartstrings
+d: your deepest feelings of love and compassion
+e: many adoption cases tug at the heartstrings
+hypo: compassion
+hypo: love
+
+w: heaviness drf adj.all:heavy[10]
+d: persisting sadness
+e: nothing lifted the heaviness of her heart after her loss
+hypo: sadness
+
+w: heavyheartedness drf adj.all:heavyhearted
+d: a feeling of dispirited melancholy
+hypo: melancholy
+
+w: helplessness drf adj.all:helpless drf adj.all:helpless[1]
+d: a feeling of being unable to manage
+hypo: depression
+
+w: hero_worship
+d: admiration for great men (or their memory)
+hypo: esteem
+
+w: hesitance drf adj.all:hesitant
+w: hesitancy drf adj.all:hesitant
+d: a feeling of diffidence and indecision about doing something
+hypo: diffidence
+
+w: homesickness drf adj.all:homesick
+d: a longing to return home
+hypo: nostalgia
+
+w: hope[1] drf verb.emotion:hope drf verb.emotion:hope[1]
+d: a specific instance of feeling hopeful
+e: it revived their hope of winning the pennant
+hypo: anticipation
+
+w: hope ant despair drf verb.emotion:hope drf verb.emotion:hope[1]
+d: the general feeling that some desire will be fulfilled
+e: in spite of his troubles he never gave up hope
+hyper: encouragement
+hyper: hopefulness
+hyper: optimism
+hypo: noun.Tops:feeling
+
+w: hopefulness ant hopelessness drf adj.all:hopeful[1]
+d: the feeling you have when you have hope
+hypo: hope
+
+w: hopelessness ant hopefulness drf adj.all:hopeless[2] drf adj.all:hopeless[3]
+d: the despair you feel when you have abandoned hope of comfort or success
+hypo: despair
+
+w: horror
+w: repugnance drf adj.all:repugnant
+w: repulsion
+w: revulsion
+d: intense aversion
+hypo: disgust
+
+w: horror[1] drf verb.emotion:horrify[1]
+d: intense and profound fear
+hypo: fear
+
+w: huffiness drf adj.all:huffy drf adj.all:huffy[1]
+d: a passing state of anger and resentment
+hypo: anger
+
+w: huffishness drf adj.all:huffish
+w: sulkiness drf adj.all:sulky[1]
+d: a feeling of sulky resentment
+hypo: bitterness
+
+w: humbleness
+w: humility ant pride
+d: a humble feeling
+e: he was filled with humility at the sight of the Pope
+hyper: meekness
+hyper: self-depreciation
+hypo: noun.Tops:feeling
+
+w: humor drf verb.communication:humor
+w: humour drf verb.communication:humour
+w: mood drf adj.all:moody[1]
+w: temper
+d: a characteristic (habitual or relatively temporary) state of feeling
+e: he was in a bad humor
+e: whether he praised or cursed me depended on his temper at the time
+hyper: amiability
+hyper: distemper
+hyper: peeve
+hyper: sulk
+hypo: noun.Tops:feeling
+
+w: hungriness drf adj.all:hungry
+w: longing drf verb.emotion:long[2]
+w: yearning drf verb.emotion:yearn drf verb.emotion:yearn[1]
+d: prolonged unfulfilled desire or need
+hyper: discontent
+hyper: hankering
+hyper: nostalgia
+hyper: pining
+hyper: wishfulness
+hyper: wistfulness
+hypo: desire
+
+w: hurt[1] drf verb.body:hurt[1] drf verb.emotion:hurt[1]
+w: suffering[1] drf verb.body:suffer drf verb.perception:suffer
+d: feelings of mental or physical pain
+hyper: agony
+hyper: discomfort
+hyper: throes
+hypo: pain
+
+w: hysteria[1] drf adj.all:hysterical[1]
+d: excessive or uncontrollable fear
+hypo: fear
+
+w: impatience drf adj.all:impatient[1]
+d: a restless desire for change and excitement
+hypo: fidget
+
+w: inclination ant disinclination drf verb.cognition:incline[3] drf verb.stative:incline[1]
+d: that toward which you are inclined to feel a liking
+e: her inclination is for classical music
+hyper: leaning
+hyper: stomach[1]
+hyper: undertow
+hypo: liking
+
+w: indifference drf adj.all:indifferent[2] drf adj.all:indifferent[3] drf adj.all:indifferent[4] drf adj.all:indifferent[7]
+d: unbiased impartial unconcern
+hyper: detachment
+hyper: distance
+hypo: unconcern
+
+w: indignation
+w: outrage drf verb.emotion:outrage[1]
+d: a feeling of righteous anger
+hyper: dudgeon
+hypo: anger
+
+w: infatuation drf verb.emotion:infatuate
+d: a foolish and usually extravagant passion or love or admiration
+hypo: passion
+
+w: inferiority_complex
+d: a sense of personal inferiority arising from conflict between the desire to be noticed and the fear of being humiliated
+hypo: complex
+
+w: ingratitude ant gratitude
+w: ungratefulness drf adj.all:ungrateful
+d: a lack of gratitude
+hypo: noun.Tops:feeling
+
+w: insecurity drf adj.all:insecure[1]
+d: the anxiety you experience when you feel vulnerable and insecure
+hypo: anxiety
+
+w: insight
+w: perceptiveness drf adj.all:perceptive drf adj.pert:perceptive
+w: perceptivity drf adj.all:perceptive
+d: a feeling of understanding
+hypo: sensibility
+
+w: intertrigo
+d: chafing between two skin surfaces that are in contact (as in the armpit or under the breasts or between the thighs)
+hypo: chafing
+
+w: intimidation drf verb.emotion:intimidate
+d: the feeling of being intimidated; being made to feel afraid or timid
+hypo: fear
+
+w: intimidation[1]
+d: the feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+hypo: disheartenment
+
+w: intoxication drf verb.emotion:intoxicate
+d: excitement and elation beyond the bounds of sobriety
+e: the intoxication of wealth and power
+hypo: excitement
+
+w: irascibility drf adj.all:irascible drf adj.all:irascible[1]
+w: quick_temper
+w: short_temper
+w: spleen drf adj.all:splenetic
+d: a feeling of resentful anger
+hypo: bad_temper
+
+w: irritation[1] drf verb.emotion:irritate
+w: pique drf verb.emotion:pique
+w: temper[1] drf verb.change:temper[3]
+d: a sudden outburst of anger
+e: his temper sparked like damp firewood
+hypo: annoyance
+
+w: isolation
+d: a feeling of being disliked and alone
+hypo: alienation
+
+w: itch drf verb.emotion:itch
+w: urge
+d: a strong restless desire
+e: why this urge to travel?
+hypo: desire
+
+w: jitteriness drf adj.all:jittery
+w: jumpiness drf adj.all:jumpy[1]
+w: nervousness drf adj.all:nervous drf adj.all:nervous[1]
+w: restiveness drf adj.all:restive
+d: the anxious feeling you have when you have the jitters
+hypo: anxiety
+
+w: jocularity drf adj.all:jocular
+w: jocundity drf adj.all:jocund
+d: a feeling facetious merriment
+hypo: gaiety
+
+w: joie_de_vivre
+d: a keen enjoyment of living
+hypo: enjoyment
+
+w: jolliness drf adj.all:jolly
+w: jollity drf adj.all:jolly
+w: joviality drf adj.all:jovial
+d: feeling jolly and jovial and full of good humor
+hypo: amiability
+hypo: gaiety
+
+w: joy ant sorrow drf adj.all:joyous drf verb.emotion:joy drf verb.emotion:joy[1]
+w: joyfulness drf adj.all:joyful drf adj.all:joyful[1]
+w: joyousness drf adj.all:joyous
+d: the emotion of great happiness
+hyper: elation
+hyper: excitement
+hyper: exuberance
+hyper: exultation
+hypo: emotion
+
+w: joylessness drf adj.all:joyless
+d: a feeling of dismal cheerlessness
+hypo: cheerlessness
+
+w: kind-heartedness
+w: kindheartedness drf adj.all:kindhearted
+d: sympathy arising from a kind heart
+hyper: mellowness
+hypo: fellow_feeling
+
+w: languor[1]
+w: lassitude
+w: listlessness drf adj.all:listless drf adj.all:listless[1]
+d: a feeling of lack of interest or energy
+hypo: apathy
+
+w: leaning
+w: propensity
+w: tendency drf verb.stative:tend[1]
+d: an inclination to do something
+e: he felt leanings toward frivolity
+hypo: inclination
+
+w: lecherousness drf adj.all:lecherous
+w: lust drf adj.all:lusty drf verb.consumption:lust
+w: lustfulness drf adj.all:lustful drf adj.all:lustful[1] drf adj.all:lustful[2]
+d: a strong sexual desire
+hypo: concupiscence
+
+w: levity ant gravity
+d: feeling an inappropriate lack of seriousness
+hyper: playfulness
+hypo: noun.Tops:feeling
+
+w: libido drf adj.all:libidinous drf adj.pert:libidinal
+d: (psychoanalysis) a Freudian term for sexual urge or desire
+hypo: concupiscence
+mt: noun.act:depth_psychology
+
+w: liking ant dislike
+d: a feeling of pleasure and enjoyment
+e: I've always had a liking for reading
+e: she developed a liking for gin
+hyper: approval
+hyper: captivation
+hyper: esteem
+hyper: fancy
+hyper: friendliness
+hyper: inclination
+hyper: mysophilia
+hyper: penchant
+hypo: noun.Tops:feeling
+
+w: lividity drf adj.all:livid[3]
+d: a state of fury so great the face becomes discolored
+hypo: fury
+
+w: love ant hate drf verb.emotion:love drf verb.emotion:love[1] drf verb.emotion:love[2]
+d: a strong positive emotion of regard and affection
+e: children need a lot of love
+e: his love for his work
+hyper: adoration
+hyper: agape
+hyper: agape[1]
+hyper: ardor
+hyper: benevolence
+hyper: calf_love
+hyper: devotedness
+hyper: enamoredness
+hyper: filial_love
+hyper: heartstrings
+hyper: lovingness
+hyper: loyalty
+hypo: emotion
+
+w: lovesickness drf adj.all:lovesick
+d: a pining for a loved one
+hypo: pining
+
+w: loyalty
+d: feelings of allegiance
+hypo: love
+
+w: maleficence ant beneficence drf adj.all:maleficent
+d: doing or causing evil
+hypo: malevolence
+
+w: malevolence ant benevolence drf adj.all:malevolent[1]
+w: malignity
+d: wishing evil to others
+hyper: maleficence
+hyper: malice
+hyper: vengefulness
+hypo: hate
+
+w: malice drf adj.all:malicious
+w: maliciousness drf adj.all:malicious
+w: spite drf verb.emotion:spite
+w: spitefulness drf adj.all:spiteful
+w: venom drf adj.all:venomous[1]
+d: feeling a need to see others suffer
+hypo: malevolence
+
+w: masochism drf adj.all:masochistic drf noun.person:masochist
+d: sexual pleasure obtained from receiving punishment (physical or psychological)
+hyper: sadomasochism
+hypo: sexual_pleasure
+
+w: meekness drf adj.all:meek drf adj.all:meek[2]
+w: submission
+d: the feeling of patient, submissive humbleness
+hypo: humbleness
+
+w: melancholy
+d: a feeling of thoughtful sadness
+hyper: Weltschmerz
+hyper: brooding
+hyper: gloom
+hyper: heavyheartedness
+hypo: sadness
+
+w: mellowness drf adj.all:mellow[3]
+d: kindheartedness through maturity or old age
+hypo: kind-heartedness
+
+w: mental_anguish
+d: sustained dull painful emotion
+hypo: pain
+
+w: mercifulness drf adj.all:merciful[1]
+w: mercy
+d: the feeling that motivates compassion
+hyper: forgiveness
+hypo: compassion
+
+w: misanthropy drf adj.all:misanthropic[1] drf adj.all:misanthropical[1] drf noun.person:misanthropist
+d: hatred of mankind
+hypo: hate
+
+w: misery
+d: a feeling of intense unhappiness
+e: she was exhausted by her misery and grief
+hypo: sadness
+
+w: misgiving drf verb.cognition:misgive
+w: qualm
+w: scruple drf adj.all:scrupulous[1] drf verb.communication:scruple drf verb.emotion:scruple drf verb.stative:scruple
+d: uneasiness about the fitness of an action
+hypo: anxiety
+
+w: misocainea
+d: hatred of new ideas
+hypo: misoneism
+
+w: misogamy drf noun.person:misogamist
+d: hatred of marriage
+hypo: hate
+
+w: misogynism
+w: misogyny ant philogyny drf adj.all:misogynic drf adj.all:misogynous drf noun.person:misogynist
+d: hatred of women
+hypo: hate
+
+w: misology
+d: hatred of reasoning
+hypo: hate
+
+w: misoneism
+d: hatred of change or innovation
+hyper: misocainea
+hypo: hate
+
+w: misopedia
+d: hatred of children
+hypo: hate
+
+w: moodiness drf adj.all:moody
+d: a sullen gloomy feeling
+hyper: glumness
+hypo: distemper
+
+w: mournfulness drf adj.all:mournful drf adj.all:mournful[1]
+w: ruthfulness drf adj.all:ruthful
+w: sorrowfulness drf adj.all:sorrowful
+d: a state of gloomy sorrow
+hyper: plaintiveness
+hyper: woe
+hypo: sorrow
+
+w: murderousness drf adj.all:murderous
+d: a bloodthirsty hatred arousing murderous impulses
+hypo: hate
+
+w: mysophilia
+d: abnormal attraction to filth
+hypo: liking
+
+w: nationalism drf noun.person:nationalist[1]
+d: the aspiration for national independence felt by people under foreign domination
+hypo: ambition
+
+w: nausea drf adj.all:nauseous drf verb.emotion:nauseate drf verb.perception:nauseate
+d: disgust so strong it makes you feel sick
+hypo: disgust
+
+w: nostalgia drf adj.all:nostalgic
+d: longing for something past
+hyper: homesickness
+hypo: hungriness
+
+w: nymphomania drf adj.all:nymphomaniacal
+d: abnormally intense sexual desire in women
+hypo: concupiscence
+
+w: offence drf verb.emotion:offend[1]
+w: offense
+w: umbrage drf adj.all:umbrageous
+d: a feeling of anger caused by being offended
+e: he took offence at my question
+hypo: anger
+
+w: oppression
+w: oppressiveness drf adj.all:oppressive
+d: a feeling of being oppressed
+hyper: weight
+hypo: depression
+
+w: optimism ant pessimism drf adj.all:optimistic drf adj.all:optimistic[1] drf noun.person:optimist
+d: the optimistic feeling that all is going to turn out well
+hyper: sanguineness
+hypo: hope
+
+w: oversensitiveness drf adj.all:oversensitive
+d: sensitivity leading to easy irritation or upset
+hypo: sensitiveness
+
+w: pain ant pleasure drf verb.emotion:pain
+w: painfulness drf adj.all:painful[1] drf adj.all:painful[3]
+d: emotional distress; a fundamental feeling that people try to avoid
+e: the pain of loneliness
+hyper: distress[2]
+hyper: growing_pains
+hyper: hurt[1]
+hyper: mental_anguish
+hyper: unpleasantness
+hypo: noun.Tops:feeling
+
+w: pang
+w: stab
+w: twinge
+d: a sudden sharp feeling
+e: pangs of regret
+e: she felt a stab of excitement
+e: twinges of conscience
+hyper: guilt_pang
+hypo: noun.Tops:feeling
+
+w: panic_attack
+w: scare drf adj.all:scarey drf verb.emotion:scare
+d: a sudden attack of fear
+hypo: fear
+
+w: passion
+w: passionateness drf adj.all:passionate
+d: a strong feeling or emotion
+hyper: abandon
+hyper: fervency
+hyper: infatuation
+hyper: storminess
+hypo: noun.Tops:feeling
+
+w: passion[2]
+d: a feeling of strong sexual desire
+hypo: concupiscence
+
+w: peeve
+d: an annoyed or irritated mood
+hypo: humor
+
+w: penance
+w: penitence drf adj.all:penitent drf adj.all:penitential drf adj.all:penitentiary[1]
+w: repentance drf adj.all:repentant drf verb.emotion:repent
+d: remorse for your past conduct
+hypo: compunction
+
+w: penchant
+w: predilection
+w: preference drf verb.emotion:prefer
+w: taste[2]
+d: a strong liking
+e: my own preference is for good literature
+e: the Irish have a penchant for blarney
+hyper: acquired_taste
+hyper: weakness
+hypo: liking
+
+w: penis_envy
+d: (psychoanalysis) a female's presumed envy of the male's penis; said to explain femininity
+hypo: enviousness
+mt: noun.act:depth_psychology
+
+w: pessimism ant optimism drf adj.all:pessimistic drf noun.person:pessimist
+d: the feeling that things will turn out badly
+hyper: cynicism
+hypo: despair
+
+w: pet
+d: a fit of petulance or sulkiness (especially at what is felt to be a slight)
+hypo: crossness
+
+w: philhellenism drf noun.person:philhellenist
+d: admiration for Greece and the Greeks and Greek customs
+hypo: esteem
+
+w: philogyny ant misogyny
+d: admiration for women
+hypo: esteem
+
+w: pining drf verb.emotion:pine
+d: a feeling of deep longing
+hyper: lovesickness
+hypo: hungriness
+
+w: placidity
+w: placidness drf adj.all:placid drf adj.all:placid[1]
+d: a feeling of calmness; a quiet and undisturbed feeling
+hypo: calmness
+
+w: plaintiveness drf adj.all:plaintive
+d: expressing sorrowfulness
+hypo: mournfulness
+
+w: pleasance drf adj.all:pleasant
+w: pleasure ant pain drf verb.emotion:please
+d: a fundamental feeling that is hard to define but that people desire to experience
+e: he was tingling with pleasure
+hyper: comfort
+hyper: delectation
+hyper: enjoyment
+hyper: pleasantness
+hyper: sexual_pleasure
+hypo: noun.Tops:feeling
+
+w: pleasantness ant unpleasantness drf adj.all:pleasant[1]
+d: the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
+hyper: afterglow
+hypo: pleasance
+
+w: presage
+d: a foreboding about what is about to happen
+hypo: boding
+
+w: pride[1] drf verb.emotion:pride
+d: satisfaction with your (or another's) achievements
+e: he takes pride in his son's success
+hyper: noun.attribute:civic_pride
+hypo: satisfaction
+
+w: pride ant humility
+w: pridefulness drf adj.all:prideful[1]
+d: a feeling of self-respect and personal worth
+hyper: noun.attribute:dignity
+hyper: amour_propre
+hyper: egotism
+hyper: self-esteem
+hypo: noun.Tops:feeling
+
+w: protectiveness drf adj.all:protective[1]
+d: a feeling of protective affection
+hypo: affection
+
+w: quietness drf adj.all:quiet[1] drf adj.all:quiet[2]
+w: quietude
+w: tranquility drf adj.all:tranquil[1]
+w: tranquillity drf adj.all:tranquil[1]
+d: a state of peace and quiet
+hyper: ataraxis
+hyper: easiness
+hypo: calmness
+
+w: razbliuto
+d: the sentimental feeling you have about someone you once loved but no longer do
+hypo: sentiment
+mr: noun.location:Russia
+
+w: regard[2]
+w: respect drf verb.social:respect
+d: a feeling of friendship and esteem
+e: he inspires respect
+e: she mistook his manly regard for love
+hypo: affection
+
+w: regret drf verb.communication:regret[2] drf verb.emotion:regret drf verb.emotion:regret[1]
+w: rue drf verb.emotion:rue
+w: ruefulness drf adj.all:rueful
+w: sorrow[1] drf verb.emotion:sorrow
+d: sadness associated with some wrong done or some disappointment
+e: he drank to drown his sorrows
+e: he wrote a note expressing his regret
+e: to his rue, the error cost him the game
+hyper: attrition
+hyper: compunction
+hypo: sadness
+
+w: rejoicing drf verb.emotion:rejoice drf verb.emotion:rejoice[2]
+d: a feeling of great happiness
+hypo: happiness
+
+w: resignation drf verb.cognition:resign
+w: surrender
+d: acceptance of despair
+hyper: defeatism
+hypo: despair
+
+w: sadism drf adj.all:sadistic drf noun.person:sadist
+d: sexual pleasure obtained by inflicting harm (physical or psychological) on others
+hyper: sadomasochism
+hypo: sexual_pleasure
+
+w: sadness ant happiness drf adj.all:sad[2]
+w: unhappiness drf adj.all:unhappy drf adj.all:unhappy[3]
+d: emotions experienced when not in a state of well-being
+hyper: cheerlessness
+hyper: dejectedness
+hyper: depression
+hyper: dolefulness
+hyper: forlornness
+hyper: heaviness
+hyper: melancholy
+hyper: misery
+hyper: regret
+hyper: sorrow
+hyper: tearfulness
+hypo: noun.Tops:feeling
+
+w: sadomasochism drf adj.pert:sadomasochistic drf noun.person:sadomasochist
+d: sadism and masochism combined in one person
+hypo: masochism
+hypo: sadism
+
+w: sanguineness drf adj.all:sanguine[1]
+w: sanguinity drf adj.all:sanguine[1]
+d: feeling sanguine; optimistically cheerful and confident
+hypo: optimism
+
+w: satisfaction ant dissatisfaction
+d: the contentment one feels when one has fulfilled a desire, need, or expectation
+e: the chef tasted the sauce with great satisfaction
+hyper: complacence
+hyper: fulfillment
+hyper: gloat
+hyper: pride[1]
+hypo: contentment
+
+w: satyriasis
+d: abnormally intense sexual desire in men
+hypo: concupiscence
+
+w: scunner
+d: a strong dislike
+e: they took a scunner against the United States
+hypo: dislike
+mr: noun.location:Scotland
+
+w: security drf adj.all:secure[4]
+d: freedom from anxiety or fear
+e: the watch dog gave her a feeling of security
+hyper: confidence
+hypo: bravery
+
+w: self-consciousness drf adj.all:self-conscious[1]
+w: uncomfortableness drf adj.all:uncomfortable[1]
+w: uneasiness[1] drf adj.all:uneasy[1]
+d: embarrassment deriving from the feeling that others are critically aware of you
+hypo: embarrassment
+
+w: self-depreciation
+d: a feeling of being of little worth
+hypo: humbleness
+
+w: self-disgust
+w: self-hatred
+d: shame resulting from strong dislike of yourself or your actions
+hypo: shame
+
+w: self-esteem
+w: self-pride
+d: a feeling of pride in yourself
+hypo: pride
+
+w: self-pity
+d: a feeling of sorrow (often self-indulgent) over your own sufferings
+hypo: sorrow
+
+w: self-torment
+w: self-torture
+d: self-imposed distress
+hypo: distress[2]
+
+w: sensation
+d: a general feeling of excitement and heightened interest
+e: anticipation produced in me a sensation somewhere between hope and fear
+hypo: stir
+
+w: sensibility
+d: refined sensitivity to pleasurable or painful impressions
+e: cruelty offended his sensibility
+hyper: insight
+hyper: sensuousness
+hypo: sensitiveness
+
+w: sensitiveness drf adj.all:sensitive[4]
+w: sensitivity drf adj.all:sensitive[4]
+d: sensitivity to emotional feelings (of self and others)
+attr: adj.all:insensitive
+attr: adj.all:sensitive[4]
+hyper: feelings
+hyper: oversensitiveness
+hyper: sensibility
+hypo: noun.Tops:feeling
+
+w: sensualism drf noun.person:sensualist
+w: sensuality drf adj.all:sensual
+w: sensualness drf adj.all:sensual drf adj.all:sensual[1]
+d: desire for sensual pleasures
+hypo: concupiscence
+
+w: sensuousness drf adj.all:sensuous
+d: a sensuous feeling
+hypo: sensibility
+
+w: sentiment drf adj.all:sentimental drf adj.all:sentimental[1]
+d: tender, romantic, or nostalgic feeling or emotion
+hyper: razbliuto
+hyper: sentimentality
+hypo: noun.Tops:feeling
+
+w: sentimentality drf adj.all:sentimental[1]
+d: extravagant or affected feeling or emotion
+hyper: bathos
+hypo: sentiment
+
+w: sex drf adj.all:sexy drf adj.all:sexy[1] drf verb.emotion:sex
+w: sexual_urge
+d: all of the feelings resulting from the urge to gratify sexual impulses
+e: he wanted a better sex life
+e: the film contained no sex or violence
+hypo: noun.Tops:feeling
+
+w: sexual_pleasure
+d: pleasure derived from sexual activities
+hyper: algolagnia
+hyper: masochism
+hyper: sadism
+hypo: pleasance
+
+w: shadow
+d: a premonition of something adverse
+e: a shadow over his happiness
+hypo: boding
+
+w: shame drf verb.emotion:shame drf verb.social:shame drf verb.social:shame[1]
+d: a painful emotion resulting from an awareness of inadequacy or guilt
+hyper: conscience
+hyper: embarrassment
+hyper: self-disgust
+hypo: noun.Tops:feeling
+
+w: shamefacedness drf adj.all:shamefaced drf adj.all:shamefaced[1] drf adj.all:shamefaced[2]
+w: sheepishness drf adj.all:sheepish
+d: feeling embarrassed about yourself
+hypo: embarrassment
+
+w: shyness drf adj.all:shy
+d: a feeling of fear of embarrassment
+hypo: timidity
+
+w: sinking
+w: sinking_feeling
+d: a feeling caused by uneasiness or apprehension
+e: a sinking feeling in the pit of my stomach
+e: with a sinking heart
+hypo: anxiety
+
+w: smugness drf adj.all:smug
+d: an excessive feeling of self-satisfaction
+hypo: complacence
+
+w: soft_spot
+d: a sentimental affection
+e: she had a soft spot for her youngest son
+hypo: affection
+
+w: softheartedness drf adj.all:softhearted
+w: tenderness drf adj.all:tender[7]
+d: a feeling of concern for the welfare of someone (especially someone defenseless)
+hypo: concern
+
+w: solicitousness drf adj.all:solicitous drf adj.all:solicitous[1]
+w: solicitude
+d: a feeling of excessive concern
+hypo: concern
+
+w: sorrow ant joy drf verb.emotion:sorrow
+d: an emotion of great sadness associated with loss or bereavement
+e: he tried to express his sorrow at her loss
+hyper: broken_heart
+hyper: brokenheartedness
+hyper: mournfulness
+hyper: self-pity
+hypo: sadness
+
+w: soul
+w: soulfulness drf adj.all:soulful
+d: deep feeling or emotion
+hypo: noun.Tops:feeling
+
+w: stage_fright
+d: fear that affects a person about to face an audience
+hypo: fear
+
+w: stewing
+d: an extreme state of worry and agitation
+e: his stewing over the fight kept him awake most of the night
+hypo: agitation
+
+w: stir drf verb.emotion:stir drf verb.emotion:stir[1] drf verb.perception:stir
+d: emotional agitation and excitement
+hyper: electricity
+hyper: sensation
+hypo: agitation
+
+w: stomach[1]
+d: an inclination or liking for things involving conflict or difficulty or unpleasantness
+e: he had no stomach for a fight
+hypo: inclination
+
+w: stomach drf verb.consumption:stomach
+d: an appetite for food
+e: exercise gave him a good stomach for dinner
+hypo: appetence
+
+w: storminess drf adj.all:stormy
+d: violent passion in speech or action
+e: frightened by the storminess of their argument
+hypo: passion
+
+w: stupefaction drf verb.cognition:stupefy
+d: a feeling of stupefied astonishment
+hyper: daze
+hypo: amazement
+
+w: sulk drf adj.all:sulky[1] drf verb.stative:sulk
+w: sulkiness[1] drf adj.all:sulky[1]
+d: a mood or display of sullen aloofness or withdrawal
+e: stayed home in a sulk
+hypo: humor
+
+w: surprise drf verb.cognition:surprise
+d: the astonishment you feel when something totally unexpected happens to you
+hypo: amazement
+
+w: survivor_guilt
+d: a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died
+e: survivor guilt was first noted in those who survived the Holocaust
+hp: noun.state:PTSD
+hypo: guilt
+
+w: suspense[1]
+d: excited anticipation of an approaching climax
+e: the play kept the audience in suspense
+hypo: anticipation
+
+w: suspense[2]
+d: apprehension about what is going to happen
+hypo: apprehension
+
+w: sweet_tooth
+d: a strong appetite for sweet food
+hypo: appetence
+
+w: swivet
+d: a panic or extreme discomposure
+e: it threw her into a swivet
+hypo: affright
+
+w: tearfulness drf adj.all:tearful drf adj.all:tearful[1]
+w: weepiness drf adj.all:weepy
+d: sadness expressed by weeping
+hypo: sadness
+
+w: technophilia
+d: enthusiasm for new technology
+hypo: enthusiasm
+
+w: technophobia
+d: dislike for new technology
+hypo: dislike
+
+w: temptation drf verb.communication:tempt[1]
+d: the desire to have or do something that you know you should avoid
+e: he felt the temptation and his will power weakened
+hypo: desire
+
+w: tenderheartedness drf adj.all:tenderhearted drf adj.all:tenderhearted[1]
+w: tenderness[3] drf adj.all:tender[7]
+d: warm compassionate feelings
+hypo: compassion
+
+w: testiness drf adj.all:testy
+w: tetchiness drf adj.all:tetchy
+w: touchiness[1] drf adj.all:touchy[1]
+d: feeling easily irritated
+hypo: crossness
+
+w: the_hots
+d: intense sexual desire
+hypo: concupiscence
+
+w: thing
+d: a persistent illogical feeling of desire or aversion
+e: he has a thing about seafood
+e: she has a thing about him
+hypo: noun.Tops:feeling
+
+w: throes
+d: violent pangs of suffering
+e: death throes
+hypo: hurt[1]
+
+w: timidity drf adj.all:timid[2]
+w: timidness drf adj.all:timid drf adj.all:timid[1] drf adj.all:timid[2]
+w: timorousness drf adj.all:timid[1]
+d: fear of the unknown or unfamiliar or fear of making decisions
+hyper: cold_feet
+hyper: diffidence
+hyper: shyness
+hypo: fear
+
+w: titillation
+d: a tingling feeling of excitement (as from teasing or tickling)
+hypo: excitement
+
+w: togetherness drf adj.all:together
+d: affectionate closeness
+e: togetherness is the new wonder ingredient in marriage
+hypo: closeness
+
+w: trepidation
+d: a feeling of alarm or dread
+hypo: apprehension
+
+w: triumph drf adj.all:triumphal drf verb.emotion:triumph
+d: the exultation of victory
+hypo: exultation
+
+w: trouble[3] drf verb.emotion:trouble drf verb.emotion:trouble[1]
+w: worry drf verb.emotion:worry drf verb.emotion:worry[12]
+d: a strong feeling of anxiety
+e: he wanted to die and end his troubles
+e: his worry over the prospect of being fired
+e: it is not work but worry that kills
+hypo: anxiety
+
+w: tsoris
+d: (Yiddish) trouble and suffering
+hypo: distress[2]
+mt: noun.communication:Yiddish
+
+w: tumult
+w: turmoil
+d: violent agitation
+hypo: agitation
+
+w: unassertiveness drf adj.all:unassertive
+d: diffidence about self promotion
+hypo: diffidence
+
+w: unconcern ant concern
+d: a feeling of lack of concern
+hyper: coldheartedness
+hyper: indifference
+hypo: noun.Tops:feeling
+
+w: undertow
+d: an inclination contrary to the strongest or prevailing feeling
+e: his account had a poignant undertow of regret
+hypo: inclination
+
+w: unfriendliness ant friendliness drf adj.all:unfriendly[1]
+d: dislike experienced as an absence of friendliness
+hypo: dislike
+
+w: unpleasantness ant pleasantness drf adj.all:unpleasant
+d: the feeling caused by disagreeable stimuli; one pole of a continuum of states of feeling
+hypo: pain
+
+w: unrest
+d: a feeling of restless agitation
+hypo: agitation
+
+w: velleity
+d: a mere wish, unaccompanied by effort to obtain
+hypo: want
+
+w: vengefulness drf adj.all:vengeful
+w: vindictiveness drf adj.all:vindictive drf adj.all:vindictive[1]
+d: a malevolent desire for revenge
+hypo: malevolence
+
+w: want drf verb.cognition:want[1] drf verb.emotion:want
+w: wish drf verb.communication:wish[2] drf verb.emotion:wish drf verb.emotion:wish[1] drf verb.emotion:wish[2]
+w: wishing drf verb.emotion:wish
+d: a specific feeling of desire
+e: he got his wish
+e: he was above all wishing and desire
+hyper: velleity
+hypo: desire
+
+w: warmheartedness[1] drf adj.all:warmhearted
+w: warmth
+d: a warmhearted feeling
+hypo: lovingness
+
+w: warpath
+d: hostile or belligerent mood
+e: the chief is on the warpath today
+hypo: belligerence
+
+w: weakness
+d: a penchant for something even though it might not be good for you
+e: he has a weakness for chocolate
+hypo: penchant
+
+w: weight drf adj.all:weighty[4]
+d: an oppressive feeling of heavy force
+e: bowed down by the weight of responsibility
+hypo: oppression
+
+w: willies
+d: feelings of uneasiness
+e: that guy gave me the willies
+hypo: disquietude
+
+w: wishfulness drf adj.all:wishful[1]
+d: an unrealistic yearning
+hypo: hungriness
+
+w: wistfulness drf adj.all:wistful
+d: a sadly pensive longing
+hypo: hungriness
+
+w: woe
+w: woefulness drf adj.all:woeful[1]
+d: intense mournfulness
+hypo: mournfulness
+
+w: wound
+d: a figurative injury (to your feelings or pride)
+e: "The right reader of a good poem can tell the moment it strikes him that he has taken an immortal wound--that he will never get over it"--Robert Frost
+e: deep in her breast lives the silent wound
+e: he feared that mentioning it might reopen the wound
+hypo: distress[2]
+
+w: wrath
+d: intense anger (usually on an epic scale)
+hypo: fury
+
+w: zeal[2] drf adj.all:zealous
+d: excessive fervor to do something or accomplish some end
+e: he had an absolute zeal for litigation
+hypo: fervency
+

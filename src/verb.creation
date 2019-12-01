@@ -1,0 +1,5649 @@
+verb.creation
+
+w: accompany drf noun.communication:accompaniment drf noun.person:accompanist
+w: follow[1]
+w: play_along
+d: perform an accompaniment to
+e: The orchestra could barely follow the frequent pitch changes of the soprano
+fs: 8 9
+hypo: play[12]
+mt: noun.act:music
+
+w: accomplish drf adj.all:accomplishable drf noun.act:accomplishment
+w: action
+w: carry_out
+w: carry_through
+w: execute drf adj.pert:executive drf noun.act:execution[3]
+w: fulfil drf noun.act:fulfilment
+w: fulfill drf noun.act:fulfillment
+d: put in effect
+e: He actioned the operation
+e: carry out a task
+e: execute the decision of the people
+fs: 8
+hyper: consummate
+hyper: consummate[1]
+hyper: get_over
+hyper: run
+hyper: verb.social:complete
+hyper: verb.social:perform
+hypo: verb.change:complete[2]
+hypo: effect
+vg: verb.change:carry_out
+
+w: act[3] drf adj.all:actable drf noun.act:acting drf noun.communication:act[2] drf noun.person:actor
+w: play[10] drf noun.act:playing[2] drf noun.communication:play[1] drf noun.communication:play[3] drf noun.person:player
+w: playact drf noun.act:playacting drf noun.person:playactor
+w: roleplay drf noun.act:roleplaying
+d: perform on a stage or theater
+e: He acted in `Julius Caesar'
+e: I played in `A Christmas Carol'
+e: She acts in this play
+fs: 2
+hyper: ham
+hyper: mime
+hyper: stooge
+hyper: underact
+hypo: perform[1]
+mt: noun.communication:dramatic_art
+vg: act
+vg: play[3]
+vg: play[4]
+vg: verb.stative:act
+
+w: act[4] drf noun.communication:act[3]
+w: dissemble
+w: pretend drf noun.person:pretender
+d: behave unnaturally or affectedly
+e: She's just acting
+fs: 2 8
+hyper: assume
+vg: verb.body:act
+
+w: act drf adj.all:actable drf noun.act:acting drf noun.communication:act[2] drf noun.person:actor
+w: play[2] drf noun.act:playing[2] drf noun.communication:play[1] drf noun.communication:play[3] drf noun.person:player
+w: represent[2] drf noun.communication:representation[1]
+d: play a role or part
+e: Gielgud played Hamlet
+e: She played the servant to her husband's master
+e: She wants to act Lady Macbeth, but she is too young for the role
+fs: 2 8 9
+hyper: verb.communication:make[9]
+hyper: act_out
+hyper: act_out[1]
+hyper: impersonate
+hyper: parody
+hyper: support
+hyper: verb.emotion:emote
+hypo: re-create
+mt: noun.cognition:performing_arts
+vg: verb.body:act_as
+vg: play[6]
+vg: playact
+
+w: act_out[1]
+d: represent an incident, state, or emotion by action, especially on stage
+e: She could act neurotic anxiety
+fs: 8
+hypo: act
+
+w: act_out
+w: enact drf noun.act:enactment
+w: reenact
+d: act out; represent or perform as if in a play
+e: She reenacted what had happened earlier that day
+fs: 8
+hypo: act
+
+w: activate drf noun.process:activation
+w: actuate drf noun.Tops:act drf noun.act:actuation drf noun.artifact:actuator
+w: set_off
+w: spark drf noun.quantity:spark
+w: spark_off
+w: touch_off
+w: trigger drf noun.act:trigger
+w: trigger_off
+w: trip drf noun.artifact:trip drf noun.artifact:tripper
+d: put in motion or move to act
+e: actuate the circuits
+e: trigger a reaction
+fs: 8 11
+cause: verb.change:come_about
+hypo: initiate
+
+w: actualise drf noun.act:actualisation
+w: actualize drf adj.all:actual[2] drf adj.all:actual[3] drf adj.all:actual[4] drf noun.act:actualization
+w: realise drf noun.act:realisation drf noun.act:realisation[2]
+w: realize drf noun.act:realization drf noun.act:realization[2]
+w: substantiate[4]
+d: make real or concrete; give reality or substance to
+e: our ideas must be substantiated into actions
+fs: 8
+hyper: incarnate
+hyper: verb.perception:express[9]
+hypo: create
+
+w: actuate[2] drf noun.Tops:act
+w: incite drf noun.communication:incitement[1] drf noun.motive:incitation
+w: motivate drf adj.all:motivative drf noun.Tops:motivation drf noun.Tops:motive drf noun.act:motivation drf noun.motive:motivator drf noun.state:motivation
+w: move
+w: prompt
+w: propel drf noun.act:propulsion
+d: give an incentive for action
+e: This moved me to sacrifice my career
+fs: 8 9 10 11 24
+hypo: cause
+vg: verb.emotion:affect
+vg: verb.emotion:move[1]
+
+w: ad-lib drf noun.communication:ad-lib
+w: extemporise drf noun.act:extemporisation
+w: extemporize drf noun.act:extemporization
+w: improvise drf noun.act:improvisation drf noun.act:improvisation[1] drf noun.artifact:improvisation
+w: improvize
+d: perform without preparation
+e: he extemporized a speech at the wedding
+fs: 2 8
+hypo: perform
+
+w: adopt
+w: dramatise drf noun.act:dramatisation drf noun.communication:drama drf noun.communication:drama[1] drf noun.person:dramatist
+w: dramatize drf noun.act:dramatization drf noun.act:dramatization[1] drf noun.communication:drama drf noun.communication:drama[1] drf noun.person:dramatist
+d: put into dramatic form
+e: adopt a book for a screenplay
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: adorn drf noun.act:adornment
+w: beautify drf noun.act:beautification drf noun.attribute:beauty
+w: decorate drf adj.all:decorative drf noun.act:decoration drf noun.artifact:decor drf noun.artifact:decoration drf noun.person:decorator
+w: embellish drf noun.act:embellishment
+w: grace drf noun.attribute:grace[1]
+w: ornament drf noun.act:ornamentation drf noun.artifact:ornament
+d: make more attractive by adding ornament, colour, etc.
+e: Decorate the room for the party
+e: beautify yourself for the special day
+fs: 8 11
+hyper: verb.contact:beset
+hyper: verb.contact:braid[1]
+hyper: verb.contact:wreathe[1]
+hyper: applique
+hyper: bard
+hyper: bead
+hyper: bedeck
+hyper: bedizen
+hyper: begild
+hyper: bejewel
+hyper: bespangle
+hyper: blazon
+hyper: broider
+hyper: color[1]
+hyper: dress
+hyper: dress_ship
+hyper: enamel
+hyper: festoon
+hyper: filet
+hyper: flag
+hyper: fledge
+hyper: foliate[1]
+hyper: fret
+hyper: fringe
+hyper: garland
+hyper: gild_the_lily
+hyper: hang
+hyper: illuminate
+hyper: illustrate[1]
+hyper: inlay
+hyper: lacquer
+hyper: landscape[1]
+hyper: panel
+hyper: pipe[1]
+hyper: prank
+hyper: redecorate
+hyper: scallop
+hyper: smock
+hyper: stick[3]
+hyper: stucco
+hyper: tart_up
+hyper: tinsel
+hyper: trim[1]
+hyper: vermiculate
+hypo: verb.change:alter[1]
+vg: verb.stative:ornament
+
+w: alliterate drf adj.all:alliterative drf noun.communication:alliteration drf noun.person:alliterator
+d: use alliteration as a form of poetry
+fs: 2
+hypo: rhyme
+mt: noun.communication:poesy[2]
+
+w: alter drf adj.all:alterable[1] drf noun.act:alteration[1]
+d: make an alteration to
+e: This dress needs to be altered
+fs: 8
+entail: sew
+hypo: verb.change:alter[1]
+
+w: animalise drf noun.Tops:animal
+w: animalize drf noun.Tops:animal
+d: represent in the form of an animal
+fs: 8 9
+hypo: interpret[1]
+
+w: annotate drf noun.act:annotation drf noun.communication:annotation drf noun.communication:note[2] drf noun.person:annotator
+w: footnote drf noun.communication:footnote
+d: add explanatory notes to or supply with critical comments
+e: The scholar annotated the early edition of a famous novel
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: anthologise drf noun.communication:anthology
+w: anthologize drf noun.communication:anthology
+d: compile an anthology
+fs: 8
+hypo: compile
+
+w: appear drf noun.act:appearance
+d: appear as a character on stage or appear in a play, etc.
+e: Gielgud appears briefly in this movie
+e: She appeared in `Hamlet' on the London stage
+fs: 22
+hypo: perform
+mt: noun.communication:dramatic_art
+
+w: applique drf noun.artifact:applique
+d: sew on as a decoration
+fs: 8
+entail: sew
+hypo: adorn
+
+w: aquatint drf noun.act:aquatint drf noun.artifact:aquatint
+d: etch in aquatint
+fs: 2 8
+hypo: etch
+mt: noun.act:art
+
+w: arouse
+w: bring_up
+w: call_down
+w: call_forth
+w: conjure drf noun.cognition:conjuration drf noun.cognition:conjuring drf noun.cognition:conjury drf noun.communication:conjuration drf noun.person:conjurer[1] drf noun.person:conjuror[1]
+w: conjure_up
+w: evoke[2] drf noun.cognition:evocation[2]
+w: invoke drf noun.cognition:invocation drf noun.communication:invocation[1]
+w: put_forward
+w: raise[1]
+w: stir
+d: summon into action or bring into existence, often as if by magic
+e: call down the spirits from the mountain
+e: he conjured wild birds in the air
+e: raise the specter of unemployment
+fs: 8 11
+hyper: verb.communication:anathemize
+hyper: verb.communication:bless
+hypo: create
+vg: evoke
+
+w: arrange[3]
+w: stage[1] drf noun.location:stage drf noun.person:stager
+d: plan, organize, and carry out (an event)
+e: the neighboring tribe staged an invasion
+fs: 8
+hyper: dogfight
+hyper: phase
+hyper: tee_up
+hypo: initiate
+
+w: arrange[2]
+w: format drf noun.attribute:format drf noun.communication:formatting
+d: set (printed matter) into a specific format
+e: Format this letter so it can be printed out
+fs: 8
+hyper: indent
+hyper: rubricate[1]
+hypo: verb.change:change
+
+w: arrange drf noun.person:arranger[1]
+w: set
+d: adapt for performance in a different way
+e: set this poem to music
+fs: 8
+hyper: prearrange
+hyper: put[13]
+hyper: table
+hyper: transpose
+hypo: compose[3]
+mt: noun.communication:music
+
+w: assemble ant disassemble drf noun.artifact:assemblage drf noun.group:assemblage[1]
+w: piece drf noun.artifact:piece
+w: put_together
+w: set_up
+w: tack[5]
+w: tack_together
+d: create by putting components or members together
+e: He tacked together some verses
+e: She pieced a quilt
+e: They set up a committee
+fs: 8 10 11
+hyper: comfit
+hyper: compound
+hyper: configure
+hyper: confuse
+hyper: reassemble
+hyper: rig_up
+hypo: verb.contact:bring_together[1]
+hypo: create
+
+w: assume
+w: feign drf noun.act:feigning
+w: sham drf noun.person:sham drf noun.person:shammer drf noun.person:shammer[1]
+w: simulate drf noun.act:simulation
+d: make a pretence of
+e: She assumed indifference, even though she was seething with anger
+e: he feigned sleep
+fs: 8
+hyper: feint
+hyper: play[6]
+hypo: dissemble
+
+w: attempt
+w: set_about
+w: undertake drf noun.act:undertaking
+d: enter upon an activity or enterprise
+fs: 8 33
+hypo: initiate
+
+w: audition drf noun.act:audition[1]
+w: try_out drf noun.act:tryout
+d: perform in order to get a role
+e: She auditioned for a role on Broadway
+fs: 2
+hyper: read[5]
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+
+w: author drf noun.person:author
+d: be the author of
+e: She authored this play
+fs: 8
+hyper: co-author
+hyper: ghost
+hypo: indite
+mt: noun.act:authorship
+
+w: back_up drf noun.artifact:backup
+d: make a copy of (a computer file) especially for storage in another place as a security copy
+e: You'd better back up these files!
+fs: 8
+hypo: copy[1]
+mt: noun.artifact:computer
+
+w: bake drf noun.act:baking[1] drf noun.person:baker drf noun.person:baker[1]
+d: prepare with dry heat in an oven
+e: bake a cake
+fs: 2 8
+hypo: create_from_raw_material
+
+w: bang_out
+d: play loudly
+e: They banged out `The star-spangled banner'
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: bard drf noun.artifact:bard
+w: barde
+w: caparison drf noun.artifact:caparison
+w: dress_up
+d: put a caparison on
+e: caparison the horses for the festive occasion
+fs: 8
+hypo: adorn
+
+w: bead drf noun.artifact:bead
+d: decorate by sewing beads onto
+e: bead the wedding gown
+fs: 8
+hypo: adorn
+
+w: bear see verb.stative:bear_out
+w: turn_out
+d: bring forth, "The apple tree bore delicious apples this year"
+e: The unidentified plant bore gorgeous flowers
+fs: 11
+hyper: verb.change:spin_off
+hyper: crop
+hyper: fruit
+hyper: overbear
+hyper: seed
+hypo: create
+
+w: beat[2]
+d: make by pounding or trampling
+e: beat a path through the forest
+fs: 8
+entail: verb.motion:trample
+hypo: create
+
+w: beat drf noun.act:beat[1]
+d: shape by beating
+e: beat swords into ploughshares
+fs: 8
+hyper: forge
+hypo: form
+
+w: beat[5] drf noun.communication:beat
+d: produce a rhythm by striking repeatedly
+e: beat the drum
+fs: 8
+hypo: play[1]
+mt: noun.communication:music
+vg: verb.motion:beat[3]
+
+w: bedeck
+w: bedight
+w: deck
+d: decorate
+e: deck the halls with holly
+fs: 8 17 21
+hyper: plume
+hypo: adorn
+
+w: bedizen
+d: decorate tastelessly
+fs: 8
+hypo: adorn
+
+w: begild
+w: engild
+w: gild drf noun.artifact:gilding drf noun.person:gilder
+d: decorate with, or as if with, gold leaf or liquid gold
+fs: 8
+hypo: adorn
+
+w: bejewel
+w: jewel drf noun.artifact:jewel drf noun.artifact:jewellery drf noun.artifact:jewelry drf noun.person:jeweler drf noun.person:jeweler[1] drf noun.person:jeweller drf noun.person:jeweller[1]
+d: adorn or decorate with precious stones
+e: jeweled dresses
+fs: 8 9 10
+hypo: adorn
+
+w: belly_dance drf noun.act:belly_dance
+d: perform a belly dance
+fs: 2
+hypo: dance
+mt: noun.act:dance
+
+w: belt
+w: belt_out
+d: sing loudly and forcefully
+fs: 8
+hypo: sing
+
+w: benday
+d: reproduce by the Benday process
+fs: 8
+hypo: engrave
+
+w: bespangle
+w: spangle drf noun.artifact:spangle
+d: decorate with spangles
+e: the star-spangled banner
+fs: 8
+hypo: adorn
+
+w: blast[2]
+d: make with or as if with an explosion
+e: blast a tunnel through the Alps
+fs: 8
+hypo: cut[1]
+
+w: blast
+w: shell
+d: create by using explosives
+e: blast a passage through the mountain
+fs: 8 11
+hypo: create
+
+w: blaze_away
+d: perform (an acting passage) brilliantly and rapidly
+e: Mr. Jones blazed away in one passage after another to loud applause
+fs: 2
+hypo: perform
+mt: noun.cognition:performing_arts
+
+w: blazon drf noun.artifact:blazon drf noun.artifact:blazonry
+w: emblazon
+d: decorate with heraldic arms
+fs: 8
+hypo: adorn
+mt: noun.act:art
+
+w: blotch drf noun.attribute:blotch
+w: mottle drf noun.act:mottling
+w: streak drf noun.attribute:streak
+d: mark with spots or blotches of different color or shades of color as if stained
+fs: 8
+hypo: verb.change:color
+
+w: blueprint drf noun.artifact:blueprint drf noun.cognition:blueprint
+w: draft[5] drf noun.act:drafting[2] drf noun.artifact:draft[1]
+w: draught
+d: make a blueprint of
+fs: 8
+hypo: design
+
+w: bodypaint
+d: apply paint to a body
+fs: 9
+hypo: paint[1]
+
+w: boldface drf noun.communication:boldface
+d: print in boldface
+fs: 8
+hypo: impress
+
+w: bootleg drf noun.food:bootleg
+d: produce or distribute illegally
+e: bootleg tapes of the diva's singing
+fs: 8
+hypo: produce
+
+w: bow drf noun.artifact:bow
+d: play on a string instrument with a bow
+fs: 2
+hypo: play[12]
+mt: noun.act:music
+
+w: braid drf noun.artifact:braid
+w: lace[1] drf noun.artifact:lace
+w: plait drf noun.artifact:plait drf noun.person:plaiter
+d: make by braiding or interlacing
+e: lace a tablecloth
+fs: 8
+hypo: tissue
+mt: noun.act:handicraft
+
+w: break_apart
+w: break_up
+w: disassemble ant assemble
+w: dismantle drf noun.act:dismantlement drf noun.act:dismantling
+w: take_apart
+d: take apart into its constituent pieces
+fs: 8
+hypo: destroy
+
+w: breed
+w: engender
+w: spawn
+d: call forth
+fs: 8 11
+hypo: cause
+
+w: brew drf noun.artifact:brewery drf noun.food:brew drf noun.food:brewage drf noun.person:brewer drf noun.person:brewer[1]
+d: prepare by brewing
+e: people have been brewing beer for thousands of years
+fs: 1 8
+entail: verb.change:ferment
+hypo: create_from_raw_material
+
+w: bring[1]
+w: institute
+d: advance or set forth in court
+e: "bring charges", "institute proceedings"
+fs: 8
+hypo: create
+
+w: bring see bring_on see bring_up see verb.social:bring_off
+w: make_for
+w: play[13]
+w: work[1] drf adj.all:workable
+w: wreak
+d: cause to happen or to occur as a consequence
+e: I cannot work a miracle
+e: The rain brought relief to the drought-stricken area
+e: bring comments
+e: play a joke
+e: wreak havoc
+fs: 8 11
+hypo: create
+vg: verb.social:act[6]
+
+w: bring_about[3]
+w: give_rise[1] fs 22
+w: produce[3] drf noun.phenomenon:product
+d: cause to happen, occur or exist
+e: The new law gave rise to many complaints
+e: These chemicals produce a noxious vapor
+e: This procedure produces a curious effect
+e: the new President must bring about a change in the health care system
+fs: 11
+hyper: induct
+hyper: verb.stative:leave
+hypo: create
+
+w: bring_forth
+w: produce[2] drf noun.event:producer
+d: bring forth or yield
+e: The tree would not produce fruit
+fs: 8 11
+hyper: verb.body:birth
+hyper: crank_out
+hyper: manufacture[3]
+hyper: sporulate
+hypo: create
+
+w: bring_forth[1]
+w: generate drf adj.all:generative[1] drf noun.event:generation drf noun.person:generator drf noun.time:generation[1]
+d: bring into existence
+e: The computer bug generated chaos in the office
+e: The computer generated this image
+e: The earthquake generated a tsunami
+e: The new manager generated a lot of problems
+fs: 8 11
+hyper: bring_on
+hyper: come_up[3]
+hyper: develop[9]
+hyper: free[3]
+hypo: create
+
+w: bring_on[1]
+d: cause to appear
+e: bring on the birthday cake
+fs: 8 11
+
+w: bring_on
+w: induce drf adj.all:inducive drf noun.act:inducement drf noun.act:inducing drf noun.act:induction
+d: cause to arise
+e: induce a crisis
+fs: 8 11
+hypo: generate
+
+w: brocade drf noun.artifact:brocade
+d: weave a design into (textiles)
+fs: 8
+hypo: tissue
+mt: noun.act:handicraft
+
+w: broider
+w: embroider drf noun.artifact:embroidery drf noun.person:embroiderer
+d: decorate with needlework
+fs: 8
+entail: verb.contact:sew
+hyper: faggot
+hyper: purl
+hyper: purl[1]
+hypo: adorn
+
+w: bugle drf noun.artifact:bugle drf noun.person:bugler
+d: play on a bugle
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: build[4]
+d: give form to, according to a plan
+e: build a million-dollar business
+e: build a modern nation
+fs: 8 11
+hypo: develop[1]
+
+w: build[9]
+w: establish[10]
+d: build or establish something abstract
+e: build a reputation
+fs: 8
+hypo: create
+
+w: build fs 2 drf noun.act:building drf noun.person:builder
+w: construct drf noun.act:construction drf noun.person:constructor
+w: make[13] drf noun.act:making drf noun.cognition:make drf noun.person:maker
+d: make by combining materials and parts
+e: Some eccentric constructed an electric brassiere warmer
+e: this little pig made his house out of straw
+fs: 8
+hyper: verb.change:customise
+hyper: verb.contact:revet[1]
+hyper: cantilever
+hyper: channelise
+hyper: corduroy
+hyper: dry-wall
+hyper: erect
+hyper: frame
+hyper: groin
+hyper: lock[4]
+hyper: rebuild
+hyper: wattle
+hypo: create
+vg: build[10]
+
+w: build[10] drf noun.act:building[1]
+d: be engaged in building
+e: These architects build in interesting and new styles
+fs: 2
+hypo: create[1]
+mt: noun.cognition:architecture
+vg: build
+
+w: burn[5]
+w: cut[6]
+d: create by duplicating data
+e: burn a CD
+e: cut a disk
+fs: 8
+hypo: produce
+vg: cut[4]
+
+w: busk
+d: play music in a public place and solicit money for it
+e: three young men were busking in the plaza
+fs: 2
+hypo: play[12]
+
+w: call_forth[1]
+w: evoke drf noun.cognition:evocation[1]
+w: kick_up
+w: provoke drf noun.motive:provocation
+d: evoke or provoke to appear or occur
+e: Her behavior provoked a quarrel between the couple
+fs: 8 11
+hyper: pick
+hypo: cause
+vg: arouse
+
+w: calligraph drf noun.person:calligrapher drf noun.person:calligraphist
+d: write beautifully and ornamentally
+fs: 2
+hypo: write[1]
+
+w: cantilever drf noun.artifact:cantilever
+d: construct with girders and beams such that only one end is fixed
+e: Frank Lloyd Wright liked to cantilever his buildings
+fs: 8
+hypo: build
+mt: noun.act:architecture
+
+w: capitalise drf noun.communication:capital drf noun.communication:capitalisation
+w: capitalize drf noun.communication:capital drf noun.communication:capitalization
+d: write in capital letters
+fs: 8
+hypo: write[1]
+
+w: capture
+d: succeed in representing or expressing something intangible
+e: capture an idea
+e: capture the essence of Spring
+fs: 8 11
+hyper: recapture
+hypo: interpret[1]
+
+w: carnalize
+w: sensualize
+d: represent materialistically, as in a painting or a sculpture
+fs: 8 9
+hypo: interpret[1]
+
+w: carol drf noun.act:carol drf noun.person:caroler drf noun.person:caroller
+d: sing carols
+e: They went caroling on Christmas Day
+fs: 8
+hypo: sing[1]
+mt: noun.act:music
+
+w: carry[8]
+d: bear (a crop)
+e: this land does not carry olives
+fs: 11
+hypo: farm
+mt: noun.act:agriculture
+vg: verb.consumption:carry[1]
+
+w: carry
+w: run[2]
+d: include as the content; broadcast or publicize
+e: All major networks carried the press conference
+e: This paper carries a restaurant review
+e: We ran the ad three times
+fs: 8 11
+hypo: verb.communication:broadcast
+
+w: cartoon drf noun.communication:cartoon drf noun.communication:cartoon[2] drf noun.person:cartoonist
+d: draw cartoons of
+fs: 8
+hypo: draw
+mt: noun.act:art
+
+w: carve_out
+d: establish or create through painstaking effort
+e: She carved out a reputation among her male colleagues
+fs: 8
+hypo: create[2]
+
+w: cast[1] drf noun.group:cast
+d: select to play,sing, or dance a part in a play, movie, musical, opera, or ballet
+e: He cast a young woman in the role of Desdemona
+fs: 9
+entail: film
+entail: perform
+entail: present
+hyper: miscast
+hyper: recast
+hyper: typecast
+hypo: verb.social:assign
+mt: noun.cognition:performing_arts
+vg: verb.social:cast[14]
+
+w: cast[2] drf noun.act:cast[3]
+w: contrive[2]
+w: project[3]
+w: throw[2]
+d: put or send forth
+e: She threw the flashlight beam into the corner
+e: The setting sun threw long shadows
+e: cast a spell
+e: cast a warm light
+fs: 8 11
+hyper: verb.motion:shoot[3]
+hypo: verb.motion:direct[1]
+
+w: cast drf noun.act:casting[1] drf noun.artifact:cast drf noun.artifact:casting[1] drf noun.person:caster
+w: mold drf adj.all:moldable drf noun.act:molding[1] drf noun.artifact:mold drf noun.artifact:mold[2] drf noun.artifact:molding[2] drf noun.shape:mold
+w: mould drf noun.artifact:mould[2] drf noun.artifact:moulding[2]
+d: form by pouring (e.g., wax or hot metal) into a cast or mold
+e: cast a bronze sculpture
+fs: 8
+hyper: press
+hyper: remold
+hyper: sand_cast
+hypo: form
+
+w: cast_off ant cast_on
+d: make the last row of stitches when knitting
+fs: 8
+hypo: verb.contact:sew
+mt: noun.act:handicraft
+
+w: cast_on ant cast_off
+d: make the first row of stitches when knitting
+fs: 8
+hypo: verb.contact:sew
+mt: noun.act:handicraft
+
+w: catalog drf noun.communication:catalog drf noun.communication:catalog[1]
+w: catalogue drf noun.communication:catalogue drf noun.communication:catalogue[1] drf noun.person:cataloger drf noun.person:cataloguer
+d: make a catalogue, compile a catalogue
+e: She spends her weekends cataloguing
+fs: 2
+hypo: compile
+
+w: catch[12]
+w: get[14]
+d: apprehend and reproduce accurately
+e: She got the mood just right in her photographs
+e: She really caught the spirit of the place in her drawings
+fs: 8 11
+hypo: reproduce[3]
+vg: verb.cognition:catch[3]
+
+w: cause drf adj.all:causative drf noun.Tops:cause drf noun.act:causation drf noun.communication:cause drf noun.event:cause
+w: do[2]
+w: make[8]
+d: give rise to; cause to happen or occur, not always intentionally
+e: cause a commotion
+e: cause an accident
+e: make a stir
+fs: 8 11
+hyper: verb.cognition:influence
+hyper: breed
+hyper: effect
+hyper: evoke
+hyper: facilitate[3]
+hyper: force
+hyper: incite
+hyper: initiate
+hyper: make[15]
+hyper: occasion
+hypo: create
+
+w: chalk drf noun.artifact:chalk
+d: write, draw, or trace with chalk
+fs: 8
+entail: verb.contact:delineate
+hypo: draw
+
+w: chalk_out
+w: sketch drf noun.artifact:sketch drf noun.artifact:sketcher drf noun.person:sketcher
+d: make a sketch of
+e: sketch the building
+fs: 8
+hypo: draw
+mt: noun.act:art
+
+w: channelise
+w: channelize
+d: make a channel for; provide with a channel
+e: channelize the country for better transportation
+fs: 8
+hypo: build
+
+w: charcoal drf noun.artifact:charcoal drf noun.artifact:charcoal[1]
+d: draw, trace, or represent with charcoal
+fs: 8 9
+entail: verb.contact:delineate
+hypo: draw
+mt: noun.act:art
+
+w: charge drf noun.artifact:charge[1]
+d: place a heraldic bearing on
+e: charge all weapons, shields, and banners
+fs: 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: chart[4] drf noun.person:chartist
+w: graph drf noun.communication:graph
+d: represent by means of a graph
+e: chart the data
+fs: 8
+hypo: interpret[1]
+
+w: check drf noun.artifact:check
+w: checker
+w: chequer
+d: mark into squares or draw squares on; draw crossed lines on
+fs: 8
+hypo: draw
+
+w: chirp drf noun.event:chirp
+w: tweedle[1]
+d: sing in modulation
+fs: 1 2
+hypo: sing
+mt: noun.act:music
+
+w: choir drf noun.artifact:choir drf noun.group:choir drf noun.group:choir[1]
+w: chorus drf noun.communication:chorus drf noun.group:chorus drf noun.group:chorus[1] drf noun.group:chorus[2]
+d: sing in a choir
+fs: 2
+hypo: sing
+mt: noun.act:music
+
+w: chop
+d: form or shape by chopping
+e: chop a hole in the ground
+fs: 8
+hypo: create
+
+w: chord drf noun.communication:chord
+d: play chords on (a string instrument)
+fs: 8
+hypo: play[1]
+mt: noun.communication:music
+
+w: choreograph drf noun.person:choreographer
+d: compose a sequence of dance steps, often to music
+e: Balanchine choreographed many pieces to Stravinsky's music
+fs: 2 8
+hypo: create
+mt: noun.communication:dance
+
+w: churn_out
+d: produce something at a fast rate
+e: He churns out papers, but they are all about the same topic
+fs: 8
+hypo: produce
+
+w: churn_out[1]
+d: perform in a mechanical way
+fs: 8
+hypo: perform
+mt: noun.act:music
+
+w: cinematise
+w: cinematize
+d: make a film of or adopt so as to make into a film
+e: cinematize history
+fs: 8
+hypo: film
+
+w: cite drf noun.communication:citation[1] drf noun.communication:citation[3] drf noun.communication:citation[4]
+w: reference drf noun.communication:reference[3] drf noun.communication:reference[7]
+d: refer to
+e: he referenced his colleagues' work
+fs: 8 9
+hypo: indite
+mt: noun.act:authorship
+
+w: clap_together
+w: clap_up
+w: slap_together
+d: make hastily and carelessly
+fs: 8
+hypo: produce
+
+w: clarion drf noun.artifact:clarion
+d: blow the clarion
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+mt: noun.cognition:music[1]
+
+w: clog drf noun.act:clog
+d: dance a clog dance
+fs: 2
+hypo: dance
+mt: noun.act:dance
+
+w: clone drf noun.group:clone
+d: make multiple identical copies of
+e: people can clone a sheep nowadays
+fs: 8 9
+hypo: copy[1]
+
+w: co-author
+d: be a co-author on (a book, a paper)
+fs: 8
+hypo: author
+mt: noun.act:authorship
+
+w: co-star drf noun.person:co-star
+d: be the co-star in a performance
+fs: 2 22
+hypo: star
+mt: noun.communication:dramatic_art
+
+w: cobble_together
+w: cobble_up
+d: put together hastily
+fs: 8
+hypo: compile
+
+w: coil
+w: hand-build
+w: handbuild
+d: make without a potter's wheel
+e: This famous potter hand-builds all of her vessels
+fs: 8
+hypo: form
+
+w: coin[1] drf noun.act:coinage[2] drf noun.communication:coinage drf noun.person:coiner[1]
+d: make up
+e: coin phrases or words
+fs: 8
+hyper: sloganeer
+hypo: create_verbally
+
+w: coin drf noun.person:coiner drf noun.person:coiner[2] drf noun.possession:coin[2]
+w: mint drf noun.act:mintage drf noun.artifact:mint drf noun.person:minter
+w: strike[2]
+d: form by stamping, punching, or printing
+e: strike a medal
+e: strike coins
+fs: 8
+hypo: create_from_raw_material
+
+w: cold_work
+w: coldwork
+d: shape (metal) without heat
+fs: 8
+hypo: process
+
+w: color[1] drf noun.act:coloration drf noun.attribute:color drf noun.person:colorist
+w: colour[1] drf noun.substance:colour
+w: emblazon[1]
+d: decorate with colors
+e: color the walls with paint in warm tones
+fs: 8 11
+hyper: miniate
+hypo: adorn
+
+w: come_up[3]
+d: bring forth, usually something desirable
+e: The committee came up with some interesting recommendations
+fs: 8
+hypo: generate
+
+w: comfit
+w: confect drf noun.act:confection
+w: confection drf noun.act:confection
+d: make into a confection
+e: This medicine is home-confected
+fs: 8
+hypo: assemble
+
+w: commence drf noun.act:commencement
+w: embark_on
+w: start[1] drf noun.act:start drf noun.event:start drf noun.time:start
+w: start_up drf noun.act:startup
+d: get off the ground
+e: I start my day with a good breakfast
+e: The afternoon session begins at 4 PM
+e: The blood shed started when the partisans launched a surprise attack
+e: We began the new semester
+e: We embarked on an exciting enterprise
+e: Who started this company?
+fs: 8 11
+hyper: verb.social:inaugurate
+hyper: verb.social:open[1]
+hypo: verb.change:lead_off
+
+w: commend drf noun.communication:commendation[1]
+d: present as worthy of regard, kindness, or confidence
+e: His paintings commend him to the artistic world
+fs: 8 9 10 11
+hypo: portray[2]
+
+w: compile[1] drf noun.act:compilation drf noun.communication:compiler
+d: use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed
+fs: 8
+hypo: make[11]
+
+w: compile drf noun.act:compilation drf noun.act:compiling drf noun.communication:compilation drf noun.person:compiler
+w: compose[9] drf noun.person:compositor
+d: put together out of existing material
+e: compile a list
+fs: 8 21
+hyper: anthologise
+hyper: catalog
+hyper: cobble_together
+hypo: make[11]
+
+w: compose[1] drf noun.act:composition[1]
+w: indite
+w: pen drf noun.act:penning drf noun.artifact:pen
+w: write drf noun.act:writing[2] drf noun.person:writer see write_out
+d: produce a literary work
+e: He wrote four novels
+e: She composed a poem
+fs: 8
+entail: spell
+hyper: adopt
+hyper: annotate
+hyper: author
+hyper: cite
+hyper: dash_off
+hyper: draft
+hyper: draw[7]
+hyper: lyric
+hyper: paragraph
+hyper: paragraph[1]
+hyper: poetise
+hyper: profile[1]
+hyper: rewrite
+hyper: script
+hyper: write_about
+hyper: write_copy
+hyper: write_off
+hyper: write_out
+hypo: create_verbally
+mt: noun.act:authorship
+vg: publish
+
+w: compose[3] drf noun.act:composing drf noun.act:composition[2] drf noun.communication:composition[1] drf noun.person:composer
+w: write[4]
+d: write music
+e: Beethoven composed nine symphonies
+fs: 2 8
+hyper: arrange
+hyper: counterpoint
+hyper: harmonise[1]
+hyper: instrument
+hyper: melodise
+hyper: score
+hyper: set_to_music
+hypo: create
+mt: noun.communication:music
+
+w: compound drf noun.act:compounding drf noun.cognition:compound drf noun.substance:compound
+d: create by mixing or combining
+fs: 8
+hypo: assemble
+
+w: computerise drf noun.artifact:computer drf noun.person:computer
+w: computerize drf noun.act:computerization drf noun.artifact:computer
+w: cybernate drf noun.act:cybernation
+d: control a function, process, or creation by a computer
+e: They computerized the car industry
+e: cybernate a factory
+e: we live in a cybernated age
+fs: 8
+hypo: verb.social:put_to_work
+mt: noun.cognition:computer_science
+
+w: conceive drf noun.cognition:concept drf noun.cognition:conception[3] drf noun.person:conceiver
+w: conceptualise drf noun.act:conceptualisation drf noun.cognition:concept drf noun.cognition:conceptualisation
+w: conceptualize drf adj.all:conceptual drf noun.act:conceptualization drf noun.cognition:concept drf noun.cognition:conceptualization
+w: gestate[3] drf noun.cognition:gestation
+d: have the idea for
+e: He conceived of a robot that would help paralyzed patients
+e: This library was well conceived
+fs: 8 22
+hyper: design[9]
+hyper: discover
+hyper: preconceive
+hypo: create_by_mental_act
+
+w: conceive_of[1]
+w: envisage
+w: ideate[1] drf noun.cognition:idea drf noun.cognition:ideation
+w: imagine drf adj.all:imaginative drf noun.cognition:imagination[1] drf noun.cognition:imagination[2]
+d: form a mental image of something that is not present or that is not the case
+e: Can you conceive of him as the president?
+fs: 8 26
+hyper: daydream
+hyper: envision
+hyper: fantasise
+hyper: fantasise[1]
+hyper: foresee
+hyper: prefigure[1]
+hyper: think
+hyper: visualise[2]
+hypo: create_by_mental_act
+
+w: concert
+d: contrive (a plan) by mutual agreement
+fs: 8
+hypo: plan
+
+w: concertise drf noun.communication:concert
+w: concertize drf noun.communication:concert
+d: give concerts; perform in concerts
+e: My niece is off concertizing in Europe
+fs: 2
+hypo: perform[1]
+mt: noun.act:music
+
+w: concoct[1] drf noun.act:concoction drf noun.food:concoction
+w: cook_up[1]
+d: prepare or cook by mixing ingredients
+e: concoct a strange mixture
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: concoct drf noun.cognition:concoction
+w: dream_up
+w: hatch
+w: think_of
+w: think_up
+d: devise or invent
+e: He thought up a plan to get rich quickly
+e: no-one had ever thought of such a clever piece of software
+fs: 8
+hyper: verb.cognition:idealise[1]
+hyper: cook_up
+hypo: create_by_mental_act
+
+w: concoct[2] drf noun.cognition:concoction
+w: trump_up
+d: invent
+e: trump up charges
+fs: 8
+hypo: cook_up
+
+w: concord drf noun.communication:concord
+d: arrange by concord or agreement
+e: Concord the conditions for the marriage of the Prince of Wales with a commoner
+fs: 8
+hypo: verb.communication:fix_up
+
+w: conduct[4] drf noun.act:conducting[1] drf noun.person:conductor
+d: lead musicians in the performance of
+e: Bernstein conducted Mahler like no other conductor
+e: she cannot conduct modern pieces
+fs: 8
+hypo: perform[1]
+mt: noun.act:music
+vg: conduct
+
+w: conduct drf noun.act:conducting[1]
+w: direct[2] drf noun.person:director[1]
+w: lead drf noun.act:lead[1]
+d: lead, as in the performance of a composition
+e: conduct an orchestra; Barenboim conducted the Chicago symphony for years
+fs: 8
+hypo: perform
+mt: noun.act:music
+vg: conduct[4]
+
+w: confabulate[3] drf noun.cognition:confabulation
+d: unconsciously replace fact with fantasy in one's memory
+fs: 2 8
+hypo: cook_up
+mt: noun.cognition:psychiatry
+
+w: confect[1]
+d: make or construct
+fs: 8
+hypo: produce
+
+w: configure drf noun.cognition:configuration
+d: set up for a particular purpose
+e: configure a plane for a combat mission
+e: configure my new computer
+fs: 8
+hypo: assemble
+
+w: confuse drf noun.act:confusion[1]
+w: jumble drf noun.cognition:jumble drf noun.state:jumble
+w: mix_up
+d: assemble without order or sense
+e: She jumbles the words when she is supposed to write a sentence
+fs: 8
+hyper: verb.cognition:addle
+hypo: assemble
+vg: verb.cognition:confound[1]
+
+w: constitute drf noun.act:constitution
+w: establish drf noun.act:establishment
+w: found drf noun.act:foundation drf noun.act:founding drf noun.person:founder
+w: institute[1] drf noun.act:institution
+w: plant
+d: set up or lay the groundwork for
+e: establish a new department
+fs: 8
+hyper: fix[1]
+hyper: verb.social:constitute
+hypo: initiate
+
+w: construct[1]
+w: fabricate[1] drf noun.act:fabrication drf noun.act:fabrication[1] drf noun.act:fabrication[3]
+w: manufacture drf noun.act:manufacture drf noun.act:manufacture[1] drf noun.group:manufacturer drf noun.person:manufacturer
+d: put together out of artificial or natural components or parts
+e: "They manufacture small toys"; He manufactured a popular cereal"
+e: the company fabricates plastic chairs
+fs: 8 11
+hyper: mass-produce
+hyper: raft
+hypo: make[11]
+
+w: construct[3]
+d: create by linking linguistic units
+e: construct a paragraph
+e: construct a sentence
+fs: 8
+hypo: create_by_mental_act
+
+w: construct[2]
+d: create by organizing and linking ideas, arguments, or concepts
+e: construct a proof
+e: construct an argument
+fs: 8
+hypo: create_by_mental_act
+
+w: consummate drf noun.act:consummation
+d: make perfect; bring to perfection
+fs: 8
+hypo: accomplish
+
+w: consummate[1] drf noun.act:consummation drf noun.act:consummation[1]
+d: fulfill sexually
+e: consummate a marriage
+fs: 8
+entail: verb.contact:be_intimate
+hypo: accomplish
+
+w: contour drf noun.attribute:contour drf noun.communication:contour
+d: form the contours of
+fs: 8 11
+hyper: streamline
+hypo: delineate
+
+w: contrive drf noun.act:contrivance[1]
+w: devise drf noun.act:devisal drf noun.act:devising drf noun.person:deviser
+w: excogitate drf noun.cognition:excogitation drf noun.cognition:excogitation[1] drf noun.person:excogitator
+w: forge[8]
+w: formulate drf noun.act:formulation drf noun.communication:formula[1]
+w: invent drf adj.all:inventive drf noun.act:invention drf noun.cognition:invention drf noun.person:inventor
+d: come up with (an idea, plan, explanation, theory, or principle) after a mental effort
+e: excogitate a way to measure the speed of light
+fs: 8
+hypo: create_by_mental_act
+
+w: contrive[1] drf noun.person:contriver
+w: design[2] drf noun.cognition:design drf noun.cognition:design[1] drf noun.cognition:design[3]
+w: plan drf noun.cognition:plan drf noun.cognition:plan[1] drf noun.cognition:planning drf noun.person:planner
+w: project[1] drf noun.act:project drf noun.cognition:project
+d: make or work out a plan for; devise
+e: They contrived to murder their boss
+e: design a new sales strategy
+e: plan an attack
+fs: 8 28
+hyper: concert
+hyper: map[3]
+hyper: plot[3]
+hypo: create_by_mental_act
+
+w: conventionalize drf noun.act:conventionalization
+w: stylise drf noun.act:stylisation
+w: stylize drf noun.act:stylization drf noun.attribute:style drf noun.cognition:style drf noun.cognition:style[1] drf noun.communication:style
+d: represent according to a conventional style
+e: a stylized female head
+fs: 8
+hypo: interpret[1]
+mt: noun.act:art
+
+w: cook[1] drf noun.act:cookery drf noun.act:cooking drf noun.person:cook
+d: prepare a hot meal
+e: My husband doesn't cook
+fs: 2
+entail: verb.change:cook
+hypo: create_from_raw_material
+mt: noun.act:cookery
+
+w: cook drf noun.act:cookery drf noun.act:cooking drf noun.artifact:cooker drf noun.person:cook
+w: fix
+w: make[7]
+w: prepare[1] drf noun.act:preparation[3]
+w: ready
+d: prepare for eating by applying heat
+e: Cook me dinner, please
+e: can you make me an omelette?
+e: fix breakfast for the guests, please
+fs: 8
+hyper: verb.change:dress
+hyper: verb.change:preserve
+hyper: concoct[1]
+hyper: deglaze
+hyper: devil
+hyper: escallop
+hyper: flambe
+hyper: lard
+hyper: precook
+hyper: put_on[2]
+hyper: whip_up
+hypo: create_from_raw_material
+vg: make[10]
+
+w: cook_up
+w: fabricate drf noun.act:fabrication[2] drf noun.communication:fabrication drf noun.person:fabricator
+w: invent[1] drf noun.act:invention
+w: make_up[1]
+w: manufacture[1]
+d: make up something artificial or untrue
+fs: 8
+hyper: confabulate[3]
+hyper: mythologise
+hyper: spin[1]
+hyper: trump_up
+hyper: vamp
+hypo: concoct
+
+w: cooper drf noun.person:cooper[3]
+d: make barrels and casks
+fs: 8
+hypo: make[11]
+
+w: copy[5] drf noun.act:copying drf noun.communication:copy drf noun.person:copyist
+d: copy down as is
+e: The students were made to copy the alphabet over and over
+fs: 8
+hyper: copy_out
+hyper: recopy
+hypo: write[1]
+
+w: copy drf noun.act:copying drf noun.artifact:copy
+w: imitate drf adj.all:imitative[2] drf noun.act:imitation drf noun.person:imitator
+w: simulate[4]
+d: reproduce someone's behavior or looks
+e: Children often copy their parents or older siblings
+e: The mime imitated the passers-by
+fs: 8
+hyper: verb.change:conform_to
+hyper: verb.communication:mock[1]
+hyper: follow
+hyper: mimic
+hyper: pattern
+hyper: take_off
+hyper: verb.stative:emulate
+hypo: reproduce
+
+w: copy[3]
+w: replicate[1] drf noun.process:replication
+d: reproduce or make an exact copy of
+e: copy the genetic information
+e: replicate the cell
+fs: 1 8 11
+hypo: double
+mt: noun.cognition:biological_science
+
+w: copy[1] drf noun.act:copying drf noun.artifact:copier drf noun.artifact:copy drf noun.person:copyist
+w: re-create[1] drf noun.act:re-creation
+d: make a replica of
+e: copy that drawing
+e: re-create a picture by Rembrandt
+fs: 8
+hyper: verb.change:manifold
+hyper: back_up
+hyper: clone
+hyper: hectograph
+hyper: imitate[3]
+hyper: mimeo
+hyper: roneo
+hyper: trace
+hypo: create
+
+w: copy_out
+d: copy very carefully and as accurately as possible
+fs: 8
+hypo: copy[5]
+
+w: corduroy drf noun.artifact:corduroy[1]
+d: build (a road) from logs laid side by side
+fs: 8
+hypo: build
+
+w: counterfeit drf noun.artifact:counterfeit drf noun.person:counterfeiter
+w: fake drf noun.act:fakery drf noun.artifact:fake drf noun.person:fake
+w: forge[1] drf noun.act:forgery[1] drf noun.artifact:forgery drf noun.person:forger[1]
+d: make a copy of with the intent to deceive
+e: She forged a Green Card
+e: he faked the signature
+e: they counterfeited dollar bills
+fs: 8
+hypo: re-create
+
+w: counterpoint drf noun.communication:counterpoint
+d: write in counterpoint
+e: Bach perfected the art of counterpointing
+fs: 8
+hypo: compose[3]
+mt: noun.communication:music
+
+w: craft drf noun.act:craft drf noun.cognition:craft[1] drf noun.group:craft drf noun.person:crafter
+d: make by hand and with much skill
+e: The artisan crafted a complicated tool
+fs: 8
+hyper: filigree
+hyper: handcraft
+hypo: fashion
+
+w: crank_out
+w: grind_out
+d: produce in a routine or monotonous manner
+e: We have to crank out publications in order to receive funding
+fs: 8 11
+hypo: bring_forth
+
+w: crayon drf noun.artifact:crayon
+d: write, draw, or trace with a crayon
+fs: 8 9
+hypo: draw
+
+w: create[2] drf adj.all:creative drf noun.act:Creation[2] drf noun.act:creation drf noun.act:creation[1] drf noun.artifact:creation drf noun.event:creation
+d: bring into existence
+e: He created a new movement in painting
+e: The company was created 25 years ago
+fs: 8 11
+hyper: carve_out
+hyper: develop[1]
+hyper: reinvent[1]
+
+w: create[1] drf adj.all:creative drf adj.all:creative[1] drf noun.act:creation drf noun.person:creator
+d: pursue a creative activity; be engaged in a creative activity
+e: Don't disturb him--he is creating
+fs: 2
+hyper: build[10]
+hyper: draw[2]
+hyper: paint[1]
+hypo: verb.social:act
+
+w: create drf noun.Tops:creature drf noun.person:creature[1]
+w: make drf noun.act:making see make_over see make_up[1]
+d: make or cause to be or to become
+e: create a furor
+e: make a mess in one's office
+fs: 8 11
+hyper: verb.body:beget
+hyper: verb.body:procreate
+hyper: verb.change:clear[9]
+hyper: verb.change:derive
+hyper: verb.change:extract
+hyper: verb.change:regenerate
+hyper: verb.change:spume
+hyper: verb.cognition:lay_down
+hyper: verb.contact:cleave[1]
+hyper: verb.contact:puncture[2]
+hyper: verb.contact:twine[1]
+hyper: actualise
+hyper: arouse
+hyper: assemble
+hyper: bear
+hyper: beat[2]
+hyper: blast
+hyper: bring
+hyper: bring_about[3]
+hyper: bring_forth
+hyper: build
+hyper: build[9]
+hyper: cause
+hyper: chop
+hyper: choreograph
+hyper: compose[3]
+hyper: copy[1]
+hyper: create[13]
+hyper: create_by_mental_act
+hyper: create_from_raw_material
+hyper: create_verbally
+hyper: cut[1]
+hyper: cut[11]
+hyper: direct
+hyper: establish[1]
+hyper: film
+hyper: film-make
+hyper: generate
+hyper: give[3]
+hyper: grind[5]
+hyper: institute
+hyper: manufacture[2]
+hyper: offset[1]
+hyper: originate
+hyper: prepare[2]
+hyper: press[1]
+hyper: raise[6]
+hyper: re-create
+hyper: recreate[5]
+hyper: scrape
+hyper: short
+hyper: strike
+hyper: style
+hyper: track
+hyper: turn_in
+hyper: verb.emotion:arouse
+hyper: verb.social:form
+hyper: verb.social:incorporate
+
+w: create[3] drf noun.act:creation drf noun.artifact:creation
+w: make[1] drf noun.act:making drf noun.cognition:make drf noun.group:maker drf noun.person:maker
+w: produce drf noun.artifact:product drf noun.artifact:product[1] drf noun.person:producer[1]
+d: create or manufacture a man-made product
+e: The company has been making toys for two centuries
+e: We produce more cars than we can sell
+fs: 8 11
+hyper: verb.contact:breed[1]
+hyper: bootleg
+hyper: burn[5]
+hyper: churn_out
+hyper: clap_together
+hyper: confect[1]
+hyper: custom-make
+hyper: dummy
+hyper: elaborate
+hyper: extrude
+hyper: fudge_together
+hyper: generate[1]
+hyper: give
+hyper: laminate
+hyper: machine
+hyper: make_over
+hyper: output
+hyper: overproduce[1]
+hyper: preassemble
+hyper: prefabricate[1]
+hyper: print[2]
+hyper: proof
+hyper: pulsate
+hyper: put_out
+hyper: reproduce
+hyper: smelt
+hyper: turn_out[1]
+hyper: underproduce
+vg: create[13]
+
+w: create[13] drf adj.all:creative drf adj.all:creative[1] drf noun.event:creation
+w: make[9] drf noun.act:making
+d: create by artistic means
+e: Auden made verses
+e: Picasso created Cubism
+e: Schoenberg created twelve-tone music
+e: create a poem
+fs: 8
+hyper: design[1]
+hyper: design[7]
+hyper: do
+hypo: create
+vg: produce
+
+w: create_by_mental_act
+w: create_mentally
+d: create mentally and abstractly rather than with one's hands
+fs: 8
+hyper: verb.cognition:draw
+hyper: verb.cognition:re-create
+hyper: conceive
+hyper: concoct
+hyper: construct[2]
+hyper: construct[3]
+hyper: contrive
+hyper: design
+hyper: develop
+hyper: envisage
+hyper: give_birth
+hyper: plan
+hyper: program
+hyper: schematize
+hyper: write[10]
+hypo: create
+
+w: create_from_raw_material
+w: create_from_raw_stuff
+d: make from scratch
+fs: 8
+hyper: verb.change:reform[2]
+hyper: bake
+hyper: brew
+hyper: coin
+hyper: cook
+hyper: cook[1]
+hyper: crochet[1]
+hyper: dip
+hyper: form
+hyper: formulate[1]
+hyper: knit
+hyper: knot
+hyper: make[10]
+hyper: make[11]
+hyper: spin
+hyper: tat
+hyper: tissue
+hypo: create
+
+w: create_verbally
+d: create with or from words
+fs: 8
+hyper: coin[1]
+hyper: indite
+hyper: publish
+hyper: rhyme
+hypo: create
+
+w: crochet[1] drf noun.act:crocheting drf noun.artifact:crochet
+d: create by looping or crocheting
+e: crochet a bedspread
+fs: 2 8
+hyper: double_crochet
+hyper: shell_stitch
+hyper: single_crochet
+hypo: create_from_raw_material
+mt: noun.act:handicraft
+vg: crochet
+
+w: crochet drf noun.artifact:crocheting
+w: hook drf noun.artifact:hook
+d: make a piece of needlework by interlocking and looping thread with a hooked needle
+e: She sat there crocheting all day
+fs: 8
+hypo: intertwine
+mt: noun.act:handicraft
+vg: crochet[1]
+
+w: crop drf noun.plant:crop
+d: yield crops
+e: This land crops well
+fs: 1
+hypo: bear
+
+w: crop[1] drf noun.plant:crop
+w: cultivate[1] drf noun.act:cultivation drf noun.artifact:cultivator
+w: work[9]
+d: prepare for crops
+e: Work the soil
+e: cultivate the land
+fs: 8
+hyper: overcrop
+hypo: verb.change:gear_up
+mt: noun.act:agriculture
+vg: verb.contact:knead
+
+w: cross[9] drf noun.attribute:cross
+d: trace a line through or across
+e: cross your `t'
+fs: 8
+hypo: write[1]
+
+w: crosshatch drf noun.attribute:crosshatch
+d: shade with multiple crossing lines
+e: the draftsman crosshatched the area
+fs: 8
+hypo: fill_in
+
+w: cultivate drf noun.act:cultivation drf noun.person:cultivator drf noun.process:cultivation
+d: foster the growth of
+fs: 8
+hyper: farm
+mt: noun.act:agriculture
+
+w: custom-make
+w: customise
+w: customize
+w: tailor-make[1]
+d: make to specifications
+e: I had this desk custom-made for me
+fs: 8
+hypo: produce
+
+w: cut[11] drf noun.act:cutting drf noun.act:cutting[5]
+d: form or shape by cutting or incising
+e: cut paper dolls
+fs: 8 11
+hypo: create
+vg: cut[1]
+
+w: cut[1]
+d: form by probing, penetrating, or digging
+e: The sweat cut little rivulets into her face
+e: cut a hole
+e: cut trenches
+fs: 8 11
+hyper: blast[2]
+hypo: create
+vg: cut[11]
+
+w: cut[4]
+d: record a performance on (a medium)
+e: cut a record
+fs: 8
+hypo: verb.communication:tape
+vg: burn[5]
+vg: cut[5]
+
+w: cut[15]
+d: perform or carry out
+e: cut a caper
+fs: 8
+hypo: perform
+
+w: cut
+w: tailor[1] drf noun.person:tailor
+d: style and tailor in a certain fashion
+e: cut a dress
+fs: 8
+hyper: verb.contact:gore[1]
+hypo: design[1]
+mt: noun.cognition:fashion
+
+w: cut[5]
+d: make a recording of
+e: She cut all of her major titles again
+e: cut the songs
+fs: 8
+hypo: verb.communication:tape
+vg: cut[4]
+
+w: cut_corners
+d: do something the cheapest or easiest way
+e: Cut corners to make a cheaper product
+fs: 13
+hypo: perform
+
+w: cyclostyle drf noun.artifact:cyclostyle
+d: print with an implement with small toothed wheels that cuts small holes in a stencil
+fs: 8
+hypo: impress
+
+w: damascene drf noun.artifact:damascene
+d: inlay metal with gold and silver
+fs: 8
+hypo: inlay
+mt: noun.act:handicraft
+
+w: dance drf noun.act:dance drf noun.act:dancing drf noun.communication:dance drf noun.event:dance drf noun.group:dance drf noun.person:dancer drf noun.person:dancer[1]
+w: trip_the_light_fantastic
+w: trip_the_light_fantastic_toe
+d: move in a pattern; usually to musical accompaniment; do or perform a dance
+e: My husband and I like to dance at home to the radio
+fs: 8 22
+hyper: belly_dance
+hyper: clog
+hyper: heel
+hyper: hoof[3]
+hyper: jive
+hyper: shimmy
+hyper: tap_dance
+hyper: verb.motion:Charleston
+hyper: verb.motion:bebop
+hyper: verb.motion:boogie
+hyper: verb.motion:break
+hyper: verb.motion:bump
+hyper: verb.motion:cakewalk
+hyper: verb.motion:cha-cha
+hyper: verb.motion:conga
+hyper: verb.motion:contra_danse
+hyper: verb.motion:disco
+hyper: verb.motion:folk_dance
+hyper: verb.motion:foxtrot
+hyper: verb.motion:grind
+hyper: verb.motion:jig
+hyper: verb.motion:jitterbug
+hyper: verb.motion:kick[1]
+hyper: verb.motion:mambo
+hyper: verb.motion:mosh
+hyper: verb.motion:one-step
+hyper: verb.motion:polka
+hyper: verb.motion:quickstep
+hyper: verb.motion:rhumba
+hyper: verb.motion:samba
+hyper: verb.motion:shag
+hyper: verb.motion:skank
+hyper: verb.motion:square_dance
+hyper: verb.motion:tango
+hyper: verb.motion:tapdance
+hyper: verb.motion:twist[2]
+hyper: verb.motion:two-step
+hyper: verb.motion:waltz
+hypo: verb.motion:move
+mt: noun.act:dance
+vg: verb.motion:dance[1]
+
+w: dash_off
+w: fling_off
+w: knock_off
+w: scratch_off
+w: toss_off
+d: write quickly
+e: He scratched off a thank-you note to the hostess
+e: She dashed off a note to her husband saying she would not be home for supper
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: daydream drf noun.cognition:daydream drf noun.cognition:daydreaming drf noun.person:daydreamer
+w: dream drf noun.cognition:dream[2] drf noun.cognition:dreaming[2] drf noun.person:dreamer drf noun.person:dreamer[1] see dream_up
+w: stargaze drf noun.person:stargazer[1]
+w: woolgather drf noun.cognition:woolgathering drf noun.person:woolgatherer
+d: have a daydream; indulge in a fantasy
+fs: 2 22 26
+hypo: envisage
+
+w: debut drf noun.act:debut
+d: appear for the first time in public
+e: The new ballet that debuts next months at Covent Garden, is already sold out
+fs: 1 4
+hypo: play[4]
+mt: noun.cognition:performing_arts
+
+w: debut[2]
+d: present for the first time to the public
+e: The band debuts a new song or two each month
+fs: 8
+hypo: innovate
+mt: noun.cognition:performing_arts
+
+w: debut[1]
+d: make one's debut
+e: This young soprano debuts next month at the Metropolitan Opera
+fs: 2
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+
+w: deglaze
+d: dissolve cooking juices or solid food in (a pan) by adding liquid and stirring
+fs: 8
+hypo: cook
+
+w: delineate drf adj.all:delineative drf noun.act:delineation drf noun.artifact:delineation
+w: limn[1]
+w: outline[1] drf noun.location:outline
+d: trace the shape of
+fs: 8
+hyper: contour
+hyper: lipstick
+hypo: draw
+
+w: demolish drf noun.act:demolishing drf noun.act:demolition drf noun.event:demolition
+w: pulverise drf noun.act:pulverisation[1]
+w: pulverize drf noun.act:pulverization[1]
+d: destroy completely
+e: demolish your enemies
+e: pulverize the rebellion before it gets out of hand
+e: the wrecking ball demolished the building
+fs: 8 11
+hypo: destroy
+
+w: demyelinate
+d: destroy the myelin sheath of
+e: the disease demyelinated the nerve fibers
+fs: 11
+hypo: destroy
+
+w: depict drf adj.all:depictive drf noun.act:depiction drf noun.artifact:picture drf noun.cognition:depicting drf noun.communication:picture
+w: picture drf noun.act:picturing drf noun.artifact:picture drf noun.artifact:picture[1] drf noun.communication:picture
+w: render[4]
+w: show
+d: show in, or as in, a picture
+e: This scene depicts country life
+e: the face of the child is rendered with much tenderness in this painting
+fs: 8
+hyper: illustrate
+hyper: map[1]
+hypo: interpret[1]
+mt: noun.act:art
+
+w: depict[1] drf adj.all:depictive drf noun.artifact:picture[1] drf noun.cognition:depicting drf noun.cognition:depiction
+w: limn drf noun.person:limner
+w: portray drf noun.act:portraiture drf noun.cognition:portrayal drf noun.cognition:portraying drf noun.person:portraitist
+d: make a portrait of
+e: Goya wanted to portray his mistress, the Duchess of Alba
+fs: 8 9
+hypo: interpret[1]
+mt: noun.act:art
+
+w: descant drf noun.communication:descant
+d: sing in descant
+fs: 2
+hypo: sing
+
+w: descant_on
+d: sing a descant on a main tune or melody
+fs: 8
+hypo: sing
+
+w: design[1] drf noun.act:designing drf noun.artifact:design drf noun.person:designer drf noun.person:designer[1]
+d: create the design for; create or execute in an artistic or highly skilled manner
+e: Chanel designed the famous suit
+fs: 8
+hyper: cut
+hyper: make_up[3]
+hypo: create[13]
+vg: design[7]
+
+w: design[9] drf noun.cognition:design[3]
+d: conceive or fashion in the mind; invent
+e: She designed a good excuse for not attending classes that day
+fs: 8
+hypo: conceive
+
+w: design drf noun.act:design drf noun.act:designing drf noun.artifact:design[1] drf noun.cognition:design drf noun.person:designer
+w: plan[1] drf noun.act:planning[2] drf noun.artifact:plan drf noun.person:planner
+d: make a design of; plan out in systematic, often graphic form
+e: design a better mousetrap
+e: plan the new wing of the museum
+fs: 8
+hyper: verb.cognition:engineer[1]
+hyper: blueprint
+hyper: redesign
+hypo: create_by_mental_act
+
+w: design[7] drf noun.artifact:design drf noun.person:designer[1] drf noun.person:designer[2]
+d: create designs
+e: Dupont designs for the house of Chanel
+fs: 2
+hypo: create[13]
+vg: design[1]
+
+w: destroy drf adj.all:destructible drf adj.all:destructive drf noun.act:destruction drf noun.artifact:destroyer drf noun.person:destroyer
+w: destruct
+d: do away with, cause the destruction or undoing of
+e: The fire destroyed the house
+fs: 8 11
+hyper: verb.change:do_away_with
+hyper: verb.change:kill[2]
+hyper: break_apart
+hyper: demolish
+hyper: demyelinate
+hyper: destruct[1]
+hyper: dilapidate
+hyper: end[13]
+hyper: eradicate
+hyper: fracture
+hyper: interdict
+hyper: level
+hyper: self-destroy
+hyper: sweep_away
+hypo: undo
+
+w: destruct[1]
+d: destroy (one's own missile or rocket)
+e: The engineers had to destruct the rocket for safety reasons
+fs: 8
+hypo: destroy
+
+w: develop[9]
+d: generate gradually
+e: We must develop more potential customers
+e: develop a market for the new mobile phone
+fs: 8 9 10 11
+hyper: verb.change:make[14]
+hypo: generate
+vg: verb.change:acquire[5]
+vg: verb.change:build_up[3]
+
+w: develop
+w: evolve
+w: germinate drf noun.cognition:germ
+d: work out
+e: We have developed a new theory of evolution
+fs: 8
+hypo: create_by_mental_act
+vg: develop[1]
+
+w: develop[1] drf noun.act:development[1]
+d: make something new, such as a product or a mental or artistic creation
+e: Her company developed a new kind of building material that withstands all kinds of weather
+e: They developed a new technique
+fs: 8 11
+hyper: build[4]
+hypo: create[2]
+vg: develop
+
+w: devil
+d: coat or stuff with a spicy paste
+e: devilled eggs
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: devise[1] drf noun.act:devising drf noun.person:deviser
+w: get_up
+w: machinate drf noun.cognition:machination
+w: organise drf noun.act:organisation[2] drf noun.group:organisation
+w: organize drf noun.act:organization drf noun.act:organization[2] drf noun.group:organization
+w: prepare drf adj.all:preparative
+d: arrange by systematic planning and united effort
+e: devise a plan to take over the director's office
+e: machinate a plot
+e: organize a strike
+fs: 8
+hyper: embattle
+hyper: lay
+hyper: put_on
+hyper: sandwich
+hyper: set_up[2]
+hyper: spatchcock[1]
+hypo: initiate
+
+w: diagram drf noun.act:diagramming drf noun.artifact:diagram
+w: plot drf noun.artifact:plotter drf noun.person:plotter[2]
+d: make a schematic or technical drawing of that shows interactions among variables or how something is constructed
+fs: 8
+hyper: graph[1]
+hypo: draw
+
+w: dilapidate drf noun.process:dilapidation drf noun.state:dilapidation
+d: bring into a condition of decay or partial ruin by neglect or misuse
+fs: 8 11
+hypo: destroy
+
+w: dip drf noun.artifact:dip
+d: place (candle wicks) into hot, liquid wax
+fs: 8
+hypo: create_from_raw_material
+
+w: direct drf noun.person:director[2]
+d: guide the actors in (plays and films)
+fs: 2 8
+hyper: stage_direct
+hypo: create
+mt: noun.cognition:performing_arts
+
+w: discover drf noun.act:discovery drf noun.cognition:discovery drf noun.communication:discovery drf noun.person:discoverer[1]
+w: find drf noun.act:find drf noun.cognition:find drf noun.object:finding
+d: make a discovery, make a new finding
+e: Physicists believe they found a new elementary particle
+e: Roentgen discovered X-rays
+fs: 8 26
+hypo: conceive
+vg: verb.cognition:discover
+vg: verb.communication:determine
+vg: verb.perception:detect
+
+w: disincarnate ant incarnate
+d: make immaterial; remove the real essence of
+fs: 11
+hypo: verb.change:immaterialise
+
+w: disk
+w: harrow drf noun.artifact:harrow
+d: draw a harrow over (land)
+fs: 2 8
+hypo: plough
+mt: noun.act:agriculture
+
+w: dismantle[2]
+w: level ant raise[2] drf noun.artifact:level drf noun.artifact:level[3]
+w: pull_down
+w: rase
+w: raze drf noun.act:razing drf noun.event:razing
+w: take_down
+w: tear_down
+d: tear down so as to make flat with the ground
+e: The building was levelled
+fs: 8 11
+hyper: verb.contact:bulldoze
+hypo: destroy
+
+w: distemper drf noun.act:distemper drf noun.artifact:distemper drf noun.state:distemper
+d: paint with distemper
+fs: 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: do[1] drf noun.person:doer
+w: execute[1] drf noun.act:execution[2] drf noun.person:executant
+w: perform drf noun.act:performance
+d: carry out or perform an action
+e: John did the painting, the weeding, and he cleaned out the gutters
+e: she did a little dance
+e: the skater executed a triple pirouette
+fs: 8
+hyper: verb.change:click_off
+hyper: verb.communication:carry
+hyper: verb.communication:declaim
+hyper: verb.communication:pipe_up
+hyper: ad-lib
+hyper: appear
+hyper: blaze_away
+hyper: churn_out[1]
+hyper: conduct
+hyper: cut[15]
+hyper: cut_corners
+hyper: interpret
+hyper: make[12]
+hyper: practice
+hyper: premier
+hyper: scamp
+hyper: serenade
+hyper: star
+hyper: stunt
+
+w: do
+w: make[5] ant unmake
+d: create or design, often in a certain way
+e: Do my room in blue
+e: I did this piece in wood to express my love for the forest
+fs: 8 21
+hypo: create[13]
+
+w: dogfight drf noun.act:dogfight
+d: arrange for an illegal dogfight
+fs: 8
+hypo: arrange[3]
+
+w: doodle drf noun.artifact:doodle
+d: make a doodle; draw aimlessly
+fs: 2
+entail: verb.contact:delineate
+hypo: draw
+
+w: double drf noun.cognition:double
+w: duplicate
+w: reduplicate
+w: repeat drf adj.all:repetitive drf noun.act:repeating drf noun.act:repetition drf noun.event:repeat drf noun.person:repeater drf noun.person:repeater[1]
+w: replicate drf noun.act:replication[1] drf noun.artifact:replica
+d: make or do or perform again
+e: He could never replicate his brilliant performance of the magic trick
+fs: 8
+hyper: copy[3]
+hyper: geminate
+hyper: recapitulate[1]
+hypo: reproduce
+
+w: double_crochet drf noun.artifact:double_crochet
+w: double_stitch drf noun.artifact:double_stitch
+d: make by double stitching
+fs: 8
+hypo: crochet[1]
+mt: noun.act:handicraft
+
+w: double_tongue
+w: triple-tongue
+d: play fast notes on a wind instrument
+fs: 2 8
+hypo: tongue
+mt: noun.act:music
+mt: noun.cognition:music[1]
+
+w: draft drf noun.act:drafting[1] drf noun.communication:draft drf noun.person:drafter
+w: outline[3] drf noun.cognition:outline
+d: draw up an outline or sketch for something
+e: draft a speech
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: draw drf noun.artifact:drawing drf noun.communication:drawing drf noun.person:drawer
+d: represent by making a drawing of, as with a pencil, chalk, etc. on a surface
+e: Draw me a horse
+e: She drew an elephant
+fs: 2 8 9
+hyper: cartoon
+hyper: chalk
+hyper: chalk_out
+hyper: charcoal
+hyper: check
+hyper: crayon
+hyper: delineate
+hyper: diagram
+hyper: doodle
+hyper: fill_in
+hyper: pencil
+hyper: project[8]
+hyper: rule
+hypo: interpret[1]
+mt: noun.act:art
+vg: verb.contact:delineate
+
+w: draw[2] drf noun.act:drawing[1] drf noun.communication:drawing drf noun.person:drawer
+d: engage in drawing
+e: He spent the day drawing in the garden
+fs: 2
+hypo: create[1]
+vg: verb.contact:delineate
+
+w: draw[7] see verb.cognition:draw_up
+d: write a legal document or paper
+e: The deed was drawn in the lawyer's office
+fs: 8
+hypo: indite
+
+w: draw[1]
+w: get
+d: earn or achieve a base by being walked by the pitcher
+e: He drew a base on balls
+fs: 8
+hypo: effect
+mt: noun.act:baseball
+
+w: draw_out
+w: educe
+w: elicit
+w: evoke[1]
+w: extract
+d: deduce (a principle) or construe (a meaning)
+e: We drew out some interesting linguistic data from the native informant
+fs: 8
+hypo: verb.cognition:construe
+
+w: dress
+w: garnish drf noun.artifact:garnish drf noun.food:garnish
+w: trim drf noun.artifact:trim
+d: decorate (food), as with parsley or other ornamental foods
+fs: 8 11
+hypo: adorn
+vg: verb.change:dress
+vg: verb.contact:dress
+
+w: dress_ship
+d: decorate a ship with flags
+fs: 2
+hypo: adorn
+
+w: drive drf noun.act:drive[2]
+d: compel somebody to do something, often against his own will or judgment
+e: She finally drove him to change jobs
+fs: 24
+hypo: make[15]
+vg: verb.contact:drive
+vg: verb.social:drive[2]
+
+w: dropforge
+d: forge with a dropforge
+e: drop-force the metal
+fs: 8
+hypo: forge
+
+w: drum drf noun.act:drumming drf noun.artifact:drum drf noun.event:drum drf noun.person:drummer
+d: play a percussion instrument
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+
+w: dry-wall
+d: construct with drywall
+e: dry-wall the basement of the house
+fs: 8
+hypo: build
+
+w: dummy
+w: dummy_up
+d: make a dummy of
+e: dummy up the books that are to be published
+fs: 8
+hypo: produce
+
+w: duplicate[1] drf noun.act:duplication drf noun.artifact:duplicate drf noun.artifact:duplicate[1] drf noun.artifact:duplication drf noun.artifact:duplicator
+d: make a duplicate or duplicates of
+e: Could you please duplicate this letter for me?
+fs: 8 11
+hypo: reproduce
+
+w: effect drf adj.all:effective[3] drf adj.all:effective[4] drf noun.cognition:effect drf noun.person:effecter
+w: effectuate drf noun.act:effectuation drf noun.phenomenon:effect drf noun.state:effect
+w: set_up[3]
+d: produce
+e: The scientists set up a shock wave
+fs: 8 11
+cause: verb.change:come_about
+hyper: accomplish
+hyper: get
+hyper: hasten
+hyper: precipitate
+hyper: verb.stative:serve[1]
+hypo: cause
+
+w: elaborate drf noun.act:elaboration
+d: produce from basic elements or sources; change into a more developed product
+e: The bee elaborates honey
+fs: 8
+hypo: produce
+
+w: elegise
+w: elegize drf noun.communication:elegy
+d: compose an elegy
+fs: 2
+hypo: poetise
+mt: noun.communication:poesy[2]
+
+w: embattle
+d: prepare for battle or conflict
+fs: 2
+hypo: get_up
+
+w: enamel drf noun.artifact:enamel drf noun.body:enamel drf noun.substance:enamel
+d: coat, inlay, or surface with enamel
+fs: 8
+entail: verb.change:fire
+hypo: adorn
+mt: noun.act:handicraft
+
+w: end[13] drf noun.communication:end drf noun.event:end drf noun.event:ending drf noun.state:end drf noun.time:end
+d: put an end to
+e: The terrible news ended our hopes that he had survived
+fs: 8 11
+hypo: destroy
+
+w: engrave drf noun.act:engraving drf noun.act:gravure drf noun.person:engraver
+w: etch[2]
+d: carve or cut into a block used for printing or print from such a block
+e: engrave a letter
+fs: 8
+hyper: benday
+hyper: stipple
+hypo: print[1]
+mt: noun.act:art
+
+w: enter drf noun.act:entering
+d: come on stage
+fs: 2
+entail: act
+mt: noun.communication:dramatic_art
+
+w: entwine
+w: knit[1] drf noun.artifact:knit
+d: tie or link together
+fs: 8 21
+hyper: intertwine
+hyper: purl_stitch
+hypo: verb.contact:conjoin
+
+w: envision drf noun.cognition:envisioning
+w: fancy drf noun.cognition:fancy[1] drf noun.cognition:fancy[2]
+w: figure drf noun.act:figuration[1]
+w: image drf noun.artifact:image drf noun.artifact:image[1] drf noun.cognition:image drf noun.cognition:imagery drf noun.cognition:imaging
+w: picture[1] drf noun.cognition:picture drf noun.cognition:picturing
+w: project
+w: see drf noun.person:seer
+w: visualise
+w: visualize drf noun.cognition:visualization drf noun.person:visualizer
+d: imagine; conceive of; see in one's mind
+e: I can see a risk in this strategy
+e: I can see what will happen
+e: I can't see him on horseback!
+fs: 8 26
+hypo: envisage
+vg: verb.cognition:realise
+vg: visualise[2]
+
+w: envision[1] drf noun.cognition:envisioning
+w: foresee
+d: picture to oneself; imagine possible
+e: I cannot envision him as President
+fs: 8 26
+hypo: envisage
+
+w: eradicate drf noun.event:eradication drf noun.person:eradicator
+w: exterminate
+w: extirpate drf noun.act:extirpation[1]
+w: root_out
+w: uproot drf noun.person:uprooter
+d: destroy completely, as if down to the roots
+e: "the vestiges of political democracy were soon uprooted" "root out corruption"
+fs: 8 9
+hypo: destroy
+
+w: erect drf noun.act:erecting drf noun.act:erection drf noun.artifact:erection
+w: put_up
+w: raise[2] ant level
+w: rear
+w: set_up[1]
+d: construct, build, or erect
+e: Raise a barn
+fs: 8
+hypo: build
+mt: noun.act:building
+
+w: escallop
+w: scallop[1]
+d: bake in a sauce, milk, etc., often with breadcrumbs on top
+fs: 8
+hypo: cook
+
+w: establish[1]
+w: give[1]
+d: bring about
+e: The trompe l'oeil-illusion establishes depth
+fs: 8 11
+hyper: introduce[1]
+hyper: pacify
+hypo: create
+vg: give
+
+w: etch drf noun.act:etching drf noun.artifact:etching drf noun.artifact:etching[1] drf noun.person:etcher
+d: make an etching of
+e: He etched her image into the surface
+fs: 8
+entail: verb.change:corrode
+hyper: aquatint
+hypo: print[1]
+mt: noun.act:art
+
+w: extort
+w: wring_from
+d: get or cause to become in a difficult or laborious manner
+fs: 8
+hyper: prise
+hypo: verb.possession:obtain
+
+w: extrude drf adj.all:extrusive drf noun.act:extrusion
+w: squeeze_out
+d: form or shape by forcing through an opening
+e: extrude steel
+fs: 8 11
+hypo: produce
+
+w: facilitate[3] drf adj.all:facilitatory drf noun.phenomenon:facilitation
+d: increase the likelihood of (a response)
+e: The stimulus facilitates a delayed impulse
+fs: 11
+hypo: cause
+mt: noun.attribute:physiology
+
+w: faggot
+w: fagot
+d: ornament or join (fabric) by faggot stitch
+e: He fagotted the blouse for his wife
+fs: 2
+hypo: broider
+
+w: fantasise[1]
+w: fantasize[1]
+d: portray in the mind
+e: he is fantasizing the ideal wife
+fs: 8
+hypo: envisage
+
+w: fantasise
+w: fantasize drf noun.cognition:fantasy drf noun.cognition:fantasy[1]
+w: fantasy drf noun.cognition:fantasy drf noun.cognition:fantasy[1]
+d: indulge in fantasies
+e: he is fantasizing when he says he plans to start his own company
+fs: 2 22 26
+hypo: envisage
+
+w: farm drf noun.act:farming drf noun.artifact:farm drf noun.person:farmer
+w: grow drf noun.group:growth drf noun.person:grower
+w: produce[5] drf noun.food:produce
+w: raise[3] drf noun.person:raiser
+d: cultivate by growing, often involving improvements by means of agricultural techniques
+e: The Bordeaux region produces great red wines
+e: They produce good ham in Parma
+e: We grow wheat here
+e: We raise hogs here
+fs: 8 11
+hyper: carry[8]
+hyper: overproduce
+hyper: verb.stative:keep[12]
+hypo: cultivate
+mt: noun.act:agriculture
+
+w: fashion drf noun.act:fashioning
+w: forge[2]
+d: make out of components (often in an improvising manner)
+e: She fashioned a tent out of a sheet and a few sticks
+fs: 8
+hyper: craft
+hyper: sew
+hyper: tie
+hypo: make[11]
+
+w: feint drf noun.act:feint
+d: deceive by a mock action
+e: The midfielder feinted to shoot
+fs: 8 9
+hypo: assume
+
+w: festoon drf noun.artifact:festoon drf noun.artifact:festoon[1] drf noun.artifact:festoonery
+d: decorate with strings of flowers
+e: The public buildings were festooned for the holiday
+fs: 8
+hypo: adorn
+
+w: fictionalise
+w: fictionalize drf noun.act:fictionalization drf noun.communication:fiction drf noun.communication:fiction[1] drf noun.communication:fictionalization
+w: retell[7]
+d: make into fiction
+e: The writer fictionalized the lives of his parents in his latest novel
+fs: 8
+hypo: re-create
+
+w: fiddle[2]
+d: play on a violin
+e: Zuckerman fiddled that song very nicely
+fs: 8
+hypo: play
+mt: noun.communication:music
+vg: fiddle
+
+w: fiddle drf noun.artifact:fiddle drf noun.person:fiddler
+d: play the violin or fiddle
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+vg: fiddle[2]
+
+w: filet drf noun.artifact:filet
+w: fillet drf noun.artifact:fillet
+d: decorate with a lace of geometric designs
+fs: 8
+hypo: adorn
+
+w: filigree drf noun.artifact:filigree
+d: make filigree, as with a precious metal
+fs: 2
+hypo: craft
+
+w: fill_in
+w: shade drf noun.artifact:shade[1] drf noun.attribute:shading
+d: represent the effect of shade or shadow on
+fs: 8
+hyper: crosshatch
+hypo: draw
+hypo: paint[1]
+mt: noun.act:art
+
+w: film fs 2 drf noun.act:filming drf noun.artifact:film[1] drf noun.communication:film drf noun.communication:film[1]
+d: record in film
+e: The coronation was filmed
+fs: 8
+hyper: cinematise
+hyper: microfilm
+hypo: verb.communication:record
+hypo: create
+
+w: film-make
+d: make films; be a film maker
+fs: 2
+hypo: create
+
+w: finger-paint drf noun.act:finger-painting drf noun.artifact:finger-painting
+d: apply colors with one's fingers
+fs: 2 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: fingerprint drf noun.act:fingerprinting drf noun.attribute:fingerprint drf noun.communication:fingerprint[1]
+d: take an impression of a person's fingerprints
+fs: 8
+hypo: reproduce
+
+w: fix[1]
+d: set or place definitely
+e: Let's fix the date for the party!
+fs: 8 11
+hypo: constitute
+
+w: flag drf noun.artifact:flag
+d: decorate with flags
+e: the building was flagged for the holiday
+fs: 8
+hypo: adorn
+
+w: flambe
+d: pour liquor over and ignite (a dish)
+fs: 8
+hypo: cook
+
+w: fledge
+w: flight
+d: decorate with feathers
+e: fledge an arrow
+fs: 8
+hypo: adorn
+
+w: foliate[1] drf noun.artifact:foliage drf noun.artifact:foliation
+d: decorate with leaves
+fs: 8
+hypo: adorn
+
+w: foliate drf noun.act:foliation drf noun.artifact:foil[1]
+d: hammer into thin flat foils
+e: foliate metal
+fs: 8
+hypo: forge
+
+w: follow
+w: take_after
+d: imitate in behavior; take as a model
+e: Teenagers follow their friends in everything
+fs: 9
+hypo: copy
+
+w: force drf noun.attribute:force[1]
+w: impel drf adj.all:impulsive[2] drf noun.phenomenon:impulsion
+d: urge or force (a person) to an action; constrain or motivate
+fs: 24
+hypo: cause
+
+w: forge drf noun.act:forging drf noun.artifact:forge drf noun.person:forger
+w: hammer drf noun.artifact:hammer
+d: create by hammering
+e: forge a pair of tongues
+e: hammer the silver into a bowl
+fs: 8
+hyper: dropforge
+hyper: foliate
+hypo: beat
+vg: verb.contact:hammer
+
+w: forge[3]
+w: form drf noun.act:formation drf noun.act:formation[1] drf noun.artifact:form[1] drf noun.artifact:formation
+w: mold[1] drf noun.shape:mold
+w: mould[1]
+w: shape drf noun.act:shaping drf noun.attribute:shape[1] drf noun.person:shaper
+w: work[12]
+d: make something, usually for a specific function
+e: Form cylinders from the dough
+e: She molded the rice balls carefully
+e: Work the metal into a sword
+e: shape a figure
+fs: 8 21
+hyper: verb.contact:carve[1]
+hyper: verb.contact:chip[2]
+hyper: verb.contact:cut_out[2]
+hyper: verb.contact:layer
+hyper: verb.contact:swage
+hyper: beat
+hyper: cast
+hyper: coil
+hyper: grind[4]
+hyper: hill
+hyper: machine[1]
+hyper: model
+hyper: mound
+hyper: preform
+hyper: preform[1]
+hyper: puddle
+hyper: reshape
+hyper: roughcast
+hyper: sculpt
+hyper: sinter
+hyper: stamp
+hyper: throw
+hypo: create_from_raw_material
+vg: process
+
+w: formulate[1] drf noun.cognition:formula[1] drf noun.communication:formula[2] drf noun.substance:formulation
+d: prepare according to a formula
+fs: 8
+hypo: create_from_raw_material
+mt: noun.cognition:chemical_science
+
+w: fracture
+d: interrupt, break, or destroy
+e: fracture the balance of power
+fs: 8 11
+hypo: destroy
+
+w: frame
+w: frame_up
+d: construct by fitting or uniting parts together
+fs: 8
+hypo: build
+mt: noun.act:building
+
+w: free[3]
+w: liberate[3]
+w: release[3]
+d: release (gas or energy) as a result of a chemical reaction or physical decomposition
+fs: 8
+hypo: generate
+mt: noun.cognition:chemical_science
+
+w: fresco drf noun.act:fresco drf noun.artifact:fresco
+d: paint onto wet plaster on a wall
+fs: 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: fret[1] drf noun.artifact:fret[1]
+d: carve a pattern into
+fs: 8
+hyper: honeycomb
+hypo: verb.contact:carve[1]
+mt: noun.act:handicraft
+
+w: fret drf noun.artifact:fret[1]
+d: decorate with an interlaced design
+fs: 8
+hypo: adorn
+
+w: fringe drf noun.artifact:fringe
+d: adorn with a fringe
+e: The weaver fringed the scarf
+fs: 8
+hypo: adorn
+mt: noun.act:handicraft
+
+w: fruit drf noun.plant:fruit drf noun.plant:fruitage drf noun.state:fruition
+d: bear fruit
+e: the trees fruited early this year
+fs: 1
+hypo: bear
+
+w: fruit[1] drf noun.plant:fruit drf noun.plant:fruitage
+d: cause to bear fruit
+fs: 8
+cause: fruit
+
+w: fudge_together
+w: throw_together
+d: produce shoddily, without much attention to detail
+fs: 8
+hypo: produce
+
+w: garden drf noun.act:gardening drf noun.artifact:garden drf noun.artifact:garden[1] drf noun.group:garden drf noun.person:gardener drf noun.person:gardener[1]
+d: work in the garden
+e: My hobby is gardening
+fs: 2
+hyper: landscape
+hypo: verb.social:tend
+mt: noun.act:gardening
+
+w: garland drf noun.artifact:garland
+d: adorn with bands of flowers or leaves
+e: They garlanded the statue
+fs: 8
+hypo: adorn
+
+w: gazette drf noun.communication:gazette
+d: publish in a gazette
+fs: 8 26
+hypo: print[2]
+
+w: geminate
+w: reduplicate[1]
+d: form by reduplication
+e: The consonant reduplicates after a short vowel
+e: The morpheme can be reduplicated to emphasize the meaning of the word
+fs: 8
+hypo: double
+mt: noun.cognition:linguistics
+
+w: generate[2] drf noun.act:generation[1]
+w: give
+w: render
+w: return drf noun.possession:return
+w: yield drf noun.act:yield drf noun.artifact:yield drf noun.possession:yield drf noun.quantity:yield
+d: give or supply
+e: The cow brings in 5 liters of milk
+e: The estate renders some revenue for the family
+e: This year's crop yielded 1,000 bushels of corn
+fs: 8 11
+hypo: produce
+vg: establish[1]
+vg: give[3]
+
+w: generate[1] drf adj.all:generative[1] drf noun.act:generation[1] drf noun.artifact:generator
+d: produce (energy)
+e: The hydroelectric plant needs to generate more electricity
+e: We can't generate enough power for the entire city
+fs: 8
+hypo: produce
+
+w: get_over
+d: to bring (a necessary but unpleasant task) to an end
+e: It's a question of getting over an unpleasant task
+e: Let's get this job over with
+fs: 8
+hypo: accomplish
+
+w: ghost drf noun.person:ghost[1]
+w: ghostwrite drf noun.person:ghostwriter
+d: write for someone else
+e: How many books have you ghostwritten so far?
+fs: 8
+hypo: author
+mt: noun.act:authorship
+
+w: gild_the_lily
+w: paint_the_lily
+d: adorn unnecessarily (something that is already beautiful)
+fs: 2
+hypo: adorn
+
+w: give[3]
+w: yield[1]
+d: cause to happen or be responsible for
+e: His two singles gave the team the victory
+fs: 11 14 15
+hypo: create
+vg: give
+
+w: give[12]
+d: perform for an audience
+e: Pollini is giving another concert in New York
+fs: 8
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+vg: give[13]
+
+w: give[13]
+d: present to view
+e: He gave the sign to start
+fs: 8
+hypo: verb.perception:show
+vg: give[12]
+
+w: give[2]
+w: have
+w: hold
+w: make[4]
+w: throw[8]
+d: organize or be responsible for
+e: give a course
+e: have, throw, or make a party
+e: hold a reception
+fs: 8
+hypo: verb.social:direct
+
+w: give_birth
+d: create or produce an idea
+e: Marx and Engels gave birth to communism
+fs: 8 11
+hypo: create_by_mental_act
+
+w: gloss drf noun.attribute:gloss see verb.perception:gloss_over see verb.social:gloss_over
+d: give a shine or gloss to, usually by rubbing
+fs: 8
+entail: verb.contact:rub
+hypo: verb.contact:polish
+
+w: grandstand drf noun.person:grandstander
+d: perform ostentatiously in order to impress the audience and with an eye to the applause
+e: She never misses a chance to grandstand
+fs: 2
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+
+w: graph[1] drf noun.communication:graph
+d: plot upon a graph
+fs: 8
+hypo: diagram
+
+w: grind[4]
+d: shape or form by grinding
+e: grind lenses for glasses and cameras
+fs: 8
+hypo: form
+
+w: grind[5]
+d: created by grinding
+e: grind designs into the glass bowl
+fs: 8
+hypo: create
+
+w: groin
+d: build with groins
+e: The ceiling was groined
+fs: 8
+hypo: build
+mt: noun.act:building
+
+w: ham drf noun.act:hamming drf noun.person:ham
+w: ham_it_up
+w: overact ant underact drf noun.act:overacting
+w: overplay
+d: exaggerate one's acting
+fs: 2 8
+hypo: playact
+mt: noun.communication:dramatic_art
+
+w: handcraft drf noun.artifact:handcraft
+d: make something by hand
+e: We handcraft all our paper
+fs: 8
+hypo: craft
+
+w: hang drf noun.artifact:hanging
+d: decorate or furnish with something suspended
+e: Hang wallpaper
+fs: 8
+hypo: adorn
+
+w: harmonise[1] drf noun.communication:harmonisation
+w: harmonize[1] drf noun.communication:harmonization
+d: write a harmony for
+fs: 8
+hyper: realise[7]
+hyper: reharmonise
+hypo: compose[3]
+mt: noun.cognition:euphony
+
+w: harmonise drf noun.act:harmonisation drf noun.person:harmoniser[1]
+w: harmonize drf noun.act:harmonization drf noun.person:harmonizer[1]
+d: sing or play in harmony
+fs: 2 22
+hypo: sing
+mt: noun.act:music
+mt: noun.cognition:music[1]
+mt: noun.communication:music
+
+w: harp drf noun.artifact:harp drf noun.artifact:harp[2] drf noun.person:harper
+d: play the harp
+e: She harped the Saint-Saens beautifully
+fs: 2
+entail: verb.contact:pick_off
+hypo: play[1]
+mt: noun.act:music
+
+w: hasten
+w: induce[1] drf noun.act:inducing drf noun.act:induction
+w: rush
+w: stimulate
+d: cause to occur rapidly
+e: the infection precipitated a high fever and allergic reactions
+fs: 8 11
+hypo: effect
+
+w: hatch[3] drf noun.attribute:hatch
+d: inlay with narrow strips or lines of a different substance such as gold or silver, for the purpose of decorating
+fs: 8
+hypo: inlay
+mt: noun.act:handicraft
+
+w: hectograph drf noun.artifact:hectograph
+d: copy on a duplicator
+e: hectograph the hand-outs
+fs: 8
+hypo: copy[1]
+
+w: heel drf noun.artifact:heel drf noun.body:heel
+d: perform with the heels
+e: heel that dance
+fs: 8
+hypo: dance
+mt: noun.act:dance
+mt: noun.communication:dance
+
+w: hill drf noun.artifact:hill drf noun.artifact:hill[1] drf noun.object:hill
+d: form into a hill
+fs: 8
+hypo: form
+
+w: hoe drf noun.artifact:hoe
+d: dig with a hoe
+e: He is hoeing the flower beds
+fs: 2 8
+entail: verb.contact:delve
+hypo: till
+mt: noun.act:agriculture
+
+w: honeycomb drf noun.artifact:honeycomb
+d: carve a honeycomb pattern into
+e: The cliffs were honeycombed
+fs: 8 11
+hypo: fret[1]
+
+w: hoof[3] drf noun.person:hoofer
+d: dance in a professional capacity
+fs: 2
+hypo: dance
+mt: noun.communication:dance
+mu: noun.communication:argot
+
+w: hot-work
+d: roll, press, forge, or shape (metal) while hot
+fs: 8
+hypo: process
+
+w: hymn drf noun.communication:hymn
+d: sing a hymn
+fs: 2
+hypo: sing[1]
+mt: noun.act:music
+
+w: hyphen drf noun.communication:hyphen
+w: hyphenate drf noun.act:hyphenation drf noun.act:hyphenation[2] drf noun.communication:hyphen
+d: divide or connect with a hyphen
+e: hyphenate these words and names
+fs: 8
+hypo: spell
+
+w: illuminate drf noun.artifact:illumination
+d: add embellishments and paintings to (medieval manuscripts)
+fs: 8
+entail: paint
+hyper: rubricate
+hypo: adorn
+mt: noun.act:art
+
+w: illustrate[1] drf noun.artifact:illustration drf noun.communication:illustration drf noun.person:illustrator
+d: supply with illustrations
+e: illustrate a book with drawings
+fs: 8
+hypo: adorn
+
+w: illustrate drf adj.all:illustrative drf noun.artifact:illustration drf noun.communication:illustration
+d: depict with an illustration
+fs: 8
+hypo: depict
+mt: noun.act:art
+
+w: imitate[3] drf adj.all:imitative
+d: make a reproduction or copy of
+fs: 8
+hypo: copy[1]
+
+w: impersonate drf noun.act:impersonation drf noun.act:impersonation[1] drf noun.cognition:persona
+w: portray[1] drf noun.act:portrayal[2]
+d: assume or act the character of
+e: She impersonates Madonna
+e: The actor portrays an elderly, lonely man
+fs: 9
+hypo: act
+mt: noun.cognition:performing_arts
+
+w: impress
+w: print drf noun.artifact:printer drf noun.artifact:printer[1] drf noun.communication:print drf noun.communication:printing drf noun.person:printer
+d: reproduce by printing
+fs: 8
+hyper: boldface
+hyper: cyclostyle
+hyper: italicise
+hyper: letter[1]
+hyper: offset
+hyper: overprint
+hyper: prove
+hyper: typeset
+hypo: write[1]
+
+w: incarnate ant disincarnate drf noun.person:incarnation
+d: make concrete and real
+fs: 8 11
+hypo: actualise
+
+w: indent drf noun.communication:indent[1] drf noun.communication:indentation
+d: set in from the margin
+e: Indent the paragraphs of a letter
+fs: 8
+hypo: format
+
+w: induce[3] drf noun.phenomenon:induction
+w: induct drf noun.phenomenon:induction
+d: produce electric current by electrostatic or magnetic processes
+fs: 8 11
+hypo: bring_about[3]
+mt: noun.cognition:natural_philosophy
+
+w: initiate[1] drf adj.all:initiative drf adj.all:initiatory drf noun.act:initiation[1] drf noun.act:initiation[2]
+w: originate drf adj.all:originative drf noun.act:origination drf noun.event:origin drf noun.person:originator see verb.stative:originate_in
+w: start drf noun.act:start drf noun.event:start drf noun.person:starter[1] drf noun.time:start
+d: bring into being
+e: He initiated a new program
+e: Start a foundation
+fs: 8 11
+hyper: verb.change:initiate
+hyper: set[12]
+hyper: verb.stative:date_back
+hypo: create
+
+w: initiate drf noun.act:initiation[1] drf noun.person:initiator
+w: pioneer[1] drf noun.person:pioneer[1]
+d: take the lead or initiative in; participate in the development of
+e: This South African surgeon pioneered heart transplants
+fs: 8
+hyper: activate
+hyper: arrange[3]
+hyper: attempt
+hyper: constitute
+hyper: get_up
+hyper: innovate
+hyper: mount
+hyper: strike_up
+hypo: cause
+
+w: inlay drf noun.artifact:inlay
+d: decorate the surface of by inserting wood, stone, and metal
+fs: 8
+hyper: damascene
+hyper: hatch[3]
+hypo: adorn
+mt: noun.act:handicraft
+
+w: innovate drf adj.all:innovative[1] drf noun.act:innovation drf noun.artifact:innovation drf noun.person:innovator
+w: introduce
+d: bring something new to an environment
+e: A new word processor was introduced
+fs: 8
+hyper: debut[2]
+hyper: open_up
+hyper: phase_in
+hypo: initiate
+
+w: inspire drf noun.cognition:inspiration[2]
+d: supply the inspiration for
+e: The article about the artist inspired the exhibition of his recent work
+fs: 11
+hypo: occasion
+
+w: instrument drf noun.act:instrumentation[1] drf noun.artifact:instrument[1]
+w: instrumentate drf noun.artifact:instrument[1]
+d: write an instrumental score for
+fs: 8
+hypo: compose[3]
+mt: noun.cognition:euphony
+
+w: interdict
+d: destroy by firepower, such as an enemy's line of communication
+fs: 8 11
+hypo: destroy
+
+w: interlude drf noun.act:interlude
+d: perform an interlude
+e: The guitar player interluded with a beautiful improvisation
+fs: 2
+hypo: perform[1]
+mt: noun.act:music
+
+w: interpret drf adj.all:interpretative drf adj.all:interpretive drf noun.act:interpretation[2] drf noun.cognition:interpretation drf noun.person:interpreter[2]
+w: render[3] drf noun.act:rendering[1] drf noun.act:rendition[1] drf noun.communication:rendering[1]
+d: give an interpretation or rendition of
+e: The pianist rendered the Beethoven sonata beautifully
+fs: 8 9
+hyper: sing[1]
+hypo: perform
+mt: noun.cognition:performing_arts
+
+w: interpret[1] drf noun.act:interpretation[2] drf noun.person:interpreter[2]
+w: represent[1] drf noun.artifact:representation
+d: create an image or likeness of
+e: The painter represented his wife as a young girl
+fs: 8 9
+hyper: animalise
+hyper: capture
+hyper: carnalize
+hyper: conventionalize
+hyper: depict
+hyper: draw
+hyper: graph
+hyper: limn
+hyper: map
+hyper: mock_up
+hyper: paint
+hyper: portray[2]
+hyper: profile
+hyper: silhouette
+hypo: re-create
+mt: noun.act:art
+
+w: intertwine[1]
+w: tat drf noun.act:tatting
+d: make lacework by knotting or looping
+fs: 2 8
+entail: knot
+hypo: create_from_raw_material
+mt: noun.act:handicraft
+
+w: intertwine
+w: loop drf noun.shape:loop
+d: make a loop in
+e: loop a rope
+fs: 8
+hyper: crochet
+hyper: noose
+hypo: entwine
+
+w: introduce[1]
+d: bring in or establish in a new place or environment
+e: introduce a rule
+e: introduce exotic fruits
+fs: 8 11
+hyper: verb.motion:interpose
+hypo: establish[1]
+
+w: italicise drf noun.communication:italic[1] drf noun.communication:italic[2]
+w: italicize drf noun.communication:italic[1] drf noun.communication:italic[2]
+d: print in italics
+fs: 8
+hypo: impress
+
+w: japan drf noun.artifact:japan drf noun.artifact:japan[1]
+d: coat with a lacquer, as done in Japan
+fs: 8
+hypo: lacquer
+mt: noun.act:handicraft
+
+w: jazz drf noun.communication:jazz drf noun.communication:jazz[1]
+d: play something in the style of jazz
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: jive drf noun.communication:jive
+d: dance to jive music; dance the jive
+fs: 2
+hypo: dance
+mt: noun.act:dance
+
+w: knit drf noun.act:knitting drf noun.artifact:knit drf noun.artifact:knit[1] drf noun.artifact:knit[2] drf noun.artifact:knitting drf noun.person:knitter
+d: make (textiles) by knitting
+e: knit a scarf
+fs: 2 8
+entail: verb.contact:sew
+hyper: purl[2]
+hyper: rib
+hypo: create_from_raw_material
+mt: noun.act:handicraft
+
+w: knot drf noun.shape:knot
+d: make into knots; make knots out of
+e: She knotted her fingers
+fs: 8
+hyper: macrame
+hypo: create_from_raw_material
+
+w: lace drf noun.artifact:lace
+d: do lacework
+e: The Flemish women were lacing in front of the cathedral
+fs: 2
+hypo: tissue
+mt: noun.act:handicraft
+
+w: lacquer drf noun.artifact:lacquer drf noun.substance:lacquer
+d: coat with lacquer
+e: A lacquered box from China
+fs: 8
+hyper: japan
+hypo: adorn
+mt: noun.act:handicraft
+
+w: laminate drf noun.act:lamination drf noun.artifact:laminate drf noun.artifact:lamination drf noun.body:lamina drf noun.person:laminator
+d: create laminate by bonding sheets of material with a bonding material
+fs: 8
+hypo: produce
+
+w: landscape drf noun.act:landscaping drf noun.person:landscapist[1]
+d: do landscape gardening
+e: My sons landscapes for corporations and earns a good living
+fs: 2
+hypo: garden
+mt: noun.act:gardening
+vg: landscape[1]
+
+w: landscape[1] drf noun.artifact:landscaping drf noun.person:landscapist[1]
+d: embellish with plants
+e: Let's landscape the yard
+fs: 8
+hypo: adorn
+mt: noun.act:gardening
+vg: landscape
+
+w: lard drf noun.food:lard
+d: prepare or cook with lard
+e: lard meat
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: lay
+d: prepare or position for action or operation
+e: lay a fire
+e: lay the foundation for a new health care plan
+fs: 8
+hypo: get_up
+
+w: letter[1] drf noun.communication:letter[1] drf noun.person:letterer
+d: set down or print with letters
+fs: 8
+hypo: impress
+
+w: letter drf noun.communication:letter[1] drf noun.person:letterer
+d: mark letters on or mark with letters
+fs: 8
+hypo: write[1]
+
+w: lipstick drf noun.artifact:lipstick
+d: form by tracing with lipstick
+e: The clown had lipsticked circles on his cheeks
+fs: 8
+hypo: delineate
+
+w: lithograph drf noun.artifact:lithograph drf noun.artifact:lithograph[1] drf noun.person:lithographer
+d: make by lithography
+fs: 8
+hypo: print[1]
+mt: noun.act:art
+
+w: localise
+w: localize drf noun.act:localization drf noun.location:locale
+w: place drf noun.attribute:placement drf noun.location:place
+w: set[1] drf noun.act:set[1]
+d: locate
+e: The film is set in Africa
+fs: 21
+hypo: present
+
+w: lock[4] drf noun.artifact:lock[2] drf noun.artifact:lockage
+d: build locks in order to facilitate the navigation of vessels
+fs: 2
+hypo: build
+
+w: loom
+d: weave on a loom
+e: materials loomed in Egypt
+fs: 1
+hypo: tissue
+
+w: lyric drf noun.communication:lyric[1]
+d: write lyrics for (a song)
+fs: 8
+hyper: relyric
+hypo: indite
+mt: noun.communication:poesy[2]
+
+w: machine[1] drf noun.artifact:machine drf noun.person:machinist
+d: turn, shape, mold, or otherwise finish by machinery
+fs: 8
+hypo: form
+
+w: machine drf noun.artifact:machine drf noun.artifact:machinery drf noun.person:machinist
+d: make by machinery
+e: The Americans were machining while others still hand-made cars
+fs: 8
+hypo: produce
+
+w: macrame drf noun.artifact:macrame
+d: make knotted patterns
+e: macrame a plant holder
+fs: 2 8
+hypo: knot
+
+w: madrigal drf noun.communication:madrigal
+d: sing madrigals
+e: The group was madrigaling beautifully
+fs: 8
+hypo: sing[1]
+mt: noun.act:music
+
+w: make[11] drf noun.act:making
+d: make by shaping or bringing together constituents
+e: make a cake
+e: make a dress
+e: make a wall of stones
+fs: 8 11
+hyper: compile
+hyper: compile[1]
+hyper: cooper
+hyper: fashion
+hyper: manufacture
+hypo: create_from_raw_material
+
+w: make[15]
+d: compel or make somebody or something to act in a certain way
+e: Heat makes you sweat
+e: People cannot be made to integrate just by passing a law!
+fs: 24
+hyper: drive
+hypo: cause
+
+w: make[10]
+d: gather and light the materials for
+e: make a fire
+fs: 8
+hypo: create_from_raw_material
+vg: verb.change:make_up
+vg: cook
+
+w: make[12]
+d: perform or carry out
+e: make a decision
+e: make a move
+e: make a phone call
+e: make advances
+fs: 8
+hyper: verb.social:pay
+hypo: perform
+vg: verb.social:make
+
+w: make_over drf noun.act:makeover drf noun.act:makeover[1]
+w: redo
+w: refashion[1]
+w: remake drf noun.artifact:remake
+d: make new
+e: She is remaking her image
+fs: 8
+hyper: reforge
+hypo: produce
+
+w: make_over[2]
+w: retread
+w: rework
+d: use again in altered form
+e: retread an old plot
+fs: 8
+hypo: process
+
+w: make_up[3]
+d: devise or compose
+e: This designer makes up our Spring collections
+fs: 8
+hypo: design[1]
+
+w: manufacture[2]
+d: create or produce in a mechanical way
+e: This novelist has been manufacturing his books following his initial success
+fs: 8
+hypo: create
+
+w: manufacture[3]
+d: produce naturally
+e: this gland manufactures a specific substance only
+fs: 11
+hypo: bring_forth
+
+w: map[1]
+d: depict as if on a map
+e: sorrow was mapped on the mother's face
+fs: 11
+hypo: depict
+vg: map
+
+w: map drf noun.artifact:map drf noun.person:mapper
+d: make a map of; show or establish the features of details of
+e: map the surface of Venus
+fs: 8
+hyper: verb.cognition:chart[13]
+hyper: verb.cognition:plat
+hypo: interpret[1]
+vg: map[1]
+
+w: map[3]
+w: map_out[3]
+d: plan, delineate, or arrange in detail
+e: map one's future
+fs: 8
+hypo: plan
+
+w: marble drf noun.substance:marble
+d: paint or stain like marble
+e: marble paper
+fs: 8
+hypo: verb.change:stain[1]
+mt: noun.act:handicraft
+
+w: mass-produce
+d: produce on a large scale
+fs: 8
+hypo: manufacture
+
+w: melodise
+w: melodize drf noun.communication:melody
+d: supply a melody for
+fs: 8
+hypo: compose[3]
+mt: noun.communication:music
+
+w: metrify drf noun.act:metrification[1]
+d: compose in poetic meter
+e: The bard metrified his poems very precisely
+fs: 8
+hypo: poetise
+mt: noun.communication:poesy[2]
+
+w: microcopy
+d: photocopy printed or other graphic matter so that it is reduced in size
+fs: 8 11
+hypo: photocopy
+
+w: microfilm drf noun.artifact:microfilm
+d: record on microfilm
+fs: 8
+hypo: film
+
+w: mime[1] drf noun.person:mime
+w: mimic drf noun.person:mimic drf noun.person:mimicker
+d: imitate (a person or manner), especially for satirical effect
+e: The actor mimicked the President very accurately
+fs: 8 9 11
+hypo: copy
+
+w: mime drf noun.act:mime drf noun.person:mimer
+w: pantomime drf noun.act:pantomime drf noun.person:pantomimer drf noun.person:pantomimist
+d: act out without words but with gestures and bodily movements only
+e: The acting students mimed eating an apple
+fs: 2
+hypo: playact
+
+w: mimeo drf noun.artifact:mimeo
+w: mimeograph drf noun.artifact:mimeograph
+d: print copies from (a prepared stencil) using a mimeograph
+e: She mimeographed the syllabus
+fs: 8
+hypo: copy[1]
+
+w: miniate drf noun.substance:minium
+d: paint with red lead or vermilion
+fs: 8
+hypo: color[1]
+mt: noun.act:art
+
+w: miniate[1]
+w: rubricate drf noun.communication:rubric[3]
+d: decorate (manuscripts) with letters painted red
+e: In this beautiful book, all the place names are rubricated
+fs: 8
+hypo: illuminate
+mt: noun.act:art
+
+w: minstrel drf noun.person:minstrel drf noun.person:minstrel[1]
+d: celebrate by singing, in the style of minstrels
+fs: 8
+hypo: sing
+mt: noun.act:music
+
+w: miscast
+d: cast an actor, singer, or dancer in an unsuitable role
+fs: 9
+hypo: cast[1]
+mt: noun.cognition:performing_arts
+
+w: misplay
+d: play incorrectly, e.g., play a wrong note
+fs: 2 8
+hypo: play
+
+w: misprint drf noun.communication:misprint
+d: print incorrectly
+fs: 8
+hypo: print[3]
+
+w: mock_up
+w: model[1] drf noun.act:model drf noun.act:modeling drf noun.act:modelling drf noun.artifact:model drf noun.person:modeler drf noun.person:modeller
+d: construct a model of
+e: model an airplane
+fs: 8
+hypo: interpret[1]
+
+w: model[2] drf noun.act:model drf noun.artifact:model drf noun.cognition:model drf noun.cognition:model[2] drf noun.person:modeler drf noun.person:modeller
+w: pattern drf noun.cognition:pattern[1] drf noun.cognition:pattern[2]
+d: plan or create according to a model or models
+fs: 21
+hyper: scale
+hyper: sovietise
+hypo: copy
+
+w: model[4] drf noun.cognition:model
+w: simulate[2] drf noun.artifact:simulator drf noun.cognition:simulation
+d: create a representation or model of
+e: The pilots are trained in conditions simulating high-altitude flights
+fs: 8 11
+hypo: re-create
+
+w: model drf noun.act:model drf noun.act:modeling[1] drf noun.act:modelling[1] drf noun.artifact:model drf noun.artifact:modeling
+w: mold[2] drf adj.all:moldable drf noun.act:molding drf noun.act:molding[1] drf noun.artifact:mold drf noun.artifact:mold[2] drf noun.shape:mold
+w: mould[2] drf noun.act:moulding drf noun.artifact:mould[2]
+d: form in clay, wax, etc
+e: model a head with clay
+fs: 8
+hypo: form
+mt: noun.act:art
+
+w: modulate drf noun.communication:modulation[1]
+d: change the key of, in music
+e: modulate the melody
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: mound drf noun.artifact:mound drf noun.object:mound
+d: form into a rounded elevation
+e: mound earth
+fs: 8
+hyper: mound_over
+hypo: form
+
+w: mound_over
+d: form a mound over
+fs: 8 11
+hypo: mound
+
+w: mount
+d: put up or launch
+e: mount a campaign against pornography
+fs: 8 11
+hypo: initiate
+
+w: mount[1]
+w: put_on
+d: prepare and supply with the necessary equipment for execution or performance
+e: mount a play
+e: mount a theater production
+e: mount an attack
+fs: 8
+hyper: rerun
+hypo: get_up
+
+w: mythologise
+w: mythologize
+d: construct a myth
+e: The poet mythologized that the King had three sons
+fs: 8
+hypo: cook_up
+
+w: net drf noun.act:netting drf noun.artifact:net
+w: web drf noun.artifact:web[1] drf noun.artifact:webbing drf noun.group:web drf noun.object:web
+d: construct or form a web, as if by weaving
+fs: 8
+hypo: tissue
+
+w: noose drf noun.artifact:noose[1]
+d: make a noose in or of
+fs: 8
+hypo: intertwine
+
+w: occasion drf noun.motive:occasion drf noun.state:occasion drf noun.time:occasion
+d: give occasion to
+fs: 11
+hyper: inspire
+hypo: cause
+
+w: offset[1] drf noun.artifact:offset
+d: create an offset in
+e: offset a wall
+fs: 8
+hypo: create
+
+w: offset drf noun.communication:offset
+d: produce by offset printing
+e: offset the conference proceedings
+fs: 8
+hypo: impress
+
+w: open_up
+w: pioneer drf noun.person:pioneer[1]
+d: open up an area or prepare a way
+e: She pioneered a graduate program for women students
+fs: 8
+hypo: innovate
+
+w: orchestrate drf noun.act:orchestration[1] drf noun.communication:orchestration drf noun.group:orchestra drf noun.person:orchestrator
+d: write an orchestra score for
+fs: 8
+hypo: score
+mt: noun.cognition:euphony
+
+w: output drf noun.act:output drf noun.artifact:output drf noun.artifact:output[1]
+d: to create or manufacture a specific amount
+e: the computer is outputting the data from the job I'm running
+fs: 8 11
+hypo: produce
+
+w: overbear
+d: bear too much
+fs: 11
+hypo: bear
+
+w: overcrop
+w: overcultivate
+d: to exhaust by excessive cultivation
+e: the farmers overcropped the land
+fs: 8
+hypo: crop[1]
+mt: noun.act:agriculture
+
+w: overprint drf noun.artifact:overprint
+w: print_over
+d: print (additional text or colors) onto an already imprinted paper
+fs: 8 11
+hyper: surcharge
+hypo: impress
+
+w: overproduce drf noun.act:overproduction
+d: produce in excess; produce more than needed or wanted
+fs: 8
+hypo: farm
+
+w: overproduce[1] drf noun.act:overproduction
+d: produce in excess
+e: The country overproduces cars
+fs: 8
+hypo: produce
+
+w: overwork
+d: use too much
+e: This play has been overworked
+fs: 8
+hypo: process
+
+w: pacify drf noun.communication:pacification drf noun.communication:peace drf noun.person:pacifier drf noun.state:peace drf noun.state:peace[2]
+d: fight violence and try to establish peace in (a location)
+e: The U.N. troops are working to pacify Bosnia
+fs: 8
+hypo: establish[1]
+
+w: paint drf noun.act:painting drf noun.artifact:paint drf noun.artifact:painting drf noun.person:painter
+d: make a painting of
+e: He painted his mistress many times
+fs: 8 9
+hyper: repaint
+hypo: interpret[1]
+mt: noun.act:art
+
+w: paint[1] drf noun.act:painting drf noun.artifact:paint drf noun.artifact:painting drf noun.person:painter
+d: make a painting
+e: He painted a painting of the garden
+e: he painted all day in the garden
+fs: 2 8
+hyper: bodypaint
+hyper: charge
+hyper: distemper
+hyper: fill_in
+hyper: finger-paint
+hyper: fresco
+hyper: stipple[1]
+hyper: stipple[2]
+hyper: watercolor
+hypo: create[1]
+mt: noun.act:art
+
+w: panel drf noun.artifact:panel drf noun.artifact:paneling drf noun.artifact:panelling
+d: decorate with panels
+e: panel the walls with wood
+fs: 8
+hypo: adorn
+
+w: paragraph[1] drf noun.communication:paragraph drf noun.person:paragrapher
+d: write about in a paragraph
+e: All her friends were paragraphed in last Monday's paper
+fs: 8 9
+hypo: indite
+
+w: paragraph drf noun.communication:paragraph drf noun.person:paragrapher
+d: write paragraphs; work as a paragrapher
+fs: 2
+hypo: indite
+mt: noun.act:authorship
+
+w: parody drf noun.act:parody
+d: make a spoof of or make fun of
+fs: 8 9
+hypo: act
+
+w: pedal drf noun.communication:pedal
+d: operate the pedals on a keyboard instrument
+fs: 2
+entail: play
+hypo: verb.contact:control
+mt: noun.act:music
+
+w: pencil drf noun.artifact:pencil
+d: write, draw, or trace with a pencil
+e: he penciled a figure
+fs: 8 9
+entail: verb.contact:delineate
+hypo: draw
+
+w: perform[1] drf noun.act:performing drf noun.communication:performance drf noun.person:performer
+d: give a performance (of something)
+e: Horowitz is performing at Carnegie Hall tonight
+e: We performed a popular Gilbert and Sullivan opera
+fs: 2 8 22
+hyper: verb.competition:barnstorm
+hyper: verb.competition:barnstorm[1]
+hyper: audition
+hyper: concertise
+hyper: conduct[4]
+hyper: debut[1]
+hyper: give[12]
+hyper: grandstand
+hyper: interlude
+hyper: play[3]
+hyper: play[12]
+hyper: play_out
+hyper: playact
+hyper: rap[10]
+hyper: sight-read
+hyper: solo
+hyper: underperform
+hypo: re-create
+mt: noun.cognition:performing_arts
+
+w: phase drf noun.time:phase
+d: arrange in phases or stages
+e: phase a withdrawal
+fs: 8
+hypo: arrange[3]
+
+w: phase_in ant phase_out
+d: introduce gradually
+fs: 8
+hypo: innovate
+
+w: phase_out ant phase_in
+d: terminate gradually
+fs: 8
+hypo: verb.change:end[1]
+
+w: photocopy drf noun.artifact:photocopier drf noun.artifact:photocopy
+w: run_off
+w: xerox drf noun.artifact:Xerox drf noun.artifact:xerox[1]
+d: reproduce by xerography
+fs: 2 8
+hyper: microcopy
+hyper: photostat
+hypo: reproduce
+
+w: photostat drf noun.artifact:Photostat drf noun.artifact:photostat[1]
+d: make a copy by means of a Photostat device
+fs: 2 8
+hypo: photocopy
+
+w: pick
+d: provoke
+e: pick a fight or a quarrel
+fs: 8
+hypo: evoke
+
+w: pipe drf noun.act:piping drf noun.artifact:pipe[4] drf noun.person:piper see verb.communication:pipe_up
+d: play on a pipe
+e: pipe a tune
+fs: 8
+hypo: play[1]
+mt: noun.act:music
+
+w: pipe[1] drf noun.artifact:piping[1]
+d: trim with piping
+e: pipe the skirt
+fs: 8
+entail: sew
+hypo: adorn
+
+w: play[1] drf noun.act:playing[1]
+d: perform music on (a musical instrument)
+e: Can you play on this old recorder?
+e: He plays the flute
+fs: 8
+hyper: beat[5]
+hyper: chord
+hyper: clarion
+hyper: drum
+hyper: fiddle
+hyper: harp
+hyper: pipe
+hyper: register
+hyper: skirl
+hyper: trumpet
+hyper: tweedle
+hypo: verb.perception:sound[1]
+mt: noun.act:music
+mt: noun.communication:music
+vg: play[12]
+
+w: play[5]
+w: run[1]
+d: cause to emit recorded audio or video
+e: He never tires of playing that video
+e: I'll play you my favorite record
+e: They ran the tapes over and over again
+fs: 8 11
+vg: verb.change:run[7]
+vg: play[11]
+vg: verb.social:run
+
+w: play[6]
+d: pretend to be somebody in the framework of a game or playful activity
+e: Let's play like I am mommy
+e: Play cowboy and Indians
+fs: 8 9 26
+hypo: assume
+vg: act
+
+w: play[4] drf noun.communication:play[1] drf noun.communication:play[3]
+d: be performed or presented for public viewing
+e: What's playing in the local movie theater?
+e: `Cats' has been playing on Broadway for many years
+fs: 1 4
+hyper: debut
+mt: noun.cognition:performing_arts
+vg: playact
+
+w: play[12] drf noun.act:playing[1] drf noun.person:player[2]
+d: play on an instrument
+e: The band played all night long
+fs: 1 2
+hyper: accompany
+hyper: bow
+hyper: busk
+hyper: sound_off
+hyper: swing[3]
+hyper: symphonise
+hypo: perform[1]
+mt: noun.communication:music
+vg: play
+vg: play[1]
+
+w: play[3] drf noun.communication:play[1] drf noun.communication:play[3]
+d: perform on a certain location
+e: She has been playing on Broadway for years
+e: The prodigy played Carnegie Hall at the age of 16
+fs: 8
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+vg: playact
+
+w: play drf noun.act:playing[1]
+w: spiel
+d: replay (as a melody)
+e: Play it again, Sam
+e: She played the third movement very beautifully
+fs: 8
+hyper: bang_out
+hyper: bugle
+hyper: fiddle[2]
+hyper: jazz
+hyper: misplay
+hyper: modulate
+hyper: prelude
+hyper: rag
+hyper: recapitulate
+hyper: replay
+hyper: riff
+hyper: slur
+hyper: tongue
+hypo: re-create
+vg: play[12]
+
+w: play[11]
+d: emit recorded sound
+e: The tape was playing for hours
+e: the stereo was playing Beethoven when I entered
+fs: 1 11
+hypo: verb.perception:sound[3]
+vg: play[5]
+
+w: play_back drf noun.act:playback drf noun.artifact:playback
+w: replay[1] drf noun.act:replay
+d: reproduce (a recording) on a recorder
+e: The lawyers played back the conversation to show that their client was innocent
+fs: 8
+hypo: reproduce
+
+w: play_out
+d: perform or be performed to the end
+e: How will the election drama be played out?
+fs: 1 8
+hypo: perform[1]
+vg: verb.competition:play_out
+
+w: plot[3]
+d: devise the sequence of events in (a literary work or a play, movie, or ballet)
+e: the writer is plotting a new novel
+fs: 8
+hypo: plan
+
+w: plough drf noun.act:ploughing drf noun.artifact:plough
+w: plow drf noun.act:plowing drf noun.artifact:plow drf noun.person:plower
+w: turn
+d: to break and turn over earth especially with a plow
+e: Farmer Jones plowed his east field last week
+e: turn the earth in the Spring
+fs: 2 8
+entail: verb.contact:delve
+hyper: disk
+hyper: ridge
+hypo: till
+mt: noun.act:agriculture
+
+w: plume drf noun.animal:plume drf noun.artifact:plume
+d: deck with a plume
+e: a plumed helmet
+fs: 8
+hypo: bedeck
+
+w: poetise drf noun.person:poet drf noun.person:poetiser
+w: poetize drf noun.person:poet drf noun.person:poetizer
+w: verse drf noun.communication:verse drf noun.communication:verse[1] drf noun.communication:verse[2]
+w: versify drf noun.communication:verse drf noun.communication:verse[1] drf noun.communication:verse[2] drf noun.communication:versification drf noun.communication:versification[1] drf noun.communication:versification[2] drf noun.person:versifier
+d: compose verses or put into verse
+e: He versified the ancient saga
+fs: 2 8
+hyper: elegise
+hyper: metrify
+hyper: sonnet
+hyper: spondaise
+hypo: indite
+mt: noun.communication:poesy[2]
+
+w: portray[2] drf noun.act:portraiture drf noun.act:portrayal drf noun.cognition:portraying drf noun.person:portraitist drf noun.person:portrayer
+w: present[8] drf noun.act:presentment[2] drf noun.artifact:presentation
+d: represent abstractly, for example in a painting, drawing, or sculpture
+e: The father is portrayed as a good-looking man in this painting
+fs: 8 9 10 11
+hyper: commend
+hypo: interpret[1]
+mt: noun.act:art
+
+w: practice drf noun.act:practice[2]
+w: practise
+w: rehearse drf noun.act:rehearsal[1]
+d: engage in a rehearsal (of)
+fs: 2 8
+hyper: scrimmage
+hyper: walk_through
+hypo: perform
+mt: noun.cognition:performing_arts
+
+w: prank
+d: dress or decorate showily or gaudily
+e: Roses were pranking the lawn
+fs: 8
+hypo: adorn
+
+w: prearrange drf noun.cognition:prearrangement
+d: arrange beforehand
+fs: 8
+hypo: arrange
+
+w: preassemble
+w: prefabricate drf noun.act:prefabrication
+d: to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings
+fs: 8
+hypo: produce
+mt: noun.act:building
+
+w: precipitate drf adj.all:precipitant drf noun.attribute:precipitation
+d: bring about abruptly
+e: The crisis precipitated by Russia's revolution
+fs: 8 11
+hypo: effect
+
+w: preconceive drf noun.cognition:preconception
+d: conceive beforehand
+e: a preconceived notion
+fs: 8
+hypo: conceive
+
+w: precook
+d: cook beforehand so that the actual preparation won't take long
+e: precook the rice
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: prefabricate[1]
+d: produce synthetically, artificially, or stereotypically and unoriginally
+fs: 8 11
+hypo: produce
+
+w: prefigure[1] drf noun.cognition:prefiguration drf noun.cognition:prefiguration[1]
+d: imagine or consider beforehand
+e: It wasn't as bad as I had prefigured
+fs: 8
+hypo: envisage
+
+w: preform[1]
+d: form into a shape resembling the final, desired one
+fs: 8
+hypo: form
+vg: preform
+
+w: preform drf noun.cognition:preformation
+d: form or shape beforehand or determine the shape of beforehand
+fs: 8 11
+hypo: form
+vg: preform[1]
+
+w: prelude drf noun.communication:prelude
+d: play as a prelude
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: premier
+w: premiere drf noun.communication:premiere
+d: perform a work for the first time
+fs: 8
+hypo: perform
+mt: noun.cognition:performing_arts
+
+w: premier[1]
+w: premiere[1] drf noun.communication:premiere
+d: be performed for the first time
+e: We premiered the opera of the young composer and it was a critical success
+fs: 1
+mt: noun.cognition:performing_arts
+
+w: prepare[2]
+d: to prepare verbally, either for written or spoken delivery
+e: prepare a report
+e: prepare a speech
+fs: 8
+hyper: rough_in
+hypo: create
+
+w: present drf noun.act:presentment[2]
+w: represent[11] drf noun.communication:representation[1]
+w: stage drf noun.artifact:stage drf noun.communication:stage drf noun.communication:staging drf noun.person:stager
+d: perform (a play), especially on a stage
+e: we are going to stage `Othello'
+fs: 8
+hyper: localise
+hypo: re-create
+mt: noun.cognition:performing_arts
+
+w: press[1] drf noun.act:press drf noun.artifact:press
+d: create by pressing
+e: Press little holes into the soft clay
+fs: 8 11
+hypo: create
+
+w: press drf noun.artifact:press drf noun.artifact:pressing
+w: press_out
+d: press from a plastic
+e: press a record
+fs: 8 11
+hypo: cast
+
+w: print[3]
+d: write as if with print; not cursive
+fs: 2 8
+hyper: misprint
+hypo: write[1]
+
+w: print[2] drf noun.artifact:printer drf noun.artifact:printer[1] drf noun.communication:print drf noun.communication:printing drf noun.person:printer
+w: publish[1] drf noun.act:publication drf noun.act:publication[1] drf noun.communication:publication drf noun.group:publisher drf noun.person:publisher drf noun.person:publisher[1]
+d: put into print
+e: The newspaper published the news of the royal couple's divorce
+e: These news should not be printed
+fs: 8
+hyper: gazette
+hyper: republish
+hypo: produce
+
+w: print[1] drf noun.artifact:print[2]
+d: make into a print
+e: print the negative
+fs: 8
+hyper: engrave
+hyper: etch
+hyper: lithograph
+hyper: silkscreen
+hyper: stencil
+hypo: reproduce
+
+w: prise
+w: pry drf noun.cognition:prying
+d: make an uninvited or presumptuous inquiry
+e: They pried the information out of him
+fs: 8
+hypo: extort
+
+w: process drf noun.act:process
+w: work drf adj.all:workable
+w: work_on
+d: shape, form, or improve a material
+e: process iron
+e: work stone into tools
+e: work the metal
+fs: 8
+hyper: cold_work
+hyper: hot-work
+hyper: overwork
+hyper: rack
+hyper: retread
+hyper: till
+hyper: tool
+hypo: verb.change:transform
+vg: form
+
+w: profile[1] drf noun.communication:profile
+d: write about
+e: The author of this article profiles a famous painter
+fs: 8 9 10 11
+hypo: indite
+mt: noun.act:authorship
+
+w: profile drf noun.location:profile[1]
+d: represent in profile, by drawing or painting
+fs: 8 9
+hypo: interpret[1]
+
+w: program drf noun.act:programing drf noun.communication:program[2] drf noun.person:programmer
+w: programme drf noun.act:programming drf noun.communication:programme[2]
+d: write a computer program
+fs: 2
+hyper: verb.change:hack_on
+hypo: create_by_mental_act
+mt: noun.cognition:computer_science
+
+w: project[8]
+d: draw a projection of
+fs: 8
+hypo: draw
+
+w: proof drf noun.artifact:proof drf noun.communication:proof[1]
+d: make or take a proof of, such as a photographic negative, an etching, or typeset
+fs: 8
+hypo: produce
+
+w: prove
+d: take a trial impression of
+fs: 8
+hypo: impress
+
+w: psalm drf noun.person:psalmist
+d: sing or celebrate in psalms
+e: He psalms the works of God
+fs: 8
+hypo: sing
+mt: noun.act:music
+
+w: publish drf noun.communication:publication
+w: write[2] drf noun.person:writer
+d: have (one's written work) issued for publication
+e: How many books did Georges Simenon write?
+e: She published 25 books during her long career
+fs: 2 8
+hypo: create_verbally
+vg: indite
+
+w: puddle drf noun.person:puddler drf noun.substance:puddle
+d: subject to puddling or form by puddling
+e: puddle iron
+fs: 8
+hypo: form
+
+w: pulsate drf noun.event:pulsation drf noun.event:pulse[1]
+w: pulse drf noun.event:pulse[1] drf noun.event:pulsing
+d: produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses
+e: a transmitter pulsed by an electronic tube
+e: pulse waves
+fs: 8 11
+hypo: produce
+
+w: pun drf noun.communication:pun drf noun.communication:punning
+d: make a play on words
+e: Japanese like to pun--their language is well suited to punning
+fs: 2
+hypo: verb.communication:jest
+
+w: purl[2] drf noun.artifact:purl
+d: knit with a purl stitch
+fs: 2 8
+hypo: knit
+mt: noun.act:handicraft
+
+w: purl[1] drf noun.artifact:purl[1]
+d: edge or border with gold or silver embroidery
+fs: 8
+hypo: broider
+vg: purl
+
+w: purl drf noun.artifact:purl[1]
+d: embroider with gold or silver thread
+fs: 8
+hypo: broider
+vg: purl[1]
+
+w: purl_stitch drf noun.artifact:purl_stitch
+d: make with purl stitches
+fs: 8
+hypo: entwine
+mt: noun.act:handicraft
+
+w: put[13]
+d: adapt
+e: put these words to music
+fs: 8
+hypo: arrange
+mt: noun.communication:music
+
+w: put_on[1]
+w: turn_in
+d: carry out (performances)
+e: They turned in a splendid effort
+e: They turned in top jobs for the second straight game
+fs: 8
+hypo: create
+
+w: put_on[2]
+d: put on the stove or ready for cooking
+e: put on the tea, please!
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: put_out
+d: put out considerable effort
+e: He put out the same for seven managers
+fs: 8
+hypo: produce
+
+w: quadruplicate drf noun.artifact:quadruplicate drf noun.cognition:quadruple
+d: reproduce fourfold
+e: quadruplicate the bill
+fs: 8
+hypo: reproduce
+
+w: quilt drf noun.artifact:quilt drf noun.artifact:quilting[1]
+d: create by stitching together
+fs: 8
+entail: verb.change:bolster
+hypo: sew
+
+w: quilt[1] drf noun.artifact:quilt drf noun.artifact:quilting[1]
+d: stitch or sew together
+e: quilt the skirt
+fs: 8
+entail: verb.contact:sew
+hypo: verb.contact:conjoin
+
+w: rack drf noun.artifact:rack[1]
+d: work on a rack
+e: rack leather
+fs: 8
+entail: verb.contact:stretch
+hypo: process
+
+w: raft drf noun.artifact:raft
+d: make into a raft
+e: raft these logs
+fs: 8
+hypo: manufacture
+
+w: rag drf noun.communication:rag[1]
+d: play in ragtime
+e: rag that old tune
+fs: 8
+hypo: play
+mt: noun.act:music
+mt: noun.communication:music
+
+w: raise[6]
+d: create a disturbance, especially by making a great noise
+e: raise Cain
+e: raise hell
+e: raise the roof
+fs: 8
+hypo: create
+
+w: rap[10] drf noun.communication:rap[2]
+d: perform rap music
+fs: 2
+hypo: perform[1]
+mt: noun.act:music
+
+w: re-create drf noun.act:re-creation
+d: create anew
+e: Re-create the boom of the West on a small scale
+fs: 8 11
+hyper: verb.change:regenerate[2]
+hyper: act
+hyper: counterfeit
+hyper: fictionalise
+hyper: interpret[1]
+hyper: model[4]
+hyper: perform[1]
+hyper: play
+hyper: present
+hyper: recite
+hyper: reenact[1]
+hyper: regenerate
+hypo: create
+
+w: read[5]
+d: audition for a stage role by reading parts of a role
+e: He is auditioning for `Julius Caesar' at Stratford this year
+fs: 22
+hypo: audition
+mt: noun.cognition:performing_arts
+
+w: realise[7]
+w: realize[7] drf noun.act:realization[3] drf noun.communication:realization
+d: expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass
+fs: 8
+hypo: harmonise[1]
+mt: noun.communication:music
+
+w: reassemble
+d: assemble once again, after taking something apart
+fs: 8
+hypo: assemble
+
+w: rebuild drf noun.act:rebuilding
+w: reconstruct drf noun.act:reconstruction
+d: build again
+e: The house was rebuild after it was hit by a bomb
+fs: 2 8
+hypo: build
+mt: noun.act:building
+
+w: recapitulate drf noun.communication:recapitulation[1]
+w: repeat[1] drf noun.event:repeat
+w: reprise
+w: reprize
+d: repeat an earlier theme of a composition
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: recapitulate[1] drf noun.process:recapitulation
+d: repeat stages of evolutionary development during the embryonic phase of life
+fs: 11
+hypo: double
+
+w: recapture
+d: take up anew
+e: The author recaptures an old idea here
+fs: 8 11
+hypo: capture
+
+w: recast[2]
+w: reforge
+w: remodel
+d: cast or model anew
+e: She had to recast her image to please the electorate in her home state
+fs: 8
+hypo: make_over
+
+w: recast
+d: cast again, in a different role
+e: He was recast as Iago
+fs: 9
+hypo: cast[1]
+mt: noun.cognition:performing_arts
+
+w: recast[1]
+w: remold
+w: remould
+d: cast again
+e: The bell cracked and had to be recast
+fs: 8
+hypo: cast
+
+w: recite drf noun.communication:recital[2] drf noun.communication:recitation
+w: retell
+d: render verbally, "recite a poem"
+e: retell a story
+fs: 8
+hypo: re-create
+
+w: recopy
+d: copy again
+e: The child had to recopy the homework
+fs: 8
+hypo: copy[5]
+
+w: recreate[5]
+d: create anew
+e: she recreated the feeling of the 1920's with her stage setting
+fs: 8
+hyper: reinvent
+hypo: create
+
+w: redecorate
+d: redo the decoration of an apartment or house
+fs: 8
+hypo: adorn
+
+w: redesign
+d: design anew, make a new design for
+fs: 8
+hypo: design
+
+w: reenact[1] drf noun.act:reenactment drf noun.person:reenactor
+d: enact or perform again
+e: They reenacted the battle of Princeton
+fs: 8
+hypo: re-create
+
+w: regenerate drf noun.act:regeneration[1]
+w: renew drf noun.act:renewal[1]
+d: reestablish on a new, usually improved, basis or make new or like new
+e: They renewed their membership
+e: We renewed our friendship after a hiatus of twenty years
+fs: 8 11
+hyper: verb.change:freshen
+hyper: verb.change:freshen_up
+hyper: verb.change:modernise
+hyper: verb.change:remold
+hyper: verb.change:renovate
+hyper: verb.change:replace
+hyper: verb.change:restore
+hyper: verb.change:revamp
+hyper: verb.change:revitalise
+hyper: verb.social:reconstruct[4]
+hypo: re-create
+
+w: register drf noun.attribute:register drf noun.attribute:registration
+d: manipulate the registers of an organ
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+
+w: reharmonise
+w: reharmonize drf noun.communication:reharmonization
+d: provide with a different harmony
+e: reharmonize the melody
+fs: 8
+hypo: harmonise[1]
+mt: noun.cognition:euphony
+
+w: reinvent[1]
+d: bring back into existence
+e: The candidate reinvented the concept of national health care so that he would get elected
+fs: 8
+hypo: create[2]
+
+w: reinvent
+d: create anew and make over
+e: He reinvented African music for American listeners
+fs: 8
+hypo: recreate[5]
+
+w: reissue drf noun.communication:reissue
+w: reprint drf noun.communication:reprint drf noun.communication:reprint[1] drf noun.communication:reprinting
+d: print anew
+e: They never reprinted the famous treatise
+fs: 8
+hypo: reproduce
+
+w: relyric
+d: write new lyrics for (a song)
+fs: 8
+hypo: lyric
+mt: noun.communication:poesy[2]
+
+w: remold[1]
+w: reshape
+d: shape again or shape differently
+fs: 8
+hypo: form
+
+w: repaint
+d: paint again
+e: He repainted the same scenery many times during his life
+fs: 8 9
+hypo: paint
+mt: noun.act:art
+
+w: replay
+d: play (a melody) again
+fs: 8
+hypo: play
+
+w: reproduce[3]
+d: recreate a sound, image, idea, mood, atmosphere, etc.
+e: He reproduced the feeling of sadness in the portrait
+e: this DVD player reproduces the sound of the piano very well
+fs: 8
+hyper: catch[12]
+hypo: verb.cognition:re-create
+mt: noun.cognition:beaux_arts
+
+w: reproduce drf noun.act:reproduction[1]
+d: make a copy or equivalent of
+e: reproduce the painting
+fs: 8
+hyper: copy
+hyper: double
+hyper: duplicate[1]
+hyper: fingerprint
+hyper: photocopy
+hyper: play_back
+hyper: print[1]
+hyper: quadruplicate
+hyper: reissue
+hyper: triplicate
+hypo: produce
+
+w: republish drf noun.act:republication drf noun.act:republishing drf noun.communication:republication
+d: publish again
+e: The scientist republished his results after he made some corrections
+fs: 2 8
+hypo: print[2]
+
+w: rerun drf noun.communication:rerun
+d: rerun a performance of a play, for example
+fs: 8
+hypo: put_on
+
+w: rewrite drf noun.communication:rewrite drf noun.person:rewriter
+d: rewrite so as to make fit to suit a new or different purpose
+e: re-write a play for use in schools
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: rhyme drf noun.communication:rhyme[1] drf noun.person:rhymer
+w: rime
+d: compose rhymes
+fs: 2
+hyper: alliterate
+hyper: tag
+hypo: create_verbally
+mt: noun.communication:poesy[2]
+
+w: rib
+d: form vertical ribs by knitting
+e: A ribbed sweater
+fs: 8
+hypo: knit
+mt: noun.act:handicraft
+
+w: ridge drf noun.shape:ridge
+d: plough alternate strips by throwing the furrow onto an unploughed strip
+fs: 8
+hypo: plough
+mt: noun.act:agriculture
+
+w: riff drf noun.communication:riff
+d: play riffs
+fs: 2
+hypo: play
+
+w: rig_up
+d: erect or construct, especially as a temporary measure
+e: Can he rig up a P.A. system?
+fs: 8
+hypo: assemble
+
+w: roneo drf noun.artifact:Roneo
+d: make copies on a Roneograph
+fs: 1
+hypo: copy[1]
+
+w: rough[1]
+w: rough_in
+w: rough_out
+d: prepare in preliminary or sketchy form
+fs: 8
+hypo: prepare[2]
+
+w: roughcast drf noun.artifact:roughcast
+d: shape roughly
+fs: 8
+hypo: form
+
+w: rubricate[1]
+d: furnish with rubrics or regulate by rubrics
+e: the manuscript is not rubricated
+fs: 8
+hypo: format
+
+w: rule drf noun.artifact:rule drf noun.artifact:ruler
+d: mark or draw with a ruler
+e: rule the margins
+fs: 8
+hypo: draw
+
+w: run
+d: carry out
+e: run an errand
+fs: 8
+hypo: accomplish
+
+w: run_up
+d: make by sewing together quickly
+e: run up a skirt
+fs: 1
+hypo: sew
+
+w: sand_cast
+d: pour molten metal into a mold of sand
+fs: 8
+hypo: cast
+
+w: sandwich drf noun.food:sandwich
+d: make into a sandwich
+fs: 8
+hypo: get_up
+
+w: scale drf noun.relation:scale[1] drf noun.relation:scale[3]
+d: pattern, make, regulate, set, measure, or estimate according to some rate or standard
+fs: 8
+hypo: pattern
+
+w: scallop drf noun.shape:scallop
+d: decorate an edge with scallops
+e: the dress had a scalloped skirt
+fs: 8
+hypo: adorn
+
+w: scamp
+d: perform hastily and carelessly
+fs: 8
+hypo: perform
+mt: noun.act:music
+
+w: schematize drf noun.act:schematization drf noun.cognition:schema drf noun.cognition:schema[1] drf noun.cognition:scheme[1] drf noun.cognition:scheme[2]
+d: formulate in regular order; to reduce to a scheme or formula
+e: The chemists schematized the various reactions in a coherent fashion
+fs: 8
+entail: verb.change:coordinate
+hypo: create_by_mental_act
+
+w: score drf noun.communication:score
+d: write a musical score for
+fs: 8
+hyper: orchestrate
+hypo: compose[3]
+mt: noun.communication:music
+
+w: scrape drf noun.artifact:scraper
+d: make by scraping
+e: They scraped a letter into the stone
+fs: 8 11
+hypo: create
+
+w: scrawl drf noun.communication:scrawl drf noun.person:scrawler
+w: scribble drf noun.communication:scribble drf noun.person:scribbler
+d: write carelessly
+fs: 2 8
+hypo: write[1]
+
+w: scrimmage drf noun.act:scrimmage[1]
+d: practice playing (a sport)
+fs: 2
+hypo: practice
+
+w: script drf noun.communication:script
+d: write a script for
+e: The playwright scripted the movie
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
+w: sculpt drf noun.act:sculpture drf noun.artifact:sculpture drf noun.person:sculptor
+w: sculpture drf noun.act:sculpture drf noun.artifact:sculpture drf noun.person:sculpturer
+d: create by shaping stone or wood or any other hard material
+e: sculpt a swan out of a block of ice
+fs: 2 8
+hypo: form
+mt: noun.act:art
+vg: verb.contact:sculpt
+
+w: seed drf noun.plant:seed drf noun.plant:seed[2]
+d: bear seeds
+fs: 1
+hypo: bear
+
+w: self-destroy drf noun.act:self-destruction drf noun.act:self-destruction[1]
+w: self-destruct drf noun.act:self-destruction drf noun.act:self-destruction[1]
+d: do away with oneself or itself
+e: The machine will self-destruct if you tamper with it
+fs: 1 2
+hypo: destroy
+
+w: serenade drf noun.communication:serenade drf noun.communication:serenade[1]
+d: sing and play for somebody
+e: She was serenaded by her admirers
+fs: 2 9
+hypo: perform
+
+w: set[11]
+w: typeset drf noun.person:typesetter
+d: set in type
+e: My book will be typeset nicely
+e: set these words in italics
+fs: 8
+hypo: impress
+
+w: set[12]
+d: apply or start
+e: set fire to a building
+fs: 8
+hypo: originate
+
+w: set_to_music
+d: write (music) for (a text)
+fs: 8
+hypo: compose[3]
+mt: noun.communication:music
+
+w: set_up[2]
+d: begin, or enable someone else to begin, a venture by providing the means, logistics, etc.
+e: set up an election
+fs: 8 11
+hypo: get_up
+
+w: sew drf noun.artifact:sewing drf noun.person:sewer
+w: tailor drf noun.act:tailoring drf noun.person:tailor
+w: tailor-make
+d: create (clothes) with cloth
+e: Can the seamstress sew me a suit by next week?
+fs: 2 8
+hyper: quilt
+hyper: run_up
+hypo: fashion
+
+w: shell_stitch drf noun.artifact:shell_stitch
+d: make by shell stitching
+fs: 8
+hypo: crochet[1]
+mt: noun.act:handicraft
+
+w: shimmy drf noun.act:shimmy
+d: dance a shimmy
+fs: 2
+hypo: dance
+mt: noun.act:dance
+
+w: short drf noun.artifact:short[1]
+w: short-circuit
+d: create a short circuit in
+fs: 8 11
+hypo: create
+
+w: sight-read
+w: sightread drf noun.person:sightreader
+d: perform music from a score without having seen the score before
+e: He is a brilliant pianist but he cannot sightread
+fs: 2 8
+hyper: sight-sing
+hypo: perform[1]
+mt: noun.act:music
+
+w: sight-sing
+w: sightsing
+d: sing from a score without having seen it before
+e: This tenor can sightsing even the most difficult pieces
+fs: 2 8
+hypo: sight-read
+mt: noun.cognition:performing_arts
+
+w: silhouette drf noun.artifact:silhouette
+d: represent by a silhouette
+fs: 8 9 10 11
+hypo: interpret[1]
+
+w: silkscreen
+d: print by silkscreen
+fs: 8
+hypo: print[1]
+mt: noun.act:art
+
+w: sing drf noun.act:singing drf noun.act:song drf noun.communication:song drf noun.person:singer
+d: produce tones with the voice
+e: My brother sings very well
+e: She was singing while she was cooking
+fs: 2 22 27
+hyper: verb.communication:cantillate
+hyper: verb.communication:croon
+hyper: verb.communication:descant
+hyper: verb.communication:hum
+hyper: verb.communication:place
+hyper: verb.communication:quaver
+hyper: verb.communication:treble
+hyper: verb.communication:troll
+hyper: belt
+hyper: chirp
+hyper: choir
+hyper: descant
+hyper: descant_on
+hyper: harmonise
+hyper: minstrel
+hyper: psalm
+hyper: sing[1]
+hyper: sing_along
+hyper: solmizate
+hyper: vocalise
+hypo: verb.communication:mouth
+mt: noun.act:music
+
+w: sing[1] drf noun.act:singing drf noun.act:song drf noun.communication:song drf noun.person:singer
+d: deliver by singing
+e: Sing Christmas carols
+fs: 8
+hyper: carol
+hyper: hymn
+hyper: madrigal
+hyper: solmizate[1]
+hyper: troll
+hypo: interpret
+hypo: sing
+mt: noun.act:music
+vg: verb.communication:sing[8]
+
+w: sing_along drf noun.act:singalong
+d: sing with a choir or an orchestra
+e: Every year the local orchestra and choir perform the `Messiah' and the audience is invited to sing along
+fs: 2
+hypo: sing
+
+w: single_crochet drf noun.artifact:single_crochet
+w: single_stitch drf noun.artifact:single_stitch
+d: make by single stitching
+fs: 8
+hypo: crochet[1]
+mt: noun.act:handicraft
+
+w: sinter
+d: cause (ores or powdery metals) to become a coherent mass by heating without melting
+fs: 8
+hypo: form
+
+w: skirl drf noun.event:skirl
+d: play the bagpipes
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+
+w: sloganeer drf noun.communication:sloganeering drf noun.person:sloganeer
+d: coin new slogans
+fs: 2
+hypo: coin[1]
+
+w: slur drf noun.communication:slur[1]
+d: play smoothly or legato
+e: the pianist slurred the most beautiful passage in the sonata
+fs: 8
+hypo: play
+mt: noun.act:music
+
+w: smelt drf noun.artifact:smelter
+d: extract (metals) by heating
+fs: 8
+entail: verb.change:heat_up
+hypo: produce
+
+w: smock drf noun.artifact:smock drf noun.artifact:smocking
+d: embellish by sewing in straight lines crossing each other diagonally
+e: The folk dancers wore smocked shirts
+fs: 8
+hypo: adorn
+
+w: solmizate drf noun.act:solmization drf noun.communication:solmization
+d: sing using syllables like `do', `re' and `mi' to represent the tones of the scale
+e: The voice teacher showed the students how to solmizate
+fs: 2
+hypo: sing
+mt: noun.act:music
+vg: solmizate[1]
+
+w: solmizate[1] drf noun.act:solmization drf noun.communication:solmization
+d: sing by the syllables of solmization
+e: solmizate a song before you learn the lyrics
+fs: 8
+hypo: sing[1]
+mt: noun.communication:music
+vg: solmizate
+
+w: solo drf noun.communication:solo drf noun.person:soloist
+d: perform a piece written for a single instrument
+fs: 2
+hypo: perform[1]
+
+w: sonnet[1] drf noun.communication:sonnet
+d: praise in a sonnet
+fs: 8 9
+hypo: verb.communication:praise
+mt: noun.communication:poesy[2]
+
+w: sonnet drf noun.communication:sonnet
+d: compose a sonnet
+fs: 2
+hypo: poetise
+mt: noun.communication:poesy[2]
+
+w: sound_off
+w: strike_up[1]
+d: start playing
+e: The musicians struck up a tune
+fs: 2
+hypo: play[12]
+mt: noun.act:music
+mt: noun.cognition:music[1]
+mt: noun.communication:music
+
+w: sovietise
+w: sovietize
+d: model a country's social, political, and economic structure on the Soviet Union
+e: Castro sovietized Cuba
+fs: 8
+hypo: pattern
+
+w: spatchcock[1] drf noun.food:spatchcock
+d: prepare for eating if or as if a spatchcock
+e: spatchcock a guinea hen
+fs: 8
+hypo: get_up
+mt: noun.act:cookery
+
+w: spatchcock
+d: interpolate or insert (words) into a sentence or story
+fs: 8
+hypo: verb.communication:insert
+
+w: spell drf noun.communication:spelling
+w: write[3]
+d: write or name the letters that comprise the conventionally accepted form of (a word or part of a word)
+e: He spelled the word wrong in this letter
+fs: 8
+hyper: hyphen
+hyper: spell_out
+
+w: spell_out
+d: spell fully and without abbreviating
+e: Can you spell out your middle name instead of just giving the initial?
+fs: 8
+hypo: spell
+
+w: spin[1]
+d: make up a story
+e: spin a yarn
+fs: 8
+hypo: cook_up
+
+w: spin
+d: form a web by making a thread
+e: spiders spin a fine web
+fs: 11
+entail: extrude
+hypo: create_from_raw_material
+
+w: spondaise
+w: spondaize
+d: make spondaic
+e: spondaize verses
+fs: 8
+hypo: poetise
+mt: noun.communication:poesy[2]
+
+w: sporulate drf noun.process:sporulation
+d: produce spores
+e: plants sporulate
+fs: 1
+hypo: bring_forth
+mt: noun.cognition:botany
+vg: verb.change:sporulate
+
+w: stage_direct
+d: direct for the stage
+fs: 8
+hypo: direct
+mt: noun.cognition:performing_arts
+
+w: stamp drf noun.artifact:stamper drf noun.person:stamper[1] drf noun.shape:stamp
+d: form or cut out with a mold, form, or die
+e: stamp needles
+fs: 8
+hypo: form
+
+w: star drf noun.person:star drf noun.person:star[1] drf noun.person:star[2]
+d: be the star in a performance
+fs: 2 22
+hyper: co-star
+hypo: perform
+mt: noun.communication:dramatic_art
+
+w: stencil drf noun.artifact:stencil
+d: mark or print with a stencil
+fs: 8
+hypo: print[1]
+mt: noun.act:art
+
+w: stenograph
+d: write in shorthand
+e: The students were able to stenograph and record the conversation
+fs: 2
+hypo: write[1]
+
+w: stick[3]
+d: cover and decorate with objects that pierce the surface
+e: stick some feathers in the turkey before you serve it
+fs: 8
+hypo: adorn
+
+w: stipple
+d: engrave by means of dots and flicks
+fs: 8
+hypo: engrave
+mt: noun.act:art
+
+w: stipple[1] drf noun.person:stippler
+d: make by small short touches that together produce an even or softly graded shadow, as in paint or ink
+fs: 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: stipple[2] drf noun.person:stippler
+d: apply (paint) in small dots or strokes
+fs: 8
+hypo: paint[1]
+
+w: stooge drf noun.person:stooge[1]
+d: act as the stooge
+e: His role was to stooge for the popular comedian
+fs: 2
+hypo: playact
+mt: noun.communication:dramatic_art
+
+w: streamline drf noun.artifact:streamliner
+d: contour economically or efficiently
+fs: 8
+hypo: contour
+
+w: strike
+d: produce by ignition or a blow
+e: strike a match
+e: strike fire from the flintstone
+fs: 8 11
+hypo: create
+vg: verb.change:strike
+
+w: strike_up
+d: begin
+e: strike up a conversation
+e: strike up a friendship
+fs: 8
+hypo: initiate
+
+w: stucco drf noun.substance:stucco
+d: decorate with stucco work
+e: stuccoed ceilings
+fs: 8
+hypo: adorn
+
+w: stunt drf noun.act:stunt drf noun.act:stunting
+d: perform a stunt or stunts
+fs: 2
+hypo: perform
+mt: noun.cognition:performing_arts
+
+w: style drf noun.cognition:style[1] drf noun.person:styler drf noun.person:stylist[1]
+d: make consistent with a certain fashion or style
+e: Style my hair
+e: style the dress
+fs: 8
+hyper: verb.body:pompadour
+hypo: create
+mt: noun.cognition:fashion
+
+w: superscribe drf noun.act:superscription drf noun.communication:superscription
+d: write on the outside or upper part of
+e: superscribe an envelope
+fs: 8
+hypo: write[1]
+
+w: superscribe[1] drf noun.act:superscription drf noun.communication:superscription
+d: write on the top or outside
+e: superscribe one's name and address
+fs: 8
+hypo: write[1]
+
+w: support drf noun.communication:support[1]
+d: play a subordinate role to (another performer)
+e: Olivier supported Gielgud beautifully in the second act
+fs: 9
+hypo: act
+mt: noun.communication:dramatic_art
+
+w: surcharge
+d: print a new denomination on a stamp or a banknote
+fs: 8
+hypo: overprint
+
+w: sweep_away
+w: wipe_out drf noun.event:wipeout
+d: eliminate completely and without a trace
+e: The old values have been wiped out
+fs: 8 9 10 11
+hypo: destroy
+
+w: swing[3] drf noun.attribute:swing
+d: play with a subtle and intuitively felt sense of rhythm
+fs: 2
+hypo: play[12]
+mt: noun.communication:music
+
+w: symphonise
+w: symphonize drf noun.communication:symphony drf noun.group:symphony
+d: play or sound together, in harmony
+fs: 1 2
+hypo: play[12]
+mt: noun.act:music
+
+w: table
+w: tabularise
+w: tabularize
+w: tabulate drf noun.act:tabulation drf noun.communication:tabulation drf noun.group:table
+d: arrange or enter in tabular form
+fs: 8
+hypo: arrange
+
+w: tag
+d: supply (blank verse or prose) with rhymes
+fs: 8
+hypo: rhyme
+mt: noun.communication:poesy[2]
+
+w: take_off drf noun.act:takeoff[1] drf noun.communication:takeoff
+d: mimic or imitate in an amusing or satirical manner
+e: This song takes off from a famous aria
+fs: 8 9 10 11
+hypo: copy
+
+w: tap_dance drf noun.act:tap_dance
+d: perform a tap dance
+fs: 2
+hypo: dance
+mt: noun.act:dance
+mt: noun.communication:dance
+
+w: tart_up
+d: decorate in a cheap and flashy way
+e: the small-town bar was all tarted up
+fs: 8
+hypo: adorn
+
+w: tattoo drf noun.act:tattoo drf noun.artifact:tattoo
+d: stain (skin) with indelible color
+fs: 9 19
+entail: verb.contact:prick
+hypo: verb.change:stain[1]
+
+w: tee_up
+d: make detailed arrangements or preparations
+fs: 8
+hypo: arrange[3]
+
+w: think drf noun.cognition:think drf noun.cognition:thought[1]
+d: imagine or visualize
+e: Just think--you could be rich one day!
+e: Think what a scene it must have been!
+fs: 2
+hypo: envisage
+
+w: throw drf noun.person:thrower[1]
+d: make on a potter's wheel
+e: she threw a beautiful teapot
+fs: 8
+hypo: form
+
+w: tie drf noun.act:tying
+d: make by tying pieces together
+e: The fishermen tied their flies
+fs: 8
+hypo: fashion
+
+w: till drf noun.act:tillage drf noun.act:tilling drf noun.artifact:tiller[1] drf noun.object:tillage drf noun.person:tiller drf noun.substance:till
+d: work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation
+e: till the soil
+fs: 2 8
+entail: crop[1]
+hyper: hoe
+hyper: plough
+hypo: process
+mt: noun.act:agriculture
+
+w: tinsel drf noun.artifact:tinsel drf noun.artifact:tinsel[1]
+d: adorn with tinsel
+e: snow flakes tinseled the trees
+fs: 8
+hypo: adorn
+
+w: tissue
+w: weave drf noun.act:weaving drf noun.artifact:weave drf noun.person:weaver
+d: create a piece of cloth by interlacing strands of fabric, such as wool or cotton
+e: tissue textiles
+fs: 8
+hyper: braid
+hyper: brocade
+hyper: lace
+hyper: loom
+hyper: net
+hyper: twill
+hypo: create_from_raw_material
+mt: noun.act:handicraft
+
+w: tongue drf noun.body:tongue
+d: articulate by tonguing, as when playing wind instruments
+fs: 2 8
+hyper: double_tongue
+hypo: play
+mt: noun.act:music
+mt: noun.cognition:music[1]
+
+w: tool drf noun.artifact:tool
+d: work with a tool
+fs: 8
+hypo: process
+
+w: trace drf noun.artifact:trace drf noun.artifact:tracer[2]
+d: copy by following the lines of the original drawing on a transparent sheet placed upon it; make a tracing of
+e: trace a design
+e: trace a pattern
+fs: 8
+hypo: copy[1]
+
+w: track
+d: make tracks upon
+fs: 8
+hypo: create
+
+w: transcribe drf noun.person:transcriber[2]
+d: rewrite or arrange a piece of music for an instrument or medium other than that originally intended
+fs: 8
+hypo: verb.change:accommodate
+mt: noun.cognition:euphony
+
+w: transpose
+d: put (a piece of music) into another key
+fs: 8
+hypo: arrange
+mt: noun.communication:music
+
+w: travesty drf noun.communication:travesty
+d: make a travesty of
+fs: 8
+hypo: verb.communication:burlesque
+
+w: trim[1] drf noun.artifact:trim drf noun.artifact:trimming
+d: decorate, as with ornaments
+e: trim a shop window
+e: trim the christmas tree
+fs: 8
+hypo: adorn
+
+w: triplicate drf noun.artifact:triplicate
+d: reproduce threefold
+e: triplicate the letter for the committee
+fs: 8
+hypo: reproduce
+
+w: troll drf noun.communication:troll
+d: sing the parts of (a round) in succession
+fs: 8
+hypo: sing[1]
+mt: noun.act:music
+
+w: trumpet drf noun.artifact:trumpet drf noun.person:trumpeter
+d: play or blow on the trumpet
+fs: 2
+entail: verb.body:blow
+hypo: play[1]
+mt: noun.act:music
+
+w: turn_out[1] drf noun.artifact:turnout
+d: produce quickly or regularly, usually with machinery
+e: This factory turns out saws
+fs: 8 11
+hypo: produce
+
+w: tweedle
+d: play negligently on a musical instrument
+fs: 2
+hypo: play[1]
+mt: noun.act:music
+
+w: twill drf noun.artifact:twill drf noun.artifact:twill[1]
+d: weave diagonal lines into (textiles)
+fs: 8
+hypo: tissue
+
+w: typecast
+d: cast repeatedly in the same kind of role
+fs: 9
+hypo: cast[1]
+mt: noun.cognition:performing_arts
+
+w: underact ant overact
+w: underplay
+d: act (a role) with great restraint
+fs: 2 8
+hypo: playact
+mt: noun.communication:dramatic_art
+
+w: underperform
+d: perform too rarely
+e: Her plays are underperformed, although they are very good
+fs: 8
+hypo: perform[1]
+mt: noun.cognition:performing_arts
+
+w: underproduce drf noun.act:underproduction
+d: produce below capacity or demand
+e: The East German factories were underproducing for many years
+fs: 1 8 11
+hypo: produce
+
+w: undo
+w: unmake ant make[5]
+d: deprive of certain characteristics
+fs: 8
+hyper: destroy
+
+w: vamp
+w: vamp_up
+d: make up
+e: vamp up an excuse for not attending the meeting
+fs: 8
+hypo: cook_up
+
+w: vein
+d: make a veinlike pattern
+fs: 8
+hypo: verb.change:stain[1]
+
+w: vermiculate drf noun.artifact:vermiculation
+d: decorate with wavy or winding lines
+fs: 8
+hypo: adorn
+
+w: visualise[2] drf noun.cognition:visualisation
+w: visualize[2]
+d: form a mental picture of something that is invisible or abstract
+e: Mathematicians often visualize
+fs: 2
+hypo: envisage
+vg: envision
+
+w: vocalise drf noun.person:vocaliser
+w: vocalize drf adj.pert:vocal[2] drf noun.act:vocalizing drf noun.person:vocalizer
+d: sing (each note a scale or in a melody) with the same vowel
+fs: 2 8
+hypo: sing
+
+w: walk_through drf noun.act:walk-through
+d: perform in a perfunctory way, as for a first rehearsal
+fs: 8
+hypo: practice
+
+w: watercolor drf noun.artifact:watercolor drf noun.artifact:watercolor[1] drf noun.person:watercolorist drf noun.substance:watercolor
+w: watercolour drf noun.person:watercolourist
+d: paint with watercolors
+fs: 8
+hypo: paint[1]
+mt: noun.act:art
+
+w: wattle drf noun.artifact:wattle
+d: build of or with wattle
+fs: 8
+hypo: build
+mt: noun.act:building
+
+w: whip_up
+w: whomp_up
+d: prepare or cook quickly or hastily
+fs: 8
+hypo: cook
+mt: noun.act:cookery
+
+w: write[1] drf noun.person:writer[1]
+d: mark or trace on a surface
+e: Russian is written with the Cyrillic alphabet
+e: The artist wrote Chinese characters on a big piece of white paper
+fs: 2 8
+hyper: verb.communication:dot
+hyper: calligraph
+hyper: capitalise
+hyper: copy[5]
+hyper: cross[9]
+hyper: impress
+hyper: letter
+hyper: print[3]
+hyper: scrawl
+hyper: stenograph
+hyper: superscribe
+hyper: superscribe[1]
+hypo: verb.contact:delineate
+
+w: write[10]
+d: create code, write a computer program
+e: She writes code faster than anybody else
+fs: 8
+hypo: create_by_mental_act
+
+w: write_about
+w: write_of
+w: write_on
+d: write about a particular topic
+e: Snow wrote about China
+fs: 8 9
+hypo: indite
+mt: noun.act:authorship
+
+w: write_copy
+d: write for commercial publications
+e: She writes copy for Harper's Bazaar
+fs: 2
+hypo: indite
+mt: noun.act:authorship
+
+w: write_off
+d: write something fluently, and without hesitation
+fs: 8
+hypo: indite
+
+w: write_out
+w: write_up
+d: put into writing; write in complete form
+e: write out a contract
+fs: 8
+hypo: indite
+mt: noun.act:authorship
+
