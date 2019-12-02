@@ -1,2 +1,2 @@
 wn_name	wn_path	base_IRI
-en	.	https://w3id.org/own-pt/wn30-en/instances/
+en	../src	https://w3id.org/own-pt/wn30-en/instances/
