@@ -469,6 +469,22 @@ hs: limestone
 hyper: calcium_ion
 hypo: metal
 
+w: Calciarenite
+d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+hypo: limestone
+
+w: Calcilutite
+d: [lithology] A limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm (Füchtbauer, 1988; Neuendorf et al., 2005).
+hypo: limestone
+
+w: Calcirudite
+d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) > 2mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+hypo: limestone
+
+w: Calcisiltite
+d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+hypo: limestone
+
 w: Canada_balsam
 d: yellow transparent exudate of the balsam fir; used as a transparent cement in optical devices (especially in microscopy) and as a mounting medium
 hypo: oleoresin
@@ -477,6 +493,11 @@ w: Carboloy
 d: an alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools
 hypo: alloy
 mu: noun.communication:trademark
+
+w: Carbonate_sedimentary_rock
+d: [lithology] A sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite/aragonite/ dolomite). Such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources (SLTT Appendix C, 2004).
+hyper: limestone
+hypo: sedimentary_rock
 
 w: Cd
 w: atomic_number_48
@@ -504,6 +525,10 @@ w: atomic_number_98
 w: californium
 d: a radioactive transuranic element; discovered by bombarding curium with alpha particles
 hypo: metal
+
+w: Chalk
+d: [lithology] A light-coloured (white-gray) marine limestone composed almost entirely of fine crystalline calcite. These porous limestones consist of foraminifera and calcareous algae, and usually contain chert nodules (Neuendorf et al., 2005).
+hypo: limestone
 
 w: Chemical_Mace mu noun.communication:trademark
 w: Mace mu noun.communication:trademark
@@ -2223,6 +2248,10 @@ hs: apatite
 hs: monazite
 hs: xenotime
 hypo: metal
+
+w: Travertine
+d: [lithology] A rock made up of calcium carbonate precipitated biotically or abiotically from spring-fed, heated, or ambient-temperature water. The term includes tufa (Neuendorf et al., 2005).
+hypo: limestone
 
 w: Tums
 d: an antacid
@@ -11745,9 +11774,14 @@ hypo: polymer
 
 w: limestone
 d: a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
+hyper: Calciarenite
+hyper: Calcilutite
+hyper: Calcirudite
+hyper: Calcisiltite
+hyper: Chalk
+hyper: Travertine
 hyper: rottenstone
-hypo: rock
-hypo: sedimentary_rock
+hypo: Carbonate_sedimentary_rock
 ms: C
 ms: Ca
 ms: calcite
@@ -15596,12 +15630,10 @@ hyper: caliche[1]
 hyper: claystone
 hyper: conglomerate
 hyper: crushed_rock
-hyper: dolomite
 hyper: emery_rock
 hyper: fieldstone
 hyper: greisen
 hyper: igneous_rock
-hyper: limestone
 hyper: magma
 hyper: marble
 hyper: matrix
@@ -16038,10 +16070,10 @@ hypo: dirt[1]
 
 w: sedimentary_rock
 d: rock formed from consolidated clay sediments
+hyper: Carbonate_sedimentary_rock
 hyper: arenaceous_rock
 hyper: argillaceous_rock
 hyper: argillite
-hyper: limestone
 hyper: rudaceous_rock
 hyper: shale
 hyper: slate
@@ -18313,4 +18345,3 @@ hypo: oxide
 w: zymase
 d: a complex of enzymes that cause glycolysis; originally found in yeast but also present in higher organisms
 hypo: enzyme
-
