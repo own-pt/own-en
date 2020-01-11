@@ -469,21 +469,25 @@ hs: limestone
 hyper: calcium_ion
 hypo: metal
 
-w: Calciarenite
-d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+w: calciarenite
+d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
 hypo: limestone
+mt: noun.cognition:lithology
 
-w: Calcilutite
-d: [lithology] A limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm (Füchtbauer, 1988; Neuendorf et al., 2005).
+w: calcilutite
+d: A limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm (Füchtbauer, 1988; Neuendorf et al., 2005).
 hypo: limestone
+mt: noun.cognition:lithology
 
-w: Calcirudite
-d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) > 2mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+w: calcirudite
+d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) > 2mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
 hypo: limestone
+mt: noun.cognition:lithology
 
-w: Calcisiltite
-d: [lithology] A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+w: calcisiltite
+d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
 hypo: limestone
+mt: noun.cognition:lithology
 
 w: Canada_balsam
 d: yellow transparent exudate of the balsam fir; used as a transparent cement in optical devices (especially in microscopy) and as a mounting medium
@@ -493,11 +497,6 @@ w: Carboloy
 d: an alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools
 hypo: alloy
 mu: noun.communication:trademark
-
-w: Carbonate_sedimentary_rock
-d: [lithology] A sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite/aragonite/ dolomite). Such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources (SLTT Appendix C, 2004).
-hyper: limestone
-hypo: sedimentary_rock
 
 w: Cd
 w: atomic_number_48
@@ -525,10 +524,6 @@ w: atomic_number_98
 w: californium
 d: a radioactive transuranic element; discovered by bombarding curium with alpha particles
 hypo: metal
-
-w: Chalk
-d: [lithology] A light-coloured (white-gray) marine limestone composed almost entirely of fine crystalline calcite. These porous limestones consist of foraminifera and calcareous algae, and usually contain chert nodules (Neuendorf et al., 2005).
-hypo: limestone
 
 w: Chemical_Mace mu noun.communication:trademark
 w: Mace mu noun.communication:trademark
@@ -2249,10 +2244,6 @@ hs: monazite
 hs: xenotime
 hypo: metal
 
-w: Travertine
-d: [lithology] A rock made up of calcium carbonate precipitated biotically or abiotically from spring-fed, heated, or ambient-temperature water. The term includes tufa (Neuendorf et al., 2005).
-hypo: limestone
-
 w: Tums
 d: an antacid
 hypo: alkaliser
@@ -2266,6 +2257,10 @@ hypo: noun.artifact:baccy
 w: Tyrian_purple
 d: a red-purple to deep purple dye obtained from snails or made synthetically
 hypo: dye
+
+w: travertine
+d: A rock made up of calcium carbonate precipitated biotically or abiotically from spring-fed, heated, or ambient-temperature water. The term includes tufa (Neuendorf et al., 2005).
+hypo: limestone
 
 w: U[1]
 w: uracil
@@ -5508,7 +5503,6 @@ d: a common mineral consisting of crystallized calcium carbonate; a major consti
 hs: limestone
 hyper: Iceland_spar
 hyper: Mexican_onyx
-hyper: chalk
 hypo: spar
 ms: calcium_carbonate
 
@@ -5529,7 +5523,6 @@ hypo: carbide
 w: calcium_carbonate
 d: a salt found in nature as chalk or calcite or aragonite or limestone
 hs: calcite
-hs: chalk
 hyper: dripstone
 hypo: carbonate
 
@@ -5769,6 +5762,12 @@ hyper: calcium_carbonate
 hyper: magnesium_carbonate
 hyper: potassium_carbonate
 hypo: salt
+
+w: carbonate_sedimentary_rock
+d: A sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite/aragonite/ dolomite). Such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources (SLTT Appendix C, 2004).
+hyper: limestone
+hypo: sedimentary_rock
+mt: noun.cognition:lithology
 
 w: carbonic_acid drf verb.stative:carbonate
 d: a weak acid known only in solution; formed when carbon dioxide combines with water
@@ -6178,10 +6177,10 @@ hypo: mineral
 ms: Cu
 
 w: chalk drf adj.all:chalky
-d: a soft whitish calcite
+d: a soft whitish calciteA light-coloured (white-gray) marine limestone composed almost entirely of fine crystalline calcite. These porous limestones consist of foraminifera and calcareous algae, and usually contain chert nodules (Neuendorf et al., 2005).
 hs: noun.artifact:chalk
-hypo: calcite
-ms: calcium_carbonate
+hypo: limestone
+mt: noun.cognition:lithology
 
 w: chalk_dust
 d: dust resulting from writing with a piece of chalk
@@ -11774,14 +11773,14 @@ hypo: polymer
 
 w: limestone
 d: a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
-hyper: Calciarenite
-hyper: Calcilutite
-hyper: Calcirudite
-hyper: Calcisiltite
-hyper: Chalk
-hyper: Travertine
+hyper: calciarenite
+hyper: calcilutite
+hyper: calcirudite
+hyper: calcisiltite
+hyper: chalk
 hyper: rottenstone
-hypo: Carbonate_sedimentary_rock
+hyper: travertine
+hypo: carbonate_sedimentary_rock
 ms: C
 ms: Ca
 ms: calcite
@@ -16069,11 +16068,11 @@ d: clay soil formed by sedimentary deposits
 hypo: dirt[1]
 
 w: sedimentary_rock
-d: rock formed from consolidated clay sediments
-hyper: Carbonate_sedimentary_rock
+d: A rock formed form the consolidation of sediments (by processes of compaction, cementation, crystallisation, or biogenic binding) yielded by one or more depositional processes operating within fluid systems (either aqueous or gaseous) (modified from Neuendorf et al., 2005; SLTT Appendix C, 2004).
 hyper: arenaceous_rock
 hyper: argillaceous_rock
 hyper: argillite
+hyper: carbonate_sedimentary_rock
 hyper: rudaceous_rock
 hyper: shale
 hyper: slate
