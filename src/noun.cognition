@@ -13484,6 +13484,13 @@ hypo: arts
 w: lithology
 w: petrology
 d: the branch of geology that studies rocks: their origin and formation and mineral composition and classification
+dt: noun.substance:calciarenite
+dt: noun.substance:calcilutite
+dt: noun.substance:calcirudite
+dt: noun.substance:calcisiltite
+dt: noun.substance:carbonate_sedimentary_rock
+dt: noun.substance:chalk
+dt: noun.substance:travertine
 hypo: geomorphology
 
 w: lithomancy drf adj.pert:lithomantic drf noun.person:lithomancer
@@ -21098,4 +21105,3 @@ w: zymology
 w: zymurgy
 d: the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)
 hypo: biochemistry
-
