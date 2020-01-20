@@ -463,6 +463,7 @@ w: atomic_number_20
 w: calcium drf verb.change:calcify drf verb.change:calcify[1] drf verb.change:calcify[2]
 d: a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals
 hs: burnt_lime
+hs: dolomite[1]
 hs: fluor
 hs: gypsum
 hs: limestone
@@ -1488,6 +1489,7 @@ w: magnesium
 d: a light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine)
 hs: bitter_spar
 hs: carnallite
+hs: dolomite[1]
 hs: magnesia
 hs: magnesite
 hs: olivine
@@ -4823,8 +4825,10 @@ hypo: chemical_compound
 
 w: bitter_spar
 w: dolomite[1] drf adj.pert:dolomitic
-d: a light colored mineral consisting of calcium magnesium carbonate; a source of magnesium; used as a ceramic and as fertilizer
+d: a light colored mineral consisting of calcium magnesium carbonate (CaMg(CO3)2); a source of magnesium; used as a ceramic and as fertilizer
 hypo: mineral
+ms: carbonate
+ms: Ca
 ms: Mg
 
 w: bitumen drf adj.pert:bituminous drf verb.change:bituminize
@@ -5762,6 +5766,7 @@ hyper: calcium_carbonate
 hyper: magnesium_carbonate
 hyper: potassium_carbonate
 hypo: salt
+hs: dolomite[1]
 
 w: carbonate_sedimentary_rock
 d: A sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite/aragonite/ dolomite). Such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources (SLTT Appendix C, 2004).
@@ -8049,8 +8054,8 @@ d: soft leather from deerskin or lambskin
 hypo: leather
 
 w: dolomite drf adj.pert:dolomitic
-d: a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate
-hypo: rock
+d: A carbonate sedimentary rock composed of > 90% dolomite and < 10% calcite. Usually formed by diagenesis and dolomitization of calcite and aragonite (Neuendorf et al., 2005; Vinx 2005).
+hypo: carbonate_sedimentary_rock
 
 w: dolphin_oil
 d: an unsaturated fatty oil obtained from dolphins and used as a fine lubricant
@@ -18344,3 +18349,4 @@ hypo: oxide
 w: zymase
 d: a complex of enzymes that cause glycolysis; originally found in yeast but also present in higher organisms
 hypo: enzyme
+
