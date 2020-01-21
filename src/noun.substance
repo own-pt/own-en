@@ -8832,6 +8832,7 @@ hypo: oil
 w: fault_rock
 d: A rock formed as a result of deformation in a fault zone (Fettes & Desmons, 2007)
 hyper: rauwacke
+mt: noun.cognition:lithology
 
 w: fecula
 d: excreta (especially of insects)
@@ -18492,4 +18493,3 @@ hypo: oxide
 w: zymase
 d: a complex of enzymes that cause glycolysis; originally found in yeast but also present in higher organisms
 hypo: enzyme
-
