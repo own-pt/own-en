@@ -187,12 +187,25 @@ hs: air
 hypo: argonon
 hypo: chemical_element
 
+w: arenite
+d: a sandstone with sand-sized grains and < 15% matrix material (< 30 µm); the relative proportions of feldspar, quartz, and lithic fragments are not defined
+hyper: arkose
+hyper: litharenite
+hyper: quartz_arenite
+hypo: sandstone[2]
+mt: noun.cognition:lithology
+
 w: Aristocort mu noun.communication:trade_name
 w: Aristopak mu noun.communication:trade_name
 w: Kenalog mu noun.communication:trade_name
 w: triamcinolone
 d: a synthetic corticosteroid (trade names Aristocort or Aristopak or Kenalog) used as an anti-inflammatory agent
 hypo: adrenal_cortical_steroid
+
+w: arkose
+d: an arenite with feldspar > 25% and quartz as major constituents; it can also contain lithic fragments; alkali-feldspar dominates the total feldspar; most arkoses are derived from granites or gneisses
+hypo: arenite
+mt: noun.cognition:lithology
 
 w: As
 w: arsenic drf adj.pert:arsenical drf adj.pert:arsenious
@@ -463,6 +476,7 @@ w: atomic_number_20
 w: calcium drf verb.change:calcify drf verb.change:calcify[1] drf verb.change:calcify[2]
 d: a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals
 hs: burnt_lime
+hs: dolomite[1]
 hs: fluor
 hs: gypsum
 hs: limestone
@@ -470,22 +484,22 @@ hyper: calcium_ion
 hypo: metal
 
 w: calciarenite
-d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm; interstices are filled with carbonate mud or cement
 hypo: limestone
 mt: noun.cognition:lithology
 
 w: calcilutite
-d: A limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm (Füchtbauer, 1988; Neuendorf et al., 2005).
+d: a limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm
 hypo: limestone
 mt: noun.cognition:lithology
 
 w: calcirudite
-d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) > 2mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) > 2mm; interstices are filled with carbonate mud or cement
 hypo: limestone
 mt: noun.cognition:lithology
 
 w: calcisiltite
-d: A limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm. Interstices are filled with carbonate mud or cement (Füchtbauer, 1988; Neuendorf et al., 2005).
+d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm; interstices are filled with carbonate mud or cement
 hypo: limestone
 mt: noun.cognition:lithology
 
@@ -1488,6 +1502,7 @@ w: magnesium
 d: a light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine)
 hs: bitter_spar
 hs: carnallite
+hs: dolomite[1]
 hs: magnesia
 hs: magnesite
 hs: olivine
@@ -4823,9 +4838,12 @@ hypo: chemical_compound
 
 w: bitter_spar
 w: dolomite[1] drf adj.pert:dolomitic
-d: a light colored mineral consisting of calcium magnesium carbonate; a source of magnesium; used as a ceramic and as fertilizer
+d: a light colored mineral consisting of calcium magnesium carbonate (CaMg(CO3)2); a source of magnesium; used as a ceramic and as fertilizer
+hs:  dolomitic_marlstone
 hypo: mineral
+ms: Ca
 ms: Mg
+ms: carbonate
 
 w: bitumen drf adj.pert:bituminous drf verb.change:bituminize
 d: any of various naturally occurring impure mixtures of hydrocarbons
@@ -5485,6 +5503,18 @@ w: tufa
 d: a soft porous rock consisting of calcium carbonate deposited from springs rich in lime
 hypo: rock
 
+w: calcareous_marlstone
+d: a mixed carbonate-clastic rock in which the clastic portion is restricted to clay-sized components; consists of 25-50% clay and 50-75% calcite
+hypo: marlstone
+ms: calcite
+mt: noun.cognition:lithology
+
+w: calcareous_sandstone
+d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 25-50% calcite and 50-75% sand
+hypo: clastic_sedimentary_rock
+ms: calcite
+mt: noun.cognition:lithology
+
 w: calcedony
 w: chalcedony
 d: a milky or greyish translucent to transparent quartz
@@ -5755,6 +5785,7 @@ hypo: chemical
 
 w: carbonate drf verb.change:carbonate drf verb.stative:carbonate
 d: a salt or ester of carbonic acid (containing the anion CO3)
+hs: dolomite[1]
 hyper: Eskalith
 hyper: ammonium_carbonate
 hyper: bicarbonate
@@ -5763,8 +5794,9 @@ hyper: magnesium_carbonate
 hyper: potassium_carbonate
 hypo: salt
 
+
 w: carbonate_sedimentary_rock
-d: A sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite/aragonite/ dolomite). Such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources (SLTT Appendix C, 2004).
+d: a sedimentary rock in which ≥ 50% of the primary and (or) re-crystallized constituents are composed of carbonate minerals (calcite, aragonite or  dolomite); such materials are intra-basinal in origin - that is, they formed by processes operating within a depositional regime, and were not transported into that regime from other sediment sources
 hyper: limestone
 hypo: sedimentary_rock
 mt: noun.cognition:lithology
@@ -6177,7 +6209,7 @@ hypo: mineral
 ms: Cu
 
 w: chalk drf adj.all:chalky
-d: a soft whitish calciteA light-coloured (white-gray) marine limestone composed almost entirely of fine crystalline calcite. These porous limestones consist of foraminifera and calcareous algae, and usually contain chert nodules (Neuendorf et al., 2005).
+d: a light-coloured (white-gray) marine limestone composed almost entirely of fine crystalline calcite; these porous limestones consist of foraminifera and calcareous algae, and usually contain chert nodules
 hs: noun.artifact:chalk
 hypo: limestone
 mt: noun.cognition:lithology
@@ -6752,6 +6784,21 @@ w: weatherboarding
 d: a long thin board with one edge thicker than the other; used as siding by lapping one board over the board below
 hypo: siding
 
+w: clastic_sedimentary_rock
+d: A consolidated sedimentary rock consisting of > 50% clastic sediments (fragments of any kind of rock that have been transported by mechanical agents such as wind, water, ice or gravity prior to deposition); the term includes mixed carbonate-clastic sedimentary rocks
+hyper: breccia
+hyper: calcareous_sandstone
+hyper: claystone
+hyper: conglomerate
+hyper: diamictite
+hyper: dolomitic_marlstone
+hyper: marlstone
+hyper: sandstone
+hyper: shale
+hyper: siltstone
+hypo: sedimentary_rock
+mt: noun.cognition:lithology
+
 w: clay[2]
 w: mud drf adj.all:muddy drf verb.contact:mud drf verb.contact:mud[1]
 d: water soaked soil; soft wet earth
@@ -6778,9 +6825,16 @@ hyper: red_clay
 hypo: dirt[1]
 ms: Si
 
+w: clay_marlstone
+d: a marlstone that consists of 50-75% clay and 25-50% calcite
+hypo: marlstone
+ms: calcite
+mt: noun.cognition:lithology
+
 w: claystone
-d: fine-grained rock consisting of compacted clay particles
-hypo: rock
+d: fine-grained clastic sedimentary rock consisting of compacted clay particles
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
 
 w: clotting_factor
 w: coagulation_factor
@@ -6853,6 +6907,16 @@ w: coal_tar
 d: a tar formed from distillation of bituminous coal; coal tar can be further distilled to give various aromatic compounds
 hypo: pitch
 ms: naphthalene
+
+w: coarse_sandstone
+d: a sandstone with a median grain size between 0.63 and 2 mm
+hypo: sandstone[2]
+mt: noun.cognition:lithology
+
+w: coarse_siltstone
+d: a siltstone with a median grain size between 0.0063 and 0.02 mm
+hypo: siltstone
+mt: noun.cognition:lithology
 
 w: cobalt_60
 d: a radioactive isotope of cobalt with mass number 60; a source of exceptionally intense gamma rays; used in radiation therapy
@@ -7112,8 +7176,9 @@ hypo: chemical
 
 w: conglomerate drf adj.all:conglomerate
 w: pudding_stone
-d: a composite rock made up of particles of varying size
-hypo: rock
+d: a clastic sedimentary rock that contains > 50% rounded mineral and rock fragments with a median grain size > 2mm (the consolidated equivalent of gravel); the matrix can contain sandy or clay-sized particles but the rock is usually clast-supported; the term includes monomict and polymict conglomerates, i.e. conglomerates with homogeneous or heterogeneous lithological components
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
 
 w: congo_copal
 w: congo_gum
@@ -7817,6 +7882,11 @@ w: diamine
 d: any organic compound containing two amino groups
 hypo: organic_compound
 
+w: diamictite
+d: a poorly sorted to unsorted clastic sedimentary rock that contains rounded and/or unrounded gravel-sized components that are matrix-supported in silt and clay; the consolidated equivalent of diamicton; the term is non-genetic but includes genetic terms such as tillite
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
+
 w: diatomaceous_earth
 w: diatomite
 w: kieselguhr
@@ -8049,8 +8119,16 @@ d: soft leather from deerskin or lambskin
 hypo: leather
 
 w: dolomite drf adj.pert:dolomitic
-d: a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate
-hypo: rock
+d: a carbonate sedimentary rock composed of > 90% dolomite and < 10% calcite; usually formed by diagenesis and dolomitization of calcite and aragonite
+hypo: carbonate_sedimentary_rock
+mt: noun.cognition:lithology
+
+w: dolomitic_marlstone
+d: a mixed carbonate-clastic sedimentary rock in which the clastic portion is restricted to clay-sized components; dolomitic marl consists of 25-75% clay and 25-75% of dolomite; dolomitic marlstone is less common than calcareous marlstone
+hypo: clastic_sedimentary_rock
+ms: dolomite[1]
+mt: noun.cognition:lithology
+
 
 w: dolphin_oil
 d: an unsaturated fatty oil obtained from dolphins and used as a fine lubricant
@@ -8751,6 +8829,12 @@ w: fixed_oil
 d: nonvolatile animal or plant oil
 hypo: oil
 
+w: fault_rock
+d: a rock formed as a result of deformation in a fault zone (Fettes & Desmons, 2007)
+hyper: rauwacke
+hypo: rock
+mt: noun.cognition:lithology
+
 w: fecula
 d: excreta (especially of insects)
 hypo: body_waste
@@ -8944,6 +9028,16 @@ d: the product of filtration; a gas or liquid that has been passed through a fil
 hyper: percolate
 hypo: fluid[2]
 hypo: product
+
+w: fine_sandstone
+d: a sandstone with a median grain size between 0.063 and 0.2 mm
+hypo: sandstone[2]
+mt: noun.cognition:lithology
+
+w: fine_siltstone
+d: a siltstone with a median grain size between 0.002 and 0.0063 mm
+hypo: siltstone
+mt: noun.cognition:lithology
 
 w: fire
 d: fuel that is burning and is used as a means for cooking
@@ -11917,6 +12011,11 @@ d: a liquid substance that is a solution (or emulsion or suspension) used or obt
 e: waste liquors
 hypo: liquid[4]
 
+w: litharenite
+d: an arenite that is characterised by > 25% lithic fragments and < 75% quartz; can contain feldspar but the feldspar components are subordinate to the lithic components; the composition is very variable and dependent on the source material
+hypo: arenite
+mt: noun.cognition:lithology
+
 w: lithia_water
 d: mineral water containing lithium salts
 hypo: noun.food:mineral_water[1]
@@ -12225,8 +12324,11 @@ hypo: dirt[1]
 
 w: marlite
 w: marlstone
-d: metamorphic rock with approximately the same composition as marl
-hypo: metamorphic_rock
+d: A mixed carbonate-clastic rock in which the clastic portion is restricted to clay-sized components; consists of 25-75% clay and 25-75% of calcite
+hyper: calcareous_marlstone
+hyper: clay_marlstone
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
 
 w: marsh_gas
 d: methane gas produced when vegetation decomposes in water
@@ -12358,6 +12460,16 @@ d: (biology) a substance in which specimens are preserved or displayed
 hyper: contrast_material
 hypo: noun.Tops:substance
 mt: noun.cognition:biological_science
+
+w: medium_sandstone
+d: a sandstone with a median grain size between 0.2 and 0.63 mm
+hypo: sandstone[2]
+mt: noun.cognition:lithology
+
+w: medium_siltstone
+d: a siltstone with a median grain size between 0.0063 and 0.02 mm
+hypo: siltstone
+mt: noun.cognition:lithology
 
 w: medium_steel
 d: steel with 0.15-0.3% carbon
@@ -15246,6 +15358,11 @@ hypo: mineral
 ms: Si
 ms: silica
 
+w: quartz_arenite
+d: an arenite comprising > 95% quartz grains
+hypo: arenite
+mt: noun.cognition:lithology
+
 w: quartzite
 d: hard metamorphic rock consisting essentially of interlocking quartz crystals
 hypo: rock
@@ -15337,6 +15454,12 @@ w: rain drf adj.all:rainy drf verb.weather:rain
 w: rainwater
 d: drops of fresh water that fall as precipitation from clouds
 hypo: fresh_water
+
+w: rauwacke
+d: a carbonate sedimentary rock that consists of cellular or porous limestone or dolostone in which secondary dissolution of readily soluble material (gypsum/anhydrite) has formed cavities; mainly formed by sedimentary or tectonic processes
+hypo: carbonate_sedimentary_rock
+hypo: fault_rock
+mt: noun.cognition:lithology
 
 w: rauwolfia
 d: any of several alkaloids extracted from the shrub Rauwolfia serpentina
@@ -15630,6 +15753,7 @@ hyper: claystone
 hyper: conglomerate
 hyper: crushed_rock
 hyper: emery_rock
+hyper: fault_rock
 hyper: fieldstone
 hyper: greisen
 hyper: igneous_rock
@@ -15914,6 +16038,22 @@ hyper: grit
 hyper: siltstone
 hypo: arenaceous_rock
 
+w: sandstone[2]
+d: a clastic sedimentary rock with a median grain size between 0.063 and 2 mm
+hyper: arenite
+hyper: coarse_sandstone
+hyper: fine_sandstone
+hyper: medium_sandstone
+hyper: wacke
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
+
+w: sandy_limestone
+d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 50-75% calcite and 25-50% sand
+hypo: carbonate_sedimentary_rock
+ms: calcite
+mt: noun.cognition:lithology
+
 w: sap drf adj.all:sappy[1]
 d: a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant
 hyper: noun.plant:manna
@@ -16151,10 +16291,11 @@ d: building material used as siding or roofing
 hypo: building_material
 
 w: shale
-d: a sedimentary rock formed by the deposition of successive layers of clay
+d: a clastic sedimentary rock formed by the deposition of successive layers of clay
 hyper: humic_shale
 hyper: oil_shale
-hypo: sedimentary_rock
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
 
 w: shale_oil
 d: oil extracted from oil shale by heating
@@ -16293,8 +16434,12 @@ d: mud or clay or small rocks deposited by a river or lake
 hypo: dirt[1]
 
 w: siltstone
-d: a fine-grained sandstone of consolidated silt
-hypo: sandstone
+d: a clastic sedimentary rock with a median grain size between 0.002 and 0.063 mm
+hyper: coarse_siltstone
+hyper: fine_siltstone
+hyper: medium_siltstone
+hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
 
 w: silver_bromide
 d: a bromide that darkens when exposed to light; used in making photographic emulsions
@@ -17924,6 +18069,11 @@ hyper: lava
 hyper: tuff
 hyper: volcanic_glass
 hypo: igneous_rock
+
+w: wacke
+d: a sandstone with > 15% matrix material (components < 30 µm); the relative proportions of the different components in the sandstone (feldspar and/or quartz and/or lithic fragments) are variable
+hypo: sandstone[2]
+mt: noun.cognition:lithology
 
 w: wad
 d: a small mass of soft material
