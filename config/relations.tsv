@@ -38,7 +38,8 @@ property	_	prp	property	n,v	word	...
 result	_	res	result	n,v	word	...
 sameVerbGroupAs	$	vg	sameVerbGroupAs	v	synset,word	Verb Group
 seeAlso	^	see	seeAlso	v,a	synset,word	Also see
-similarTo	&	sim	similarTo	a,s	synset	Similar to
+similarTo	&	sim	similarTo	a,s	synset	Similar to (head -> satellite)
+satelliteOf	&	so	satelliteOf	a,s	synset	Similar to (satellite -> head)
 state	_	stt	state	n,v	word	...
 substanceHolonymOf	#s	hs	substanceHolonymOf	n	synset	Substance holonym
 substanceMeronymOf	%s	ms	substanceMeronymOf	n	synset	Substance meronym
