@@ -2240,10 +2240,6 @@ w: Tyrian_purple
 d: a red-purple to deep purple dye obtained from snails or made synthetically
 hypo: dye
 
-w: travertine
-d: A rock made up of calcium carbonate precipitated biotically or abiotically from spring-fed, heated, or ambient-temperature water. The term includes tufa (Neuendorf et al., 2005).
-hypo: limestone
-
 w: U[1]
 w: uracil
 d: a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine
@@ -3706,6 +3702,12 @@ w: anabolic_steroid
 d: any of a group of synthetic steroid hormones used to stimulate muscle and bone growth; more than 100 have been developed and each requires a prescription to be used legally in the United States; sometimes used illicitly by athletes to increase their strength
 hypo: sex_hormone
 
+w: anatexite
+w: migmatite
+d: a composite silicate metamorphic rock, pervasively  heterogeneous on a meso- to megascopic scale. it typically consists of darker and lighter parts: the darker parts (melanosomes or paleosomes) usually exhibit features of metamorphic rocks whereas the lighter parts (leucosomes or neosomes) are of igneous appearance
+hypo: migmatic_rock
+mt: noun.cognition:lithology
+
 w: anatoxin
 w: toxoid
 d: a bacterial toxin that has been weakened until it is no longer toxic but is strong enough to induce the formation of antibodies and immunity to the specific disease caused by the toxin
@@ -4092,17 +4094,12 @@ w: orchil
 d: a purplish dye obtained from orchil lichens
 hypo: dye
 
-w: arenaceous_rock
-d: a sedimentary rock composed of sand
-hyper: sandstone
-hypo: sedimentary_rock
-
 w: arenite
 d: a sandstone with sand-sized grains and <15% matrix material (<30 µm); the relative proportions of feldspar, quartz, and lithic fragments are not defined
 hyper: arkose
 hyper: litharenite
 hyper: quartz_arenite
-hypo: sandstone[2]
+hypo: sandstone
 mt: noun.cognition:lithology
 
 w: argent drf adj.all:argent
@@ -4252,6 +4249,13 @@ hypo: residue
 w: ash[2]
 d: unconsolidated pyroclastic deposit in which >75% of the material has a grain size <2 mm
 hypo: tephra
+mt: noun.cognition:lithology
+
+w: ash_tuff
+w: tufa[1]
+w: tuff
+d: pyroclastic rock with more than 75% ash (diameter <2mm)
+hypo: pyroclastic_rock
 mt: noun.cognition:lithology
 
 w: asparagine
@@ -4632,7 +4636,6 @@ hypo: H2O
 w: batholite drf adj.pert:batholitic
 w: batholith drf adj.pert:batholithic
 w: pluton drf adj.all:plutonic
-w: plutonic_rock
 d: large mass of intrusive igneous rock believed to have solidified deep within the earth
 hyper: granite
 hypo: igneous_rock
@@ -5380,10 +5383,9 @@ ms: Cu
 w: brown_coal
 w: lignite
 w: wood_coal
-d: intermediate between peat and bituminous coal
-hyper: jet
+d: a brown, consolidated, organic sedimentary material having a calorific value of <19.31 mj/kg  on a moist mineral-free basis, with <75% moisture and <69% fixed carbon
 hypo: coal
-hypo: humate
+mt: noun.cognition:lithology
 
 w: brownstone
 d: a reddish brown sandstone; used in buildings
@@ -7171,7 +7173,7 @@ mt: noun.cognition:lithology
 
 w: coarse_sandstone
 d: a sandstone with a median grain size between 0.63 and 2 mm
-hypo: sandstone[2]
+hypo: sandstone
 mt: noun.cognition:lithology
 
 w: coarse_silt
@@ -9409,7 +9411,7 @@ mt: noun.cognition:lithology
 
 w: fine_sandstone
 d: a sandstone with a median grain size between 0.063mm and 0.2mm
-hypo: sandstone[2]
+hypo: sandstone
 mt: noun.cognition:lithology
 
 w: fine_silt
@@ -10092,6 +10094,11 @@ ms: Ho
 ms: Tb
 ms: Y
 ms: Yb
+
+w: gagate
+w: jet
+d: formed from drift wood, which has been impregnated with bitumen in a sapropel forming environment; was not used energetically, but has always been a well sought-for gemstone
+hypo: brown_coal
 
 w: galactagogue
 d: agent that induces milk secretion
@@ -10936,10 +10943,10 @@ hyper: tetrahalide
 hypo: salt
 
 w: halite
-w: rock_salt
 d: naturally occurring crystalline sodium chloride
 hypo: common_salt
 hypo: mineral
+ms: Cl
 ms: Na
 
 w: halitosis
@@ -12007,10 +12014,6 @@ d: any substance having the consistency of jelly or gelatin
 hyper: mineral_jelly
 hypo: noun.Tops:substance[1]
 
-w: jet
-d: a hard black form of lignite that takes a brilliant polish and is used in jewelry or ornamentation
-hypo: brown_coal
-
 w: joss_stick
 d: a slender stick of incense burned before a joss by the Chinese
 hypo: incense
@@ -12287,6 +12290,11 @@ w: shatterproof_glass
 d: glass made with plates of plastic or resin or other material between two sheets of glass to prevent shattering
 hypo: glass
 
+w: lamprophyre
+d: a magmatic rock that is highly porphyric in mafic minerals (biotite, amphibole, pyroxene), with any feldspar being confined to the groundmass; commonly occur as dykes or small intrusions; includes, for example, minettes, kersantites, vogesites, spessartites, etc
+hypo: plutonic_rock
+mt: noun.cognition:lithology
+   
 w: langbeinite
 d: a mineral consisting of potassium magnesium double sulphate; used as a fertilizer
 hypo: mineral
@@ -12311,6 +12319,21 @@ hypo: noun.Tops:group
 w: lanthanide_series
 d: the rare-earth elements with atomic numbers 57 through 71; having properties similar to lanthanum
 hypo: noun.group:series
+
+w: lapilli_tephra
+d: unconsolidated pyroclastic deposit with more than 75% lapilli (diameter between 2mm and 64mm)
+hypo: tephra
+mt: noun.cognition:lithology
+
+w: lapilli_tuff
+d: pyroclastic rock consisting of less than 25% bombs/blocks and more than 75% lapilli and ash
+hypo: pyroclastic_rock
+mt: noun.cognition:lithology
+
+w: lapillistone
+d: pyroclastic rock with more than 75% lapilli (diameter between 2mm and 64mm)
+hypo: pyroclastic_rock
+mt: noun.cognition:lithology
 
 w: lapin
 w: rabbit drf verb.competition:rabbit
@@ -12351,6 +12374,12 @@ w: lath_and_plaster
 d: a building material consisting of thin strips of wood that provide a foundation for a coat of plaster
 hypo: building_material
 
+w: latite
+d: a volcanic rock consisting of approximately equal amounts of sodic plagioclase and alkali feldspar; volcanic equivalent of monzonite
+hypo: trachytic_rock
+ms: plagioclase
+mt: noun.cognition:lithology
+   
 w: latten
 d: brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils
 hypo: brass
@@ -12511,7 +12540,7 @@ hs: wood
 hypo: polymer
 
 w: limestone
-d: a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
+d: a carbonate sedimentary rock composed of >95% calcite (and aragonite) and <5% dolomite
 hyper: calciarenite
 hyper: calcilutite
 hyper: calcirudite
@@ -12523,6 +12552,7 @@ hypo: carbonate_sedimentary_rock
 ms: C
 ms: Ca
 ms: calcite
+mt: noun.cognition:lithology
 
 w: limewater
 d: solution of calcium hydroxide in water used as an antacid
@@ -12657,7 +12687,7 @@ e: waste liquors
 hypo: liquid[4]
 
 w: litharenite
-d: an arenite that is characterised by > 25% lithic fragments and < 75% quartz; can contain feldspar but the feldspar components are subordinate to the lithic components; the composition is very variable and dependent on the source material
+d: an arenite that is characterised by >25% lithic fragments and <75% quartz; can contain feldspar but the feldspar components are subordinate to the lithic components; the composition is very variable and dependent on the source material
 hypo: arenite
 mt: noun.cognition:lithology
 
@@ -12691,10 +12721,12 @@ hypo: noun.artifact:permanent_magnet
 ms: magnetic_iron-ore
 
 w: loam drf adj.all:loamy
-d: a rich soil consisting of a mixture of sand and clay and decaying organic materials
+d: a clastic sediment comprising a mixture of sand, silt, and clay, often exhibiting a yellow/brown colour and usually free of carbonate material  (occasionally with minor carbonate); often forms as an alteration product of pre-existing  unconsolidated or consolidated rocks; includes loess, altered (in situ) loam, and transported loam
 hyper: chernozemic_soil
 hyper: regur
+hypo: clastic_sediment
 hypo: dirt[1]
+mt: noun.cognition:lithology
 
 w: loess
 d: a fine-grained unstratified accumulation of clay and silt deposited by the wind
@@ -12951,9 +12983,14 @@ d: sugar made from the sap of the sugar maple tree
 hypo: carbohydrate
 
 w: marble drf adj.pert:marmoreal drf adj.pert:marmorean drf verb.change:marbleize drf verb.creation:marble
-d: a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material
+d: a metamorphic rock containing >50% volume of carbonate minerals (calcite and/or aragonite and/or dolomite) that takes a high polish; used for sculpture and as building material
+hyper: calcitic_marble
+hyper: dolomitic_marble
+hyper: impure_marble
+hyper: pure_marble
 hyper: verd_antique
-hypo: rock
+hypo: metacarbonatic_rock
+mt: noun.cognition:lithology
 
 w: marine_glue
 d: glue that is not water soluble
@@ -12964,15 +13001,22 @@ d: an indelible ink for marking clothes or linens etc.
 hypo: indelible_ink
 
 w: marl drf adj.pert:marly
-d: a loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime
-hypo: dirt[1]
-
+d: a mixed carbonate-clastic sediment in which the clastic portion is restricted to clay-sized components; consists of 25 to 75% clay and  25 to 75% of calcite; used as a fertilizer for soils deficient in lime
+hyper: calcareous_marl
+hyper: clay_marl
+hypo: clastic_sediment
+ms: calcite
+ms: clay[3]
+mt: noun.cognition:lithology
+   
 w: marlite
 w: marlstone
 d: A mixed carbonate-clastic rock in which the clastic portion is restricted to clay-sized components; consists of 25-75% clay and 25-75% of calcite
 hyper: calcareous_marlstone
 hyper: clay_marlstone
 hypo: clastic_sedimentary_rock
+ms: calcite
+ms: clay[3]
 mt: noun.cognition:lithology
 
 w: marsh_gas
@@ -13106,11 +13150,26 @@ hyper: contrast_material
 hypo: noun.Tops:substance
 mt: noun.cognition:biological_science
 
-w: medium_sandstone
-d: a sandstone with a median grain size between 0.2 and 0.63 mm
-hypo: sandstone[2]
+w: medium_gravel
+d: a clastic sedimentary rock that contains >50% rounded mineral and rock fragments with a median grain size between 6.3 mm and 20 mm
+hypo: gravel
 mt: noun.cognition:lithology
 
+w: medium_sand
+d: a clastic sediment with a median grain size between 0.2mm and 0.63 mm
+hypo: sand
+mt: noun.cognition:lithology
+
+w: medium_sandstone
+d: a sandstone with a median grain size between 0.2 and 0.63 mm
+hypo: sandstone
+mt: noun.cognition:lithology
+
+w: medium_silt
+d: a clastic sediment with a median grain size between 0.0063mm and 0.02mm
+hypo: silt
+mt: noun.cognition:lithology
+   
 w: medium_siltstone
 d: a siltstone with a median grain size between 0.0063 and 0.02 mm
 hypo: siltstone
@@ -13199,9 +13258,33 @@ hs: noun.artifact:Norinyl
 hs: noun.artifact:Ovulen
 hypo: estrogen
 
+w: metabasalt
+d: a basalt that has been metamorphosed
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
 w: metabolite
 d: any substance involved in metabolism (either as a product of metabolism or as necessary for metabolism)
 hypo: noun.Tops:substance[1]
+
+w: metacarbonatic_rock
+d: a metamorphic (metasomatic) carbonate and/or carbonate-bearing and/or calc-silicate rock which, in the case of calc-silicate rocks, can be carbonate-free; includes carbonate-bearing silicate rocks
+hyper: calc-silicate_rock
+hyper: carbonate-silicate_rock
+hyper: marble
+hyper: ophicarbonate
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
+w: metagabbro
+d: a gabbro that has been metamorphosed
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
+w: metagranite
+d: a granite that has been metamorphosed
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: metal drf adj.all:metallic drf verb.contact:metal
 w: metallic_element
@@ -13290,17 +13373,56 @@ d: acid dye in which the negative ion contains a chelated metal atom
 hypo: acid_dye
 
 w: metamorphic_rock
-d: rock altered by pressure and heat
+w: metamorphite
+d: a rock derived from pre-existing rocks by mineralogical, chemical or structural changes that have taken place essentially in a solid state, in response to marked changes in temperature, pressure and shearing stress and chemical environment (in any combination), generally at depth in the earth's crust
 hyper: amphibolite
+hyper: contact-metamorphic_rock
 hyper: gneiss
-hyper: hornfels
-hyper: marlite
+hyper: granulite
+hyper: high-pressure_metamorphic_rock
+hyper: metabasalt
+hyper: metacarbonatic_rock
+hyper: metagabbro
+hyper: metagranite
+hyper: metasiliciclastic_sedimentary_rock
+hyper: metasomatic_rock
+hyper: metavolcaniclastic_rock
+hyper: migmatic_rock
+hyper: prasinite
+hyper: quartzite
 hyper: schist
+hyper: serpentinite
+hyper: spilite
+hypo: composite_genesis_material
 hypo: rock
+mt: noun.cognition:lithology
 
 w: metaphosphoric_acid
 d: a glassy solid acid ([HPO3]n) often used as a dehydrating agent
 hypo: polyphosphoric_acid
+
+w: metasiliciclastic_sedimentary_rock
+d: a term for siliciclastic rocks that show evidence of having been subjected to metamorphism
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
+w: metasomatic_rock
+w: metasomatite
+d: a metamorphic rock which has had its chemical composition substantially changed by alteration of its original constituents; metasomatism is a pervasive open-system metamorphic process in which the original chemical composition of a rock is changed by reaction with an external fluid medium
+hyper: greisen
+hyper: skarn
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
+w: metatexite
+d: a variety of migmatite with discrete leucosomes, mesosomes and melanosomes; rocks formed in the initial stages of anatexis
+hypo: migmatic_rock
+mt: noun.cognition:lithology
+
+w: metavolcaniclastic_rock
+d: a term for volcanoclastic rocks, that show evidence of having been subjected to metamorphism
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: methane
 d: a colorless odorless gas used as a fuel
@@ -13366,6 +13488,16 @@ w: methyltestosterone
 d: an androgenic compound contained in drugs that are used to treat testosterone deficiency and female breast cancer and to stimulate growth and weight gain
 hypo: androgen
 
+w: mica_schist
+d: a variety of schist with mica as the only major constituent, subordinate quartz and <20% feldspar
+hyper: andalusite-mica_schist
+hyper: garnet-mica_schist
+hyper: kyanite-mica_schist
+hyper: phyllite
+hyper: staurolite-mica_schist
+hypo: schist
+mt: noun.cognition:lithology
+   
 w: microcosmic_salt
 d: a white salt present in urine and used to test for metal oxides
 hypo: salt
@@ -13373,6 +13505,14 @@ hypo: salt
 w: micronutrient
 d: a substance needed only in small amounts for normal body function (e.g., vitamins or minerals)
 hypo: noun.Tops:food
+
+w: migmatic_rock
+d: any rock formed by anatexis (i.e. melting of a rock), irrespective of the proportion of the melt or the process of melting
+hyper: diatexite
+hyper: metatexite
+hyper: migmatite
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: milk_glass
 w: opal_glass
@@ -13719,6 +13859,21 @@ w: montan_wax
 d: a hard wax obtained from lignite
 hypo: wax
 
+w: monzodiorite
+d: a plutonic rock of gabbroic appearance that contains minor but essential orthoclase, as well as calcic plagioclase
+hypo: dioritic_rock
+mt: noun.cognition:lithology
+
+w: monzogabbro
+d: a plutonic rock of gabbroic aspect that contains minor but essential orthoclase as well as calcic plagioclase
+hypo: gabbroic_rock
+mt: noun.cognition:lithology
+
+w: monzonite
+d: a plutonic rock consisting of approximately equal amounts of plagioclase and alkali feldspar, with minor amphibole and/or pyroxene
+hypo: syenitic_rock
+mt: noun.cognition:lithology
+
 w: moonstone
 d: a transparent or translucent gemstone with a pearly luster; some specimens are orthoclase feldspar and others are plagioclase feldspar
 hypo: feldspar
@@ -13831,6 +13986,12 @@ w: mycotoxin
 d: a toxin produced by a fungus
 hyper: aflatoxin
 hypo: phytotoxin
+
+w: mylonite
+d: a fault rock which is cohesive and characterised by a well-developed schistosity resulting from a tectonic reduction in grain size within a ductile shear-zone, and which commonly contains rounded porphyroclasts and lithic fragments of similar composition to the minerals in the matrix
+hyper: phyllonite
+hypo: fault_rock
+mt: noun.cognition:lithology
 
 w: myoglobin
 d: a hemoprotein that receives oxygen from hemoglobin and stores it in the tissues until needed
@@ -14402,6 +14563,17 @@ hyper: opal
 hyper: turquoise
 hypo: gem
 
+w: ophicalcite
+d: a variety of ophicarbonate in which calcite is the predominant carbonate mineral
+hypo: ophicarbonate
+mt: noun.cognition:lithology
+
+w: ophicarbonate
+d: a rock consisting of serpentinite and carbonate minerals, where serpentinite is commonly fragmented or brecciated, veined, and impregnated by the carbonate material (calcite, dolomite or magnesite)
+hyper: ophicalcite
+hypo: metacarbonatic_rock
+mt: noun.cognition:lithology
+
 w: opopanax
 d: an odorous gum resin formerly used in medicines
 hypo: gum
@@ -14508,6 +14680,19 @@ hyper: thiouracil
 hyper: xanthine
 hypo: chemical_compound
 
+w: organic_sediment
+d: a sediment having a sufficiently high organic content (≥ 50% by weight on a moisture-free basis) to preclude its identification as any other kind of sediment, and containing carbon as an essential component
+hyper: peat
+hyper: sapropel
+hypo: sediment
+mt: noun.cognition:lithology
+
+w: organic_sedimentary_rock
+d: a sedimentary rock having a sufficiently high organic content (≥ 50% by weight on a moisture-free basis) to preclude its identification as any other kind of sedimentary rock, and containing carbon as an essential component
+hyper: coal
+hypo: sedimentary_rock
+mt: noun.cognition:lithology
+
 w: organophosphate
 d: an insecticide that interferes with an insect's nervous system
 hyper: chlorpyrifos
@@ -14536,6 +14721,15 @@ ms: As
 w: orthoclase
 d: a white or colored monoclinic feldspar
 hypo: feldspar
+
+w: orthogneiss
+d: a gneiss with mineralogy and texture indicating derivation from an igneous protolith, usually having a homogeneous composition
+hyper: augen_gneiss
+hyper: diorite_gneiss
+hyper: granite_gneiss
+hyper: tonalite_gneiss
+hypo: gneiss
+mt: noun.cognition:lithology
 
 w: orthophosphoric_acid
 w: phosphoric_acid
@@ -14776,6 +14970,12 @@ w: scale_wax
 d: partly refined paraffin wax
 hypo: wax
 
+w: paragneiss
+d: a gneiss with mineralogy and texture indicating derivation from a sedimentary protolith; relatively variable rock character on a dm-m scale compared to orthogneiss
+hyper: arkosic_gneiss
+hypo: gneiss
+mt: noun.cognition:lithology
+
 w: paragonite
 d: a colorless or pale brown mica with sodium
 hypo: isinglass
@@ -14854,9 +15054,9 @@ ms: cementite
 ms: ferrite
 
 w: peat drf adj.pert:peaty
-d: partially carbonized vegetable matter saturated with water; can be used as a fuel when dried
-hypo: humate
-hypo: vegetable_matter
+d: an unconsolidated deposit of plant remains with a high water content (≥75%), a fixed carbon content of about 60%, and an oxygen content of about 30% (on a moist mineral free basis); forms lignite during coalification; can be used as a fuel when dried
+hypo: organic_sediment
+mt: noun.cognition:lithology
 
 w: pectic_acid
 d: a complex acid that occurs in ripe fruit and some vegetables
@@ -14883,9 +15083,10 @@ e: there was blood in his urine
 hypo: body_waste
 
 w: pegmatite
-d: a form of igneous rock consisting of extremely coarse granite resulting from the crystallization of magma rich in rare elements
-hypo: igneous_rock
+d: an exceptionally coarse-grained igneous rock with interlocking crystals, most of which are >1cm in diameter; composition is usually granitic but can also be similar to other igneous rock types; pegmatites usually occur as irregular dykes, lenses, or veins associated with plutons or batholiths
+hypo: plutonic_rock
 ms: samarskite
+mt: noun.cognition:lithology
 
 w: pencil
 d: graphite (or a similar substance) used in such a way as to be a medium of communication
@@ -14969,14 +15170,15 @@ hypo: chrysolite
 hypo: transparent_gem
 
 w: peridotite
-d: a dark coarse-grained igneous rock consisting principally of olivine
+d: ultramafic rock consisting essentially of olivine (>40%), with pyroxene and/or amphibole
 hyper: kimberlite
-hypo: igneous_rock
+hypo: ultramafic_rock
+mt: noun.cognition:lithology
 
 w: periodic_acid
 d: any acid of iodine that contains oxygen
 hypo: oxyacid
-
+   
 w: permanganate
 d: a dark purple salt of permanganic acid; in water solution it is used as a disinfectant and antiseptic
 hyper: permanganate_of_potash
@@ -15080,6 +15282,34 @@ w: phlogopite
 d: a brown form of mica consisting of hydrous silicate of potassium and magnesium and aluminum
 hypo: isinglass
 
+w: phonolite
+d: a volcanic rock consisting essentially of alkali feldspar and foids
+hypo: phonolitic_rock
+mt: noun.cognition:lithology
+
+w: phonolitic_basanite
+d: an alkaline basaltic rock consisting of plagioclase, feldspathoids, olivine, augite, and often minor sanidine; if the olivine content is <10% it is a phonolitic tephrite
+hypo: tephritic_rock
+mt: noun.cognition:lithology
+
+w: phonolitic_foidite
+d: an alkaline volcanic rock consisting of feldspathoids and minor alkali feldspar
+hypo: foiditic_rock
+mt: noun.cognition:lithology
+
+w: phonolitic_rock
+w: phonolitoid
+d: a rock that corresponds to the qapf 'field' classification for volcanic rocks identified as phonolite
+hyper: phonolite
+hyper: tephritic_phonolite
+hypo: volcanic_rock
+mt: noun.cognition:lithology
+
+w: phonolitic_tephrite
+d: an alkaline volcanic rock consisting of plagioclase, feldspathoids, olivine, augite and often minor sanidine; if the olivine content is >10% it is a phonolitic basanite
+hypo: tephritic_rock
+mt: noun.cognition:lithology
+
 w: phosgene
 d: a colorless poisonous gas that smells like new-mown hay; used in chemical warfare
 hypo: gas
@@ -15125,6 +15355,16 @@ hypo: acid
 w: phthalic_anhydride
 d: a white cyclic anhydride
 hypo: anhydride
+
+w: phyllite
+d: a fine to medium-grained metamorphic rock characterised by well developed continuous schistosity resulting from the parallel arrangement of phyllosilicates; is usually of low metamorphic grade, and is intermediate between slate and mica-schist
+hypo: mica_schist
+mt: noun.cognition:lithology
+
+w: phyllonite
+d: a phyllosillicate-rich mylonite that has the lustrous sheen of a phyllite
+hypo: mylonite
+mt: noun.cognition:lithology
 
 w: phylloquinone
 w: phytonadione
@@ -15390,6 +15630,24 @@ w: platinum_black
 d: a fine black powder of platinum; used as a catalyst in chemical reactions
 hypo: accelerator
 
+w: plutonic_rock
+d: an igneous rock that formed by slow cooling and has a relatively coarse-grained (>3mm) texture in which the individual crystals can be seen with the unaided eye
+hyper: anorthositic_rock
+hyper: aplite
+hyper: dioritic_rock
+hyper: foid_dioritic_rock
+hyper: foid_gabbroic_rock
+hyper: foid_syenitic_rock
+hyper: foidolite
+hyper: gabbroic_rock
+hyper: granitic_rock
+hyper: lamprophyre
+hyper: pegmatite
+hyper: quartzolite
+hyper: syenitic_rock
+hypo: igneous_material
+mt: noun.cognition:lithology
+
 w: plutonium_239
 d: a highly fissionable isotope of plutonium that is used in atomic weapons and as a reactor fuel; produced by irradiating uranium 238 with slow electrons
 hyper: weapon-grade_plutonium
@@ -15585,6 +15843,11 @@ d: any igneous rock with crystals embedded in a finer groundmass of minerals
 hypo: igneous_rock
 ms: groundmass
 
+w: porphyroid
+d: metamorphosed volcanic rocks  of usually acid to intermediate chemistry (ignimbrite, tuff, tuffite) with porphyroblasts in a fine-grained groudmass
+hypo: volcanic_rock
+mt: noun.cognition:lithology   
+
 w: porpoise_oil
 d: a yellow fatty oil obtained from porpoises and used as a fine lubricant
 hypo: animal_oil
@@ -15649,6 +15912,11 @@ hypo: solid[4]
 w: prairie_soil
 d: a type of soil occurring under grasses in temperate climates
 hypo: dirt[1]
+
+w: prasinite
+d: a schistose or gneissose  metamorphic rock consisting predominantly of actinolite, ocellar albite and epidote, possibly with chlorite and titanite
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: precipitant drf verb.change:precipitate
 d: an agent that causes a precipitate to form
@@ -15840,6 +16108,11 @@ w: pseudoephedrine
 d: poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it
 hypo: alkaloid
 
+w: pseudotachylite
+d: an ultrafine-grained vitreous-looking material, usually black and flinty in appearance, occurring as thin planar veins, injection veins or as a matrix to pseudo-conglomerates or breccias, which infills dilation fractures in the host rock; formed by local melting due to brittle faulting in response to seismic activity and local generation of frictional heat
+hypo: fault_rock
+mt: noun.cognition:lithology
+
 w: psilomelane
 d: a mineral consisting of hydrated basic oxide of manganese and barium; a source of manganese
 hypo: mineral
@@ -15879,6 +16152,13 @@ hypo: rock
 w: punk[1]
 d: substance that smolders when ignited; used to light fuses (especially fireworks)
 hypo: igniter
+
+w: pure_marble
+d: a marble that contains >95% volume of carbonate minerals (calcite and/or aragonite and/or dolomite)
+hypo: marble
+ms: calcite
+ms: dolomite[1]
+mt: noun.cognition:lithology
 
 w: purine
 d: a colorless crystalline organic base containing nitrogen; the parent compound of various biologically important substances
@@ -15932,6 +16212,32 @@ d: nitrocellulose containing less nitrogen than guncotton; used in making smokel
 hs: Ballistite
 hypo: cellulose_nitrate
 
+w: pyroclastic_breccia
+d: pyroclastic rock with more than 75% angular blocks (diameter >64 mm)
+hypo: pyroclastic_rock
+mt: noun.cognition:lithology
+
+w: pyroclastic_rock
+d: an igneous rock that contains more than 75% volume of pyroclasts, i.e. clasts formed by a result of volcanic process; excludes tuffites
+hyper: agglomerate
+hyper: lapilli_tuff
+hyper: lapillistone
+hyper: pyroclastic_breccia
+hyper: tuff
+hyper: tuff_breccia
+hypo: pyroclastics
+hypo: sedimentary_rock
+mt: noun.cognition:lithology
+
+w: pyroclastics
+w: pyroclasts
+d: pyroclastics are clasts formed by fragmentation as a result of explosive volcanic eruptions or processes; pyroclastic deposits are assemblages, either unconsolidated or consolidated, that contain >75% volume of pyroclasts
+hyper: pyroclastic_rock
+hyper: tephra
+hypo: igneous_material
+hypo: sedimentary_material
+mt: noun.cognition:lithology
+
 w: pyrogallic_acid
 w: pyrogallol drf adj.pert:pyrogallic
 d: a toxic white lustrous crystalline phenol used to treat certain skin diseases and as a photographic developer
@@ -15979,6 +16285,12 @@ hs: basalt
 hs: nephelinite
 hypo: mineral
 
+w: pyroxenite
+d: ultramafic rock composed almost entirely of one or more pyroxenes and occasionally biotite, hornblende, or olivine
+hypo: ultramafic_rock
+ms: pyroxene
+mt: noun.cognition:lithology
+
 w: pyroxylin
 w: pyroxyline
 d: highly flammable nitrocellulose used in making collodion and plastics and lacquers
@@ -16003,15 +16315,76 @@ hypo: mineral
 ms: Si
 ms: silica
 
+w: quartz_alkali_feldspar_syenite
+d: a felsic plutonic rock consisting essentially of alkali feldspar, quartz and mafic minerals
+hypo: syenitic_rock
+mt: noun.cognition:lithology
+
+w: quartz_alkali_feldspar_trachyte
+d: a felsic volcanic rock consisting essentially of alkali feldspar, quartz and mafic minerals
+hypo: trachytic_rock
+mt: noun.cognition:lithology
+
+w: quartz_anorthosite
+d: a leucocratic plutonic rock consisting essentially of calcic plagioclase, quartz and small amounts of pyroxene
+hypo: anorthositic_rock
+mt: noun.cognition:lithology
+
 w: quartz_arenite
 d: an arenite comprising > 95% quartz grains
 hypo: arenite
 mt: noun.cognition:lithology
 
-w: quartzite
-d: hard metamorphic rock consisting essentially of interlocking quartz crystals
-hypo: rock
+w: quartz_diorite
+d: a plutonic rock consisting essentially of plagioclase, quartz and mafic minerals
+hypo: dioritic_rock
+mt: noun.cognition:lithology
 
+w: quartz_gabbro
+d: a plutonic rock composed mainly of calcic plagioclase, clinopyroxene and quartz
+hypo: gabbroic_rock
+mt: noun.cognition:lithology
+
+w: quartz_latite
+d: a volcanic rock consisting  of approximately equal amounts of plagioclase and alkali feldspar, with quartz between 5% and 20% of felsic mineral content and mafic minerals
+hypo: trachytic_rock
+mt: noun.cognition:lithology
+
+w: quartz_monzodiorite
+d: a plutonic rock consisting essentially of calcic plagioclase, alkali feldspar, quartz, and mafic minerals
+hypo: dioritic_rock
+mt: noun.cognition:lithology
+
+w: quartz_monzogabbro
+d: a plutonic rock consisting essentially of calcic plagioclase, alkali feldspar, mafic minerals and quartz
+hypo: gabbroic_rock
+mt: noun.cognition:lithology
+
+w: quartz_monzonite
+d: a plutonic rock consisting of approximately equal quantities of plagioclase and alkali feldspar, together with essential quartz (between 5% and 20% of the felsic mineral content)
+hypo: syenitic_rock
+mt: noun.cognition:lithology
+
+w: quartz_syenite
+d: a plutonic rock consisting essentially of alkali feldspar, quartz and mafic minerals
+hypo: syenitic_rock
+mt: noun.cognition:lithology
+
+w: quartz_trachyte
+d: a volcanic rock consisting of phenocrysts of alkali feldspar and quartz in a cryptocrystalline or glassy matrix; the volcanic equivalent of quartz syenite
+hypo: trachytic_rock
+mt: noun.cognition:lithology
+
+w: quartzite
+d: a granoblastic metamorphic rock consisting mainly of quartz and formed by recrystallisation of sandstone or chert, by either regional or thermal metamorphism
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
+w: quartzolite
+d: a collective term for plutonic rocks in which the quartz content is more than 90% of the felsic minerals
+hypo: plutonic_rock
+mt: noun.cognition:lithology
+   
 w: quassia
 d: a bitter compound used as an insecticide and tonic and vermifuge; extracted from the wood and bark of trees of the genera Quassia and Picrasma
 hyper: noun.plant:Jamaica_quassia[2]
@@ -16055,6 +16428,11 @@ d: useless radioactive materials that are left after some laboratory or commerci
 hyper: high-level_radioactive_waste
 hyper: low-level_radioactive_waste
 hypo: radioactive_material
+
+w: radiolarite
+d: radiolarite is a marine chert (sedimentary silica) whose (recognizable) microfossil components mainly consist of the silicious skeletons of radiolaria (single-celled marine microorganisms)
+hypo: chert
+mt: noun.cognition:lithology
 
 w: radiochlorine
 d: a radioactive isotope of chlorine
@@ -16100,6 +16478,8 @@ w: rainwater
 d: drops of fresh water that fall as precipitation from clouds
 hypo: fresh_water
 
+w: rauchwacke
+w: rauhwacke
 w: rauwacke
 d: a carbonate sedimentary rock that consists of cellular or porous limestone or dolostone in which secondary dissolution of readily soluble material (gypsum/anhydrite) has formed cavities; mainly formed by sedimentary or tectonic processes
 hypo: carbonate_sedimentary_rock
@@ -16346,8 +16726,17 @@ d: a pink or red mineral consisting of crystalline manganese silicate; used as a
 hypo: mineral
 
 w: rhyolite
-d: very acid volcanic rock
-hypo: igneous_rock
+d: a silicic volcanic rock consisting of phenocrysts of quartz and alkali feldspar, often with plagioclase and biotite, in a glassy groundmass having the chemical composition of granite
+hypo: rhyolithic_rock
+mt: noun.cognition:lithology
+
+w: rhyolithic_rock
+w: rhyolithoid
+d: a rock that corresponds to the qapf 'field' classification for volcanic rocks identified as rhyolite
+hyper: alkali_feldspar_rhyolite
+hyper: rhyolite
+hypo: volcanic_rock
+mt: noun.cognition:lithology
 
 w: ribose
 d: a pentose sugar important as a component of ribonucleic acid
@@ -16421,6 +16810,13 @@ w: transparent_quartz
 d: a clear quartz used in making electronic and optical equipment
 hyper: rhinestone
 hypo: quartz
+
+w: rock_salt
+d: an evaporite composed of >50% crystalline halite (NaCl), typically stained by iron-oxides and mixed with fine-grained sediments (clay) 
+hypo: evaporite
+ms: clay[3]
+ms: halite
+mt: noun.cognition:lithology
 
 w: rocket_fuel
 w: rocket_propellant
@@ -16663,40 +17059,48 @@ hypo: mineral
 ms: Gd
 
 w: sand drf adj.all:sandy
-d: a loose material consisting of grains of rock or coral
+d: a clastic sediment with a median grain size between 0.063mm and 2mm
 hs: noun.object:beach
 hs: noun.object:quicksand
 hs: noun.object:sand_bar
 hs: noun.object:spit
 hs: concrete
+hyper: coarse_sand
+hyper: fine_sand
+hyper: medium_sand
+hypo: clastic_sediment
 hypo: dirt[1]
 ms: Si
+mt: noun.cognition:lithology
 
 w: sandstone
-d: a sedimentary rock consisting of sand consolidated with some cement (clay or quartz etc.)
+d: a clastic sedimentary rock with a median grain size between 0.063 and 2 mm
 hyper: noun.object:firestone
 hyper: noun.object:holystone
+hyper: arenite
 hyper: bluestone
 hyper: brownstone
-hyper: greensand
-hyper: grit
-hyper: siltstone
-hypo: arenaceous_rock
-
-w: sandstone[2]
-d: a clastic sedimentary rock with a median grain size between 0.063 and 2 mm
-hyper: arenite
 hyper: coarse_sandstone
 hyper: fine_sandstone
+hyper: greensand
+hyper: grit
 hyper: medium_sandstone
 hyper: wacke
 hypo: clastic_sedimentary_rock
+mt: noun.cognition:lithology
+
+w: sandy_lime
+d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 50% to 75% calcite and 25% to 50% sand
+hypo: carbonate_sediment
+ms: calcite
+ms: sand
 mt: noun.cognition:lithology
 
 w: sandy_limestone
 d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 50-75% calcite and 25-50% sand
 hypo: carbonate_sedimentary_rock
 ms: calcite
+ms: sand
 mt: noun.cognition:lithology
 
 w: sap drf adj.all:sappy[1]
@@ -16723,8 +17127,9 @@ d: a deposit of clay and disintegrating rock that is found in its original place
 hypo: earth
 
 w: sapropel
-d: sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans
-hypo: goo
+d: an unconsolidated jelly-like ooze composed of plant remains (most often algae), putrefying under anaerobic conditions on the shallow lake and sea floor
+hypo: organic_sediment
+mt: noun.cognition:lithology
 
 w: saran
 d: any of various thermoplastic resins used to make things
@@ -16788,8 +17193,13 @@ hypo: mineral
 ms: W
 
 w: schist
-d: any metamorphic rock that can be split into thin layers
+d: a metamorphic rock with a schistose structure (a foliation that is either well developed or a continuous foliation so that the rock will split in on a scale of ≤1 cm; mineralogical and/or lithological layering is commonly present); distinguished from gneiss by a composition of <20% feldspar and >50% mica  
+hyper: graphite_schist
+hyper: greenschist
+hyper: mica_schist
+hyper: slate
 hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: schorl
 d: black tourmaline
@@ -16812,6 +17222,12 @@ w: scribbling_block
 d: pad for preliminary or hasty writing or notes or sketches etc
 e: "scribbling block" is a British term
 hypo: notepad
+
+w: scree
+w: tallus
+d: a clastic sedimentary rock  that contains >50% unrounded  mineral and rock fragments with a median grain size >2mm
+hypo: clastic_sediment
+mt: noun.cognition:lithology
 
 w: sea_coal
 d: pulverized bituminous coal; used as a foundry facing
@@ -16848,20 +17264,45 @@ w: secretase
 d: a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of Alzheimer's)
 hypo: enzyme
 
+w: sediment
+d: solid fragmental material that originates from the weathering of rocks and is transported or deposited by air/water/ice, or accumulates by other natural agents such as chemical precipitation from solution or secretion by organisms; forms in layers on the earth's surface, in a loose or unconsolidated form
+hyper: biochemical-biogenic_sediment
+hyper: carbonate_sediment
+hyper: chemical_sediment
+hyper: clastic_sediment
+hyper: organic_sediment
+hyper: tephra
+hypo: sedimentary_material
+mt: noun.cognition:lithology
+
 w: sedimentary_clay
 d: clay soil formed by sedimentary deposits
 hypo: dirt[1]
 
+w: sedimentary_material
+d: naturally-occurring material formed at the earth’s surface, consisting of solid particles aggregated together by one or more depositional processes operating within fluid systems (either aqueous or gaseous) to yield granular particles and/or crystalline particles that are aggregated into layers or bodies; includes both unconsolidated sediments and sedimentary rocks
+hyper: pyroclastics
+hyper: sediment
+hyper: sedimentary_rock
+mt: noun.cognition:lithology
+
 w: sedimentary_rock
-d: A rock formed form the consolidation of sediments (by processes of compaction, cementation, crystallisation, or biogenic binding) yielded by one or more depositional processes operating within fluid systems (either aqueous or gaseous) (modified from Neuendorf et al., 2005; SLTT Appendix C, 2004).
-hyper: arenaceous_rock
+d: a rock formed from post depositional consolidation of sediments (by processes of compaction, cementation, crystallisation or biogenic binding)
 hyper: argillaceous_rock
 hyper: argillite
+hyper: biochemical-biogenic_sedimentary_rock
 hyper: carbonate_sedimentary_rock
+hyper: chemical_sedimentary_rock
+hyper: clastic_sedimentary_rock
+hyper: organic_sedimentary_rock
+hyper: pyroclastic_rock
 hyper: rudaceous_rock
 hyper: shale
 hyper: slate
+hyper: tuffite
 hypo: rock
+hypo: sedimentary_material
+mt: noun.cognition:lithology
 
 w: seed_lac
 d: granular material obtained from stick lac by crushing and washing
@@ -16893,6 +17334,11 @@ hypo: pigment
 w: serine
 d: a sweetish crystalline amino acid involved in the synthesis by the body of cysteine
 hypo: amino_acid
+
+w: serpentinite
+d: a metamorphic rock with >75% volume minerals of the serpentine group
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
 
 w: serum_albumin
 d: albumin occurring in blood serum; serves to maintain the somatic pressure of the blood
@@ -16936,7 +17382,8 @@ d: building material used as siding or roofing
 hypo: building_material
 
 w: shale
-d: a clastic sedimentary rock formed by the deposition of successive layers of clay
+d: a bedded clastic sedimentary rock with a median grain size <0.002mm
+hyper: black_shale
 hyper: humic_shale
 hyper: oil_shale
 hypo: clastic_sedimentary_rock
@@ -17041,6 +17488,11 @@ w: silicide
 d: any of various compounds of silicon with a more electropositive element or radical
 hypo: chemical_compound
 
+w: siliceous_ooze
+d: a marine sediment consisting of >30% skeletal remains of pelagic siliceous organisms (such as radiolarians or diatoms) and clay minerals
+hypo: biochemical-biogenic_sediment
+mt: noun.cognition:lithology
+
 w: silicon_bronze
 d: a bronze with 2-3% silicon that is resistant to corrosion
 hypo: bronze
@@ -17074,12 +17526,17 @@ d: any of a large class of compounds that have alternate silicon and oxygen atom
 hyper: silicone
 hypo: chemical_compound
 
-w: silt drf adj.all:silty drf verb.contact:silt
-d: mud or clay or small rocks deposited by a river or lake
+w: silt
+d: a clastic sediment with a median grain size between 0.002mm and 0.063mm
+hyper: coarse_silt
+hyper: fine_silt
+hyper: medium_silt
+hypo: clastic_sediment
 hypo: dirt[1]
+mt: noun.cognition:lithology
 
 w: siltstone
-d: a clastic sedimentary rock with a median grain size between 0.002 and 0.063 mm
+d: a clastic sedimentary rock with a median grain size between 0.002mm and 0.063mm
 hyper: coarse_siltstone
 hyper: fine_siltstone
 hyper: medium_siltstone
@@ -17154,6 +17611,11 @@ d: any glutinous material used to fill pores in surfaces or to stiffen fabrics
 e: size gives body to a fabric
 hypo: filler
 
+w: skarn
+d: a metasomatic rock formed at the contact between a silicate rock (or magmatic melt) and a carbonate rock; consists mainly of calcium, mangnesium, iron and manganese silicates that contain little or no water
+hypo: metasomatic_rock
+mt: noun.cognition:lithology
+
 w: ski_wax
 d: wax used on the bottom of skis
 hypo: wax
@@ -17163,8 +17625,9 @@ d: dust consisting of a mixture of small coal fragments and coal dust and dirt t
 hypo: debris
 
 w: slate
-d: a fine-grained metamorphic rock that can be split into thin layers
-hypo: sedimentary_rock
+d: an ultrafine-grained or very fine-grained metamorphic rock displaying a continuous foliation in which the individual grains are too small to be seen by the unaided eye (slaty cleavage); usually of very low metamorphic grade, although it may also occur under low-grade  conditions; it is the metamorphic equivalent of shale
+hypo: schist
+mt: noun.cognition:lithology
 
 w: slate[1] drf verb.contact:slate
 w: slating
@@ -17472,6 +17935,11 @@ w: spiegeleisen
 d: pig iron containing manganese; used as a deoxidizing agent and to raise the manganese content in making steel
 hypo: pig_iron
 
+w: spilite
+d: an altered basic to intermediate hypabyssal to volcanic rock in which the feldspar is partially or completely composed of albite  and is typically accompanied by chlorite, calcite, quartz, epidote and prehnite; it's eruptive features isare preserved
+hypo: metamorphic_rock
+mt: noun.cognition:lithology
+
 w: spill drf verb.contact:spill[1] drf verb.contact:spill[4] drf verb.motion:spill
 d: liquid that is spilled
 e: clean up the spills
@@ -17593,6 +18061,11 @@ hypo: formulation
 w: starting_buffer
 d: buffer solution at the start of a reaction
 hypo: buffer_solution
+
+w: staurolite-mica_schist
+d: a mica-schist that contains staurolite
+hypo: mica_schist
+mt: noun.cognition:lithology
 
 w: steam drf verb.change:steam drf verb.contact:steam
 d: water at boiling temperature diffused in the atmosphere
@@ -17855,6 +18328,11 @@ w: topsoil
 d: the layer of soil on the surface
 hypo: dirt[1]
 
+w: surficially_formed_material
+d: material formed as a product of weathering that has remained in situ following alteration of the parent material by the action of chemical and/or physical weathering processes operating on the earth's surface; includes bauxite
+hypo: composite_genesis_material
+mt: noun.cognition:lithology
+
 w: surgical_spirit
 d: methylated spirit used in the practice of medicine (especially for cleansing the skin before injections or before surgery)
 hypo: methylated_spirit
@@ -17871,6 +18349,26 @@ hypo: mixture
 w: swinging_chad
 d: a chad that is incompletely removed and still attached at two corners
 hypo: chad
+
+w: syenite
+d: a plutonic rock consisting mainly of alkali feldspar with subordinate sodic plagioclase, biotite, pyroxene, amphibole and occasionally fayalite; minor quartz and or nepheline may be present
+hypo: syenitic_rock
+mt: noun.cognition:lithology
+
+w: syenitic_rock
+w: syenitoid
+d: a rock that corresponds to the QAPF 'field' classification for plutonic rocks identified as syenite or monzonite
+hyper: alkali_feldspar_syenite
+hyper: foid-bearing_alkali_feldspar_syenite
+hyper: foid-bearing_monzonite
+hyper: foid-bearing_syenite
+hyper: monzonite
+hyper: quartz_alkali_feldspar_syenite
+hyper: quartz_monzonite
+hyper: quartz_syenite
+hyper: syenite
+hypo: plutonic_rock
+mt: noun.cognition:lithology
 
 w: sylvine
 w: sylvite
@@ -17979,9 +18477,48 @@ w: taurine
 d: a colorless crystalline substance obtained from the bile of mammals
 hypo: chemical_compound
 
+w: tectonic_breccia
+d: a fault rock which is incohesive rock material with ≥90% generally angular porphyroclasts and lithic fragments in a finer-grained matrix of similar composition
+hypo: fault-related_material
+mt: noun.cognition:lithology
+
 w: tektite
 d: thought to derive from meteorites
 hypo: natural_glass
+
+w: tephra
+d: predominantly unconsolidated pyroclastic deposits that contain more than 75% volume pyroclasts
+hyper: ash[2]
+hyper: block_tephra
+hyper: lapilli_tephra
+hypo: pyroclastics
+hypo: sediment
+mt: noun.cognition:lithology
+
+w: tephrite
+d: an alkaline volcanic rock consisting of calcic plagioclase, clinopyroxene and feldspathoids
+hypo: tephritic_rock
+mt: noun.cognition:lithology
+
+w: tephritic_foidite
+d: an alkaline volcanic rock consisting of feldspathoids, and minor plagioclase; includes basanitic foidite which has >10% modal olivine
+hypo: foiditic_rock
+mt: noun.cognition:lithology
+
+w: tephritic_phonolite
+d: an alkaline volcanic rock consisting of alkali feldspar, plagioclase, feldspathoids and various mafic minerals
+hypo: phonolitic_rock
+mt: noun.cognition:lithology
+
+w: tephritic_rock
+w: tephritoid
+d: a rock that corresponds to the QAPF 'field' classification for volcanic rocks identified as tephrite
+hyper: basanite
+hyper: phonolitic_basanite
+hyper: phonolitic_tephrite
+hyper: tephrite
+hypo: volcanic_rock
+mt: noun.cognition:lithology
 
 w: telluride
 d: any binary compound of tellurium with other more electropositive elements
@@ -18173,6 +18710,16 @@ w: toluic_acid
 d: an isomeric acid derived from toluene
 hypo: acid
 
+w: tonalite
+d: a plutonic rock consisting essentially of quartz, intermediate plagioclase and usually biotite and amphibole
+hypo: granitic_rock
+mt: noun.cognition:lithology
+
+w: tonalite_gneiss
+d: an orthogneiss for which protolith can be identified as a tonalite
+hypo: orthogneiss
+mt: noun.cognition:lithology
+
 w: toner[1] drf verb.change:tone[1] drf verb.change:tone[2]
 d: a solution containing chemicals that can change the color of a photographic print
 hypo: solution
@@ -18236,6 +18783,26 @@ hypo: noun.artifact:immunizing_agent
 w: trace_element
 d: an element that occurs at very small quantities in the body but is nonetheless important for many biological processes
 hypo: chemical_element
+
+w: trachyte
+d: a volcanic rock consisting essentially of alkali feldspar
+hypo: trachytic_rock
+mt: noun.cognition:lithology
+
+w: trachytic_rock
+w: trachytoid
+d: a rock that corresponds to the QAPF 'field' classification for volcanic rocks identified as trachyte
+hyper: alkali_feldspar_trachyte
+hyper: foid-bearing_alkali_feldspar_trachyte
+hyper: foid-bearing_latite
+hyper: foid-bearing_trachyte
+hyper: latite
+hyper: quartz_alkali_feldspar_trachyte
+hyper: quartz_latite
+hyper: quartz_trachyte
+hyper: trachyte
+hypo: volcanic_rock
+mt: noun.cognition:lithology
 
 w: tracing_paper
 d: a semitransparent paper that is used for tracing drawings
@@ -18310,6 +18877,11 @@ hypo: discharge
 w: transuranic_element
 d: any element having an atomic number greater than 92 (which is the atomic number of uranium); all are radioactive
 hypo: chemical_element
+
+w: travertine
+d: a rock made up of calcium carbonate precipitated biotically or abiotically from spring-fed, heated or ambient-temperature water; includes tufa
+hypo: limestone
+mt: noun.cognition:lithology
 
 w: tremolite
 d: a white or pale green mineral (calcium magnesium silicate) of the amphibole group used as a form of asbestos
@@ -18411,14 +18983,19 @@ w: tryptophane
 d: an amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin
 hypo: essential_amino_acid
 
+w: tuff_breccia
+d: pyroclastic rock with bombs/blocks (diameter >64 mm) in the range of 25% to 75%
+hypo: pyroclastic_rock
+mt: noun.cognition:lithology
+
+w: tuffite
+d: a rock consisting of a mixture of pyroclastic and normal clastic (epiclastic) material, but with pyroclastic material making up 25% to 75% of the total by volume; can be further classified according to the average grain size of the clasts
+hypo: sedimentary_rock
+mt: noun.cognition:lithology
+
 w: tuberculin
 d: a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis
 hypo: liquid
-
-w: tufa[1]
-w: tuff
-d: hard volcanic rock composed of compacted volcanic ash
-hypo: volcanic_rock
 
 w: tuna_oil
 d: an oil obtained from tuna
@@ -18471,6 +19048,13 @@ hypo: amino_acid
 w: tyrosine
 d: an amino acid found in most proteins; a precursor of several hormones
 hypo: amino_acid
+
+w: ultramafic_rock
+d: an igneous rock with >90% mafic minerals such as olivine, orthopyroxene, clinopyroxene, hornblende and sometimes biotite; includes ultramafite (ultramafic plutonic rock) and ultramafitite  (ultramafic volcanic rock)
+hyper: peridotite
+hyper: pyroxenite
+hypo: igneous_material
+mt: noun.cognition:lithology
 
 w: ultramarine
 w: ultramarine_blue
@@ -18705,19 +19289,26 @@ hyper: tachylite
 hypo: volcanic_rock
 
 w: volcanic_rock
-d: extrusive igneous rock solidified near or on the surface of the Earth
-hyper: agglomerate
-hyper: amygdaloid
-hyper: basalt
-hyper: dacite
-hyper: lava
-hyper: tuff
-hyper: volcanic_glass
-hypo: igneous_rock
+d: an igneous rock that can be  associated with volcanism and has a relatively fine-grained texture in which most of the individual crystals can not be seen with the unaided eye; includes subvolcanic (hypabyssal) rocks
+hyper: andesitic_rock
+hyper: basaltic_rock
+hyper: dacitic_rock
+hyper: dolerite
+hyper: foidite
+hyper: foiditic_rock
+hyper: phonolitic_rock
+hyper: porphyroid
+hyper: rhyolithic_rock
+hyper: tephritic_rock
+hyper: trachytic_rock
+hypo: igneous_material
+hypo: rock
+mt: noun.cognition:lithology
 
 w: wacke
-d: a sandstone with > 15% matrix material (components < 30 µm); the relative proportions of the different components in the sandstone (feldspar and/or quartz and/or lithic fragments) are variable
-hypo: sandstone[2]
+d: a sandstone with >15% matrix material (components <30µm); the relative proportions of the different components in the sandstone (feldspar and/or quartz and/or lithic fragments) are variable
+hyper: graywacke
+hypo: sandstone
 mt: noun.cognition:lithology
 
 w: wad
@@ -18857,6 +19448,11 @@ w: zinc_sulphate
 w: zinc_vitriol
 d: a colorless water-soluble powder; used as a mordant or to preserve wood or for the electrodeposition of zinc
 hypo: sulfate
+
+w: whiteschist
+d: a light-coloured schist containing kyanite and talc; represent aluminium and magnesium rich rocks metamorphosed under eclogite facies conditions
+hypo: high-pressure_metamorphic_rock
+mt: noun.cognition:lithology
 
 w: wicker
 d: slender flexible branches or twigs (especially of willow or some canes); used for wickerwork
