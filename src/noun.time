@@ -250,6 +250,46 @@ d: a geochronologic age ranging from 440.8+/-1.2 millions of years ago to 438.5+
 hp: Llandovery
 ihyper: geochronologic_age
 
+w: Age_of_Conifers
+w: Age_of_Reptiles
+w: Mesozoic
+w: Mesozoic_era
+d: a geochronologic era ranging from 251.902+/-0.024 millions of years ago to 66.0 millions of years ago
+hp: Phanerozoic
+ihyper: geochronologic_era
+mp: Cretaceous
+mp: Jurassic
+mp: Triassic
+
+w: Age_of_Fishes
+w: Devonian
+w: Devonian_period
+d: a geochronologic period ranging from 419.2+/-3.2 millions of years ago to 358.9+/-0.4 millions of years ago; distinguished by preponderance of fishes and appearance of ammonites
+hp: Paleozoic
+ihyper: geochronologic_period
+mp: Lower_Devonian
+mp: Middle_Devonian
+mp: Upper_Devonian
+
+w: Age_of_Mammals
+w: Cenozoic
+w: Cenozoic_era
+d: a geochronologic era ranging from 66.0 millions of years ago to Present
+hp: Phanerozoic
+ihyper: geochronologic_era
+mp: Neogene
+mp: Paleogene
+mp: Quaternary
+
+w: Age_of_Man
+w: Quaternary
+w: Quaternary_period
+d: a geochronologic period ranging from 2.58 millions of years ago to Present
+hp: Cenozoic
+ihyper: geochronologic_period
+mp: Holocene
+mp: Pleistocene
+
 w: Aghan
 w: Margasivsa
 d: the ninth month of the Hindu calendar
@@ -350,12 +390,14 @@ w: Arbor_Day
 d: a day designated for planting trees
 hypo: day[1]
 
+w: Archaeozoic drf adj.all:archaeozoic
+w: Archaeozoic_aeon
 w: Archean drf adj.all:archean
 w: Archean_aeon
 w: Archean_eon
 w: Archeozoic drf adj.all:archeozoic
 w: Archeozoic_eon
-d: a geochronologic eon ranging from 4000 millions of years ago to 2500 millions of years ago
+d: a geochronologic eon ranging from 4000 millions of years ago to 2500 millions of years ago; distinguished by the formation of Earth's crust; distinguished by the appearance of the earliest forms of life, unicellular organisms
 hp: Precambrian
 ihyper: geochronologic_eon
 mp: Eoarchean
@@ -571,7 +613,7 @@ ihyper: geochronologic_period
 
 w: Cambrian
 w: Cambrian_period
-d: a geochronologic period ranging from 541.0+/-1.0 millions of years ago to 485.4+/-1.9 millions of years ago
+d: a geochronologic period ranging from 541.0+/-1.0 millions of years ago to 485.4+/-1.9 millions of years ago; disntiguished by the appearance of marine invertebrates
 hp: Paleozoic
 ihyper: geochronologic_period
 mp: Cambrian_Series2
@@ -649,15 +691,6 @@ w: Cenomanian_age
 d: a geochronologic age ranging from 100.5 millions of years ago to 93.9 millions of years ago
 hp: Upper_Cretaceous
 ihyper: geochronologic_age
-
-w: Cenozoic
-w: Cenozoic_era
-d: a geochronologic era ranging from 66.0 millions of years ago to Present
-hp: Phanerozoic
-ihyper: geochronologic_era
-mp: Neogene
-mp: Paleogene
-mp: Quaternary
 
 w: Changhsingian
 w: Changhsingian_age
@@ -820,7 +853,7 @@ hypo: Christian_holy_day
 
 w: Cretaceous drf adj.pert:Cretaceous
 w: Cretaceous_period
-d: a geochronologic period ranging from circa 145.0 millions of years ago to 66.0 millions of years ago
+d: a geochronologic period ranging from circa 145.0 millions of years ago to 66.0 millions of years ago; distinguished by the appearance of modern insects and flowering plants
 hp: Mesozoic
 ihyper: geochronologic_period
 mp: Lower_Cretaceous
@@ -938,15 +971,6 @@ w: Depression
 w: Great_Depression
 d: a period during the 1930s when there was a worldwide economic depression and mass unemployment
 ihyper: historic_period
-
-w: Devonian
-w: Devonian_period
-d: a geochronologic period ranging from 419.2+/-3.2 millions of years ago to 358.9+/-0.4 millions of years ago
-hp: Paleozoic
-ihyper: geochronologic_period
-mp: Lower_Devonian
-mp: Middle_Devonian
-mp: Upper_Devonian
 
 w: Dhu'l-Hijja
 w: Dhu'l-Hijjah
@@ -1067,7 +1091,7 @@ ihyper: geochronologic_era
 
 w: Eocene
 w: Eocene_epoch
-d: a geochronologic epoch ranging from 56 millions of years ago to 33.9 millions of years ago
+d: a geochronologic epoch ranging from 56 millions of years ago to 33.9 millions of years ago; distinguished by the appearance of modern mammals; ; distinguished by the appearance of sabertoothed cats
 hp: Paleogene
 ihyper: geochronologic_epoch
 mp: Bartonian
@@ -1428,10 +1452,13 @@ ihyper: geochronologic_age
 w: Hadean
 w: Hadean_aeon
 w: Hadean_eon
+w: Pre-Archean
+w: Pre-Archean_aeon
+w: Pre-Archean_eon
 w: Priscoan
 w: Priscoan_aeon
 w: Priscoan_eon
-d: a geochronologic eon ranging from circa 4567 millions of years ago to 4000 millions of years ago; the earliest eon in the history of the Earth
+d: a geochronologic eon ranging from circa 4567 millions of years ago to 4000 millions of years ago; the earliest eon in the history of the Earth; starts at first accretion of planetary material; ends on the date of the oldest known rocks; distinguished by no evidence of life
 hp: Precambrian
 ihyper: geochronologic_eon
 
@@ -1839,7 +1866,7 @@ hypo: Christian_holy_day
 
 w: Jurassic
 w: Jurassic_period
-d: a geochronologic period ranging from 201.3+/-0.2 millions of years ago to circa 145.0 millions of years ago
+d: a geochronologic period ranging from 201.3+/-0.2 millions of years ago to circa 145.0 millions of years ago; distinguished by the presence of dinosaurs and conifers; disntiguished by the appearance of first birds
 hp: Mesozoic
 ihyper: geochronologic_period
 mp: Lower_Jurassic
@@ -1943,7 +1970,7 @@ w: Lower_Carboniferous
 w: Lower_Carboniferous_sub-period
 w: Mississippian
 w: Mississippian_sub-period
-d: a geochronologic sub-period ranging from 358.9+/-0.4 millions of years ago to 323.2+/-0.4 millions of years ago
+d: a geochronologic sub-period ranging from 358.9+/-0.4 millions of years ago to 323.2+/-0.4 millions of years ago; distinguished by the expansion of grass-grazer ecosystems
 hp: Carboniferous
 ihyper: geochronologic_sub-period
 mp: Lower_Mississippian
@@ -2161,15 +2188,6 @@ ihyper: geochronologic_era
 mp: Calymmian
 mp: Ectasian
 mp: Stenian
-
-w: Mesozoic
-w: Mesozoic_era
-d: a geochronologic era ranging from 251.902+/-0.024 millions of years ago to 66.0 millions of years ago
-hp: Phanerozoic
-ihyper: geochronologic_era
-mp: Cretaceous
-mp: Jurassic
-mp: Triassic
 
 w: Messidor
 d: tenth month of the Revolutionary calendar (June and July); the month of harvest
@@ -2456,7 +2474,7 @@ hypo: period
 
 w: Ordovician
 w: Ordovician_period
-d: a geochronologic period ranging from 485.4+/-1.9 millions of years ago to 443.8+/-1.5 millions of years ago
+d: a geochronologic period ranging from 485.4+/-1.9 millions of years ago to 443.8+/-1.5 millions of years ago; distinguished by the appearance of conodonts and ostracods
 hp: Paleozoic
 ihyper: geochronologic_period
 mp: Lower_Ordovician
@@ -2574,6 +2592,8 @@ hypo: day[1]
 
 w: Pennsylvanian
 w: Pennsylvanian_sub-period
+w: Upper_Carboniferous
+w: Upper_Carboniferous_sub-period
 d: a geochronologic sub-period ranging from 323.2+/-0.4 millions of years ago to 298.9+/-0.15 millions of years ago
 hp: Carboniferous
 ihyper: geochronologic_sub-period
@@ -2589,7 +2609,7 @@ hypo: quarter_day
 
 w: Permian
 w: Permian_period
-d: a geochronologic period ranging from 298.9+/-0.15 millions of years ago to 251902+/-0.024 millions of years ago
+d: a geochronologic period ranging from 298.9+/-0.15 millions of years ago to 251902+/-0.024 millions of years ago; distinguished by the appearance of the first large herbivores and carnivores
 hp: Paleozoic
 ihyper: geochronologic_period
 mp: Cisuralian
@@ -2622,9 +2642,11 @@ w: great_year
 d: time required for one complete cycle of the precession of the equinoxes, about 25,800 years
 hypo: period
 
+w: Glacial_epoch
+w: Ice_Age
 w: Pleistocene
 w: Pleistocene_epoch
-d: a geochronologic epoch ranging from 2.58 millions of years ago to 0.011700 millions of years ago
+d: a geochronologic epoch ranging from 2.58 millions of years ago to 0.011700 millions of years ago; distinguished by extensive glaciation of the northern hemisphere; distinguished by the evolution of anatomically modern humans
 hp: Quaternary
 ihyper: geochronologic_epoch
 mp: Calabrian
@@ -2640,7 +2662,7 @@ ihyper: geochronologic_age
 
 w: Pliocene
 w: Pliocene_epoch
-d: a geochronologic epoch ranging from 5.333 millions of years ago to 2.58 millions of years ago
+d: a geochronologic epoch ranging from 5.333 millions of years ago to 2.58 millions of years ago; distinguished by the appearance of the first recognizable hominins, the australopithecines;  distinguished by the appearance of rattlesnakes
 hp: Neogene
 ihyper: geochronologic_epoch
 mp: Piacenzian
@@ -2699,7 +2721,7 @@ ihyper: geochronologic_epoch
 w: Proterozoic drf adj.all:proterozoic
 w: Proterozoic_aeon
 w: Proterozoic_eon
-d: a geochronologic eon ranging from 2500 millions of years ago to 541.0+/-1.0 millions of years ago
+d: a geochronologic eon ranging from 2500 millions of years ago to 541.0+/-1.0 millions of years ago; distinguished by the transition to an oxygenated atmosphere; distinguished by the appearance of the first eukaryotes
 hp: Precambrian
 ihyper: geochronologic_eon
 mp: Mesoproterozoic
@@ -2716,14 +2738,6 @@ w: Quadragesima
 w: Quadrigesima_Sunday
 d: the first Sunday in Lent
 hypo: Christian_holy_day
-
-w: Quaternary
-w: Quaternary_period
-d: a geochronologic period ranging from 2.58 millions of years ago to Present
-hp: Cenozoic
-ihyper: geochronologic_period
-mp: Holocene
-mp: Pleistocene
 
 w: Quinquagesima
 w: Quinquagesima_Sunday
@@ -3023,7 +3037,7 @@ ihyper: geochronologic_period
 
 w: Silurian
 w: Silurian_period
-d: a geochronologic period ranging from 443.8+/-1.5 millions of years ago to 419.2+/-3.2 millions of years ago
+d: a geochronologic period ranging from 443.8+/-1.5 millions of years ago to 419.2+/-3.2 millions of years ago; distinguished by the appearance of the first bony fish, the Osteichthyes; distinguished by the appearance of leeches and the first air-breathing terrestrial animals
 hp: Paleozoic
 ihyper: geochronologic_period
 mp: Llandovery
@@ -3111,6 +3125,12 @@ ihyper: geochronologic_epoch
 mp: Cambrian_Stage2
 mp: Fortunian
 
+w: Tertiary
+w: Tertiary_period
+d: an obsolete term for the geochronologic period ranging from 66 millions of years ago to 2.6 millions of years ago; obsolete term that refers to Paleogene and Neogene geochronologic period
+hp: Cenozoic
+ihyper: geochronologic_period
+
 w: Tet
 d: the New Year in Vietnam; observed for three days after the first full moon after January 20th
 hp: Jan
@@ -3183,7 +3203,7 @@ ihyper: geochronologic_age
 
 w: Triassic
 w: Triassic_period
-d: a geochronologic period ranging from 251.902+/-0.024 millions of years ago to 201.3+/-0.2 millions of years ago
+d: a geochronologic period ranging from 251.902+/-0.024 millions of years ago to 201.3+/-0.2 millions of years ago; distinguished by the appearance of dinosaurs, true mammals, flying vertebrates and ichthyosaurs
 hp: Mesozoic
 ihyper: geochronologic_period
 mp: Lower_Triassic
@@ -3576,6 +3596,7 @@ hypo: time_of_life
 
 w: age[4]
 w: geochronologic_age
+w: geological_age
 d: subdivision of an epoch; the smallest subdivison of geological time
 hp: geochronologic_epoch
 hypo: geological_time
@@ -4819,6 +4840,7 @@ hypo: incumbency
 
 w: epoch[1]
 w: geochronologic_epoch
+w: geological_epoch
 d: subdivision of a sub-period or of a period with no sub-periods; is divided into ages
 hp: period
 hp: sub-period
@@ -5206,6 +5228,7 @@ hypo: phase
 mt: noun.act:depth_psychology
 
 w: geochronologic_period
+w: geological_period
 w: period[3]
 d: subdivision of an era; is divided into sub-periods or into epochs
 hp: geochronologic_era
@@ -5214,6 +5237,7 @@ mp: geochronologic_epoch
 mp: sub-period
 
 w: geochronologic_sub-period
+w: geological_sub-period
 w: sub-period
 d: subdivision of a period; is divided into epochs
 hp: period
@@ -5222,6 +5246,8 @@ mp: geochronologic_epoch
 
 w: geochronologic_super-eon
 w: geochronologic_supereon
+w: geological_super-eon
+w: geological_supereon
 w: super-eon
 w: supereon
 d: a collection of eons
@@ -8124,4 +8150,3 @@ mp: bloom
 w: zero_hour
 d: the time set for the start of an action or operation
 hypo: time_of_day
-
