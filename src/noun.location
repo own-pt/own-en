@@ -23819,6 +23819,7 @@ d: low-budget theaters located outside the Broadway area in Manhattan
 hp: Manhattan
 ihyper: city_district
 
+w: oil_field
 w: oilfield
 d: a region rich in petroleum deposits (especially one with producing oil wells)
 hypo: field[5]
