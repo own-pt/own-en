@@ -5652,7 +5652,7 @@ hypo: carbonate_sediment
 mt: noun.cognition:lithology
 
 w: calcareous_sand
-d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 25-50% calcite and 50-75% sand
+d: a mixed carbonate-clastic sediment in which the clastic portion is restricted to sand-sized components; consists of 25-50% calcite and 50-75% sand
 hypo: clastic_sediment
 ms: calcite
 mt: noun.cognition:lithology
