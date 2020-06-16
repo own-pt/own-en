@@ -113659,25 +113659,33 @@
 14583400-n chyme
 14583573-n glop
 14583670-n dross impurity
+14583670-n impurity
 14583843-n acceptor
 14584016-n adduct
 14584110-n actinide actinoid actinon
 14584260-n allergen
+14584260-n allergen
 14584390-n assay
+14584502-n pyrectic pyrogen
 14584502-n pyrectic pyrogen
 14584658-n pyrogen
 14584765-n aldehyde
 14585048-n alcapton alkapton homogentisic_acid
 14585223-n antiknock
+14585223-n antiknock
 14585392-n ragweed_pollen
 14585519-n atom corpuscle molecule mote particle speck
+14585519-n atom[1] molecule[1]
 14585808-n ammunition
 14585960-n floc floccule
 14586119-n hazmat
 14586258-n mixture
+14586258-n mixture
 14586769-n alloy metal
+14586769-n alloy metal[1]
 14587688-n botulinum_toxin
 14587886-n botox botulinum_toxin_a
+14588219-n colloid
 14588219-n colloid
 14588492-n composition
 14588646-n dispersed_particles dispersed_phase
@@ -113687,15 +113695,20 @@
 14589223-n solution
 14589912-n aqueous_solution
 14589994-n ringer's_solution ringer_solution
+14590293-n saline
 14590293-n saline saline_solution
 14590441-n polyelectrolyte
 14590542-n colloidal_gel gel
+14590542-n gel
 14590685-n hydrogel
 14590795-n colloidal_solution colloidal_suspension sol
 14590975-n hydrocolloid
 14591091-n suspension
+14591091-n suspension
 14591333-n slurry
 14591481-n resuspension
+14591481-n resuspension
+14591635-n precipitate
 14591635-n precipitate
 14591804-n sludge
 14591901-n domoic_acid
@@ -113705,13 +113718,18 @@
 14592405-n plasticine
 14592610-n plastic
 14593162-n plasticiser plasticizer
+14593162-n plasticiser plasticizer
+14593344-n thermoplastic
 14593344-n thermoplastic thermoplastic_resin
 14593545-n saran
 14593671-n acrylate_resin acrylic acrylic_resin
 14593874-n polymethyl_methacrylate
+14594032-n Lucite Perspex
 14594032-n lucite perspex
+14594174-n Plexiglas
 14594174-n plexiglas plexiglass
 14594313-n polyethylene polythene
+14594456-n acetyl
 14594456-n acetyl acetyl_group acetyl_radical ethanoyl_group ethanoyl_radical
 14594708-n acyl acyl_group
 14594925-n aggregate
@@ -113724,31 +113742,42 @@
 14595933-n styrofoam
 14596063-n thermosetting_compositions thermosetting_resin
 14596216-n bakelite
+14596398-n Teflon
 14596398-n polytetrafluoroethylene teflon
 14596599-n vinylite
 14596700-n raw_material staple
 14596839-n feedstock
 14596956-n sorbate
+14597158-n sorbent
 14597158-n sorbent sorbent_material
+14597413-n absorbent
 14597413-n absorbent absorbent_material
 14597628-n absorbate
+14597628-n absorbate
 14597758-n sponge
+14597758-n sponge
+14598079-n absorber
 14598079-n absorber
 14598251-n absorbent_cotton
 14598383-n absorption_indicator
+14598525-n adsorbent
 14598525-n adsorbent adsorbent_material
+14598704-n adsorbate
 14598704-n adsorbate
 14598834-n acaracide acaricide
 14598937-n acaroid_resin accaroid_resin accroides accroides_gum accroides_resin gum_accroides
 14599168-n acetic_acid ethanoic_acid
 14599494-n acetin
 14599641-n acetum
+14599641-n acetum
 14599806-n acetate ethanoate
 14599938-n ddt dichlorodiphenyltrichloroethane
 14600135-n larvacide
 14600238-n lead_arsenate
 14600357-n lead_tetraethyl tetraethyl_lead
+14600504-n acetone
 14600504-n acetone dimethyl_ketone propanone
+14600742-n acetylene
 14600742-n acetylene alkyne ethyne
 14600927-n adobe
 14601039-n agent_orange
@@ -113759,6 +113788,8 @@
 14601829-n amino_acid aminoalkanoic_acid
 14602490-n alanine
 14602597-n argil
+14602597-n argil
+14602721-n arsenical
 14602721-n arsenical
 14602851-n asparagine
 14602987-n aspartic_acid
@@ -113774,8 +113805,10 @@
 14604763-n diamagnet
 14604857-n diamine
 14604959-n dihydroxyphenylalanine dopa
+14605132-n Bendopa Brocadopa Larodopa
 14605132-n bendopa brocadopa l-dopa larodopa levodopa
 14605415-n endonuclease
+14605590-n enol
 14605590-n enol
 14605787-n essential_amino_acid
 14606137-n exonuclease
@@ -113787,6 +113820,7 @@
 14607131-n hydroxyproline
 14607250-n iodoamino_acid
 14607378-n ornithine
+14607521-n acid
 14607521-n acid
 14609198-n acid-base_indicator
 14609443-n alpha-linolenic_acid
@@ -113830,6 +113864,7 @@
 14615135-n metaphosphoric_acid
 14615264-n polyphosphoric_acid
 14615400-n pyrogallic_acid pyrogallol
+14615400-n pyrogallol
 14615602-n pyrophosphoric_acid
 14615724-n pyrophosphate
 14615822-n 2-methylpropenoic_acid methacrylic_acid
@@ -113842,20 +113877,30 @@
 14616620-n titanic_acid
 14616740-n titania titanic_oxide titanium_dioxide titanium_oxide
 14616939-n adulterant adulterator
+14616939-n adulterant adulterator
+14617189-n alkyl
 14617189-n alkyl alkyl_group alkyl_radical
+14617427-n allyl
 14617427-n allyl allyl_group allyl_radical
+14617597-n amino
 14617597-n amino amino_group
 14617715-n aminomethane
 14617834-n amyl
 14617944-n anionic_compound
+14618050-n anionic
 14618050-n anionic anionic_detergent non-ionic_detergent
+14618253-n alkali base
 14618253-n alkali base
 14618674-n base_metal
 14618834-n binary_compound
+14619033-n chelate
 14619033-n chelate chelate_compound
 14619225-n atom
+14619225-n atom
+14619658-n isotope
 14619658-n isotope
 14619857-n radioisotope
+14620066-n label
 14620066-n label
 14620257-n halon
 14620549-n bromoform tribromomethane
@@ -113869,9 +113914,11 @@
 14622141-n fullerene
 14622350-n buckminsterfullerene buckyball
 14622491-n carbon_nanotube nanotube
+14622623-n benzyl
 14622623-n benzyl benzyl_group benzyl_radical
 14622768-n benzoyl_group benzoyl_radical
 14622893-n chemical_element element
+14624025-n allotrope
 14624025-n allotrope
 14624191-n transuranic_element
 14624369-n argonon inert_gas noble_gas
@@ -113880,22 +113927,30 @@
 14624944-n terbium_metal
 14625110-n actinide_series
 14625297-n lanthanide_series
+14625458-n metal
 14625458-n metal metallic_element
 14627081-n noble_metal
 14627246-n nonmetal
+14627246-n nonmetal
+14627373-n transactinide
 14627373-n transactinide
 14627529-n metallized_dye
 14627655-n ac actinium atomic_number_89
 14627820-n al aluminium aluminum atomic_number_13
+14627820-n aluminum
 14628119-n alum potash_alum potassium_alum
 14628307-n alum ammonia_alum ammonium_alum
 14628494-n am americium atomic_number_95
+14628668-n antimony
 14628668-n antimony atomic_number_51 sb
 14628920-n ar argon atomic_number_18
+14629149-n arsenic
 14629149-n arsenic as atomic_number_33
 14629561-n astatine at atomic_number_85
 14629772-n atrazine
 14629998-n atomic_number_56 ba barium
+14629998-n barium
+14630204-n baryta
 14630204-n baryta
 14630363-n barium_hydroxide
 14630492-n barium_monoxide barium_oxide barium_protoxide
@@ -113904,24 +113959,32 @@
 14631134-n atomic_number_97 berkelium bk
 14631295-n atomic_number_4 be beryllium glucinium
 14631502-n atomic_number_83 bi bismuth
+14631502-n bismuth
 14631757-n atomic_number_107 bh bohrium element_107
 14631871-n atomic_number_5 b boron
+14631871-n boron
 14632129-n atomic_number_35 br bromine
+14632129-n bromine
 14632444-n atomic_number_48 cadmium cd
 14632648-n atomic_number_20 ca calcium
+14632648-n calcium
 14633037-n atomic_number_98 californium cf
 14633206-n atomic_number_6 c carbon
+14633206-n carbon
 14633781-n carbon_atom
 14633856-n carbon_14 radiocarbon
 14633957-n atomic_number_58 ce cerium
+14633957-n cerium
 14634232-n atomic_number_55 caesium cesium cs
 14634477-n cesium_137
 14634591-n atomic_number_17 chlorine cl
+14634591-n chlorine
 14634999-n radiochlorine
 14635092-n atomic_number_24 chromium cr
 14635290-n atomic_number_27 co cobalt
 14635542-n cobalt_60
 14635722-n atomic_number_29 copper cu
+14635722-n copper
 14636220-n atomic_number_96 cm curium
 14636392-n atomic_number_110 darmstadtium ds element_110
 14636523-n atomic_number_105 db dubnium element_105 hahnium
@@ -113936,6 +113999,7 @@
 14638256-n atomic_number_31 ga gallium
 14638517-n atomic_number_32 ge germanium
 14638799-n atomic_number_79 au gold
+14638799-n gold
 14639269-n 18-karat_gold
 14639368-n 22-karat_gold
 14639467-n 24-karat_gold pure_gold
@@ -113944,11 +114008,13 @@
 14639921-n atomic_number_2 he helium
 14640222-n atomic_number_67 ho holmium
 14640434-n atomic_number_1 h hydrogen
+14640434-n hydrogen
 14640756-n hydrogen_atom
 14640890-n acid_hydrogen acidic_hydrogen
 14641046-n deuterium heavy_hydrogen
 14641223-n atomic_number_49 in indium
 14641397-n atomic_number_53 i iodin iodine
+14641397-n iodine
 14641797-n iodine-131
 14642005-n iodine-125
 14642219-n atomic_number_77 ir iridium
@@ -113964,22 +114030,28 @@
 14644963-n atomic_number_109 element_109 meitnerium mt
 14645092-n atomic_number_101 md mendelevium mv
 14645346-n atomic_number_80 hg hydrargyrum mercury quicksilver
+14645346-n mercury
 14645661-n atomic_number_42 mo molybdenum
 14645882-n atomic_number_60 nd neodymium
 14646152-n atomic_number_10 ne neon
 14646403-n atomic_number_93 neptunium np
 14646610-n atomic_number_28 ni nickel
+14646610-n nickel
 14646942-n atomic_number_41 nb niobium
 14647154-n columbium
 14647235-n atomic_number_7 n nitrogen
+14647235-n nitrogen
+14647623-n azote
 14647623-n azote
 14647722-n atomic_number_102 no nobelium
 14647907-n atomic_number_76 os osmium
 14648100-n atomic_number_8 o oxygen
+14648100-n oxygen
 14648526-n liquid_oxygen lox
 14648754-n atomic_number_46 palladium pd
 14649036-n phosphor
 14649197-n atomic_number_15 p phosphorus
+14649197-n phosphorus
 14649543-n atomic_number_78 platinum pt
 14649775-n atomic_number_94 plutonium pu
 14650137-n plutonium_239
@@ -114003,20 +114075,25 @@
 14654175-n atomic_number_34 se selenium
 14654541-n atomic_number_14 si silicon
 14654954-n ag atomic_number_47 silver
+14654954-n silver
 14655371-n atomic_number_11 na sodium
 14655731-n atomic_number_38 sr strontium
 14656001-n strontium_90
 14656219-n atomic_number_16 s sulfur sulphur
+14656219-n sulfur sulphur
 14656666-n atomic_number_73 ta tantalum
 14656926-n taurine
 14657047-n atomic_number_43 tc technetium
 14657228-n atomic_number_52 te tellurium
+14657228-n tellurium
 14657566-n atomic_number_65 tb terbium
 14657818-n atomic_number_81 thallium tl
 14658109-n atomic_number_90 th thorium
+14658109-n thorium
 14658422-n radiothorium thorium-228
 14658546-n atomic_number_69 thulium tm
 14658855-n atomic_number_50 sn tin
+14658855-n tin
 14659211-n atomic_number_22 ti titanium
 14659512-n atomic_number_74 tungsten w wolfram
 14659794-n atomic_number_112 element_112 ununbium uub
@@ -114036,54 +114113,460 @@
 14662574-n mineral
 14665102-n ader_wax earth_wax mineral_wax ozocerite ozokerite
 14665351-n alabaster
-14665469-n alabaster mexican_onyx onyx_marble oriental_alabaster
-14665605-n amblygonite7
+14665469-n alabaster mexican_onyx onyx_mad
 14666369-n amphibolite
+14667455-n asphalt[1]
+14667668-n augite
+14668277-n bauxite
+14668743-n biotite
 14672224-n rock_salt
 14673747-n bitter_spar dolomite[1]
+14674408-n emulsifier
+14674584-n emulsion
 14677778-n gypsum
 14679584-n cyanite kyanite
 14681249-n marl
+14681555-n mica
+14682133-n molecule
+14685172-n char
+14685768-n coke
+14686913-n gas[2]
+14687261-n leaded_gasoline
+14687513-n illuminant
+14688234-n opal
 14689493-n peat
+14691822-n propellant propellent
 14694161-n quartzite
+14694765-n reactant
+14696793-n stone
 14697839-n breccia
 14698000-n sedimentary_rock
 14698568-n marlite marlstone
 14698698-n metamorphic_rock metamorphite
+14698884-n gravel
 14699068-n hornfels hornstone
+14699574-n shingle[2]
 14700162-n slate
+14700438-n pumice
+14700594-n grit
+14701628-n shellac
+14702416-n adhesive
+14702703-n birdlime lime[2]
+14702875-n glue gum[1] mucilage[1]
+14703797-n putty
+14704465-n binder[1]
+14704640-n cement[1]
+14704966-n paste
+14705718-n sealant sealer
+14706026-n filler
+14706372-n size sizing
+14708531-n Alar
+14708720-n alcohol
+14709102-n ether
+14710024-n denaturant
 14711647-n agglomerate
+14712036-n alkali[1]
+14712692-n alkaloid
+14713748-n Ergotrate_Maleate
+14717275-n bronze
+14718822-n solder
+14722589-n amethyst
+14723079-n activator
+14723628-n catalyst
+14723909-n biocatalyst
+14724025-n sensitiser sensitizer
+14724436-n inhibitor
+14725024-n anticatalyst
 14725364-n andesite
+14726315-n aphanite
 14726484-n aplite
 14726823-n dacite dacitic_rock dacitoid
+14728724-n protein
+14729953-n aleurone
+14730105-n amyloid[1]
+14730553-n gelatin gelatine
+14730802-n chondrin
+14730955-n mucin
+14731509-n albumin
+14732722-n chitin
+14732946-n enzyme
+14733941-n fibrin
+14737639-n catalase
+14738752-n ferment
+14739004-n amine
+14743582-n ammonia
+14743840-n ammonia[1]
+14743976-n ammoniac
+14744120-n ammonium
+14745057-n auxin
+14745635-n steroid[2]
+14746048-n Lipo-Lutin
+14746417-n Norlutin
+14747168-n Provera
+14748335-n Durabolin Kabolin
+14749794-n estrogen
+14750782-n Estronol
+14752702-n Cortef Hydrocortone
+14752952-n Cortone_Acetate
+14753188-n Pediapred Prelone
+14753414-n Deltasone Liquid_Pred Meticorten Orasone
+14753808-n Decadron Dexamethasone_Intensol Dexone Hexadrol Oradexon
+14754192-n Aldactone
+14757172-n melanin
+14757547-n tusk
+14757754-n fluff
+14757848-n bone
+14758027-n horn
+14758536-n shell
+14758706-n nacre
+14759722-n leather
+14760447-n alligator
+14761122-n caffein
+14763508-n fleece[1]
+14764910-n fox
+14765324-n rabbit
+14766040-n seal
+14766532-n nitric_acid
+14766725-n nitrous_acid
+14768201-n arsenic[1]
+14769160-n ash[1]
+14769465-n asphalt[2]
+14769760-n austenite
+14772007-n babbitt
+14772185-n bactericide
+14773022-n basalt
+14776237-n bimetal
+14776804-n active
+14777277-n Prevacid
+14777606-n Prilosec
+14778019-n alkalizer antacid
+14779205-n bleach whitener
+14779796-n desiccant drier
+14780040-n oxidant oxidiser oxidizer
+14780267-n reducer reductant
+14781225-n peroxide
+14781752-n blotter
+14785941-n buffer
+14786943-n lagging
+14788714-n cacodyl[1]
+14788875-n cacodyl[2]
+14789885-n lime[1]
+14790526-n carbonyl
+14790796-n carboxyl
+14790979-n camphor
+14793533-n smut soot
+14793812-n carcinogen
+14795749-n glycogen
+14796969-n carbon_dioxide
+14798450-n carbonate
+14799084-n carbonic_acid
+14799244-n abradant abrasive
+14802450-n steel
+14804175-n cement
+14804641-n cement[4]
+14805899-n chaff husk shuck
 14806598-n chalk
+14806838-n chemical
+14810704-n chrome
+14810854-n Elinvar
+14812872-n citric_acid
+14813709-n bentonite
 14814419-n claystone
 14814616-n coal
 14814921-n anthracite hard_coal
 14815263-n brown_coal lignite wood_coal
+14815728-n coagulant coagulator
+14816745-n combustible
+14818101-n compost
+14818238-n compound
+14820180-n concrete
+14820425-n conjugate
+14821043-n conductor
+14821590-n insulator
+14821984-n contaminant contamination
+14822141-n coolant
+14823227-n cork
+14823788-n corrosive
+14825631-n creosote[1]
+14826173-n crepe[2]
+14827017-n cyanogen
+14828683-n daub
+14828927-n defoliant
+14830992-n exon
+14831178-n intron
+14833729-n depilatory
+14834132-n dew
+14835333-n dilutant thinner
+14835478-n dilution
+14836960-n distillate distillation
+14837506-n concentrate
 14838055-n dolomite dolostone
+14838217-n Dopastat Intropin
+14839846-n dust
+14840092-n dust[2]
+14841267-n air
+14842091-n exhalation
+14842992-n earth
+14845743-n water
+14847103-n ether[1] quintessence
+14847929-n electrolyte
+14848642-n gargle
+14848785-n extract
+14849215-n injectant
+14849880-n sandpaper
+14850483-n ester
+14852913-n exudate exudation
+14853210-n high_explosive
+14853392-n low_explosive
+14853647-n rheum
+14854262-n faeces feces stool
+14854581-n crap shit
+14854847-n dung muck[1]
+14855724-n pee piddle piss urine
+14855992-n puke vomit
+14856263-n waste
+14856752-n skank
+14857278-n pollutant
+14857497-n rubbish scrap trash
+14857897-n dust[1] junk
+14858099-n slack
+14858292-n litter
+14858794-n extravasation
+14859344-n fertilizer
+14859622-n Flaxedil
+14859838-n organic
+14860102-n flux
+14861355-n nitre
 14863031-n conglomerate pudding_stone
+14863521-n manure
+14864360-n fat
+14865316-n plagioclase
+14865533-n albite
+14865667-n anorthite
+14866889-n fiber
+14867858-n filament
+14868243-n fill
+14868564-n filtrate
+14870078-n cotton[1]
+14870525-n chert
+14871078-n flint
+14871601-n fluoride
+14873641-n formulation
+14873951-n thus
+14875077-n fuel
+14876206-n fumigant
+14877585-n gas
+14879750-n crystal[1]
+14881303-n glass
+14883206-n crystal
+14883954-n exotherm
+14885684-n glycerol
+14886579-n Nitrospan Nitrostat
 14889271-n gneiss
 14889371-n schist
+14889479-n rust
 14890286-n granite
+14890659-n lubricant lubricator
+14890945-n grease
 14891581-n greisen
-14932303-n plutonic_rock
+14891988-n grout
+14894140-n resin rosin
+14896714-n balsam
+14896923-n balm[1]
+14898470-n gum
+14901679-n mucilage
+14902733-n epoxy
+14902949-n copolymer
+14905422-n hard_water
+14908822-n humus
+14909703-n hyaline
+14910165-n Hyazyme
+14910440-n hydrate
+14911530-n bitumen
+14911704-n pitch tar
+14915184-n ice
+14915622-n frost
+14917635-n ink[1]
+14918994-n incense
+14919156-n inhalant
+14919272-n inoculant
+14920388-n repellant repellent
+14920586-n repellent[1]
+14920728-n instillation
+14920844-n insulant insulation
+14922107-n fraction
+14924188-n isomer
+14925198-n jelly
+14928729-n lacquer
+14928885-n Lactaid
+14932303-n batholite batholith pluton plutonic_rock
 14932554-n diorite
 14932645-n gabbro
 14932741-n pegmatite
 14932943-n peridotite
 14933236-n rhyolite
 14933314-n volcanic_rock
+14934031-n leaven
+14935319-n lignin
+14935751-n calcite
+14936010-n lime
 14936226-n limestone
+14939445-n fluid
+14939663-n grume
+14939900-n fluid[2]
+14940100-n liquid
 14942223-n loam
+14942762-n log[1]
+14943580-n lumber
+14944617-n Chemical_Mace Mace
+14944888-n macromolecule
+14946750-n manifold
 14947807-n marble
+14948645-n mash
+14955030-n mordant
+14955889-n mortar
+14956027-n mucoid
+14956325-n mud
+14956523-n slop
+14956661-n goo muck slime
 14956921-n sapropel
+14957893-n myelin
+14959939-n straw
+14960090-n gas[3]
+14966667-n oil
+14969254-n flimsy
+14971519-n oxide
+14974264-n paper
+14976448-n packing
+14976871-n blacktop blacktopping
+14977075-n macadam
+14977188-n tarmac
+14977358-n parget
+14977504-n pavement paving
+14978232-n pectin
+14978729-n pepsin
+14984973-n color colour
+14985383-n dye
+14986004-n tincture
+14986144-n argent
+14988741-n henna
+14989820-n pigment
+14991210-n orange
+14991319-n watercolor watercolour
+14992287-n plaster
+14992613-n plaster[1]
+14992945-n puddle
+14994328-n polymer
 14995541-n sandstone
+14996020-n polish
+14996395-n porphyry
+14997012-n powder pulverisation pulverization
+14997393-n precipitant
+14997529-n preservative
+14997888-n percolate
+15002959-n raveling ravelling
+15003329-n minium
+15003797-n refrigerant
+15003969-n remover
+15004501-n residue
+15005386-n retinal
+15006258-n rubber
+15008025-n butyl
+15008607-n rain
+15008847-n brine saltwater
 15009192-n evaporite
+15009326-n fresh_water
+15010703-n salt
+15013269-n tartar
+15014529-n caustic
+15015501-n nitrate
+15017121-n Agene
 15019030-n sand
+15020628-n scavenger
+15025397-n heterocycle
+15028050-n antitoxin
+15032376-n poison
+15034074-n toxin
+15035123-n botulin
+15035367-n cytotoxin
+15035505-n endotoxin
+15035832-n exotoxin
+15035975-n mephitis
+15036103-n hepatotoxin
+15036211-n nephrotoxin
+15036321-n neurotoxin
+15036916-n venom
+15037339-n antigen
+15038127-n sap
 15038520-n shale
+15039445-n shingle
+15041277-n silica
 15042052-n silt
 15042194-n siltstone
+15042542-n Simoniz
+15043002-n slate[1]
+15043308-n slush
+15043763-n snow
+15046716-n soft_water
+15046900-n solid[4]
+15047313-n dissolvent dissolver resolvent solvent
+15047988-n solvate
+15048293-n viricide virucide
+15048463-n alkahest
+15049594-n spill
+15050011-n spice
+15052667-n stabilizer
+15052970-n stain
+15053867-n starch
+15054862-n amyloid[2]
+15055181-n steam
+15055633-n vapor[1]
+15055936-n softener
+15056541-n spray
+15057103-n stearin
+15057212-n Stellite
+15057744-n steroid
+15059797-n bilge
+15060131-n digitalis
+15060825-n stiffener
+15061550-n stripper
+15062057-n stucco
+15062284-n sublimate
+15066367-n talc
+15067025-n tannin
+15068436-n tenderiser tenderizer
+15069712-n thatch
+15069820-n thickener
+15071684-n Hemofil
+15074568-n tile
+15074772-n till
+15075867-n toner
+15076011-n toner[1]
+15078768-n Aristocort Aristopak Kenalog
+15083819-n unleaded_gasoline
+15083974-n undercut
+15089258-n vitamin
+15093482-n vitriol
+15093735-n volatile
+15093938-n wallpaper
+15094294-n wax
+15094824-n beeswax
+15095103-n cerumen
+15096524-n verdigris
+15097017-n detergent
+15097209-n builder
+15098161-n wood
+15101361-n igniter ignitor lighter
+15101586-n kindling
+15101854-n plank
+15103007-n clapboard
+15104752-n fleece
+15106271-n yeast
+15109745-n emanation
+15110096-n essence
+15110454-n enamel
+15112239-n vesicant vesicatory
+15112565-n vitrification
 90000001-n alkali_feldspar_granite
 90000002-n alkali_feldspar_rhyolite
 90000003-n alkali_feldspar_syenite
