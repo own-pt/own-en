@@ -1,0 +1,97 @@
+Pindell and Tabbutt (1995) indicated that the five main Mesozoic-Cenozoic settings for source rock deposition and preservation in Andean foreland basins are:
+Restricted rift basins with varying access to the sea during times of backarc extension.
+Examples include the Triassic and Jurassic Pucara Group and Santiago Formation.
+Thermally subsiding passive margin sections that developed during periods of slow sediment accumulation and high long-term relative sea level; an example is the Villeta Formation of the Putumayo Basin.
+Rift structures that cross southern South America, aulacogens of the South Atlantic; an example is the San Jorge Basin of southeastern South America.
+These were periods of long-term, high eustatic sea level, such as during the Peruvian phase of the Andean orogeny.
+Examples are the Cretaceous Napo and Chonta Formations in the north-central and central Andes.
+Slow rates of terrigenous sedimentation at various times and places along the Andean forearc where relief of emergent sediment source areas was low and where upwelling, currents, and other marine influences contributed to the hydrocarbon potential of the region (Ziegler and others, 1981).
+During Cretaceous time tectonic evolution of the sub-Andean region triggered suboxic and anoxic conditions (Fabre, 1985; Mann, 1995).
+Geochemical data indicate that Upper Cretaceous source rocks account for more than 90 percent of the discovered oil in sub-Andean basins (Mello and Trindade, 1999).
+The primary oil and gas source rocks in the Putumayo-Oriente-Maranon province (figure 3) are Cretaceous shales of marine and mixed marine and terrestrial depositional environments.
+Because of different stratigraphic naming conventions for the Putumayo, Oriente, and Maranon portions of the province, hydrocarbon source rocks are described for the respective basin areas.
+Events charts (Figs. 6 through 8) were prepared to show time intervals of source, reservoir, seal and overburden rocks, trap formation, and generation, migration, and accumulation of hydrocarbons.
+Illustrations are for the Mesozoic-Cenozoic TPS Hollin-Napo (60410101, Fig. 6), and Basin-Center Gas (60410102, Fig. 7) assessment units, and for the Paleozoic TPS Permian Ene Formation assessment unit (60410201, Fig. 8).
+The Hollin-Napo assessment unit of the Mesozoic-Cenozoic TPS refers to all production and potential reservoir intervals in this age range across the entire basin.
+The Permian Ene Formation assessment unit incorporates all potentially productive Paleozoic intervals.
+According to Ramon (1996), vertical segregation of Putumayo Basin oils into Lower and Upper Cretaceous formations indicates vertical heterogeneity as indicated by the presence of two separate sets of source rocks, and associated petroleum systems.
+This observation is based on biomarker fingerprinting of 20 crude oils.
+Kairuz and others (2000) listed two separate petroleum systems and source rocks for the Villeta Formation of Albian age versus those of ages between the Albian and Coniacian; this work is based on geochemical characteristics of 48 oil samples from 35 wells that produced from the two intervals.
+They further indicated that crudes of the Villeta-Caballos systems are associated with the Albian to Coniacian carbonate source rocks and that oil and gas from the Villeta-Pepino system are from Albian age marine shales; only the western portion of the Putumayo Basin is thermally mature for hydrocarbon generation.
+Putumayo Basin reservoirs for the Lower Cretaceous Caballo and Villeta “U” sandstones contain oils derived from a mixed marine and terrestrial source (Ramon, 1996).
+These sediments were deposited in a marginal “oxic” marine setting.
+Upper Cretaceous Villeta “T” and “N” sandstones and Tertiary reservoirs contain oils that exhibit marine algal input (Ramon, 1996), which resulted from their being deposited in a carbonate-rich, chemically reducing environment.
+Probable source rocks are (1) the marginal marine shales of the Lower Cretaceous Caballos Formation, and (2) marginal marine and terrestrial shales of the Villeta “U” Sandstone (Ramon, 1996).
+The highest total organic carbon (TOC) contents are located in the uppermost black shale intervals of the Caballos Formation (8.8 wt. percent) and middle to upper part of the Hondita Formation (10.95 wt. percent) in the Magdalena Valley; geochemical information indicates that Caballos Formation shales are composed of sediments from a terrigenous source (Mann and Stein, 1997).
+TOC of the 41 samples ranged as high as 16.67 wt. percent; all but 9 samples contained greater than 3 wt. percent (Mann and Stein, 1997).
+The presence of oil in basal Tertiary sedimentary rocks is probably due to upward leakage along faults and fracture networks from Cretaceous formations.
+Dashwood and Abbotts (1990) indicated that analyses of oils from the Hollin and Napo reservoirs in the Oriente Basin show one genetic family.
+Lithology, environmental conditions, and organic matter types of Oriente Basin source rocks were predicted based on oil biomarker characteristics.
+Organic-rich zones of the Napo Formation have been considered the source of almost all hydrocarbons in the Oriente Basin, although oil-to-source correlation is still poorly documented in the literature (Lozada and others, 1985; Rivadeneira, 1986; Dashwood and Abbotts, 1990).
+Shales in the upper part of the Hollin Formation were deposited in open marine environments (White and others, 1995); these mudstones may be a source of hydrocarbons.
+Organic-rich marine shales of the Napo Formation in the Oriente Basin are believed to be a source of oil and gas (Dashwood and Abbotts, 1990).
+Based largely on oil-to-source correlation using 13C data, Mathalone and Montoya (1995) have identified five groups of source rocks for the Ucayali, Santiago, Oriente, and Maranon Basins.
+These are listed as the (1) Ucayali Basin Jurassic and Permian (type III) source rocks; (2) Santiago Basin (type I) oil seeps; (3) Ecuadorian Oriente oils (Cretaceous source rocks), (4) the Maranon Basin (Vivian type I, Cretaceous source in the northwest area near the border with Ecuador and Chonta type I, Cretaceous source in the northwest area); and (5) type II (Permian source).
+Two families of oils are differentiated in the Maranon Basin and are related to Permian and Cretaceous source rocks (Mathalone and Montoya, 1995).
+Oils from Cretaceous Napo and Chonta source rocks in the Oriente Basin correlate with Cretaceous oils from the Maranon Basin (Mathalone and Montoya, 1995).
+Chalco (1999) has stated the belief that the Jurassic-age marine shales are the primary hydrocarbon source rocks of the southern Maranon Basin; his two-dimensional basin modeling paper lies in the area of figure 2.
+Chalco (1999) also indicated that lowermost Cretaceous source rocks entered the oil window by late Oligocene (30 Ma) time, and Jurassic shales began generating oil from late Albian (97 Ma) to early Oligocene (35 Ma) with peak oil generation at the end of the Cretaceous (65 Ma).
+He also stated that most of the Jurassic oil (as much as 70 percent) was expelled after the early Eocene (50 Ma) and before the early Miocene (22 Ma).
+The 13C distribution of saturated and aromatic hydrocarbons from oils across the Putumayo-Oriente-Maranon province is shown in figure 9.
+Oils are identified using the GeoMark database (through 1997).
+The blue-circled area on the lower left of figure 9 is Cretaceous-reservoir production that is probably sourced from Paleozoic shales, likely from the Permian Ene Formation (figure 3).
+The Paleozoic source area includes multiple oil analyses from the Corrientes, Capirona, and Yanayacu fields.
+Single oil analyses in this population included the Pavayacu, Phillips, San Juan, and Sun fields.
+The Capirona and Pavayacu field locations are illustrated on the Maranon Basin cross section (figure 2); the geologic relations shown suggest that the migration pathways for these fields are along a series of faults that extend to basement.
+Most of the analyzed oil, including that from the Tertiary Pepino Formation, is from Cretaceous source rocks, and is grouped within the central population of Cretaceous oils shown in figure 9.
+The values near the upper right corner of figure 9 are from Cretaceous oils; most of these are single samples for a field, or have commingled production from numerous Lower and Upper Cretaceous formations.
+San Jacinto field in the Maranon Basin has four values in the upper right hand group for figure 9 and five from the Cretaceous group in the middle of the figure; production is from the Cretaceous Chonta and Vivian Formations.
+The group near the upper right corner probably represents mixing of oils from both Lower and Upper Cretaceous source rocks, or is more tied to analytical methods, maturation histories, or biodegradation of hydrocarbons.
+Chonta Formation oils from this field are among the few biodegraded oils from this formation (Mathalone and Montoya, 1995).
+Although some scatter occurs in the central group (green line in Fig. 9) of Cretaceous-sourced oils, there is not enough differentiation to isolate Lower and Upper Cretaceous source rocks.
+The primary Upper Cretaceous hydrocarbon source rocks are marine shales of the Chonta Formation, northern Maranon Basin, and the Napo Formation of the Oriente Basin, where the average TOC exceeds 3 wt. percent (Mathalone and Montoya, 1995).
+These formations were deposited in a shelf setting that shoals southward in the Maranon Basin.
+Marine shales of the Lower Cretaceous Raya Formation are also source rocks (Mathalone and Montoya, 1995).
+Rivadeneira (1986) suggested that Lower Jurassic shales located in southern Ecuador and northern Peru may be hydrocarbon source rocks.
+These are the Triassic and Jurassic Pucara Group and possibly the overlying Jurassic Saraya­quillo Group Formation in the Maranon Basin (figure 3).
+The Pucara Group is an important potential oil source rock in the western Maranon and Ucayali Basins (Mathalone and Mon­toya, 1995).
+The formation comprises shales, platform carbonates, and organic-rich limestones.
+Total organic carbon (TOC) contents in the limited number of samples range as much as 5 wt. percent; sapropelic sediments dominate TOC (Mathalone and Montoya, 1995).
+Although the Permian Ene Formation does not produce oil or gas in the Putumayo-Oriente-Maranon province, it is a reservoir and shows good oil-to-source correlation in the Ucayali Basin, located south of the province, and in western basins of Peru.
+Outcrop samples of the Ene Formation in the Ucayali Basin exhibit moderate to high levels of TOC and hydrogen indices (Carpenter and Berumen, 1999).
+In the Maranon Basin the formation is mature to overmature for oil generation, based on thermal maturation data (Mathalone and Montoya, 1995).
+However, the Paleozoic section in the province is mostly undrilled.
+Some potential exists for discoveries within the Permian Ene Formation or other units of the Mitu Group in the southern portion of the province.
+The Triassic salt (figure 2) is a potential seal and may have contributed to possible hydrocarbon accumulation in structural traps; stratigraphic and combination traps may also occur.
+Evaporitic shales in the Ene Formation are the probable hydrocarbon source rocks for a family of crude oils from Cretaceous reservoirs in the southern part of the Maranon Basin according to Mathalone and Mon­toya (1995), whose work, particularly in the Corrientes field, is based on geochemical differences among oils across the basin.
+Figure 10 shows weight percent sulfur versus API gravity of oils for fields across the Putumayo-Oriente-Maranon province (Geo-Mark, 1997).
+Although scatter in data is considerable, two sample populations suggest two different sources of oil in the reservoirs.
+Mathalone and Montoya (1995) indicated that samples from the Corrientes field (figure 10) may include oil from Ene Formation source rocks.
+Percent sulfur and API gravity of oils are also influenced by migration history, biodegradation, evaporation of oils, and other geologic and geochemical factors.
+Thickness of the Ene Formation is as much as 600 m (2,000 ft) of organic-rich shales and dolomites with minor sandstones.
+Outcrops of the formation are as much as 300 m (1,000 ft) thick, and the shales contain an average TOC of 2–3 wt. percent; kerogen types II and I predominate (Mathalone and Montoya, 1995).
+Other fields for which numerous geochemical analyses are available are located within this “Ene” trend, including the Yanayacu and Capirona fields (GeoMark, 1997).
+Fields that are along this zone of low percent sulfur are the Bretana, Dorrisa, Huayuri, Huayuri Sur, Sun, Tetete, and Valencia.
+These are all distributed along the northwesterly trend of fields in the western part of the Maranon Basin (figure 1). 
+Figure 11 shows the ratio of nickel to vanadium in oils across the Putumayo-Oriente-Maranon province.
+Because nickel and vanadium atoms exhibit similar chemical properties, their ratio is relatively stable through time.
+The area of greater amounts of these elements (and associated broader scatter of control points) may result mainly from biodegradation, migration history, and other factors that remove lighter chain hydrocarbons and tend to concentrate metallic elements.
+Cretaceous oils in some fields, such as the San Jacinto field in the Maranon Basin, show widely different amounts of nickel and vanadium that are associated with varying degrees of biodegradation (figure 11).
+Average is 57.2 parts per million (ppm) nickel and 216 ppm vanadium for all 208 samples across the province (GeoMark, 1997).
+Twentyfour oil samples from possible Ene Formation source rocks (figure 9) have average values of 41.1 ppm nickel and 62.7 ppm vanadium (figure 11).
+The generally lower ratio of vanadium relative to nickel for these fields suggests that the oil had a different hydrocarbon source rock than for the Cretaceous reservoirs across most of the province.
+Less scatter in this smaller subset of data also indicates less biodegradation.
+All of the geochemical samples are from the Maranon Basin and are from reservoir intervals identified as Cretaceous (GeoMark, 1997).
+Because some of these fields are large (Corrientes has more than 150 MMBO produced (Matha­lone and Montoya, 1995)), the Permian Ene Formation may be a significant source of hydrocarbons in this basin.
+Paleozoic rocks in the Putumayo and Oriente Basins may also be an adequate source of hydrocarbons, but little geochemical and other subsurface information exists with which to evaluate this potential or to define their subsurface distribution.
+Cretaceous formations in these basins directly overlie Precambrian rocks in a north-trending band that is proximal to and east of the eastern boundary of oil production (Balkwill and others, 1995).
+Subsurface distribution of Paleozoic strata is also variable in the Maranon Basin, as is illustrated in figure 2. 
+The Devonian Cabanillas and Carboniferous Ambo Formations (figure 3) are thermally mature to overmature for oil generation in the Ucayali Basin (figure 1) and in the Ene Basin to the south (Mathalone and Montoya, 1995).
+Mello and Trindade (1999) stated their belief that an Upper Devonian marine epicontinental oil system is widespread around sub-Andean basins of Argentina, Bolivia, and Peru, although its oil and gas potential and reserves are considered to be insignificant, accounting for no more than 2 percent of the discovered oil in place along the entire sub-Andean trending Thermal modeling of potential Upper Devonian source rocks, based on burial history and vitrinite reflectance analyses, indicates that these shales are gas-condensate-prone, with times of peak oil generation and expulsion ranging from Jurassic-Triassic to Miocene (Mello and Trindade, 1999).
+The sub-Andean orogeny (late Miocene), followed by uplift and erosion, caused biodegradation, reservoir leaking, oil remobilization, and destruction of preexisting oil accumulations; subsequent overthrust structural movements caused secondary oil and gas cracking in most areas of the Upper Devonian petroleum systems, enhancing their gas-condensate hydrocarbon potential (Mello and Trindade, 1999).
+Organic-rich shales of the Ordovician Contaya Formation in the Maranon Basin (figure 3) are thermally overmature and unlikely to contribute substantially to the hydrocarbon system (Soto and Vargas, 1985).
+However, analyses were run on only a few wells within the areas of thermally mature Cretaceous source rocks.
+The level of thermal maturation probably decreases east of the basin margin.
+Devonian shales of the Cabanillas Formation (figure 3) are thin and preserved as small remnants in the Maranon and North Ucayali Basins (Mathalone and Montoya, 1995).
+Because they are thin in these areas, they would probably not be adequate source or reservoir rocks.
+Again, thickness and areal distribution of these Devonian shales across the province are poorly known.

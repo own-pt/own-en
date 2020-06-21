@@ -1,0 +1,57 @@
+Generally, the province includes mountainous areas underlain by rocks of Precambrian to Mesozoic age, and swampy lowlands underlain by nonmarine deposits of Cenozoic age.
+The Central Alaska Province is geologically diverse and complex; many important aspects of its stratigraphy, structure, geologic history, and petroleum potential remain to be deciphered.
+In general, Cenozoic nonmarine basins and remnants of Mesozoic flysch basins overlie a diverse assortment of Precambrian, Paleozoic, and lower Mesozoic metamorphic and igneous rocks.
+No petroleum production has been obtained from this province.
+Fewer than a dozen exploratory wells have been drilled.
+Three hypothetical plays are discussed below: the Central Alaska Cenozoic Gas Play (0201); the Central Alaska Mesozoic Gas Play (0202); and the Central Alaska Paleozoic Oil Play (0203).
+In addition, two hypothetical plays in the Kandik Basin are discussed in the section by David G. Howell: the Kandik Pre-Mid Cretaceous Strata Play (0204) and the Kandik Upper Cretaceous and Tertiary NonMarine Strata Play (0205).
+The most attractive petroleum exploration objectives in the Central Alaska Province are hypothetical accumulations of dry gas in mildly deformed, generally nonmarine, coal-bearing strata of Cenozoic age.
+The Cenozoic basins are almost entirely unexplored, despite some important geologic similarities to the petroliferous Cook Inlet Basin.
+Some geologists have speculated that accumulations of dry gas might occur in turbiditic and deltaic strata in the Mesozoic flysch basins; in most places, however, the Mesozoic strata are moderately to strongly deformed and thermally overmature, and have little or no petroleum potential.
+Much of the Central Alaska Province is underlain by rocks of Paleozoic to early Mesozoic age; for the most part, these are metamorphic rocks with no petroleum possibilities, but unmetamorphosed Paleozoic rocks occur in some areas (such as the Holitna and Kandik Basins) and may have potential for oil and gas.
+This play includes hypothetical accumulations of hydrocarbons, mainly nonassociated gas, in undeformed to moderately deformed strata generally of Cenozoic age.
+The Central Alaska Cenozoic Gas Play includes more than a dozen sedimentary basins in interior Alaska, including the Yukon Flats and Nenana Basins.
+The area of the play is about 96,000 sq mi.
+Most of the Cenozoic basins are floored by igneous and metamorphic rocks of Precambrian to Mesozoic age, which generally are regarded as economic basement.
+The basin fill is chiefly of Tertiary and (or) Quaternary age, but in places is as old as Late Cretaceous (Kirschner, 1988).
+These strata consist mainly of conglomerate, sandstone, mudstone, and coal and are predominantly of nonmarine (fluvial and lacustrine) origin; however, marine sandstones and mudstones of Tertiary age occur in the Bethel and Kotzebue Basins.
+The Cenozoic basins, because they are filled by materials that are commonly less dense than the surrounding rocks, are often associated with gravity lows.
+Gravity modeling in the Nenana and some other basins suggest that the Cenozoic section in these areas may be 10,000-16,000 ft thick (Barnes, 1961; Kirschner, 1988).
+Cenozoic strata in the Yukon Flats basin may be thicker than 15,000 ft, based on gravity and seismic reflection data obtained by the oil industry (Dean L. Morgridge, consultant, oral commun., 1993).
+In many areas, Cenozoic strata have been mildly to moderately deformed by compression, resulting in broad open folds and high-angle reverse faults.
+The most likely potential reservoirs in the Central Alaska Cenozoic Gas Play are conglomerates and sandstones, many of which represent fluvial channel deposits.
+Direct measurements of reservoir properties such as porosity and permeability are generally not available.
+However, reservoirs in the Cenozoic basins of central Alaska may be similar to reservoirs in the 20 producing fields of the Cook Inlet Beluga-Sterling Gas Play (0303), which exhibit porosities of 18-35 percent (mean of 25 percent), permeabilities of 3.5-4,400 millidarcies (mean of 1,225 millidarcies), and net pay thicknesses of 20-455 ft (mean of 108 ft).
+Water saturations in the Cook Inlet reservoirs are about 35-50 percent (Magoon and Kirschner, 1990).
+The most likely potential source rocks in the central Alaska Cenozoic Gas Play are coals and organic-rich mudrocks of fluvial and lacustrine origin.
+Available organic geochemical data from surface and subsurface samples indicate mainly gas-prone kerogens (Stanley, 1987, 1988; Stanley and others, 1990; R.G. Stanley, unpub. data), suggesting that the principal hydrocarbon resource in the play is likely to be nonassociated gas.
+As a working hypothesis, I propose that the Cook Inlet Beluga-Sterling Gas Play (0303) (see also Magoon and Kirschner, 1990) may be an analog for the Central Alaska Cenozoic Gas Play of the Central Alaska Province.
+Geochemical data indicate that most of the dry-gas accumulations in the Beluga-Sterling Gas Play are of microbial origin (Claypool and others, 1980); therefore, if the proposed analogy is valid, there may also be substantial amounts of undiscovered biogenic gas in the Cenozoic basins of central Alaska.
+Available vitrinite reflectance Ro and Rock-Eval Tmax data indicate that most of the potential source rocks of Late Cretaceous and Tertiary age are thermally immature with respect to oil generation (Stanley and others, 1990; Grether and Morgan, 1988; R.G. Stanley, unpub. data).
+However, depending on the geothermal gradient, the top of the zone of oil generation (Ro = 0.6) in the Cenozoic basins may be at depths of 5,000-10,000 ft or more; thus, Tertiary strata in some of the deeper basins (such as the Yukon Flats and Nenana Basins) may have been buried as deep as the zone of oil generation and may have generated thermogenic gas (Stanley and others, 1990).
+Furthermore, mature and overmature rocks have been found locally, most notably in the Cantwell Formation of the Central Alaska Range (Stanley, 1987) and in unnamed Tertiary nonmarine strata along the Tintina fault (Dean L. Morgridge, consultant, oral commun., 1993).
+Elevated levels of thermal maturity may be the result of circulating hydrothermal waters in fault systems, frictional heating along faults, or heating by nearby igneous intrusions.
+Cenozoic volcanic and shallow intrusive rocks are common in central and western Alaska; quite possibly, thermogenic gas may have been generated locally near Cenozoic igneous intrusions that lie buried in the subsurface.
+The potential for liquid hydrocarbons in the Cenozoic basins is unclear but probably low.
+In the offshore Norton Basin of western Alaska, the Exxon OCS Y-0430 Number 1 well found small amounts of high-sulfur (about 2 percent S) oil while coring quartz schist; this oil is believed to have been generated from carbonate rocks of Paleozoic and (or) early Mesozoic age (DesAutels, 1988, page 522 and page 525).
+In the Holitna Basin, unpublished organic geochemical data suggest that graptolitic shales of Ordovician and Silurian age may be oil prone; speculatively, oil generated from these rocks may have accumulated in overlying Tertiary strata.
+Tasmanite, an organic-rich, oil-prone shale consisting mainly of the marine alga Tasmanites, has been reported from the margins of the Yukon Flats Basin.
+These shales are probably of Triassic age and may have generated oil that accumulated in the overlying Tertiary section (Dean L. Morgridge, consultant, oral commun., 1993).
+However, the lateral continuity, thickness, and stratigraphic distribution of tasmanite in the subsurface are unknown, and the volume of oil that may have been generated is uncertain.
+The potential of the Tertiary nonmarine rocks to generate oil is unclear.
+The Norton Basin COST Number 2 well found a show of paraffinic oil that appears to have been generated from a nonmarine source rock of Tertiary age (DesAutels, 1988, page 518-519).
+Rock-Eval pyrolysis results from outcrop samples of the Tertiary Usibelli Group in the Nenana coal field indicate some potential for liquid hydrocarbons, but this result should be viewed with caution until confirmed by more detailed geochemical analyses (Stanley and others, 1990, page 73).
+Many structural and stratigraphic trapping situations are possible in the Cenozoic basins.
+Likely seals include fluvial and lacustrine mudstones.
+Available published geologic maps and cross sections show that, in places, Cenozoic strata are mildly deformed into broad, open folds and cut by steeply dipping faults, including high-angle reverse faults.
+Seismic profiles obtained by the oil industry reportedly exhibit dip reversals that suggest folds comparable in size to some in Cook Inlet (Dean L. Morgridge, consultant, oral commun., 1993).
+Fault traps may occur along the margins of grabens and half-grabens, as along the eastern edge of the Minto Flats area in the Nenana Basin.
+Stratigraphic traps are probably abundant in fluvial strata, which include many stacked, fining-upward, channel-fill sequences in which lenticular bodies of sandstone--the potential reservoirs--are encased within shales and coals that are the potential source rocks and seals (Stanley and others, 1992).
+Two wells in the Nenana Basin penetrated coal-bearing nonmarine strata of Cenozoic age and bottomed in schist; both wells found minor gas shows associated with coal beds, but no signs of oil (Stanley and others, 1990).
+Two wells in the Kotzebue Basin of western Alaska encountered thick sections of Neogene marine and nonmarine strata and Eocene volcanic rocks, then bottomed in schist and marble (Fisher and others, 1982; Fisher, 1988; Decker and others, 1988).
+Neither of the Kotzebue Basin wells reported any shows of hydrocarbons.
+At least three wells in the Bethel Basin penetrated marine and nonmarine strata of Tertiary age and found minor coal but no signs of petroleum.
+In summary, the Cenozoic basins of the Central Alaska Province appear to have good potential for nonassociated gas, especially biogenic gas, but the potential for liquid hydrocarbons is unclear and probably low.
+The median undiscovered field in the Central Alaska Cenozoic Gas Play may be the same size as the median discovered field in the Cook Inlet Beluga-Sterling Gas Play, about 20 BCFG.
+The largest accumulation expected at a 5-percent chance in the Central Alaska Cenozoic Gas Play is estimated to be the same as the largest discovered field in the Beluga-Sterling Gas Play, the Kenai field, at about 2.5 TCFG.
+The largest number of undiscovered accumulations in the Central Alaska Cenozoic Gas Play is perhaps five times the number of discovered accumulations in the Beluga-Sterling Gas Play.

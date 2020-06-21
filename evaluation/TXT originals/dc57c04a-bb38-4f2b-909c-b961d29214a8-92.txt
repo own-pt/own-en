@@ -1,0 +1,32 @@
+The world was divided into 8 regions and 937 geologic provinces.
+These provinces have been ranked according to the discovered known (cumulative production plus remaining reserves) oil and gas volumes (Klett and others, 1997).
+Then, 76 “priority” provinces (exclusive of the United States and chosen for their high ranking) and 26 “boutique” provinces (exclusive of the United States) were selected for appraisal of oil and gas resources.
+Boutique provinces were chosen for their anticipated petroleum richness or special regional economic or strategic importance.
+A geologic province is an area having characteristic dimensions of hundreds of kilometers that encompasses a natural geologic entity (for example, a sedimentary basin, thrust belt, or accreted terrane) or some combination of contiguous geologic entities.
+Each geologic province is a spatial entity with common geologic attributes.
+Province boundaries were drawn as logically as possible along natural geologic boundaries, although in some places they were located arbitrarily (for example, along specific water-depth contours in the open oceans).
+Undiscovered conventional oil and gas resources were assessed within total petroleum systems of the Pelagian Province (2048) as part of the U.S. Geological Survey World Petroleum Assessment 2000.
+The Pelagian Province is located mainly in eastern Tunisia and northwestern Libya.
+Small portions of the province extend into Malta and offshore Italy.
+Although several petroleum systems may exist, only two “composite” total petroleum systems were identified.
+Each total petroleum system comprises a single assessment unit.
+These total petroleum systems are called the Bou Dabbous–Tertiary and Jurassic-Cretaceous Composite, named after the source-rock intervals and reservoir-rock ages.
+The main source rocks include mudstone of the Eocene Bou Dabbous Formation; Cretaceous Bahloul, Lower Fahdene, and M’Cherga Formations; and Jurassic Nara Formation.
+Known reservoirs are in carbonate rocks and sandstone intervals throughout the Upper Jurassic, Cretaceous, and Tertiary sections.
+Traps for known accumulations include fault blocks, low-amplitude anticlines, high-amplitude anticlines associated with reverse faults, wrench fault structures, and stratigraphic traps.
+The Pelagian Province is located mainly in eastern Tunisia and northwestern Libya (figure 1).
+A portion of the province extends into Malta and offshore areas of Italy.
+The province area encompasses approximately 294,000 km2.
+Neighboring geologic provinces as delineated by the USGS include the Tyrrhenian Basin (4069), Sicily (4066), Mediterranean Basin (2070), Sirte Basin (2043), Nefusa Uplift (2049), Hamra Basin (2047), Trias/Ghadames Basin (2054), Atlas Uplift (2053), and Tellian Foredeep (2052) (Persits and others, 1997).
+Several total petroleum systems may exist in the Pelagian Province, but only two “composite” total petroleum systems are described in this report.
+Data available for this study are insufficient to adequately determine the relative contribution of every total petroleum system to individual accumulations and therefore preclude further subdivision.
+The described systems are called the Bou Dabbous–Tertiary (204801) and Jurassic-Cretaceous Composite (204802) Total Petroleum Systems, named after the source-rock intervals and reservoir-rock ages.
+Both total petroleum systems coincide with the extent of proven source rocks within the province and the hypothesized extent of petroleum migration from their respective source rocks (figues 2, 3, and 4).
+Due to insufficient data, province and total petroleum system boundaries can only be approximately delineated and therefore are subject to future modification.
+One assessment unit was defined for each total petroleum system; the assessment units coincide with the total petroleum systems (figures 2, 3).
+The assessment units are named after the total petroleum system with a suffix of “Structural/ Stratigraphic.”
+This suffix refers to the progression from a structural and combination trap exploration strategy to a stratigraphic trap exploration strategy.
+Volumes of petroleum discovered in each of the total petroleum systems of the Pelagian Province are shown in table 1.
+The Pelagian Province as a whole contains more than 2,300 million barrels (MMB) of known petroleum liquids (estimated total recoverable volume, which is cumulative production plus remaining reserves and includes approximately 2,240 million barrels of oil, MMBO, and 70 million barrels of natural gas liquids, MMBNGL) and approximately 17,200 billion cubic feet of known natural gas (17.2×1012 CFG or 17.2 TCFG) (Petro­consultants, 1996a).
+These volumes are greater than those shown in table 1 in that the volumes include those from neighboring total petroleum systems that slightly extend into the province.
+The Bou Dabbous–Tertiary Total Petroleum System contains a greater volume of known petroleum (approximately 2,100 MMBO, 15,500 BCFG, and 44 MMBNGL) than the Jurassic-Cretaceous Composite Total Petroleum System (approximately 103 MMBO, 1,300 BCFG, and 23 MMBNGL).

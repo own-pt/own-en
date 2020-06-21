@@ -1,0 +1,26 @@
+Many Travis Peak fields in east Texas, northern Louisiana, and Mississippi are structural or combination traps associated with Louann Salt structures.
+Salt structures range from small, low-relief salt pillows to large piercement domes (McGowen and Harris, 1984; Kosters and others, 1989).
+Early discoveries in the blanket-sandstone trend were in anticlinal traps associated with salt structures.
+Subsequent discoveries came from more complex and subtle traps, including (1) combination traps with blanket sandstones pinching out across anticlines or structural noses and (2) stratigraphic traps with blanket sandstones pinching out on regional dip (Pate, 1963; Coleman and Coleman, 1981).
+Stratigraphic traps also occur where fluvial sandstones pinch out into floodplain mudstones or where coastal sandstones pinch out into tidal-flat, estuarine, or shallow-marine mudstones across closures, noses, or on regional dip.
+Numerous smaller structural highs on the Sabine uplift in the form of domes, anticlines, and structural noses provide traps for hydrocarbon accumulations.
+The origins of these smaller structures have been attributed to salt deformation and small igneous intrusions, as summarized by Kosters and others (1989).
+Because the Louann Salt is thin across the Sabine uplift, Kosters and others (1989) suggested that most of the smaller structures across the Sabine uplift developed in association with igneous activity.
+The concentration of producible hydrocarbons in sandstones in the upper part of the formation probably resulted from the absence of effective traps and seals within the sandstone-rich, low-sinuosity fluvial sequence of the upper Travis Peak Formation.
+Because the Travis Peak Formation is relatively mature with respect to drilling, undiscovered accumulations will be associated with structural traps smaller than many of those for previously discovered fields.
+The sizes and numbers of undiscovered accumulations for each assessment unit in appendix 1 reflect this exploration maturity.
+Data for various Travis Peak oil and gas fields—reported primarily by the Shreveport Geological Society (1946, 1947, 1951, 1953, 1958, 1963, 1987), the East Texas Geological Society (Shoemaker, 1989), and the Texas Bureau of Economic Geology (Herald, 1951)—document hydrocarbon-water contacts in Travis Peak sandstone reservoirs in 10 fields across east Texas and northern Louisiana (figures 12 and 13).
+Field reports edited by Herald (1951) do not use the terms “gas-water contact” or “oil-water contact,” but do report “elevation of bottom of oil or gas” and “lowest oil or gas.”
+It seems likely that “lowest gas” refers to the lowest elevation at which gas had been encountered by drilling at the time the report was written, whereas “elevation of bottom of gas” refers to an actual gas-water contact.
+Supporting that interpretation is the fact that the term “elevation of bottom of gas” clearly was used to indicate elevation of a gas-oil contact at Henderson field (Herald, 1951).
+If this interpretation of “elevation of bottom of gas” is correct, then hydrocarbon-water contacts are documented in Travis Peak sandstone reservoirs in four additional fields (Herald, 1951), as indicated in table 1 and shown by dashed field outlines in figure 12. 
+Hydrocarbon-water contacts documented in Travis Peak sandstone reservoirs in the seven Texas fields indicated in table 1 and figure 12 all occur within reservoirs in the upper part of the formation.
+No documentation for hydrocarbon-water contacts in middle or lower Travis Peak reservoirs in east Texas has been found.
+At Appleby North field, Nacogdoches County, Texas, Tye (1991) reported that gas seems to be present throughout the Travis Peak section, though not necessarily in commercial amounts, and discrete gas-water contacts do not exist.
+An attempt was made to document presence or absence of hydrocarbon-water contacts in additional Travis Peak fields through analysis of data from drill-stem tests (DSTs) and production tests.
+The goal was to determine if fields that produce from Travis Peak sandstones are flanked by dry holes that tested water only without gas, which would be indicative of presence of a gas-water contact.
+Wells penetrating the Travis Peak Formation and Cotton Valley Group across much of east Texas and northern Louisiana were extracted from a  database provided by IHS Energy Group (petroROM version 3.43) for analysis of DST and production-test data by using ArcView (version 3.2, Environmental Systems Research Institute, Redlands, CA).
+Well data were sorted and displayed with ArcView software such that wells that produce from Travis Peak sandstones could be distinguished from Travis Peak dry holes.
+While viewing the map display, test results from any particular well could be examined.
+Reconnaissance analysis of test data show that water was recovered without gas from production tests or DSTs in Travis Peak sandstone reservoirs in wells on one or more flanks of Bethany-Longstreet, Cheniere Creek, and Caspiana fields in northern Louisiana (figure 13).
+These data indicate the presence of gas-water contacts within Travis Peak sandstone reservoirs in those fields.

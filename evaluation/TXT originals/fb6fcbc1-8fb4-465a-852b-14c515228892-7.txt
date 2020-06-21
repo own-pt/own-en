@@ -1,0 +1,66 @@
+Seismic line 84-40 and particularly line 85-50 display prominent reflections at the base of the Brookian sequence (Plate BC1, cross section A).
+These reflections, together with reflections in underlying pre-Mississippian rocks, can be used to model horses in a duplex that deforms the pre-Mississippian rocks under the coastal plain.
+The duplex is located between a roof thrust at the base of the Brookian sequence and a floor thrust that lies at a depth of about 11.3 km.
+The most northerly of the horses forms the Aurora dome, whose backlimb is imaged at the northern end of 85-50 and whose forelimb is partly imaged in 84-40.
+The backlimb of the Aurora dome dips southward at 18° and is assumed to be equivalent in dip to the ramp over which the horse deformed.
+Forward dips measured on line 84-40 are about 20°.
+A structural relief of 2.6 km and shortening of 8 km is calculated for the structure.
+Developed partly on the backlimb of the Aurora dome, the Niguanak high marks a welldefined horse (Plate BC1, cross section A).
+High amplitude reflectors on the backlimb of the structure indicate a dip of 15°, a value used to construct the underlying rampage Forelimb dips are well imaged near the top of the structure and dip northward at 30°.
+Forelimb dips of about 16° are expected for ramp cutoff angles of 15° (Suppe, 1983), indicating that the structure is more complex than modeled.
+A similar conclusion was reached by Grow and others from regional seismic data, who interpret a series of south-dipping imbricate structures in the forelimb of the Niguanak high (Chapage NA, Figure NA3).
+To account for this complexity, the structure was modeled as a fault-bend fold with an oversteepened forelimb and calculations of bed length were adjusted for the forelimb according to Jamison (1987).
+A structural relief of 4.1 km and shortening of 12 km is estimated for the structure.
+As noted in “Stratigraphy” above, the Ellesmerian sequence is inferred to be present on the southern flank of the Niguanak high antiform as a unit that thins northward by (1) depositional onlap and (2) Early Cretaceous erosional downcutting on the LCU.
+Because the Endicott Group is inferred to be absent at the base of the Ellesmerian sequence in this area and thus there cannot be a roof-thrust detachment in the Kayak Shale, the Ellesmerian is modeled as a coherent part of the pre-Mississippian horse in the Niguanak structure.
+A consequence of this interpretation, coupled with the assumption of flat basal detachments in the cross section, is that the thickness of the pre-Mississippian rocks in the Niguanak-high horse increases northward (Plate BC1, cross section B).
+Thus, with respect to the top of the pre-Mississippian unit, the basal thrust appears to cut downward slightly in the direction of thrusting.
+Whether this predicted relation can be found in the structure is uncertain and depends on the assumption of constant depth for the sub-pre-Mississippian detachment.
+The horse of pre-Mississippian rocks that forms the Okerokovik River monocline (Figure BC2; Plate BC1, cross section A) represents a change of nearly 5 km in structural relief (see Grow and others, Chapage NA, Figure NA1 for the regional magnitude and extent of this structure).
+There can be several causes for this change including (1) stacking of horses, (2) change in horse thickness caused by a ramp in the basal detachment, (3) duplexing above a deeper detachment that lies beneath the sub-pre-Mississippian detachment, or (4) change in deformational style.
+Through trial and error, a change of horse thickness was found to provide the simplest solution, a conclusion also reached by Hanks (1991, 1993).
+A ramp in the basal detachment was thus inferred to be located at the leading edge of the restored position of this horse (~km 97-105, Plate BC1, cross section A).
+The thickness of the horse was calculated from an inflection in dip in Ellesmerian strata clearly visible at the south end of seismic line 85-50 (km 66, Plate BC1, cross section A).
+Ellesmerian reflectors south of the inflection are approximately flat, whereas to the north reflectors dip northward at about 32°.
+A ramp angle of 25° and a horse thickness from basal detachment to the sub-Mississippian unconformity of 7.9 km was calculated from these observations.
+Shortening is estimated to be about 12 km on the structure.
+Seismic data along the southern margin of the 1002 area clearly image the Ellesmerian sequence, including the Endicott Group, at the top of this horse (e.g.
+Grow and others, Chapage NA, Figure NA7 ) but do not show any detachment or duplication of the Ellesmerian section.
+For this reason, the regional detachment in the Kayak Shale is interpreted to not be present in the Ellesmerian sequence in this area and the Ellesmerian sequence was modeled with the underlying pre-Mississippian rocks as a single horse.
+The reason for the absence of the Kayak detachment despite the presence of the Endicott Group is uncertain but may be caused by a northward decrease in the amount of shale in the Kayak, an aspect of the Kayak noted at Leffingwell Ridge by Wallace and Hanks (1990) and Hanks (1991, 1993).
+The absence of the Kayak detachment in this horse is substantiated by observation in the Sadlerochit Mountains of northward stratigraphic discontinuity of the Kayak detachment (Wallace, 1993; Cole and others, Chapage SM).
+Pre-Mississippian rocks under the Aichilik River antiform were found to be difficult to model because of constraining surface relations provided by Hanks (1987, 1988, 1989, 1993) and the presence of the ramp inferred to lie at depth (see above).
+Through trial-and-error, a solution that consists of two horses of pre-Mississippian rocks was found to provide the best fit (Plate BC1, cross section A).
+The northern horse underlies Leffingwell Ridge and the adjacent coastal plain.
+Exposures of the Kingak Shale in an extensive series of rivercuts along the Aichilik River about 8 km to the west of the transect (Bird, Chapage GG, Plate GG1) suggests that the Ellesmerian sequence, and hence the top of the underlying horse, is nearly flat.
+South of Leffingwell Ridge, however, the top of the pre-Mississippian dips shallowly northward (Hanks, 1989, 1993).﻿
+Although a roof thrust is likely present in the Kayak above this contact, the unit is unusually thin and silty and contains carbonate rocks that may have impeded detachment (Wallace and Hanks, 1990; Hanks, 1991, 1993).
+On the basis of these observations, the roof thrust in the Kayak is inferred to terminate at depth beneath Leffingwell Ridge (~km 82, Plate BC1, cross section A) midway along the top of the underlying horse of pre-Mississippian rocks.
+The shallow north dip of the top of the pre-Mississippian south of Leffingwell Ridge is interpreted to have been caused by emplacement of the southern of the two horses along the Kayak detachment beneath a passive-roof formed by the Ellesmerian sequence.
+The restoration shown in Plate BC1 for the more northern of these horses provides a good fit with the known relations and was modeled as an intact succession of pre-Mississippian and Ellesmerian rocks.
+The more southerly of the horses, however, was difficult to model precisely and minor adjustments in the shape of the forelimb were necessary to provide an area and bed length (calculated at the sub-Mississippian unconformity) balance of cross sections A and B in Plate BC1.
+The adjustments in the forelimb may have been caused by oversteepening related to passage over the underlying ramp and adjacent horse.
+It is hypothesized that the oversteepening may have produced anisotropic strain in the forelimb because of the presence of preexisting Ellesmerian penetrative fabrics and/or sedimentary layering in the pre-Mississippian rocks in this area (Hanks, 1993).
+The model shown in Plate BC1 was made assuming a ramp angle of 25° and results in shortening of about 6.2 km on the northern horse and 11 km on the southern horse.
+The internal character of the Mt. Greenough antiform is not well understood.
+The reconnaissance map of Reiser and others (1980) and a structure contour map at the sub-Mississippian unconformity constructed by Hanks (1993) shows that along the west fork of the Aichilik River, about 20 km west of the cross section (Figure BC2), the Mt. Greenough antiform consists of two subsidiary antiforms that may mark two major horses.
+The structural relief of the southern horse relative to the intervening syncline is small (less than 1 km) and whether these structures extend eastward into the line of transect discussed here is uncertain.
+Assuming their eastward continuity, Hanks (1991, 1993) modeled these horses as having a thickness of about 5 km and deformed on a floor thrust that lies at a depth of about 7 km below sea level.
+In their balanced cross section from the same area, however, Homza and Wallace (1997, figure 12) interpreted horses in the pre-Mississippian rocks of the Mt. Greenough antiform as being 1-1.5 km thick and deformed on a floor thrust that lies at about 2 km below sea level.
+These interpretations suggest that internal deformation of the Mt. Greenough antiform needs to be more carefully assessed and that multiple detachment levels may be present.
+For the purpose of this paper, the pre-Mississippian rocks in the core of the Mt. Greenough antiform are modeled using the simplifying assumption that the entire antiform composes a single horse.
+This assumption requires that the allochthonous pre-Mississippian section has a structural thickness of over 14 km.
+A thickness of this amount for pre-Mississippian rocks is greater than that calculated for the horses in the Aichilik antiform and requires that a second ramp in the basal detachment must have existed south of the termination of the deformed section.
+This southern ramp, shown at about km 189-163 in the restored section in Plate BC1 (cross section B), provides a mechanism for the cooling recorded by apatite fission track analysis of rocks from core of the Bathtub syncline (see below).
+A second key constraint in modeling pre-Mississippian rocks in the southern part of the cross section is the presence and nature of the Wall synform on the north flank of the Mt. Greenough antiform (Figure BC2).
+The base of Ellesmerian strata in the synform lies at a somewhat higher structural level than to the north and the synform is cut by a reverse fault that places pre-Mississippian rocks above most or all of the Ellesmerian sequence on the south.
+The reverse fault is an unusual breaching thrust that can be traced for more than 125 km across the Demarcation Point 1:250,000 quadrangle (Reiser and others, 1980; Hanks, 1993; Peapples and others, 1997) (Figure BC2).
+The interpretation for this area shown on Plate BC1 (cross section A) portrays the pre-Mississippian rocks in the Mt. Greenough antiform as a hindward-rotated horse that breached the roof thrust that lies in the Kayak Shale.
+In its initial phase of development, over 13 km of northward shortening is hypothesized to have occurred beneath the Kayak.
+In the later stage of its development, the thrust migrated to a structurally higher position within the hangingwall, breaking through the roof of the duplex, through the Ellesmerian sequence, and possibly up into overlying Brookian section similar to the Weller thrust in the Sadlerochit Mountains (Wallace, 1993; Cole and others, Chapage SM).
+The breakthrough is interpreted to have stranded a wedge of pre-Mississippian rocks beneath the Wall synform as shown in Plate BC1 (cross section A).
+The breakthrough thrust may have developed prior to hindward rotation of the horse above the ramp in the basal detachment that lies at depth beneath its leading edge, or may have been caused by the rotation.
+About 9 km of shortening is proposed for the later stage of development of the duplex.
+As with the southern of the two pre-Mississippian horses in the Aichilik antiform, the horse of pre-Mississippian rocks in the Mt. Greenough antiform was difficult to balance, probably because of oversteepening arising from the ramp in the basal detachment that lies at depth beneath the hangingwall of the duplex.
+The bedlength of the forelimb of the duplex, mostly unconstrained because of erosion, was modified in order to achieve an area and bedlength balance on the restored section.
+An initial cutoff angle of 25° was assumed for the horse similar to that calculated under the Sabbath Creek syncline to the north.

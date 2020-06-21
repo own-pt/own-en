@@ -1,0 +1,27 @@
+In studying diagenesis and burial history of the Travis Peak Formation in east Texas, Dutton (1987) reported that measured vitrinite reflectance (Ro) values for Travis Peak shales generally range from 1.0 to 1.2 percent, indicating that these rocks have passed through the oil window (Ro = 0.6–1.0 percent) and are approaching the level of onset of dry-gas generation (Ro = 1.2 percent) (Dow, 1978).
+A maximum Ro value of 1.8 percent was measured in the deepest sample from a downdip well in Nacogdoches County, Texas.
+Despite the relatively high thermal maturity levels reached by Travis Peak shales, the small amount and gas-prone nature of organic matter in these shales preclude generation of oil, although minor amounts of gas might have been generated (Dutton, 1987).
+In the absence of actual measurements of Ro, values of Ro can be estimated by plotting burial depth of a given source-rock interval vs. time in conjunction with an estimated paleo-geothermal gradient (Lopatin, 1971; Waples, 1980).
+Dutton (1987) presented burial-history curves for the tops of the Travis Peak, Cotton Valley, Bossier, and Smackover for seven wells on the crest and western flank of the Sabine uplift.
+Two of these burial-history curves are reprinted with minor modification in figure 7.
+The burial-history curves show total overburden thickness through time and use presentday compacted thicknesses of stratigraphic units.
+Sediment compaction through time was considered insignificant because of the absence of thick shale units in the stratigraphic section.
+Loss of sedimentary section associated with late middle Cretaceous and middle Eocene erosional events was accounted for in the burial-history curves.
+Dutton (1987) provided justification for using the average presentday geothermal gradient of 2.1°F/100 ft for the paleo-geothermal gradient for the five northernmost wells.
+Paleo-geothermal gradients in the two southern wells probably were elevated temporarily because of their proximity to the area of initial continental rifting in the Triassic.
+By using estimated paleo-geothermal gradients in conjunction with burial-history curves, Dutton (1987) found that calculated values of Ro for Travis Peak shales agree well with measured values.
+Because of this agreement, Dutton used the same method to calculate Ro values for tops of the Cotton Valley, Bossier, and Smackover in east Texas (figure 7).
+Estimated Ro values for the Bossier and Smackover in seven wells range from 1.8 to 3.1 percent and 2.2 to 4.0 percent, respectively, suggesting that these rocks reached a stage of thermal maturity in which dry gas was generated.
+Under the assumption that high-quality, gas-prone source rocks exist within these two formations, one or both of these units likely generated gas found in Travis Peak reservoirs.
+No such regional source-rock and thermal-maturity analysis is known for the Travis Peak in northern Louisiana.
+Scardina (1981) presented burial-history data for the Cotton Valley Group, but included no information on geothermal gradients and thermal history of rock units.
+Presentday reservoir temperatures in Travis Peak sandstones of both east Texas and northern Louisiana range from 200° to 250°F (table 1).
+It is likely that Bossier and Smackover source rocks in northern Louisiana have a thermal history relatively similar to that of their stratigraphic counterparts in east Texas and, therefore, may be sources for Travis Peak gas in northern Louisiana.
+Herrmann and others (1991) presented a burial-history plot for Ruston field in northern Louisiana.
+At Ruston field, they suggested that Smackover gas was derived locally from Smackover lime mudstones and that Cotton Valley gas was derived from Cotton Valley and Bossier shales.
+Their burial-history plot shows that onset of generation of gas from Smackover and Cotton Valley source rocks at Ruston field occurred at about 80 Ma and 45 Ma, respectively.
+These estimates are reasonably consistent with Dutton’s (1987) date of 57 Ma for onset of dry gas generation from the Bossier Shale in east Texas.
+Most salt structures in the East Texas Basin were growing during the deposition of the Travis Peak Formation (McGowen and Harris, 1984), and presumably they were growing in the northern Louisiana Salt Basin as well.
+Therefore, these structures would have provided traps for hydrocarbons generated from Smackover, Bossier, and Cotton Valley source rocks.
+Also, as noted earlier in this report, the Sabine uplift has been a positive feature for the past 60 Ma (Kosters and others, 1989; Jackson and Laubach, 1991).
+The uplift would have been a focal area for gas migrating from Smackover, Bossier, and Cotton Valley source rocks in the East Texas and northern Louisiana Salt Basins.

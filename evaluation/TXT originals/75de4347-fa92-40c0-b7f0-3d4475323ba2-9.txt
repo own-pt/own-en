@@ -1,0 +1,35 @@
+The purpose of this report is to provide the sources of data that were used to prepare one-dimensional (1-D) burial history reconstructions at 6 well locations in the central Alberta part of the Western Canada Sedimentary Basin (WCSB) (figure 1, table 1); the 1-D reconstructions were then used to calibrate a three-dimensional (3-D) model of petroleum systems in the basin (Higley and others, 2005).
+The 3-D model was generated in order to calculate the relative influences through time of geologic processes that control generation, migration, and accumulation of petroleum.
+The software used for both 1-D and 3-D modeling was PetroMod1D (version 8.0) of Integrated Exploration Systems GmbH (IES), Germany.
+The well locations were chosen because they have measured downhole temperature data, either from the modeled well or from a nearby well, and they have measured vitrinite reflectance data from the coal-bearing Mannville Group to aid in calibrating burial history models.
+Minimum data input required for the software to calculate burial history curves include (1) age of deposition, generalized lithology, and thickness of stratigraphic units; (2) age and duration of periods of nondeposition or erosion; and (3) lithology and thickness of the eroded intervals.
+Table 2 shows the age and generalized lithologic and thickness data used to construct the burial history curves at each location.
+It also lists the interval names that correspond, in general, with intervals that were used in constructing a 3-D geologic model (Higley and others, 2005).
+Data sources to assign lithologies and ages of the stratigraphic units include Exploration Staff, Chevron Standard Limited (1979), Clark and Philp (1989), Obradovich (1991), Creaney and Allan (1992), Mossop and Shetsen (1994), Lexicon of Canadian Stratigraphy (1997), and Bloch and others (1999).
+The Agat Laboratories Table of Formations of Alberta (no date) was also used to estimate ages of stratigraphic units and periods of nondeposition or erosion.
+Lithologies were generalized for modeling purposes.
+Thicknesses of stratigraphic units in the subsurface were calculated from tops of units recorded in Riley’s well database for Alberta and the IHS Energy Accumap database (2004).
+In some cases, the stratigraphic unit thicknesses were modified to agree with isopach maps published in the Geologic Atlas of the Western Canada Sedimentary Basin (Mossop and Shetsen, 1994).
+Two major erosional events occurred in the WCSB that influenced petroleum generation, migration, and accumulation.
+The older one is a sub-Mannville erosional unconformity that we assigned an age that began between 368.5 and 197 Ma based on ages of formations below the unconformity and ended about 119 Ma (table 2).
+Due to uncertainty regarding the possible thickness of the eroded interval represented by this unconformity, we considered the interval to be a period of nondeposition for 1-D modeling purposes.
+A relatively minor period of nondeposition ocurred betweenn 104 and 100 Ma and is also recorded at all six of the burial history locations (figure 1).
+Greatest burial depth was achieved prior to about 58 Ma, as the basin subsided during Laramide deformation.
+The second major erosional event, caused by late Tertiary regional uplift, then resulted in the removal of an estimated 650 to 1,400 m of strata in the study area.
+These estimates generally agree with earlier published estimates of eroded thickness for the same area (Hitchon, 1984; Nurkowski, 1984; Bustin, 1991; Issler and others, 1991; Osadetz and others, 1992; and Ravenhurst and others, 1994).
+Data used to calibrate thermal models at each burial history (well) location include the approximate temperatures at the Precambrian surface (Bachu and Burwash ,1994), downhole temperatures, and vitrinite reflectance (%Ro) (figure 1).
+Downhole temperature data included uncorrected drillstem test temperatures (IHS Accumap database, 2004) from records of two of the wells (wells 306 and 301) and temperatures from records of wells nearby the other four wells (table 2).
+Vitrinite reflectance data are from Stasiuk and Fowler (2002) and Stasiuk and others (2002).
+Measurements of Ro from coal in the Mannville Group (and equivalents) are more reliable than those from other lithologies because coal contains the true vitrinite maceral from which the best reflectance values can be measured.
+Therefore, we calibrated the burial history models using the measured Ro values in the Mannville and were not concerned if the values of samples at lower stratigraphic horizons, which may not contain true vitrinite, did not match the calculated curve (figure 1).
+Paleosurface to presentday surface temperatures are important input parameters used by the software to calculate thermal history.
+We used a module that is included with the PetroMod1D program that calculates paleosurface temperature based on a study by Wrygala (1989).
+The average annual surface temperature for all the burial history locations in the study area was as follows: 24°C from the time the oldest strata were deposited, decreasing uniformly to 20 °C by 200 Ma, then increasing to 24 °C by 100 Ma, and decreasing again to 15 °C by 33 Ma.
+Finally, from about 33 Ma the surface temperature cooled gradually to the present average annual surface temperature of 5°C (Hacquebard, 1977).
+The heat flow value, which is also an important input parameter for the PetroMod1D program, is used for the burial history reconstructions (table 2).
+Presentday heat flow values at the base of the stratigraphic column at each modeled location were determined within the PetroMod1D program by calibrating with the measured downhole temperatures and the presentday and assumed paleosurface temperatures (see above) and the erosion estimate.
+Although it is probable that heat flow varied through time, it was not necessary to make assumptions about when changes of heat flow occurred or the extent to which heat flow changed through time, because using a constant heat flow through time resulted in an acceptable match of calculated Ro values, as determined by EASY%Ro (Sweeney and Burnham, 1990), with the measured Ro values (figure 1).
+The heat flow values calculated for wells 301, 307, 305, and 302 (table 2) are generally consistent with the mapped distribution of basement heat flow in the WCSB (Bachu and Burwash, 1994).
+The local heat flow anomalies at well locations 306 and 303 could be the result of variable radiogenic heat production in the basement rocks (Bachu and Burwash, 1994; Bachu and Cao, 1992; and Hitchon and others, 1990).
+Another possible cause for these anomalies, especially at well location 306 (Swan Hills upland), is that heat was being carried along with moving fluids.
+As the fluids are trapped, so is the heat, creating an anomalous condition at that level, and eventually this condition is transmitted to shallower depths (McGee and others, 1989).

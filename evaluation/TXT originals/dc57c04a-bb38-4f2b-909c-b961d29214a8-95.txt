@@ -1,0 +1,36 @@
+Using a geology-based assessment methodology, the United States Geological Survey estimated mean volumes of undiscovered conventional petroleum resources in six geologic provinces of China at 14.9 billion barrels of oil, 87.6 trillion cubic feet of natural gas, and 1.4 billion barrels of natural-gas liquids.
+The U.S. Geological Survey (USGS) assessed the potential for undiscovered conventional oil and gas resources in six geologic provinces of China: Junggar Basin, Bohaiwan Basin, Ordos Basin, Sichuan Basin, Songliao Basin, and Tarim Basin (figure 1).
+Each province was divided into 1-4 assessment units (AU), for a total of 13 AUs (table 1).
+The Junggar Basin, in northwestern China, was divided into two AUs: one for the pre-Jurassic reservoirs and one for the Jurassic through Tertiary reservoirs.
+The Pre-Jurassic Reservoirs AU has oil and gas fields that are primarily in Permian and Triassic fluvial sandstones and fluvial and alluvial fan conglomerates.
+The main source rocks are Permian lacustrine rocks and Jurassic coals.
+The Jurassic-Tertiary Reservoirs AU has Jurassic and Tertiary fluvial and nearshore lacustrine sandstone reservoirs.
+The main source rocks are also Jurassic coals and Permian lacustrine rocks.
+Traps for both AUs are mostly anticlines and fault blocks.
+The Bohaiwan Basin was assessed as a single AU: the Tertiary Lacustrine and Buried Hills AU.
+Tertiary reservoir rocks are mostly fluvial, lacustrine deltaic, and lacustrine turbiditic sandstones.
+The reservoirs in the buried hills include fractured Archean crystalline basement rocks, karsted Proterozoic limestones and dolomites, Cambrian and Ordovician limestones, and Mesozoic volcanics.
+Source rocks are deepwater lacustrine shales and mudstones, most importantly those in the Eocene Shahejie Formation.
+The traps include structural and stratigraphic traps for the Tertiary reservoirs, as well as classic examples of buried hills.
+The Ordos Basin was divided into two conventional AUs.
+The Ordovician Gas AU has gas fields producing from carbonates of the Ordovician Majiagou Formation that have significant karst development beneath a regional unconformity.
+Source rocks are primarily Upper Carboniferous and Permian coals and shales, but there may be some contribution from Ordovician carbonate sources.
+The Triassic-Jurassic Fluvial and Lacustrine Sandstones AU has reservoirs in Triassic and Jurassic fluvial and deltaic sandstones.
+The main source rock is lacustrine mudstones of the Triassic Yanchang Formation.
+Traps are mostly stratigraphic.
+The Sichuan Basin was divided geographically into three AUs: one for gas fields in the heavily folded southeastern part of the basin (Southeastern Fold Belt AU), one for gas fields in the northwestern depression and foldbelt (Northwestern Depression and Foldbelt AU), and one for oil and gas fields in the central uplift (Central Uplift AU).
+Most of the fields are gas fields, with reservoirs ranging in age from Proterozoic to Jurassic.
+Most of the oil fields have Jurassic reservoirs.
+Reservoir rocks include Proterozoic and Carboniferous through Triassic carbonates, as well as Triassic and Jurassic sandstones.
+Source rocks are shales ranging from Cambrian to Jurassic in age.
+Traps include anticlines and buried hills.
+The Songliao Basin was divided into four AUs.
+Oil and gas fields of the Stratigraphic Traps AU have Upper Cretaceous fluvial and deltaic sandstone reservoirs in stratigraphic traps, primarily sourced from Lower Cretaceous lacustrine rocks.
+The Anticlinal AU has similar reservoir and source rocks, but the traps are primarily structural and are located on the major anticlines in the center of the basin.
+The Kailu Depression AU, in the southwestern part of the basin, also has similar reservoir and source rocks; it contains both structural and stratigraphic traps.
+The Structural Traps AU has older sandstone reservoirs that are below the Cretaceous Qingshankou Formation and are sourced by the Jurassic coal beds.
+The Structural Traps AU has both structural and stratigraphic traps.
+The Tarim Basin was assessed as a single AU: the Conventional Reservoirs AU.
+Reservoirs are mainly Jurassic and Miocene fluvial and lacustrine sandstones, along with some clastic and carbonate reservoirs of Ordovician and Carboniferous ages.
+Source rocks are primarily the Jurassic lacustrine shales and coals, but there may be some contribution from Ordovician marine rocks and Carboniferous coals.
+Traps are mostly anticlines and fault blocks.

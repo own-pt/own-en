@@ -1,0 +1,44 @@
+On outcrop just west of the Province boundary, the Frontier Formation consists of five members (figure 2): in ascending order, the Chalk Creek, Coalville, Allen Hollow, Oyster Ridge, and Dry Hollow Members (Hale, 1960; M'Gonigle and others, 1995).
+These members are exposed on the hanging walls of imbricate thrusts in western Wyoming and northern Utah (figure 1).
+In the subsurface, the Frontier is informally divided into the first through fourth Frontier.
+The second Frontier is further divided into benches 1-5 (figure 2, Moxa arch column).
+The .rst and second Frontier sandstones are the main reservoirs (figure 2).
+Total thickness of the formation on the hanging wall is over 1,000 ft, and these units thin into the province to about 250 ft thick in the footwall of the Hogsback thrust.
+The rapid thinning of the members is partly due to shortening of the section because of thrusting and subsequent erosion of strata of intermediate thickness from the hanging wall and partly due to thinning associated with decreasing accommodation space within the foreland basin.
+On the Moxa arch and Rock Springs uplift, remnants of the Chalk Creek Member are interpreted on well logs (figure 6) and in core.
+The Oyster Ridge is easily traced from outcrop, where the unit is dated by the presence of Collignoniceras woollgari, into the subsurface to the western rank of the Rock Springs uplift and then back to outcrop near Flaming Gorge where the unit contains the ammonite Prionocyclus hyatti.
+The Dry Hollow Member can also be interpreted in the subsurface and traced as far as the Rock Springs uplift.
+On the northeast margin of the province, the Frontier is about 600-1,000 ft thick and is divided into three members:  in ascending order, the Belle Fourche, the Emigrant Gap (formerly called the unnamed member), and the Wall Creek (Merewether, 1983; Mieras, 1993).
+A correlation diagram (figure 2) shows the age control and interpretations of the physical correlation of the units within the Southwestern Wyoming Province.
+The Belle Fourche Member approximately correlates to the Chalk Creek Member, the Emigrant Gap Member to the Oyster Ridge Member, and the Dry Hollow Member, in part, to the Wall Creek Member.
+Others have made this correlation as well (for example, Merewether and Cobban, 1986).
+The main reservoirs in the Frontier are shoreface/deltaic, estuarine, and fluvial sandstones at depths down to about 19,950 ft (IHS Energy Group, 2001).
+Sandstones are mainly sublitharenites and litharenites with relatively minor amounts of feldspathic litharenites and lithic arkoses (Dutton and others, 1992, their figure 33).
+Fluvial facies are more lithic-rich (Winn and Smithwick, 1980).
+Within the province, sandstone porosity has a range of 2.4-28 percent and permeability has a range of 0.0008-500 mD (Cardinal and Stewart, 1979; Miller and others, 1992).
+In the Moxa arch area, tidal, fluvial, and shoreface sandstones have similar porosity ranging from an average of 9.3 to 11 percent  (Winn and others, 1984; Stonecipher and Diedrich, 1993).
+Porosity is as much as about 17 percent and permeability is as much as 50 mD, with most measurements less than 2 mD for tidal and fluvial sandstones on the Moxa arch (Stonecipher and Diedrich, 1993).
+The fluvial and tidally influenced sandstones tend to be better quality reservoirs than shoreface sandstones because of early quartz cementation in the shoreface sandstones and dissolution of late calcite cements in fluvial/tidal sandstones (Winn and others, 1984).
+Lower shoreface sandstones have the lowest quality because of compaction and clay cementation (Dutton and others, 1992; Stonecipher and others, 1984).
+Frontier reservoirs produce from 123 named fields in the province, and the fields that rank highest in terms of number of producing wells (more than 100 wells) are Bruff, Church Buttes, Fontenelle, Green River Bend, Lincoln Road, Tip Top, and Whiskey Buttes (IHS Energy Group, 2001).
+Production from conventional accumulations of the Mowry Composite TPS is from anticlines, fault-bounded closures, stratigraphic traps, or combinations of the three (Cardinal and Stewart, 1979; Miller and others, 1992).
+The most important structure influencing conventional accumulation is the Rock Springs uplift, which had minor expression during the latest Cretaceous and earliest Paleocene (Kirschbaum and Nelson, 1988) and major expression by latest Eocene and possibly Oligocene time.
+The Moxa arch also shows evidence of recurrent movement and initially may have provided structures for conventional accumulations, some of which were later modified or partially modified into continuous accumulations.
+Production from continuous (unconventional) accumulations is concentrated on the Moxa arch, presumably associated with intense fracturing and minor faulting on the structure (see Dutton and others, 1992; Anderson and Dietz, 2003) although depositional environment and diagenetic history are also important controls on reservoir quality (for example see Stonecipher and others, 1984; Stonecipher and Diedrich, 1993).
+Major seals are provided by marine shale units of the Thermopolis, Mowry/Aspen, and Hilliard Shales (figures  2 and 5A).
+Locally, seals are provided by mudrock deposited in coastal- or alluvial-plain settings.
+Diagenetic permeability barriers can act as seals or traps in some fields (Muller and Coalson, 1989; Reisser and Blanke, 1989).
+Diagenetic traps are described for Dakota reservoirs on the southern Moxa arch (Reisser and Blanke, 1989), and some workers think these traps also control production on the Moxa arch within the Frontier (Stands, 1999).
+Early clay cementation in upper Dakota fluvial channels sealed the reservoirs in the lower Dakota during early migration of petroleum (Muller and Coalson, 1989).
+These diagenetic seals were sufficient to preserve the integrity of the reservoirs during subsequent structural movement of the Moxa arch when the reservoirs might have been breached, allowing remigration of the petroleum (Reisser and Blanke, 1989).
+Diagenetic seals can also act as localized permeability barriers (for example, at Tip Top field, Edman and Cook, 1992).
+Capillary pressure seals associated with the development of basin-centered accumulations usually are created at the time of peak gas generation (Law and Dickinson, 1985).
+The Mowry Composite Total Petroleum System consists of two assessment units (AU): AU 50370201 is conventional and covers all of the Southwestern Wyoming Province, and AU 50370261 is continuous and covers about 11,500,000 acres of the province (figure 3).
+This assessment unit, which covers the entire area of the TPS, contains conventional structural and stratigraphic traps at or near normal hydrostatic reservoir pressures.
+The reservoirs generally have permeabilities greater than 1 mD and have oil/water or gas/water contacts.
+Historically, 11 conventional oil fields and 29 conventional gas fields have been found in the province (NRG Associates, 2001) above the minimum accumulation size considered in this study of 0.5 million barrels of oil (MMBO)  or 0.3 billion cubic feet of gas (BCFG).
+Oil accumulations range in size from about 0.65 to 40 MMBO (figure 7) and gas accumulations range in size from about 3 to 900 BCFG (figure 8).
+No conventional accumulations above the minimum size cutoff have been discovered since the mid-1980s.
+The areas that have potential for additions to reserves in the next 30 years are estimated to contain relatively small fields located mainly in compartments having local structural closure or in small stratigraphic traps within the Rock Springs uplift, such as Deadman Wash field (figure 3).
+Reservoir targets are fluvial sandstones in the Frontier, Dakota, or Muddy sandstones, shoreface sandstones in the Frontier, and possibly lowstand deltaic sandstones of the Frontier east of the Rock Springs uplift.
+Based on plots of size relative to discovery time (figures  7 and 8), we estimate a median number of 3 undiscovered oil accumulations and 14 undiscovered gas accumulations that have the potential to be discovered in the next 30 years with a median size of 1.5 MMBO and a median of 12 BCFG, respectively (Appendix A).

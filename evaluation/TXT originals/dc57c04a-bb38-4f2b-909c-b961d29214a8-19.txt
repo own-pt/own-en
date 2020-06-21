@@ -1,0 +1,10 @@
+This report summarizes the economic analysis of the U.S. Geological Survey's 2005 petroleum assessment of the Central North Slope of Alaska.
+The study area is located east of the National Petroleum Reserve Alaska (NPRA) and west of the Arctic National Wildlife Refuge (ANWR).
+It extends from the State-Federal offshore border south to the Brooks Range (figures 1 and 2).
+The study area includes all onshore lands (State, Federal, and Native) and the lands underlying adjacent Alaska-State waters.
+Past discoveries in this area have already produced about 15 billion barrels of hydrocarbon liquids (more than 12 billion barrels of crude oil (BBO)).
+More than 35 trillion cubic feet (TCF) of gas has also been identified to date.
+Estimates of technically recoverable oil in undiscovered oil accumulations range from 2.57 to 5.85 BBO with a mean of 3.98 BBO (Bird and Houseknecht, 2005).
+The range in estimated volumes corresponds to the 95 percent probability (that is, a 19 in 20 chance the actual volume will exceed that 95th fractile volume) and the 5 percent probability level (1 in 20 chance the actual will exceed 5th fractile volume), respectively.
+Similarly, the 95th and 5th fractile estimates of technically recoverable gas volumes in undiscovered gas accumulations range from 23.9 to 44.9 TCF of gas with a mean value of 33.3 TCF.
+The minimum sizes of the assessed accumulations were 5 million barrels recoverable oil and 100 billion cubic feet (BCF) recoverable gas.

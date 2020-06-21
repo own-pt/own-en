@@ -1,0 +1,68 @@
+Natural gases produced from coals in the Black Warrior Basin are very dry, with median gas wetness only about 0.1 percent; median CO2 content is 0.08 percent, and median N2 content  less than 0.01 percent (table 2).
+There is no measurable H2S.
+Geographic distributions of sampled gases and gas wetnesses (Oak Grove, Brookwood, and Deerlick Creek degasification fields) are shown in figure 19.
+Rice (1993) interpreted the coal gases to be mainly of thermogenic origin.
+However, based primarily on the relatively negative d13C1 compositions of the coal-bed gases, he (Rice, 1993) suggested that the gases are a mixture of thermogenic gas and gas produced during a late-stage methanogenesis.
+This methanogenesis was initiated by freshwater incursions into the shallower coals on the east side of the basin (see figures 17, 18) that may have begun during the late stages of Mesozoic unroofing.
+These incursions are apparently controlled by northwest-trending faults and fractures (Pashin and others, 1991).
+Estimates of volumes of undiscovered gas from undrilled areas in the Black Warrior Basin are based on historical production data, well characteristics, distributions of gas and water production, and the relation of gas production to the geologic framework.
+The first coal-gas production in the Black Warrior Basin was associated with degasification of underground coal mines.
+Production began in both the Oak Grove and Brookwood coal degasification fields in 1981, and 20 coal-bed gas fields have since been identified (figure 20).
+Production data from the 10 largest of these fields are listed in table 3.
+Cumulative production through January 2003 was about 1,415 billion cubic feet of gas (BCFG), with most of the production concentrated in the southeastern part of the Black Warrior Basin AU in Tuscaloosa and Jefferson Counties, Alabama (Alabama State Oil and Gas Board at http://www.gsa.state.al.us/ogb/db_main.html).
+Volumes of produced coal gas and water and numbers of well permits and producing gas wells for the years 1980 through 1998 are shown in figure 21.
+Wells in seven coal degasification fields (Little Buck Creek, Taylor Creek, Little Sandy Creek, Carrolls Creek, Wolf Creek, Boone Creek, and Pleasant Grove) (figure 20) have been plugged and abandoned.
+Most wells in the Moundville field are listed by the State Oil and Gas Board of Alabama as temporarily abandoned.
+Active exploration is now focused in Blue Creek, White Oak Creek, and Short Creek fields in the northern part of the basin (Pashin and others, 2003).
+Three types of coal-gas wells are drilled in the Black Warrior Basin—vertical wells, gob wells, and horizontal wells.
+Gob wells and horizontal wells are drilled in association with underground mining operations, whereas vertical wells are similar to conventional petroleum wells, have no dependence on mining operations, and are drilled in all coal-gas fields (Pashin and others, 2004).
+Coal-gas development in the Black Warrior Basin began in 1980, and most wells have produced gas for 9 to 15 years.
+The earliest wells, which were underground mine degasification wells drilled between 1975 and 1980, are in closely spaced patterns (about 15 acres) in eastern Oak Grove field and in Pleasant Grove field.
+Subsequent field development has primarily utilized 40- and 80-acre well spacing.
+Most wells were drilled between 1988 and 1991 prior to expiration of the Section 29 tax credit, and nearly all are still producing (Pashin and others, 2004).
+Completion practices in vertical wells vary considerably (for examples, see Lambert and others, 1980; Holditch and others, 1989; Pashin and Hinkle, 1997).
+Many early wells were open holes completed in single coals, but virtually all modern wells are cased and perforated in multiple coals (Graves and others, 1983).
+Stimulation practices have also varied—early wells were stimulated with water and sand, nitrogen foam, or cross-linked gel, whereas the most recent vertical wells were stimulated with nitrogen foam (Pashin and others, 2004).
+Essentially all vertical wells produce at least some water and gas, and the volumes of fluid produced and the production decline characteristics of these wells can be difficult to predict; however, some generalizations can be made.
+Gas and water production tend to peak during the first 2 years that wells are on line, although it is not uncommon for some wells to take more than 4 years to reach peak flow rates (Pashin and Hinkle, 1997).
+Once peak gas production is reached, it tends to decline exponentially (a constant rate of decline), whereas water production tends to decline hyperbolically (a decreasing rate of decline) (Pashin and others, 2004).
+The cumulative gas production map (figure 22) shows a general arcuate trend to the area in which most wells have produced more than 300 million cubic feet of gas (MMCFG).
+Within this trend, which extends from the Cedar Cove field northward into the White Oak Creek field (fields identified in figure 20), many wells have had cumulative production exceeding 1 BCFG, and some wells in the Cedar Cove field have produced more than 1.5 BCFG.
+Outside this arcuate trend, cumulative production exceeding 300 MMCFG of gas has a patchy distribution; in the Little Sandy Creek, Moundsville, Little Buck Creek, and Taylor Creek fields, for example, only one well has produced more than 100 MMCFG (Pashin and others, 2004).
+Cumulative water production has a more heterogeneous distribution than cumulative gas production (figure 23).
+Wells have produced less than 100,000 barrels (bbl) over large parts of the Black Warrior Basin, but some wells with cumulative production exceeding 1,000,000 bbl exist in most fields.
+The largest areas, where cumulative water production has exceeded 100,000 bbl per well, are in the Robinson’s Bend and Cedar Cove fields and the western part of the Oak Grove field.
+From the northeastern part of the Cedar Cove field to the southeastern part of the Deerlick Creek field, high water production generally corresponds with the arcuate trend of high gas production (figures 22, 23).
+However, farther north, from the northern part of the Deerlick Creek field into the White Oak Creek field, less than 100,000 bbl of water have been produced from the wells with high gas production (Pashin and others, 2004).
+Many factors influence the productivity of coal-gas wells in the Black Warrior Basin, including well design and completion practices, well spacing, coal thickness, gas content, and the abundance and openness of natural fractures (Pashin and others, 1991; Pashin and Hinkle, 1997).
+Within the basin, Pashin and others (1991) observed an extremely poor correlation between net completed coal thickness and peak production of gas and water, concluding that although coal thickness and gas content were key determinants of the resource base, they were not the primary determinants of well performance (Pashin and others, 2004).
+Reservoir quality is structurally controlled.
+For example, strata in anticlines (such as the Blue Creek anticline) adjacent to the thrust faults of the Appalachian orogen are more intensely fractured than are anticlines in other parts of the basin.
+This increased fracturing enhances permeability and gas productivity.
+Normal faults, which generally trend northwest-southeast, are abundant in the Black Warrior Basin (figure 8).
+These faults are related to extensional tectonics and form a series of linear to arcuate horst and graben blocks, which tend to compartmentalize production.
+In addition to the major normal fault system, two distinct sets of cleats are developed in the Pottsville coals.
+One dominant set, which strikes to the northeast, has been reported throughout the Alabama portion of the basin (see figure 12).
+The other set is developed locally on the southeast basin margin in Jefferson and Tuscaloosa Counties, where the face cleats strike to the northwest (Pashin and others, 1991, 2004).
+Control of gas and water production by normal faults is not obvious from regional maps.
+However, such control is indicated on detailed maps of the southeastern part of the Deerlick Creek field (figure 25), where peak production of both gas (more than 300,000 cubic feet per day) and water (more than 750 barrels per day) is concentrated in a pair of half grabens.
+There is little, if any, production from the intervening half graben and full graben (Pashin and others, 1995; Pashin and Groshong, 1998; Pashin and others, 2004).
+The highly productive wells within the Strip Mine graben penetrate the bounding fault and are completed within the Holt Lake half graben.
+Well performance within the half grabens is extremely variable.
+Pashin (1998) and Pashin and Groshong (1998) attributed this variability to variable structural conditions between wells that influence the abundance and openness of natural fractures, thereby determining the effectiveness with which wells can dewater and depressurize the reservoir.
+Through the first quarter of 2000, more than 3,500 gas wells had been completed within the Black Warrior Basin AU, and some 3,200 of these wells were still producing (Pashin and others, 2004).
+A graph showing the estimated ultimate recovery (EUR) for gas wells in all fields, based on production from 3,200 wells, is shown in figure 26.
+Only wells with minimum recoveries of more than 10 MMCFG were used to calculate the EUR distributions shown in figure 26.
+The estimated minimum total recovery of 10 MMCFG was based on considerations of the minimum recovery that might be required for an untested cell to be economically viable within similar geologic and production constraints on producing gas wells in the basin.
+EUR distributions by “thirds,” shown in figure 27, are based on dates of initial production for the first (early), second (middle), and third (late) fractions of the 3,200 producing gas wells; each third includes about 1,070 wells regardless of the number of years involved.
+Figure 27 shows two trends of interest to resource assessment: (1) earlier wells have overall lower maximum EUR projections, suggesting that more recent production has improved in terms of minimum recovery (likely the result of improved recovery technology); and (2) EUR projections of later wells have decreased from those of the middle wells, suggesting that the best wells (on average) have been drilled.
+The EUR distributions were the primary basis for estimating minimum, median, and maximum ultimate recoveries for untested cells in the assessment unit.
+Our estimated median total recovery of gas per well of 400 MMCFG was based on the EURs estimated for 50 percent of the most recent one-third of the producing wells in the assessment unit (figure 27).
+In contrast, our estimated maximum total recovery of 20,000 MMCFG (figure 27 at 100 percent) per untested cells reflects the possibility that other wells with this much production might exist.
+Within the Black Warrior Basin AU, a general southeast to northwest decrease in well productivity is predicted, a likely result of the decreasing coal thermal maturity, decreasing number of coal beds, and resultant decrease in EUR per well.
+Our estimate for the minimum percentage of the untested area within the AU that has the potential for additions to reserves during the next 30 years is about 9 percent (about 640 mi2).
+This value assumes that additional gas production will focus primarily on infill drilling, resulting in an increase in production within existing fields.
+Our estimated median percentage of untested area with the potential for additions to reserves in the next 30 years is about 27 percent (about 1,920 mi2).
+This value includes additions to reserves from infill drilling coupled with expansion of fields into currently untested areas.
+Our analysis resulted in estimated volumes of potential additions to reserves within the Black Warrior Basin AU of 4.61 TCGF at the 95-percent certainty level, 6.85 TCFG at the 50-percent certainty level, 10.18 TCFG at the 5-percent certainty level, and a mean of 7.06 TCFG (U.S. Geological Survey, 2003, their table 1).
+In comparison, for the four Black Warrior Basin coal-gas plays characterized by Rice and Fenn (1995) for the 1995 USGS National Assessment Oil and Gas Assessment, Charpentier and others (1996) listed an estimated 2.2 TCFG at the 50-percent certainty level of potential additions to gas reserves.

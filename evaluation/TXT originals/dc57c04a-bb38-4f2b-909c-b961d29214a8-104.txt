@@ -1,0 +1,45 @@
+The U.S. Geological Survey (USGS) recognizes that there are several individual total petroleum systems in this area.
+For assessment purposes, however, they were combined into a single composite Eocambrian-Miocene TPS (the Patala-Nammal TPS, 802601) because few correlations of source to reservoir hydrocarbons were available at the time of the assessment.
+In addition, multiple stacked sources and reservoirs—and extensive fault systems—allow the mixing of hydrocarbons from multiple sources making further subdivision more difficult.
+The Paleocene Patala Formation appears to be the primary source of hydrocarbons, but other potential source rocks may be contributing in different parts of the basin.
+There are several potential source rocks in the Kohat-Potwar geologic province.
+These include the Late Proterozoic–Lower Cambrian Salt Range; Permian Wargal, Sardhai, and Chhidru; Paleocene Lockhart; and Eocene Patala Formations (OGDC, 1996; Quadri and Quadri, 1996).
+Most of the available information and analyses available was derived from samples collected on the Potwar Plateau and easternmost Kohat Plateau.
+The remainder of the Kohat Plateau source-rock potential is not as well known.
+Correlated columnar sections (Shah and others, 1977) show a generalized thinning of the Paleocene-Eocene stratigraphic sequences toward the southwest part of the Kohat Plateau.
+Lower Cretaceous Sembar and Lower Goru temporal equivalents - the Chichali and Lumshiwal Formations - may be the youngest mature rocks with source potential throughout most of the Kohat Plateau.
+The oldest potential source rocks are in the Salt Range Formation, which consists of a clastic-dominated lower section, carbonate-dominated middle section, and an evaporite­dominated upper section.
+Potential source-rock intervals are found primarily in the upper evaporite sequence.
+The Permian Sardhai and Chhidru, although sandy, have sufficiently high total organic carbon (TOC) values to have source-rock potential (Quadri and Quadri, 1997).
+The shallow-marine shales of the Eocene Patala Formation, ranging in thickness from 20 to 180 m, are the probable predominant oil source in the Potwar Basin (OGDC, 1996, oral commun.).
+Patala TOC ranges from 0.5 percent to more than 3.5 percent, with an average of 1.4 percent, and are type-II and -III kerogens.
+The exception to this may be the Dhurnal field (figure 14), where Patala samples have low TOC values, whereas TOC values in the Permian Wargal are 1.0 percent and in the Lockhart they are 1.4 percent (Jaswal and others, 1997).
+Oil samples from Dhurnal field also do not match those known to be sourced by the Patala.
+Sulfur content of the oils is less than 0.65 percent, except at Joyamair where sulfur content is greater than 2 percent (Khan and others, 1986).
+Thermal maturities for Kohat-Potwar rocks range, from Ro 0.3 to more than 1.6 percent.
+A basin profile (OGDC, 1996) indicates vitrinite reflectance equivalent maturities of 0.62 to 1.0 percent for Tertiary rocks in the productive part of the Potwar Basin (figure 19).
+Fluid-inclusion data, with vitrinite-reflectance data used for calibration, shows calculated and measured Ro samples between 0.6 and 1.1 percent for Cretaceous, 0.5 to 0.9 percent for Jurassic, and 0.65 to 0.95 percent for Permian rocks (Tobin and Claxton, 2000).
+North of the main boundary thrust fault, maturities are higher.
+In the northern and probably central basin, Cretaceous rocks are in the 1.0 to 1.6 percent Ro range.
+Dry gas generation begins near 1.3 percent Ro.
+Generation of hydrocarbons most likely began in Late Cretaceous time for Cambrian through Lower Cretaceous source rocks and again from Pliocene time to the present for younger source rocks (OGDC, 1996).
+Burial-history plots by Law and others (1998) (figure 20) start at about 30 Ma and therefore show only a late or second period of generation beginning 20 to 15 Ma and continuing to the present.
+Two distinct overpressuring regimes were reported by Law and others (1998).
+A Neogene overpressuring regime was attributed to tectonic compression and undercompaction, and a pre-Neogene overpressuring regime is attributed to combined hydrocarbon generation and tectonic compression The burial-history plots of Law and others (1998) also indicate that maximum burial was reached approximately 2 million years ago.
+Even though there were probably two distinct periods of generation from two different groups of source rocks, sufficient source-to-reservoir correlation data were not available to clearly define separate petroleum systems.
+In many oil and gas fields, there are stacked source and reservoir rocks possibly resulting in mixing of oils.
+Migration is primarily over short distances updip and vertically into adjacent reservoirs and through faults and fractures associated with plate collision and thrusting.
+Reservoir rocks include Miocene alluvial sandstones, Paleogene shelf carbonates, Jurassic and Permian continental sandstones, and Cambrian alluvial and shoreface sandstones (Shah and others, 1977; Iqbal and Shah, 1980).
+On the Potwar Plateau, oil or gas has been produced from the following formations: Cambrian Kherwa, Kussak, and Jutana; Permian Tobra, Amb, and Wargal; Jurassic Datta; Cretaceous Lumshiwal; Paleocene Khairabad, Lockhart, Patala, and Nammal; Eocene Bhadrar, Chorgali, and Margala Hill Limestone; and Miocene Murree (Khan and others, 1986; Petroconsultants, 1996) (figure Paleogene shelf carbonates, Jurassic and Permian continental 5).
+Production from more than one of these reservoirs (in one sandstones, and Cambrian alluvial and shoreface sandstones case five reservoirs) was reported at 12 of the 22 fields in the database (Petroconsultants, 1996).
+More than 60 percent of the producing reservoirs (by field) are of Cenozoic age (figure 21), with the majority of those being Eocene carbonates.
+Sandstone porosities range from less than 5 percent to 30 percent and average 12 percent to 16 percent.
+Permeability ranges from less than 1 millidarcy (mD) to greater than 300 mD, with the average ranging from 4 to 17 mD (Khan and others, 1986).
+At the Dhurnal field and probably elsewhere in the basin, hydrocarbons in the carbonate reservoirs are primarily from tectonically induced fracture porosity on strike with structural trends (Jaswal and others, 1997).
+Approximately 60 percent of the identified producing reservoirs are carbonates (figure 22).
+Because oil and gas production volumes are reported by field rather than reservoir in the database used (Petroconsul­tants, 1996) and 12 of 21 fields reported production from more than one reservoir, no attempt was made to assign volumes of oil and gas to reservoirs, ages, or lithologies.
+Most of the fields discovered in the Kohat-Potwar geologic province to date are either overturned faulted anticlines, popup structures, or fault-block traps.
+In this area, anticlinal features strike generally east-northeast to west-southwest and are approximately parallel to the plate-collision zone.
+Many of these folded structures are amplified, or they are only present above a detachment zone in Eocambrian salts.
+The latest trap-forming thrust events began at approximately 5 and 2 Ma (Jaswal and others, 1997).
+Seals include fault truncations and interbedded shales and the thick shales and clays of the Miocene and Pliocene Siwalik Group .

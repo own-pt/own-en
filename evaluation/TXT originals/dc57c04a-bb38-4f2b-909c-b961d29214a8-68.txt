@@ -1,0 +1,31 @@
+Nearly all of the petroleum-producing zones have been stimulated by at least one stage of hydro­fracturing.
+The approximate boundary between the basin-center and hybrid-conventional parts of the Lower Silurian regional oil and gas accumulation (Ryder and Zagorski, 2003) crosses section E–E’ near well 45 (figures 1A and B).
+As an approximate measure of variability in reservoir performance and character across section E–E’, the initial production flow (IPF) of gas, oil, and water was recorded for each well (table 1).
+Recorded gas IPFs in the “Clinton” sandstone have a median value of 65 thousand cubic feet of natural gas (MCFG) per day and range from 10 MCFG per day (well 64) to 1,500 MCFG per day (well 3) (table 1).
+Three wells in the “Clinton” sandstone on section E–E’ had a gas IPF equal to or exceeding 500 MCFG per day.
+Two of these higher yield gas wells (3 and 33) are located in the hybrid-conventional part of the regional accumulation, whereas one well (49) is located in the basin-center part.
+There are no obvious differences between the depositional character (facies or systems tracts) of reservoirs in these three wells and the character in nearby wells having low to modest yields.
+In fact, the only obvious correlation seems to be the year that the wells were drilled.
+All three higher yield wells were drilled prior to 1980 as were seven of the eight wells with an IPF of 150 MCFG per day or more (table 1).
+These data suggest that wells completed prior to 1980 had higher flow rates because there was less interference from nearby wells with overlapping drainage areas.
+Also, these IPF data show no compelling correlation between gas production and a specific part of the Lower Silurian regional oil and gas accumulation.
+For example, the median IPF value for wells in the hybrid-conventional part of the regional accumulation is only slightly greater than the median IPF value for wells in the basin-center part (68 versus 50 MCFG per day, respectively).
+Recorded oil IPFs in the “Clinton” sandstone along section E–E’ have a median value of 4 barrels of oil (BO) per day and range from 1 BO per day in numerous wells (for example, wells 39, 48, and 59) to 240 BO per day in well 23 (table 1).
+The importance of hydrofracturing is indicated in well 12 where oil flow increased from a trace to 5 BO per day after stimulation (table 1).
+The largest oil fields on section E–E’, the East Canton field (between wells 50 and 57) and the Wooster field (between wells 22 and 26), have reported IPFs as high as 75 and 240 BO per day, respectively.
+The East Canton oil field is anomalous because it is located in the gas-dominated basin-center part of the regional accumulation.
+Ryder and Zagorski (2003) suggested that the presence of oil in this region is related to incomplete oil-to-gas transformation during the formation of basin-center gas.
+Thick sequence 3 fluvial and estuarine sandstones in the East Canton field (section E–E’) may account for the abnormally large size of the field, an interpretation that is supported by Sitler (1985) who reported that the best petroleum production comes from these deposits.
+Also, the updip pinchout of the fluvial-estua­rine sandstones between wells 41 and 44 probably contributed to the subtle entrapment of oil at the East Canton field.
+Sitler’s observation cannot be confirmed with the IPF data in table 1 because the perforated zones in the “Clinton” sandstone at East Canton span the unconformity and, thus, allow the mixing of petroleum from both the fluvial-estuarine sandstones and underlying shoreface sandstones.
+The Tuscarora Formation (Sandstone) on section E–E’ produces gas from the Heyn pool (well 68) in southwestern Pennsylvania and the Leadmine field (wells 71 and 72) in northern West Virginia.
+Also, gas produced from the Tuscarora Sandstone in wells 71 and 72 may be commingled with gas from the Cacapon Sandstone Member.
+IPFs from the Tuscarora range from 313 MCFG per day in well 68 to 16,300 MCFG per day in well 72.
+According to Avary (1996), both fields are characterized by anticlinal traps and fracture-enhanced porosity.
+Furthermore, Wescott (1982) demonstrated that secondary intergranular and interlaminar porosity, as great as 23 percent in well 72 (7,237 ft), in the Leadmine field may complement fracture porosity to increase the reservoir quality of the Tuscarora.
+Perforated intervals along section E–E’ suggest that gas is produced from one or more depositional sequences in the Tuscarora reservoir ranging from shoreface sandstone in the highstand systems tract of sequence 1 to fluvial-estuarine and tidal flat sandstone in the transgressive systems tract of sequence 3.
+High interlaminar porosity in the Tuscarora Sandstone at 7,237 ft in well 72 (Wescott, 1982) suggests that fluvial-estuarine deposits may be a potentially important reservoir.
+Water (brine) production, ranging from 1 to 1,000 barrels of water (BW) per day, is associated with the oil and gas in Ohio (see wells 1, 10, 45, 55, 57, and 65, for example).
+Except for well 1 with an IPF of 1,000 BW per day, the produced-water IPFs are generally greater in the basin-center part of the Lower Silurian regional oil and gas accumulation than in the hybrid-conventional part.
+However, this distribution of produced water is contrary to the basin-center gas model proposed by Ryder and Zagorski (2003).
+Probably the greater-than-expected water IPFs in the basin-center part are greatly influenced by the anomalous East Canton oil field and perhaps by the presence of water introduced during hydrofracturing of the reservoir.

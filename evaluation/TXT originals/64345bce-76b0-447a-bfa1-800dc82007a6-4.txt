@@ -1,0 +1,52 @@
+The Torok Formation was selected for analysis of shale porosity versus depth because it is a thick, areally widespread, and relatively homogeneous lithologic unit.
+It represents a significant proportion of the Colville foreland-basin fill and is mid-Cretaceous (Aptian through Cenomanian) in age (Mull and others, 2003).
+As summarized by Molenaar (1988), it occurs throughout the NPRA, where it ranges in thickness from somewhat less than 900 m in the north to more than 6,000 m in the south.
+Uplift and erosion are indicated by surface exposures in the foothills of the Brooks Range and the occurrence of Torok rocks just beneath surficial Pliocene and (or) Pleistocene deposits on the Barrow peninsula (area C, figure 1).
+The Torok Formation is characterized by clinoform seismic geometry.
+Where completely preserved, the seismic reflectors indicate that approximately the upper tenth of the Torok represents shelf environments, the middle 40–60 percent slope environments, and the lowermost 30–50 percent basinal environments.
+Turbidite sandstones are most common in the lowermost part of slope and in the basinal settings.
+The Torok Formation is the lateral equivalent of the fluvial-deltaic Nanushuk Formation and, in its lowermost and southernmost parts, probably equivalent to the Fortress Mountain Formation.
+Wells located south of lat 70° N., except for the Tulaga (area G, figure 1), were drilled on anticlines in which the Torok is structurally thickened by some combination of thrust faulting and shale flowage.
+The anticlines were formed in early Tertiary time (60–45 Ma), according to apatite fission-track analysis (Potter and Moore, 2003).
+A modest sampling (18 samples from 11 wells; Bartsch-Winkler and Huffman, 1988) indicates that Torok sandstones are composed, on average, of 54 volume percent quartz, 18 volume percent feldspar, and 28 volume percent lithic grains.
+Lithic grains are represented, on average, by 24 volume percent volcanic-rock, 17 volume percent metamorphic-rock, and 59 percent sedimentary-rock grains.
+In addition, Torok sandstones were determined to contain from 10 to more than 30 percent clay-rich matrix, believed to be composed of mudstone and siltstone grains that have been molded between more resistant grains, so that they have lost their original shape identifying them as detrital grains.
+Porosity was calculated from sonic logs in 40 wells penetrating most or all of the Torok Formation within and immediately adjacent to the NPRA (figure 1; table 1).
+First, the shale fraction was calculated from the gamma-ray log (shale-fraction curves, figures 11, 12).
+Then the porosity was calculated from the sonic log, using equations 1 and 2. Both filtered (smoothed) and unfiltered forms are shown in figure 12. Porosity decreases with depth throughout the Brookian sequence (1,000–7,400-ft depth, figure 11).
+From 1,000- to 5,500-ft depth, the porosity in sandier (low shale fraction) intervals is greater than in shalier (high shale fraction) intervals, as also determined by Rowan and others (2002, 2003) in wells offshore the North Slope of Alaska.
+Commencing some 500 ft above the top of the Torok Formation, however, the relation reverses, and the porosity in sandier units is less than in shalier units.
+This reversed relation is observed in the Torok Formation in all the wells that we have studied, as shown by the examples in figure 12. (The trend in the overpressured Tunalik well in figure 12A does not show a reversed relation.)
+The bulk of the Torok Formation is composed of fine-grained sandstone, siltstone, and mudstone.
+Few sandstone intervals are thick enough to be discernible on the gamma-ray log, and those that are recognizable have gamma-ray values not much lower than those of the siltstones and mudstones.
+Torok sandstones are reported to contain low-grade metasedimentary-rock fragments (David Houseknecht, oral commun., 2004) and are known to have high feldspar and lithic-grain contents, which cause elevated gamma-ray values that would result in a low calculated porosity (eqs. 1, 2).
+In addition, Torok sandstones in outcrop are observed to be well cemented (Chris Schenk, oral commun., 2002).
+From these observations, the low porosities calculated in sandier units of the Torok Formation could be due to a combination of elevated gamma-ray values and a high degree of cementation.
+If porosity loss depended solely on thermal maturity and the R0 data were free of systematic errors, then the line segments in figures 16 and 17 would collapse to a single bundle.
+The line segments do coalesce to some extent—plotting porosity as function of vitrinite reflectance (figure 16) causes a tighter grouping of wells than plotting porosity as a function of depth (figure 13)—but the coalescence of line segments within figure 16 or 17 is incomplete.
+Moreover, the line segments for wells in the foothills (figure 17) lie below those in the coastal areas (figure 16).
+As discussed in the preceding section, the rapid rate of sedimentation and overpressuring may be responsible for the preservation of porosity at greater depths in the foothills than in the coastal areas.
+Three wells in the central area—Inigok, Koluktak, and Ikpikpuk (area F, figure 1)—plot with low porosity gradients, similar to wells in the foothills area (figures 13, 14), but, when plotted logarithmically against vitrinite reflectance in figure 17, overlie the porosity trendlines for wells in the coastal areas.
+In other words, the R0 data indicate thermal maturities in wells in the central area comparable to those in wells in the north, but the porosities and porosity gradients are more comparable to those in wells in the south.
+The overpressuring and effective stress in the central area apparently was similar to that in the foothills, but the depth of burial (and the uplift) was less.
+The Tulaga well (area G, figure 1) appears to be an isolated case.
+As calculated from the sonic log, the porosity in Torok shales is nearly constant at approximately 10.6 percent over the depth range 5,805–10,655 ft.
+However, vitrinite reflectances are low in comparison with similar porosities in deep wells in the foothills.
+Thus, the porosity trendline for the Tulaga well plots anomalously above the trendlines for all other wells in the foothills in figure 17.
+The porosities and their near-constancy with depth indicate that the Torok Formation was deeply buried, whereas the low vitrinite reflectances imply shallow burial (figure 16).
+The consistency of the porosities with those in neighboring wells raises concern regarding the validity of the R0 data from this well.
+As pointed out by Issler (1992), the offset of the porosity-depth curves in figure 13 can be used to estimate the relative amount of uplift between any two wells.
+By modifying the AFF equation to incorporate the shale fraction from the gamma-ray log, the porosity can be calculated from the sonic log for all siliciclastic rocks.
+Core data from NPRA wells indicate only a slight bias in the resulting estimates of porosity.
+On a plot of sonic velocity versus porosity, the AFF equation used in this report has a narrower window than some other transforms (Eberhart-Phillips and others, 1989; Vernik, 1997) but is comparable to the one developed for a wide range of datasets by Erickson and Jarrard (1998).
+To examine compaction trends within the NPRA, we extracted a porosity-depth trend from the shaliest components of the Torok Formation.
+The decrease in porosity with depth in shales is approximately linear—at least, we could see no reason to apply a nonlinear trend to the porosity-depth data in the Torok Formation.
+Porosity-depth trends in wells are grouped into seven areas, the characteristics of which are attributed to varying amounts of uplift and to the effect of overpressuring during burial in some parts of the NPRA.
+The porosity trendlines from various wells cluster better when plotted against vitrinite reflectance than against presentday depth, indicating that the use of R0 data to compensate for maximum burial depth explains much, but not all, of the variation among compaction trends in the northern NPRA.
+The record of uplift and erosion is clearly manifested in the porosity-depth trends in wells in the northern NPRA, where no record of overpressuring is evident.
+Using Issler’s (1992) trendline of no uplift, we have determined uplifts ranging from 0 in the east to 5,100 ft in the west.
+South of the Barrow Arch, the rocks have been sufficiently compacted that the estimates of uplift are minimums rather than totals.
+The largest minimum uplift was determined in the East Kurupa well (area G, figure 1), where at least 5,700 ft of uplift has occurred.
+Porosity gradients range from 1 percent per 1,000 ft in the foothills, where the Torok section is thickest and burial has been deepest, to 12 percent per 1,000 ft in the Point Barrow area, where the section is thinnest (figure 15).
+This range in porosity gradient is greater than that reported in other studies, such as by Issler (1992).
+The determination of its cause awaits further investigation of burial history across the basin to resolve the effects of sedimentation rate and overpressuring.

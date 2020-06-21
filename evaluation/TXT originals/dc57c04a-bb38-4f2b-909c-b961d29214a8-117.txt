@@ -1,0 +1,38 @@
+Porosity and permeability of Travis Peak reservoir sandstones are controlled by both depositional environments and diagenetic factors as already described, which in turn strongly affect the reservoir quality.
+From an assessment perspective, these variables will have a significant effect on the sizes and numbers of undiscovered accumulations.
+Most hydrocarbon production from Travis Peak sandstones in northeast Texas is from drilling depths between 6,000 and 10,000 ft, and sandstone porosity decreases significantly with depth through that interval (Dutton and Diggs, 1992).
+For all Travis Peak sandstones (clean and shaly), average porosity decreases from 10.6 percent at 6,000 ft to 4.4 percent at 10,000 ft (figure 8).
+This depth-related decrease in porosity is not caused by increased compaction (Dutton, Laubach, Tye, and others, 1991; Dutton and Diggs, 1992), but rather by (1) an increase in quartz cement and (2) a decrease in secondary porosity.
+Secondary porosity was generated almost exclusively from dissolution of feldspar, and the original feldspar content of Travis Peak sandstones decreases systematically with depth (Dutton and Diggs, 1992).
+High initial porosity together with high degree of connectivity of multilateral, multistory braided-channel sandstones permitted large volumes of diagenetic fluids to move through the thick Travis Peak fluvial-sandstone interval.
+As a result, the thick fluvial section lost most of its primary porosity to extensive quartz cementation.
+However, because sandstones in the upper 300 ft of the Travis Peak are encased in mudstones, smaller volumes of diagenetic fluids moved through those sandstones, and they commonly retain significant primary porosity (Dutton and Land, 1988).
+According to Dutton and Diggs (1992), average stressed permeability of clean Travis Peak sandstones in northeast Texas decreases by four orders of magnitude, from 10 mD (millidarcy) at 6,000 ft to 0.001 mD at 10,000 ft.
+For all sandstones, average stressed permeability declines from 0.8 mD at 6,000 ft to 0.0004 mD at 10,000 ft (figure 9).
+Decrease in permeability from 6,000 to 10,000 ft primarily is a function of (1) decrease in porosity, which in turn is caused principally by increasing quartz cement, and (2) increase in overburden pressure that closes narrow pore throats.
+Although this latter effect has a significant impact on permeability, it has little influence on porosity.
+At any given depth within the Travis Peak Formation in northeast Texas, permeability ranges over approximately four orders of magnitude.
+Also, at any given depth, average permeability is 10 times greater in clean, fluvial sandstones than in clean, coastal sandstones.
+According to Dutton and Diggs (1992), inferior permeability of clean, coastal sandstones probably can be attributed to three factors.
+First, because coastal sandstones are finer grained, they had poorer permeability than coarser-grained fluvial sandstones at the time of deposition.
+Second, although coastal sandstones and fluvial sandstones contain similar amounts of quartz cement, coastal sandstones contain an average of 7 percent more total cement by volume than fluvial sandstones because they have significantly larger volumes of authigenic dolomite, ankerite, illite, chlorite, and reservoir bitumen.
+Third, much of the porosity in coastal sandstones is secondary porosity and microporosity associated with authigenic illite and chlorite that occurs within secondary pores.
+Secondary porosity and microporosity both contribute significantly less to permeability compared to primary porosity, in which pores are better connected.
+Reservoirs examined by Dutton, Laubach, Tye, and others (1991) that contain bitumen had an average porosity of 7.5 percent prior to formation of bitumen.
+Formation of reservoir bitumen reduced that average porosity to 3.5 percent, a loss of 55 percent of the prebitumen pore space.
+Within the coastal facies, where most of the reservoir bitumen occurs, permeability patterns probably controlled the pore spaces into which oil originally migrated and in which reservoir bitumen eventually formed.
+Cross-bedded and rippled sandstones that are clean and well-sorted contain large volumes of reservoir bitumen, whereas burrowed, shaly, poorly sorted sandstones have little or no reservoir bitumen.
+Consequently, many sandstone intervals that had the highest initial porosity and permeability following compaction and cementation now have little or no porosity and permeability because of formation of reservoir bitumen.
+Fluid-pressure gradients (FPGs) for Travis Peak sandstone reservoirs in oil and gas fields in east Texas and northern Louisiana (table 1) were calculated from initial shut-in pressures reported in Herald (1951), Shreveport Geological Society Reference Reports (1946, 1947, 1951, 1953, 1958, 1963, 1987), Kosters and others (1989), Shoemaker (1989), and Bebout and others (1992).
+Multiple FPG values for a single field in figures 10 and 11 refer to FPGs calculated for different, stacked Travis Peak sandstone reservoirs in that field.
+Most calculated FPGs are between 0.41 and 0.49 psi/ft.
+Higher FPGs were encountered in three fields in east Texas (figure 10): 0.53 psi/ft at Tri-Cities and Percy-Wheeler fields and 0.54 psi/ft at Carthage field.
+A gradient of 0.79 psi/ft was calculated for one Travis Peak sandstone reservoir in Clear Branch field in northern Louisiana, although gradients in three other Travis Peak reservoirs within the same field were 0.47, 0.48, and 0.48 psi/ft (table 1; figure 11).
+Other fields scattered geographically across east Texas and northern Louisiana exhibit below-normal FPGs ranging from 0.36 to 0.38 psi/ft.
+The lowest FPG in the Travis Peak field trend is 0.27 psi/ft in Village field, Columbia County, Arkansas (figure 11).
+In northern Louisiana where Travis Peak hydrocarbon production comes from various interdeltaic sandstones scattered throughout the Travis Peak section, shut-in pressure data are available from a variety of depths within the formation.
+In east Texas, however, most production comes from sandstone reservoirs in the upper 300 ft of the Travis Peak Formation.
+Consequently, shut-in pressure data are abundant for the upper 300–500 ft of the Travis Peak, but are limited in the lower three-fourths of the formation, which includes the thick fluvial sequence that characterizes the bulk of the Travis Peak in east Texas.
+Calculated FPGs from sandstone reservoirs at least 500 ft below the top to the Travis Peak are normal at Appleby North, Bethany, Cedar Springs, and Trawick fields and subnormal at Waskom and Whelan Fields (table 1; fig 10).
+Reservoirs in the middle and lower Travis Peak at Woodlawn and Carthage fields also are normally pressured, according to Albert Brake (BP Amoco engineer, oral commun, 2000), who reported no knowledge of any significant overpressure in Travis Peak reservoirs at any depth within the formation in east Texas.
+The best available data, therefore, suggest that significant overpressures do not occur within any reservoirs throughout the entire Travis Peak Formation in east Texas.

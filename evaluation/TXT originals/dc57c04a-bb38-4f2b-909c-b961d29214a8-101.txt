@@ -1,0 +1,15 @@
+Source rocks in the Bighorn Basin include organic-rich marine shales in the Thermopolis Shale, Mowry Shale, Frontier Formation, and Cody Shale (figure 7).
+The amount and type of organic matter in these marine shales are summarized in figure 19, and was compiled from Schrayer and Zarrella (1963), Nixon (1973), Hagen and Surdam (1984), Burtner and Warner (1984), Hagen (1986), Davis (1986), Yin (1997), and Finn (Chapter 4, this CD-ROM).
+Guidelines for evaluating kerogen type and organic richness are from Peters and Cassa (1994).
+The total organic carbon (TOC) content of the Thermopolis Shale ranges from 0.37 to 1.91 percent and averages 1.23 percent, indicating a fair to good generating potential.
+The hydrogen index (HI), ranging from 79 to 446 with all but one sample less than about 200, shows the formation to be predominantly gas-prone; however, S2/S3 ratios reported by Finn (Chapter 4, this CD-ROM), and associated oil production from the overlying Muddy Sandstone indicates that the Thermopolis generated, or has the potential to generate, oil (P.G. Lillis, written commun., 2007).
+The TOC content for the Mowry Shale ranges from 0.08 to 3.6 percent with an average of 1.36 percent, indicating a poor to very good generating potential, with most samples falling in the fair to good range.
+The HI values range from 10 to 634, with most samples falling between 50 to 360, so the Mowry has the potential to generate both oil and gas.
+The TOC content of the marine shales in the Frontier Formation ranges from 0.11 to 4.53 percent and averages around 1.13 percent, with most samples in the fair to good range of generating potential.
+HI values show the Frontier to be gas-prone, with values ranging from 10 to 201.
+The TOC content of the Cody Shale ranges from 0.12 to 5.86 percent, with most samples falling around 1 percent or less; thus, the formation has fair generating potential, with some excellent potential locally.
+The HI ranges from 88 to 337, with most samples less than 200, indicating that the Cody is predominantly gas-prone but may be oil-prone locally.
+However, due to a lack of oil production associated with the Cody Shale (for example, from Cody sandstones and interfingering Source Rocks 23 Mesaverde sandstones), it is believed to be mainly a gas-prone source rock.
+In addition to the marine shales, coal beds and carbonaceous shales in the Mesaverde, Meeteetse, and Fort Union Formations are considered to be sources of gas in the Bighorn Basin (Nuccio and Finn, 1998; Yin, 1997) (figure 7).
+However, according to Jones and DeBruin (1990) and Johnson (1998), the total volume of coal in the Bighorn Basin is considerably less than in the Wind River Basin, a basin of similar size where coal is thought to be an important source for gas (Johnson and others, 2007).
+Also, subsurface mapping by Johnson (1998) shows that the distribution of coal beds in the Bighorn Basin are limited (figures 20, 21, 22), so are probably not a major source for gas generation.

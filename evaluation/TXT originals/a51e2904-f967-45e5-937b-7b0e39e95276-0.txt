@@ -1,0 +1,35 @@
+The Lewis Continuous Gas Assessment Unit (AU 50220261) is defined by a combination of factors including the occurrence of known underpressured gas production in the Lewis Shale and La Ventana and Chacra Tongues of the Cliff House Sandstone, as well as known reservoir and source rocks, natural or artificially stimulated fractures in these rocks that enable gas production, and the extensive subsurface distribution of the Lewis Shale in the SJB.
+Production to date from the Lewis Shale is primarily from recompletions in preexisting Mesaverde wells that already penetrate the Lewis.
+However, the reservoir facies that produce gas from the Lewis in recompleted Mesaverde wells occur throughout the subsurface extent of the Lewis in the SJB, as do the presumed source rocks within the Lewis.
+In addition, the Lewis Shale throughout a large portion of the basin was buried deeply enough by Eocene time to generate hydrocarbons.
+Because the Lewis Shale is thought to be both self-sourced and self-sealed, trap formation and hydrocarbon accumulation likely occurred throughout a large area of the subsurface.
+The distribution of natural fractures is unknown, but artificially induced fractures are a successful completion and production practice in many Lewis recompletions.
+Thus, the Lewis Shale is potentially capable of producing gas in a large area of the SJB whether or not preexisting Mesaverde wells or natural fractures exist.
+Known production in the Lewis is primarily from silty or sandy intervals that are susceptible to natural or artificially induced fractures.
+These intervals in the Lewis Shale represent the distal equivalents of parasequences that can be traced into more proximal facies in the La Ventana and Chacra Tongues.
+The proximal shoreface facies of the La Ventana and Chacra Tongues are present only in the southwest part of the San Juan Basin; however, the distal parasequences and the source rocks in the Lewis Shale extend virtually to the outcrop throughout the rest of the SJB.
+Examination of EUR curves from the IHS production database (Troy Cook, USGS, written commun., 2002) indicate that the La Ventana and Chacra wells behave in a manner consistent with a continuous gas accumulation.
+That is, they exhibit gas production curves that decline at rates consistent with wells in other known continuous gas accumulations.
+Designation of the nature of the gas accumulation and the production curves for the Lewis Shale itself is more problematic due to the Lewis being produced from preexisting Mesaverde wells and co-mingling of the gas being produced and reported.
+No wells exist in the database that report solely Lewis gas production to evaluate whether the Lewis presents production EUR curves consistent with a continuous gas accumulation.
+However, wells that were recompleted in the Lewis were identified in the database, and EUR curves from those wells were examined.
+Because the La Ventana and Chacra are producing from a continuous gas accumulation sourced from the Lewis Shale, and because EUR curves for those units display a “typical” production curve for a continuous gas accumulation (Troy Cook, USGS, written commun., 2000), it was plausible to include those two units in the Lewis Continuous Gas Assessment Unit.
+Thus, the Lewis Continuous Gas Assessment Unit (AU 50220261) is defined to include both the La Ventana and the Chacra Tongues and the Lewis Shale over the entire subsurface extent of the units.
+Data retrieval from the IHS well file identified over 5,000 Mesaverde wells in the San Juan Basin.
+By identifying which wells were recompleted since about 1990, and individually examining the well reports for perforated intervals, 1,144 tested cells were attributed to the Lewis Shale.
+To obtain EUR curves for these Lewis wells, it was necessary to examine individual Mesaverde EUR curves and identify those with production increase “spikes” within the last ten years, presumably due to Lewis recompletions.
+The presumed increased contribution to the gradually declining production curve was interpreted as Lewis Shale production.
+Based on the EUR curves, a minimum total recovery per cell was established at 0.02 BCF gas (appendix A).
+Wells with gas production below this minimum value were not included, because they have production too small to be representative of the assessment unit.
+This left 1,087 tested cells with EURs greater than or equal to the minimum EUR.
+The total number of producing wells was divided by three, separating the production data into three thirds.
+The EURs for the producing wells were plotted separately for the first third of the wells, the second third, and the third third.
+The median EUR is 0.5 BCFG for the first third of the producing wells, 0.25 BCFG for the second third, and 0.22 BCFG for the third third.
+There is adequate access, charge, reservoir, trap, seal, and timing and generation of hydrocarbons, indicating a geologic probability of 1.0 for finding at least one additional untested cell with total recovery greater than the stated minimum of 0.02 BCFG.
+GIS techniques were applied to geographic coverages for the assessment unit to determine the total assessmentunit area, the area per cell of untested cells, and the untested area (appendix A).
+The median area of the assessment unit is 4,804,000 acres.
+The uncertainty of the location of the line defining the assessment unit is about 10 percent, so that the maximum area is 5,284,000 acres and the minimum area is 4,324,000 acres.
+The area per cell of untested cells is related to the drainage area of a well.
+The closest drilling of Mesaverde wells in the basin at present is 40 acres, and this is the presumed minimum size of cells for Lewis wells.
+The median is 100 acres, and the maximum is 200 acres.
+At the median, the untested area of the assessment unit is 97.5 percent, with a minimum of 97 percent and a maximum of 98 percent.

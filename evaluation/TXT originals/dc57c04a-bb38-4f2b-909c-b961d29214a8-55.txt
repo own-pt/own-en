@@ -1,0 +1,71 @@
+The Niobrara Total Petroleum System (TPS) is a self-sourced system that produces oil and natural gas from fractured carbonate rock reservoirs in the Upper Cretaceous Niobrara Formation and equivalent rocks of the Southwestern Wyoming Province.
+The Niobrara TPS encompasses the area of eastern and southeastern Greater Green River Basin of southwestern Wyoming and northwestern Colorado.
+The Niobrara and equivalents were deposited during a major Late Cretaceous marine transgressive cycle that created conditions favorable for the deposition of fine-grained marine carbonate rocks and the preservation of organic matter.
+The Niobrara ranges in thickness from 900 to 1,800 feet and consists mainly of interbedded organic-rich shale, calcareous shale, and marl.
+The hydrocarbon source beds contain predominantly Type-II oil-prone organic matter with total organic carbon contents ranging from 0.85 to 2.75 weight percent.
+Thermal maturities range from less than 0.60 percent Ro (vitrinite reflectance) along the eastern and southern flanks of the basin to greater than 1.35 percent Ro in deeper parts of the basin.
+Because of the fine-grained nature of the Niobrara, petroleum production is dependant on fractures that develop in hard, brittle, carbonate-rich zones.
+These brittle calcareous reservoirs are overlain, underlain, and (or) interbedded with soft, ductile marine shales that inhibit migration and seal the hydrocarbons within the fractured reservoir zones.
+Burial-history reconstructions and petroleum generation models show that the Niobrara entered the oil window between 72 and 67 million years ago.
+Along the shallow flanks of the basin the Niobrara remains in the oil window.
+With continued subsidence and burial in the deeper portions of the basin, the Niobrara reached thermal maturities sufficient to crack oil to gas.
+The Niobrara TPS is subdivided into two assessment units based on thermal maturity:  a continuous oil assessment unit and  a continuous gas assessment unit.
+The assessment units are characterized as "continuous-type" accumulations because they have the following characteristics: (1) no down-dip hydrocarbon/water contact, (2) little or no water production, (3) abnormally pressured, and (4) production independent of structural closure.
+The continuous oil assessment unit is an established assessment unit located in the updip parts of the eastern and southern flanks of the basin where thermal maturities are less than 1.35 percent Ro and generally are considered to be within the oil window.
+The continuous gas assessment unit is hypothetical and is located in the deeper portions of the basin where thermal maturities are greater than 1.35 percent Ro.
+The mean volume estimate of undiscovered oil resource for the Niobrara continuous oil assessment unit is 103.6 million barrels of oil.
+The hypothetical Niobrara continuous gas assessment unit was not quantitatively assessed because of a lack of production data and (or) a suitable analog.
+The Southwestern Wyoming Province (SWWP) (5037) is a large sedimentary and structural basin that formed during the Laramide orogeny (Late Cretaceous through Eocene).
+The SWWP covers approximately 23,000 mi2 and occupies most of southwestern Wyoming, parts of northwestern Colorado, and a small area of northeastern Utah (figure 1).
+The basin is structurally bounded on the west by the Wyoming thrust belt, on the north by the Wind River and Granite Mountains uplifts, on the east by the Rawlins, Sierra Madre, and Park uplifts, and on the south by the Uinta Mountains and Axial Basin uplift.
+The Niobrara Total Petroleum System (TPS) (503703) produces primarily oil from fractured, calcareous-rich shales, shaley limestones, and marls from the Upper Cretaceous Niobrara Formation or equivalent rocks, in the eastern portions of the Greater Green River Basin (GRRB).
+The western margin of the SWWP is formed by the Wyoming thrust belt (figure 1), an easterly bulging salient of the Sevier orogenic belt that began to form in latest Jurassic or earliest Cretaceous time and ended in the Eocene (Armstrong and Oriel, 1965).
+The western margin is an area that is characterized by imbricate, gently west-dipping, east-directed decollement-style (thinskinned) thrust faults that involve only sedimentary rocks, and north-trending folds (Royse and others, 1975).
+A broad, asymmetric foreland basin developed east of the Sevier orogenic belt in response to tectonic and sediment loading (Jordan, 1981), and during much of the Cretaceous Period the foreland basin was partially to completely flooded by the Western Interior Seaway (figure 2).
+The seaway formed in response to the presence of the subsiding foreland basin and periodic eustatic rise in sea level.
+By the close of the Cretaceous Period (Maastrichtian) the western shoreline of the seaway retreated eastward as the foreland basin gradually filled in with sediments derived from the eroding uplifts of the Sevier orogenic belt (figure 2).
+The end of the Cretaceous also marks the onset of the Laramide orogeny, a period of crustal instability and compressional tectonics in the foreland basin that continued into the Eocene.
+During the Laramide orogeny, the foreland basin was fragmented into numerous smaller basins that were each flanked by rising basement-cored uplifts.
+The smaller basins, such as the Greater Green River Basin, subsided rapidly and were depocenters for the accumulation of thick lacustrine and continental sediments.
+Presentday structure of the SWWP is largely a result of Laramide compressional deformation that is characterized by basement-involved thrust faults (thickskinned), reverse faults, wrench faults, and strongly folded and faulted anticlines and synclines.
+The north, south, and eastern margins of the basin are formed by Precambrian basement-cored uplifts that in many places have overridden the sedimentary basin section along high-angle basement-involved (thickskinned) thrust faults (Ryder, 1988).
+Several major intrabasin uplifts are present in the SWWP and include the Moxa arch, La Barge platform, Sandy Bend arch, Rock Springs uplift, Wamsutter arch, and Cherokee ridge (figure 1).
+Several of these intrabasin uplifts subdivide the SWWP into smaller structural and topographic subbasins.
+The most prominent of these uplifts is the north-south-trending Rock Springs uplift, a doubly plunging asymmetric anticline that divides the SWWP into nearly equal halves.
+West of the Rock Springs uplift, the northwest-southeast-trending Sandy Bend arch extends from the La Barge platform to the west flank of the Rock Springs uplift and separates the Green River Basin (sometimes referred to as the Bridger Basin) on the south from the Hoback Basin to the north.
+East of the Rock Springs uplift, the east-west-trending Wamsutter arch extends from the eastern flank of the Rock Springs uplift to south of the Rawlins uplift and separates the Great Divide Basin in the northeast corner of the SWWP from the Washakie Basin.
+The Cherokee ridge roughly parallels the Colorado-Wyoming State line and separates the Washakie Basin on the north from the Sand Wash Basin on the south (figure 1).
+During Late Cretaceous time, a broad epicontinental seaway, the Western Interior Seaway, extended from the Arctic Ocean to the Gulf of Mexico.
+The seaway (figure 2) inundated an asymmetric foreland basin that was bordered on the west by the tectonically active highlands of the Sevier orogenic belt that supplied sediment to eastward-flowing streams.
+The eastern shore was on the stable cratonic platform that supplied little sediment (Molenaar and Rice, 1988; Williams and Stelck, 1975).
+During much of Late Cretaceous time, the sea advanced and retreated across the western part of the foreland basin, resulting in a complex pattern of intertonguing marine and nonmarine deposits.
+The nonmarine deposits are represented by eastward-thinning clastic wedges of sandstone, siltstone, shale, and coal.
+The marine deposits are represented by westward-thinning tongues of marine shale and siltstone (figure 3).
+In the eastern and central sediment-starved parts of the seaway, clastic input was minimal, creating conditions favorable for carbonate deposition.
+In the eastern and southeastern portions of the SWWP, carbonate-rich sediments are represented by the Niobrara Formation and equivalent rocks in the lower parts of the Mancos and Steele Shales.
+The Niobrara Formation and laterally equivalent rocks were deposited during a period of high eustatic sea level and crustal subsidence in the Western Interior Seaway, resulting in a major marine transgression and conditions favorable for carbonate deposition.
+In the eastern part of the seaway where clastic input was minimal, chalks and limestone are the principal lithologies of the Niobrara in the Denver Basin of eastern Colorado (Pollastro and Scholle, 1986).
+In the SWWP, the Niobrara and equivalent rocks reflect a gradual westward decrease in chalk and other carbonate components and an increase in siliciclastic sediments because of its closer proximity to the detrital source, the thrust belt to the west.
+In the SWWP, the Niobrara Formation and equivalent rocks consist of interbedded organic-rich shale, calcareous shale, and marl, with minor amounts of sandstone, siltstone, limestone, and chalk (Vincelette and Foster, 1992; Longman and others, 1998).
+A 200- to 400-ft-thick zone directly overlying the Frontier Formation has been identified by Vincelette and Foster (1992) as the Carlile Shale (figure 4a).
+This zone, identified on well logs by a lower resistivity response than adjacent units, consists of clay-rich, noncalcareous marine shale and is included with the Niobrara in this study.
+This conforms with usage by numerous authors including Haskett (1959) (figure 4b), Kucera (1959), and Hale (1961).
+To the west and north, typical Niobrara facies grades into noncalcareous marine shale, sandstone, and siltstone of the Baxter Shale (figure 3a; also Finn and Johnson, Chapter 14, this CD-ROM, their plate 1).
+The western limit of this facies change occurs in the deeper, sparsely drilled portions of the Sand Wash, Washakie, and Great Divide Basins; however, the limits of the Niobrara calcareous facies of the Niobrara are not well mapped.
+The Niobrara is underlain by the Frontier Formation and overlain by a thick sequence of marine shale.
+In the Sand Wash Basin in Colorado, the thick overlying marine section is named the Mancos Shale; in the Washakie and Great Divide Basins of Wyoming it is named the Steele Shale (figure 5).
+The basal contact of the Niobrara is well defined and coincides with the uppermost sandstone of the underlying Frontier Formation.
+The upper contact is transitional with the overlying Mancos or Steele Shales and is not well defined in the subsurface but is identified by a distinctive high-resisitivity kick on electric well logs (figure 4; also Finn and Johnson, Chapter 14, this CD-ROM, their plate 1).
+Regional studies by Longman and others (1998) show that the thickness of the Niobrara and equivalent rocks varies from less than 100 ft in South Dakota to more than 1,800 ft in west-central Wyoming, with a range of thickness in the eastern portions of the Southwestern Wyoming Province of 900 to 1,800 ft (figure 6).
+This prominent westward thickening of the Niobrara is due to the large influx of siliciclastic sediments derived from actively eroding highlands of the thrust belt to the west.
+The age of the Niobrara is considered to be Coniacian to Santonian (Hale, 1961), and Bader and others (1983) show that the upper part of the Niobrara corresponds to the ammonite zone of Desmoscaphites bassleri.
+This species, which is late Santonian, also occurs in a marker bed several hundred feet below the top of the Airport Sandstone Member of the Baxter Shale in exposures on the Rock Springs uplift (Smith, 1965).
+A similar age is reported by Smith (1961) for the basal part of the Lazeart Sandstone Member of the Adaville Formation in the thrust belt near Kemmerer, Wyoming.
+The Niobrara Total Petroleum System (TPS) (503703) produces self-sourced oil and natural gas from low-permeability, fractured, carbonate-rich rocks in the Upper Cretaceous Niobrara Formation and from its stratigraphic equivalents in the lower parts of the Mancos and Steele Shales.
+The Niobrara TPS encompasses the eastern one-third of the SWWP and covers approximately 8,400 mi2 of the Sand Wash, Washakie, and Great Divide Basins (figure 7).
+The eastern and southeastern boundaries of the TPS are defined by the base of the outcrop of the Niobrara or equivalent rocks at the base of Mancos or Steele Shales.
+The southern boundary is the Axial Basin uplift (figure 1).
+The western boundary is poorly defined because few wells have penetrated the Niobrara in the deeper portions of the Sand Wash, Washakie, and Great Divide Basins.
+The western boundary is defined here to coincide with subsurface mapping presented by Barlow and others (1994).
+Oil production in this area appears to be restricted to the Niobrara, and geochemical data indicate no other reservoirs contain Niobrara sourced oil (P.G. Lillis, oral commun., 2002,).
+Thus, stratigraphically, the Niobrara TPS is constrained to the Niobrara Formation and equivalent rocks (figure 5).

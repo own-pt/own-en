@@ -1,0 +1,63 @@
+The Putumayo-Oriente-Maranon province is divided into two petroleum systems and three assessment units based on common (1) hydrocarbon source rocks, (2) generative and migration history, (3) reservoir and production characteristics of oil and gas fields, and (4) analogs to formations and fields in other areas of the world.
+These assessment units are the Hollin-Napo (60410101) and hypothetical Basin-Center Gas (60410102) units of the Mesozoic-Cenozoic TPS (604101), and the hypothetical Ene Formation unit (60410201) of the Paleozoic TPS (604102).
+Oil and gas source rocks and productive and potentially productive formations are shown in figure 3.
+Table 1 includes background statistics for assessment unit 60410101, which comprises reservoirs of Cretaceous and Tertiary age.
+Table 2 lists recoverable resources in millions of barrels of oil (MMBO) for the assessment unit; numbers include known and grown field sizes.
+Estimated ultimate recovery (EUR) of hydrocarbons for oil fields in this assessment unit (figure 13) is a rough bell curve for all production of 1 MMBOE or greater, and for Upper Cretaceous and Tertiary, and Lower Cretaceous reservoirs.
+The curve is similar to that of recoverable oil for discovery thirds using the same oil fields (figure 4).
+The reasons for this are that EUR and recoverable oil are both calculated from production histories, with the exception that EUR includes gas production, very little of which is reported in this province.
+Although several Cretaceous source rocks have generated hydrocarbons that are produced from the Hollin-Napo assessment unit (figure 3), geochemical characteristics of source rocks and produced oil are similar throughout this petroleum system.
+Because much reported production is commingled, all reservoirs of Mesozoic and Cenozoic age are assessed together.
+The exception to this is possible gas production from Cretaceous reservoirs in the Basin-Center Gas assessment unit (60410102).
+This subdivision results from different recovery methods for tight gas sandstones than for permeable reservoir sandstones (Higley, Cox, and Weimer, written commun., 2000); reservoir characteristics, traps, and seals are also different for conventional versus unconventional fields.
+Tight gas reservoirs commonly require fracture and other treatments; initial moderate to high rates of gas production commonly decrease rapidly due to the low permeability, and to lack of communication between reservoir intervals.
+The Hollin-Napo assessment unit has produced more than 2.88 billion barrels of oil (BBO) and 660 billion cubic feet of gas (BCFG) in the Putumayo-Oriente-Maranon province (Petroconsultants, 1996).
+Reservoirs in the Putumayo-Oriente-Maranon province that produce from Upper Cretaceous and Tertiary sandstones have as much as 2.84 BBO and 616 BCFG cumulative production from 150 fields; 65 fields that list Lower Cretaceous production have cumulative recovery of as much as 1.16 BBO and 448 BCFG (Petroconsultants, 1996).
+The sum of these production figures is more than the basin total, largely because 43 of the more than 172 oil fields in the basin list production from both Lower and Upper Cretaceous reservoirs.
+Most reported production is commingled from numerous formations and intervals.
+White and others (1995) indicated that, through 1992, the Napo Formation in the Oriente Basin had cumulative production of 1.17 BBO, and the Hollin Formation cumulative production was 1.70 BBO (through Dec. 1992).
+Production estimates for the next 20 years are about 2 BBO; this is from existing fields in the Oriente Basin and those currently under development (White and others, 1995).
+Estimated ultimate recoverable (EUR) oil and gas is 6.89 BBOE for 172 fields in the Hollin-Napo assessment unit (60410101) in the Mesozoic-Cenozoic TPS; estimated ultimate oil recovery is 6.62 BBO using the Petroconsultants database (1996).
+The mix of EUR for 60410101, divided according to ranges of formation ages, is shown in figure 13.
+Mathalone and Montoya (1995) listed total reserves for the basin as 5.05 BBO; respective amounts for the Putumayo, Maranon/Ucayali, and Oriente regions (figure 1) are 0.40, 1.35, and 3.30 BBO.
+Kronman and others (1995) divided Latin American basins into a two-tiered classification of high (greater than 50 percent) and low (less than 50 percent) exploration efficiencies; the Putumayo-Oriente-Maranon province has high efficiency.
+This suggests that the larger fields were found early in the exploration of the basin, and most remaining fields will be smaller.
+Based on field size distribution in the basin, potentially economic field discoveries may range from 50 to 250 MMBO, and undiscovered recoverable resources may total 1 to 5 BBO (Kronman and others, 1995).
+Estimated undiscovered recoverable resources for all TPS in the province at the 5 to 95 percent confidence levels range from 1,030 to 6,060 BBO, 236 to 4,600 BCFG, and 4 to 182 MMBNGL.
+The following undiscovered resource values represent the 50 percent confidence level (USGS, 2000).
+Estimated recoverable oil, gas, and natural gas liquids (NGL) reserves from undiscovered fields in the Hollin-Napo assessment unit in the province are 2.78 BBO, 674 BCFG, and 13 MMBNGL; reserves for the Permian Ene assessment unit are 7 MMBO, 73 BCFG, and 3 MMBNGL.
+The largest fields were primarily discovered during the initial period (1963–1974).
+Estimating the size of future fields is partly based on the size distribution curve and comparison of this curve to those of other basins across the world.
+The “dip” in the known field size curve at 64 to less than 128 MMBO suggests that other fields may be found in this range.
+The discovery trend through time for production across the province is shown in figure 14.
+This figure illustrates exploration intensity through concentration of discoveries in short time increments, and success rate by the jumps in the cumulative known volume of oil.
+The large jump in volume in 1969 is for the Shushufindi-Aguarico field.
+Fewer than 100 wildcat wells were drilled in Ecuador or Peru during 1980–1990 (figure 15); average success ratio was 60 percent for Ecuador and 30 percent for Peru (Kronman and others, 1995).
+However, the period of 1990 to 1995 experienced a large increase in the number of new fields with 63 total across the province (Petroconsultants, 1996).
+There is no hydrocarbon production from the Basin-Center Gas assessment unit (60410102).
+Exploration has been limited, with about a dozen drillholes scattered across this area of the basin (figure 1); two of these recorded shows of oil, and the rest are listed as dry holes (Petroconsultants, 1996).
+The primary analog used for this assessment unit is the Wattenberg basin-center gas field in the Denver Basin, Colorado, U.S. Similarities between the two regions include the following:
+Both regions are foreland basins that are flanked on the west by a mountain range and have had complex structural histories that have influenced generation, migration, and trapping of hydrocarbons.
+The 1.0 percent Ro contour is around a structural low in the Oriente and Maranon Basins.
+This contour in the Wattenberg field outlines an area of thermogenic gas production that trends along the Denver Basin syncline.
+Primary hydrocarbon source rocks for the Wattenberg field are the overlying bounding marine shales of the Cretaceous Mowry and Graneros Shales.
+Correspondingly, the primary source rocks for the Putumayo-Oriente-Maranon province are marine shales of the Napo, Chonta, and Raya Formations.
+The major Wattenberg field seals are overlying and inter-bedded marine shales.
+Lateral seals are primarily fault offsets, facies change, and variable amounts of cementation.
+The most probable seals for the Basin-Center Gas assessment unit (60410102) are comparable factors.
+Similarities exist in potential reservoir facies.
+Gas production within the Wattenberg field is largely from low-permeability nearshore marine sandstones of the Lower Cretaceous Fort Collins Member of the Muddy (“J”) Sandstone; gas is also produced from mostly valley-fill sandstones in the unconformably overlying Horsetooth Member.
+The most favorable reservoir facies in the Oriente-Maranon Basin are the low-permeability near-shore marine sandstones of the Cretaceous Napo, Chonta, and Agua Caliente Formations.
+Some potential also exists within shoreface, deltaic, and fluvial sandstones where faulting, erosional truncation, or diagenetic cementation would isolate these facies.
+Dissimilarities are that oil and gas generation, migration, and trapping in the Denver Basin are tied to the Late Cretaceous–early Tertiary Laramide orogeny and a more recent emplacement of a batholith beneath the present area of the Wattenberg field (Higley, Cox, and Weimer, written commun., 2000), whereas the structural and hydrocarbon history of the Putumayo-Oriente-Maranon province is more complex and deformation occurred at a younger age.
+The Wattenberg field also exists partly because of movement along northeast-trending right-lateral wrench faults that cut and bound the field.
+Vertical and lateral movement along these faults provided seals that slowed migration of gas outside the area that is thermally mature for gas generation.
+Faulting is extensive in the Putumayo-Oriente-Maranon province, but the effects upon possible Basin-Center Gas trapping and migration are unknown.
+Gas from the Wattenberg field is produced from current depths of about 2,100 to 2,700 m (7,000 to 9,000 ft).
+Estimated drill depths for the Basin-Center Gas assessment unit (60410102) are 3,300 to 4,900 m (11,000 to 16,000 ft), with a median of 4,000 m (13,000 ft), based on drilling depths in the surrounding Tambo-Tambo Sur, Pastachocha 1, and Papahuari Norte fields that produce oil from sandstones in the Vivian and Chonta Formations.
+The Permian Ene Formation, which is a probable source of oil for several fields in the Maranon Basin, is treated as a hypothetical assessment unit (60410201) because no discoveries have been made from this formation or from other potential Paleozoic reservoirs in this province.
+However, oil is produced from the Ene Formation in the Ucayali Basin (figure 1), where the Cashiriari and San Martin fields also have minor reserves; total estimated recoverable reserves for these fields are more than 7 trillion cubic feet of gas and 400 MMB of condensate (Mathalone and Montoya, 1995; Oil and Gas Journal, 1998); the Mipaya field (discovered 1987) has estimated ultimate recovery of 14 MMBOE from Ene Formation sandstones.
+Primary traps in the Ucayali Basin are structural.
+Pre-Andean terrane in the Maranon and Ucayali Basins comprises a suite of Paleozoic rifts and interbasin highs (Mathalone and Montoya, 1995).
+Potential Maranon Basin Paleozoic reservoirs exist within structural traps that resulted from movement of the Triassic salt, and (or) from fault movement and associated truncation of sandstone beds against lateral or overlying seals (figure 2).
+Stratigraphically trapped hydrocarbons are also possible, but limited and irregular areal extent of the Paleozoic formations decreases the reservoir favorability and increases exploration risks.

@@ -1,0 +1,65 @@
+Regional studies by Landon and others (2001) and Meissner and others (1984) indicate that organic matter in the Niobrara Formation is Type-II, oil-prone kerogen.
+The sediments were deposited during a major marine trangressive cycle known as the Niobrara cyclothem (Kauffman, 1977) during which highstand conditions persisted.
+This resulted in basin deepening that produced anoxic conditions favorable to the preservation of organic matter.
+According to Landon and others (2001), the richest source rocks are in the Denver Basin with total organic carbon (TOC) contents ranging up to about 8 weight percent in areas that were sediment-starved along the foreland basin.
+Westward into south-central Wyoming the TOC content decreases to 2.14 weight percent (Landon and others, 2001) because influx of siliciclastic sediments from the western area diluted the organic matter.
+Vincelette and Foster (1992) report that up to 700 ft of the Niobrara has source-rock potential in northwestern Colorado.
+Rock-Eval data for 28 Niobrara samples (U.S. Geological Survey Organic Geochemistry Database) from well cuttings from northwestern Colorado and south-central Wyoming were plotted on a modified van Krevelen diagram (Espitalie and others, 1977), a graph of S2 vs. %TOC (Langford and Blanc-Valleron, 1990), and a hydrogen index vs.
+Tmax diagram (Bordenave and others, 1993) (figure 8).
+These plots indicate that the majority of the samples are Type-II, oil-prone kerogen with some mixing from Type-III, gas-prone kerogen.
+The Type- III kerogen was most likely derived from terrestrial sources along the western shoreline, and (or) from cavings from the overlying Mancos Shale.
+TOC values for the same 28 Niobrara samples ranged from 0.85 to 2.75 weight percent (figure 8a) with an average of 1.85 weight percent.
+For samples with Tmax values less than 435 (figure 8a), TOC content increased and ranged from 1.1 to 2.75 weight percent with an average of 2.06 weight percent.
+The lithology of the Niobrara Formation and equivalent strata in the eastern part of the province is composed of interbedded calcareous shale, shaley limestone, and marls.
+The fine-grained nature of these lithologies results in little matrix porosity or permeability, therefore production is dependent on fractures.
+Vincelette and Foster (1992) have identified several discrete zones of calcareous shale, shaley limestone, or marl informally referred to as the Wolf Mountain, Tow Creek, and Buck Peak benches that account for the majority of Niobrara production (figure 4).
+These benches have greater carbonate content than adjacent, more shaley beds and form hard, brittle zones that promote fracturing and produce good reservoirs.
+Reservoir zones typically range from 50 to 200 ft in thickness, but in some wells may be as much as about 400 ft thick.
+Detailed fracture studies from surface and subsurface rocks in northwest Colorado show that the fractures in the Niobrara are mineralized and contain either calcite, quartz, or gypsum (Vincelette and Foster, 1992; Saterdal, 1955).
+These vein-filling minerals may partially line or completely plug fracture systems and reduce permeability.
+Vincelette and Foster (1992) found that many fractures associated with Laramide structures were completely filled by calcite, which resulted in poor reservoir performance.
+In contrast, the best production is from reservoirs with fractures associated with Neogene-age extensional features where calcite cements line, rather than plug, fractures within productive reservoirs (Vincelette and Foster, 1992).
+Vincelette and Foster also found that many of the productive fractures associated with Laramide structures that were initially plugged with calcite vein material were reopened by later Neogene extension, particularly in areas where preexisting fractures were oriented with structures formed by post-Laramide extension.
+In these cases, fractures were reopened along preexisting zones of weakness and lined, but not completely filled, by calcite.
+A thick section (up to several thousand feet) of soft, noncalcareous Mancos or Steele Shale provides a good quality regional seal over the Niobrara Formation within the TPS (Finn and Johnson, Chapter 14, this CD-ROM, their plate 1).
+In addition, hard, brittle reservoir zones within the Niobrara are overlain, underlain, and (or) interbedded with relatively ductile, clay-rich marine shales that are lower in carbonate content than the adjacent reservoirs (figure 5).
+These soft, plastic zones are not as prone to fracturing and tend to seal the hydrocarbons within the fractured reservoirs (Mallory, 1977; Pollastro, 1992).
+These fractures formed in response to folding and faulting of brittle reservoir rocks during Laramide compressional tectonics.
+Additional production comes from fractures or fracture swarms that are associated with faults and fault systems formed during post-Laramide Neogene extension (Vincelette and Foster, 1992); the best producing wells intersect or are in close proximity to normal faults.
+According to Hansen (1986) post-Laramide extension began early in the Miocene and continued into the Quaternary at a diminishing rate.
+Thermal maturity mapping of the Niobrara from vitrinite reflectance (Ro) data shows a general increase in maturity westward into deeper parts of the basin.
+Ro values range from less than 0.60 percent along the flanks of the basin, to greater than 1.35 percent  in the deeper portions of the Sand Wash, Washakie, and Great Divide Basins (figure 10).
+Thermal maturity generally reflects the structural configuration of the basin and indicates that thermal maturation trends are related to the structural development of the basin.
+The 0.60 percent Ro contour is the lower limit of oil generation from Type-II organic matter and geographically defines the pod of mature source rock.
+Areas that are less than 0.60 percent Ro are considered thermally immature, and the generation of oil or thermogenic gas is not expected.
+The "oil window" for Type-II organic matter is commonly considered to be in the range of 0.60 to 1.35 percent Ro (Hunt, 1996).
+Thus, Niobrara oil accumulations are predicted for those areas where the Ro is between 0.60 and 1.35 percent.
+The level of thermal maturity needed to initiate the thermal cracking of oil to gas is not well known but is generally considered to be greater than 1.35 percent Ro (Law, 2002); therefore, Niobrara gas accumulations are predicted for those areas where the Ro is greater than 1.35 percent.
+Direct measurements of thermal maturity were unavailable for Niobrara samples; therefore, Ro data were collected from the overlying coal-bearing Mesaverde Group and Lance and Fort Union Formations (Law, 1984; Pawlewicz and others, 1986; Merewether and others, 1987; and Pawlewicz and Finn, 2002).
+These data were plotted on a Ro versus depth graph and a visual best-fit line was drawn through the points and extrapolated to the Niobrara horizon (figure 10).
+Burial-history curves using PetroMod1D Express (version 1.1) (see Roberts and others, Chapter 3, this CD-ROM, for detailed discussion of petroleum generation models, and parameters used to generate burial and thermal histories) were generated for three wells to model petroleum-generation history of Niobrara source rocks.
+The Texas Pacific #1 Bear, located along the shallow southeastern flank of the Sand Wash Basin (figure 7), is located in sec. 26, T. 7 N., R. 89 W.
+The Koch Exploration #1 Adobe Town unit, located in the deep central part of the Washakie Basin (figure 7), is in sec. 20, T. 15 N., R. 97 W.
+The Southland Royalty #1 Eagles Nest, located in the deep northern part of the Great Divide Basin (figure 7), is located in sec. 29, T. 25 N., R. 91 W.
+Two types of modeling were performed on these wells to predict timing and type of hydrocarbon generation.
+They are (1) time-temperature modeling based on vitrinite reflectance and (2) kinetic modeling based on time-temperature integrated with the results of hydrous-pyrolysis experiments.
+Time-temperature modeling predicts critical levels of thermal maturity based on vitrinite reflectance by integrating burial and thermal history and time (figure 11).
+The burial-history curve for the #1 Bear well (figure 11a) indicates that the base of the Niobrara was buried to a depth of approximately 7,500 ft and entered the oil window at about 72 Ma.
+The top of the Niobrara passed through the oil window at maximum burial of 12,500 ft and entered the oil cracking phase, which ended when regional uplift and cooling occurred at about 5 Ma.
+The burial-history curve for the #1 Adobe Town well (figure 11b) shows that the Niobrara was buried to a depth of about 9,000 ft when entering the oil window at 71 Ma.
+With continued subsidence and the accumulation of about 6,500 ft of additional sediment along the deep axis of the Washakie Basin, the Niobrara passed through the oil window at 57 Ma and reached an Ro of 1.35 percent, the level of thermal maturity generally considered sufficient to crack oil to gas.
+The burial-history curve for the #1 Eagles Nest well (figure 11c) shows a burial history similar to the #1 Adobe Town well.
+In this well the Niobrara was buried to about 11,000 ft and entered the oil window at about 67 Ma.
+With additional accumulation of 7,500 ft of sediments in the deep trough of the Great Divide Basin, the Niobrara passed through the oil window by 56 Ma, when the thermal cracking of oil to gas was then initiated.
+Kinetic models were also generated for these same wells and used to reconstruct the maturation history of Type-II oil-prone kerogen (figure 12).
+Kinetic modeling by Roberts and others (Chapter 3, this CD-ROM) uses time and temperature integrated with results of laboratory hydrous-pyrolysis experiments to predict timing and type of hydrocarbon generation.
+Modeling by Roberts and others (this CD-ROM) using hydrous-pyrolysis kinetic parameters of Lewan and Ruble (2002) suggests that oil generation for Type-II kerogen begins at an Ro of 0.68-0.69 percent, peaks at around 0.92 percent, and ends at an Ro of 1.13 to 1.17 percent.
+The bottom of the oil window occurs at a transformation ratio of 0.99, meaning there is essentially no kerogen left to convert to oil.
+The level of thermal maturity at which oil is cracked to gas is uncertain but is generally thought to be greater than an Ro of about 1.35 percent (Law, 2002); however, hydrous- pyrolysis experiments by Tsuzuki and others (1999) indicate that oil is stable at higher maturities.
+The results of modeling by Roberts and others (Chapter 3, this CD-ROM) using hydrous-pyrolysis kinetic parameters of Tsuzuki and others (1999) indicate that oil cracking begins at an Ro of about 1.72 percent, gas generation peaks at around 2.39 percent and ends around 2.79 percent.
+The end of the gas-generation phase occurs at a transformation ratio of 0.99, meaning there is virtually a 100-percent reaction and almost no oil left to transform to gas.
+Based on the hydrous-pyrolysis kinetic models, timing of oil generation in the #1 Bear (figure 12a) well shows that the Niobrara began generating oil at about 70 Ma, remained in the oil window until about 43 Ma, but did not reach thermal maturities sufficient to crack oil to gas.
+Oil generation began in the 1 Adobe Town well (figure 12b) around 68 Ma and ended by 60 Ma.
+Continued burial in the deeper part of the Washakie Basin elevated maturities to a level sufficient to crack oil to gas at around 54 Ma, and with additional burial the Niobrara passed through the gas window by 48 Ma.
+Oil generation in the #1 Eagles Nest well (figure 12c) began at 66 Ma and ended by 59 Ma.
+Gas generation from thermal cracking of oil began around 54 Ma and continued until about 24 Ma.

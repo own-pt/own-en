@@ -1,0 +1,7 @@
+An assessment unit (AU) is a mappable volume of rock within a Total Petroleum System (TPS) that contains known or postulated oil and gas accumulations that share similar geologic characteristics (Klett and others, 2000).
+The Cretaceous-Tertiary Composite TPS (503402) is subdivided into seven AUs.
+Three are identified as basin-centered gas accumulations (BCGA): the Muddy-Frontier Sandstone and Mowry Fractured Shale Continuous Gas AU (50340261), the Cody Sandstone Continuous Gas AU (50340263), and the Mesaverde Continuous Gas AU (50340264).
+One fractured shale oil accumulation, the Mowry Fractured Shale Continuous Oil AU (50340262), and two coalbed gas accumulations: the Mesaverde-Meeteetse Coalbed Gas AU (50340281), and the Fort Union Coalbed Gas AU (50340282) were defined.
+One conventional AU was defined, the Cretaceous-Tertiary Conventional Oil and Gas AU (50340201).
+The Cretaceous-Tertiary Conventional Oil and Gas AU (50340201) and the Muddy-Frontier Sandstone and Mowry Fractured Shale Continuous Gas AU (50340261) both have established production; the remaining five AUs have no production and are considered hypothetical.
+(Note: the coding numbers follow the worldwide coding system used by the USGS).

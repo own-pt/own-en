@@ -1,0 +1,34 @@
+The Brookian sequence forms a thick sedimentary cover of middle Cretaceous to Neogene age that was deposited on the older Proterozoic, Paleozoic, and early Mesozoic successions.
+Seismic data show that it is extensively deformed in the eastern part of the 1002 area, but abrupt facies changes, absence of marker beds, poorly constrained stratigraphy, sparse outcrops, and incomplete age data make interpretation of the structures difficult.
+To aid structural analysis of the Brookian for this report, a stratigraphic model was developed that draws on exposures in the Bathtub and Sabbath Creek synclines, data from the Aurora well, seismic data, and shot-hole paleontologic data.
+Based on these data and observations, the Brookian sequence along the transect is divided into four northward thinning and fining stratigraphic units that consist of (1) middle and Upper Cretaceous deposits, (2) latest Cretaceous and Paleocene deposits, (3) Eocene deposits, and (4) Oligocene deposits (Figure BC3).
+Characteristics of these units are as follows.
+Brookian sedimentary rocks of middle Cretaceous age form the core of the Bathtub syncline and represent an erosional remnant of the axial part of the eastern Colville basin (Molenaar, 1983; Moore and others, 1994).
+The Bathtub syncline succession consists of turbiditic strata that thicken upward from thin-bedded, fine-grained turbidites that form the upper 800 m of the Kongakut Formation into thicker, coarser grained turbidites of the 750-m thick Bathtub Graywacke.
+Fossils indicate an Aptian to Albian age for the succession (Molenaar and others, 1987; Moore and others, 1994).
+Vitrinite reflectance data from near the hinge of the Bathtub syncline (Bird and others, Chapage VR) indicate that at least 5 km of Brookian deposits, possibly including Upper Cretaceous deposits, have been removed by erosion.
+To the northwest of Leffingwell Ridge, middle and possibly Upper Cretaceous strata are found in the Arctic Creek unit of Molenaar and others (1987).
+The Arctic Creek unit consists principally of thin-bedded turbidites that are estimated to total about 1100 m in thickness, although stratigraphic thickness is difficult to determine due to deformation (Molenaar, 1983).
+The Arctic Creek unit has yielded Albian ammonites at the base, but bentonite in the unit has led some workers to conclude that it consists mainly of Upper Cretaceous strata correlative with the Colville Group of the central North Slope (e.g., Mull and Decker, 1993).
+North of the Sabbath Creek syncline, middle and Upper Cretaceous strata are represented by the Hue Shale.
+The Hue Shale consists of distal, condensed shale with bentonite and tuff (Bird and Molenaar, 1987; Bird, Chapage GG).
+It is exposed in scattered outcrops above the Niguanak high (Figure BC2) and the lower, Albian, part of the unit has been identified in the Aurora well, although in the Aurora well it is not tuffaceous.
+Strata assigned to the Hue Shale and the underlying late Neocomian pebble shale unit in the Aurora well total less than 300 m (M.B. Mickey, written comm. to M. Keller, 1997) (Nelson, Chapage WL, Plate WL8).
+The thickness of the same strata near the Niguanak high is not well constrained but is estimated to be 450 m (Reiser and others, 1980).
+Measured sections document a minimum thickness of only about 50 m in that area (Palmer and others, 1979).
+The pebble shale unit, a thin shale unit that regionally overlies the LCU, lies beneath the Hue Shale in exposures above the Niguanak high.
+Although part of the Ellesmerian sequence, it is included with the Hue Shale north of Leffingwell Ridge for simplicity in Plate BC1.
+The latest Cretaceous and Paleocene unit includes the Maastrichtian and Paleocene Jago River Formation, a thick fluvial-deltaic sequence that totals over 2800 m in thickness (Buckingham, 1987).
+The Jago River Formation forms topset beds that are well imaged on seismic lines in the southeastern part of the 1002 area.
+These topset beds define the composite Sabbath Creek syncline (Figure BC2; Plate BC1; see also Grow and others, Chapage NA, Figure NA3).
+Vitrinite reflectance data indicate that about 2 km of section has been removed above the core of the Sabbath Creek syncline, allowing the possibility that the unit may have once been nearly 5 km thick (Plate BC1).
+Although not identified in the seismic lines in Plate BC1, seismic lines east of the transect display reflectors relatively high in the Jago River Formation that converge outward into the limbs of the Sabbath Creek syncline, suggesting that at least younger parts of the formation were deposited in a piggyback basin that was actively deforming at the time of deposition (Potter and others, Chapage BD, Figure BD4).
+The age of the piggyback basin deposits is uncertain, but is presumably late Paleocene (Potter and others, Chapage BD).
+Paleocene deposits are sparse in outcrop north of the Sabbath Creek syncline, but probably thin dramatically northward.
+Vitrinite reflectance data from allochthonous exposures of the Hue Shale in the area of the Niguanak high suggest a maximum burial of about 2-2.5 km (less if maximum burial is due to tectonic causes), and paleontologic data indicate that Paleocene deposits are only about 550 m thick in the Aurora well (M.B. Mickey, written comm. to M. Keller, 1997) (Nelson and others, Chapage WL, Plate WL8).
+In the eastern part of the 1002 area, Eocene deposits have been identified in outcrop only in the northernmost exposures along the Jago River (Palmer and others, 1979) (Figure BC2), but shothole paleontologic data indicate that Eocene deposits are widespread north of latitude 69° 58’ in the area of the transect.﻿
+The Eocene deposits consist of moderately north-dipping mudstone and siltstone which must lie in fault contact with steeply dipping Hue Shale exposed about 500 m to the south (C.M. Molenaar field notes, Appendix CM; Reiser and others, 1980; Bird, Chapage GG, Plate GG1).
+In the Aurora well, Eocene strata are thick, totaling nearly 3500 m (M.B. Mickey, written comm. to M. Keller, 1997) (Nelson and others, Chapage WL, Plate WL8).
+The upper 725 m of the Aurora well consists of Oligocene and younger deposits (M.B. Mickey, written comm. to M. Keller, 1997) (Nelson and others, Chapage WL, Plate WL8).
+These strata are correlated seismically with flatlying strata along the northern part of seismic line 85-50 (Grow and others, Chapage NA, Figure NA3).
+The seismic data indicate that Oligocene strata rest unconformably above older, northward dipping rocks along the transect (Plate BC1) and mildly deformed strata in the Aurora well area (K. Bird, written comm., 1998) (Plate BC1).

@@ -1,0 +1,24 @@
+The Mowry Fractured Shale Continuous Oil Assessment Unit (AU 50340262) is thought to have potential to produce oil from fractured marine siliceous shale and interbedded siltstones and thin sandstones of the Mowry Shale.
+It is, how- ever, classed as hypothetical in that there have been no wells producing oil from fractured reservoirs nor any wells known to have been tested for fractured oil.
+The AU is approximately 1,000 mi2 in the eastern and southern parts of the Bighorn Basin (figure 33).
+The AU boundaries encompass the area between the depths of 8,000-12,000 ft to the top of the Mowry Shale, such depths approximately matching the oil window for Type-II kerogen present in the formation.
+The Mowry contains both Type-II and -III kerogen, and the measured hydrogen indices show some oil-prone source rock are present.
+The tran- sition from oil to gas generation at about the 12,000 ft depth in the Mowry was based loosely on the transition to peak gas development (0.8 percent Ro) from Type-III organic matter.
+Input data for the assessment of AU 50340262 is shown on the FORSPAN ASSESSMENT MODEL FORM in Appendix B.
+The minimum and maximum areas in which are the Mowry is considered to have thermal maturity values in the oil window are 581,000 and 710,000 acres, respectively, with a calculated mean of 646,000 acres.
+This range-in-sizes area reflects high uncertainty in determining the extent of the pod of mature source rock, which may, in large part, be due to the lack of vitrinite reflectance data available for the Mowry in the Bighorn Basin.
+The area interpreted to have potential for additions to reserves ranges from 0.1 to 17 percent of the AU.
+The highest percentage area represents those areas where major structures are present in the AU and assumes fractures are present in the Mowry.
+This range in values also reflects the uncertainty of this hypothetical AU.
+The low end of values is a worst case scenario.
+The closest analog for the Mowry Fractured Shale hypothetical AU 50340262 is from the Mowry AU in the Powder River Basin (Anna and Cook, 2008); however, the Mowry source rock there has higher TOC and Type-II kerogen contents (Burtner and Warner, 1984).
+The estimated ultimate recoveries for 17 Mowry wells in the Powder River Basin range from 2 to 170 thousand barrels of oil (MBO) (figure 34).
+The Mowry EURs in the Powder River Basin are also similar to the Niobrara EURs in that basin (figure 34).
+A larger dataset is available from the Permian Spraberry Formation in the Midland Basin where there are about 7,000 producing wells.
+Although the depositional environment is different, the Mowry and Spraberry have similarities-that is, low permeability fractured siltstones and sandstones and similar TOC content (Spraberry: 1.1-2.8 weight percent, Handford, 1981; Mowry: 0.8 to 3.6 weight percent, figure 19).
+For the Mowry Fractured Shale AU 50340262, the mini- mum recovery is set at 0.002 million barrels of oil (MMBO).
+The maximum is estimated at 0.35 MMBO to reflect a slightly lower maximum EUR than in the Powder River Basin (figure 34).
+Additionally, most of the high end production from the maturely explored Spraberry Formation in the Midland Basin is also within this range of values.
+The median EUR is estimated at 0.025 MMBO, which is close to the median in the Powder River Basin.
+Drainage areas are taken from the Powder River Basin analog, with a minimum of 40 acres, a mean of 290 acres and a maximum of 640 acres (Larry Anna, written commun., 2007).
+The mean estimate for undiscovered oil resources in the Mowry Fractured Shale Continuous Oil AU (50340262) that have potential for additions to reserves is 5 MMBO; tabulated assessment results are summarized in table 1.
