@@ -11,6 +11,132 @@ DB_MAP
 's 's POS be VBZ have VBZ
 'til until IN
 'tween between RB
+</Entries>
+Aalenian Aalenian NN
+Aeronian Aeronian NN
+Albian Albian NN
+Anisian Anisian NN
+Aptian Aptian NN
+Aquitanian Aquitanian NN
+Artinskian Artinskian NN
+Asselian Asselian NN
+Bajocian Bajocian NN
+Barremian Barremian NN
+Bartonian Bartonian NN
+Bashkirian Bashkirian NN
+Bathonian Bathonian NN
+Berriasian Berriasian NN
+Burdigalian Burdigalian NN
+Calabrian Calabrian NN
+Callovian Callovian NN
+Calymmian Calymmian NN
+Campanian Campanian NN
+Capitanian Capitanian NN
+Carnian Carnian NN
+Cenomanian Cenomanian NN
+Changhsingian Changhsingian NN
+Chattian Chattian NN
+Cisuralian Cisuralian NN
+Coniacian Coniacian NN
+Cryogenian Cryogenian NN
+Danian Danian NN
+Dapingian Dapingian NN
+Darriwilian Darriwilian NN
+Drumian Drumian NN
+Ectasian Ectasian NN
+Ediacaran Ediacaran NN
+Eifelian Eifelian NN
+Emsian Emsian NN
+Eoarchean Eoarchean NN
+Famennian Famennian NN
+Floian Floian NN
+Fortunian Fortunian NN
+Frasnian Frasnian NN
+Furongian Furongian NN
+Gelasian Gelasian NN
+Givetian Givetian NN
+Gorstian Gorstian NN
+Greenlandian Greenlandian NN
+Guadalupian Guadalupian NN
+Guzhangian Guzhangian NN
+Gzhelian Gzhelian NN
+Hauterivian Hauterivian NN
+Hettangian Hettangian NN
+Hirnantian Hirnantian NN
+Homerian Homerian NN
+Induan Induan NN
+Jiangshanian Jiangshanian NN
+Kasimovian Kasimovian NN
+Katian Katian NN
+Kimmeridgian Kimmeridgian NN
+Kungurian Kungurian NN
+Ladinian Ladinian NN
+Langhian Langhian NN
+Llandovery Llandovery NN
+Lochkovian Lochkovian NN
+Lopingian Lopingian NN
+Ludfordian Ludfordian NN
+Ludlow Ludlow NN
+Lutetian Lutetian NN
+Maastrichtian Maastrichtian NN
+Meghalayan Meghalayan NN
+Mesoarchean Mesoarchean NN
+Mesoproterozoic Mesoproterozoic NN
+Messinian Messinian NN
+Miaolingian Miaolingian NN
+Moscovian Moscovian NN
+Neoarchean Neoarchean NN
+Neogene Neogene NN
+Neoproterozoic Neoproterozoic NN
+Norian Norian NN
+Northgrippian Northgrippian NN
+Olenekian Olenekian NN
+Orosirian Orosirian NN
+Oxfordian Oxfordian NN
+Paibian Paibian NN
+Paleoarchean Paleoarchean NN
+Paleogene Paleogene NN
+Paleoproterozoic Paleoproterozoic NN
+Piacenzian Piacenzian NN
+Pliensbachian Pliensbachian NN
+Pragian Pragian NN
+Pre-Archean Pre-Archean NN
+Priabonian Priabonian NN
+Pridoli Pridoli NN
+Rhaetian Rhaetian NN
+Rhuddanian Rhuddanian NN
+Rhyacian Rhyacian NN
+Roadian Roadian NN
+Rupelian Rupelian NN
+Sakmarian Sakmarian NN
+Sandbian Sandbian NN
+Santonian Santonian NN
+Selandian Selandian NN
+Serpukhovian Serpukhovian NN
+Serravallian Serravallian NN
+Sheinwoodian Sheinwoodian NN
+Siderian Siderian NN
+Sinemurian Sinemurian NN
+Statherian Statherian NN
+Stenian Stenian NN
+Telychian Telychian NN
+Terreneuvian Terreneuvian NN
+Thanetian Thanetian NN
+Tithonian Tithonian NN
+Toarcian Toarcian NN
+Tonian Tonian NN
+Tortonian Tortonian NN
+Tournaisian Tournaisian NN
+Tremadocian Tremadocian NN
+Turonian Turonian NN
+Valanginian Valanginian NN
+Visean Visean NN
+Wenlock Wenlock NN
+Wordian Wordian NN
+Wuchiapingian Wuchiapingian NN
+Wuliuan Wuliuan NN
+Ypresian Ypresian NN
+Zanclean Zanclean NN
 a a DT a NN
 a.k.a a.k.a JJ
 a.k.a. a.k.a. JJ
@@ -1216,6 +1342,7 @@ agate agate NN
 agates agate NNS
 agave agave NN
 agaves agave NNS
+age age NN
 age age NN age VBP
 age-group age-group NN
 age-groups age-group NNS
@@ -2108,6 +2235,8 @@ anastomoses anastomosis NNS
 anastomosis anastomosis NN
 anastomotic anastomotic JJ
 anastrozole anastrozole NN
+anatexite anatexite NN
+anatexite anatexites NNS
 anathema anathema NN
 anathemas anathema NNS
 anathemata anathema NNS
@@ -2144,6 +2273,8 @@ ancillary ancillary JJ ancillary NN
 and and CC
 and\/or and\/or CC
 andean andean JJ
+andesitoid andesitoid NN
+andesitoid andesitoids NNS
 andorran andorran JJ
 andorrans andorrans NNS
 androgen androgen NN
@@ -2236,6 +2367,8 @@ anhydrase anhydrase NN
 anhydrases anhydrase NNS
 anhydride anhydride NN
 anhydrides anhydride NNS
+anhydrite anhydrite NN
+anhydrite anhydrites NNS
 anhydrous anhydrous JJ
 aniline aniline NN
 anilines aniline NNS
@@ -2379,6 +2512,8 @@ anorexia anorexia NN
 anorexias anorexia NNS
 anorexic anorexic JJ anorexic NN
 anorexics anorexic NNS
+anorthosite anorthosite NN
+anorthosite anorthosites NNS
 another another DT
 anoxia anoxia NN
 anoxias anoxia NNS
@@ -3086,6 +3221,8 @@ areas area NNS
 aren't are+not VBP+RB
 arena arena NN
 arenas arena NNS
+arenite arenite NN
+arenite arenites NNS
 argent argent NN
 argentine argentine JJ
 argentinean argentinean JJ
@@ -3131,6 +3268,8 @@ arithmetic arithmetic NN
 arithmetical arithmetical JJ
 arithmetics arithmetic NNS
 ark ark NN
+arkose arkose NN
+arkose arkoses NNS
 arks ark NNS
 arm arm NN arm VB arm VBP
 arm-chair arm-chair NN
@@ -3390,6 +3529,7 @@ ascus ascus NN
 aseptic aseptic JJ
 asexual asexual JJ
 ash ash NN
+ash ashes NNS
 ashamed ashamed JJ
 ashen ashen JJ
 ashes ash NNS
@@ -4775,8 +4915,13 @@ bas-relief bas-relief NN
 bas-reliefs bas-relief NNS
 basal basal JJ
 basalt basalt NN
+basalt basalts NNS
 basaltic basaltic JJ
+basaltoid basaltoid NN
+basaltoid basaltoids NNS
 basalts basalt NNS
+basanite basanite NN
+basanite basanites NNS
 bascule bascule NN
 bascules bascule NNS
 base base JJ base NN base VB base VBP
@@ -6188,6 +6333,7 @@ blockhouse blockhouse NN
 blockhouses blockhouse NNS
 blocking block VBG
 blocks block NNS block VBZ
+blocks blocks NN
 blocky blocky JJ
 blocs bloc NNS
 blond blond JJ
@@ -6293,6 +6439,8 @@ bluenoses bluenose NNS
 blueprint blueprint NN
 blueprints blueprint NNS
 blues blue NN blue VBZ blues NN blues NNS
+blueschist blueschist NN
+blueschist blueschists NNS
 bluesmen bluesman NNS
 bluestone bluestone NN
 bluestones bluestone NNS
@@ -7882,18 +8030,28 @@ calamities calamity NNS
 calamitous calamitous JJ
 calamity calamity NN
 calc calc NN
+calc-schist calc-schist NN
+calc-schist calc-schists NNS
 calcaneal calcaneal JJ
 calcareous calcareous JJ
+calciarenite calciarenite NN
+calciarenite calciarenites NNS
 calcification calcification NN
 calcifications calcification NNS
 calcified calcify VBD calcify VBN
 calcifies calcify VBZ
 calcify calcify VB calcify VBP
 calcifying calcify VBG
+calcilutite calcilutite NN
+calcilutite calcilutites NNS
 calcine calcine VB calcine VBP
 calcined calcine VBD calcine VBN
 calcines calcine VBZ
 calcining calcine VBG
+calcirudite calcirudite NN
+calcirudite calcirudites NNS
+calcisiltite calcisiltite NN
+calcisiltite calcisiltites NNS
 calcite calcite NN
 calcites calcite NNS
 calcitonin calcitonin NN
@@ -8683,6 +8841,8 @@ cat cat NN
 catabolic catabolic JJ
 catabolism catabolism NN
 catabolisms catabolism NNS
+cataclasite cataclasite NN
+cataclasite cataclasites NNS
 cataclysm cataclysm NN
 cataclysmic cataclysmic JJ
 cataclysms cataclysm NNS
@@ -9535,6 +9695,7 @@ cherishing cherish VBG
 cherries cherry NNS
 cherry cherry JJ cherry NN
 chert chert NN
+chert cherts NNS
 cherts chert NNS
 cherubic cherubic JJ
 chervil chervil NN
@@ -10261,6 +10422,7 @@ clawed claw VBD claw VBN
 clawing claw VBG
 claws claw NNS claw VBZ
 clay clay NN
+clay clays NNS
 clayey clayey JJ
 clays clay NNS
 clean clean JJ clean VB clean VBP
@@ -10758,6 +10920,7 @@ cobbled cobble VBD cobble VBN
 cobbler cobbler NN
 cobblers cobbler NNS
 cobbles cobble NNS cobble VBZ
+cobbles cobbles NN
 cobblestone cobblestone NN
 cobblestones cobblestone NNS
 cobbling cobble VBG
@@ -14514,6 +14677,8 @@ dabs dab NNS dab VBZ
 dace dace NN dace NNS
 dachshund dachshund NN
 dachshunds dachshund NNS
+dacitoid dacitoid NN
+dacitoid dacitoids NNS
 dad dad NN
 daddies daddy NNS
 daddy daddy NN
@@ -16487,6 +16652,8 @@ dhal dhal NN
 dhals dhal NNS
 dharma dharma NN
 dharmas dharma NNS
+diabase diabase NN
+diabase diabases NNS
 diabetes diabetes NN
 diabetic diabetic JJ diabetic NN
 diabetics diabetic NNS
@@ -16558,6 +16725,10 @@ dialysing dialyse VBG
 dialysis dialysis NN
 diameter diameter NN
 diameters diameter NNS
+diamictite diamictite NN
+diamictite diamictites NNS
+diamicton diamicton NN
+diamicton diamictons NNS
 diamond diamond NN
 diamonds diamond NNS
 diamorphine diamorphine NN
@@ -16584,6 +16755,8 @@ diasporas diaspora NNS
 diastole diastole NN
 diastoles diastole NNS
 diastolic diastolic JJ
+diatexite diatexite NN
+diatexite diatexites NNS
 diathermies diathermy NNS
 diathermy diathermy NN
 diatom diatom NN
@@ -16877,6 +17050,8 @@ dioptre dioptre NN
 dioptres dioptre NNS
 diorama diorama NN
 dioramas diorama NNS
+dioritoid dioritoid NN
+dioritoid dioritoids NNS
 dioxide dioxide NN
 dioxides dioxide NNS
 dioxin dioxin NN
@@ -18041,6 +18216,7 @@ dole dole NN dole VB dole VBP
 doled dole VBD dole VBN
 doleful doleful JJ
 dolerite dolerite NN
+dolerite dolerites NNS
 dolerites dolerite NNS
 doles dole NNS dole VBZ
 doling dole VBG
@@ -18056,6 +18232,8 @@ dolly dolly NN
 dolomite dolomite NN
 dolor dolor NN
 dolores dolor NNS
+dolostone dolostone NN
+dolostone dolostones NNS
 dolphin dolphin NN
 dolphins dolphin NNS
 dolt dolt NN
@@ -19044,6 +19222,8 @@ eclipsed eclipse VBD eclipse VBN
 eclipses eclipse NNS eclipse VBZ
 eclipsing eclipse VBG
 ecliptic ecliptic NN
+eclogite eclogite NN
+eclogite eclogites NNS
 eco-system eco-system NN
 eco-systems eco-system NNS
 eco-tourism eco-tourism NN
@@ -23431,6 +23611,7 @@ fling fling NN fling VB fling VBP
 flinging fling VBG
 flings fling NNS fling VBZ
 flint flint NN
+flint flints NNS
 flints flint NNS
 flinty flinty JJ
 flip flip JJ flip VB flip VBP
@@ -23724,6 +23905,12 @@ foggy foggy JJ
 fogs fog NNS fog VBZ
 foible foible NN
 foibles foible NNS
+foidite foidite NN
+foidite foidites NNS
+foiditoid foiditoid NN
+foiditoid foiditoids NNS
+foidolite foidolite NN
+foidolite foidolites NNS
 foil foil NN foil VB foil VBP
 foiled foil VBD foil VBN
 foiling foil VBG
@@ -24876,6 +25063,8 @@ gabbled gabble VBD gabble VBN
 gabbles gabble VBZ
 gabbling gabble VBG
 gabbro gabbro NN
+gabbroid gabbroid NN
+gabbroid gabbroids NNS
 gabbros gabbro NNS
 gable gable NN
 gables gable NNS
@@ -24891,6 +25080,8 @@ gaffer gaffer NN
 gaffers gaffer NNS
 gaffes gaffe NNS
 gag gag NN gag VB gag VBP
+gagate gagate NN
+gagate gagates NNS
 gage gage NN
 gages gage NNS
 gagged gag VBD gag VBN
@@ -25698,6 +25889,8 @@ glaswegian glaswegian JJ
 glaucoma glaucoma NN
 glaucomas glaucoma NNS
 glaucomata glaucoma NNS
+glaucophane-schist glaucophane-schist NN
+glaucophane-schist glaucophane-schists NNS
 glaucous glaucous JJ
 glaze glaze VB glaze VBP
 glazed glaze VBD glaze VBN
@@ -26250,9 +26443,13 @@ grandstand grandstand NN
 grandstands grandstand NNS
 granite granite NN
 granitic granitic JJ
+granitoid granitoid NN
+granitoid granitoids NNS
 grannie granny NN
 grannies granny NNS
 granny granny NN
+granodiorite granodiorite NN
+granodiorite granodiorites NNS
 granola granola NN
 granolas granola NNS
 grant grant NN grant VB grant VBP
@@ -26276,6 +26473,8 @@ granulator granulator NN
 granulators granulator NNS
 granule granule NN
 granules granule NNS
+granulite granulite NN
+granulite granulites NNS
 granulocyte granulocyte NN
 granulocytes granulocyte NNS
 granuloma granuloma NN
@@ -26340,7 +26539,9 @@ gratuity gratuity NN
 grave grave JJ grave NN
 gravedigger gravedigger NN
 gravediggers gravedigger NNS
+gravel gravel NN
 gravel gravel NN gravel VB gravel VBP
+gravel gravels NNS
 graveled gravel VBD gravel VBN
 graveling gravel VBG
 gravelled gravel VBD gravel VBN
@@ -26373,6 +26574,8 @@ grayling grayling NN grayling NNS
 graylings grayling NNS
 grays gray NNS gray VBZ
 grayscale grayscale JJ grayscale NN
+graywacke graywacke NN
+graywacke graywackes NNS
 graze graze NN graze VB graze VBP
 grazed graze VBD graze VBN
 grazer grazer NN
@@ -26424,6 +26627,8 @@ greenlanders greenlanders NNS
 greenlandic greenlandic JJ
 greenness greenness NN
 greens green NNS
+greenschist greenschist NN
+greenschist greenschists NNS
 greenshank greenshank NN
 greenshanks greenshank NNS
 greenstone greenstone NN
@@ -26881,6 +27086,7 @@ gynecologists gynecologist NNS
 gynecology gynecology NN
 gypsies gypsy NNS
 gypsum gypsum NN
+gypsum gypsums NNS
 gypsums gypsum NNS
 gypsy gypsy NN
 gyrate gyrate VB gyrate VBP
@@ -29756,6 +29962,8 @@ impactful impactful JJ
 impacting impact VBG
 impaction impaction NN
 impactions impaction NNS
+impactite impactite NN
+impactite impactites NNS
 impactor impactor NN
 impactors impactor NNS
 impacts impact NNS impact VBZ
@@ -32802,6 +33010,8 @@ kafir kafir NN
 kafirs kafir NNS
 kaiser kaiser NN
 kaisers kaiser NNS
+kakirite kakirite NN
+kakirite kakirites NNS
 kale kale NN
 kaleidoscope kaleidoscope NN
 kaleidoscopes kaleidoscope NNS
@@ -33472,6 +33682,8 @@ lamppost lamppost NN
 lampposts lamppost NNS
 lamprey lamprey NN
 lampreys lamprey NNS
+lamprophyre lamprophyre NN
+lamprophyre lamprophyres NNS
 lamps lamp NNS
 lams lam NNS lam VBZ
 lanai lanai NN
@@ -33570,6 +33782,8 @@ lapdog lapdog NN
 lapdogs lapdog NNS
 lapel lapel NN
 lapels lapel NNS
+lapillistone lapillistone NN
+lapillistone lapillistones NNS
 lapped lap VBD lap VBN
 lapping lap VBG
 laps lap NNS lap VBZ
@@ -33669,6 +33883,8 @@ lathing lathe VBG
 laths lath NNS
 latices latex NNS
 latin latin JJ
+latite latite NN
+latite latites NNS
 latitude latitude NN
 latitudes latitude NNS
 latitudinal latitudinal JJ
@@ -34711,6 +34927,8 @@ literature literature NN
 literatures literature NNS
 liters liter NNS
 lites lite NNS
+litharenite litharenite NN
+litharenite litharenites NNS
 lithe lithe JJ
 lithic lithic JJ
 lithium lithium NN
@@ -36896,6 +37114,8 @@ meta-model metamodel NN
 meta-models metamodel NNS
 meta-search metasearch NN
 meta-searches metasearch NNS
+metabasalt metabasalt NN
+metabasalt metabasalts NNS
 metabolic metabolic JJ
 metabolise metabolise VB metabolise VBP
 metabolised metabolise VBD metabolise VBN
@@ -36914,6 +37134,10 @@ metacognition metacognition NN
 metacognitions metacognition NNS
 metacognitive metacognitive JJ
 metadata metadata NN metadata NNS
+metagabbro metagabbro NN
+metagabbro metagabbros NNS
+metagranite metagranite NN
+metagranite metagranites NNS
 metal metal NN
 metalanguage metalanguage NN
 metalanguages metalanguage NNS
@@ -36942,6 +37166,8 @@ metalworking metalworking NN
 metamorphic metamorphic JJ
 metamorphism metamorphism NN
 metamorphisms metamorphism NNS
+metamorphite metamorphite NN
+metamorphite metamorphites NNS
 metamorphose metamorphose VB metamorphose VBP
 metamorphosed metamorphose VBD metamorphose VBN
 metamorphoses metamorphose VBZ metamorphosis NNS
@@ -36963,6 +37189,8 @@ metapopulation metapopulation NN
 metapopulations metapopulation NNS
 metasearch metasearch NN
 metasearches metasearch NNS
+metasomatite metasomatite NN
+metasomatite metasomatites NNS
 metastable metastable JJ
 metastases metastasis NNS
 metastasis metastasis NN
@@ -36975,6 +37203,8 @@ metatarsal metatarsal JJ metatarsal NN
 metatarsalgia metatarsalgia NN
 metatarsalgias metatarsalgia NNS
 metatarsals metatarsal NNS
+metatexite metatexite NN
+metatexite metatexites NNS
 mete mete NN mete VB mete VBP
 meted mete VBD mete VBN
 meteor meteor NN
@@ -37168,6 +37398,8 @@ microform microform NN
 microforms microform NNS
 microfossil microfossil NN
 microfossils microfossil NNS
+microgabbro microgabbro NN
+microgabbro microgabbros NNS
 microgram microgram NN
 micrograms microgram NNS
 micrograph micrograph NN
@@ -37346,6 +37578,8 @@ might may MD might NN
 mighta might+have MD+VB
 mightn't might+not MD+RB
 mighty mighty JJ mighty RB
+migmatite migmatite NN
+migmatite migmatites NNS
 migraine migraine NN
 migraines migraine NNS
 migrant migrant JJ migrant NN
@@ -38427,6 +38661,12 @@ monument monument NN
 monumental monumental JJ
 monumentality monumentality NN
 monuments monument NNS
+monzodiorite monzodiorite NN
+monzodiorite monzodiorites NNS
+monzogabbro monzogabbro NN
+monzogabbro monzogabbros NNS
+monzonite monzonite NN
+monzonite monzonites NNS
 moo moo VB moo VBP
 mood mood NN
 moodiness moodiness NN
@@ -39131,6 +39371,8 @@ myelomas myeloma NNS
 myelomata myeloma NNS
 myeloproliferative myeloproliferative JJ
 mylar mylar NN
+mylonite mylonite NN
+mylonite mylonites NNS
 myocardia myocardium NNS
 myocardial myocardial JJ
 myocardium myocardium NN
@@ -41106,6 +41348,10 @@ operculum operculum NN
 operculums operculum NNS
 operon operon NN
 operons operon NNS
+ophicalcite ophicalcite NN
+ophicalcite ophicalcites NNS
+ophicarbonate ophicarbonate NN
+ophicarbonate ophicarbonates NNS
 ophthalmic ophthalmic JJ
 ophthalmological ophthalmological JJ
 ophthalmologies ophthalmology NNS
@@ -41418,6 +41664,7 @@ orthodontists orthodontist NNS
 orthodox orthodox JJ
 orthodoxies orthodoxy NNS
 orthodoxy orthodoxy NN
+orthogneiss orthogneiss NN
 orthogonal orthogonal JJ
 orthogonality orthogonality NN
 orthographic orthographic JJ
@@ -42749,6 +42996,7 @@ paraglide paraglide VB paraglide VBP
 paraglided paraglide VBD paraglide VBN
 paraglides paraglide VBZ
 paragliding paraglide VBG paragliding NN
+paragneiss paragneiss NN
 paragon paragon NN
 paragons paragon NNS
 paragraph paragraph NN paragraph VB paragraph VBP
@@ -44271,6 +44519,10 @@ phonogram phonogram NN
 phonograms phonogram NNS
 phonograph phonograph NN
 phonographs phonograph NNS
+phonolite phonolite NN
+phonolite phonolites NNS
+phonolitoid phonolitoid NN
+phonolitoid phonolitoids NNS
 phonological phonological JJ
 phonologies phonology NNS
 phonology phonology NN
@@ -44414,6 +44666,10 @@ phrygian phrygian JJ
 phthalate phthalate NN
 phthalates phthalate NNS
 phyla phylum NNS
+phyllite phyllite NN
+phyllite phyllites NNS
+phyllonite phyllonite NN
+phyllonite phyllonites NNS
 phylogenetic phylogenetic JJ
 phylogenetics phylogenetics NN phylogenetics NNS
 phylogenies phylogeny NNS
@@ -45680,6 +45936,8 @@ porphyrias porphyria NNS
 porphyries porphyry NNS
 porphyrin porphyrin NN
 porphyrins porphyrin NNS
+porphyroid porphyroid NN
+porphyroid porphyroids NNS
 porphyry porphyry NN
 porpoise porpoise NN
 porpoises porpoise NNS
@@ -46040,6 +46298,8 @@ prank prank NN
 pranks prank NNS
 prankster prankster NN
 pranksters prankster NNS
+prasinite prasinite NN
+prasinite prasinites NNS
 prate prate VB prate VBP
 prated prate VBD prate VBN
 prates prate VBZ
@@ -47542,6 +47802,8 @@ pseudonyms pseudonym NNS
 pseudoscience pseudoscience NN
 pseudosciences pseudoscience NNS
 pseudoscientific pseudoscientific JJ
+pseudotachylite pseudotachylite NN
+pseudotachylite pseudotachylites NNS
 psilocybin psilocybin NN
 psoralen psoralen NN
 psoralens psoralen NNS
@@ -48005,6 +48267,8 @@ pyrimidines pyrimidine NNS
 pyrite pyrite NN
 pyrites pyrite NNS
 pyroclastic pyroclastic JJ
+pyroclastics pyroclastics NN
+pyroclasts pyroclasts NN
 pyrolyses pyrolysis NNS
 pyrolysis pyrolysis NN
 pyrophosphate pyrophosphate NN
@@ -48013,6 +48277,8 @@ pyrotechnic pyrotechnic JJ
 pyrotechnics pyrotechnics NN pyrotechnics NNS
 pyroxene pyroxene NN
 pyroxenes pyroxene NNS
+pyroxenite pyroxenite NN
+pyroxenite pyroxenites NNS
 pyrrole pyrrole NN
 pyrroles pyrrole NNS
 pyruvate pyruvate NN
@@ -48160,6 +48426,8 @@ quartz quartz NN
 quartzes quartz NNS
 quartzite quartzite NN
 quartzites quartzite NNS
+quartzolite quartzolite NN
+quartzolite quartzolites NNS
 quasar quasar NN
 quasars quasar NNS
 quash quash VB quash VBP
@@ -48434,6 +48702,8 @@ radiography radiography NN
 radioing radio VBG
 radioisotope radioisotope NN
 radioisotopes radioisotope NNS
+radiolarite radiolarite NN
+radiolarite radiolarites NNS
 radiologic radiologic JJ
 radiological radiological JJ
 radiologies radiology NNS
@@ -48773,7 +49043,13 @@ rattles rattle VBZ
 rattlesnake rattlesnake NN
 rattlesnakes rattlesnake NNS
 rattling rattle VBG
+rauchwacke rauchwacke NN
+rauchwacke rauchwackes NNS
 raucous raucous JJ
+rauhwacke rauhwacke NN
+rauhwacke rauhwackes NNS
+rauwacke rauwacke NN
+rauwacke rauwackes NNS
 ravage ravage VB ravage VBP
 ravaged ravage VBD ravage VBN
 ravages ravage VBZ
@@ -52447,6 +52723,8 @@ rhymes rhyme NNS rhyme VBZ
 rhyming rhyme VBG
 rhyolite rhyolite NN
 rhyolites rhyolite NNS
+rhyolithoid rhyolithoid NN
+rhyolithoid rhyolithoids NNS
 rhythm rhythm NN
 rhythmic rhythmic JJ
 rhythmical rhythmical JJ
@@ -54145,6 +54423,7 @@ screamers screamer NNS
 screaming scream VBG
 screams scream NNS scream VBZ
 scree scree NN
+scree screes NNS
 screech screech NN screech VB screech VBP
 screeched screech VBD screech VBN
 screeches screech NNS screech VBZ
@@ -54509,6 +54788,7 @@ sedentary sedentary JJ
 sedge sedge NN
 sedges sedge NNS
 sediment sediment NN
+sediment sediments NNS
 sedimentary sedimentary JJ
 sedimentation sedimentation NN
 sedimentations sedimentation NNS
@@ -55103,6 +55383,8 @@ serotypes serotype NNS
 serous serous JJ
 serpent serpent NN
 serpentine serpentine JJ
+serpentinite serpentinite NN
+serpentinite serpentinites NNS
 serpents serpent NNS
 serrate serrate VB serrate VBP
 serrated serrate VBD serrate VBN
@@ -56281,6 +56563,8 @@ sizzle sizzle VB sizzle VBP
 sizzled sizzle VBD sizzle VBN
 sizzles sizzle VBZ
 sizzling sizzle VBG
+skarn skarn NN
+skarn skarns NNS
 skate skate NN skate VB skate VBP
 skateboard skateboard NN
 skateboards skateboard NNS
@@ -57788,6 +58072,8 @@ spikelets spikelet NNS
 spikes spike NNS spike VBZ
 spiking spike VBG
 spiky spiky JJ
+spilite spilite NN
+spilite spilites NNS
 spill spill NN spill VB spill VBP
 spill-over spillover NN
 spill-overs spillover NNS
@@ -59378,6 +59664,7 @@ sub-divide sub-divide VB sub-divide VBP
 sub-divided sub-divide VBD sub-divide VBN
 sub-divides sub-divide VBZ
 sub-dividing sub-divide VBG
+sub-period sub-period NN
 sub-theme sub-theme NN
 sub-themes sub-theme NNS
 subacute subacute JJ
@@ -59896,6 +60183,7 @@ suntan suntan NN
 suntans suntan NNS
 sup sup NN sup VB sup VBP
 super super JJ
+super-eon super-eon NN
 superb superb JJ
 supercede supercede VB supercede VBP
 superceded supercede VBD supercede VBN
@@ -59914,6 +60202,7 @@ supercooling supercool VBG
 supercools supercool VBZ
 supercritical supercritical JJ
 superefficient superefficient JJ
+supereon supereon NN
 superfast superfast JJ
 superficial superficial JJ
 superficialities superficiality NNS
@@ -60434,6 +60723,10 @@ sycamores sycamore NNS
 sycophant sycophant NN
 sycophantic sycophantic JJ
 sycophants sycophant NNS
+syenite syenite NN
+syenite syenites NNS
+syenitoid syenitoid NN
+syenitoid syenitoids NNS
 syllabi syllabus NNS
 syllabic syllabic JJ
 syllable syllable NN
@@ -60809,6 +61102,7 @@ tall tall JJ
 tallied tally VBD tally VBN
 tallies tally NNS tally VBZ
 tallow tallow NN
+tallus tallus NN
 tally tally NN tally VB tally VBP
 tallying tally VBG
 talmudic talmudic JJ
@@ -61403,6 +61697,12 @@ tenures tenure VBZ
 tenuring tenure VBG
 tepee tepee NN
 tepees tepee NNS
+tephra tephra NN
+tephra tephras NNS
+tephrite tephrite NN
+tephrite tephrites NNS
+tephritoid tephritoid NN
+tephritoid tephritoids NNS
 tepid tepid JJ
 tequila tequila NN
 teraampere teraampere NN
@@ -62448,6 +62748,8 @@ tomorrow tomorrow NN tomorrow RB
 tomorrows tomorrow NNS
 ton ton NN
 tonal tonal JJ
+tonalite tonalite NN
+tonalite tonalites NNS
 tonalities tonality NNS
 tonality tonality NN
 tone tone NN tone VB tone VBP
@@ -62785,6 +63087,10 @@ tracheotomies tracheotomy NNS
 tracheotomy tracheotomy NN
 trachoma trachoma NN
 trachomata trachoma NNS
+trachyte trachyte NN
+trachyte trachytes NNS
+trachytoid trachytoid NN
+trachytoid trachytoids NNS
 tracing trace VBG tracing NN
 tracings tracing NNS
 track track NN track VB track VBP
@@ -63226,6 +63532,7 @@ traversed traverse VBD traverse VBN
 traverses traverse NNS traverse VBZ
 traversing traverse VBG
 travertine travertine NN
+travertine travertines NNS
 travertines travertine NNS
 travesties travesty NNS
 travesty travesty NN
@@ -63771,6 +64078,8 @@ tuesdays tuesday NNS
 tufa tufa NN
 tufas tufa NNS
 tuff tuff NN
+tuffite tuffite NN
+tuffite tuffites NNS
 tuffs tuff NNS
 tuft tuft NN
 tufted tufted JJ
@@ -65978,6 +66287,8 @@ vulval vulval JJ
 vulvas vulva NNS
 vying vie VBG
 wack wack NN
+wacke wacke NN
+wacke wackes NNS
 wacks wack NNS
 wacky wacky JJ
 wad wad NN wad VB wad VBP
@@ -66827,6 +67138,8 @@ whitens whiten VBZ
 whiteout whiteout NN
 whiteouts whiteout NNS
 whites white NNS
+whiteschist whiteschist NN
+whiteschist whiteschists NNS
 whitethroat whitethroat NN
 whitethroats whitethroat NNS
 whitewalled whitewalled JJ
