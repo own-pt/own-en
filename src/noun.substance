@@ -2940,7 +2940,7 @@ hypo: noun.Tops:causal_agency
 hypo: noun.Tops:substance[1]
 
 w: agglomerate drf adj.all:agglomerate drf verb.contact:agglomerate
-d: agglomerate is a pyroclastic rock comprising >75% volcanic bombs (diameter >64mm), which has been at least partially molten during formation or transport
+d: agglomerate is a pyroclastic rock comprising >75% volcanic bombs (diameter >64 mm), which has been at least partially molten during formation or transport
 hypo: pyroclastic_rock
 mt: noun.cognition:lithology
 
@@ -2948,6 +2948,7 @@ w: agglutinin
 d: an antibody that causes agglutination of a specific antigen
 hyper: isoagglutinin
 hypo: antibody
+mt: noun.cognition:lithology
 
 w: agglutinogen
 d: any substance that acts as an antigen to cause agglutinin production
@@ -4246,7 +4247,7 @@ hyper: fly_ash
 hypo: residue
 
 w: ash[2]
-d: unconsolidated pyroclastic deposit in which >75% of the material has a grain size <2mm
+d: unconsolidated pyroclastic deposit in which >75% of the material has a grain size <2 mm
 hypo: tephra
 mt: noun.cognition:lithology
 
@@ -5047,13 +5048,13 @@ hypo: poison_gas
 hypo: vesicant
 
 w: block_tephra
-d: an unconsolidated pyroclastic deposit, more than 75% of which is composed of volcanic blocks (diameter >64mm)
+d: an unconsolidated pyroclastic deposit, more than 75% of which is composed of volcanic blocks (diameter >64 mm)
 hypo: tephra
 mt: noun.cognition:lithology
 
 w: block_size_sediment
 w: blocks
-d: a clastic sediment with a median grain size >200mm
+d: a clastic sediment with a median grain size >200 mm
 hypo: clastic_sediment
 mt: noun.cognition:lithology
 
@@ -5652,7 +5653,7 @@ hypo: carbonate_sediment
 mt: noun.cognition:lithology
 
 w: calcareous_sand
-d: a mixed carbonate-clastic sediment in which the clastic portion is restricted to sand-sized components; consists of 25-50% calcite and 50-75% sand
+d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 25-50% calcite and 50-75% sand
 hypo: clastic_sediment
 ms: calcite
 mt: noun.cognition:lithology
@@ -5677,12 +5678,12 @@ hypo: quartz
 hypo: transparent_gem
 
 w: calciarenite
-d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063mm and 2mm; interstices are filled with carbonate mud or cement
+d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.063 and 2 mm; interstices are filled with carbonate mud or cement
 hypo: limestone
 mt: noun.cognition:lithology
 
 w: calcilutite
-d: a limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004mm
+d: a limestone consisting predominantly (> 50%) of carbonate mud or detrital particles < 0.004 mm
 hypo: limestone
 mt: noun.cognition:lithology
 
@@ -5692,7 +5693,7 @@ hypo: limestone
 mt: noun.cognition:lithology
 
 w: calcisiltite
-d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004mm and 0.063mm; interstices are filled with carbonate mud or cement
+d: a limestone consisting predominantly (> 50%) of rounded detrital calcite particles (either bigenetic or non-biogenetic) between 0.004 and 0.063 mm; interstices are filled with carbonate mud or cement
 hypo: limestone
 mt: noun.cognition:lithology
 
@@ -7060,7 +7061,7 @@ hypo: dirt[1]
 ms: Si
 
 w: clay[3]
-d: a clastic sediment with a median grain size <0.002mm
+d: a clastic sediment with a median grain size <0.002 mm
 hypo: clastic_sediment
 mt: noun.cognition:lithology
 
@@ -7171,7 +7172,7 @@ hypo: sand
 mt: noun.cognition:lithology
 
 w: coarse_sandstone
-d: a sandstone with a median grain size between 0.63mm and 2mm
+d: a sandstone with a median grain size between 0.63 and 2 mm
 hypo: sandstone
 mt: noun.cognition:lithology
 
@@ -7181,7 +7182,7 @@ hypo: silt
 mt: noun.cognition:lithology
 
 w: coarse_siltstone
-d: a siltstone with a median grain size between 0.02mm and 0.063mm
+d: a siltstone with a median grain size between 0.0063 and 0.02 mm
 hypo: siltstone
 mt: noun.cognition:lithology
 
@@ -9419,7 +9420,7 @@ hypo: silt
 mt: noun.cognition:lithology
 
 w: fine_siltstone
-d: a siltstone with a median grain size between 0.002mm and 0.0063mm
+d: a siltstone with a median grain size between 0.002 and 0.0063 mm
 hypo: siltstone
 mt: noun.cognition:lithology
 
@@ -10637,7 +10638,7 @@ hypo: schist
 mt: noun.cognition:lithology
 
 w: gravel[2]
-d: a clastic sedimentary rock that contains >50% rounded mineral and rock fragments with a median grain size >2mm
+d: a clastic sedimentary rock that contains >50% rounded mineral and rock fragments with a median grain size >2 mm
 hyper: coarse_gravel
 hyper: fine_gravel
 hyper: medium_gravel
@@ -13150,17 +13151,17 @@ hypo: noun.Tops:substance
 mt: noun.cognition:biological_science
 
 w: medium_gravel
-d: a clastic sedimentary rock that contains >50% rounded mineral and rock fragments with a median grain size between 6.3mm and 20mm
+d: a clastic sedimentary rock that contains >50% rounded mineral and rock fragments with a median grain size between 6.3 mm and 20 mm
 hypo: gravel
 mt: noun.cognition:lithology
 
 w: medium_sand
-d: a clastic sediment with a median grain size between 0.2mm and 0.63mm
+d: a clastic sediment with a median grain size between 0.2mm and 0.63 mm
 hypo: sand
 mt: noun.cognition:lithology
 
 w: medium_sandstone
-d: a sandstone with a median grain size between 0.2mm and 0.63mm
+d: a sandstone with a median grain size between 0.2 and 0.63 mm
 hypo: sandstone
 mt: noun.cognition:lithology
 
@@ -13170,7 +13171,7 @@ hypo: silt
 mt: noun.cognition:lithology
    
 w: medium_siltstone
-d: a siltstone with a median grain size between 0.0063mm and 0.02mm
+d: a siltstone with a median grain size between 0.0063 and 0.02 mm
 hypo: siltstone
 mt: noun.cognition:lithology
 
@@ -16212,7 +16213,7 @@ hs: Ballistite
 hypo: cellulose_nitrate
 
 w: pyroclastic_breccia
-d: pyroclastic rock with more than 75% angular blocks (diameter >64mm)
+d: pyroclastic rock with more than 75% angular blocks (diameter >64 mm)
 hypo: pyroclastic_rock
 mt: noun.cognition:lithology
 
@@ -17073,7 +17074,7 @@ ms: Si
 mt: noun.cognition:lithology
 
 w: sandstone
-d: a clastic sedimentary rock with a median grain size between 0.063mm and 2mm
+d: a clastic sedimentary rock with a median grain size between 0.063 and 2 mm
 hyper: noun.object:firestone
 hyper: noun.object:holystone
 hyper: arenite
@@ -17089,7 +17090,7 @@ hypo: clastic_sedimentary_rock
 mt: noun.cognition:lithology
 
 w: sandy_lime
-d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 50% to 75% calcite and 25% to 50% sand
+d: a mixed carbonate-clastic sediment in which the clastic portion is restricted to sand-sized components; consists of 50% to 75% calcite and 25% to 50% sand
 hypo: carbonate_sediment
 ms: calcite
 ms: sand
@@ -18983,7 +18984,7 @@ d: an amino acid that occurs in proteins; is essential for growth and normal met
 hypo: essential_amino_acid
 
 w: tuff_breccia
-d: pyroclastic rock with bombs/blocks (diameter >64mm) in the range of 25% to 75%
+d: pyroclastic rock with bombs/blocks (diameter >64 mm) in the range of 25% to 75%
 hypo: pyroclastic_rock
 mt: noun.cognition:lithology
 
