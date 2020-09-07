@@ -15846,7 +15846,7 @@ ms: groundmass
 w: porphyroid
 d: metamorphosed volcanic rocks  of usually acid to intermediate chemistry (ignimbrite, tuff, tuffite) with porphyroblasts in a fine-grained groudmass
 hypo: volcanic_rock
-mt: noun.cognition:lithology   
+mt: noun.cognition:lithology
 
 w: porpoise_oil
 d: a yellow fatty oil obtained from porpoises and used as a fine lubricant
@@ -17090,7 +17090,7 @@ hypo: clastic_sedimentary_rock
 mt: noun.cognition:lithology
 
 w: sandy_lime
-d: a mixed carbonate-clastic rock in which the clastic portion is restricted to sand-sized components; consists of 50% to 75% calcite and 25% to 50% sand
+d: a mixed carbonate-clastic sediment in which the clastic portion is restricted to sand-sized components; consists of 50% to 75% calcite and 25% to 50% sand
 hypo: carbonate_sediment
 ms: calcite
 ms: sand
