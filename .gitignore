@@ -73,3 +73,4 @@ test2/index.noun
 test2/index.sense
 test2/index.verb
 .DS_Store
+etc/sensemap.tsv~
